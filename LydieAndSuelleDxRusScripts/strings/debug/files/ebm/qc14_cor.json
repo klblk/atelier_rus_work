@@ -1,0 +1,2656 @@
+{
+  "version": 1,
+  "source": "pack01_ebm",
+  "block": "qc14_cor",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "ebm:qc14_cor/event_message_qc14_cor_010.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_010.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Hello, Sue. Will you join me in some grocery shopping?",
+      "translation": "Привет, Сью. Присоединишься ли ты ко мне в поход за продуктами?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_010.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_010.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Of course! Hehe, a great chance to pick up some more snacks, too.",
+      "translation": "Конечно! Хе-хе, отличный шанс купить еще чего-нибудь перекусить."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_010.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_010.ebm",
+      "index": 2,
+      "speaker": "???",
+      "original": "I see. I think I understand, then. This could be called an opportunity.",
+      "translation": "Я понимаю. Тогда я думаю, что понимаю. Это можно назвать возможностью."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_010.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_010.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Hey. Those are some unusual clothes...",
+      "translation": "Привет. Какая-то необычная одежда..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_010.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_010.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "You're right. I wonder where she's from?",
+      "translation": "Ты прав. Интересно, откуда она?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_010.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_010.ebm",
+      "index": 5,
+      "speaker": "???",
+      "original": "What about that other business?",
+      "translation": "А что насчет того другого дела?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_010.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_010.ebm",
+      "index": 6,
+      "speaker": "Peddler ",
+      "original": "Ah! Well, I'm sorry to report, but we're having some issues with selecting a location...",
+      "translation": "Ах! Извините, что сообщаю, но у нас возникли некоторые проблемы с выбором места..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_010.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_010.ebm",
+      "index": 7,
+      "speaker": "???",
+      "original": "I see. Will you please get it done as quickly as you can?",
+      "translation": "Я понимаю. Не могли бы вы сделать это как можно быстрее?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_010.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_010.ebm",
+      "index": 8,
+      "speaker": "???",
+      "original": "For our future plans, the acquisition of the land is a most important starting step.",
+      "translation": "Для наших планов на будущее приобретение земли является наиболее важным стартовым шагом."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_010.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_010.ebm",
+      "index": 9,
+      "speaker": "Peddler ",
+      "original": "V-Very well! All understood, boss!",
+      "translation": "В-Очень хорошо! Все понял, босс!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_010.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_010.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Boss? I guess that means she's someone important.",
+      "translation": "Босс? Я думаю, это означает, что она кто-то важный."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_010.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_010.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "I've got it! All that talk of plans... She's a boss of some secret organization!",
+      "translation": "Я понял! Все эти разговоры о планах... Она босс какой-то секретной организации!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_010.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_010.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "Hahaha... You've been reading too many comics again, Sue...",
+      "translation": "Ха-ха-ха... Ты снова прочитала слишком много комиксов, Сью..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_020.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_020.ebm",
+      "index": 0,
+      "speaker": "???",
+      "original": "Phew. Finally, everything is ready.",
+      "translation": "Уф. Наконец, все готово."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_020.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_020.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Sue, look. It's that woman we saw!",
+      "translation": "Сью, посмотри. Это та женщина, которую мы видели!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_020.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_020.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Wow, you're right. The boss of a secret organization!",
+      "translation": "Вау, ты прав. Босс секретной организации!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_020.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_020.ebm",
+      "index": 3,
+      "speaker": "???",
+      "original": "Excuse me, sorry, but I've no recollection of starting any secret organizations.",
+      "translation": "Простите, извините, но я не припоминаю, чтобы создавал какие-либо секретные организации."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_020.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_020.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Uwah, you heard that? Sorry! Come on, Sue, you apologize too!",
+      "translation": "Увау, ты это слышал? Извини! Да ладно, Сью, ты тоже извинись!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_020.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_020.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Ah, sorry. I just remember someone calling you \"boss\" and, you know...",
+      "translation": "Ах, извини. Я просто помню, как кто-то назвал тебя \"боссом\", и, знаешь..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_020.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_020.ebm",
+      "index": 6,
+      "speaker": "???",
+      "original": "I see. I need to tell my subordinates to be more careful with what they call me.",
+      "translation": "Я понимаю. Мне нужно сказать своим подчиненным, чтобы они были более осторожны с тем, как они меня называют."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_020.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_020.ebm",
+      "index": 7,
+      "speaker": "Corneria",
+      "original": "Ah, sorry. I'm Corneria. Boss - that is, head - of the Corneria Enterprise.",
+      "translation": "Ах, извини. Я Корнерия. Босс - то есть руководитель - предприятия Корнерия."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_020.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_020.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Corneria? We're...",
+      "translation": "Корнерия? Были..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_020.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_020.ebm",
+      "index": 9,
+      "speaker": "Corneria",
+      "original": "Lydie and Sue, I take it?",
+      "translation": "Лиди и Сью, я так понимаю?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_020.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_020.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Suelle is my name. Everyone just calls me Sue.",
+      "translation": "Сюэль — моё имя. Все зовут меня просто Сью."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_020.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_020.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "Hahaha, yeah, Lydie and Sue it is. Nice to meet you.",
+      "translation": "Ха-ха-ха, да, это Лиди и Сью. Рад встрече."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_020.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_020.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "One thing, Miss Corneria... Just what is it that your Enterprise does?",
+      "translation": "Еще одно, мисс Корнерия... Чем занимается ваше «Энтерпрайз»?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_020.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_020.ebm",
+      "index": 13,
+      "speaker": "Corneria",
+      "original": "The way you say that, I have to say, it takes me back!",
+      "translation": "То, как ты это говоришь, должен сказать, возвращает меня назад!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_020.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_020.ebm",
+      "index": 14,
+      "speaker": "Corneria",
+      "original": "The Corneria Enterprise is the name of my shop. It's actually quite famous, in other lands.",
+      "translation": "«Корнерия Энтерпрайз» — это название моего магазина. На самом деле он довольно известен в других странах."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_020.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_020.ebm",
+      "index": 15,
+      "speaker": "Corneria",
+      "original": "So I'm here doing some market research in order to expand into Adalet.",
+      "translation": "Итак, я провожу исследование рынка, чтобы выйти на Adalet."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_020.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_020.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "Wow... I thought the boss just sat at a desk and looked at documents!",
+      "translation": "Ого... Я думал, начальник просто сидит за столом и смотрит документы!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_020.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_020.ebm",
+      "index": 17,
+      "speaker": "Lydie",
+      "original": "Hey, Sue! I'm sorry for my sister, she really is...",
+      "translation": "Привет, Сью! Мне жаль мою сестру, она правда..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_020.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_020.ebm",
+      "index": 18,
+      "speaker": "Corneria",
+      "original": "No, it's fine. In fact, most of the time, that's precisely what happens.",
+      "translation": "Нет, все в порядке. На самом деле, в большинстве случаев именно это и происходит."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_020.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_020.ebm",
+      "index": 19,
+      "speaker": "Corneria",
+      "original": "However, a move to a new market is best to be seen through by yourself.",
+      "translation": "Однако переход на новый рынок лучше всего продумывать самостоятельно."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_020.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_020.ebm",
+      "index": 20,
+      "speaker": "Corneria",
+      "original": "I'm just about to open a street stall to check the market for myself!",
+      "translation": "Я как раз собираюсь открыть уличный ларек, чтобы лично проверить рынок!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_020.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_020.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "Ah, that makes sense. In which case, will you show us what you are selling?",
+      "translation": "Ах, это имеет смысл. В таком случае вы покажете нам, что продаете?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_020.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_020.ebm",
+      "index": 22,
+      "speaker": "Corneria",
+      "original": "Yes, of course. I've got plenty of confidence in my lineup, I can tell you that!",
+      "translation": "Да, конечно. Я очень уверен в своем составе, могу вам это сказать!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_030.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_030.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Uwah! Your shop is packed with some of the best items I've seen!",
+      "translation": "Ува! В вашем магазине полно лучших товаров, которые я когда-либо видел!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_030.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_030.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Tell me about it. We could do some real fine synthesizing with some of those goodies!",
+      "translation": "Расскажи мне об этом. Мы могли бы сделать отличный синтез с некоторыми из этих вкусностей!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_030.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_030.ebm",
+      "index": 2,
+      "speaker": "Corneria",
+      "original": "Synthesizing? Could it be that you are both alchemists?",
+      "translation": "Синтезирующий? Может быть, вы оба алхимики?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_030.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_030.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "That's right. I guess you could tell that from hearing \"synthesizing.\"",
+      "translation": "Это верно. Я думаю, вы могли бы сказать это, услышав слово «синтез»."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_030.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_030.ebm",
+      "index": 4,
+      "speaker": "Corneria",
+      "original": "But of course. I see, so you're alchemists?",
+      "translation": "Но конечно. Понятно, так вы алхимики?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_030.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_030.ebm",
+      "index": 5,
+      "speaker": "Corneria",
+      "original": "This might be a good business opportunity! Hehehe!",
+      "translation": "Это может быть хорошей возможностью для бизнеса! Хе-хе-хе!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_030.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_030.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "I'm sure she just gave me a really creepy smile. No, I'm just imagining things, right?",
+      "translation": "Я уверен, что она только что одарила меня жуткой улыбкой. Нет, я просто воображаю, да?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_040.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_040.ebm",
+      "index": 0,
+      "speaker": "Corneria",
+      "original": "Hmm... What to do now?",
+      "translation": "Хм... Что теперь делать?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_040.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_040.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Corneria, do you have a problem? Maybe we can help you!",
+      "translation": "Корнерия, у тебя проблемы? Возможно, мы сможем вам помочь!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_040.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_040.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "We solve problems for everyone in the city! At least, that's what we tell ourselves.",
+      "translation": "Решаем проблемы каждого жителя города! По крайней мере, так мы говорим себе."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_040.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_040.ebm",
+      "index": 3,
+      "speaker": "Corneria",
+      "original": "Hehe, is that so? In which case, let me try out your services.",
+      "translation": "Хе-хе, это так? В таком случае позвольте мне опробовать ваши услуги."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_040.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_040.ebm",
+      "index": 4,
+      "speaker": "Corneria",
+      "original": "I want to bring in new products from my hometown, but it's a bit too far away.",
+      "translation": "Я хочу привезти новинки из моего родного города, но он слишком далеко."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_040.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_040.ebm",
+      "index": 5,
+      "speaker": "Corneria",
+      "original": "Watches and autographs are one thing, but cakes and vegetables won't last the trip.",
+      "translation": "Часы и автографы – это одно, а тортов и овощей в поездке не хватит."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_040.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_040.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "I see. I wonder if we could do something with alchemy? Like, a portable ice room?",
+      "translation": "Я понимаю. Интересно, сможем ли мы сделать что-нибудь с помощью алхимии? Типа, портативная ледяная комната?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_040.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_040.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Oh, good idea. That would stop things from spoiling!",
+      "translation": "О, хорошая идея. Это предотвратит порчу вещей!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_040.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_040.ebm",
+      "index": 8,
+      "speaker": "Corneria",
+      "original": "Yes. That sounds like quite a good idea. Can I hire you to make that?",
+      "translation": "Да. Это звучит как неплохая идея. Могу ли я нанять вас, чтобы это сделать?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_040.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_040.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Yes, leave it to us! We'll make it so you can bring in all the delicious cakes!",
+      "translation": "Да, оставьте это нам! Мы сделаем так, чтобы вы могли принести с собой все вкусные пирожные!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_040.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_040.ebm",
+      "index": 10,
+      "speaker": "Corneria",
+      "original": "Ah, well, this is about more than cakes... no matter. I'll just wait and see what you manage.",
+      "translation": "Ах, ну, это не только торты... неважно. Я просто подожду и посмотрю, что у тебя получится."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_050.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_050.ebm",
+      "index": 0,
+      "speaker": "Corneria",
+      "original": "Oh, it's cold! I could even carry raw meat around using this!",
+      "translation": "Ой, холодно! Я мог бы даже носить с собой сырое мясо!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_050.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_050.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "That's great! Now we'll get all the cakes!",
+      "translation": "Замечательно! Теперь мы достанем все лепешки!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_050.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_050.ebm",
+      "index": 2,
+      "speaker": "Corneria",
+      "original": "Hehe, I do have to thank you somehow, don't I? What would be a fitting reward?",
+      "translation": "Хе-хе, мне ведь нужно как-то тебя отблагодарить, не так ли? Какая награда будет достойной?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_050.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_050.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Y-You don't have to do anything special, please. We don't need anything...",
+      "translation": "Д-тебе не нужно делать ничего особенного, пожалуйста. Нам ничего не нужно..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_050.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_050.ebm",
+      "index": 4,
+      "speaker": "Corneria",
+      "original": "Trust is an important part of my business. I need to thank you somehow...",
+      "translation": "Доверие — важная часть моего бизнеса. Мне нужно как-то отблагодарить тебя..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_050.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_050.ebm",
+      "index": 5,
+      "speaker": "Corneria",
+      "original": "Ah, I know what to do! I'll start my volume retail service!",
+      "translation": "Ах, я знаю, что делать! Я начну оказывать оптовую розничную торговлю!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_050.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_050.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "Volume retail? What's that?",
+      "translation": "Объем розничной торговли? Что это такое?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_050.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_050.ebm",
+      "index": 7,
+      "speaker": "Corneria",
+      "original": "Here's the thing. I have a unique ability. Sue, will you lend me an item for a moment?",
+      "translation": "Вот в чем дело. У меня есть уникальная способность. Сью, одолжишь мне на минутку какую-нибудь вещь?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_050.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_050.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Sure. Here, what about this?",
+      "translation": "Конечно. Вот, а что насчет этого?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_050.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_050.ebm",
+      "index": 9,
+      "speaker": "Corneria",
+      "original": "Thank you. Haaaha, teyaaah! There, what do you think?",
+      "translation": "Спасибо. Хаааа, теяаа! Вот, что ты думаешь?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_050.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_050.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "What! It multiplied? Are you some kind of magician?",
+      "translation": "Что! Оно размножилось? Ты какой-то волшебник?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_050.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_050.ebm",
+      "index": 11,
+      "speaker": "Corneria",
+      "original": "No, this is my power. I have the ability to copy objects.",
+      "translation": "Нет, это моя сила. У меня есть возможность копировать объекты."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_050.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_050.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "Copy objects? I can't believe it. How is such a thing even possible?",
+      "translation": "Копировать объекты? Я не могу в это поверить. Как такое вообще возможно?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_050.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_050.ebm",
+      "index": 13,
+      "speaker": "Corneria",
+      "original": "It's a very rare power, apparently. It's made me very popular.",
+      "translation": "Судя по всему, это очень редкая сила. Это сделало меня очень популярным."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_050.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_050.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "I bet! Being able to copy items out of thin air like that? That's almost too convenient!",
+      "translation": "Бьюсь об заклад! Уметь копировать предметы из воздуха таким образом? Это почти слишком удобно!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_050.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_050.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "Very well, Corneria. Can we ask you to provide us with that volume retail, too?",
+      "translation": "Очень хорошо, Корнерия. Можем ли мы попросить вас предоставить нам и такой объем розничной торговли?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_050.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_050.ebm",
+      "index": 16,
+      "speaker": "Corneria",
+      "original": "Yes, of course. I'll give your requests priority, so feel free to pile them on me! No problem!",
+      "translation": "Да, конечно. Я отдам вашим запросам приоритет, так что смело перекладывайте их на меня! Без проблем!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_050.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_050.ebm",
+      "index": 17,
+      "speaker": "System",
+      "original": "<CLEG>[Tutorial] ~Volume Retail~<CLNR>",
+      "translation": "<CLEG>[Учебное пособие] ~Оптовая розничная торговля~<CLNR>"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_050.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_050.ebm",
+      "index": 18,
+      "speaker": "System",
+      "original": "At Corneria's shop, you can have her increase the count of your items.",
+      "translation": "В магазине Корнерии вы можете попросить ее увеличить количество ваших предметов."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_050.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_050.ebm",
+      "index": 19,
+      "speaker": "System",
+      "original": "This is done by copying items you already have. Their quality and properties will be identical.",
+      "translation": "Это делается путем копирования уже имеющихся у вас элементов. Их качество и свойства будут идентичными."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_050.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_050.ebm",
+      "index": 20,
+      "speaker": "System",
+      "original": "Register the item you want and after a short while it will appear on the shelves.",
+      "translation": "Зарегистрируйте нужный товар и через некоторое время он появится на прилавках."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_050.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_050.ebm",
+      "index": 21,
+      "speaker": "System",
+      "original": "<CLR1>Using this service may prove a shortcut to becoming a truly great alchemist. Maybe!<CLNR>",
+      "translation": "<CLR1>Использование этой услуги может оказаться кратчайшим путем к тому, чтобы стать по-настоящему великим алхимиком. Возможно!<CLNR>"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_060.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_060.ebm",
+      "index": 0,
+      "speaker": "Corneria",
+      "original": "Phew...",
+      "translation": "Уф..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_060.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_060.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Hello, Corneria. Business seems to be booming!",
+      "translation": "Привет, Корнерия. Кажется, бизнес процветает!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_060.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_060.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Hehehe! Is this because you've been bringing in those new products?",
+      "translation": "Хе-хе-хе! Это потому, что вы вводите эти новые продукты?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_060.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_060.ebm",
+      "index": 3,
+      "speaker": "Corneria",
+      "original": "Yes. They're a big part of it. But my volume retail service is proving even more popular.",
+      "translation": "Да. Они — большая часть этого. Но мои оптовые розничные услуги становятся еще более популярными."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_060.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_060.ebm",
+      "index": 4,
+      "speaker": "Corneria",
+      "original": "I've limited the amount allowed to be copied each day, but I'm still packed with customers!",
+      "translation": "Я ограничил количество копий, которое можно копировать каждый день, но у меня по-прежнему полно клиентов!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_060.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_060.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "You've had to place a limit? I guess you can't be too convenient.",
+      "translation": "Вам приходилось устанавливать лимит? Я думаю, ты не можешь быть слишком удобным."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_060.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_060.ebm",
+      "index": 6,
+      "speaker": "Corneria",
+      "original": "No, it's a question of my basic nature. If I copy too many things, well, it won't be pretty...",
+      "translation": "Нет, это вопрос моей основной природы. Если я скопирую слишком много вещей, это будет некрасиво..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_060.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_060.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Not pretty? What do you mean?",
+      "translation": "Некрасиво? Что ты имеешь в виду?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_060.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_060.ebm",
+      "index": 8,
+      "speaker": "Corneria",
+      "original": "Hehe, that's still a secret. Keep on shopping here and eventually I'll tell you.",
+      "translation": "Хе-хе, это пока секрет. Продолжайте делать покупки здесь, и в конце концов я вам расскажу."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_060.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_060.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Gah, trying to run away? One thing, though, Corneria. Just don't push yourself too hard, alright?",
+      "translation": "Га, пытаешься убежать? Но кое-что, Корнерия. Только не напрягай себя слишком сильно, ладно?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_060.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_060.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "That's right. If you collapse from overwork then this will be all for nothing, after all!",
+      "translation": "Это верно. Если ты упадешь от переутомления, то ведь все это будет напрасно!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_060.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_060.ebm",
+      "index": 11,
+      "speaker": "Corneria",
+      "original": "Yes, I will be careful. This Ranking System, though, is a big business opportunity!",
+      "translation": "Да, я буду осторожен. Однако эта рейтинговая система представляет собой большую возможность для бизнеса!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_060.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_060.ebm",
+      "index": 12,
+      "speaker": "Corneria",
+      "original": "I need to work hard, in order to make my enterprise even bigger!",
+      "translation": "Мне нужно много работать, чтобы мое предприятие стало еще больше!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_060.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_060.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "Corneria?...",
+      "translation": "Корнерия?..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_070.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_070.ebm",
+      "index": 0,
+      "speaker": "Drossel",
+      "original": "I can't find the shop they were talking about. Gah, where is it?",
+      "translation": "Я не могу найти магазин, о котором они говорили. Га, где это?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_070.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_070.ebm",
+      "index": 1,
+      "speaker": "Drossel",
+      "original": "Aaaaaah!",
+      "translation": "Ааааа!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_070.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_070.ebm",
+      "index": 2,
+      "speaker": "Corneria",
+      "original": "S-Sorry? What made you shout like that?",
+      "translation": "П-Извините? Что заставило тебя так кричать?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_070.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_070.ebm",
+      "index": 3,
+      "speaker": "Drossel",
+      "original": "Can I ask you one thing? Have you ever been a doll?",
+      "translation": "Могу я спросить вас об одной вещи? Вы когда-нибудь были куклой?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_070.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_070.ebm",
+      "index": 4,
+      "speaker": "Corneria",
+      "original": "What?",
+      "translation": "Что?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_070.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_070.ebm",
+      "index": 5,
+      "speaker": "Drossel",
+      "original": "Ah, sorry if that's weird! I just saw a doll that looked exactly like you, once...",
+      "translation": "Ах, извините, если это странно! Я только что однажды видел куклу, которая выглядела точно так же, как ты..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_070.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_070.ebm",
+      "index": 6,
+      "speaker": "Corneria",
+      "original": "Hehe, that's a surprise for me too. A doll made to look like me? By who?",
+      "translation": "Хе-хе, для меня это тоже сюрприз. Кукла, похожая на меня? Кем?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_070.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_070.ebm",
+      "index": 7,
+      "speaker": "Corneria",
+      "original": "Although I have a pretty good idea. Fritz... I'm going to invoice you for this!",
+      "translation": "Хотя у меня есть довольно хорошая идея. Фриц... Я выставлю тебе за это счет!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_070.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_070.ebm",
+      "index": 8,
+      "speaker": "Drossel",
+      "original": "Ugh? I don't think it was Dad. And how do you know my dad, anyway?",
+      "translation": "Фу? Я не думаю, что это был папа. И вообще, откуда ты знаешь моего отца?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_070.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_070.ebm",
+      "index": 9,
+      "speaker": "Corneria",
+      "original": "Dad? You're Fritz's daughter?",
+      "translation": "Папа? Ты дочь Фрица?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_070.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_070.ebm",
+      "index": 10,
+      "speaker": "Drossel",
+      "original": "Yep, that's right! I'm Drossel! Nice to meet you!",
+      "translation": "Да, это так! Я Дроссель! Рад встрече!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_070.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_070.ebm",
+      "index": 11,
+      "speaker": "Corneria",
+      "original": "Ah, I'm Corneria. I see, Fritz's daughter...",
+      "translation": "Ах, я Корнерия. Понятно, дочь Фрица..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_070.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_070.ebm",
+      "index": 12,
+      "speaker": "Corneria",
+      "original": "What are you doing here, anyway, Drossel? You've been wandering up and down for a while.",
+      "translation": "Что ты здесь вообще делаешь, Дроссель? Вы какое-то время блуждали взад и вперед."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_070.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_070.ebm",
+      "index": 13,
+      "speaker": "Drossel",
+      "original": "Ah, of course. I'm looking for a shop called the Corneria Enterprise.",
+      "translation": "Ах, конечно. Я ищу магазин под названием «Корнерия Энтерпрайз»."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_070.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_070.ebm",
+      "index": 14,
+      "speaker": "Drossel",
+      "original": "Hold on, the shop is called Corneria... And your name is Corneria? Which means!",
+      "translation": "Подожди, магазин называется Корнерия... А тебя зовут Корнерия? Это значит!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_070.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_070.ebm",
+      "index": 15,
+      "speaker": "Corneria",
+      "original": "Yes. The Corneria Enterprise is my store.",
+      "translation": "Да. «Корнерия Энтерпрайз» — мой магазин."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_070.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_070.ebm",
+      "index": 16,
+      "speaker": "Drossel",
+      "original": "Yes! I heard you sell lots of wonderful things, so I had to come and check it out!",
+      "translation": "Да! Я слышал, что вы продаете много замечательных вещей, поэтому мне пришлось зайти и проверить!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_070.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_070.ebm",
+      "index": 17,
+      "speaker": "Corneria",
+      "original": "I see. Then please, feel free to take a look around.",
+      "translation": "Я понимаю. Тогда, пожалуйста, не стесняйтесь осмотреться вокруг."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_070.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_070.ebm",
+      "index": 18,
+      "speaker": "Corneria",
+      "original": "I'll give you a discount, too, since you're Fritz's daughter.",
+      "translation": "Я тебе тоже сделаю скидку, так как ты дочь Фрица."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_080.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_080.ebm",
+      "index": 0,
+      "speaker": "Corneria",
+      "original": "Hehe!",
+      "translation": "Хе-хе!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_080.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_080.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "A music box? What a lovely sound.",
+      "translation": "Музыкальная шкатулка? Какой прекрасный звук."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_080.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_080.ebm",
+      "index": 2,
+      "speaker": "Corneria",
+      "original": "Ah, welcome. Tell me, girls. Have you ever heard this music before?",
+      "translation": "Ах, добро пожаловать. Подскажите, девочки. Вы когда-нибудь слышали эту музыку раньше?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_080.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_080.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "No, I don't think so. Sue?",
+      "translation": "Нет, я так не думаю. Сью?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_080.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_080.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Me neither. Is there some kind of secret to that music box?",
+      "translation": "И я нет. Есть ли какой-то секрет в этой музыкальной шкатулке?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_080.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_080.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Like, the music from it opens the door to a secret treasure?",
+      "translation": "Мол, музыка из него открывает дверь в тайное сокровище?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_080.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_080.ebm",
+      "index": 6,
+      "speaker": "Corneria",
+      "original": "No. This music is a clue to the location of my father. The father I've never met.",
+      "translation": "Нет. Эта музыка — ключ к разгадке местонахождения моего отца. Отец, которого я никогда не встречал."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_080.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_080.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "Not even once?",
+      "translation": "Ни разу?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_080.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_080.ebm",
+      "index": 8,
+      "speaker": "Corneria",
+      "original": "No. He left before I was born, so I don't even know what he looks like.",
+      "translation": "Нет. Он ушел еще до моего рождения, поэтому я даже не знаю, как он выглядит."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_080.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_080.ebm",
+      "index": 9,
+      "speaker": "Corneria",
+      "original": "I've finally discovered that he's in this region, but that's all the information I have.",
+      "translation": "Я наконец обнаружил, что он находится в этом регионе, но это вся информация, которой я располагаю."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_080.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_080.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "I see. In which case, Corneria, will you please tell us more about him?",
+      "translation": "Я понимаю. В таком случае, Корнерия, не могли бы вы рассказать нам о нем побольше?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_080.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_080.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "We've been living here for all our lives. Maybe we can help you!",
+      "translation": "Мы живем здесь всю жизнь. Возможно, мы сможем вам помочь!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_080.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_080.ebm",
+      "index": 12,
+      "speaker": "Corneria",
+      "original": "Girls... Thank you so much. Let me see...",
+      "translation": "Девочки... Спасибо вам огромное. Дайте-ка подумать..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_080.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_080.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "Someone dressed in the same kind of clothing as you, and with the same copy power...",
+      "translation": "Кто-то, одетый в такую же одежду, как и вы, и с такой же копировальной силой..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_080.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_080.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "Hmm. I'm pretty sure I'd remember someone like that.",
+      "translation": "Хм. Я почти уверен, что запомню такого человека."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_080.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_080.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "Sorry, Corneria. It turns out we can't help you after all.",
+      "translation": "Прости, Корнерия. Оказывается, мы все-таки не можем вам помочь."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_080.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_080.ebm",
+      "index": 16,
+      "speaker": "Corneria",
+      "original": "No, it's all right. I've been actively searching for him for more than ten years, after all.",
+      "translation": "Нет, все в порядке. Ведь я его активно искал уже больше десяти лет."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_080.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_080.ebm",
+      "index": 17,
+      "speaker": "Corneria",
+      "original": "But I'm not ready to give up yet.",
+      "translation": "Но я пока не готов сдаваться."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_080.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_080.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "Hmmm.",
+      "translation": "Хм."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_090.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_090.ebm",
+      "index": 0,
+      "speaker": "Corneria",
+      "original": "Girls... Wel... come...",
+      "translation": "Девочки... Ну... заходите..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_090.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_090.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Corneria, are you alright? You look completely exhausted!",
+      "translation": "Корнерия, ты в порядке? Ты выглядишь совершенно измотанным!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_090.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_090.ebm",
+      "index": 2,
+      "speaker": "Corneria",
+      "original": "Ah, I'm sorry... I should never let my customers see such weakness...",
+      "translation": "Ах, извини... Я никогда не должен позволять своим клиентам видеть такую слабость..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_090.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_090.ebm",
+      "index": 3,
+      "speaker": "Corneria",
+      "original": "I've been using my copying power too much recently. The two of you warned me about it, I know...",
+      "translation": "В последнее время я слишком много использую свои копировальные способности. Вы двое предупреждали меня об этом, я знаю..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_090.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_090.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "You can barely stand! You need to rest!",
+      "translation": "Ты едва можешь стоять! Вам нужно отдохнуть!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_090.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_090.ebm",
+      "index": 5,
+      "speaker": "Corneria",
+      "original": "No. As a merchant, once the doors are open I can't close them until closing time...",
+      "translation": "Нет. Как торговец, если двери открыты, я не могу закрыть их до закрытия..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_090.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_090.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "You take all this too seriously! Very well. At least let us get something for you.",
+      "translation": "Ты относишься ко всему этому слишком серьезно! Очень хорошо. По крайней мере, позвольте нам получить что-нибудь для вас."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_090.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_090.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "Ah, good idea! What do you want? We'll bring you whatever you need!",
+      "translation": "Ах, хорошая идея! Что ты хочешь? Мы привезем вам все, что вам нужно!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_090.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_090.ebm",
+      "index": 8,
+      "speaker": "Corneria",
+      "original": "In which case, I'd like to drink some milk.",
+      "translation": "В таком случае, я бы хотел выпить немного молока."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_090.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_090.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "What? Milk? Like, from a cow?",
+      "translation": "Что? Молоко? Типа, от коровы?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_090.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_090.ebm",
+      "index": 10,
+      "speaker": "Corneria",
+      "original": "Yes. Milk.",
+      "translation": "Да. Молоко."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_090.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_090.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "Are you sure that's all you want? Are you sure you're not taking it easy on us?",
+      "translation": "Ты уверен, что это все, что тебе нужно? Ты уверен, что не относишься к нам легко?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_090.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_090.ebm",
+      "index": 12,
+      "speaker": "Corneria",
+      "original": "No, I'm not. I love milk, more than anything else.",
+      "translation": "Нет, я не такой. Я люблю молоко больше всего на свете."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_090.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_090.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "In which case, it would be our pleasure. We'll bring you the most energizing milk ever!",
+      "translation": "В этом случае мы будем рады. Мы подарим вам самое бодрящее молоко!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Here you go, Corneria! Here's the milk you ordered, moooo!",
+      "translation": "Вот, Корнерия! Вот молоко, которое ты заказал, мууу!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 1,
+      "speaker": "Corneria",
+      "original": "Ah, that does look delicious! Let me get some of that right away!",
+      "translation": "Ах, это выглядит очень вкусно! Позвольте мне получить часть этого прямо сейчас!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 2,
+      "speaker": "Corneria",
+      "original": "Glug, glug, glug! Uwah!",
+      "translation": "Глюк, глюк, глюк! Ува!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 3,
+      "speaker": "Corneria",
+      "original": "Phew, I'm alive again! Thank you so much. I was about to shrink away to nothing!",
+      "translation": "Уф, я снова жив! Большое спасибо. Я собирался сжаться в никуда!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Hahaha, is that the first time I've heard you make a joke? Is work going to make you shrink?",
+      "translation": "Ха-ха-ха, я впервые слышу, как ты шутишь? Работа заставит вас сжаться?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 5,
+      "speaker": "Corneria",
+      "original": "No. I'm not joking, unfortunately. That's the truth.",
+      "translation": "Нет. Я не шучу, к сожалению. Это правда."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Excuse me?",
+      "translation": "Прошу прощения?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 7,
+      "speaker": "Corneria",
+      "original": "There's a cost of my power. Each item I copy makes me shrink a little.",
+      "translation": "Это цена моей силы. Каждый объект, который я копирую, заставляет меня немного съеживаться."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 8,
+      "speaker": "Corneria",
+      "original": "If I rest a little then it returns to normal, but if I'm not careful I'll stay tiny forever!",
+      "translation": "Если я немного отдохну, то все придет в норму, но если я не буду осторожен, я навсегда останусь крошечным!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "What?! That's terrible!",
+      "translation": "Что?! Это ужасно!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "If you copy too much stuff, you'll be able to hide in the palm of my hand?!",
+      "translation": "Если ты скопируешь слишком много вещей, ты сможешь спрятаться у меня на ладони?!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "That might be cute, actually...",
+      "translation": "На самом деле это может быть мило..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "Sue, don't start that now. If that's the case, you should stop using that power, right away!",
+      "translation": "Сью, не начинай это сейчас. Если это так, вам следует немедленно прекратить использовать эту силу!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 13,
+      "speaker": "Corneria",
+      "original": "No. I can't do that. It is one of the main services I offer.",
+      "translation": "Нет, я не могу этого сделать. Это одна из основных услуг, которые я предлагаю."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "But the cost is too great!",
+      "translation": "Но цена слишком велика!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 15,
+      "speaker": "Corneria",
+      "original": "It's fine. If I can meet my father again, it's fine...",
+      "translation": "Все в порядке. Если я смогу снова встретиться со своим отцом, это будет хорошо..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "Oh...",
+      "translation": "Ой..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 17,
+      "speaker": "Corneria",
+      "original": "Running this shop, I might meet someone who knows my father.",
+      "translation": "Управляя этим магазином, я могу встретить кого-нибудь, кто знает моего отца."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 18,
+      "speaker": "Corneria",
+      "original": "If the shop becomes large and famous, my name may reach my father's ears.",
+      "translation": "Если магазин станет большим и известным, мое имя может достичь ушей моего отца."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 19,
+      "speaker": "Corneria",
+      "original": "So long as I have this shop, one day I'll be able to meet him. That's what I believe.",
+      "translation": "Пока у меня есть этот магазин, однажды я смогу с ним встретиться. Вот во что я верю."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 20,
+      "speaker": "Corneria",
+      "original": "So no matter how small it makes me, I'm not about to stop copying items...",
+      "translation": "Поэтому, каким бы маленьким я ни был, я не собираюсь прекращать копировать предметы..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 22,
+      "speaker": "Sue",
+      "original": "We can't get involved in this, Lydie. You understand how Corneria feels, right?",
+      "translation": "Мы не можем в это вмешиваться, Лиди. Ты же понимаешь, что чувствует Корнерия, да?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 23,
+      "speaker": "Lydie",
+      "original": "Yes. I'm sorry, Corneria. I said too much.",
+      "translation": "Да. Мне очень жаль, Корнерия. Я сказал слишком много."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 24,
+      "speaker": "Corneria",
+      "original": "Hehe, you're very kind, Lydie. If you are worried about me, there's one thing you can do.",
+      "translation": "Хе-хе, ты очень добра, Лиди. Если ты беспокоишься обо мне, ты можешь сделать одну вещь."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 25,
+      "speaker": "Corneria",
+      "original": "Keep buying stuff from this shop! That's what will make me the happiest.",
+      "translation": "Продолжайте покупать вещи в этом магазине! Это то, что сделает меня самым счастливым."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 26,
+      "speaker": "Sue",
+      "original": "Hahah! I see what you did there! So we just have to buy lots and lots of stuff, right?",
+      "translation": "Ха-ха! Я вижу, что ты там сделал! Значит, нам просто нужно покупать много-много вещей, верно?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_100.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_100.ebm",
+      "index": 27,
+      "speaker": "Lydie",
+      "original": "It looks like it. I walked right into that one! Come on then, Corneria, what have you got?",
+      "translation": "Похоже на это. Я вошел прямо в него! Да ладно, Корнерия, что у тебя есть?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 0,
+      "speaker": "Corneria",
+      "original": "Eh! Sophie, is that you?",
+      "translation": "Эх! Софи, это ты?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 1,
+      "speaker": "Sophie",
+      "original": "What! Corneria?! Wow, it's been ages! How have you been?",
+      "translation": "Что! Корнерия?! Ух ты, прошло много времени! Как твои дела?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 2,
+      "speaker": "Corneria",
+      "original": "Well, I haven't done much growing, but I'm fine. How are you doing, Sophie?",
+      "translation": "Ну, я не сильно выросла, но со мной все в порядке. Как твои дела, Софи?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 3,
+      "speaker": "Sophie",
+      "original": "Hahaha, I'm fine. Plachta too, of course!",
+      "translation": "Ха-ха-ха, я в порядке. Плачта тоже, конечно!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 4,
+      "speaker": "Sophie",
+      "original": "You sound so polite, Corneria! Have you grown up a little?",
+      "translation": "Ты говоришь так вежливо, Корнерия! Ты немного подрос?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 5,
+      "speaker": "Corneria",
+      "original": "Yes, I'm trying to be a bit more respectable. The old accent comes out every now and then, however!",
+      "translation": "Да, я пытаюсь быть немного более респектабельным. Однако старый акцент время от времени проявляется!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "Hello, Sophie. Are you doing some shopping at Corneria's store?",
+      "translation": "Здравствуйте, Софи. Вы делаете покупки в магазине Корнерии?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 7,
+      "speaker": "Sophie",
+      "original": "Hehehe, renewing old friendships, actually! Corneria and I have been friends for a long time!",
+      "translation": "Хе-хе-хе, вообще-то возобновляем старую дружбу! Мы с Корнерией дружим уже давно!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 8,
+      "speaker": "Corneria",
+      "original": "We come from the same town. We've even adventured together.",
+      "translation": "Мы родом из одного города. Мы даже путешествовали вместе."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "Wow, that's unexpected! The world is a smaller place than I thought!",
+      "translation": "Ух ты, это неожиданно! Мир меньше, чем я думал!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 10,
+      "speaker": "Sophie",
+      "original": "Hehe, I guess you could say that. I'm happy to see Corneria again.",
+      "translation": "Хе-хе, я думаю, ты мог бы так сказать. Я рад снова увидеть Корнерию."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 11,
+      "speaker": "Sophie",
+      "original": "Say, Corneria. Have you found your father yet?",
+      "translation": "Скажем, Корнерия. Ты уже нашел своего отца?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 12,
+      "speaker": "Corneria",
+      "original": "No, not yet... But my shop is still getting bigger.",
+      "translation": "Нет, еще нет... Но мой магазин продолжает расти."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 13,
+      "speaker": "Sophie",
+      "original": "Yeah, the Corneria Enterprise! I know all about it! You've been working so hard, haven't you?",
+      "translation": "Да, Корнерия Энтерпрайз! Я знаю об этом все! Ты так много работал, не так ли?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 14,
+      "speaker": "Corneria",
+      "original": "Not that hard, haha! What about you, Sophie? You became a certified alchemist?",
+      "translation": "Не так уж и сложно, хаха! А что насчет тебя, Софи? Вы стали сертифицированным алхимиком?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 15,
+      "speaker": "Sophie",
+      "original": "Yep, I totally did! I'm totally certified, from head to toe!",
+      "translation": "Да, я полностью это сделал! Я полностью сертифицирован с головы до ног!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 16,
+      "speaker": "Corneria",
+      "original": "I see! Monika, Elise and a few of our friends were complaining about you never even visiting back home.",
+      "translation": "Я понимаю! Моника, Элиза и несколько наших друзей жаловались, что ты даже не приходил домой."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 17,
+      "speaker": "Corneria",
+      "original": "Monika even said she was going to head out herself and drag you back.",
+      "translation": "Моника даже сказала, что собирается уйти сама и притащить тебя обратно."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 18,
+      "speaker": "Sophie",
+      "original": "Uwah, I don't like the sound of that! It has been a while since I visited Kirchen Bell, though...",
+      "translation": "Увау, мне не нравится это звучание! Однако прошло много времени с тех пор, как я посещал Кирхен-Белл..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 19,
+      "speaker": "Sophie",
+      "original": "We've got so much to talk about. How about going for a drink?",
+      "translation": "Нам есть о чем поговорить. Как насчет того, чтобы пойти выпить?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 20,
+      "speaker": "Corneria",
+      "original": "Yes, I'd like that very much. I'm quite a hard drinker, though, so watch out!",
+      "translation": "Да, мне бы этого очень хотелось. Однако я очень сильно пью, так что будьте осторожны!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 21,
+      "speaker": "Sophie",
+      "original": "Hahaha, sounds like it's on now! See you later!",
+      "translation": "Ха-ха-ха, похоже, оно уже включено! Увидимся позже!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 22,
+      "speaker": "Lydie",
+      "original": "Corneria, you looked very happy!",
+      "translation": "Корнерия, ты выглядела очень счастливой!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 23,
+      "speaker": "Corneria",
+      "original": "Of course. The reason I can have this shop is because of Sophie!",
+      "translation": "Конечно. Причина, по которой я могу иметь этот магазин, — это Софи!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 24,
+      "speaker": "Corneria",
+      "original": "She hasn't changed at all, still so incredible! I wish I had half her conviction.",
+      "translation": "Она совсем не изменилась, все еще такая невероятная! Мне бы хотелось иметь хотя бы половину ее убеждений."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_110.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_110.ebm",
+      "index": 25,
+      "speaker": "Sue",
+      "original": "Hehe, I know! I want to be just like her, too.",
+      "translation": "Хе-хе, я знаю! Я тоже хочу быть такой же, как она."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_120.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_120.ebm",
+      "index": 0,
+      "speaker": "Corneria",
+      "original": "Heh...",
+      "translation": "Хех..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_120.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_120.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Corneria is listening to that music box again. Do you think she's thinking about her dad?",
+      "translation": "Корнерия снова слушает музыкальную шкатулку. Думаешь, она думает о своем отце?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_120.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_120.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Probably. I can't believe she's never even seen his face! That's just so sad.",
+      "translation": "Вероятно. Не могу поверить, что она даже никогда не видела его лица! Это так грустно."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_120.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_120.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "I know. I've got an idea, then! Let's really help her in the search for her dad!",
+      "translation": "Я знаю. Тогда у меня есть идея! Давайте действительно поможем ей в поисках папы!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_120.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_120.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "We know a lot about this region, after all. Let's ask around and collect some more information!",
+      "translation": "В конце концов, мы много знаем об этом регионе. Давайте поспрашиваем и соберем еще немного информации!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_120.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_120.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Yeah! For Corneria, let's do our best! Come on!",
+      "translation": "Ага! Давайте сделаем все возможное для Корнерии! Ну давай же!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_120.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_120.ebm",
+      "index": 6,
+      "speaker": "Corneria",
+      "original": "Huh? Lydie and Sue? I wonder what they are up to?",
+      "translation": "Хм? Лиди и Сью? Интересно, что они задумали?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_130.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_130.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Hey, Mathias... There's a person we'd like to find.",
+      "translation": "Эй, Матиас... Нам бы хотелось найти человека."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_130.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_130.ebm",
+      "index": 1,
+      "speaker": "Mathias",
+      "original": "A man in strange clothes, who can multiply objects? I've never heard of such a person...",
+      "translation": "Человек в странной одежде, умеющий умножать предметы? Я никогда не слышал о таком человеке..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_130.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_130.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "That's a shame... I thought you'd have heard some rumors for sure, Mathias.",
+      "translation": "Обидно... Я думал, что ты наверняка слышал какие-то слухи, Матиас."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_130.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_130.ebm",
+      "index": 3,
+      "speaker": "Mathias",
+      "original": "Hmm, okay. I'll ask around. Just don't expect too much!",
+      "translation": "Хм, окей. Я поспрошу. Просто не ожидайте слишком многого!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_130.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_130.ebm",
+      "index": 4,
+      "speaker": "Mathias",
+      "original": "There should be at least rumors about someone who stands out that much, but I've never heard a thing.",
+      "translation": "Должны быть по крайней мере слухи о ком-то, кто так сильно выделяется, но я никогда ничего не слышал."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_130.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_130.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Yes, good point. Thank you, anyway.",
+      "translation": "Да, хороший момент. В любом случае, спасибо."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_140.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_140.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Pamela? There's someone who we're looking for...",
+      "translation": "Памела? Есть тот, кого мы ищем..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_140.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_140.ebm",
+      "index": 1,
+      "speaker": "Pamela",
+      "original": "Someone who can copy items and wears strange clothing? Yes, I know who that is!",
+      "translation": "Кто-то, кто умеет копировать предметы и носит странную одежду? Да, я знаю, кто это!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_140.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_140.ebm",
+      "index": 2,
+      "speaker": "Pamela",
+      "original": "Hehehe. Her name is Corneria. We used to live in the same town, actually!",
+      "translation": "Хе-хе-хе. Ее зовут Корнерия. Вообще-то мы жили в одном городе!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_140.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_140.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "I should have explained that better. We're actually looking for Corneria's dad.",
+      "translation": "Я должен был объяснить это лучше. На самом деле мы ищем отца Корнерии."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_140.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_140.ebm",
+      "index": 4,
+      "speaker": "Pamela",
+      "original": "Oh, is that so? I'm sorry, I don't know anything about her dad...",
+      "translation": "О, это так? Извините, я ничего не знаю о ее отце..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_140.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_140.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "I see. Alright, thank you. We'll try someone else.",
+      "translation": "Я понимаю. Хорошо, спасибо. Мы попробуем кого-нибудь другого."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_150.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_150.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Mr. Fritz, excuse us, but we've got something to ask...",
+      "translation": "Господин Фриц, извините, но нам есть что спросить..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_150.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_150.ebm",
+      "index": 1,
+      "speaker": "Fritz",
+      "original": "Ah, Corneria's father.",
+      "translation": "Ах, отец Корнерии."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_150.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_150.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Oh? You're already aware of the issue?",
+      "translation": "Ой? Вы уже знаете о проблеме?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_150.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_150.ebm",
+      "index": 3,
+      "speaker": "Fritz",
+      "original": "We're old friends. We searched for clues while we were traveling together, but...",
+      "translation": "Мы старые друзья. Мы искали улики, пока путешествовали вместе, но..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_150.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_150.ebm",
+      "index": 4,
+      "speaker": "Fritz",
+      "original": "We didn't find any information on her father, I'm afraid.",
+      "translation": "Боюсь, мы не нашли никакой информации о ее отце."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_150.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_150.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "I see. Thanks for your time!",
+      "translation": "Я понимаю. Спасибо за ваше время!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_160.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_160.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Huh. So we didn't learn anything about Corneria's dad.",
+      "translation": "Хм. Так что мы ничего не узнали об отце Корнерии."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_160.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_160.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Yeah. It would've been really great to take some proper information back to her.",
+      "translation": "Ага. Было бы здорово вернуть ей нужную информацию."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_160.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_160.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "I guess it can't be helped... Let's at least tell her that we're willing to help.",
+      "translation": "Думаю, ничего не поделаешь... Давай хотя бы скажем ей, что мы готовы помочь."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_160.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_160.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Yeah, good idea. I'm sorry, Corneria. ",
+      "translation": "Да, хорошая идея. Мне очень жаль, Корнерия."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Corneria... Uhm...",
+      "translation": "Корнерия... Хм..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 2,
+      "speaker": "Drossel",
+      "original": "Corneria! Have you got any bargains for me? Oh, hold on! I've heard this music before!",
+      "translation": "Корнерия! У вас есть какие-нибудь выгодные предложения для меня? Ой, держись! Я уже слышал эту музыку!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 3,
+      "speaker": "Corneria",
+      "original": "What? The music from this box?",
+      "translation": "Что? Музыка из этой коробки?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 4,
+      "speaker": "Drossel",
+      "original": "Yeah, I think so.",
+      "translation": "Да, я так думаю."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Where?! Where did you hear it?!",
+      "translation": "Где?! Где ты это услышал?!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 6,
+      "speaker": "Drossel",
+      "original": "A village I visited on a walk... It was to the east of here, if I remember correctly!",
+      "translation": "Деревня, которую я посетил на прогулке... Это было к востоку отсюда, если я правильно помню!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "There's only sea to the east!",
+      "translation": "На востоке только море!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 8,
+      "speaker": "Drossel",
+      "original": "What, is there? Then south, maybe? Or north-north-west?",
+      "translation": "Что, есть? Тогда на юг, может быть? Или северо-северо-запад?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Oh my! We won't get any help from Drossel's terrible sense of direction.",
+      "translation": "О боже! Нам не поможет ужасное чувство направления Дросселя."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 10,
+      "speaker": "Drossel",
+      "original": "Hey, don't blame me. What's with the music box, anyway?",
+      "translation": "Эй, не вини меня. А что там с музыкальной шкатулкой?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "You see...",
+      "translation": "Понимаете..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 12,
+      "speaker": "Drossel",
+      "original": "Oh... I should have tried harder to remember the location!",
+      "translation": "Ох... Мне следовало бы постараться запомнить это место!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 13,
+      "speaker": "Drossel",
+      "original": "There were loads of people there dressed just like Corneria!",
+      "translation": "Там было полно людей, одетых точно так же, как Корнерия!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "That sounds like exactly the place we want! Gah, I can't take this heartbreak!",
+      "translation": "Похоже, это именно то место, которое нам нужно! Гах, я не могу вынести этого горя!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 15,
+      "speaker": "Corneria",
+      "original": "It's all right... If you can't remember, you can't remember. I'll just keep on running the shop...",
+      "translation": "Все в порядке... Если ты не можешь вспомнить, ты не можешь вспомнить. Я просто продолжу управлять магазином..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 16,
+      "speaker": "Drossel",
+      "original": "No, hold on. Do you think you can trust me, Corneria?",
+      "translation": "Нет, подожди. Думаешь, ты можешь доверять мне, Корнерия?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 17,
+      "speaker": "Corneria",
+      "original": "Why do you ask?",
+      "translation": "Почему ты спрашиваешь?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 18,
+      "speaker": "Drossel",
+      "original": "I'm going to go back to that place again!",
+      "translation": "Я собираюсь вернуться в это место снова!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "Hold on! Are you sure that's a good idea, Drossel?",
+      "translation": "Подожди! Ты уверен, что это хорошая идея, Дроссель?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 20,
+      "speaker": "Drossel",
+      "original": "Sure it is. I have a terrible sense of direction, but I'll get there in the end, I promise!",
+      "translation": "Конечно, это так. У меня ужасное чувство направления, но в конце концов я доберусь до цели, обещаю!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 21,
+      "speaker": "Drossel",
+      "original": "You want to see your father, right, Corneria? That's what all your hard work has been for?",
+      "translation": "Ты хочешь увидеть своего отца, да, Корнерия? Вот ради чего была вся твоя тяжелая работа?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 22,
+      "speaker": "Corneria",
+      "original": "Well, yes...",
+      "translation": "Ну да..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 23,
+      "speaker": "Drossel",
+      "original": "Family is important, and that's a fact. If I'm the only one who's been there, I have to go!",
+      "translation": "Семья важна, и это факт. Если я единственный, кто был там, мне пора идти!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 24,
+      "speaker": "Drossel",
+      "original": "Leave this to me!",
+      "translation": "Оставьте это мне!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 25,
+      "speaker": "Corneria",
+      "original": "Very well. I want you to take this with you, then.",
+      "translation": "Очень хорошо. Тогда я хочу, чтобы ты взял это с собой."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 26,
+      "speaker": "Drossel",
+      "original": "A flyer?",
+      "translation": "Листовка?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 27,
+      "speaker": "Corneria",
+      "original": "Yes. For my store. Please give it to the people in that village.",
+      "translation": "Да. Для моего магазина. Пожалуйста, отдайте его жителям этой деревни."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 28,
+      "speaker": "Corneria",
+      "original": "My name was picked by my dad. So, if he is there in that village...",
+      "translation": "Имя мне выбрал мой отец. Итак, если он там, в той деревне..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 29,
+      "speaker": "Corneria",
+      "original": "He should recognize my name. Just give him that, that's all you need to do.",
+      "translation": "Он должен узнать мое имя. Просто дайте ему это, это все, что вам нужно сделать."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 30,
+      "speaker": "Drossel",
+      "original": "That's it? I could tell him to come?",
+      "translation": "Вот и все? Я мог бы сказать ему, чтобы он пришел?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 31,
+      "speaker": "Corneria",
+      "original": "No. I have my pride as a merchant. Please just promote my store, that's all.",
+      "translation": "Нет. Я горжусь тем, что я торговец. Пожалуйста, просто рекламируйте мой магазин, вот и все."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:32": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 32,
+      "speaker": "Drossel",
+      "original": "Hahah, promote! I like that. Alright, you can count on me!",
+      "translation": "Ха-ха, продвигайте! Мне нравится, что. Хорошо, ты можешь рассчитывать на меня!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:33": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 33,
+      "speaker": "Sue",
+      "original": "She ran off in the opposite direction of the main gates, didn't she...",
+      "translation": "Она убежала в противоположном направлении от главных ворот, не так ли..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:34": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 34,
+      "speaker": "Lydie",
+      "original": "Hahaha... It's okay. Drossel said to trust her, so that's all we can do...",
+      "translation": "Ха-ха-ха... Все в порядке. Дроссель сказал доверять ей, и это все, что мы можем сделать..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_170.ebm:35": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_170.ebm",
+      "index": 35,
+      "speaker": "Corneria",
+      "original": "You're right. I'll put my trust in you, then, Drossel!",
+      "translation": "Ты прав. Тогда я доверяюсь тебе, Дроссель!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_180.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_180.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Corneria... Drossel hasn't come back yet, has she?",
+      "translation": "Корнерия... Дроссель еще не вернулась, да?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_180.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_180.ebm",
+      "index": 2,
+      "speaker": "Corneria",
+      "original": "No. But I will keep on waiting...",
+      "translation": "Нет. Но я буду продолжать ждать..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_180.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_180.ebm",
+      "index": 3,
+      "speaker": "Drossel",
+      "original": "Wah, I almost ran past the place! That was close!",
+      "translation": "Вау, я чуть не пробежал мимо этого места! Это было близко!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_180.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_180.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Drossel! Welcome back. So?",
+      "translation": "Дроссель! Добро пожаловать. Так?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_180.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_180.ebm",
+      "index": 5,
+      "speaker": "Drossel",
+      "original": "Hahah! The promotion was a big success! It just took a bit longer than I expected.",
+      "translation": "Ха-ха! Акция имела большой успех! Просто это заняло немного больше времени, чем я ожидал."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_180.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_180.ebm",
+      "index": 6,
+      "speaker": "Corneria",
+      "original": "T-Thank you so much! And my father?",
+      "translation": "Т-Спасибо большое! А мой отец?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_180.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_180.ebm",
+      "index": 7,
+      "speaker": "Drossel",
+      "original": "Hehe! There was this one person who reacted to the name at once, and even cried.",
+      "translation": "Хе-хе! Был один человек, который сразу отреагировал на это имя и даже заплакал."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_180.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_180.ebm",
+      "index": 8,
+      "speaker": "Drossel",
+      "original": "I'm pretty sure that was your father, Corneria.",
+      "translation": "Я почти уверен, что это был твой отец, Корнерия."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_180.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_180.ebm",
+      "index": 9,
+      "speaker": "Corneria",
+      "original": "Really?!",
+      "translation": "Действительно?!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_180.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_180.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "That settles it, doesn't it?",
+      "translation": "Это решает проблему, не так ли?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_180.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_180.ebm",
+      "index": 11,
+      "speaker": "Corneria",
+      "original": "Yes. We can only wait now and see if my father comes...",
+      "translation": "Да. Нам остается только подождать и посмотреть, придет ли мой отец..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_180.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_180.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "Hahaha... It feels like we haven't done anything useful...",
+      "translation": "Ха-ха-ха... Такое ощущение, что мы не сделали ничего полезного..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_180.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_180.ebm",
+      "index": 13,
+      "speaker": "Drossel",
+      "original": "No, that's not true.",
+      "translation": "Нет, это неправда."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_180.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_180.ebm",
+      "index": 14,
+      "speaker": "Drossel",
+      "original": "You told me about Corneria's shop in the first place.",
+      "translation": "Прежде всего, ты рассказал мне о магазине Корнерии."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_180.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_180.ebm",
+      "index": 15,
+      "speaker": "Drossel",
+      "original": "Without your promotion, none of this would have happened!",
+      "translation": "Без вашего продвижения ничего бы этого не произошло!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_180.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_180.ebm",
+      "index": 16,
+      "speaker": "Drossel",
+      "original": "What do you say, Corneria? How about making these two your promotion agents?",
+      "translation": "Что скажешь, Корнерия? Как насчет того, чтобы сделать этих двоих своими рекламными агентами?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_180.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_180.ebm",
+      "index": 17,
+      "speaker": "Corneria",
+      "original": "Promotion agents? That sounds like a good idea. I think they may be perfectly suited.",
+      "translation": "Агенты по продвижению? Это звучит как хорошая идея. Я думаю, они могут идеально подойти."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_180.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_180.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "I don't mind! With my charm and my voice, I'll bring in more customers than you can handle!",
+      "translation": "Я не против! Благодаря моему обаянию и голосу я привлечу больше клиентов, чем вы сможете обслужить!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_180.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_180.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "Hahaha, me too. If you'll let us do what we can between our other work, we'll help however we can!",
+      "translation": "Ха-ха-ха, я тоже. Если вы позволите нам делать то, что мы можем, в перерывах между нашей другой работой, мы поможем, чем сможем!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_180.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_180.ebm",
+      "index": 20,
+      "speaker": "Corneria",
+      "original": "Very well. I'll need to find something to reward you with, won't I?",
+      "translation": "Очень хорошо. Мне нужно найти что-нибудь, чтобы вознаградить тебя, не так ли?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_180.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_180.ebm",
+      "index": 21,
+      "speaker": "Corneria",
+      "original": "Lydie, Sue, and you, Drossel. Thank you so much for everything you've done!",
+      "translation": "Лиди, Сью и ты, Дроссель. Огромное спасибо за все, что вы сделали!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_180.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_180.ebm",
+      "index": 22,
+      "speaker": "Corneria",
+      "original": "Mysterious friendships, brought to me by my shop. I need to treasure them, going forward.",
+      "translation": "Таинственная дружба, принесенная мне моим магазином. Мне нужно ценить их, идя вперед."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_190.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_190.ebm",
+      "index": 0,
+      "speaker": "Peddler ",
+      "original": "Boss! We're ready for our second Merveille store! Not a street stall, but a proper shop.",
+      "translation": "Босс! Мы готовы открыть наш второй магазин Мервейль! Не уличный ларек, а настоящий магазин."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_190.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_190.ebm",
+      "index": 1,
+      "speaker": "Corneria",
+      "original": "I told you not to call me \"boss\". How about \"Chairwoman\"?",
+      "translation": "Я же говорил тебе не называть меня \"босс\". А как насчет «Председателя»?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_190.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_190.ebm",
+      "index": 2,
+      "speaker": "Peddler ",
+      "original": "Of course, that's right! Chairwoman. I'll be more careful!",
+      "translation": "Конечно, это так! Председатель. Я буду осторожнее!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_190.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_190.ebm",
+      "index": 3,
+      "speaker": "Corneria",
+      "original": "Well then. With our second store, I'll be able to expand even more.",
+      "translation": "Ну что ж. Благодаря нашему второму магазину я смогу расшириться еще больше."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_190.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_190.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Hehe, Corneria! It looks like business is going well?",
+      "translation": "Хе-хе, Корнерия! Похоже, дела идут хорошо?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_190.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_190.ebm",
+      "index": 5,
+      "speaker": "Corneria",
+      "original": "Hey, Lydie, Sue. Yes, thanks to you.",
+      "translation": "Привет, Лиди, Сью. Да, спасибо тебе."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_190.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_190.ebm",
+      "index": 6,
+      "speaker": "Corneria",
+      "original": "We have a communications network and sales are up. Business in Adalet is going to be good.",
+      "translation": "У нас есть сеть связи, и продажи растут. Дела в Адалете будут идти хорошо."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_190.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_190.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "I see, I see. And what about your dad?",
+      "translation": "Я вижу, я вижу. А что насчет твоего отца?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_190.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_190.ebm",
+      "index": 8,
+      "speaker": "Corneria",
+      "original": "He hasn't come yet. But I can't afford to just sit around waiting.",
+      "translation": "Он еще не пришел. Но я не могу себе позволить просто сидеть и ждать."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_190.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_190.ebm",
+      "index": 9,
+      "speaker": "Corneria",
+      "original": "Of course, I want to see him. But growing my business is important too.",
+      "translation": "Конечно, я хочу его увидеть. Но развитие моего бизнеса тоже важно."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_190.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_190.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "That's the Corneria we know and love! Merchant among merchants!",
+      "translation": "Это Корнерия, которую мы знаем и любим! Купец среди торговцев!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_190.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_190.ebm",
+      "index": 11,
+      "speaker": "Corneria",
+      "original": "Thank you so much. Hehe, I'll just keep on doing my best!",
+      "translation": "Большое спасибо. Хе-хе, я буду продолжать стараться изо всех сил!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_190.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_190.ebm",
+      "index": 12,
+      "speaker": "Corneria",
+      "original": "To spread the name of Corneria Enterprise and supply as many as I can with affordable quality items!",
+      "translation": "Распространять имя Корнерия Enterprise и снабжать как можно больше людей доступными качественными товарами!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_190.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_190.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "Great! We're supporting you, Corneria!",
+      "translation": "Большой! Мы поддерживаем тебя, Корнерия!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_190.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_190.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "Ah, I know. How about selling some of the stuff that we synthesize?",
+      "translation": "Ах, я знаю. Как насчет продажи некоторых вещей, которые мы синтезируем?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_190.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_190.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "An interest rate around this, and then a low handling fee...",
+      "translation": "Примерно такая же процентная ставка, а затем низкая комиссия за обработку..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_190.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_190.ebm",
+      "index": 16,
+      "speaker": "Corneria",
+      "original": "Hah, I'm not just going to swallow that. Push the handling up a little higher...",
+      "translation": "Ха, я не собираюсь просто проглотить это. Поднимите ручку немного выше..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_190.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_190.ebm",
+      "index": 17,
+      "speaker": "Lydie",
+      "original": "Hahaha, you two are negotiating already? Come on, Sue, we can't be taking so much of her time.",
+      "translation": "Ха-ха-ха, вы двое уже ведете переговоры? Да ладно, Сью, мы не можем отнимать у нее так много времени."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_190.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_190.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "Okay, okay. We'll continue this later, Corneria!",
+      "translation": "Хорошо, хорошо. Мы продолжим это позже, Корнерия!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_190.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_190.ebm",
+      "index": 19,
+      "speaker": "Corneria",
+      "original": "Very well. I look forward to it. See you later.",
+      "translation": "Очень хорошо. Я с нетерпением жду этого. Увидимся позже."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_190.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_190.ebm",
+      "index": 20,
+      "speaker": "unknown(name_id=48)",
+      "original": "... Corneria? Is that really you?",
+      "translation": "... Корнерия? Это действительно ты?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_190.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_190.ebm",
+      "index": 21,
+      "speaker": "Corneria",
+      "original": "What? ... Are you my father?",
+      "translation": "Что? ... Ты мой отец?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_190.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_190.ebm",
+      "index": 22,
+      "speaker": "Lydie",
+      "original": "Thank goodness for that.",
+      "translation": "Слава богу за это."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_190.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_190.ebm",
+      "index": 23,
+      "speaker": "Sue",
+      "original": "I know!",
+      "translation": "Я знаю!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 0,
+      "speaker": "Corneria",
+      "original": "Hello, girls! There's something I want to discuss with you.",
+      "translation": "Здравствуйте, девочки! Есть кое-что, что я хочу обсудить с тобой."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "There is? What is it?",
+      "translation": "Есть? Что это такое?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 2,
+      "speaker": "Corneria",
+      "original": "I've been reunited with my father. He came and visited my shop!",
+      "translation": "Я воссоединился со своим отцом. Он пришел и посетил мой магазин!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Ah, I knew it! Corneria, congratulations!",
+      "translation": "Ах, я знал это! Корнерия, поздравляю!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "You must have had a lot to talk about. Did he tell you the reason why he left?",
+      "translation": "Вам, наверное, было о чем поговорить. Он рассказал вам причину, по которой ушел?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 5,
+      "speaker": "Corneria",
+      "original": "Yes. It was simple, really. Apparently, he copied too many things...",
+      "translation": "Да. На самом деле это было просто. Видимо, он слишком много чего скопировал..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Excuse me?",
+      "translation": "Прошу прощения?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 7,
+      "speaker": "Corneria",
+      "original": "He took on a lot of work, for the sake of my mother, and shrunk down to a size of a bug!",
+      "translation": "Он взял на себя много работы ради моей матери и уменьшился до размеров жука!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 8,
+      "speaker": "Corneria",
+      "original": "Then my mother thought he had gone missing. It was all a misunderstanding, actually.",
+      "translation": "Потом моя мать подумала, что он пропал. На самом деле это было недоразумение."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Hahaha... I was only joking about becoming that small, but it's actually possible?",
+      "translation": "Ха-ха-ха... Я только пошутил насчет того, чтобы стать таким маленьким, но это вообще возможно?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "You be careful then, Corneria. We don't want Sue keeping you like a pet!",
+      "translation": "Тогда будь осторожен, Корнерия. Мы не хотим, чтобы Сью держала тебя как домашнего любимца!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Hey, I'd never go that far! Although, if I actually saw her, my resolve...",
+      "translation": "Эй, я бы никогда не зашёл так далеко! Хотя, если бы я действительно увидел ее, моя решимость..."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 12,
+      "speaker": "Corneria",
+      "original": "Hehe, I'll be careful, then. I don't want to end up as someone's pet, that's for sure.",
+      "translation": "Хе-хе, тогда я буду осторожен. Я не хочу стать чьим-то домашним любимцем, это точно."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "So, where's your dad now?",
+      "translation": "Итак, где сейчас твой отец?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 14,
+      "speaker": "Corneria",
+      "original": "He isn't in the city anymore. I gave him this.",
+      "translation": "Его больше нет в городе. Я дал ему это."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "What is it? A travel ticket?",
+      "translation": "Что это такое? Проездной билет?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 16,
+      "speaker": "Corneria",
+      "original": "Yes. A ticket back to my hometown, to Kirchen Bell.",
+      "translation": "Да. Билет обратно в мой родной город, в Кирхен-Белл."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 17,
+      "speaker": "Corneria",
+      "original": "There's so much more I want to talk to him about, but only when my mother is there too.",
+      "translation": "Я хочу еще о многом с ним поговорить, но только когда моя мама тоже будет рядом."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "I see! I'm sure she'll be happy about that! When will you be going back?",
+      "translation": "Я понимаю! Я уверен, она будет этому рада! Когда ты вернешься?"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 19,
+      "speaker": "Corneria",
+      "original": "It will be a while, I think.",
+      "translation": "Я думаю, это пройдёт некоторое время."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 20,
+      "speaker": "Corneria",
+      "original": "Business is just getting on track here. I can't afford to step away at the moment.",
+      "translation": "Бизнес здесь только набирает обороты. Я не могу позволить себе отойти в сторону в данный момент."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 21,
+      "speaker": "Sue",
+      "original": "What, are you sure? I think you need to get back there!",
+      "translation": "Что, ты уверен? Я думаю, тебе нужно вернуться туда!"
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 22,
+      "speaker": "Corneria",
+      "original": "A little punishment for making me wait for so long. This time he will have to wait for me.",
+      "translation": "Маленькое наказание за то, что заставил меня так долго ждать. На этот раз ему придется меня дождаться."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 23,
+      "speaker": "Lydie",
+      "original": "Hehe, I can see that. I bet he'll wait as long as it takes.",
+      "translation": "Хе-хе, я это вижу. Могу поспорить, он будет ждать столько, сколько потребуется."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 24,
+      "speaker": "Corneria",
+      "original": "Thank you. I'll be relying on your patronage a little while longer, girls.",
+      "translation": "Спасибо. Девочки, я еще некоторое время буду рассчитывать на ваше покровительство."
+    },
+    "ebm:qc14_cor/event_message_qc14_cor_200.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc14_cor/event_message_qc14_cor_200.ebm",
+      "index": 25,
+      "speaker": "Corneria",
+      "original": "Lydie, Sue. I hope you'll continue to come and visit the Corneria Enterprise!",
+      "translation": "Лиди, Сью. Надеюсь, вы и дальше будете посещать Корнерию Энтерпрайз!"
+    }
+  }
+}

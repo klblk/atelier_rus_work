@@ -1,0 +1,2792 @@
+{
+  "version": 1,
+  "source": "pack01_ebm",
+  "block": "mm09",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "ebm:mm09/event_message_mm09_010.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_010.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Ah, I'm worn out. We can't open or break this door at all, can we! Dad, you're making me real mad!",
+      "translation": "Ах, я устал. Мы вообще не можем открыть или сломать эту дверь, не так ли! Папа, ты меня очень злишь!"
+    },
+    "ebm:mm09/event_message_mm09_010.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_010.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "I know. The next exam conditions have arrived, though. What do you think?",
+      "translation": "Я знаю. Однако наступили условия следующего экзамена. Что вы думаете?"
+    },
+    "ebm:mm09/event_message_mm09_010.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_010.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "I'm wiped. We'll handle that later. We've been up all night, I need some sleep!",
+      "translation": "Я вытерт. Мы разберемся с этим позже. Мы не спали всю ночь, мне нужно немного поспать!"
+    },
+    "ebm:mm09/event_message_mm09_010.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_010.ebm",
+      "index": 3,
+      "speaker": "Lucia",
+      "original": "Lydie! Sue!",
+      "translation": "Лиди! Сью!"
+    },
+    "ebm:mm09/event_message_mm09_010.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_010.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Huh? What's up, Lucia? We were just about to get some sleep...",
+      "translation": "Хм? Как дела, Лючия? Мы как раз собирались поспать..."
+    },
+    "ebm:mm09/event_message_mm09_010.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_010.ebm",
+      "index": 5,
+      "speaker": "Lucia",
+      "original": "There's no time for sleep! Move it!",
+      "translation": "Нет времени на сон! Переместите это!"
+    },
+    "ebm:mm09/event_message_mm09_010.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_010.ebm",
+      "index": 6,
+      "speaker": "Lucia",
+      "original": "Roger has taken over Atelier Borthayre!",
+      "translation": "Роджер взял на себя управление Ателье Бортайр!"
+    },
+    "ebm:mm09/event_message_mm09_010.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_010.ebm",
+      "index": 7,
+      "speaker": "Together",
+      "original": "Whaaaaaaaaat?!",
+      "translation": "Чтооооо?!"
+    },
+    "ebm:mm09/event_message_mm09_010.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_010.ebm",
+      "index": 8,
+      "speaker": "System",
+      "original": "Whaaaaaaaaat?!",
+      "translation": "Чтооооо?!"
+    },
+    "ebm:mm09/event_message_mm09_010.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_010.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "I'm awake now! What's going on, Lucia?",
+      "translation": "Я проснулся! Что происходит, Люсия?"
+    },
+    "ebm:mm09/event_message_mm09_010.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_010.ebm",
+      "index": 10,
+      "speaker": "Lucia",
+      "original": "Exactly what I just said! Your dad suddenly showed up at our atelier.",
+      "translation": "Именно то, что я только что сказал! Твой отец неожиданно появился в нашем ателье."
+    },
+    "ebm:mm09/event_message_mm09_010.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_010.ebm",
+      "index": 11,
+      "speaker": "Lucia",
+      "original": "And demanded that my father and I compete with him in alchemy. We tried...",
+      "translation": "И потребовал, чтобы мы с отцом соревновались с ним в алхимии. Мы попробовали..."
+    },
+    "ebm:mm09/event_message_mm09_010.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_010.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "But he defeated you easily?",
+      "translation": "Но он легко тебя победил?"
+    },
+    "ebm:mm09/event_message_mm09_010.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_010.ebm",
+      "index": 13,
+      "speaker": "Lucia",
+      "original": "Yes. Then he chased us out of the atelier!",
+      "translation": "Да. Потом он выгнал нас из ателье!"
+    },
+    "ebm:mm09/event_message_mm09_010.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_010.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "Just what's he playing at?! Honestly! I'm sorry about all this, Lucia.",
+      "translation": "Во что он играет?! Честно! Мне жаль обо всем этом, Люсия."
+    },
+    "ebm:mm09/event_message_mm09_010.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_010.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "I'd love to make fun of you for losing to our dad, but we've been doing that all night...",
+      "translation": "Я бы с радостью посмеялся над тобой за то, что ты проиграл нашему отцу, но мы делали это всю ночь..."
+    },
+    "ebm:mm09/event_message_mm09_010.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_010.ebm",
+      "index": 16,
+      "speaker": "Lucia",
+      "original": "He was like a different man, seriously. We couldn't do a thing.",
+      "translation": "Он был другим человеком, серьезно. Мы ничего не могли сделать."
+    },
+    "ebm:mm09/event_message_mm09_010.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_010.ebm",
+      "index": 17,
+      "speaker": "Lucia",
+      "original": "It seems he really is a certified alchemist. My dad said the same thing.",
+      "translation": "Кажется, он действительно дипломированный алхимик. Мой отец сказал то же самое."
+    },
+    "ebm:mm09/event_message_mm09_010.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_010.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "I see. Lucia, is he still at Borthayre now?",
+      "translation": "Я понимаю. Люсия, он все еще в Бортайре?"
+    },
+    "ebm:mm09/event_message_mm09_010.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_010.ebm",
+      "index": 19,
+      "speaker": "Lucia",
+      "original": "Yes, most likely. You're going to go and see him?",
+      "translation": "Да, скорее всего. Ты собираешься пойти и увидеться с ним?"
+    },
+    "ebm:mm09/event_message_mm09_010.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_010.ebm",
+      "index": 20,
+      "speaker": "Sue",
+      "original": "Of course! We've got lots of things to say, but first we need to chew him out for running off!",
+      "translation": "Конечно! Нам есть что сказать, но сначала нам нужно отругать его за побег!"
+    },
+    "ebm:mm09/event_message_mm09_010.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_010.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "You said it! I'm going to be telling him off for three days straight! Let's go!",
+      "translation": "Ты сказал это! Я буду его отчитывать три дня подряд! Пойдем!"
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 0,
+      "speaker": "Together",
+      "original": "Dad!",
+      "translation": "Папа!"
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": "Dad!",
+      "translation": "Папа!"
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 2,
+      "speaker": "Roger",
+      "original": "So, you've come.",
+      "translation": "Итак, вы пришли."
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Of course we have! Where have you been?! We were so worried!",
+      "translation": "Конечно, у нас есть! Где ты был?! Мы так волновались!"
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "So worried! What are you doing to Lucia and her dad, too? Come on, let's go back home!",
+      "translation": "Так волнуюсь! Что ты делаешь с Люсией и ее отцом? Давай, вернемся домой!"
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 5,
+      "speaker": "Roger",
+      "original": "I'm sorry for upsetting you, but I'm not going back with you.",
+      "translation": "Прости, что расстроил тебя, но я не вернусь с тобой."
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Why not?! We've got so much we want to ask you, Dad!",
+      "translation": "Почему нет?! Мы так много хотим у тебя спросить, пап!"
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "You're a certified alchemist, aren't you? We saw you traveling the Mysterious Paintings, too!",
+      "translation": "Вы дипломированный алхимик, не так ли? Мы видели, как ты тоже путешествовал по Таинственным Картинкам!"
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "We even saw you crying because you couldn't save Mom! We understand so much more now!",
+      "translation": "Мы даже видели, как ты плачешь, потому что не смог спасти маму! Теперь мы понимаем гораздо больше!"
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 9,
+      "speaker": "Roger",
+      "original": "Ah, \"Etel Nepica\"... Yes, everything you say is true.",
+      "translation": "Ах, «Этель Непика»… Да, все, что вы говорите, правда."
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "In which case, let's keep working at our atelier! We can't become the greatest without you, Dad!",
+      "translation": "В таком случае, продолжим работу в нашем ателье! Без тебя мы не сможем стать величайшими, папа!"
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "Come on, come home! It's too sad without you there.",
+      "translation": "Давай, иди домой! Без тебя здесь слишком грустно."
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 12,
+      "speaker": "Roger",
+      "original": "Lydie, Sue. I challenge you",
+      "translation": "Лиди, Сью. Я бросаю тебе вызов"
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "Challenge? What do you mean, challenge?",
+      "translation": "Испытание? Что значит «вызов»?"
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 14,
+      "speaker": "Roger",
+      "original": "To see which of us can raise our Atelier Rank the fastest. I'll raise Atelier Borthayre's rank.",
+      "translation": "Чтобы увидеть, кто из нас сможет быстрее поднять рейтинг Ателье. Я повышу ранг Ателье Бортайра."
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 15,
+      "speaker": "Roger",
+      "original": "You raise the rank of your own atelier. The one who raises it faster is the winner.",
+      "translation": "Вы повышаете ранг собственного ателье. Победителем становится тот, кто поднимет его быстрее."
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 16,
+      "speaker": "Roger",
+      "original": "If you can't beat me, you'll have to close your atelier!",
+      "translation": "Если ты не сможешь победить меня, тебе придется закрыть свое ателье!"
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 17,
+      "speaker": "Lucia",
+      "original": "Please! This is all just too crazy!",
+      "translation": "Пожалуйста! Это все слишком безумно!"
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "Lucia. What is Borthayre's rank at the moment?",
+      "translation": "Люсия. Какой ранг у Бортайра на данный момент?"
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 19,
+      "speaker": "Lucia",
+      "original": "What? C Rank, but... you aren't seriously going to take this on?",
+      "translation": "Что? Ранг C, но... ты же не собираешься серьезно за это взяться?"
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 20,
+      "speaker": "Lydie",
+      "original": "Yes, of course we are. We're C Rank too, so the start line is the same.",
+      "translation": "Да, конечно. У нас тоже ранг C, поэтому стартовая линия та же."
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "Dad. If we win, you have to come back to our atelier. Understand?",
+      "translation": "Папа. Если мы выиграем, тебе придется вернуться в наше ателье. Понимать?"
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 22,
+      "speaker": "Roger",
+      "original": "Yes, very well.",
+      "translation": "Да, очень хорошо."
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 23,
+      "speaker": "Sue",
+      "original": "We'll see you soon, then. Don't think you can beat us.",
+      "translation": "Тогда скоро увидимся. Не думай, что сможешь победить нас."
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 24,
+      "speaker": "Lydie",
+      "original": "Lucia. We're leaving.",
+      "translation": "Люсия. Мы уходим."
+    },
+    "ebm:mm09/event_message_mm09_020.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_020.ebm",
+      "index": 25,
+      "speaker": "Lucia",
+      "original": "Ah, h-hold on! G-Goodbye, then!",
+      "translation": "Ах, подожди! Тогда до свидания!"
+    },
+    "ebm:mm09/event_message_mm09_030.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_030.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Right. We need to read the exam requirements.",
+      "translation": "Верно. Нам нужно прочитать требования к экзамену."
+    },
+    "ebm:mm09/event_message_mm09_030.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_030.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Yes. I'll get ready to start synthesizing.",
+      "translation": "Да. Я буду готов начать синтезировать."
+    },
+    "ebm:mm09/event_message_mm09_030.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_030.ebm",
+      "index": 2,
+      "speaker": "Lucia",
+      "original": "H-Hold on, you two! Are you really sure about this?",
+      "translation": "П-подождите, вы двое! Вы действительно уверены в этом?"
+    },
+    "ebm:mm09/event_message_mm09_030.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_030.ebm",
+      "index": 3,
+      "speaker": "Lucia",
+      "original": "He's your father, but also a certified alchemist! And if you lose, you have to give up your atelier!",
+      "translation": "Он твой отец, но еще и дипломированный алхимик! А если проиграешь, придется отказаться от своего ателье!"
+    },
+    "ebm:mm09/event_message_mm09_030.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_030.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "It's alright. We aren't going to lose.",
+      "translation": "Все в порядке. Мы не проиграем."
+    },
+    "ebm:mm09/event_message_mm09_030.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_030.ebm",
+      "index": 5,
+      "speaker": "Lucia",
+      "original": "What are you talking about?! There's no guarantee you can win this!",
+      "translation": "О чем ты говоришь?! Нет никакой гарантии, что вы выиграете это!"
+    },
+    "ebm:mm09/event_message_mm09_030.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_030.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "But we're going to. We have to.",
+      "translation": "Но мы собираемся. Мы должны."
+    },
+    "ebm:mm09/event_message_mm09_030.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_030.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "There has to be some reason that our dad suddenly challenged us like this.",
+      "translation": "Должна быть какая-то причина, по которой наш отец внезапно бросил нам такой вызов."
+    },
+    "ebm:mm09/event_message_mm09_030.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_030.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "We want to know why. That's just another reason why we can't afford to lose.",
+      "translation": "Мы хотим знать, почему. Это еще одна причина, почему мы не можем позволить себе проиграть."
+    },
+    "ebm:mm09/event_message_mm09_030.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_030.ebm",
+      "index": 9,
+      "speaker": "Lucia",
+      "original": "Alright... If you're going to go that far, I won't say any more. Just make sure you win, then!",
+      "translation": "Хорошо... Если ты собираешься зайти так далеко, я больше ничего не скажу. Тогда просто убедитесь, что вы выиграли!"
+    },
+    "ebm:mm09/event_message_mm09_030.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_030.ebm",
+      "index": 10,
+      "speaker": "Lucia",
+      "original": "T-That's the only way to get Atelier Borthayre back, after all! I don't mean anything else by it!",
+      "translation": "В конце концов, это единственный способ вернуть Ателье Бортайр! Я не имею в виду ничего другого!"
+    },
+    "ebm:mm09/event_message_mm09_030.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_030.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Hehe, yes, yes, we know. Thank you, Lucia.",
+      "translation": "Хе-хе, да-да, мы знаем. Спасибо, Люсия."
+    },
+    "ebm:mm09/event_message_mm09_030.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_030.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "Ah, Lucia. You can stay here until this competition ends!",
+      "translation": "Ах, Люсия. Ты можешь оставаться здесь, пока соревнование не закончится!"
+    },
+    "ebm:mm09/event_message_mm09_030.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_030.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "This is all our dad's fault, after all. You can help out with the chores, of course.",
+      "translation": "В конце концов, во всем виноват наш отец. Вы, конечно, можете помочь по хозяйству."
+    },
+    "ebm:mm09/event_message_mm09_030.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_030.ebm",
+      "index": 14,
+      "speaker": "Lucia",
+      "original": "What? Are you sure? A bit of washing up is nothing compared to sleeping outside! Thank you!",
+      "translation": "Что? Вы уверены? Небольшое мытье посуды — ничто по сравнению со сном на улице! Спасибо!"
+    },
+    "ebm:mm09/event_message_mm09_030.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_030.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "Good, that settles it. Now, time to get serious about beating our dad!",
+      "translation": "Хорошо, это решает проблему. А теперь пора серьезно задуматься об избиении нашего отца!"
+    },
+    "ebm:mm09/event_message_mm09_030.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_030.ebm",
+      "index": 16,
+      "speaker": "System",
+      "original": "Subsidy of 5000 Coll received.",
+      "translation": "Получена субсидия в размере 5000 колл."
+    },
+    "ebm:mm09/event_message_mm09_040.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_040.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Lucia, do you have a moment? Could you hang out this laundry for us?",
+      "translation": "Люсия, у тебя есть минутка? Не могли бы вы развесить нам это белье?"
+    },
+    "ebm:mm09/event_message_mm09_040.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_040.ebm",
+      "index": 1,
+      "speaker": "Lucia",
+      "original": "Sure, no problem...",
+      "translation": "Конечно, без проблем..."
+    },
+    "ebm:mm09/event_message_mm09_040.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_040.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Lucia. I'd like to eat some fish tonight. Can you cook some tonight?",
+      "translation": "Люсия. Я бы хотел съесть немного рыбы сегодня вечером. Ты можешь приготовить что-нибудь сегодня вечером?"
+    },
+    "ebm:mm09/event_message_mm09_040.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_040.ebm",
+      "index": 3,
+      "speaker": "Lucia",
+      "original": "Sure, I can do that...",
+      "translation": "Конечно, я могу это сделать..."
+    },
+    "ebm:mm09/event_message_mm09_040.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_040.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Ah, we're out of tea! Lucia, can you go and buy some more?",
+      "translation": "Ах, у нас закончился чай! Люсия, можешь пойти и купить еще?"
+    },
+    "ebm:mm09/event_message_mm09_040.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_040.ebm",
+      "index": 5,
+      "speaker": "Lucia",
+      "original": "Ahhhh! I've had enough! Don't you think you're ordering me around too much?!",
+      "translation": "Аааа! С меня хватит! Тебе не кажется, что ты слишком много мне приказываешь?!"
+    },
+    "ebm:mm09/event_message_mm09_040.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_040.ebm",
+      "index": 6,
+      "speaker": "Lucia",
+      "original": "Cleaning, washing, cooking, shopping! I'm not your maid!",
+      "translation": "Уборка, стирка, готовка, покупки! Я не твоя горничная!"
+    },
+    "ebm:mm09/event_message_mm09_040.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_040.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Oh yeah? You're living here rent free, Lucia! You said you could handle any chores, right?",
+      "translation": "Ах, да? Ты живешь здесь бесплатно, Лючия! Ты сказал, что справишься с любой работой по дому, верно?"
+    },
+    "ebm:mm09/event_message_mm09_040.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_040.ebm",
+      "index": 8,
+      "speaker": "Lucia",
+      "original": "Guwah! You are letting me stay here, I know!",
+      "translation": "Гува! Ты позволяешь мне остаться здесь, я знаю!"
+    },
+    "ebm:mm09/event_message_mm09_040.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_040.ebm",
+      "index": 9,
+      "speaker": "Lucia",
+      "original": "Gah! This is all because your dad came and took over!",
+      "translation": "Га! Это все потому, что твой отец пришел и взял на себя управление!"
+    },
+    "ebm:mm09/event_message_mm09_040.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_040.ebm",
+      "index": 10,
+      "speaker": "Lucia",
+      "original": "Although I guess it's more like him just coming home, really, isn't it...",
+      "translation": "Хотя я думаю, это больше похоже на то, что он просто вернулся домой, правда, не так ли..."
+    },
+    "ebm:mm09/event_message_mm09_040.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_040.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "C-Coming home? Atelier Borthayre is dad's home? What do you mean?",
+      "translation": "Д-возвращаемся домой? Ателье Бортайр — папин дом? Что ты имеешь в виду?"
+    },
+    "ebm:mm09/event_message_mm09_040.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_040.ebm",
+      "index": 12,
+      "speaker": "Lucia",
+      "original": "What? You don't know? Your dad Roger is my father's younger brother!",
+      "translation": "Что? Вы не знаете? Твой отец Роджер — младший брат моего отца!"
+    },
+    "ebm:mm09/event_message_mm09_040.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_040.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "What? Your dad and our dad are related? They're brothers?",
+      "translation": "Что? Твой отец и наш отец родственники? Они братья?"
+    },
+    "ebm:mm09/event_message_mm09_040.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_040.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "Which means... what! We're cousins?",
+      "translation": "Это значит... что! Мы двоюродные братья?"
+    },
+    "ebm:mm09/event_message_mm09_040.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_040.ebm",
+      "index": 15,
+      "speaker": "Lucia",
+      "original": "Seriously, you are just finding this out? How is that a thing?",
+      "translation": "Серьезно, ты только что это узнал? Как это?"
+    },
+    "ebm:mm09/event_message_mm09_040.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_040.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "Hold on, hold it! We have different names! Our surname is Malen, and your name is Borthayre!",
+      "translation": "Подожди, подожди! У нас разные имена! Наша фамилия Мален, а тебя зовут Бортайр!"
+    },
+    "ebm:mm09/event_message_mm09_040.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_040.ebm",
+      "index": 17,
+      "speaker": "Lucia",
+      "original": "Yes. He changed his name when he left home, I guess. His real name is Roger Borthayre.",
+      "translation": "Да. Я думаю, он сменил имя, когда ушел из дома. Его настоящее имя — Роджер Бортайр."
+    },
+    "ebm:mm09/event_message_mm09_040.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_040.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "Uwah, I'm getting a headache! So we're your cousins. Hmmm.",
+      "translation": "Ух, у меня болит голова! Итак, мы ваши кузены. Хм."
+    },
+    "ebm:mm09/event_message_mm09_040.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_040.ebm",
+      "index": 19,
+      "speaker": "Lucia",
+      "original": "No need to sound happy about it! I'm off to get the groceries, anyway.",
+      "translation": "Не нужно радоваться этому! Я все равно пойду за продуктами."
+    },
+    "ebm:mm09/event_message_mm09_040.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_040.ebm",
+      "index": 20,
+      "speaker": "Sue",
+      "original": "We're cousins with Lucia? I'm shocked, being related to such an airhead!",
+      "translation": "Мы с Люсией двоюродные братья? Я в шоке, что имею отношение к такому легкомысленному человеку!"
+    },
+    "ebm:mm09/event_message_mm09_040.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_040.ebm",
+      "index": 21,
+      "speaker": "Lucia",
+      "original": "Achooo!",
+      "translation": "Ахууу!"
+    },
+    "ebm:mm09/event_message_mm09_050.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_050.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Sue. Will you pass me that material there?",
+      "translation": "Сью. Вы передадите мне этот материал?"
+    },
+    "ebm:mm09/event_message_mm09_050.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_050.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Yes. But hold on, shouldn't you put that in first? I thought this would be better...",
+      "translation": "Да. Но подожди, разве ты не должен вставить это первым? Я думал, так будет лучше..."
+    },
+    "ebm:mm09/event_message_mm09_050.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_050.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "That will make the ingredients settle. This one will help make it more uniform.",
+      "translation": "Это заставит ингредиенты осесть. Это поможет сделать его более однородным."
+    },
+    "ebm:mm09/event_message_mm09_050.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_050.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Ah, I see. So putting that in first sounds better!",
+      "translation": "Ах, я вижу. Так что поместить это в первую очередь звучит лучше!"
+    },
+    "ebm:mm09/event_message_mm09_050.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_050.ebm",
+      "index": 4,
+      "speaker": "Lucia",
+      "original": "Hum...",
+      "translation": "Хм..."
+    },
+    "ebm:mm09/event_message_mm09_050.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_050.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Yes, finished! I think this worked out pretty well.",
+      "translation": "Да, закончено! Я думаю, это сработало очень хорошо."
+    },
+    "ebm:mm09/event_message_mm09_050.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_050.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "Yep, it looks great. Next on the list...",
+      "translation": "Да, выглядит великолепно. Дальше по списку..."
+    },
+    "ebm:mm09/event_message_mm09_050.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_050.ebm",
+      "index": 7,
+      "speaker": "Lucia",
+      "original": "Hmmm...",
+      "translation": "Хм..."
+    },
+    "ebm:mm09/event_message_mm09_050.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_050.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "What's up, Lucia? You've been mumbling to yourself over there. Do you have stomach pains?",
+      "translation": "Как дела, Лючия? Ты там что-то бормотал про себя. У вас болит живот?"
+    },
+    "ebm:mm09/event_message_mm09_050.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_050.ebm",
+      "index": 9,
+      "speaker": "Lucia",
+      "original": "No, it's just I'm impressed by how good you've become at synthesizing.",
+      "translation": "Нет, просто я впечатлен тем, насколько хорошо ты научился синтезировать."
+    },
+    "ebm:mm09/event_message_mm09_050.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_050.ebm",
+      "index": 10,
+      "speaker": "Lucia",
+      "original": "To be honest, you're as good as me, if not better.",
+      "translation": "Честно говоря, ты так же хорош, как я, если не лучше."
+    },
+    "ebm:mm09/event_message_mm09_050.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_050.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "It's not like you to give such honest praise, Lucia. Maybe it will rain Puni tomorrow!",
+      "translation": "Не на тебя так честно хвалить, Лючия. Возможно, завтра в Пуни пойдет дождь!"
+    },
+    "ebm:mm09/event_message_mm09_050.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_050.ebm",
+      "index": 12,
+      "speaker": "Lucia",
+      "original": "It's not like I want to admit it, but I can hardly deny the skills you are showing me, either.",
+      "translation": "Не то чтобы я хотел это признавать, но я вряд ли могу отрицать и те навыки, которые ты мне показываешь."
+    },
+    "ebm:mm09/event_message_mm09_050.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_050.ebm",
+      "index": 13,
+      "speaker": "Lucia",
+      "original": "This doesn't mean I'm giving up, though! I'm going to train harder and catch back up, you'll see!",
+      "translation": "Однако это не значит, что я сдаюсь! Я буду тренироваться усерднее и наверстывать упущенное, вот увидите!"
+    },
+    "ebm:mm09/event_message_mm09_050.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_050.ebm",
+      "index": 14,
+      "speaker": "Lucia",
+      "original": "Ohohoho! You'd better keep that in mind, both of you!",
+      "translation": "Ого-хо-хо! Вам обоим лучше иметь это в виду!"
+    },
+    "ebm:mm09/event_message_mm09_060.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_060.ebm",
+      "index": 0,
+      "speaker": "Old Woman",
+      "original": "Thank you for making this wonderful item for me. It's a big help, girls.",
+      "translation": "Спасибо, что сделали для меня эту замечательную вещь. Девочки, это большая помощь."
+    },
+    "ebm:mm09/event_message_mm09_060.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_060.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "No problem. Please come again any time.",
+      "translation": "Без проблем. Пожалуйста, приходите снова в любое время."
+    },
+    "ebm:mm09/event_message_mm09_060.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_060.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Hehe... hahaha!",
+      "translation": "Хе-хе... ха-ха-ха!"
+    },
+    "ebm:mm09/event_message_mm09_060.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_060.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Hahahaha!",
+      "translation": "Ха-ха-ха!"
+    },
+    "ebm:mm09/event_message_mm09_060.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_060.ebm",
+      "index": 4,
+      "speaker": "Lucia",
+      "original": "W-What's going on, you two freaks? Why are you suddenly laughing like that! It's weird!",
+      "translation": "Ч-что происходит, вы двое уроды? Почему ты вдруг так смеешься! Это странно!"
+    },
+    "ebm:mm09/event_message_mm09_060.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_060.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Hah! You got a problem? We're laughing in our own atelier, that's all!",
+      "translation": "Ха! У тебя проблема? Смеемся в своем ателье, вот и все!"
+    },
+    "ebm:mm09/event_message_mm09_060.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_060.ebm",
+      "index": 6,
+      "speaker": "Lucia",
+      "original": "No. It's well suspicious. Why do you laugh each time you finish a job?",
+      "translation": "Нет. Это очень подозрительно. Почему вы смеетесь каждый раз, когда заканчиваете работу?"
+    },
+    "ebm:mm09/event_message_mm09_060.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_060.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "Because she said \"Thank you\".",
+      "translation": "Потому что она сказала «Спасибо»."
+    },
+    "ebm:mm09/event_message_mm09_060.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_060.ebm",
+      "index": 8,
+      "speaker": "Lucia",
+      "original": "What? What's that got to do with anything?",
+      "translation": "Что? Какое это имеет отношение к чему-либо?"
+    },
+    "ebm:mm09/event_message_mm09_060.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_060.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Doing a job and being told \"Thank you\" makes you happy, right?",
+      "translation": "Выполнение работы и слова «Спасибо» делают вас счастливыми, верно?"
+    },
+    "ebm:mm09/event_message_mm09_060.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_060.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "You understand, Lucia, don't you? How people's gratitude makes you feel warm and fuzzy?",
+      "translation": "Ты понимаешь, Лючия, не так ли? Как благодарность людей заставляет вас чувствовать себя тепло и уютно?"
+    },
+    "ebm:mm09/event_message_mm09_060.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_060.ebm",
+      "index": 11,
+      "speaker": "Lucia",
+      "original": "I guess I understand that... I do like making customers happy.",
+      "translation": "Думаю, я это понимаю... Мне нравится делать клиентов счастливыми."
+    },
+    "ebm:mm09/event_message_mm09_060.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_060.ebm",
+      "index": 12,
+      "speaker": "Lucia",
+      "original": "But I still think I should warn you. You looked really, really suspicious laughing like that!",
+      "translation": "Но я все же думаю, что должен вас предупредить. Ты выглядел очень, очень подозрительно, смеясь вот так!"
+    },
+    "ebm:mm09/event_message_mm09_060.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_060.ebm",
+      "index": 13,
+      "speaker": "Lucia",
+      "original": "If someone saw you doing that, I think it would even scare customers off!",
+      "translation": "Если бы кто-то увидел, как вы это делаете, я думаю, это даже отпугнуло бы клиентов!"
+    },
+    "ebm:mm09/event_message_mm09_060.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_060.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "W-was it that creepy? We'd better take care, then.",
+      "translation": "Ч-это было так жутко? Тогда нам лучше позаботиться."
+    },
+    "ebm:mm09/event_message_mm09_060.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_060.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "Yeah. We wouldn't make to lose customers over something like that!",
+      "translation": "Ага. Мы бы не стали терять клиентов из-за чего-то подобного!"
+    },
+    "ebm:mm09/event_message_mm09_070.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_070.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Right. Our reputation should be high enough to take the next exam by now.",
+      "translation": "Верно. Наша репутация должна быть достаточно высокой, чтобы уже сейчас сдать следующий экзамен."
+    },
+    "ebm:mm09/event_message_mm09_070.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_070.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "I agree. I wonder how dad is doing? He might already be B Rank by now.",
+      "translation": "Я согласен. Интересно, как дела у папы? Возможно, он уже имеет ранг B."
+    },
+    "ebm:mm09/event_message_mm09_070.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_070.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "No idea. We can't worry about that, anyway. We just have to do whatever we can, for ourselves.",
+      "translation": "Понятия не имею. В любом случае, мы не можем об этом беспокоиться. Мы просто должны делать все, что можем, для себя."
+    },
+    "ebm:mm09/event_message_mm09_070.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_070.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "You're right, of course. Let's go and report to Mireille!",
+      "translation": "Вы правы, конечно. Пойдем, доложим Мирей!"
+    },
+    "ebm:mm09/event_message_mm09_075.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_075.ebm",
+      "index": 0,
+      "speaker": "Mireille",
+      "original": "Your reputation isn't high enough yet to take the next exam. Keep it up! You'll get there!",
+      "translation": "Ваша репутация еще недостаточно высока, чтобы сдавать следующий экзамен. Так держать! Вы доберетесь туда!"
+    },
+    "ebm:mm09/event_message_mm09_075.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_075.ebm",
+      "index": 1,
+      "speaker": "Mireille",
+      "original": "Interesting. Your reputation has grown quite a lot. I think you might be ready for the exam.",
+      "translation": "Интересный. Ваша репутация значительно выросла. Я думаю, ты можешь быть готов к экзамену."
+    },
+    "ebm:mm09/event_message_mm09_075.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_075.ebm",
+      "index": 2,
+      "speaker": "Mireille",
+      "original": "What do you think? Do you want to try the next Promotion Test?",
+      "translation": "Что вы думаете? Хотите попробовать следующий промо-тест?"
+    },
+    "ebm:mm09/event_message_mm09_075.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_075.ebm",
+      "index": 3,
+      "speaker": "Mireille",
+      "original": "That's fine, too. If you decide to take the test, just come and see me any time.",
+      "translation": "Это тоже нормально. Если вы решите пройти тест, просто приходите ко мне в любое время."
+    },
+    "ebm:mm09/event_message_mm09_080.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_080.ebm",
+      "index": 0,
+      "speaker": "Mireille",
+      "original": "Very well. The next exam is...",
+      "translation": "Очень хорошо. Следующий экзамен..."
+    },
+    "ebm:mm09/event_message_mm09_080.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_080.ebm",
+      "index": 1,
+      "speaker": "Roger",
+      "original": "Wait a moment. I'm going to take that exam too.",
+      "translation": "Подождите минутку. Я тоже собираюсь сдать этот экзамен."
+    },
+    "ebm:mm09/event_message_mm09_080.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_080.ebm",
+      "index": 2,
+      "speaker": "Mireille",
+      "original": "Roger. I've heard about the situation from Lucia. You have the reputation, so you may take part too.",
+      "translation": "Роджер. Я слышал о ситуации от Люсии. У вас есть репутация, поэтому вы тоже можете принять участие."
+    },
+    "ebm:mm09/event_message_mm09_080.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_080.ebm",
+      "index": 3,
+      "speaker": "Mireille",
+      "original": "In which case, all three of you. This is your next exam!",
+      "translation": "В таком случае, вы все трое. Это твой следующий экзамен!"
+    },
+    "ebm:mm09/event_message_mm09_080.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_080.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "To synthesize the item on these reference materials? That sounds super easy, though!",
+      "translation": "Синтезировать предмет по этим справочным материалам? Хотя это звучит очень просто!"
+    },
+    "ebm:mm09/event_message_mm09_080.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_080.ebm",
+      "index": 5,
+      "speaker": "Mireille",
+      "original": "It's not going to be easy. These materials are more than 500 years old.",
+      "translation": "Это будет нелегко. Этим материалам более 500 лет."
+    },
+    "ebm:mm09/event_message_mm09_080.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_080.ebm",
+      "index": 6,
+      "speaker": "Mireille",
+      "original": "From the golden age of alchemy. A regular alchemist won't even be able to read it.",
+      "translation": "Из золотого века алхимии. Обычный алхимик даже не сможет это прочитать."
+    },
+    "ebm:mm09/event_message_mm09_080.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_080.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "I see. Perfect for the competition, then.",
+      "translation": "Я понимаю. Тогда идеально подходит для соревнований."
+    },
+    "ebm:mm09/event_message_mm09_080.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_080.ebm",
+      "index": 8,
+      "speaker": "Roger",
+      "original": "Yes. Our true battle starts now. Lydie, Sue. Show me what you can really do!",
+      "translation": "Да. Наша настоящая битва начинается сейчас. Лиди, Сью. Покажи мне, на что ты действительно способен!"
+    },
+    "ebm:mm09/event_message_mm09_080.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_080.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "You don't have to tell us twice! We'll show you twice, though!",
+      "translation": "Вам не нужно говорить нам дважды! Но мы покажем вам дважды!"
+    },
+    "ebm:mm09/event_message_mm09_080.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_080.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "We're not losing to you, Dad!",
+      "translation": "Мы не проиграем тебе, папа!"
+    },
+    "ebm:mm09/event_message_mm09_080.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_080.ebm",
+      "index": 11,
+      "speaker": "System",
+      "original": "<CLEG>B Rank Test Problem<CLNR> received.",
+      "translation": "<CLEG>Тестовая задача ранга B<CLNR> получена."
+    },
+    "ebm:mm09/event_message_mm09_090.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_090.ebm",
+      "index": 0,
+      "speaker": "Roger",
+      "original": "Hahahaha! Rejoice! I'm back, girls!",
+      "translation": "Ха-ха-ха! Радуйтесь! Я вернулась, девочки!"
+    },
+    "ebm:mm09/event_message_mm09_090.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_090.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "D-Dad! Does this mean...",
+      "translation": "Д-папа! Означает ли это..."
+    },
+    "ebm:mm09/event_message_mm09_090.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_090.ebm",
+      "index": 2,
+      "speaker": "Roger",
+      "original": "Yes, it does! I'm B Rank, my babies! Beat you to it!",
+      "translation": "Да, это так! У меня ранг B, детки мои! Победи тебя!"
+    },
+    "ebm:mm09/event_message_mm09_090.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_090.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "N-No way! We lost?",
+      "translation": "Н-Ни за что! Мы проиграли?"
+    },
+    "ebm:mm09/event_message_mm09_090.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_090.ebm",
+      "index": 4,
+      "speaker": "Roger",
+      "original": "Hah! Losing to me means you've still got a long way to go!",
+      "translation": "Ха! Проигрыш для меня означает, что тебе еще предстоит пройти долгий путь!"
+    },
+    "ebm:mm09/event_message_mm09_090.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_090.ebm",
+      "index": 5,
+      "speaker": "Roger",
+      "original": "Anyway, I was just joking about closing this place down. With my new confidence, we can all...",
+      "translation": "В любом случае, я просто пошутил насчет закрытия этого места. С моей новой уверенностью мы все сможем..."
+    },
+    "ebm:mm09/event_message_mm09_090.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_090.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "We're leaving!",
+      "translation": "Мы уходим!"
+    },
+    "ebm:mm09/event_message_mm09_090.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_090.ebm",
+      "index": 7,
+      "speaker": "Roger",
+      "original": "What?",
+      "translation": "Что?"
+    },
+    "ebm:mm09/event_message_mm09_090.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_090.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "You've pushed us to the wrong side of the tracks, Dad! You moron! We're done with you!",
+      "translation": "Ты сбил нас с пути, пап! Ты идиот! Мы закончили с тобой!"
+    },
+    "ebm:mm09/event_message_mm09_090.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_090.ebm",
+      "index": 9,
+      "speaker": "Roger",
+      "original": "Hey! Hey, girls! Come back!",
+      "translation": "Привет! Эй, девочки! Вернись!"
+    },
+    "ebm:mm09/event_message_mm09_090.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_090.ebm",
+      "index": 10,
+      "speaker": "System",
+      "original": "Lydie and Suelle lost to Roger.<CR>Their defeat triggered an explosion of anger toward him.",
+      "translation": "Лиди и Сюэль проиграли Роджеру.<CR>Их поражение вызвало взрыв гнева по отношению к нему."
+    },
+    "ebm:mm09/event_message_mm09_090.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_090.ebm",
+      "index": 11,
+      "speaker": "System",
+      "original": "Propelled by their emotions,<CR>the two of them dashed out from the Atelier.",
+      "translation": "Подгоняемые эмоциями,<CR> они вдвоем выбежали из Ателье."
+    },
+    "ebm:mm09/event_message_mm09_090.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_090.ebm",
+      "index": 12,
+      "speaker": "System",
+      "original": "Becoming rebels, soon they came to rule the Merveille's underworld,<CR>known as the twin leaders of a gang... but that's another story.",
+      "translation": "Став повстанцами, они вскоре стали править преступным миром Мервейля, <CR>известных как лидеры-близнецы банды... но это уже другая история."
+    },
+    "ebm:mm09/event_message_mm09_090.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_090.ebm",
+      "index": 13,
+      "speaker": "System",
+      "original": "What did girls think about their lives after they left alchemy behind?<CR>Only they know the truth.",
+      "translation": "Что думали девушки о своей жизни после того, как оставили алхимию позади?<CR>Только они знают правду."
+    },
+    "ebm:mm09/event_message_mm09_095.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_095.ebm",
+      "index": 0,
+      "speaker": "Mireille",
+      "original": "It's time to announce my evaluation!",
+      "translation": "Пришло время огласить мою оценку!"
+    },
+    "ebm:mm09/event_message_mm09_095.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_095.ebm",
+      "index": 1,
+      "speaker": "Mireille",
+      "original": "Well done. Most impressive, in fact! I can't fault this at all!",
+      "translation": "Отличная работа. На самом деле, самое впечатляющее! Я вообще не могу в этом винить!"
+    },
+    "ebm:mm09/event_message_mm09_095.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_095.ebm",
+      "index": 2,
+      "speaker": "Mireille",
+      "original": "Yes, that's pretty good. You pass!",
+      "translation": "Да, это очень хорошо. Вы проходите!"
+    },
+    "ebm:mm09/event_message_mm09_095.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_095.ebm",
+      "index": 3,
+      "speaker": "Mireille",
+      "original": "That's barely a pass. You just scraped over the line. You'll need to try harder next time!",
+      "translation": "Это едва ли проходной балл. Вы просто перешли черту. В следующий раз вам придется постараться больше!"
+    },
+    "ebm:mm09/event_message_mm09_095.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_095.ebm",
+      "index": 4,
+      "speaker": "Mireille",
+      "original": "Sorry, this is no good. I can't let you pass based on this.",
+      "translation": "Извините, это бесполезно. Я не могу позволить тебе пройти из-за этого."
+    },
+    "ebm:mm09/event_message_mm09_100.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_100.ebm",
+      "index": 0,
+      "speaker": "Mireille",
+      "original": "Congratulations! Both of you, you've reached B Rank!",
+      "translation": "Поздравляем! Вы оба достигли ранга B!"
+    },
+    "ebm:mm09/event_message_mm09_100.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_100.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Thank you! What about Dad?",
+      "translation": "Спасибо! А что насчет папы?"
+    },
+    "ebm:mm09/event_message_mm09_100.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_100.ebm",
+      "index": 2,
+      "speaker": "Roger",
+      "original": "Just one step behind, from the looks of it. You've improved at alchemy considerably.",
+      "translation": "Судя по всему, всего на шаг позади. Вы значительно продвинулись в алхимии."
+    },
+    "ebm:mm09/event_message_mm09_100.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_100.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Yes, we have. We won. So please, Dad, as you promised. Come back home.",
+      "translation": "Да, у нас есть. Мы выиграли. Пожалуйста, пап, как ты и обещал. Возвращайся домой."
+    },
+    "ebm:mm09/event_message_mm09_100.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_100.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Before that, though, you need to tell us why you suddenly vanished, and everything else.",
+      "translation": "Но перед этим тебе нужно рассказать нам, почему ты внезапно исчез, и все остальное."
+    },
+    "ebm:mm09/event_message_mm09_100.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_100.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Do you have any idea how much we worried about you, Dad?",
+      "translation": "Ты хоть представляешь, как сильно мы за тебя переживали, пап?"
+    },
+    "ebm:mm09/event_message_mm09_100.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_100.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "You're going to be talking to us until your voice is hoarse, you hear?",
+      "translation": "Ты будешь говорить с нами до хрипоты, слышишь?"
+    },
+    "ebm:mm09/event_message_mm09_100.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_100.ebm",
+      "index": 7,
+      "speaker": "Roger",
+      "original": "Lydie, Sue. Yes, I'm very sorry. Sorry for everything I have done to you...",
+      "translation": "Лиди, Сью. Да, мне очень жаль. Прости за все, что я тебе сделал..."
+    },
+    "ebm:mm09/event_message_mm09_100.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_100.ebm",
+      "index": 8,
+      "speaker": "Roger",
+      "original": "Girls. Please come to Honnete's grave. I will tell you everything there.",
+      "translation": "Девушки. Пожалуйста, приходите на могилу Оннет. Я тебе там все расскажу."
+    },
+    "ebm:mm09/event_message_mm09_100.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_100.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "Let's go, then. Go to Mom's grave.",
+      "translation": "Тогда пойдем. Сходите на могилу мамы."
+    },
+    "ebm:mm09/event_message_mm09_100.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_100.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Right!",
+      "translation": "Верно!"
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Dad?",
+      "translation": "Папа?"
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 1,
+      "speaker": "Roger",
+      "original": "I was once so confident! I studied since I was a kid and passed the certification exam.",
+      "translation": "Когда-то я был таким самоуверенным! Я учился с детства и сдал сертификационный экзамен."
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 2,
+      "speaker": "Roger",
+      "original": "I met Honnete, we had both of you, and then came back here to Merveille.",
+      "translation": "Я встретил Оннет, вы были у нас обоих, а потом вернулся сюда, в Мервейле."
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 3,
+      "speaker": "Roger",
+      "original": "We promised to run the greatest atelier, and I never doubted for a moment that we'd achieve it.",
+      "translation": "Мы обещали открыть величайшее ателье, и я ни на секунду не сомневался, что мы этого добьемся."
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 4,
+      "speaker": "Roger",
+      "original": "But I couldn't keep that promise. I had such confidence and yet I couldn't save Honnete...",
+      "translation": "Но я не смог сдержать это обещание. У меня была такая уверенность, но я не смог спасти Оннет..."
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 5,
+      "speaker": "Roger",
+      "original": "After that, I was a wreck. Any time I seriously tried to synthesize, I just fell apart.",
+      "translation": "После этого я потерпел крушение. Каждый раз, когда я серьезно пытался синтезировать, я просто разваливался."
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 6,
+      "speaker": "Roger",
+      "original": "I tried to keep on using alchemy, but could only make jokey, half-finished things.",
+      "translation": "Я пытался продолжать использовать алхимию, но мог делать только шутливые, недоделанные вещи."
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 7,
+      "speaker": "Roger",
+      "original": "The result was the clown that you've grown up with.",
+      "translation": "Результатом стал клоун, с которым ты вырос."
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "So that's what happened.",
+      "translation": "Вот что произошло."
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 9,
+      "speaker": "Roger",
+      "original": "Yes. The reason I did all this, was because I was sick with how pathetic I've become.",
+      "translation": "Да. Причина, по которой я все это сделал, заключалась в том, что меня тошнило от того, насколько жалким я стал."
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 10,
+      "speaker": "Roger",
+      "original": "You've been making such progress and I've just been sitting around moping, getting left behind.",
+      "translation": "Вы добились такого прогресса, а я просто сидел и хандрил, оставаясь позади."
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 11,
+      "speaker": "Roger",
+      "original": "Panicking, knowing I couldn't leave it like this, I decided challenging you was the best idea.",
+      "translation": "В панике, зная, что не могу так оставить, я решил, что бросить тебе вызов — лучшая идея."
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 12,
+      "speaker": "Roger",
+      "original": "I wanted to beat you and act all fatherly, but it was all I could do to keep my hands from shaking.",
+      "translation": "Я хотел победить тебя и вести себя по-отечески, но все, что я мог сделать, это удержать руки от тряски."
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "Dad!",
+      "translation": "Папа!"
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 14,
+      "speaker": "Roger",
+      "original": "You girls are now true alchemists. Please, will you keep my promise for me?",
+      "translation": "Вы, девчонки, теперь настоящие алхимики. Пожалуйста, сдержишь ли ты мое обещание?"
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 15,
+      "speaker": "Roger",
+      "original": "Our promise, to become the greatest alchemists in the kingdom?",
+      "translation": "Наше обещание стать величайшими алхимиками королевства?"
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "No. I don't want to do that.",
+      "translation": "Нет, я не хочу этого делать."
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 17,
+      "speaker": "Roger",
+      "original": "Sue?",
+      "translation": "Сью?"
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "Me neither. We promised Mom to run the greatest atelier in the kingdom, together, as a family.",
+      "translation": "И я нет. Мы пообещали маме вместе, как семья, управлять лучшим ателье в королевстве."
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "Me, and Sue, and you, Dad! We have to do it together or it will be meaningless!",
+      "translation": "Я, и Сью, и ты, пап! Мы должны сделать это вместе, иначе это будет бессмысленно!"
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 20,
+      "speaker": "Sue",
+      "original": "So don't ask us to do anything for you! Let's all aim to become the greatest, together!",
+      "translation": "Так что не просите нас ничего для вас сделать! Давайте все вместе стремиться стать величайшими!"
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 21,
+      "speaker": "Roger",
+      "original": "I can't. I couldn't keep any of those promises...",
+      "translation": "Я не могу. Я не смог сдержать ни одно из этих обещаний..."
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 22,
+      "speaker": "Roger",
+      "original": "To have the greatest atelier... To travel as a family through the paintings...",
+      "translation": "Иметь величайшее ателье... Путешествовать всей семьей среди картин..."
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 23,
+      "speaker": "Roger",
+      "original": "And, more than anything, to make her happy... I've failed in every promise that I made her.",
+      "translation": "И, прежде всего, чтобы сделать ее счастливой... Я не выполнил каждое обещание, которое дал ей."
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 24,
+      "speaker": "Lydie",
+      "original": "You're wrong! Mom told us, that in the end you always keep your promises!",
+      "translation": "Вы ошибаетесь! Мама нам говорила, что в конце концов свои обещания всегда выполняешь!"
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 25,
+      "speaker": "Roger",
+      "original": "But girls...",
+      "translation": "Но девочки..."
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 26,
+      "speaker": "Sue",
+      "original": "Gah, enough! Dad, come to the basement!",
+      "translation": "Га, хватит! Папа, иди в подвал!"
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 27,
+      "speaker": "Sue",
+      "original": "The basement! Move it!",
+      "translation": "Подвал! Переместите это!"
+    },
+    "ebm:mm09/event_message_mm09_110.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_110.ebm",
+      "index": 28,
+      "speaker": "Roger",
+      "original": "What? Fine, fine. I'm coming.",
+      "translation": "Что? Хорошо, хорошо. Я иду."
+    },
+    "ebm:mm09/event_message_mm09_120.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_120.ebm",
+      "index": 0,
+      "speaker": "Lucia",
+      "original": "Hey, you two! What happened? Did you win?",
+      "translation": "Эй, вы двое! Что случилось? Вы выиграли?"
+    },
+    "ebm:mm09/event_message_mm09_120.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_120.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Heheh, no need to worry. We won with ease!",
+      "translation": "Хе-хе, не стоит волноваться. Мы победили с лёгкостью!"
+    },
+    "ebm:mm09/event_message_mm09_120.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_120.ebm",
+      "index": 2,
+      "speaker": "Lucia",
+      "original": "You did? Well done! Then I can finally go home?",
+      "translation": "Вы сделали? Отличная работа! Тогда я наконец смогу пойти домой?"
+    },
+    "ebm:mm09/event_message_mm09_120.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_120.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Yes. Sorry for all the trouble caused by our dad. It was fun living with you for a while, though!",
+      "translation": "Да. Прости за все неприятности, причиненные нашим отцом. Хотя какое-то время пожить с тобой было весело!"
+    },
+    "ebm:mm09/event_message_mm09_120.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_120.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Heheh, your cooking was really great, Lucia. You can come and stay any time!",
+      "translation": "Хе-хех, Люсия, ты действительно великолепно готовила. Вы можете приехать и остаться в любое время!"
+    },
+    "ebm:mm09/event_message_mm09_120.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_120.ebm",
+      "index": 5,
+      "speaker": "Lucia",
+      "original": "Hehe. I'll give it some thought. Thank you for letting me stay.",
+      "translation": "Хе-хе. Я подумаю. Спасибо, что позволил мне остаться."
+    },
+    "ebm:mm09/event_message_mm09_120.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_120.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "Hmm. I'm almost sad to see her go, noisy as she is.",
+      "translation": "Хм. Мне почти грустно видеть, как она уходит, какой бы шумной она ни была."
+    },
+    "ebm:mm09/event_message_mm09_120.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_120.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "Me too. I'm sure she'll be back around before we know it, though.",
+      "translation": "Я тоже. Хотя я уверен, что она вернется раньше, чем мы об этом узнаем."
+    },
+    "ebm:mm09/event_message_mm09_120.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_120.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Yeah, you're right. Come on, let's go to the basement.",
+      "translation": "Да, ты прав. Давай, пойдём в подвал."
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Ah, there you are, Dad! Can you open this door?",
+      "translation": "Ах, вот ты где, папа! Ты можешь открыть эту дверь?"
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 1,
+      "speaker": "Roger",
+      "original": "Sure, I can do that.",
+      "translation": "Конечно, я могу это сделать."
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Ah, what a beautiful painting. You painted this, didn't you Dad?",
+      "translation": "Ах, какая красивая картина. Ты нарисовал это, не так ли, папа?"
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 3,
+      "speaker": "Roger",
+      "original": "Yes. It's called \"Heavenly Flower Garden\". I started painting it for Honnete...",
+      "translation": "Да. Он называется «Небесный цветник». Я начал рисовать это для Оннет..."
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 4,
+      "speaker": "Roger",
+      "original": "But it ended up being a tribute to her.",
+      "translation": "Но в итоге это стало данью ей уважения."
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Say, Dad. About whether or not you've kept your promises...",
+      "translation": "Скажи, папа. О том, сдержали ли вы свои обещания..."
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "Why don't we go and ask Mom about that?",
+      "translation": "Почему бы нам не пойти и не спросить об этом маму?"
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 7,
+      "speaker": "Roger",
+      "original": "Ask Honnete? What do you mean?",
+      "translation": "Спросить Оннет? Что ты имеешь в виду?"
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "It seems like Mom is inside this painting. The fragment of her soul is still living inside it.",
+      "translation": "Кажется, что мама находится внутри этой картины. Внутри него до сих пор живет фрагмент ее души."
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "We met Mom inside \"Etel Nepica\". But it wasn't Mom from the past.",
+      "translation": "Мы встретили маму в «Этель Непика». Но это была не мама из прошлого."
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Come on, Dad! Let's all go together to see her!",
+      "translation": "Давай, папа! Давайте все вместе пойдем к ней!"
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 11,
+      "speaker": "Roger",
+      "original": "We can't. I already told you, this isn't a Mysterious Painting.",
+      "translation": "Мы не можем. Я уже говорил вам, что это не Таинственная Картина."
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 12,
+      "speaker": "Roger",
+      "original": "I did use Neige Paints to make it, but there's no world in there.",
+      "translation": "Я использовал Нейдж Paints, чтобы сделать это, но там нет никакого мира."
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "That's not true! We'll show you!",
+      "translation": "Это неправда! Мы покажем вам!"
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "Hold on? We went in last time!",
+      "translation": "Подожди? Мы заходили в прошлый раз!"
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 15,
+      "speaker": "Roger",
+      "original": "Like I said, you can't go inside this painting. That's enough, girls, just give up...",
+      "translation": "Как я уже сказал, вы не можете войти внутрь этой картины. Хватит, девочки, просто сдавайтесь..."
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 16,
+      "speaker": "Together",
+      "original": "Don't give up before you even try!",
+      "translation": "Не сдавайтесь, даже не попробовав!"
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 17,
+      "speaker": "System",
+      "original": "Don't give up before you even try!",
+      "translation": "Не сдавайтесь, даже не попробовав!"
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 18,
+      "speaker": "Roger",
+      "original": "Ugh?!",
+      "translation": "Фу?!"
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "It's common not to be able to get inside at first. There's something we can do to fix it.",
+      "translation": "Обычно поначалу не удается попасть внутрь. Мы можем кое-что сделать, чтобы это исправить."
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 20,
+      "speaker": "Lydie",
+      "original": "If you've traveled in Mysterious Paintings then you surely know what we mean, right?",
+      "translation": "Если вы путешествовали по «Таинственным картинам», то вы наверняка понимаете, что мы имеем в виду, верно?"
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 21,
+      "speaker": "Roger",
+      "original": "Restoration? Is that what you mean? But...",
+      "translation": "Реставрация? Вы это имеете в виду? Но..."
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 22,
+      "speaker": "Lydie",
+      "original": "Let's give it a try. If it doesn't work, we'll just try something else.",
+      "translation": "Давайте попробуем. Если это не сработает, мы просто попробуем что-нибудь другое."
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 23,
+      "speaker": "Sue",
+      "original": "I want to see Mom again. You must do too, Dad!",
+      "translation": "Я хочу снова увидеть маму. Ты тоже должен это сделать, папа!"
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 24,
+      "speaker": "Sue",
+      "original": "So let's go see her! As a family, into this painting!",
+      "translation": "Так что пойдем к ней! всей семьей, в эту картину!"
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 25,
+      "speaker": "Roger",
+      "original": "Girls!",
+      "translation": "Девушки!"
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 26,
+      "speaker": "Honnete",
+      "original": "Hey! Don't give up before you even try! Being alive means never giving up!",
+      "translation": "Привет! Не сдавайтесь, даже не попробовав! Быть живым – значит никогда не сдаваться!"
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 27,
+      "speaker": "Roger",
+      "original": "Don't give up before you even try, is it? You know what, you're right!",
+      "translation": "Не сдавайся, даже не попробовав, не так ли? Знаешь что, ты прав!"
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 28,
+      "speaker": "Roger",
+      "original": "Hahaha! I'm suddenly feeling super creative! Lydie, Sue! Mix me up some Neige's Paints!",
+      "translation": "Ха-ха-ха! Я внезапно чувствую себя супертворческим! Лиди, Сью! Приготовь мне немного красок Нейдж!"
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 29,
+      "speaker": "Roger",
+      "original": "I'm going to let my ideas solidify. Leave the Restoration to me! Hahaha!",
+      "translation": "Я позволю своим идеям закрепиться. Оставьте Реставрацию мне! Ха-ха-ха!"
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 30,
+      "speaker": "Sue",
+      "original": "That's the Dad we know and love! We'll go and make them at once!",
+      "translation": "Это папа, которого мы знаем и любим! Мы пойдем и сделаем их немедленно!"
+    },
+    "ebm:mm09/event_message_mm09_130.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_130.ebm",
+      "index": 31,
+      "speaker": "Lydie",
+      "original": "These'll be the best paints you've ever seen! Just wait a little while!",
+      "translation": "Это будут лучшие краски, которые вы когда-либо видели! Просто подожди немного!"
+    },
+    "ebm:mm09/event_message_mm09_140.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_140.ebm",
+      "index": 0,
+      "speaker": "Roger",
+      "original": "Thank you, girls. I can feel all of your emotions, wrapped up in these paints!",
+      "translation": "Спасибо, девочки. Я чувствую все твои эмоции, окутанные этими красками!"
+    },
+    "ebm:mm09/event_message_mm09_140.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_140.ebm",
+      "index": 1,
+      "speaker": "Roger",
+      "original": "Now it's my turn to take to the stage! You rest up. You don't want Honnete to see you tired!",
+      "translation": "Теперь моя очередь выйти на сцену! Вы отдыхаете. Ты же не хочешь, чтобы Оннет увидела тебя уставшим!"
+    },
+    "ebm:mm09/event_message_mm09_140.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_140.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Hahaha, good point. We'll leave this to you, Dad.",
+      "translation": "Ха-ха-ха, хороший момент. Мы оставим это тебе, пап."
+    },
+    "ebm:mm09/event_message_mm09_140.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_140.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "I'm sure you can do it, Dad. Just do your best!",
+      "translation": "Я уверен, что ты сможешь это сделать, папа. Просто делайте все возможное!"
+    },
+    "ebm:mm09/event_message_mm09_140.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_140.ebm",
+      "index": 4,
+      "speaker": "Roger",
+      "original": "Right! For my dear daughters, the artist Roger will unleash his greatest masterpiece!",
+      "translation": "Верно! Для моих дорогих дочерей художник Роджер откроет свой величайший шедевр!"
+    },
+    "ebm:mm09/event_message_mm09_140.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_140.ebm",
+      "index": 5,
+      "speaker": "Roger",
+      "original": "Hey... Hey! Lydie, Sue!",
+      "translation": "Эй... Эй! Лиди, Сью!"
+    },
+    "ebm:mm09/event_message_mm09_140.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_140.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Mmm... Morning, Dad...",
+      "translation": "Ммм... Доброе утро, пап..."
+    },
+    "ebm:mm09/event_message_mm09_140.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_140.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "I want honey and pancakes for breakfast...",
+      "translation": "Я хочу мед и блины на завтрак..."
+    },
+    "ebm:mm09/event_message_mm09_140.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_140.ebm",
+      "index": 8,
+      "speaker": "Roger",
+      "original": "Enough! Wake up! Come on, open your eyes. We're going to go and see Honnete!",
+      "translation": "Достаточно! Проснуться! Давай, открой глаза. Мы собираемся пойти и увидеть Оннет!"
+    },
+    "ebm:mm09/event_message_mm09_140.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_140.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "What do you mean, Dad? You've finished the Restoration already?",
+      "translation": "Что ты имеешь в виду, папа? Вы уже закончили Реставрацию?"
+    },
+    "ebm:mm09/event_message_mm09_140.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_140.ebm",
+      "index": 10,
+      "speaker": "Roger",
+      "original": "Come and take a look! To the basement!",
+      "translation": "Приходите и посмотрите! В подвал!"
+    },
+    "ebm:mm09/event_message_mm09_150.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_150.ebm",
+      "index": 0,
+      "speaker": "Together",
+      "original": "Uwah!",
+      "translation": "Ува!"
+    },
+    "ebm:mm09/event_message_mm09_150.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_150.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": "Uwah!",
+      "translation": "Ува!"
+    },
+    "ebm:mm09/event_message_mm09_150.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_150.ebm",
+      "index": 2,
+      "speaker": "Roger",
+      "original": "What do you think? It's my greatest work. I haven't tried going inside yet, though.",
+      "translation": "Что вы думаете? Это моя величайшая работа. Хотя я еще не пробовал заходить внутрь."
+    },
+    "ebm:mm09/event_message_mm09_150.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_150.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Hahaha, I'm sure it will work. You painted it, after all!",
+      "translation": "Ха-ха-ха, я уверен, что это сработает. Ведь ты это нарисовал!"
+    },
+    "ebm:mm09/event_message_mm09_150.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_150.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "You're amazing, Dad! I'm impressed!",
+      "translation": "Ты потрясающий, пап! Я впечатлен!"
+    },
+    "ebm:mm09/event_message_mm09_150.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_150.ebm",
+      "index": 5,
+      "speaker": "Roger",
+      "original": "Hahaha! That's nice of you to say. It seems all my hard work has paid off.",
+      "translation": "Ха-ха-ха! Очень мило с твоей стороны это сказать. Кажется, вся моя тяжелая работа окупилась."
+    },
+    "ebm:mm09/event_message_mm09_150.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_150.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Right. Without further delay, let's go inside!",
+      "translation": "Верно. Не медля, заходим внутрь!"
+    },
+    "ebm:mm09/event_message_mm09_150.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_150.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Yes! Time to meet Mom!",
+      "translation": "Да! Время познакомиться с мамой!"
+    },
+    "ebm:mm09/event_message_mm09_160.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_160.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "This is a painting created by someone I love.<CR>Someone who thinks so much of me. A special place.",
+      "translation": "Это картина, созданная человеком, которого я люблю.<CR>Тем, кто так много обо мне думает. Особое место."
+    },
+    "ebm:mm09/event_message_mm09_160.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_160.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": "The floating clouds, and the flower fields swaying in the breeze.<CR>All so lovely, and so wonderful.",
+      "translation": "Плывущие облака и цветочные поля, колышущиеся на ветру.<CR>Все так мило и так чудесно."
+    },
+    "ebm:mm09/event_message_mm09_160.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_160.ebm",
+      "index": 2,
+      "speaker": "System",
+      "original": "But even here, in this fabulous place,<CR>I can still feel a hole left in my heart.",
+      "translation": "Но даже здесь, в этом сказочном месте,<CR>я всё ещё чувствую дыру в своём сердце."
+    },
+    "ebm:mm09/event_message_mm09_160.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_160.ebm",
+      "index": 3,
+      "speaker": "System",
+      "original": "My treasures, the ones capable of filling that hole,<CR>have been gone from my life for too long.",
+      "translation": "Мои сокровища, способные заполнить эту дыру, <CR> слишком надолго исчезли из моей жизни."
+    },
+    "ebm:mm09/event_message_mm09_160.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_160.ebm",
+      "index": 4,
+      "speaker": "System",
+      "original": "I will walk these flower fields again today,<CR>hoping to see even a glimpse of them. Hoping for a miracle.",
+      "translation": "Сегодня я снова пройдусь по этим цветочным полям,<CR>надеюсь увидеть их хотя бы мельком. Надеясь на чудо."
+    },
+    "ebm:mm09/event_message_mm09_160.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_160.ebm",
+      "index": 5,
+      "speaker": "System",
+      "original": "A paradise of clouds and flowers. The \"Heavenly Flower Garden\".<CR>Lydie... Suelle... How are you both?",
+      "translation": "Рай облаков и цветов. «Небесный цветочный сад».<CR>Лиди... Сюэль... Как вы обе?"
+    },
+    "ebm:mm09/event_message_mm09_170.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_170.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Uwah! It's just so lovely in here!",
+      "translation": "Ува! Здесь просто так мило!"
+    },
+    "ebm:mm09/event_message_mm09_170.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_170.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "See, Dad? Just like we said! Your work is a Mysterious Painting after all!",
+      "translation": "Видишь, папа? Как мы и говорили! В конце концов, ваша работа — загадочная картина!"
+    },
+    "ebm:mm09/event_message_mm09_170.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_170.ebm",
+      "index": 2,
+      "speaker": "Roger",
+      "original": "Yes! This scenery is completely amazing!",
+      "translation": "Да! Этот пейзаж совершенно потрясающий!"
+    },
+    "ebm:mm09/event_message_mm09_170.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_170.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Haha! You're the one who created all this. You're amazing, Dad!",
+      "translation": "Хаха! Ты тот, кто создал все это. Ты потрясающий, пап!"
+    },
+    "ebm:mm09/event_message_mm09_170.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_170.ebm",
+      "index": 4,
+      "speaker": "Roger",
+      "original": "You're making me blush, Lydie!",
+      "translation": "Ты заставляешь меня краснеть, Лиди!"
+    },
+    "ebm:mm09/event_message_mm09_170.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_170.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Hahaha! Your face is bright red, Dad! Come on, anyway, let's get moving.",
+      "translation": "Ха-ха-ха! У тебя ярко-красное лицо, папа! Да ладно, в любом случае, подвигаемся."
+    },
+    "ebm:mm09/event_message_mm09_170.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_170.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Good idea. Mom is in here somewhere, after all.",
+      "translation": "Хорошая идея. В конце концов, мама где-то здесь."
+    },
+    "ebm:mm09/event_message_mm09_180.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_180.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Ah! There!",
+      "translation": "Ах! Там!"
+    },
+    "ebm:mm09/event_message_mm09_180.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_180.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "That's the woman we saw before. That must be her!",
+      "translation": "Это та женщина, которую мы видели раньше. Должно быть, это она!"
+    },
+    "ebm:mm09/event_message_mm09_180.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_180.ebm",
+      "index": 2,
+      "speaker": "Roger",
+      "original": "Honnete! Gah, she can't hear us!",
+      "translation": "Оннет! Гах, она нас не слышит!"
+    },
+    "ebm:mm09/event_message_mm09_180.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_180.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "It's okay. We're not losing sight of her this time.",
+      "translation": "Все нормально. На этот раз мы не упустим ее из виду."
+    },
+    "ebm:mm09/event_message_mm09_180.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_180.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Definitely not! Just hold on, Mom!",
+      "translation": "Определенно нет! Просто держись, мама!"
+    },
+    "ebm:mm09/event_message_mm09_190.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_190.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "An atelier? Why is there an atelier inside of the painting?",
+      "translation": "Ателье? Почему внутри картины находится ателье?"
+    },
+    "ebm:mm09/event_message_mm09_190.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_190.ebm",
+      "index": 1,
+      "speaker": "Roger",
+      "original": "Don't ask me. I always thought of her smiling, in the atelier, while painting this, though.",
+      "translation": "Не спрашивай меня. Однако я всегда думал о том, как она улыбалась в ателье, когда рисовала это."
+    },
+    "ebm:mm09/event_message_mm09_190.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_190.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Hahaha! Dad, you really love Mom, don't you!",
+      "translation": "Ха-ха-ха! Папа, ты действительно любишь маму, не так ли!"
+    },
+    "ebm:mm09/event_message_mm09_190.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_190.ebm",
+      "index": 3,
+      "speaker": "Roger",
+      "original": "Hahaha, of course! She's my beloved wife!",
+      "translation": "Ха-ха-ха, конечно! Она моя любимая жена!"
+    },
+    "ebm:mm09/event_message_mm09_190.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_190.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Hahaha! And our beloved mother. Come on, Sue.",
+      "translation": "Ха-ха-ха! И наша любимая мама. Давай, Сью."
+    },
+    "ebm:mm09/event_message_mm09_190.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_190.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Let's go. Let's go see our mom!",
+      "translation": "Пойдем. Пойдем к нашей маме!"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Excuse us! We're coming in!",
+      "translation": "Простите нас! Мы входим!"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 1,
+      "speaker": "Honnete",
+      "original": "Ah, guests? This is a rare treat...",
+      "translation": "Ах, гости? Это редкое удовольствие..."
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 2,
+      "speaker": "Honnete",
+      "original": "L-Lydie! Suelle! And Roger, too! What is this! Am I dreaming?!",
+      "translation": "Л-Лиди! Сюэль! И Роджер тоже! Что это! Я мечтаю?!"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "No, you're not! This isn't a dream! We've finally, finally found you!",
+      "translation": "Нет, это не так! Это не сон! Мы наконец-то нашли вас!"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Mom! I really wanted to see you! I've missed you so much! Uwaaaah!",
+      "translation": "Мама! Я очень хотел тебя увидеть! Я так скучал по тебе! Уваааа!"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 5,
+      "speaker": "Honnete",
+      "original": "Girls... I haven't seen you for a while, but did you always cry this much?",
+      "translation": "Девочки... Давненько я вас не видела, но вы всегда так плакали?"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 6,
+      "speaker": "Roger",
+      "original": "The two of them have been so lonely... For just a while, do you think...",
+      "translation": "Им двоим было так одиноко... Как ты думаешь, какое-то время..."
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 7,
+      "speaker": "Honnete",
+      "original": "Of course. Stay as long as you like. I've missed you all, too.",
+      "translation": "Конечно. Оставайтесь столько, сколько захотите. Я тоже скучал по вам всем."
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 8,
+      "speaker": "Roger",
+      "original": "Tell me, Honnete... What are you doing here?",
+      "translation": "Скажи мне, Оннет... Что ты здесь делаешь?"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 9,
+      "speaker": "Honnete",
+      "original": "That's not an easy question to answer. I just kind of suddenly ended up here?",
+      "translation": "На этот вопрос нелегко ответить. Я просто внезапно оказался здесь?"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 10,
+      "speaker": "Honnete",
+      "original": "I remember dying... I have clear memories up to that point.",
+      "translation": "Я помню, как умер... До этого момента у меня остались ясные воспоминания."
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 11,
+      "speaker": "Honnete",
+      "original": "But no idea how I came to be here after that.",
+      "translation": "Но понятия не имею, как я оказался здесь после этого."
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "You must be the soul fragment that Neige was talking about, for sure...",
+      "translation": "Вы наверняка тот фрагмент души, о котором говорила Нейдж..."
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 13,
+      "speaker": "Honnete",
+      "original": "I'm not really sure I understand what you mean by \"soul fragment\", but I'm actually pretty amazing.",
+      "translation": "Я не совсем уверен, что понимаю, что вы подразумеваете под «фрагментом души», но на самом деле я довольно потрясающий."
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 14,
+      "speaker": "Honnete",
+      "original": "I can move between painting worlds, so that's how I've been passing the time.",
+      "translation": "Я могу перемещаться между мирами живописи, вот как я провожу время."
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 15,
+      "speaker": "Roger",
+      "original": "Hahaha! That sweet naivety. Not that I doubted it, but you really are my Honnete.",
+      "translation": "Ха-ха-ха! Эта милая наивность. Не то чтобы я в этом сомневался, но ты действительно моя Оннет."
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 16,
+      "speaker": "Roger",
+      "original": "This is a miracle. Meeting you again like this, after your death. This is a miracle.",
+      "translation": "Это чудо. Встретимся с тобой снова вот так, после твоей смерти. Это чудо."
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 17,
+      "speaker": "Honnete",
+      "original": "Hehehe. Yes, it is. A miracle!",
+      "translation": "Хе-хе-хе. Да, это. Чудо!"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 18,
+      "speaker": "Honnete",
+      "original": "I never thought I'd see you again, and yet here you all here. What else can you call it?",
+      "translation": "Я никогда не думал, что увижу вас снова, и все же вы все здесь. Как еще это можно назвать?"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 19,
+      "speaker": "Roger",
+      "original": "Yes. You're right. As always.",
+      "translation": "Да. Ты прав. Как всегда."
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 20,
+      "speaker": "Sue",
+      "original": "Dad. Dad! What about the reason we're here?",
+      "translation": "Папа. Папа! А как насчет причины, по которой мы здесь?"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "You wanted to ask Mom about your promises, right? So man up and ask!",
+      "translation": "Ты хотел спросить маму о своих обещаниях, да? Так что соберитесь и спросите!"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 22,
+      "speaker": "Roger",
+      "original": "What? R-Right, Honnete. Have I kept even one of my promises to you?",
+      "translation": "Что? Р-верно, Оннет. Сдержал ли я хотя бы одно из своих обещаний, данных тебе?"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 23,
+      "speaker": "Roger",
+      "original": "Were you happy, being with me?",
+      "translation": "Ты был счастлив, находясь со мной?"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 24,
+      "speaker": "Honnete",
+      "original": "What? You dummy, do you even have to ask?",
+      "translation": "Что? Дурак, тебе вообще надо спрашивать?"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 25,
+      "speaker": "Honnete",
+      "original": "Of course I was happy! Even if I got to do everything again, I'd want to be your wife!",
+      "translation": "Конечно я был рад! Даже если мне придётся всё делать снова, я бы хотела быть твоей женой!"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 26,
+      "speaker": "Honnete",
+      "original": "Hold on. Let me ask you, then! Were you happy with me?",
+      "translation": "Подожди. Тогда позвольте мне спросить вас! Ты был счастлив со мной?"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 27,
+      "speaker": "Roger",
+      "original": "O-Of course I was! I was so happy, being with you.",
+      "translation": "О-конечно был! Я был так счастлив, находясь с тобой."
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 28,
+      "speaker": "Honnete",
+      "original": "Good, glad to hear it. I'm sure you are sad about not being able to save me...",
+      "translation": "Хорошо, рад это слышать. Я уверен, ты расстроен тем, что не смог меня спасти..."
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 29,
+      "speaker": "Honnete",
+      "original": "But I was so happy to have lived with you. Just remember that, when you face forward.",
+      "translation": "Но я был так счастлив, что жил с тобой. Просто помните об этом, когда смотрите вперед."
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 30,
+      "speaker": "Roger",
+      "original": "Ah, thank you! Thank you, Honnete!",
+      "translation": "Ах, спасибо! Спасибо, Оннет!"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 31,
+      "speaker": "Honnete",
+      "original": "Now it's your turn to cry, is it? We're all a bunch of crybabies in this family!",
+      "translation": "Теперь твоя очередь плакать, да? В этой семье мы все плаксы!"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:32": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 32,
+      "speaker": "Lydie",
+      "original": "But then, Mom, right at the end, Lucia fell over!",
+      "translation": "Но потом, мама, в самом конце Лючия упала!"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:33": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 33,
+      "speaker": "Sue",
+      "original": "Hahaha! You should have seen her face! Like a Puni hit by a bomb! Hahaha!",
+      "translation": "Ха-ха-ха! Вы бы видели ее лицо! Как Пуни, которого ударила бомба! Ха-ха-ха!"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:34": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 34,
+      "speaker": "Honnete",
+      "original": "That does sound funny. I'm glad to hear Lucia is doing well, too...",
+      "translation": "Это звучит смешно. Я рад слышать, что у Люсии тоже все хорошо..."
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:35": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 35,
+      "speaker": "Roger",
+      "original": "Honnete! What's wrong? Are you OK?",
+      "translation": "Оннет! В чем дело? Ты в порядке?"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:36": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 36,
+      "speaker": "Honnete",
+      "original": "Ah, I'm fine. I just got a bit dizzy when I stood up.",
+      "translation": "Ах, я в порядке. У меня просто немного закружилась голова, когда я встал."
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:37": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 37,
+      "speaker": "Lydie",
+      "original": "Ah, sorry, Mom. We've been talking your ears off!",
+      "translation": "Ах, прости, мама. Мы говорили вам до ушей!"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:38": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 38,
+      "speaker": "Sue",
+      "original": "You don't look very well, Mom. We don't want to tire you too much, so we'll give you some room.",
+      "translation": "Ты не очень хорошо выглядишь, мама. Мы не хотим вас слишком утомлять, поэтому дадим вам немного места."
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:39": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 39,
+      "speaker": "Honnete",
+      "original": "Really? Thank you for your consideration. Here's a little something.",
+      "translation": "Действительно? Спасибо за ваше внимание. Вот кое-что."
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:40": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 40,
+      "speaker": "Honnete",
+      "original": "I picked it up in the flowers outside. It's lovely, isn't it! I hope you like it.",
+      "translation": "Я подобрал его среди цветов на улице. Это прекрасно, не так ли! Надеюсь, вам это понравится."
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:41": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 41,
+      "speaker": "Sue",
+      "original": "Color Fragments! Thank you, we'll treasure these!",
+      "translation": "Цветные фрагменты! Спасибо, мы будем дорожить ими!"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:42": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 42,
+      "speaker": "Lydie",
+      "original": "We will! We'll come and see you again soon!",
+      "translation": "Мы будем! Скоро приедем к вам снова!"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:43": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 43,
+      "speaker": "Honnete",
+      "original": "I'll be waiting for you, my precious treasures.",
+      "translation": "Я буду ждать тебя, мои драгоценные сокровища."
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:45": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 45,
+      "speaker": "Lydie",
+      "original": "Heheh! Sue! It was so lovely to see Mom again, wasn't it!",
+      "translation": "Хе-хе! Сью! Было так приятно снова увидеть маму, не правда ли!"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:46": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 46,
+      "speaker": "Sue",
+      "original": "Yes! She's so soft and smooth, and smells so nice!",
+      "translation": "Да! Она такая мягкая, гладкая и так приятно пахнет!"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:47": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 47,
+      "speaker": "Together",
+      "original": "I'm so glad we got to see her again!",
+      "translation": "Я так рада, что мы снова ее увидели!"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:48": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 48,
+      "speaker": "System",
+      "original": "I'm so glad we got to see her again!",
+      "translation": "Я так рада, что мы снова ее увидели!"
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:49": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 49,
+      "speaker": "System",
+      "original": "<CLEG>Colorful Garden Fragments<CLNR> received.",
+      "translation": "<CLEG>Разноцветные фрагменты сада<CLNR> получены."
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:50": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 50,
+      "speaker": "System",
+      "original": "Lydie has acquired the skill <CLEG>\"Spring of Knowledge\"<CLNR>.",
+      "translation": "Лиди приобрела навык <CLEG> «Источник знаний»<CLNR>."
+    },
+    "ebm:mm09/event_message_mm09_200.ebm:51": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_200.ebm",
+      "index": 51,
+      "speaker": "System",
+      "original": "Sue has acquired the skill <CLEG>\"Beautiful Pixie\"<CLNR>.",
+      "translation": "Сью приобрела навык <CLEG> «Красивая Пикси»<CLNR>."
+    },
+    "ebm:mm09/event_message_mm09_210.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_210.ebm",
+      "index": 0,
+      "speaker": "Roger",
+      "original": "Honnete...",
+      "translation": "Оннет..."
+    },
+    "ebm:mm09/event_message_mm09_210.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_210.ebm",
+      "index": 1,
+      "speaker": "Honnete",
+      "original": "Hello, Roger. What is it? You've missed me already?",
+      "translation": "Привет, Роджер. Что это такое? Ты уже скучал по мне?"
+    },
+    "ebm:mm09/event_message_mm09_210.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_210.ebm",
+      "index": 2,
+      "speaker": "Roger",
+      "original": "Yes, that's part of it! But there's also something I want to ask you...",
+      "translation": "Да, это часть этого! Но есть еще кое-что, что я хочу у тебя спросить..."
+    },
+    "ebm:mm09/event_message_mm09_210.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_210.ebm",
+      "index": 3,
+      "speaker": "Roger",
+      "original": "Honnete, be honest. You're pushing yourself a bit too hard, aren't you?",
+      "translation": "Оннет, скажи честно. Ты слишком нагружаешь себя, не так ли?"
+    },
+    "ebm:mm09/event_message_mm09_210.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_210.ebm",
+      "index": 4,
+      "speaker": "Honnete",
+      "original": "Hahaha, I knew I couldn't fool you, Roger. My beloved husband.",
+      "translation": "Ха-ха-ха, я знал, что не смогу тебя обмануть, Роджер. Мой любимый муж."
+    },
+    "ebm:mm09/event_message_mm09_210.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_210.ebm",
+      "index": 5,
+      "speaker": "Honnete",
+      "original": "I don't know why, but sometimes... just sometimes, if I don't concentrate, I feel myself fading...",
+      "translation": "Не знаю почему, но иногда... просто иногда, если я не концентрируюсь, я чувствую, что угасаю..."
+    },
+    "ebm:mm09/event_message_mm09_210.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_210.ebm",
+      "index": 6,
+      "speaker": "Honnete",
+      "original": "It's like everything around me is melting away. That's what it feels like.",
+      "translation": "Будто все вокруг меня тает. Вот на что это похоже."
+    },
+    "ebm:mm09/event_message_mm09_210.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_210.ebm",
+      "index": 7,
+      "speaker": "Roger",
+      "original": "Hold on! I know what that sounds like.",
+      "translation": "Подожди! Я знаю, как это звучит."
+    },
+    "ebm:mm09/event_message_mm09_210.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_210.ebm",
+      "index": 8,
+      "speaker": "Honnete",
+      "original": "Me too. I don't have long left.",
+      "translation": "Я тоже. Мне осталось недолго."
+    },
+    "ebm:mm09/event_message_mm09_210.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_210.ebm",
+      "index": 9,
+      "speaker": "Roger",
+      "original": "What about the girls? Should I tell them?",
+      "translation": "А что насчет девочек? Должен ли я им сказать?"
+    },
+    "ebm:mm09/event_message_mm09_210.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_210.ebm",
+      "index": 10,
+      "speaker": "Honnete",
+      "original": "No need. When the time comes, I'll tell them. Keep it a secret until then.",
+      "translation": "Незачем. Когда придет время, я им расскажу. Держите это в секрете до тех пор."
+    },
+    "ebm:mm09/event_message_mm09_210.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_210.ebm",
+      "index": 11,
+      "speaker": "Honnete",
+      "original": "We've only just got each other back... I want them to be happy for as long as possible.",
+      "translation": "Мы только что вернули друг друга... Я хочу, чтобы они были счастливы как можно дольше."
+    },
+    "ebm:mm09/event_message_mm09_210.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_210.ebm",
+      "index": 12,
+      "speaker": "Roger",
+      "original": "Yes, you might be right. I'm so sorry, Honnete.",
+      "translation": "Да, возможно, вы правы. Мне очень жаль, Оннет."
+    },
+    "ebm:mm09/event_message_mm09_210.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_210.ebm",
+      "index": 13,
+      "speaker": "Honnete",
+      "original": "There's no need for you to apologize, my darling.",
+      "translation": "Тебе не нужно извиняться, моя дорогая."
+    },
+    "ebm:mm09/event_message_mm09_210.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_210.ebm",
+      "index": 14,
+      "speaker": "Honnete",
+      "original": "Why don't we take a walk in the flowers? We can talk all about our girls.",
+      "translation": "Почему бы нам не прогуляться по цветам? Мы можем говорить все о наших девочках."
+    },
+    "ebm:mm09/event_message_mm09_210.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm09/event_message_mm09_210.ebm",
+      "index": 15,
+      "speaker": "Roger",
+      "original": "I thought that's what you'd say, which is why I brought this wine! Where to start...",
+      "translation": "Я так и думал, что ты так скажешь, поэтому и принес это вино! С чего начать..."
+    }
+  }
+}

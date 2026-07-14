@@ -1,0 +1,2200 @@
+{
+  "version": 1,
+  "source": "pack01_ebm",
+  "block": "qc16_fri",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Ah, I'm exhausted! Come on, Lydie! Let's go out and find a bit of fun!",
+      "translation": "Ах, я устал! Давай, Лидия! Давайте выйдем и развлечемся!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Sure, okay. Where do you want to go?",
+      "translation": "Конечно, окей. Куда вы хотите пойти?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 2,
+      "speaker": "???",
+      "original": "Gah, I can't believe this! I shouldn't have taken my eyes off her, for even a moment!",
+      "translation": "Гах, я не могу в это поверить! Я не должен был отводить от нее глаз ни на мгновение!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Hey. What's going on? Are you in trouble?",
+      "translation": "Привет. Что происходит? У тебя проблемы?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 4,
+      "speaker": "???",
+      "original": "Huh? Ah, kind of... I've been separated from my daughter.",
+      "translation": "Хм? Ах, вроде... Меня разлучили с дочерью."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 5,
+      "speaker": "???",
+      "original": "I'd like to search for her, but we only just arrived here. I've no idea where to start.",
+      "translation": "Я хотел бы найти ее, но мы только что приехали сюда. Я понятия не имею, с чего начать."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "That's terrible! We'll help you find her, right Sue?",
+      "translation": "Это ужасно! Мы поможем тебе найти ее, да, Сью?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Yes, you can count on us! We know this city like the backs of our hands, after all!",
+      "translation": "Да, вы можете на нас рассчитывать! В конце концов, мы знаем этот город как свои пять пальцев!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 8,
+      "speaker": "???",
+      "original": "Wow, thank you... That would be a big help. Sorry, I didn't tell you my name yet...",
+      "translation": "Ух ты, спасибо... Это было бы очень полезно. Извините, я еще не назвал вам свое имя..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 9,
+      "speaker": "Fritz",
+      "original": "I'm Fritz. And you two are?",
+      "translation": "Я Фриц. А вы двое?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Oh. I'm Lydie, and this is my sister Sue.",
+      "translation": "Ой. Я Лиди, а это моя сестра Сью."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Nice to meet you. Hey, Mr. Fritz. What's your daughter's name, then?",
+      "translation": "Рад встрече. Привет, мистер Фриц. Как тогда зовут вашу дочь?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 12,
+      "speaker": "Fritz",
+      "original": "Ah, of course. Her name is Drossel. She has black hair and endless energy.",
+      "translation": "Ах, конечно. Ее зовут Дроссель. У нее черные волосы и бесконечная энергия."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 13,
+      "speaker": "Fritz",
+      "original": "If you see a girl bouncing around full of life, that's probably her.",
+      "translation": "Если вы видите прыгающую полную жизни девушку, то, скорее всего, это она."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "Hahaha, that actually sounds pretty easy to find! We'll look around!",
+      "translation": "Ха-ха-ха, на самом деле это звучит довольно легко найти! Мы осмотримся!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "Hmm, we're not having much luck, are we?",
+      "translation": "Хм, нам не очень-то повезло, да?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 16,
+      "speaker": "???",
+      "original": "Hahaha, what a beautiful ocean! Now this is Adalet!",
+      "translation": "Ха-ха-ха, какой красивый океан! Вот это Адалет!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 17,
+      "speaker": "???",
+      "original": "Gah, I wanted to share this with Dad! Where'd he go?",
+      "translation": "Ох, я хотел поделиться этим с папой! Куда он пошел?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "Black hair! Endless energy! Bouncing around!",
+      "translation": "Черные волосы! Бесконечная энергия! Подпрыгивая!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "That's her! Excuse me?",
+      "translation": "Это она! Прошу прощения?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 20,
+      "speaker": "???",
+      "original": "Hello! Do you need something?",
+      "translation": "Привет! Вам что-то нужно?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "Well, sorry if we've got this wrong, but are you Drossel?",
+      "translation": "Что ж, извини, если мы ошиблись, но ты Дроссель?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 22,
+      "speaker": "Drossel",
+      "original": "Yep. That's me. Who are you?",
+      "translation": "Ага. Это я. Кто ты?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 23,
+      "speaker": "Sue",
+      "original": "I'm Sue and this is Lydie. Cute sisters from this city!",
+      "translation": "Я Сью, а это Лиди. Милые сестры из этого города!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 24,
+      "speaker": "Lydie",
+      "original": "Ahem... We were searching for you, on Mr. Fritz's request.",
+      "translation": "Кхм... Мы искали вас по просьбе мистера Фрица."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 25,
+      "speaker": "Drossel",
+      "original": "Ah, I see! My dad is getting all worried about me again.",
+      "translation": "Ах, я вижу! Мой отец снова беспокоится обо мне."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 26,
+      "speaker": "Drossel",
+      "original": "It seems I have a little bit of a problem myself... Sometimes I get separated from him.",
+      "translation": "Кажется, у меня самой есть небольшая проблема... Иногда меня с ним отделяют."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 27,
+      "speaker": "Sue",
+      "original": "It's alright. At least we found you. Mr. Fritz is waiting on Soleil Street.",
+      "translation": "Все в порядке. По крайней мере, мы нашли вас. Мистер Фриц ждет на Улица Солей."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 28,
+      "speaker": "Sue",
+      "original": "Come on, we'll show you the way...",
+      "translation": "Давай, мы покажем тебе дорогу..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 29,
+      "speaker": "Drossel",
+      "original": "Soleil Street, right? Thank you! See you later!",
+      "translation": "Улица Солей, да? Спасибо! Увидимся позже!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 30,
+      "speaker": "Sue",
+      "original": "She ran off! And Soleil Street isn't that way!",
+      "translation": "Она убежала! И Улица Солей не такая!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_010.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_010.ebm",
+      "index": 31,
+      "speaker": "Lydie",
+      "original": "I have a real bad feeling about this... Let's go and tell Mr. Fritz we saw her, anyway.",
+      "translation": "У меня очень плохое предчувствие по этому поводу... Давай все равно пойдем и скажем мистеру Фрицу, что мы ее видели."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Aaaah! We completely forgot about Drossel!",
+      "translation": "Аааа! Мы совсем забыли о Дросселе!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Gah, you're right! Lydie! We have to go and tell Fritz!",
+      "translation": "Га, ты прав! Лиди! Нам нужно пойти и рассказать Фрицу!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Mr. Fritz! So, we did find Drossel...",
+      "translation": "Мистер Фриц! Итак, мы нашли Дросселя..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "And seeing as she isn't here with you... She isn't back yet?",
+      "translation": "И поскольку ее нет с тобой... Она еще не вернулась?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 4,
+      "speaker": "Fritz",
+      "original": "Hmm. I think I know what's going on... Sorry for all the trouble.",
+      "translation": "Хм. Кажется, я знаю, что происходит... Извините за все беспокойство."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "No, not at all. We should have dragged her here by the hand, shouldn't we...",
+      "translation": "Нет, совсем нет. Нам следовало притащить ее сюда за руку, не так ли..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 6,
+      "speaker": "Fritz",
+      "original": "She has a serious issue with directions... Even if you held her hand, she'd probably still vanish somewhere.",
+      "translation": "У нее серьезные проблемы с направлением... Даже если бы ты взял ее за руку, она все равно куда-то исчезла бы."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Could that be classified as some kind of special ability?",
+      "translation": "Можно ли это отнести к каким-то особым способностям?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 8,
+      "speaker": "Fritz",
+      "original": "It has been hard on me, too. Sometimes she just vanishes, like mist...",
+      "translation": "Мне тоже было тяжело. Иногда она просто исчезает, как туман..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 9,
+      "speaker": "Fritz",
+      "original": "Hmm, there's no other choice. I'll just have to search for her again...",
+      "translation": "Хм, другого выбора нет. Мне просто придется искать ее снова..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 10,
+      "speaker": "Drossel",
+      "original": "Ah, I took a bit of a detour, but this looks like Soleil Street! Hey, you two! And Dad as well!",
+      "translation": "Ах, я немного отклонился, но это похоже на Улицу Солей! Эй, вы двое! И папа тоже!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 11,
+      "speaker": "Drossel",
+      "original": "Hahah! Victory! I've proven myself again!",
+      "translation": "Ха-ха! Победа! Я еще раз доказал себя!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "Drossel! W-Why are you coming out of that person's house?",
+      "translation": "Дроссель! П-почему ты выходишь из дома этого человека?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 13,
+      "speaker": "Drossel",
+      "original": "What? I was just walking along and ended up here...",
+      "translation": "Что? Я просто шел и оказался здесь..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "Walking along where?!",
+      "translation": "Где гулять?!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 15,
+      "speaker": "Fritz",
+      "original": "You can't expect her to answer that... This is pure Drossel.",
+      "translation": "Ждать от нее такого ответа нельзя... Это чистый Дроссель."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "Please, don't just accept it!",
+      "translation": "Пожалуйста, не принимайте это просто так!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 17,
+      "speaker": "Fritz",
+      "original": "Anyway, this is great. Now we can start our performances!",
+      "translation": "В любом случае, это здорово. Теперь мы можем начинать наши выступления!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "Performances? Do you belong to a circus?",
+      "translation": "Выступления? Вы принадлежите к цирку?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 19,
+      "speaker": "Drossel",
+      "original": "Haha, no. Puppet shows, actually!",
+      "translation": "Хаха, нет. Вообще-то кукольный спектакль!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 20,
+      "speaker": "Drossel",
+      "original": "We're travelling puppet performers. Although I tend to be focused on writing the scripts.",
+      "translation": "Мы путешествуем кукольных артистов. Хотя я склонен концентрироваться на написании сценариев."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 21,
+      "speaker": "Sue",
+      "original": "Wow, puppeteers! I've never seen a puppet show before. Hey, can you show us?",
+      "translation": "Ух ты, кукольники! Я никогда раньше не видела кукольный спектакль. Эй, можешь нам показать?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 22,
+      "speaker": "Fritz",
+      "original": "Hahaha! So you like the idea? Wonderful! That's wonderful!",
+      "translation": "Ха-ха-ха! Итак, вам нравится идея? Замечательный! Это замечательно!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 23,
+      "speaker": "Lydie",
+      "original": "Eh? Mr. Fritz?...",
+      "translation": "Э? Господин Фриц?..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 24,
+      "speaker": "Fritz",
+      "original": "I'd love to put one on for you right away, but we aren't ready yet. It will have to be another time.",
+      "translation": "Я бы хотел надеть его для вас прямо сейчас, но мы еще не готовы. Это должно быть в другой раз."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 25,
+      "speaker": "Sue",
+      "original": "Sure, that's fine too. Any time you are ready, just let us know!",
+      "translation": "Конечно, это тоже хорошо. В любое время, когда будете готовы, просто дайте нам знать!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 26,
+      "speaker": "Drossel",
+      "original": "Great! We'll definitely put on a show as soon as we can, so look forward to it!",
+      "translation": "Большой! Мы обязательно устроим шоу, как только сможем, так что ждите его!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 27,
+      "speaker": "Fritz",
+      "original": "We're going to be staying here for a while. In fact, this is the house we've rented.",
+      "translation": "Мы собираемся остаться здесь на некоторое время. На самом деле, это дом, который мы сняли."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 28,
+      "speaker": "Drossel",
+      "original": "What?! This is our house?!",
+      "translation": "Что?! Это наш дом?!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 29,
+      "speaker": "Fritz",
+      "original": "Ahem... So, you two, please come and see us any time.",
+      "translation": "Кхм... Итак, вы двое, пожалуйста, приходите к нам в любое время."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 30,
+      "speaker": "Drossel",
+      "original": "Any time! That's when you're welcome!",
+      "translation": "В любое время! Вот тогда пожалуйста!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 31,
+      "speaker": "Sue",
+      "original": "Great, thanks! We'll be sure to take you up on that offer! See you later!",
+      "translation": "Отлично, спасибо! Мы обязательно воспользуемся этим предложением! Увидимся позже!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_020.ebm:32": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_020.ebm",
+      "index": 32,
+      "speaker": "Lydie",
+      "original": "Mr. Fritz had a bit of an odd moment there, didn't he? I hope we don't have to worry about anything...",
+      "translation": "У мистера Фрица был немного странный момент, не так ли? Надеюсь, нам не о чем беспокоиться..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_030.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_030.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Mr. Fritz, Drossel! We're coming in!",
+      "translation": "Мистер Фриц, Дроссель! Мы входим!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_030.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_030.ebm",
+      "index": 1,
+      "speaker": "Fritz",
+      "original": "Hey, girls. Great timing.",
+      "translation": "Привет, девочки. Отличное время."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_030.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_030.ebm",
+      "index": 2,
+      "speaker": "Drossel",
+      "original": "Hehehe. We didn't get to show you yet, did we? But now we're ready! Time to put on a show!",
+      "translation": "Хе-хе-хе. Мы еще не успели вам его показать, да? Но теперь мы готовы! Время устроить шоу!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_030.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_030.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Really? Yes, we want to see it! Go ahead!",
+      "translation": "Действительно? Да, мы хотим это увидеть! Вперед, продолжать!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_030.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_030.ebm",
+      "index": 4,
+      "speaker": "Fritz",
+      "original": "Good, good! Hahaha! Time to raise the curtain, Drossel!",
+      "translation": "Хорошо, хорошо! Ха-ха-ха! Пора поднять занавес, Дроссель!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_030.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_030.ebm",
+      "index": 5,
+      "speaker": "Drossel",
+      "original": "You said it! Time to prove what we can do, Dad!",
+      "translation": "Ты сказал это! Пришло время доказать, на что мы способны, пап!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_030.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_030.ebm",
+      "index": 6,
+      "speaker": "Fritz",
+      "original": "What about you, little Plachta? Ah, your eyes are sparkling again today!",
+      "translation": "А ты, маленькая Плахта? Ах, твои глаза сегодня снова сверкают!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_030.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_030.ebm",
+      "index": 7,
+      "speaker": "Drossel",
+      "original": "What about you, Fritz? Ah, you're looking just dandy! Can I get a kiss?",
+      "translation": "А ты, Фриц? Ах, ты выглядишь просто денди! Могу ли я получить поцелуй?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_030.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_030.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Huh? Sorry, what? What's got into the two of you, all of a sudden?",
+      "translation": "Хм? Извините, что? Что вдруг на вас двоих нашло?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_030.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_030.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "It's like they've become different people!",
+      "translation": "Они словно стали другими людьми!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_030.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_030.ebm",
+      "index": 10,
+      "speaker": "Fritz",
+      "original": "No, we haven't! That's not what's happening here!",
+      "translation": "Нет, у нас нет! Это не то, что здесь происходит!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_030.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_030.ebm",
+      "index": 11,
+      "speaker": "Drossel",
+      "original": "That's right! Nothing odd here!",
+      "translation": "Это верно! Здесь нет ничего странного!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_030.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_030.ebm",
+      "index": 12,
+      "speaker": "Fritz",
+      "original": "Now, open your eyes wide and watch closely!",
+      "translation": "Теперь широко откройте глаза и смотрите внимательно!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_030.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_030.ebm",
+      "index": 13,
+      "speaker": "Drossel",
+      "original": "This is our heartfelt puppet show!",
+      "translation": "Это наш душевный кукольный спектакль!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_030.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_030.ebm",
+      "index": 14,
+      "speaker": "Drossel",
+      "original": "And they all lived happily ever after! That's the end of our show!",
+      "translation": "И жили они все долго и счастливо! Вот и закончилось наше шоу!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_030.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_030.ebm",
+      "index": 15,
+      "speaker": "Fritz",
+      "original": "Phew. What did the two of you think?",
+      "translation": "Уф. Что вы двое подумали?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_030.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_030.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "It was great fun! I'm still so excited!",
+      "translation": "Это было очень весело! Я все еще так взволнован!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_030.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_030.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "Me too! That was much more thrilling than I expected!",
+      "translation": "Я тоже! Это было гораздо более захватывающе, чем я ожидал!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_030.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_030.ebm",
+      "index": 18,
+      "speaker": "Drossel",
+      "original": "Good, good. Haha, they liked it, Dad!",
+      "translation": "Хорошо, хорошо. Ха-ха, им понравилось, пап!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_030.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_030.ebm",
+      "index": 19,
+      "speaker": "Fritz",
+      "original": "Yeah. We'll put on another show any time you want to see one! Come again any time!",
+      "translation": "Ага. Мы устроим еще одно шоу, когда вы захотите его увидеть! Приходите снова в любое время!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_030.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_030.ebm",
+      "index": 20,
+      "speaker": "Sue",
+      "original": "We will! Thank you so much!",
+      "translation": "Мы будем! Большое спасибо!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_030.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_030.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "Hahaha, was that fun, wasn't it, Sue? The two of them are a bit odd, though, aren't they?",
+      "translation": "Ха-ха-ха, это было весело, не так ли, Сью? Хотя эти двое немного странные, не так ли?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_030.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_030.ebm",
+      "index": 22,
+      "speaker": "Sue",
+      "original": "That's a \"yes\" on both counts!",
+      "translation": "Это «да» по обоим пунктам!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_030.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_030.ebm",
+      "index": 23,
+      "speaker": "Sue",
+      "original": "Nice people, though. Hehe! Let's go and see another show soon!",
+      "translation": "Хорошие люди, однако. Хе-хе! Пойдем скоро посмотрим еще одно шоу!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 0,
+      "speaker": "???",
+      "original": "Hahaha!",
+      "translation": "Ха-ха-ха!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Huh? Sue, did you hear anything?",
+      "translation": "Хм? Сью, ты что-нибудь слышала?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Nope, not a thing...",
+      "translation": "Неа, ни о чем..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 3,
+      "speaker": "???",
+      "original": "Hahaaha!",
+      "translation": "Ха-ха-ха!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "There! What was that sound? The wind?",
+      "translation": "Там! Что это был за звук? Ветер?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "No, it can't be the wind. It sounds more like a ghost!",
+      "translation": "Нет, это не может быть ветер. Это больше похоже на привидение!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "Ah, I've been doing so well not thinking about ghosts! Not here in the city, surely!",
+      "translation": "Ах, как мне хорошо удавалось не думать о привидениях! Не здесь, в городе, конечно!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 7,
+      "speaker": "Fritz",
+      "original": "I thought it was you two. What are you doing, shouting out here?",
+      "translation": "Я думал, это вы двое. Что ты здесь делаешь, кричишь?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Ah, Mr. Fritz! A ghost! There's a ghost somewhere around here!",
+      "translation": "Ах, мистер Фриц! Призрак! Где-то здесь призрак!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 9,
+      "speaker": "Fritz",
+      "original": "A ghost? Oh dear, have I done it again?",
+      "translation": "Призрак? О боже, я сделал это снова?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Excuse me?",
+      "translation": "Прошу прощения?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "What! You're the ghost, Mr. Fritz?",
+      "translation": "Что! Вы призрак, мистер Фриц?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 12,
+      "speaker": "Fritz",
+      "original": "Yes. Well, I'm not actually a ghost, but the voice you heard was definitely me.",
+      "translation": "Да. Ну, на самом деле я не призрак, но голос, который ты слышал, определенно был мной."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 13,
+      "speaker": "Fritz",
+      "original": "When making a doll, I have these sounds I make. I can't help it. Sorry!",
+      "translation": "Когда я делаю куклу, я издаю вот такие звуки. Я ничего не могу с этим поделать. Извини!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "Huh. You look so cool when you stay silent, Mr. Fritz, but then you start talking about dolls...",
+      "translation": "Хм. Вы так круто выглядите, когда молчите, мистер Фриц, но потом начинаете говорить о куклах..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "I know, right? Drossel changes in the same way...",
+      "translation": "Я точно знаю? Дроссель меняется таким же образом..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 16,
+      "speaker": "Fritz",
+      "original": "That's right! We simply love dolls, that's all!",
+      "translation": "Это верно! Мы просто любим кукол, вот и все!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "Oh no! Looks like we switched him on again!",
+      "translation": "О, нет! Похоже, мы снова его включили!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 18,
+      "speaker": "Fritz",
+      "original": "We travel around, because we want to make puppets and perform the ultimate puppet show!",
+      "translation": "Мы путешествуем, потому что хотим делать кукол и устраивать настоящий кукольный спектакль!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 19,
+      "speaker": "Fritz",
+      "original": "Our dream is to move the hearts of all, and spread wide the wonder of puppet theater!",
+      "translation": "Наша мечта — тронуть сердца всех и широко распространить чудо кукольного театра!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 20,
+      "speaker": "Fritz",
+      "original": "The only way to do that is with love for puppets! Hahahaha!",
+      "translation": "Единственный способ сделать это – с любовью к куклам! Ха-ха-ха!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "W-Wow... I hope your dream will come true. Hahaha...",
+      "translation": "Н-вау... Надеюсь, твоя мечта сбудется. Ха-ха-ха..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 22,
+      "speaker": "Fritz",
+      "original": "Ah! Sorry, I'm doing it again!",
+      "translation": "Ах! Извините, я делаю это снова!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 23,
+      "speaker": "Sue",
+      "original": "D-Don't worry about us! We're getting used to it now...",
+      "translation": "Д-Не беспокойся о нас! Мы уже привыкаем..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_040.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_040.ebm",
+      "index": 24,
+      "speaker": "Fritz",
+      "original": "Ah! I'm being given the cold shoulder already? I need to do something about this habit!",
+      "translation": "Ах! Ко мне уже относятся холодно? Мне нужно что-то сделать с этой привычкой!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_050.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_050.ebm",
+      "index": 0,
+      "speaker": "Fritz",
+      "original": "Huh... Girls, welcome...",
+      "translation": "Ха... Девочки, добро пожаловать..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_050.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_050.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Mr. Fritz, are you alright? You're sweating!",
+      "translation": "Мистер Фриц, с вами все в порядке? Ты потеешь!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_050.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_050.ebm",
+      "index": 2,
+      "speaker": "Fritz",
+      "original": "No, it's fine. I've just got a bit of a stomach ache...",
+      "translation": "Нет, все в порядке. У меня просто немного болит живот..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_050.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_050.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "That's a problem! We can make some medicine for that, if you like?",
+      "translation": "Это проблема! Если хочешь, мы можем сделать для этого какое-нибудь лекарство?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_050.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_050.ebm",
+      "index": 4,
+      "speaker": "Fritz",
+      "original": "Make some medicine? What do you mean?",
+      "translation": "Приготовить лекарство? Что ты имеешь в виду?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_050.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_050.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Ah, we didn't mention this? We're alchemists!",
+      "translation": "Ах, мы не упомянули об этом? Мы алхимики!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_050.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_050.ebm",
+      "index": 6,
+      "speaker": "Fritz",
+      "original": "What, really? Strange fate, indeed!",
+      "translation": "Что, правда? Действительно, странная судьба!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_050.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_050.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Ah, you just relax and take it easy! We'll have some medicine ready before you know it!",
+      "translation": "Ах, просто расслабься и успокойся! Прежде чем вы это заметите, у нас будет готово лекарство!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_050.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_050.ebm",
+      "index": 8,
+      "speaker": "Fritz",
+      "original": "Uwah, thanks... I'll be counting... on you...",
+      "translation": "Ух, спасибо... Я рассчитываю... на тебя..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Mr. Fritz, we've got some medicine for your stomach! Here, drink this!",
+      "translation": "Мистер Фриц, у нас есть лекарство от вашего желудка! Вот, выпей это!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 1,
+      "speaker": "Fritz",
+      "original": "Thanks... I'll drink it right away...",
+      "translation": "Спасибо... сейчас выпью..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 2,
+      "speaker": "Fritz",
+      "original": "Glug, glug... uwah!",
+      "translation": "Глюк, глюк... ух!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 3,
+      "speaker": "Fritz",
+      "original": "Uwah! How bitter! What did you put in that?",
+      "translation": "Ува! Как горько! Что ты туда положил?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Just a touch of something good for you. The actual ingredients are a secret.",
+      "translation": "Просто прикосновение чего-то хорошего для тебя. Фактический состав — секрет."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Don't worry, it will prove itself soon enough.",
+      "translation": "Не волнуйтесь, это скоро проявит себя."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 6,
+      "speaker": "Fritz",
+      "original": "Uwah! The pain is rapidly fading away!",
+      "translation": "Ува! Боль быстро утихает!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "There you go! That's the power of alchemy!",
+      "translation": "Вот и все! В этом сила алхимии!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 8,
+      "speaker": "Fritz",
+      "original": "Indeed, alchemy has done a lot for me over the years. It really is amazing, isn't it?",
+      "translation": "Действительно, алхимия очень многое сделала для меня за эти годы. Это действительно потрясающе, не так ли?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 9,
+      "speaker": "Fritz",
+      "original": "Thank you, both of you! I feel a lot better!",
+      "translation": "Спасибо вам обоим! Я чувствую себя намного лучше!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Good, I'm glad. That's just an emergency measure, though.",
+      "translation": "Хорошо, я рад. Хотя это всего лишь экстренная мера."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "You need to resolve the cause or it will probably come back.",
+      "translation": "Вам необходимо устранить причину, иначе она, вероятно, вернется."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 12,
+      "speaker": "Fritz",
+      "original": "The cause? Anxiety, no doubt. Anxiety because of Drossel...",
+      "translation": "Причина? Беспокойство, без сомнения. Тревога из-за Дросселя..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "What? What is wrong with Drossel?",
+      "translation": "Что? Что не так с Дросселем?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 14,
+      "speaker": "Fritz",
+      "original": "You know she gets lost, right? Well, it's even worse than you might think...",
+      "translation": "Ты знаешь, что она заблудилась, да? Что ж, всё ещё хуже, чем вы думаете..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 15,
+      "speaker": "Fritz",
+      "original": "It once took more than four years to find her. I swore to never be separated from her again...",
+      "translation": "Однажды потребовалось более четырех лет, чтобы найти ее. Я поклялся никогда больше не расставаться с ней..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 16,
+      "speaker": "Fritz",
+      "original": "But when she vanishes, she vanishes! It's like magic or something! An eldritch power!",
+      "translation": "Но когда она исчезает, она исчезает! Это как волшебство или что-то в этом роде! Жуткая сила!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 17,
+      "speaker": "Fritz",
+      "original": "So I try to keep an eye on her every single day, but it's giving me an ulcer...",
+      "translation": "Поэтому я стараюсь присматривать за ней каждый божий день, но от этого у меня появляется язва..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "I see. That's going to be tough to fix...",
+      "translation": "Я понимаю. Исправить это будет сложно..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 19,
+      "speaker": "Fritz",
+      "original": "Yeah. She started to be a little more careful herself, recently, but still...",
+      "translation": "Ага. В последнее время она сама стала немного осторожнее, но все же..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 20,
+      "speaker": "Fritz",
+      "original": "She's my darling daughter, whatever she does to my stomach. I can't abandon her now!",
+      "translation": "Она моя дорогая дочь, что бы она ни делала с моим желудком. Я не могу бросить ее сейчас!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "Very well. If your stomach starts to hurt again, just let us know.",
+      "translation": "Очень хорошо. Если у вас снова начнет болеть живот, просто дайте нам знать."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 22,
+      "speaker": "Lydie",
+      "original": "Special puni extract formulation! We'll bring you as much as you need!",
+      "translation": "Специальная формула экстракта пуни! Мы привезем вам столько, сколько вам нужно!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 23,
+      "speaker": "Fritz",
+      "original": "P-Puni extract?",
+      "translation": "Экстракт П-Пуни?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 24,
+      "speaker": "Sue",
+      "original": "Ah, shoot! A-alright, we'll see you later!",
+      "translation": "Ах, стреляй! А-хорошо, увидимся позже!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_060.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_060.ebm",
+      "index": 25,
+      "speaker": "Fritz",
+      "original": "Hey! Puni extract?! Is that what's in this?! Is it really safe to drink?! Hey!",
+      "translation": "Привет! Экстракт Пуни?! Вот что в этом?! Действительно ли безопасно пить?! Привет!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_070.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_070.ebm",
+      "index": 0,
+      "speaker": "Fritz",
+      "original": "Hahaha, you're such a scatterbrain! I thought you were a little bit more together than this?",
+      "translation": "Ха-ха-ха, ты такой легкомысленный! Я думал, вы были немного больше вместе, чем сейчас?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_070.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_070.ebm",
+      "index": 1,
+      "speaker": "Pamela",
+      "original": "Hey, I am! Really! This was an innocent mistake!",
+      "translation": "Эй, я! Действительно! Это была невинная ошибка!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_070.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_070.ebm",
+      "index": 2,
+      "speaker": "Pamela",
+      "original": "Hey! Lydie and Sue!",
+      "translation": "Привет! Лиди и Сью!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_070.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_070.ebm",
+      "index": 3,
+      "speaker": "Fritz",
+      "original": "What's this? Pamela, you know these two?",
+      "translation": "Что это? Памела, ты знаешь этих двоих?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_070.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_070.ebm",
+      "index": 4,
+      "speaker": "Pamela",
+      "original": "Yes, of course. We're already really great friends!",
+      "translation": "Да, конечно. Мы уже большие друзья!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_070.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_070.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "We are!",
+      "translation": "Мы!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_070.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_070.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "I'm more surprised that you two know each other, to be honest!",
+      "translation": "Честно говоря, я больше удивлен тем, что вы знаете друг друга!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_070.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_070.ebm",
+      "index": 7,
+      "speaker": "Fritz",
+      "original": "We stayed for a while in the town where Pamela lived, a while back. She was a nun there.",
+      "translation": "Мы остановились на некоторое время в городе, где некоторое время назад жила Памела. Она была там монахиней."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_070.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_070.ebm",
+      "index": 8,
+      "speaker": "Pamela",
+      "original": "Hehehe, Fritz was a big help. Everyone at the church loved his puppets.",
+      "translation": "Хе-хе-хе, Фриц мне очень помог. Все в церкви любили его марионеток."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_070.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_070.ebm",
+      "index": 9,
+      "speaker": "Fritz",
+      "original": "I'm glad to hear you say that! You helped us a lot too!",
+      "translation": "Я рад слышать это от тебя! Вы нам тоже очень помогли!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_070.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_070.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Pamela has been a nun for a long time, then! I thought maybe she was something else...",
+      "translation": "Значит, Памела уже давно стала монахиней! Я подумал, может быть, она что-то другое..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_070.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_070.ebm",
+      "index": 11,
+      "speaker": "Pamela",
+      "original": "Hey, I can hear you! That was rude!",
+      "translation": "Эй, я тебя слышу! Это было грубо!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_070.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_070.ebm",
+      "index": 12,
+      "speaker": "Fritz",
+      "original": "Hehe. You still have a way with kids, just like always.",
+      "translation": "Хе-хе. У тебя все еще есть подход к детям, как всегда."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_070.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_070.ebm",
+      "index": 13,
+      "speaker": "Fritz",
+      "original": "In any case, I sense destiny behind this meeting. If you need anything, just let me know.",
+      "translation": "В любом случае, я чувствую судьбу за этой встречей. Если вам что-нибудь понадобится, просто дайте мне знать."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_070.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_070.ebm",
+      "index": 14,
+      "speaker": "Pamela",
+      "original": "Hehe, and I extend the same offer. If you need to chat about anything, I'll be here for you.",
+      "translation": "Хе-хе, и я делаю то же самое предложение. Если вам нужно о чем-нибудь поговорить, я буду здесь для вас."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_070.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_070.ebm",
+      "index": 15,
+      "speaker": "Pamela",
+      "original": "Ah, and one last thing. I'd love to see another of your puppet shows some time!",
+      "translation": "Ах, и последнее. Мне бы очень хотелось когда-нибудь посмотреть еще один ваш кукольный спектакль!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_070.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_070.ebm",
+      "index": 16,
+      "speaker": "Fritz",
+      "original": "Hahaha, that can easily be arranged! See you later!",
+      "translation": "Ха-ха-ха, это легко устроить! Увидимся позже!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_070.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_070.ebm",
+      "index": 17,
+      "speaker": "Pamela",
+      "original": "That took me back! Tell me, is Fritz the same as before?",
+      "translation": "Это вернуло меня! Скажите, Фриц тот же, что и раньше?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_070.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_070.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "The same as... ah, I think I know what you mean. His reaction to puppets?",
+      "translation": "То же самое, что... ах, кажется, я понимаю, о чем ты. Его реакция на марионеток?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_070.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_070.ebm",
+      "index": 19,
+      "speaker": "Pamela",
+      "original": "Yes, that's right! If you know about it, I guess he is the same!",
+      "translation": "Да, это так! Если вы об этом знаете, думаю, он такой же!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_070.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_070.ebm",
+      "index": 20,
+      "speaker": "Pamela",
+      "original": "Good, I'm glad to hear it. That's how Fritz should be, no doubt!",
+      "translation": "Хорошо, я рад это слышать. Таким, вне всякого сомнения, должен быть Фриц!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_070.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_070.ebm",
+      "index": 21,
+      "speaker": "Sue",
+      "original": "Hmm. That confirms that Mr. Fritz has always been a little bit odd.",
+      "translation": "Хм. Это подтверждает, что г-н Фриц всегда был немного странным."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_070.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_070.ebm",
+      "index": 22,
+      "speaker": "Lydie",
+      "original": "Yeah. If he's not going to change, we just need to get used to it.",
+      "translation": "Ага. Если он не собирается меняться, нам просто нужно к этому привыкнуть."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_080.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_080.ebm",
+      "index": 0,
+      "speaker": "Fritz",
+      "original": "Huh! Haah! Deyraaaah!",
+      "translation": "Хм! Хаа! Дейраааа!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_080.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_080.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "That sounds like Mr. Fritz. Is he making another puppet?",
+      "translation": "Это похоже на мистера Фрица. Он делает еще одну куклу?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_080.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_080.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Hahaha, I don't know... Maybe we should go and check it out?",
+      "translation": "Ха-ха-ха, я не знаю... Может, сходим и проверим?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_080.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_080.ebm",
+      "index": 3,
+      "speaker": "Fritz",
+      "original": "Phew. Hey, girls. What's up?",
+      "translation": "Уф. Привет, девочки. Как дела?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_080.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_080.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "We heard you from outside, and wondered what you were doing...",
+      "translation": "Мы услышали вас снаружи и поинтересовались, что вы делаете..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_080.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_080.ebm",
+      "index": 5,
+      "speaker": "Fritz",
+      "original": "Hmm. It seems this place has thin walls. I guess for 3000 Coll a month you can't ask for much.",
+      "translation": "Хм. Кажется, у этого места тонкие стены. Думаю, за 3000 коллов в месяц многого не пожелаешь."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_080.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_080.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Our atelier is 500 Coll. And when it rains... Well, enough of that.",
+      "translation": "Наше ателье 500 колл. А когда идет дождь... Ну, хватит об этом."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_080.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_080.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "Mr. Fritz, what were you doing? It doesn't look like you were making another puppet...",
+      "translation": "Мистер Фриц, что вы делали? Не похоже, что ты делал еще одну марионетку..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_080.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_080.ebm",
+      "index": 8,
+      "speaker": "Fritz",
+      "original": "No, I was practicing with the sword. I'm getting a bit rusty.",
+      "translation": "Нет, я тренировался с мечом. Я немного заржавел."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_080.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_080.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "With a sword? Mr. Fritz, aren't you a puppeteer?",
+      "translation": "С мечом? Мистер Фриц, вы не кукловод?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_080.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_080.ebm",
+      "index": 10,
+      "speaker": "Fritz",
+      "original": "Yes, it often surprises people. Before I was a puppeteer, I was a mercenary.",
+      "translation": "Да, это часто удивляет людей. Прежде чем стать кукловодом, я был наемником."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_080.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_080.ebm",
+      "index": 11,
+      "speaker": "Fritz",
+      "original": "I still sometimes make a little extra money by fighting monsters. So I have to keep myself in shape.",
+      "translation": "Я до сих пор иногда подрабатываю, сражаясь с монстрами. Поэтому мне нужно держать себя в форме."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_080.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_080.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "A mercenary and a puppeteer seem to be at complete opposites! How did all this come about?",
+      "translation": "Наемник и кукловод кажутся полными противоположностями! Как все это произошло?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_080.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_080.ebm",
+      "index": 13,
+      "speaker": "Fritz",
+      "original": "Hehe, it all started when I saw one of my wife's puppet shows. She completely stole my heart.",
+      "translation": "Хе-хе, все началось, когда я посмотрел кукольный спектакль моей жены. Она полностью украла мое сердце."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_080.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_080.ebm",
+      "index": 14,
+      "speaker": "Fritz",
+      "original": "I gave up on being a mercenary because I wanted to become a puppeteer like my wife.",
+      "translation": "Я отказался от карьеры наемника, потому что хотел стать кукловодом, как моя жена."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_080.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_080.ebm",
+      "index": 15,
+      "speaker": "Fritz",
+      "original": "I started training with her, learned so much, and before we knew it we ended up married!",
+      "translation": "Я начал с ней тренироваться, многому научился, и, прежде чем мы это осознали, мы поженились!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_080.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_080.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "Love, born in the theater! How lovely! I hope I can meet someone like that!",
+      "translation": "Любовь, рожденная в театре! Как мило! Я надеюсь, что смогу встретить такого человека!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_080.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_080.ebm",
+      "index": 17,
+      "speaker": "Fritz",
+      "original": "Lovely, you say... I guess so, if the story ended there.",
+      "translation": "Мило, скажете вы... Наверное, так, если бы история на этом закончилась."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_080.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_080.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "Hold on! That doesn't sound good!",
+      "translation": "Подожди! Это звучит нехорошо!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_080.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_080.ebm",
+      "index": 19,
+      "speaker": "Fritz",
+      "original": "In the end, she left us, unable to stand the intensity of the love that Drossel and I have for our puppets...",
+      "translation": "В конце концов, она ушла от нас, не выдержав всей той любви, которую мы с Дросселем испытываем к нашим марионеткам..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_080.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_080.ebm",
+      "index": 20,
+      "speaker": "Fritz",
+      "original": "Now, we've no idea where she is. This is one of the reasons for our travels. To find her...",
+      "translation": "Сейчас мы понятия не имеем, где она. Это одна из причин наших путешествий. Чтобы найти ее..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_080.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_080.ebm",
+      "index": 21,
+      "speaker": "Sue",
+      "original": "I see.",
+      "translation": "Я понимаю."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_080.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_080.ebm",
+      "index": 22,
+      "speaker": "Fritz",
+      "original": "Yeah. I still hope to meet her again and make up, somehow.",
+      "translation": "Ага. Я все еще надеюсь встретиться с ней снова и как-нибудь помириться."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_080.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_080.ebm",
+      "index": 23,
+      "speaker": "Fritz",
+      "original": "But we don't even know where she's living now. I just hope she's alive and well...",
+      "translation": "Но мы даже не знаем, где она сейчас живет. Я просто надеюсь, что она жива и здорова..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 0,
+      "speaker": "Together",
+      "original": "We're coming in!",
+      "translation": "Мы входим!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": "We're coming in!",
+      "translation": "Мы входим!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "W-What's going on?! Mr. Fritz? Drossel?",
+      "translation": "Ч-что происходит?! Мистер Фриц? Дроссель?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "You look very serious! Are you here to fight us for the atelier?! Is that it?!",
+      "translation": "Ты выглядишь очень серьезно! Ты здесь, чтобы сразиться с нами за ателье?! Неужели это?!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 4,
+      "speaker": "Fritz",
+      "original": "As if! Your place leaks more than the one we rent!",
+      "translation": "Как будто! Ваше жилье протекает больше, чем то, которое мы снимаем!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 5,
+      "speaker": "Drossel",
+      "original": "We're here because there's something we want to ask!",
+      "translation": "Мы здесь, потому что хотим кое-что спросить!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Like what?! Not my secret savings! Hah, you'll never look under Sue's bed... ulp!",
+      "translation": "Как что?! Не мои тайные сбережения! Ха, ты никогда не заглянешь под кровать Сью... блевать!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 7,
+      "speaker": "Fritz",
+      "original": "Not that either! We want to ask you about the Mysterious Paintings!",
+      "translation": "И не это! Мы хотим спросить вас о Таинственных Картинах!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Hold on... Mysterious Paintings? You know about them?",
+      "translation": "Подожди... Загадочные картины? Вы знаете о них?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 9,
+      "speaker": "Drossel",
+      "original": "Who doesn't?! The rumors are everywhere! Twin alchemists, exploring worlds inside paintings!",
+      "translation": "Кто нет?! Слухи повсюду! Алхимики-близнецы, исследующие миры внутри картин!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Wow, really? People are talking about us? Hehe, that's great!",
+      "translation": "Вау, правда? Люди говорят о нас? Хе-хе, это здорово!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Lydie, a little modesty! Hehe! Anyway, why do you want to know about the paintings?",
+      "translation": "Лидия, немного скромности! Хе-хе! И вообще, зачем тебе знать о картинах?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 12,
+      "speaker": "Fritz",
+      "original": "We want to make a puppet show about them. There are all sorts of worlds in there, right?",
+      "translation": "Мы хотим сделать о них кукольный спектакль. Там есть самые разные миры, верно?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 13,
+      "speaker": "Drossel",
+      "original": "A world with only cute girls, or a world were gold can be found scattered on the ground?",
+      "translation": "Мир, в котором живут только милые девушки, или мир, в котором по земле можно найти золото?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "We haven't seen any worlds like that! It sounds like the rumors are a bit out of control!",
+      "translation": "Таких миров мы еще не видели! Похоже, слухи немного вышли из-под контроля!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "Come on then. We'll tell you the truth. These painting worlds...",
+      "translation": "Давай тогда. Мы скажем вам правду. Эти живописные миры..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "And that's how it works. Does that help?",
+      "translation": "И вот как это работает. Это помогает?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 17,
+      "speaker": "Drossel",
+      "original": "A lot! Hahaha, now I can write it! I can write a great script, based on this!",
+      "translation": "Много! Ха-ха-ха, теперь я могу это написать! На основе этого я могу написать отличный сценарий!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 18,
+      "speaker": "Fritz",
+      "original": "I've had some new ideas for puppets, too! Hahaha! I need to get back and start work at once!",
+      "translation": "У меня тоже появились новые идеи для кукол! Ха-ха-ха! Мне нужно вернуться и немедленно приступить к работе!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 19,
+      "speaker": "Drossel",
+      "original": "Me too, Dad! Girls, we'll see you later!",
+      "translation": "Я тоже, папа! Девочки, увидимся позже!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 20,
+      "speaker": "Sue",
+      "original": "Uwah, that was a surprise. They sweep in here, and then sweep out again! Crazy!",
+      "translation": "Увау, это был сюрприз. Сюда заносятся, а потом снова выметаются! Сумасшедший!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "Hahaha... But you know what? I think I quite like them.",
+      "translation": "Ха-ха-ха... Но знаешь что? Я думаю, они мне очень нравятся."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 22,
+      "speaker": "Lydie",
+      "original": "So intent on their goal, so full of energy... It's almost dazzling to look at them!",
+      "translation": "Такие устремленные к своей цели, такие полные энергии... На них почти ослепительно смотреть!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 23,
+      "speaker": "Sue",
+      "original": "Hmm. I think you're going to have terrible taste in men in the future, Lydie...",
+      "translation": "Хм. Я думаю, в будущем у тебя будет ужасный вкус на мужчин, Лиди..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 24,
+      "speaker": "Lydie",
+      "original": "What! What's that supposed to mean?!",
+      "translation": "Что! Что это должно значить?!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 25,
+      "speaker": "Sue",
+      "original": "Exactly what it sounds like. You're going to need me to save you, I can tell!",
+      "translation": "Именно так это звучит. Я тебе понадобится, чтобы спасти тебя, я знаю!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_090.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_090.ebm",
+      "index": 26,
+      "speaker": "Lydie",
+      "original": "Hey! Hold on! Explain yourself! What are you talking about?",
+      "translation": "Привет! Подожди! Объяснитесь! О чем ты говоришь?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_100.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_100.ebm",
+      "index": 0,
+      "speaker": "Fritz",
+      "original": "So, when making a puppet, the most important parts to consider are the waist and the lower back...",
+      "translation": "Итак, при изготовлении куклы наиболее важными частями, которые следует учитывать, являются талия и поясница..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_100.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_100.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Hmm, I see. So that's what you like, Mr. Fritz?",
+      "translation": "Хм, я вижу. Так вот что вам нравится, мистер Фриц?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_100.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_100.ebm",
+      "index": 2,
+      "speaker": "Fritz",
+      "original": "Hey, I didn't say that! I'm talking about puppet making, that's all...",
+      "translation": "Эй, я этого не говорил! Я говорю о изготовлении кукол, вот и все..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_100.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_100.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Another guest? Shall I let them in?",
+      "translation": "Еще один гость? Мне их впустить?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_100.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_100.ebm",
+      "index": 4,
+      "speaker": "Fritz",
+      "original": "Yes, please.",
+      "translation": "Да, пожалуйста."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_100.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_100.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Yes, who is it?",
+      "translation": "Да, кто это?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_100.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_100.ebm",
+      "index": 6,
+      "speaker": "Pamela",
+      "original": "Boo!",
+      "translation": "Бу!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_100.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_100.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "Uwaaaah! P-P-P-Pamela!",
+      "translation": "Уваааа! П-п-п-Памела!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_100.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_100.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "W-What! Where did you come in from? How did you do that?",
+      "translation": "Ч-что! Откуда вы пришли? Как ты это сделал?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_100.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_100.ebm",
+      "index": 9,
+      "speaker": "Pamela",
+      "original": "A magician never reveals her tricks!",
+      "translation": "Фокусник никогда не раскрывает свои фокусы!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_100.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_100.ebm",
+      "index": 10,
+      "speaker": "Fritz",
+      "original": "Hahaha, you haven't changed. What is it? How can I help?",
+      "translation": "Ха-ха-ха, ты не изменился. Что это такое? Как я могу помочь?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_100.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_100.ebm",
+      "index": 11,
+      "speaker": "Pamela",
+      "original": "Good question! I'm here to request a puppet show from you.",
+      "translation": "Хороший вопрос! Я здесь, чтобы заказать у вас кукольный спектакль."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_100.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_100.ebm",
+      "index": 12,
+      "speaker": "Fritz",
+      "original": "I see, you want a performance. Where?",
+      "translation": "Я вижу, ты хочешь представление. Где?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_100.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_100.ebm",
+      "index": 13,
+      "speaker": "Pamela",
+      "original": "At the church. We hold these church gatherings, and we'd like you to be a part of it.",
+      "translation": "В церкви. Мы проводим эти церковные собрания, и мы хотели бы, чтобы вы стали их частью."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_100.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_100.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "I knew it. The puppeteer you were talking about was Mr. Fritz.",
+      "translation": "Я знал это. Кукольником, о котором вы говорили, был мистер Фриц."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_100.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_100.ebm",
+      "index": 15,
+      "speaker": "Pamela",
+      "original": "That's right. Fritz is the best puppeteer I've ever seen!",
+      "translation": "Это верно. Фриц — лучший кукольник, которого я когда-либо видел!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_100.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_100.ebm",
+      "index": 16,
+      "speaker": "Fritz",
+      "original": "Heh, an honor that you think so. Very well, I accept your request.",
+      "translation": "Хех, это честь, что ты так думаешь. Хорошо, я принимаю вашу просьбу."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_100.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_100.ebm",
+      "index": 17,
+      "speaker": "Fritz",
+      "original": "Hahaha! Drossel and I will put on our greatest performance yet, I promise!",
+      "translation": "Ха-ха-ха! Я и Дроссель покажем наше лучшее выступление, я обещаю!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_100.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_100.ebm",
+      "index": 18,
+      "speaker": "Pamela",
+      "original": "Great to hear! I'll come by again with the details soon. Thanks!",
+      "translation": "Приятно слышать! Скоро зайду снова с подробностями. Спасибо!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_100.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_100.ebm",
+      "index": 19,
+      "speaker": "Fritz",
+      "original": "Hahaha, this is exciting! Let's start the preparations at once!",
+      "translation": "Ха-ха-ха, это захватывающе! Начнем подготовку немедленно!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_100.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_100.ebm",
+      "index": 20,
+      "speaker": "Lydie",
+      "original": "Mr. Fritz, we're going to be at the church gathering too.",
+      "translation": "Мистер Фриц, мы тоже собираемся присутствовать на церковном собрании."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_100.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_100.ebm",
+      "index": 21,
+      "speaker": "Sue",
+      "original": "We're really looking forward to the puppet show already!",
+      "translation": "Мы уже с нетерпением ждем кукольного спектакля!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_100.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_100.ebm",
+      "index": 22,
+      "speaker": "Fritz",
+      "original": "Leave it to us, then! Hahaha!",
+      "translation": "Тогда оставьте это нам! Ха-ха-ха!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Mr. Fritz! Drossel! You've made up with Sister Grace?",
+      "translation": "Мистер Фриц! Дроссель! Ты помирился с Сестрой Грейс?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Hehe, that's great! Congratulations!",
+      "translation": "Хе-хе, это здорово! Поздравляем!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 2,
+      "speaker": "Fritz",
+      "original": "Heh, it all worked out somehow. It's all thanks to you two, really!",
+      "translation": "Хех, все как-то получилось. Это все благодаря вам двоим, правда!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 3,
+      "speaker": "Drossel",
+      "original": "That's right. The support you offered us really helped us get through, Lydie and Sue!",
+      "translation": "Это верно. Поддержка, которую вы нам предложили, действительно помогла нам выжить, Лиди и Сью!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 4,
+      "speaker": "Drossel",
+      "original": "Thank you so much, both of you!",
+      "translation": "Огромное спасибо вам обоим!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "This is great! Now you can all live as a family again!",
+      "translation": "Это здорово! Теперь вы снова можете жить как одна семья!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 6,
+      "speaker": "Drossel",
+      "original": "Ah, well, about that... It won't be long before I'll be hitting the road again...",
+      "translation": "А, ну об этом... Совсем скоро я снова отправлюсь в путь..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "What? After just meeting your mom again?",
+      "translation": "Что? После очередной встречи с мамой?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 8,
+      "speaker": "Drossel",
+      "original": "Yes... There's something I want to do, so I can't live with them.",
+      "translation": "Да... Мне кое-что хочется сделать, поэтому я не могу с ними жить."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 9,
+      "speaker": "Fritz",
+      "original": "I tried to persuade her, but it's no good. She's such a stubborn girl! Where does she get it from?",
+      "translation": "Я пытался ее уговорить, но это бесполезно. Она такая упрямая девочка! Откуда она это берет?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "I see... Drossel, can you tell us what it is you want to do?",
+      "translation": "Понятно... Дроссель, можешь ли ты сказать нам, что ты хочешь сделать?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 11,
+      "speaker": "Drossel",
+      "original": "Sure. I want even more people to see the ultimate puppet theater we have created!",
+      "translation": "Конечно. Я хочу, чтобы еще больше людей увидели созданный нами потрясающий кукольный театр!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 12,
+      "speaker": "Drossel",
+      "original": "It's so good, after all. We want many more people to see it!",
+      "translation": "В конце концов, это так хорошо. Мы хотим, чтобы это увидело как можно больше людей!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 13,
+      "speaker": "Drossel",
+      "original": "So I'm going to leave the city and perform it in as many places as I can!",
+      "translation": "Так что я собираюсь покинуть город и выступить с ним в как можно большем количестве мест!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "I see! To get more people to see your show.",
+      "translation": "Я понимаю! Чтобы больше людей посмотрело ваше шоу."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 15,
+      "speaker": "Drossel",
+      "original": "Yeah. I bet mom and dad want some alone time, too!",
+      "translation": "Ага. Могу поспорить, мама и папа тоже хотят побыть наедине!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 16,
+      "speaker": "Fritz",
+      "original": "Hey! That's not for you to worry about!",
+      "translation": "Привет! Не вам об этом беспокоиться!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "Hahah! It sounds like she's totally outmaneuvered you, Mr. Fritz!",
+      "translation": "Ха-ха! Похоже, она вас полностью перехитрила, мистер Фриц!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "Aren't you going to be sad though, Drossel? Not being with your parents?",
+      "translation": "А ты не будешь грустить, Дроссель? Не быть с родителями?"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 19,
+      "speaker": "Drossel",
+      "original": "Yes, I'm sad! I plan on coming back pretty often, you'll see!",
+      "translation": "Да, мне грустно! Я планирую возвращаться довольно часто, вот увидите!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 20,
+      "speaker": "Fritz",
+      "original": "Hah! If your sense of direction doesn't improve, we'll probably never see you again!",
+      "translation": "Ха! Если ваше чувство направления не улучшится, мы, вероятно, никогда больше вас не увидим!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 21,
+      "speaker": "Drossel",
+      "original": "Hah, you have to bring that up! Don't worry, it'll all work out!",
+      "translation": "Ха, ты должен это поднять! Не волнуйтесь, все получится!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 22,
+      "speaker": "Fritz",
+      "original": "Are you sure? Anyway, more than that, I think it's about time you found a husband, at your age...",
+      "translation": "Вы уверены? В любом случае, более того, я думаю, тебе пора найти мужа в твоем возрасте..."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 23,
+      "speaker": "Drossel",
+      "original": "Stop right there! Never talk to a girl about her age!",
+      "translation": "Остановитесь здесь! Никогда не говорите с девушкой о ее возрасте!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 24,
+      "speaker": "Lydie",
+      "original": "Hehe. Even after living apart for so long, it doesn't take much to turn back the clock.",
+      "translation": "Хе-хе. Даже после столь долгой жизни в разлуке, не нужно много времени, чтобы повернуть время вспять."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 25,
+      "speaker": "Lydie",
+      "original": "The bonds of family are so strong, aren't they! Stronger than rocks, than metal, than anything!",
+      "translation": "Семейные узы так сильны, не так ли! Крепче камня, металла, чего бы то ни было!"
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 26,
+      "speaker": "Sue",
+      "original": "Yeah. So even if Drossel goes traveling, the bond between the three of them will be unchanged.",
+      "translation": "Ага. Так что даже если Дроссель отправится в путешествие, связь между ними троими не изменится."
+    },
+    "ebm:qc16_fri/event_message_qc16_fri_110.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc16_fri/event_message_qc16_fri_110.ebm",
+      "index": 27,
+      "speaker": "Sue",
+      "original": "Heheh! I wish all three of them endless happiness!",
+      "translation": "Хе-хе! Желаю всем троим бесконечного счастья!"
+    }
+  }
+}

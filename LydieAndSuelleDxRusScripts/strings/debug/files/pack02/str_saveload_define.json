@@ -1,0 +1,407 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_saveload_define.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:4456449": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456449",
+      "original": "Saving your cleared game data. ^00Extras will appear in the Title Screen menu^00after you save your cleared game data.^00^00After you load the cleared game data,^00part of the game data will be transferred, and new game+ will begin.^00If you overwrite your save, you will not be able to use the transferred data.^00It is advisable to save your data in separate slots.",
+      "translation": "Сохранение данных прохождения. ^00После сохранения данных прохождения в меню титульного экрана^00появится раздел Extras.^00^00При загрузке данных прохождения^00часть игровых данных будет перенесена, и начнётся новая игра+.^00При перезаписи сохранения вы не сможете использовать перенесённые данные.^00Рекомендуется сохранять данные в отдельных слотах."
+    },
+    "pack02:4456450": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456450",
+      "original": "You will not be able to access Extras if you don't save your cleared game data.^00Do you wish to return to Title Screen without saving?",
+      "translation": "Без сохранения данных прохождения вы не сможете получить доступ к Extras.^00Вернуться на титульный экран без сохранения?"
+    },
+    "pack02:4456451": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456451",
+      "original": "Are you sure you wish to return to Title Screen without saving?",
+      "translation": "Вы уверены, что хотите вернуться на титульный экран без сохранения?"
+    },
+    "pack02:4456453": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456453",
+      "original": "Save",
+      "translation": "Сохранение"
+    },
+    "pack02:4456454": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456454",
+      "original": "Load",
+      "translation": "Загрузка"
+    },
+    "pack02:4456455": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456455",
+      "original": "Save to Network",
+      "translation": "Сетевое сохранение"
+    },
+    "pack02:4456456": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456456",
+      "original": "Load from Network",
+      "translation": "Сетевая загрузка"
+    },
+    "pack02:4456457": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456457",
+      "original": "Save to System",
+      "translation": "Системное сохранение"
+    },
+    "pack02:4456458": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456458",
+      "original": "Rest a While",
+      "translation": "Отдохнуть"
+    },
+    "pack02:4456459": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456459",
+      "original": "Change BGM",
+      "translation": "Сменить музыку"
+    },
+    "pack02:4456460": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456460",
+      "original": "Options",
+      "translation": "Настройки"
+    },
+    "pack02:4456461": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456461",
+      "original": "Return to Title page",
+      "translation": "Вернуться на титул"
+    },
+    "pack02:4456462": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456462",
+      "original": "Change Outfits",
+      "translation": "Сменить одежду"
+    },
+    "pack02:4456463": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456463",
+      "original": "Change Character",
+      "translation": "Смена персонажа"
+    },
+    "pack02:4456464": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456464",
+      "original": "Select",
+      "translation": "Выбор"
+    },
+    "pack02:4456466": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456466",
+      "original": "Chapter 1 &quot;The Twins&quot;",
+      "translation": "Глава 1 &quot;Близнецы&quot;"
+    },
+    "pack02:4456467": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456467",
+      "original": "Chapter 2 &quot;A Mentor and an Official Notice&quot;",
+      "translation": "Глава 2 &quot;Наставник и официальное уведомление&quot;"
+    },
+    "pack02:4456468": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456468",
+      "original": "Chapter 3 &quot;A Mysterious World&quot;",
+      "translation": "Глава 3 &quot;Таинственный мир&quot;"
+    },
+    "pack02:4456469": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456469",
+      "original": "Chapter 4 &quot;Rivals&quot;",
+      "translation": "Глава 4 &quot;Соперники&quot;"
+    },
+    "pack02:4456470": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456470",
+      "original": "Chapter 5 &quot;An Omen&quot;",
+      "translation": "Глава 5 &quot;Предзнаменование&quot;"
+    },
+    "pack02:4456471": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456471",
+      "original": "Chapter 6 &quot;Ancient Times&quot;",
+      "translation": "Глава 6 &quot;Древние времена&quot;"
+    },
+    "pack02:4456472": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456472",
+      "original": "Chapter 7 &quot;A Vacation?...&quot;",
+      "translation": "Глава 7 &quot;Отпуск?...&quot;"
+    },
+    "pack02:4456473": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456473",
+      "original": "Chapter 8 &quot;Time Travelers&quot;",
+      "translation": "Глава 8 &quot;Путешественники во времени&quot;"
+    },
+    "pack02:4456474": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456474",
+      "original": "Chapter 9 &quot;Miracle&quot;",
+      "translation": "Глава 9 &quot;Чудо&quot;"
+    },
+    "pack02:4456475": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456475",
+      "original": "Chapter 10 &quot;Voices and Dreams&quot;",
+      "translation": "Глава 10 &quot;Голоса и сны&quot;"
+    },
+    "pack02:4456476": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456476",
+      "original": "Chapter 11 &quot;The Black Paint&quot;",
+      "translation": "Глава 11 &quot;Чёрная краска&quot;"
+    },
+    "pack02:4456477": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456477",
+      "original": "Final Chapter &quot;The Promise&quot;",
+      "translation": "Финальная глава &quot;Обещание&quot;"
+    },
+    "pack02:4456479": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456479",
+      "original": "S",
+      "translation": "S"
+    },
+    "pack02:4456480": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456480",
+      "original": "A",
+      "translation": "A"
+    },
+    "pack02:4456481": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456481",
+      "original": "B",
+      "translation": "B"
+    },
+    "pack02:4456482": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456482",
+      "original": "C",
+      "translation": "C"
+    },
+    "pack02:4456483": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456483",
+      "original": "D",
+      "translation": "D"
+    },
+    "pack02:4456484": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456484",
+      "original": "E",
+      "translation": "E"
+    },
+    "pack02:4456485": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456485",
+      "original": "F",
+      "translation": "F"
+    },
+    "pack02:4456486": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456486",
+      "original": "G",
+      "translation": "G"
+    },
+    "pack02:4456489": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456489",
+      "original": "Cleared Game Data",
+      "translation": "Данные прохождения"
+    },
+    "pack02:4456491": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456491",
+      "original": "Alchemy Level",
+      "translation": "Ур. алхимии"
+    },
+    "pack02:4456492": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456492",
+      "original": "Money",
+      "translation": "Деньги"
+    },
+    "pack02:4456493": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456493",
+      "original": "Coll",
+      "translation": "Колл"
+    },
+    "pack02:4456494": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456494",
+      "original": "Playtime",
+      "translation": "Время игры"
+    },
+    "pack02:4456495": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456495",
+      "original": "Level",
+      "translation": "Уровень"
+    },
+    "pack02:4456496": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456496",
+      "original": "Player",
+      "translation": "Игрок"
+    },
+    "pack02:4456497": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456497",
+      "original": "Atelier Rank",
+      "translation": "Ранг ателье"
+    },
+    "pack02:4456498": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456498",
+      "original": "Lv.",
+      "translation": "Ур."
+    },
+    "pack02:4456499": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456499",
+      "original": "Creating new save data.",
+      "translation": "Новое сохранение"
+    },
+    "pack02:4456500": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456500",
+      "original": "Overwrite this save data?",
+      "translation": "Перезаписать это сохранение?"
+    },
+    "pack02:4456501": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456501",
+      "original": "Please wait...",
+      "translation": "Подождите..."
+    },
+    "pack02:4456502": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456502",
+      "original": "Saving...",
+      "translation": "Сохранение..."
+    },
+    "pack02:4456503": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456503",
+      "original": "Loading...",
+      "translation": "Загрузка..."
+    },
+    "pack02:4456504": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456504",
+      "original": "Creating system data.",
+      "translation": "Создание системного сохранения."
+    },
+    "pack02:4456505": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456505",
+      "original": "Saving system data...",
+      "translation": "Запись системного сохранения..."
+    },
+    "pack02:4456506": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456506",
+      "original": "Loading system data...",
+      "translation": "Загрузка системного сохранения..."
+    },
+    "pack02:4456507": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456507",
+      "original": "No save data exists.",
+      "translation": "Сохранения отсутствуют."
+    },
+    "pack02:4456509": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456509",
+      "original": "SAVE DATA%02d",
+      "translation": "SAVE DATA%02d"
+    },
+    "pack02:4456510": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456510",
+      "original": "This feature is not available until the installation is finished.",
+      "translation": "Эта функция недоступна, пока не завершится установка."
+    },
+    "pack02:4456511": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456511",
+      "original": "Exit Game",
+      "translation": "Выход из игры"
+    },
+    "pack02:4456512": {
+      "source": "pack02_text_en",
+      "file": "str_saveload_define.xml",
+      "string_no": "4456512",
+      "original": "Ending game. Are you sure?",
+      "translation": "Вы уверены?"
+    }
+  }
+}

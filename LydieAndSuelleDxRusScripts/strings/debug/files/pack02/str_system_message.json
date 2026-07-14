@@ -1,0 +1,3158 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_system_message.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:65537": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65537",
+      "original": "The load was cancelled because the required DLC is not installed. Please install the following DLC:",
+      "translation": "Загрузка отменена, так как не установлен необходимый DLC. Пожалуйста, установите следующий DLC:"
+    },
+    "pack02:65538": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65538",
+      "original": "As the loaded save data has been modified, the load has been canceled.",
+      "translation": "Поскольку загруженные данные сохранения были изменены, загрузка была отменена."
+    },
+    "pack02:65539": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65539",
+      "original": "Data download is incomplete. Load canceled.",
+      "translation": "Загрузка данных не завершена. Загрузка отменена."
+    },
+    "pack02:65540": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65540",
+      "original": "Saving to the network. Do you wish to proceed?",
+      "translation": "Сохранение в сети. Хотите продолжить?"
+    },
+    "pack02:65541": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65541",
+      "original": "Loading from the network. Do you wish to proceed?",
+      "translation": "Загрузка из сети. Хотите продолжить?"
+    },
+    "pack02:65542": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65542",
+      "original": "You do not have any items that can be given.",
+      "translation": "У вас нет предметов, которые можно подарить."
+    },
+    "pack02:65543": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65543",
+      "original": "You do not have any usable items.",
+      "translation": "У вас нет полезных предметов."
+    },
+    "pack02:65544": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65544",
+      "original": "Returning to the title screen. Do you wish to proceed?",
+      "translation": "Возвращаемся к титульному экрану. Хотите продолжить?"
+    },
+    "pack02:65545": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65545",
+      "original": "Changing player character. Do you wish to proceed?",
+      "translation": "Изменение персонажа игрока. Хотите продолжить?"
+    },
+    "pack02:65684": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65684",
+      "original": "Morning! Let’s give it all we’ve got again today!",
+      "translation": "Утро! Давайте сегодня снова отдадим все, что у нас есть!"
+    },
+    "pack02:65685": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65685",
+      "original": "This is a fine situation we’ve got ourselves in now... But I won’t give in - even at a time like this!",
+      "translation": "Мы сейчас в прекрасном положении оказались... Но я не сдамся - даже в такое время!"
+    },
+    "pack02:65686": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65686",
+      "original": "Good morning! I just know something good will happen today!",
+      "translation": "Доброе утро! Я просто знаю, что сегодня произойдет что-то хорошее!"
+    },
+    "pack02:65687": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65687",
+      "original": "...Now more than ever, we must go about our regular business. Hehe, please feel free to look around.",
+      "translation": "...Сейчас, как никогда, нам нужно заняться своими обычными делами. Хе-хе, пожалуйста, не стесняйтесь осмотреться вокруг."
+    },
+    "pack02:65688": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65688",
+      "original": "Hehe, good morning! You’re up and at it bright and early!",
+      "translation": "Хе-хе, доброе утро! Вы встали рано и рано!"
+    },
+    "pack02:65689": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65689",
+      "original": "Things sure look worrying... I hope you’ll find something to your liking here.",
+      "translation": "Все выглядит тревожно... Надеюсь, вы найдете здесь что-нибудь по душе."
+    },
+    "pack02:65690": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65690",
+      "original": "Good morning! Hey, guess what! Firis is looking more adorable than ever this morning!",
+      "translation": "Доброе утро! Эй, угадай что! Этим утром Фирис выглядит очаровательнее, чем когда-либо!"
+    },
+    "pack02:65691": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65691",
+      "original": "*Yawn*... Oh, excuse me. I have a wide range of items again today.",
+      "translation": "*Зевает*... Ой, извини. Сегодня у меня снова широкий ассортимент товаров."
+    },
+    "pack02:65692": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65692",
+      "original": "All this thunder... It’s a nasty situation, but I can’t afford to shut the shop...",
+      "translation": "Весь этот гром... Неприятная ситуация, но закрыть магазин я не могу..."
+    },
+    "pack02:65693": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65693",
+      "original": "How are things, girls? ...Me? You know I’m doing fine!",
+      "translation": "Как дела, девочки? ...Мне? Ты знаешь, у меня все хорошо!"
+    },
+    "pack02:65694": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65694",
+      "original": "This is a fine situation we’ve got ourselves in now... But I won’t give in - even at a time like this!",
+      "translation": "Мы сейчас в прекрасном положении оказались... Но я не сдамся - даже в такое время!"
+    },
+    "pack02:65695": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65695",
+      "original": "Zzz, zzz... I-I'm not sleeping! C-Come on in...!",
+      "translation": "Ззз, ззз... Я-я не сплю! Д-Заходи...!"
+    },
+    "pack02:65696": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65696",
+      "original": "...Now more than ever, we must go about our regular business. Hehe, please feel free to look around.",
+      "translation": "...Сейчас, как никогда, нам нужно заняться своими обычными делами. Хе-хе, пожалуйста, не стесняйтесь осмотреться вокруг."
+    },
+    "pack02:65697": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65697",
+      "original": "Hello. Have you eaten lunch yet? You make sure you do, okay?",
+      "translation": "Привет. Ты уже пообедал? Ты обязательно это сделаешь, хорошо?"
+    },
+    "pack02:65698": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65698",
+      "original": "Things sure look worrying... I hope you’ll find something to your liking here.",
+      "translation": "Все выглядит тревожно... Надеюсь, вы найдете здесь что-нибудь по душе."
+    },
+    "pack02:65699": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65699",
+      "original": "Come on in. I wonder if Firis ate the packed lunch I made her...",
+      "translation": "Заходите. Интересно, съела ли Фирис упакованный ланч, который я ей приготовил..."
+    },
+    "pack02:65700": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65700",
+      "original": "Welcome. Now that I’ve eaten lunch, I’m ready for anything... I think.",
+      "translation": "Добро пожаловать. Теперь, когда я пообедал, я готов ко всему... Думаю."
+    },
+    "pack02:65701": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65701",
+      "original": "All this thunder... It’s a nasty situation, but I can’t afford to shut the shop...",
+      "translation": "Весь этот гром... Неприятная ситуация, но закрыть магазин я не могу..."
+    },
+    "pack02:65702": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65702",
+      "original": "Hey there, you’re working late! Why not treat yourself to something here?",
+      "translation": "Эй, ты работаешь допоздна! Почему бы не побаловать себя чем-нибудь здесь?"
+    },
+    "pack02:65703": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65703",
+      "original": "This is a fine situation we’ve got ourselves in now... But I won’t give in - even at a time like this!",
+      "translation": "Мы сейчас в прекрасном положении оказались... Но я не сдамся - даже в такое время!"
+    },
+    "pack02:65704": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65704",
+      "original": "It's fairly late... I think God's telling me it's time to close up for the day.",
+      "translation": "Уже довольно поздно... Думаю, Бог говорит мне, что пора подводить итоги дня."
+    },
+    "pack02:65705": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65705",
+      "original": "...Now more than ever, we must go about our regular business. Hehe, please feel free to look around.",
+      "translation": "...Сейчас, как никогда, нам нужно заняться своими обычными делами. Хе-хе, пожалуйста, не стесняйтесь осмотреться вокруг."
+    },
+    "pack02:65706": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65706",
+      "original": "Good evening. It’s getting late. It’s about time I closed the store, and headed home...",
+      "translation": "Добрый вечер. Уже поздно. Пришло время закрыть магазин и отправиться домой..."
+    },
+    "pack02:65707": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65707",
+      "original": "Things sure look worrying... I hope you’ll find something to your liking here.",
+      "translation": "Все выглядит тревожно... Надеюсь, вы найдете здесь что-нибудь по душе."
+    },
+    "pack02:65708": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65708",
+      "original": "It’s already so late... I should close up and head home. Firis will be getting hungry...",
+      "translation": "Уже так поздно... Мне пора закрыться и пойти домой. Фирис проголодается..."
+    },
+    "pack02:65709": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65709",
+      "original": "Good evening. I'm about to close. If you don't sleep well, you'll never grow big and tall.",
+      "translation": "Добрый вечер. Я собираюсь закрыть. Если ты плохо спишь, ты никогда не вырастешь большим и высоким."
+    },
+    "pack02:65710": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65710",
+      "original": "All this thunder... It’s a nasty situation, but I can’t afford to shut the shop...",
+      "translation": "Весь этот гром... Неприятная ситуация, но закрыть магазин я не могу..."
+    },
+    "pack02:65711": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65711",
+      "original": "Hehe, I've restocked. Come on in and buy whatever you'd like!",
+      "translation": "Хе-хе, я пополнил запасы. Заходите и покупайте все, что захотите!"
+    },
+    "pack02:65712": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65712",
+      "original": "I’ve bought a lot of items I’d run out of. Please come in and buy what you need.",
+      "translation": "Я купил много вещей, которые у меня закончились. Пожалуйста, зайдите и купите то, что вам нужно."
+    },
+    "pack02:65713": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65713",
+      "original": "I’ve restocked my shelves. Please come and shop here again soon.",
+      "translation": "Я пополнил свои полки. Пожалуйста, приходите и делайте покупки здесь снова в ближайшее время."
+    },
+    "pack02:65714": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65714",
+      "original": "Firis helped me restock my produce. I’d love for you to take a look.",
+      "translation": "Фирис помог мне пополнить запасы продуктов. Мне бы хотелось, чтобы вы взглянули."
+    },
+    "pack02:65715": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65715",
+      "original": "I have got more of everything I was running short of. You should take a look.",
+      "translation": "У меня есть больше всего, чего мне не хватало. Вам стоит взглянуть."
+    },
+    "pack02:65716": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65716",
+      "original": "I’ve got some new items. You may not be aware, but I like new things, you know!",
+      "translation": "У меня есть несколько новых предметов. Возможно, вы не в курсе, но я люблю все новое, знаете ли!"
+    },
+    "pack02:65717": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65717",
+      "original": "I have some new items in stock. Please feel free to come and browse.",
+      "translation": "У меня есть несколько новинок в наличии. Пожалуйста, не стесняйтесь прийти и просмотреть."
+    },
+    "pack02:65718": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65718",
+      "original": "I have a few new items in. I hope you’ll like them.",
+      "translation": "У меня есть несколько новинок. Надеюсь, они вам понравятся."
+    },
+    "pack02:65719": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65719",
+      "original": "Firis helped me choose some new items. I hope you two will like what we’ve come up with.",
+      "translation": "Фирис помогла мне выбрать несколько новинок. Надеюсь, вам двоим понравится то, что мы придумали."
+    },
+    "pack02:65720": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65720",
+      "original": "I have some new items. Buy them, if you are interested.",
+      "translation": "У меня есть несколько новинок. Купите их, если вам интересно."
+    },
+    "pack02:65721": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65721",
+      "original": "I’ve got something seriously rare for you today. If you don’t snatch it up, it’ll disappear!",
+      "translation": "У меня сегодня для вас кое-что очень редкое. Если его не схватить, он исчезнет!"
+    },
+    "pack02:65722": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65722",
+      "original": "I have some exotic goods in store. But where I got them from is a secret.",
+      "translation": "У меня в запасе есть кое-какие экзотические товары. Но откуда они у меня - секрет."
+    },
+    "pack02:65723": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65723",
+      "original": "Come and take a look at these rare items. I dare say you won’t find these anywhere else.",
+      "translation": "Приходите и взгляните на эти редкие предметы. Осмелюсь сказать, что вы больше нигде такого не найдете."
+    },
+    "pack02:65724": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65724",
+      "original": "I’ve included a few rare items courtesy of Firis. For a limited time only!",
+      "translation": "Я включил несколько редких предметов, любезно предоставленных Фирис. Только в течение ограниченного времени!"
+    },
+    "pack02:65725": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65725",
+      "original": "I have some new and unusual items. Just for you two, my best customers.",
+      "translation": "У меня есть несколько новых и необычных вещей. Только для вас двоих, мои лучшие клиенты."
+    },
+    "pack02:65726": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65726",
+      "original": "What’ll it be?",
+      "translation": "Что это будет?"
+    },
+    "pack02:65727": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65727",
+      "original": "What do you want?",
+      "translation": "Что ты хочешь?"
+    },
+    "pack02:65728": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65728",
+      "original": "What takes your fancy?",
+      "translation": "Что вам нравится?"
+    },
+    "pack02:65729": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65729",
+      "original": "You wish to make a purchase?",
+      "translation": "Вы желаете совершить покупку?"
+    },
+    "pack02:65730": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65730",
+      "original": "Hey! You don’t have enough money!",
+      "translation": "Привет! Вам не хватает денег!"
+    },
+    "pack02:65731": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65731",
+      "original": "I’m sorry. I’m afraid I can’t sell you anything if you don’t have the money.",
+      "translation": "Мне жаль. Боюсь, я не смогу вам ничего продать, если у вас нет денег."
+    },
+    "pack02:65732": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65732",
+      "original": "Oh dear... You do not appear to have the necessary funds.",
+      "translation": "О боже... Похоже, у вас нет необходимых средств."
+    },
+    "pack02:65733": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65733",
+      "original": "...I’m sorry. I cannot sell you this, as you do not have the money needed.",
+      "translation": "...Мне жаль. Я не могу продать вам это, так как у вас нет необходимых денег."
+    },
+    "pack02:65734": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65734",
+      "original": "Hey hey hey, you can't carry any more. You need to sort your belongings out.",
+      "translation": "Эй, эй, эй, ты больше не можешь нести. Вам нужно разобрать свои вещи."
+    },
+    "pack02:65735": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65735",
+      "original": "I don’t think you can carry any more. You have to get rid of what you don’t need.",
+      "translation": "Я не думаю, что ты сможешь больше нести. Вам придется избавиться от того, что вам не нужно."
+    },
+    "pack02:65736": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65736",
+      "original": "Uh-oh, looks like you can’t carry any more. Sorry, but you’ll need to sort out your things.",
+      "translation": "Ой-ой, похоже, ты больше не сможешь нести. Извините, но вам нужно разобраться со своими вещами."
+    },
+    "pack02:65737": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65737",
+      "original": "Your inventory is full, it seems. Come back once you’ve made arrangements.",
+      "translation": "Кажется, ваш инвентарь полон. Возвращайтесь, как только договоритесь."
+    },
+    "pack02:65738": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65738",
+      "original": "Okay, what do you want to sell me?",
+      "translation": "Хорошо, что ты хочешь мне продать?"
+    },
+    "pack02:65739": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65739",
+      "original": "What do you want to sell?",
+      "translation": "Что хочешь продать?"
+    },
+    "pack02:65740": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65740",
+      "original": "What are you going to sell me?",
+      "translation": "Что ты собираешься мне продать?"
+    },
+    "pack02:65741": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65741",
+      "original": "What do you wish to part with?",
+      "translation": "С чем ты хочешь расстаться?"
+    },
+    "pack02:65742": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65742",
+      "original": "Hey... You don’t have anything at all you can sell!",
+      "translation": "Эй... У тебя вообще нет ничего, что можно было бы продать!"
+    },
+    "pack02:65743": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65743",
+      "original": "Hmm...? You don’t seem to have anything to sell...",
+      "translation": "Хм...? Похоже, вам нечего продавать..."
+    },
+    "pack02:65744": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65744",
+      "original": "I’m sorry. You don’t seem to have anything I’m interested in.",
+      "translation": "Мне жаль. Кажется, у тебя нет ничего, что меня интересует."
+    },
+    "pack02:65745": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65745",
+      "original": "I must apologize. I cannot purchase any of your inventory.",
+      "translation": "Я должен извиниться. Я не могу купить ничего из вашего инвентаря."
+    },
+    "pack02:65746": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65746",
+      "original": "Which weapon do you want to customize?",
+      "translation": "Какое оружие вы хотите настроить?"
+    },
+    "pack02:65747": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65747",
+      "original": "Pick the parts you want to add!",
+      "translation": "Выберите детали, которые хотите добавить!"
+    },
+    "pack02:65748": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65748",
+      "original": "This is what you want added?",
+      "translation": "Это то, что вы хотите добавить?"
+    },
+    "pack02:65749": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65749",
+      "original": "What Trait do you want added?",
+      "translation": "Какую черту вы хотите добавить?"
+    },
+    "pack02:65750": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65750",
+      "original": "You’re okay with this?",
+      "translation": "Тебя это устраивает?"
+    },
+    "pack02:65751": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65751",
+      "original": "You want to make a weapon? So, what’ll it be?",
+      "translation": "Вы хотите сделать оружие? Итак, что же это будет?"
+    },
+    "pack02:65752": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65752",
+      "original": "You want me to make you some armor? What kind are you after?",
+      "translation": "Хочешь, я сделаю тебе доспехи? Какой тип вам нужен?"
+    },
+    "pack02:65753": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65753",
+      "original": "Pick your materials!",
+      "translation": "Выбирайте материалы!"
+    },
+    "pack02:65754": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65754",
+      "original": "You’re okay with these materials?",
+      "translation": "Вас устраивают эти материалы?"
+    },
+    "pack02:65755": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65755",
+      "original": "Okay, then I’ll get started!",
+      "translation": "Хорошо, тогда я начну!"
+    },
+    "pack02:65756": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65756",
+      "original": "I’m done! Go on, take it!",
+      "translation": "Я задолбался! Давай, возьми!"
+    },
+    "pack02:65757": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65757",
+      "original": "Hehe, now you can make new weapons! See, take a look!",
+      "translation": "Хе-хе, теперь можно делать новое оружие! Смотри, взгляни!"
+    },
+    "pack02:65758": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65758",
+      "original": "Rejoice! Now you can make new armor! Hehehe, you want to take a look, right?",
+      "translation": "Радуйтесь! Теперь вы можете сделать новую броню! Хе-хе-хе, ты хочешь взглянуть, да?"
+    },
+    "pack02:65759": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65759",
+      "original": "Hahaha! Now you can make new things! Come on, ladies! Look around to your hearts’ content!",
+      "translation": "Ха-ха-ха! Теперь вы можете создавать новые вещи! Давайте, дамы! Посмотрите вокруг, вволю!"
+    },
+    "pack02:65760": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65760",
+      "original": "What will you register?",
+      "translation": "Что вы будете регистрировать?"
+    },
+    "pack02:65761": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65761",
+      "original": "Hmm... This is what you wish to register?",
+      "translation": "Хм... Это то, что вы хотите зарегистрировать?"
+    },
+    "pack02:65762": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65762",
+      "original": "I’m sorry. I can’t see anything you can add.",
+      "translation": "Мне жаль. Я не вижу ничего, что вы могли бы добавить."
+    },
+    "pack02:65763": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65763",
+      "original": "You can’t register any more... Would you like to exchange with what you currently have?",
+      "translation": "Вы больше не можете зарегистрироваться... Хотите обменять на то, что у вас есть сейчас?"
+    },
+    "pack02:65764": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65764",
+      "original": "Exchange complete. Go ahead and add what you like.",
+      "translation": "Обмен завершен. Продолжайте и добавляйте то, что вам нравится."
+    },
+    "pack02:65765": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65765",
+      "original": "I understand. Add whatever you would like.",
+      "translation": "Я понимаю. Добавьте все, что захотите."
+    },
+    "pack02:65766": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65766",
+      "original": "You wish to replenish your items? That will cost you... this much.",
+      "translation": "Вы хотите пополнить свои товары? Это будет стоить тебе... столько."
+    },
+    "pack02:65767": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65767",
+      "original": "You wish to refill your items? I can do that for this special discount.",
+      "translation": "Вы хотите пополнить свои товары? Я могу сделать это по специальной скидке."
+    },
+    "pack02:65768": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65768",
+      "original": "...Oh? You don’t appear to have anything to refill.",
+      "translation": "...Ой? Похоже, вам нечего пополнить."
+    },
+    "pack02:65769": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65769",
+      "original": "...We are done. Refill complete.",
+      "translation": "...Мы закончили. Заправка завершена."
+    },
+    "pack02:65770": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65770",
+      "original": "I must apologize. You appear to have insufficient funds. Maybe next time...",
+      "translation": "Я должен извиниться. Похоже, у вас недостаточно средств. Возможно, в следующий раз..."
+    },
+    "pack02:65771": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65771",
+      "original": "You are not currently signed up for the auto-refill service. Would you like to sign up?",
+      "translation": "В настоящее время вы не подписаны на услугу автопополнения. Хотите зарегистрироваться?"
+    },
+    "pack02:65772": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65772",
+      "original": "You are currently signed up for the auto-refill service. Would you like to cancel it?",
+      "translation": "В настоящее время вы подписаны на услугу автопополнения. Хотите отменить это?"
+    },
+    "pack02:65773": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65773",
+      "original": "I understand. I will cancel your application for the auto-refill service.",
+      "translation": "Я понимаю. Я отменю вашу заявку на услугу автопополнения."
+    },
+    "pack02:65774": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65774",
+      "original": "I understand. I will sign you up for the auto-refill service.",
+      "translation": "Я понимаю. Я запишу вас на услугу автопополнения."
+    },
+    "pack02:65775": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65775",
+      "original": "You’re okay with this?",
+      "translation": "Тебя это устраивает?"
+    },
+    "pack02:65776": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65776",
+      "original": "Is this what you want?",
+      "translation": "Это то, чего ты хочешь?"
+    },
+    "pack02:65777": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65777",
+      "original": "This is what you want?",
+      "translation": "Это то, чего ты хочешь?"
+    },
+    "pack02:65778": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65778",
+      "original": "Is this satisfactory?",
+      "translation": "Это удовлетворительно?"
+    },
+    "pack02:65779": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65779",
+      "original": "Thanks very much!",
+      "translation": "Большое спасибо!"
+    },
+    "pack02:65780": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65780",
+      "original": "Thank you!",
+      "translation": "Спасибо!"
+    },
+    "pack02:65781": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65781",
+      "original": "Hehe, thank you.",
+      "translation": "Хе-хе, спасибо."
+    },
+    "pack02:65782": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65782",
+      "original": "Thank you, come again!",
+      "translation": "Спасибо, приходите еще!"
+    },
+    "pack02:65783": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65783",
+      "original": "Come back again soon!",
+      "translation": "Возвращайтесь скорее снова!"
+    },
+    "pack02:65784": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65784",
+      "original": "...Good luck, little ladies!",
+      "translation": "...Удачи, милые дамы!"
+    },
+    "pack02:65785": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65785",
+      "original": "Come back soon. May the Lord watch over you.",
+      "translation": "Возвращайся скорее. Пусть Господь хранит тебя."
+    },
+    "pack02:65786": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65786",
+      "original": "Thank you. I hope to see your smiling faces again soon.",
+      "translation": "Спасибо. Надеюсь вскоре снова увидеть ваши улыбающиеся лица."
+    },
+    "pack02:65787": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65787",
+      "original": "Drop in any time.",
+      "translation": "Заходите в любое время."
+    },
+    "pack02:65788": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65788",
+      "original": "Thank you. Promise me you’ll drop by again.",
+      "translation": "Спасибо. Обещай мне, что зайдешь еще раз."
+    },
+    "pack02:65789": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65789",
+      "original": "Hehe, come again. Oh, and if you see Firis, tell her her sister misses her.",
+      "translation": "Хе-хе, приходи еще. Да, и если ты увидишь Фирис, скажи ей, что ее сестра скучает по ней."
+    },
+    "pack02:65790": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65790",
+      "original": "Please return soon. I will be waiting for you!",
+      "translation": "Пожалуйста, вернитесь поскорее. Я буду ждать тебя!"
+    },
+    "pack02:65791": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65791",
+      "original": "...Thank you. I want to say... good luck.",
+      "translation": "...Спасибо. Я хочу сказать... удачи."
+    },
+    "pack02:65805": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65805",
+      "original": "Hmm, nothing that can be used...",
+      "translation": "Хм, ничего такого, что можно было бы использовать..."
+    },
+    "pack02:65806": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65806",
+      "original": "There’s nothing we can use...",
+      "translation": "Нам нечего использовать..."
+    },
+    "pack02:65807": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65807",
+      "original": "Uh-oh, we can’t carry any more... It’s a waste, but we have to discard something.",
+      "translation": "Э-э-э, больше нести нельзя... Пустая трата, но что-то надо выбросить."
+    },
+    "pack02:65815": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65815",
+      "original": "...Can’t use anything.",
+      "translation": "...Не могу ничего использовать."
+    },
+    "pack02:65816": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65816",
+      "original": "We can’t carry any more. We have to get rid of something.",
+      "translation": "Мы не можем больше нести. Нам нужно от чего-то избавиться."
+    },
+    "pack02:65830": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65830",
+      "original": "Hmm, nothing we have is of any use.",
+      "translation": "Хм, ничего из того, что у нас есть, бесполезно."
+    },
+    "pack02:65831": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65831",
+      "original": "It’s no good. We don’t have anything that will help.",
+      "translation": "Это бесполезно. У нас нет ничего, что могло бы помочь."
+    },
+    "pack02:65832": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65832",
+      "original": "Urgh, there’s no space left to carry anything... We have no choice. We’ll have to throw something away!",
+      "translation": "Ух, нести уже нечего... У нас нет выбора. Нам придется что-нибудь выбросить!"
+    },
+    "pack02:65840": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65840",
+      "original": "...Nothing we can use.",
+      "translation": "...Ничего, что мы могли бы использовать."
+    },
+    "pack02:65841": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65841",
+      "original": "Too much to handle... What to get rid of...?",
+      "translation": "Слишком много всего, с чем нужно справиться... От чего избавиться...?"
+    },
+    "pack02:65842": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65842",
+      "original": "What item should we use?",
+      "translation": "Какой предмет нам следует использовать?"
+    },
+    "pack02:65843": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65843",
+      "original": "Let’s see, what to use...?",
+      "translation": "Давайте посмотрим, что использовать...?"
+    },
+    "pack02:65844": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65844",
+      "original": "Let’s use this!",
+      "translation": "Давайте воспользуемся этим!"
+    },
+    "pack02:65845": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65845",
+      "original": "This is the one!",
+      "translation": "Это тот самый!"
+    },
+    "pack02:65846": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65846",
+      "original": "...What shall I use?",
+      "translation": "...Что мне использовать?"
+    },
+    "pack02:65847": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65847",
+      "original": "This...!",
+      "translation": "Этот...!"
+    },
+    "pack02:65848": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65848",
+      "original": "What’ll work...?",
+      "translation": "Что получится...?"
+    },
+    "pack02:65849": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65849",
+      "original": "Hmm, what should we use...?",
+      "translation": "Хм, что нам использовать...?"
+    },
+    "pack02:65850": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65850",
+      "original": "This is the tool!",
+      "translation": "Это инструмент!"
+    },
+    "pack02:65851": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65851",
+      "original": "Perfect!",
+      "translation": "Идеальный!"
+    },
+    "pack02:65852": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65852",
+      "original": "What would work...?",
+      "translation": "Что бы сработало...?"
+    },
+    "pack02:65853": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65853",
+      "original": "Maybe this...!",
+      "translation": "Может быть это...!"
+    },
+    "pack02:65880": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65880",
+      "original": "Hmm, not now.",
+      "translation": "Хм, не сейчас."
+    },
+    "pack02:65881": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65881",
+      "original": "I’m sure I had more to do...",
+      "translation": "Я уверен, что мне нужно было сделать больше..."
+    },
+    "pack02:65882": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65882",
+      "original": "I can rest later, I suppose.",
+      "translation": "Думаю, я смогу отдохнуть позже."
+    },
+    "pack02:65883": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65883",
+      "original": "This is no time to rest. I need to keep trying!",
+      "translation": "Сейчас не время отдыхать. Мне нужно продолжать попытки!"
+    },
+    "pack02:65902": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65902",
+      "original": "...Not right now.",
+      "translation": "...Не сейчас."
+    },
+    "pack02:65903": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65903",
+      "original": "...Now’s not the time for that.",
+      "translation": "...Сейчас не время для этого."
+    },
+    "pack02:65932": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65932",
+      "original": "I probably shouldn’t right now.",
+      "translation": "Наверное, мне не следует сейчас."
+    },
+    "pack02:65933": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65933",
+      "original": "There are a few things to do first.",
+      "translation": "Сначала нужно сделать несколько вещей."
+    },
+    "pack02:65934": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65934",
+      "original": "Hmm, this is no time to be resting!",
+      "translation": "Хм, сейчас не время отдыхать!"
+    },
+    "pack02:65935": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65935",
+      "original": "We’ll rest later! Later!",
+      "translation": "Отдохнем позже! Позже!"
+    },
+    "pack02:65954": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65954",
+      "original": "...We shouldn’t.",
+      "translation": "...Мы не должны."
+    },
+    "pack02:65955": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65955",
+      "original": "I don’t feel much like resting right now.",
+      "translation": "Мне сейчас совсем не хочется отдыхать."
+    },
+    "pack02:65958": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65958",
+      "original": "How long should we rest for...?",
+      "translation": "Как долго нам следует отдыхать...?"
+    },
+    "pack02:65959": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65959",
+      "original": "I’ll just rest for a little while...",
+      "translation": "Я просто отдохну немного..."
+    },
+    "pack02:65960": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65960",
+      "original": "*Yawn*... Good night, Sue...",
+      "translation": "*Зевает*... Спокойной ночи, Сью..."
+    },
+    "pack02:65961": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65961",
+      "original": "...Oh, no. I’m wide awake... I shouldn’t have read so much before sleeping...",
+      "translation": "...О, нет. Я проснулся... Не надо было так много читать перед сном..."
+    },
+    "pack02:65962": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65962",
+      "original": "...Oh! I haven’t written my diary today! I should do it now, before I forget...!",
+      "translation": "...Ой! Я сегодня не писала дневник! Я должен сделать это сейчас, пока не забыл...!"
+    },
+    "pack02:65963": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65963",
+      "original": "Huh, what is it, Sue...? You need to go to the bathroom...? *Sigh*...",
+      "translation": "Ха, что такое, Сью...? Тебе нужно в ванную...? *Вздох*..."
+    },
+    "pack02:65964": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65964",
+      "original": "...It’s no good, I can’t sleep. That’s what I should do...! One Puni, two Punis...",
+      "translation": "...Это бесполезно, я не могу спать. Вот что мне следует сделать...! Один пуни, два пуни..."
+    },
+    "pack02:65965": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65965",
+      "original": "...Huh, you’re kidding?! Dad’s used up all our money again... Zzz...",
+      "translation": "...Ха, ты шутишь?! Папа опять потратил все наши деньги... Ззз..."
+    },
+    "pack02:65966": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65966",
+      "original": "Yay, now I’ll be rich! I can eat bread and honey every day... Zzz...",
+      "translation": "Ура, теперь я буду богат! Я могу есть хлеб и мед каждый день... Ззз..."
+    },
+    "pack02:65967": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65967",
+      "original": "N-No... Mom, no... *Sob*... No, don’t go...",
+      "translation": "Н-нет... Мама, нет... *рыдает*... Нет, не уходи..."
+    },
+    "pack02:65968": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65968",
+      "original": "Hahaha, Lucia...! Why are you sitting on top of a Puni...? Zzz...",
+      "translation": "Ха-ха-ха, Лючия...! Почему ты сидишь на вершине Пуни...? Ззз..."
+    },
+    "pack02:65969": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65969",
+      "original": "Oops...! I made a mistake in my synthesis, and blew Dad up... Oh well... Zzz...",
+      "translation": "Упс...! Я ошибся в синтезе и взорвал папу... Ну да... Ззз..."
+    },
+    "pack02:65970": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65970",
+      "original": "Hmph, that’s right...! I am a fantastic painter... Hehe...",
+      "translation": "Хм, это правда...! Я фантастический художник... Хе-хе..."
+    },
+    "pack02:65971": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65971",
+      "original": "Okay, I’m feeling much better! I’m ready for anything!",
+      "translation": "Хорошо, я чувствую себя намного лучше! Я готов на все!"
+    },
+    "pack02:65972": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65972",
+      "original": "Oh, that was wonderful! It’s so nice to wake up refreshed.",
+      "translation": "О, это было чудесно! Так приятно просыпаться отдохнувшим."
+    },
+    "pack02:65973": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65973",
+      "original": "How long should I rest for...?",
+      "translation": "Как долго мне следует отдыхать...?"
+    },
+    "pack02:65974": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65974",
+      "original": "Just a little, just a little...",
+      "translation": "Совсем немного, совсем немного..."
+    },
+    "pack02:65975": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65975",
+      "original": "...Time to sleep. ...Good night.",
+      "translation": "...Пора спать. ...Спокойной ночи."
+    },
+    "pack02:65976": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65976",
+      "original": "I’m sorry, Sue... I shouldn’t have said... Zzz...",
+      "translation": "Прости, Сью... Я не должен был говорить... Ззз..."
+    },
+    "pack02:65977": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65977",
+      "original": "That’s so unfair, Sue... But I’ve been unfair too... *Sniff*...",
+      "translation": "Это так несправедливо, Сью... Но я тоже был несправедлив... *Фыркает*..."
+    },
+    "pack02:65978": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65978",
+      "original": "...Yes, that was a good nap.",
+      "translation": "...Да, это был хороший сон."
+    },
+    "pack02:65979": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65979",
+      "original": "Whew... What a dream.",
+      "translation": "Фух... Какой сон."
+    },
+    "pack02:65980": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65980",
+      "original": "Now, how long can I escape... I mean, rest for?",
+      "translation": "Итак, как долго я смогу бежать... Я имею в виду, отдыхать?"
+    },
+    "pack02:65981": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65981",
+      "original": "Time for a short break!",
+      "translation": "Время для небольшого перерыва!"
+    },
+    "pack02:65982": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65982",
+      "original": "...Time to sleep! I’m gonna sleep like I mean it! Good night, Lydie.",
+      "translation": "...Пора спать! Я буду спать, как будто это серьезно! Спокойной ночи, Лидия."
+    },
+    "pack02:65983": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65983",
+      "original": "...Hehe, okay then. Time to think about what mischief I can get up to tomorrow...",
+      "translation": "...Хе-хе, тогда ладно. Пора подумать о том, какую гадость я могу устроить завтра..."
+    },
+    "pack02:65984": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65984",
+      "original": "Ah... Sheep are so cute...! So cute and fluffy... Hehe, hehee...",
+      "translation": "Ах... Овечки такие милые...! Такой милый и пушистый... Хе-хе, хе-хе..."
+    },
+    "pack02:65985": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65985",
+      "original": "Okay, next I have to massage my backside. You have to put in the work to look this good.",
+      "translation": "Хорошо, теперь мне нужно помассировать свою задницу. Вам придется приложить немало усилий, чтобы выглядеть так хорошо."
+    },
+    "pack02:65986": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65986",
+      "original": "...What’s that sound? ...It’s a bug! Aarghh! Getitout getitout getitout! Get it out of here!",
+      "translation": "...Что это за звук? ...Это ошибка! Ааа! Уйди, уйди, уйди! Убери это отсюда!"
+    },
+    "pack02:65987": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65987",
+      "original": "*Gulp, gulp*... Ahh! That’s my milk intake for the day! At this rate, I’ll be taller than Lydie in no time... Hehe...",
+      "translation": "*Глоток, глоток*... Ааа! Это моя норма молока за день! Такими темпами я очень скоро буду выше Лидия... Хе-хе..."
+    },
+    "pack02:65988": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65988",
+      "original": "...Huh? Wait a minute. What’s that on the ceiling...? Is it a ghost? No... Ohh, what is it?",
+      "translation": "...Хм? Подождите минуту. Что это на потолке...? Это призрак? Нет... Ох, что это?"
+    },
+    "pack02:65989": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65989",
+      "original": "Punis to the left! Punis to the right! Punis everywhere! This is paradise - Puni-land! Hehehe... Zzz...",
+      "translation": "Пунис влево! Пунис вправо! Пунисы повсюду! Это рай – Пуни-ленд! Хе-хе-хе... Ззз..."
+    },
+    "pack02:65990": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65990",
+      "original": "*Sob*... Mom... I miss you, Mom... *Sniff*...",
+      "translation": "*Всхлип*... Мама... Я скучаю по тебе, мама... *Фырканье*..."
+    },
+    "pack02:65991": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65991",
+      "original": "Wh-What...? You think I could be an actress...? It’s hard being this pretty... Zzz, zzz...",
+      "translation": "Ч-что...? Думаешь, я могла бы стать актрисой...? Трудно быть такой красивой... Ззз, ззз..."
+    },
+    "pack02:65992": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65992",
+      "original": "Hahaha! Kneel before me, humble peasants! I am the great millionaire, Suelle Malen... Zzz...",
+      "translation": "Ха-ха-ха! На колени передо мной, смиренные крестьяне! Я великий миллионер, Сюэль Мален... Ззз..."
+    },
+    "pack02:65993": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65993",
+      "original": "Hmm, well then. Time to get to work!",
+      "translation": "Хм, ну тогда. Пора приступить к работе!"
+    },
+    "pack02:65994": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65994",
+      "original": "Mm, morning... It’s time to get up, I guess.",
+      "translation": "Мм, утро... Наверное, пора вставать."
+    },
+    "pack02:65995": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65995",
+      "original": "...How long should I rest for?",
+      "translation": "...Как долго мне следует отдыхать?"
+    },
+    "pack02:65996": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65996",
+      "original": "Whew, just a little break...",
+      "translation": "Уф, небольшой перерыв..."
+    },
+    "pack02:65997": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65997",
+      "original": "...Night.",
+      "translation": "...Ночь."
+    },
+    "pack02:65998": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65998",
+      "original": "Sorry, Lydie... I didn’t mean what I said... Zzz... Zzz...",
+      "translation": "Прости, Лидия... Я не имел в виду то, что сказал... Ззз... Ззз..."
+    },
+    "pack02:65999": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "65999",
+      "original": "No... Don’t do it, Lydie... Don’t leave me behind... Please... Zzz...",
+      "translation": "Нет... Не делай этого, Лидия... Не оставляй меня... Пожалуйста... Ззз..."
+    },
+    "pack02:66000": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66000",
+      "original": "...Okay. Time to get back to work.",
+      "translation": "...Хорошо. Пора возвращаться к работе."
+    },
+    "pack02:66001": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66001",
+      "original": "...Oh, I’m so sleepy. But I have to wake up.",
+      "translation": "...Ой, я так хочу спать. Но мне нужно проснуться."
+    },
+    "pack02:66008": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66008",
+      "original": "Barrel...",
+      "translation": "Бочка..."
+    },
+    "pack02:66009": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66009",
+      "original": "It’s a barrel...!",
+      "translation": "Это бочка...!"
+    },
+    "pack02:66010": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66010",
+      "original": "Sometimes alchemy can be like shooting fish in a...^00Well, you know how it goes!",
+      "translation": "Иногда алхимия может напоминать стрельбу по рыбе...^00Ну, вы знаете, как это бывает!"
+    },
+    "pack02:66011": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66011",
+      "original": "...Barrel.",
+      "translation": "...Бочка."
+    },
+    "pack02:66012": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66012",
+      "original": "Bar... rel...",
+      "translation": "Бар... рел..."
+    },
+    "pack02:66013": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66013",
+      "original": "That's a barrel!",
+      "translation": "Это бочка!"
+    },
+    "pack02:66014": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66014",
+      "original": "There are times when life feels like it has you over a barrel... But don’t let it get you down.",
+      "translation": "Бывают моменты, когда кажется, что жизнь застала тебя врасплох... Но не позволяй ей сбить тебя с толку."
+    },
+    "pack02:66015": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66015",
+      "original": "...Barrel.",
+      "translation": "...Бочка."
+    },
+    "pack02:66029": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66029",
+      "original": "Okay! Let’s go, everyone!",
+      "translation": "Хорошо! Поехали, все!"
+    },
+    "pack02:66030": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66030",
+      "original": "We have to keep our focus!",
+      "translation": "Мы должны сохранять концентрацию!"
+    },
+    "pack02:66031": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66031",
+      "original": "All right, let’s do this...!",
+      "translation": "Хорошо, давайте сделаем это...!"
+    },
+    "pack02:66032": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66032",
+      "original": "...Let’s work together and give it our all!",
+      "translation": "...Давайте работать вместе и приложим все усилия!"
+    },
+    "pack02:66033": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66033",
+      "original": "...Time to get moving!",
+      "translation": "...Пора двигаться!"
+    },
+    "pack02:66034": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66034",
+      "original": "Hehe. We have to keep up our guard.",
+      "translation": "Хе-хе. Мы должны сохранять бдительность."
+    },
+    "pack02:66035": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66035",
+      "original": "Let’s go! Don’t worry - I’m with you!",
+      "translation": "Пойдем! Не волнуйся - я с тобой!"
+    },
+    "pack02:66036": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66036",
+      "original": "Wait a minute - I think we were just here... You want to take another look?",
+      "translation": "Подожди, кажется, мы только что были здесь... Хочешь еще раз взглянуть?"
+    },
+    "pack02:66037": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66037",
+      "original": "Huh? Weren’t we just here? Are we taking another look around?",
+      "translation": "Хм? Разве мы не были здесь только что? Мы еще раз осмотримся?"
+    },
+    "pack02:66038": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66038",
+      "original": "Hey, we were just here before, right? Did you forget something? You want to go back?",
+      "translation": "Эй, мы только что были здесь, да? Ты что-то забыл? Ты хочешь вернуться?"
+    },
+    "pack02:66039": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66039",
+      "original": "We just went there. You still want to go again?",
+      "translation": "Мы только что пошли туда. Ты все еще хочешь пойти еще раз?"
+    },
+    "pack02:66040": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66040",
+      "original": "Hey. We were just here, you know. You okay with that?",
+      "translation": "Привет. Знаешь, мы только что были здесь. Тебя это устраивает?"
+    },
+    "pack02:66041": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66041",
+      "original": "We were just here... Do you have something you need to check again?",
+      "translation": "Мы только что были здесь... Тебе нужно еще что-то проверить?"
+    },
+    "pack02:66042": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66042",
+      "original": "Hey, we were just here not too long ago. You’re not bored? You want to go back?",
+      "translation": "Эй, мы были здесь не так давно. Тебе не скучно? Ты хочешь вернуться?"
+    },
+    "pack02:66043": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66043",
+      "original": "I’ve got a bad feeling... I don’t think we should go here...",
+      "translation": "У меня плохое предчувствие... Не думаю, что нам стоит сюда идти..."
+    },
+    "pack02:66044": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66044",
+      "original": "Hmm. I’m not all that keen, myself.",
+      "translation": "Хм. Я сам не в этом заинтересован."
+    },
+    "pack02:66045": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66045",
+      "original": "Umm... Let’s not go there.",
+      "translation": "Эмм... Давай не будем туда."
+    },
+    "pack02:66046": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66046",
+      "original": "Let’s not go there, okay?",
+      "translation": "Давай не будем туда ходить, ладно?"
+    },
+    "pack02:66047": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66047",
+      "original": "Let’s not. There are plenty of other places to go.",
+      "translation": "Давайте не будем. Есть много других мест, куда можно пойти."
+    },
+    "pack02:66048": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66048",
+      "original": "I think you should reconsider. Now’s not the moment to go here.",
+      "translation": "Я думаю, тебе стоит передумать. Сейчас не время идти сюда."
+    },
+    "pack02:66049": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66049",
+      "original": "Uh, let’s not go there. There’s just no point.",
+      "translation": "Эх, давай не будем туда. Просто нет смысла."
+    },
+    "pack02:66059": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66059",
+      "original": "We were just here. Are we taking another look around?",
+      "translation": "Мы только что были здесь. Мы еще раз осмотримся?"
+    },
+    "pack02:66060": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66060",
+      "original": "...We were just in this place. We’re going again?",
+      "translation": "...Мы только что были в этом месте. Мы снова собираемся?"
+    },
+    "pack02:66081": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66081",
+      "original": "Which request shall we accept...?",
+      "translation": "Какой запрос мы должны принять...?"
+    },
+    "pack02:66082": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66082",
+      "original": "I hope there’s a good job here somewhere...",
+      "translation": "Надеюсь, здесь где-нибудь есть хорошая работа..."
+    },
+    "pack02:66083": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66083",
+      "original": "Please let there be something lucrative...!",
+      "translation": "Пожалуйста, пусть будет что-нибудь прибыльное...!"
+    },
+    "pack02:66084": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66084",
+      "original": "Let’s see now... What to choose...?",
+      "translation": "Посмотрим теперь... Что выбрать...?"
+    },
+    "pack02:66085": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66085",
+      "original": "...Hmm. There are no good quests here today...",
+      "translation": "...Хм. Сегодня здесь нет хороших квестов..."
+    },
+    "pack02:66086": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66086",
+      "original": "...Hmph. Nothing good here today.",
+      "translation": "...Хмф. Сегодня здесь нет ничего хорошего."
+    },
+    "pack02:66087": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66087",
+      "original": "Shall we accept this quest?",
+      "translation": "Примем этот квест?"
+    },
+    "pack02:66088": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66088",
+      "original": "Should we go for this one?",
+      "translation": "Должны ли мы пойти на это?"
+    },
+    "pack02:66089": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66089",
+      "original": "Should we take this quest?",
+      "translation": "Стоит ли нам брать этот квест?"
+    },
+    "pack02:66090": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66090",
+      "original": "Is this one okay?",
+      "translation": "С этим все в порядке?"
+    },
+    "pack02:66091": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66091",
+      "original": "This looks really hard... Should we really take it on?",
+      "translation": "Это выглядит очень сложно... Стоит ли нам действительно браться за это?"
+    },
+    "pack02:66092": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66092",
+      "original": "Hmm, I’ve got a feeling this could be quite tough... Should I really do it?",
+      "translation": "Хм, у меня такое чувство, что это может быть довольно сложно... Стоит ли мне это делать?"
+    },
+    "pack02:66093": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66093",
+      "original": "Oh, this one looks like it’ll be a stern test... Is it okay to take it?",
+      "translation": "Ох, похоже, это будет суровое испытание... Можно ли его принять?"
+    },
+    "pack02:66094": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66094",
+      "original": "This one could be real hard... You sure we’re okay to take it?",
+      "translation": "Это может быть очень сложно... Ты уверен, что мы справимся?"
+    },
+    "pack02:66095": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66095",
+      "original": "Okay, I’ll do my best!",
+      "translation": "Хорошо, я сделаю все возможное!"
+    },
+    "pack02:66096": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66096",
+      "original": "Time to get the job done!",
+      "translation": "Пора заняться делом!"
+    },
+    "pack02:66097": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66097",
+      "original": "Hehe, let’s do this!",
+      "translation": "Хе-хе, давай сделаем это!"
+    },
+    "pack02:66098": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66098",
+      "original": "Okay, I’m gonna get this done to perfection!",
+      "translation": "Хорошо, я доведу это до совершенства!"
+    },
+    "pack02:66099": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66099",
+      "original": "I’m going to give my all to the very end!",
+      "translation": "Я отдам все свои силы до конца!"
+    },
+    "pack02:66100": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66100",
+      "original": "We have to get this done!",
+      "translation": "Мы должны это сделать!"
+    },
+    "pack02:66101": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66101",
+      "original": "Hehe, I’m excited about this one!",
+      "translation": "Хе-хе, я в восторге от этого!"
+    },
+    "pack02:66102": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66102",
+      "original": "No matter how tough the challenge, you can rely on Sue!",
+      "translation": "Независимо от того, насколько сложна задача, вы можете положиться на Сью!"
+    },
+    "pack02:66103": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66103",
+      "original": "...Which request should we choose?",
+      "translation": "...Какой запрос нам выбрать?"
+    },
+    "pack02:66104": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66104",
+      "original": "What to choose...?",
+      "translation": "Что выбрать...?"
+    },
+    "pack02:66105": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66105",
+      "original": "...No good quests right now.",
+      "translation": "...Сейчас хороших квестов нет."
+    },
+    "pack02:66106": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66106",
+      "original": "...Nothing good here.",
+      "translation": "...Здесь нет ничего хорошего."
+    },
+    "pack02:66107": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66107",
+      "original": "...We’re okay with this?",
+      "translation": "... Нас это устраивает?"
+    },
+    "pack02:66108": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66108",
+      "original": "...Is this the one?",
+      "translation": "...Это тот самый?"
+    },
+    "pack02:66109": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66109",
+      "original": "...Looks hard. You okay with that?",
+      "translation": "...Выглядит тяжело. Тебя это устраивает?"
+    },
+    "pack02:66110": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66110",
+      "original": "This one looks tough... Are you really okay with it?",
+      "translation": "Этот выглядит крутым... Тебя это действительно устраивает?"
+    },
+    "pack02:66111": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66111",
+      "original": "...Better give this my all.",
+      "translation": "...Лучше отдать этому все силы."
+    },
+    "pack02:66112": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66112",
+      "original": "...I have to finish this off.",
+      "translation": "...Я должен закончить это."
+    },
+    "pack02:66113": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66113",
+      "original": "Once I take a job, I get it done.",
+      "translation": "Как только я берусь за работу, я ее делаю."
+    },
+    "pack02:66114": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66114",
+      "original": "...No matter how tough it is, we have to do it right.",
+      "translation": "...Как бы тяжело это ни было, мы должны сделать это правильно."
+    },
+    "pack02:66115": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66115",
+      "original": "(Hmm, I don’t get it... This may not work...)",
+      "translation": "(Хм, я не понимаю... Это может не сработать...)"
+    },
+    "pack02:66116": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66116",
+      "original": "(Woah, what’s this...?! I’ve never seen or heard anything like it...)",
+      "translation": "(Ого, что это...?! Я никогда не видел и не слышал ничего подобного...)"
+    },
+    "pack02:66117": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66117",
+      "original": "(Hmm. We should be able to make it, but we might need more materials.)",
+      "translation": "(Хм. У нас должно получиться это сделать, но нам может понадобиться больше материалов.)"
+    },
+    "pack02:66118": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66118",
+      "original": "(If I had the materials, I think I could make it...)",
+      "translation": "(Если бы у меня были материалы, думаю, я бы это сделал...)"
+    },
+    "pack02:66119": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66119",
+      "original": "(Yes, we have the materials. This should be doable.)",
+      "translation": "(Да, у нас есть материалы. Это вполне осуществимо.)"
+    },
+    "pack02:66120": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66120",
+      "original": "(Materials, check. Knowledge, check. This should be no problem at all.)",
+      "translation": "(Материалы, проверка. Знания, проверка. Это вообще не должно быть проблемой.)"
+    },
+    "pack02:66121": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66121",
+      "original": "(Hmm, even if we made this now, it might not be in time...)",
+      "translation": "(Хм, даже если бы мы сделали это сейчас, возможно, не успели бы...)"
+    },
+    "pack02:66122": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66122",
+      "original": "(Oh, what a pity. We don’t have the time to make this now.)",
+      "translation": "(Ой, как жаль. У нас нет времени сделать это сейчас.)"
+    },
+    "pack02:66123": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66123",
+      "original": "(I’ve never made these, but I have some... Can I just hand them over?)",
+      "translation": "(Я никогда их не делал, но кое-что у меня есть... Могу я их просто передать?)"
+    },
+    "pack02:66124": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66124",
+      "original": "(I’ve never made one of these, but we have enough. If we just submit these... Is that okay...?)",
+      "translation": "(Я никогда не делал ничего подобного, но у нас достаточно. Если мы просто отправим это... Это нормально...?)"
+    },
+    "pack02:66125": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66125",
+      "original": "(Okay. We should be able to report our success at any time.)",
+      "translation": "(Хорошо. Мы сможем сообщить о нашем успехе в любое время.)"
+    },
+    "pack02:66126": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66126",
+      "original": "(Yeah, yeah. All we have to do with this quest is file a report.)",
+      "translation": "(Да-да. Все, что нам нужно сделать в этом квесте, — это подать отчет.)"
+    },
+    "pack02:66127": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66127",
+      "original": "(I’ve never heard of these materials... This could be tough.)",
+      "translation": "(Я никогда не слышал об этих материалах... Это может быть сложно.)"
+    },
+    "pack02:66128": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66128",
+      "original": "(Oh, I’ve never heard of these materials... It might be smarter to give up.)",
+      "translation": "(О, я никогда не слышал об этих материалах... Возможно, разумнее отказаться.)"
+    },
+    "pack02:66129": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66129",
+      "original": "(We don’t have enough to hand right now. We’ll have to go get some more...)",
+      "translation": "(У нас сейчас не хватает под рукой. Нам придется пойти и принести еще...)"
+    },
+    "pack02:66130": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66130",
+      "original": "(Hmm, we don’t have enough... Looks like we’ll have to go collect some more.)",
+      "translation": "(Хм, нам не хватает... Похоже, придется пойти собрать еще.)"
+    },
+    "pack02:66131": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66131",
+      "original": "(We have enough already. We should be able to go and report at any time!)",
+      "translation": "(У нас уже достаточно. Мы сможем пойти и доложить в любое время!)"
+    },
+    "pack02:66132": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66132",
+      "original": "(Okay, we’ve got enough. All that’s left to do is file a report.)",
+      "translation": "(Ладно, у нас достаточно. Осталось только подать отчет.)"
+    },
+    "pack02:66133": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66133",
+      "original": "(Woah, I don’t know that monster... Maybe I shouldn’t take unnecessary risks...)",
+      "translation": "(Ого, я не знаю этого монстра... Может, мне не стоит излишне рисковать...)"
+    },
+    "pack02:66134": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66134",
+      "original": "(Huh, I never knew such a monster existed... I guess that makes taking on the quest pretty foolish.)",
+      "translation": "(Ха, я никогда не знал, что такой монстр существует... Думаю, это делает выполнение квеста довольно глупым.)"
+    },
+    "pack02:66135": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66135",
+      "original": "(This monster’s pretty powerful, right... But if we try hard, then we should be able to...)",
+      "translation": "(Этот монстр довольно мощный, да... Но если мы очень постараемся, то у нас всё получится...)"
+    },
+    "pack02:66136": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66136",
+      "original": "(Hmm, that one... But if I give it my all, then I should be able to...)",
+      "translation": "(Хм, вот этот... Но если я выложусь на все сто, то смогу...)"
+    },
+    "pack02:66137": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66137",
+      "original": "(Yup, we can take that monster easily!)",
+      "translation": "(Да, мы легко справимся с этим монстром!)"
+    },
+    "pack02:66138": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66138",
+      "original": "(As long as we take care, this monster should be no problem.)",
+      "translation": "(Пока мы позаботимся, с этим монстром проблем не будет.)"
+    },
+    "pack02:66139": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66139",
+      "original": "(We’ve already defeated this monster. All that’s left to do is file a report.)",
+      "translation": "(Мы уже победили этого монстра. Осталось только подать отчет.)"
+    },
+    "pack02:66140": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66140",
+      "original": "(This monster’s already been beaten. We just need to report it, and pocket the reward!)",
+      "translation": "(Этого монстра уже побили. Нам просто нужно сообщить об этом и получить награду!)"
+    },
+    "pack02:66141": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66141",
+      "original": "(Oh... We’ll have to do better next time...)",
+      "translation": "(Ох... В следующий раз нам придется сделать лучше...)"
+    },
+    "pack02:66142": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66142",
+      "original": "(Ah, we’ve blown it... We have to make sure this never happens again...)",
+      "translation": "(Ах, мы все испортили... Мы должны сделать так, чтобы это никогда не повторилось...)"
+    },
+    "pack02:66143": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66143",
+      "original": "Welcome. How can I help you today?",
+      "translation": "Добро пожаловать. Чем я могу помочь вам сегодня?"
+    },
+    "pack02:66144": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66144",
+      "original": "You have a quest that has expired. It will be discarded. I hope you know I’m not pleased.",
+      "translation": "У вас есть квест, срок действия которого истек. Оно будет отброшено. Надеюсь, ты знаешь, что я не доволен."
+    },
+    "pack02:66145": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66145",
+      "original": "Shall we report the results of this quest?",
+      "translation": "Сообщим о результатах этого квеста?"
+    },
+    "pack02:66146": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66146",
+      "original": "Shall I go ahead and make the report?",
+      "translation": "Мне пойти дальше и сделать отчет?"
+    },
+    "pack02:66147": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66147",
+      "original": "Should we report the results of this quest?",
+      "translation": "Должны ли мы сообщить о результатах этого квеста?"
+    },
+    "pack02:66148": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66148",
+      "original": "Can I make the report?",
+      "translation": "Могу ли я сделать отчет?"
+    },
+    "pack02:66149": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66149",
+      "original": "Thank you so much. Here is your reward.",
+      "translation": "Большое спасибо. Вот ваша награда."
+    },
+    "pack02:66150": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66150",
+      "original": "Oh, that is most impressive. I have added a little extra to your reward.",
+      "translation": "О, это самое впечатляющее. Я добавил немного к вашей награде."
+    },
+    "pack02:66151": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66151",
+      "original": "No one was willing to take this on until you arrived! Thank you so much! Here is your reward!",
+      "translation": "Никто не был готов взять на себя это, пока вы не приехали! Большое спасибо! Вот ваша награда!"
+    },
+    "pack02:66152": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66152",
+      "original": "Wonderful! I am moved beyond words! Hehehe... Your reward will be significantly boosted.",
+      "translation": "Замечательный! Я тронут выше слов! Хе-хе-хе... Ваша награда будет значительно увеличена."
+    },
+    "pack02:66153": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66153",
+      "original": "Shall we give up on this quest...?",
+      "translation": "Откажемся от этого квеста...?"
+    },
+    "pack02:66154": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66154",
+      "original": "Is it okay to give up on this one...?",
+      "translation": "Можно ли отказаться от этого...?"
+    },
+    "pack02:66155": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66155",
+      "original": "Do you want to give up this quest...?",
+      "translation": "Вы хотите отказаться от этого квеста...?"
+    },
+    "pack02:66156": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66156",
+      "original": "You think we should give this up...?",
+      "translation": "Думаешь, нам стоит отказаться от этого...?"
+    },
+    "pack02:66157": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66157",
+      "original": "Understood. Please treat your work with more consideration in future.",
+      "translation": "Понял. Пожалуйста, в будущем относитесь к своей работе более внимательно."
+    },
+    "pack02:66158": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66158",
+      "original": "I see... I suppose it cannot be helped. *Sigh* This is a disappointment...",
+      "translation": "Понятно... Полагаю, ничего не поделаешь. *Вздох* Это разочарование..."
+    },
+    "pack02:66159": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66159",
+      "original": "Oh, it seems your inventory is full. Please sort out your belongings and come back later.",
+      "translation": "О, кажется, ваш инвентарь полон. Пожалуйста, разберитесь со своими вещами и зайдите позже."
+    },
+    "pack02:66160": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66160",
+      "original": "Should I report the results of this quest...?",
+      "translation": "Должен ли я сообщить о результатах этого квеста...?"
+    },
+    "pack02:66161": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66161",
+      "original": "Can I make a report...?",
+      "translation": "Могу ли я сделать отчет...?"
+    },
+    "pack02:66162": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66162",
+      "original": "Maybe we should just give up...",
+      "translation": "Может, нам стоит просто сдаться..."
+    },
+    "pack02:66163": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66163",
+      "original": "*Sigh* Shall we give up on this one...?",
+      "translation": "*Вздох* Откажемся от этого...?"
+    },
+    "pack02:66164": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66164",
+      "original": "Ohoho, welcome! I'm glad you two came to see me!",
+      "translation": "Ого-хо, добро пожаловать! Я рад, что вы двое пришли ко мне!"
+    },
+    "pack02:66165": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66165",
+      "original": "You want to check the details of your task?",
+      "translation": "Хотите проверить детали своей задачи?"
+    },
+    "pack02:66166": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66166",
+      "original": "What do you want to show me?",
+      "translation": "Что ты хочешь мне показать?"
+    },
+    "pack02:66167": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66167",
+      "original": "Thank you. I'll take this.",
+      "translation": "Спасибо. Я возьму это."
+    },
+    "pack02:66168": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66168",
+      "original": "Are you sure?",
+      "translation": "Вы уверены?"
+    },
+    "pack02:66169": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66169",
+      "original": "All right. As you wish.",
+      "translation": "Все в порядке. Как хочешь."
+    },
+    "pack02:66170": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66170",
+      "original": "Come any time!",
+      "translation": "Приходите в любое время!"
+    },
+    "pack02:66171": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66171",
+      "original": "Aha-ha-ha!^00What's wrong?",
+      "translation": "Аха-ха-ха!^00Что случилось?"
+    },
+    "pack02:66172": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66172",
+      "original": "What, you forgot?^00This is the thing I need, this!",
+      "translation": "Что, ты забыл?^00Это то, что мне нужно, это!"
+    },
+    "pack02:66173": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66173",
+      "original": "Huh! What do you have for me?",
+      "translation": "Хм! Что у тебя есть для меня?"
+    },
+    "pack02:66174": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66174",
+      "original": "Good! Receipt confirmed!",
+      "translation": "Хороший! Получение подтверждено!"
+    },
+    "pack02:66175": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66175",
+      "original": "You're sure this is it?",
+      "translation": "Ты уверен, что это оно?"
+    },
+    "pack02:66176": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66176",
+      "original": "Oh, all right.",
+      "translation": "О, хорошо."
+    },
+    "pack02:66177": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66177",
+      "original": "I'm counting on you! For the prosperity of Alchemy!",
+      "translation": "Я рассчитываю на тебя! За процветание Алхимии!"
+    },
+    "pack02:66317": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66317",
+      "original": "Umm...",
+      "translation": "Хм..."
+    },
+    "pack02:66318": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66318",
+      "original": "What should I do...?",
+      "translation": "Что я должен делать...?"
+    },
+    "pack02:66319": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66319",
+      "original": "Hmm...",
+      "translation": "Хм-м..."
+    },
+    "pack02:66320": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66320",
+      "original": "What to do...?",
+      "translation": "Что делать...?"
+    },
+    "pack02:66321": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66321",
+      "original": "Yeah.",
+      "translation": "Ага."
+    },
+    "pack02:66322": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66322",
+      "original": "Let’s do that!",
+      "translation": "Давайте сделаем это!"
+    },
+    "pack02:66323": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66323",
+      "original": "Yeah!",
+      "translation": "Ага!"
+    },
+    "pack02:66324": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66324",
+      "original": "I’ve decided!",
+      "translation": "Я решил!"
+    },
+    "pack02:66325": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66325",
+      "original": "No.",
+      "translation": "Нет."
+    },
+    "pack02:66326": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66326",
+      "original": "I don’t think so.",
+      "translation": "Я так не думаю."
+    },
+    "pack02:66327": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66327",
+      "original": "Nope.",
+      "translation": "Неа."
+    },
+    "pack02:66328": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66328",
+      "original": "I don’t want to.",
+      "translation": "Я не хочу."
+    },
+    "pack02:66329": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66329",
+      "original": "Is this good enough?",
+      "translation": "Это достаточно хорошо?"
+    },
+    "pack02:66330": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66330",
+      "original": "Is this okay?",
+      "translation": "Это нормально?"
+    },
+    "pack02:66331": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66331",
+      "original": "...Will this do?",
+      "translation": "...Подойдет ли это?"
+    },
+    "pack02:66332": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66332",
+      "original": "...Will this be good enough?",
+      "translation": "...Этого будет достаточно?"
+    },
+    "pack02:66333": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66333",
+      "original": "This cannot be used here.",
+      "translation": "Здесь это использовать нельзя."
+    },
+    "pack02:66334": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66334",
+      "original": "This is no time to be resting.",
+      "translation": "Сейчас не время отдыхать."
+    },
+    "pack02:66335": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66335",
+      "original": "What shall we make?",
+      "translation": "Что нам сделать?"
+    },
+    "pack02:66336": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66336",
+      "original": "How long should we rest for...?",
+      "translation": "Как долго нам следует отдыхать...?"
+    },
+    "pack02:66337": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66337",
+      "original": "Oh, we can’t carry any more. Perhaps we should get rid of something...",
+      "translation": "Ох, мы больше не можем нести. Возможно, нам стоит от чего-то избавиться..."
+    },
+    "pack02:66338": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66338",
+      "original": "Let’s finish this off in style!",
+      "translation": "Давайте закончим это стильно!"
+    },
+    "pack02:66339": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66339",
+      "original": "Mix together thoroughly...",
+      "translation": "Тщательно перемешать..."
+    },
+    "pack02:66340": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66340",
+      "original": "Okay - here’s the finishing touch!",
+      "translation": "Ладно, вот и последний штрих!"
+    },
+    "pack02:66341": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66341",
+      "original": "Round and round and round and round...!",
+      "translation": "Кругом и кругом, кругом и кругом...!"
+    },
+    "pack02:66342": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66342",
+      "original": "I mustn’t let anger cloud my focus...",
+      "translation": "Я не должен позволять гневу затуманивать мое внимание..."
+    },
+    "pack02:66343": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66343",
+      "original": "Take that, and that, and that!",
+      "translation": "Возьми это, и это, и это!"
+    },
+    "pack02:66344": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66344",
+      "original": "Do you wish to move to this location?",
+      "translation": "Вы хотите переехать в это место?"
+    },
+    "pack02:66345": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66345",
+      "original": "It will take some time to move. Do you wish to move to this location?",
+      "translation": "Чтобы переехать, потребуется некоторое время. Вы хотите переехать в это место?"
+    },
+    "pack02:66346": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66346",
+      "original": "Do you wish to switch to the Town Map?",
+      "translation": "Хотите переключиться на карту города?"
+    },
+    "pack02:66347": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66347",
+      "original": "Do you wish to switch to the Outskirts Map?",
+      "translation": "Хотите переключиться на карту окраин?"
+    },
+    "pack02:66348": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66348",
+      "original": "Do you wish to switch to the Painting Map?",
+      "translation": "Вы хотите переключиться на карту живописи?"
+    },
+    "pack02:66349": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66349",
+      "original": "You cannot accept any more quests.",
+      "translation": "Вы не можете больше принимать квесты."
+    },
+    "pack02:66350": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66350",
+      "original": "It will be morning by the time you arrive.^00Do you wish to move to this location?",
+      "translation": "Когда вы приедете, будет уже утро.^00Вы хотите переехать в это место?"
+    },
+    "pack02:66351": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66351",
+      "original": "It will be afternoon by the time you arrive.^00Do you wish to move to this location?",
+      "translation": "Когда вы приедете, будет уже полдень.^00Вы хотите переехать в это место?"
+    },
+    "pack02:66352": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66352",
+      "original": "It will be evening by the time you arrive.^00Do you wish to move to this location?",
+      "translation": "Когда вы приедете, будет уже вечер.^00Вы хотите переехать в это место?"
+    },
+    "pack02:66353": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66353",
+      "original": "It will be night by the time you arrive.^00Do you wish to move to this location?",
+      "translation": "К тому времени, как вы приедете, будет уже ночь.^00Вы хотите переехать в это место?"
+    },
+    "pack02:66354": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66354",
+      "original": "You can return from the world of the paintings to the real world.^00Do you wish to return to your world?",
+      "translation": "Вы можете вернуться из мира картин в реальный мир.^00Хотите ли вы вернуться в свой мир?"
+    },
+    "pack02:66355": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66355",
+      "original": "You will rest until 8 o’clock in the morning if you make this move.^00Do you wish to move to this location?",
+      "translation": "Если вы сделаете этот шаг, вы будете отдыхать до 8 часов утра.^00Вы хотите переехать в это место?"
+    },
+    "pack02:66356": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66356",
+      "original": "You have not accepted a request.",
+      "translation": "Вы не приняли запрос."
+    },
+    "pack02:66357": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66357",
+      "original": "Creating new save data.",
+      "translation": "Новое сохранение"
+    },
+    "pack02:66358": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66358",
+      "original": "Do you wish to overwrite this save data?",
+      "translation": "Перезаписать это сохранение?"
+    },
+    "pack02:66359": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66359",
+      "original": "Please wait a moment...",
+      "translation": "Подождите..."
+    },
+    "pack02:66360": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66360",
+      "original": "Saving...",
+      "translation": "Сохранение..."
+    },
+    "pack02:66361": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66361",
+      "original": "Loading...",
+      "translation": "Загрузка..."
+    },
+    "pack02:66362": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66362",
+      "original": "Creating system data.",
+      "translation": "Создание системного сохранения."
+    },
+    "pack02:66363": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66363",
+      "original": "Saving system data...",
+      "translation": "Запись системного сохранения..."
+    },
+    "pack02:66364": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66364",
+      "original": "Loading system data...",
+      "translation": "Загрузка системного сохранения..."
+    },
+    "pack02:66365": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66365",
+      "original": "No save data exists.",
+      "translation": "Сохранения отсутствуют."
+    },
+    "pack02:66366": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66366",
+      "original": "You do not have the necessary items.",
+      "translation": "У вас нет необходимых предметов."
+    },
+    "pack02:66367": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66367",
+      "original": "Welcome! We have a lot of great things in here, just like in Lucia's shop!",
+      "translation": "Добро пожаловать! У нас здесь много замечательных вещей, как и в магазине Люсии!"
+    },
+    "pack02:66368": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66368",
+      "original": "Again with that thunder... Oh, right. Sorry to keep you waiting.",
+      "translation": "Опять этот гром... Ах да. Извините, что заставил вас ждать."
+    },
+    "pack02:66369": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66369",
+      "original": "Greetings. Have a look at our selection.",
+      "translation": "Привет. Взгляните на нашу подборку."
+    },
+    "pack02:66370": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66370",
+      "original": "I won't be threatened into closing my shop... So, what will it be today?",
+      "translation": "Мне не будут угрожать закрытием магазина... Итак, что же будет сегодня?"
+    },
+    "pack02:66371": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66371",
+      "original": "Hehe, welcome. I will work hard to catch up to you too.",
+      "translation": "Хе-хе, добро пожаловать. Я тоже буду усердно работать, чтобы догнать тебя."
+    },
+    "pack02:66372": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66372",
+      "original": "N-no matter how scary that Thunder God is... the shop must go on!",
+      "translation": "Н-неважно, насколько страшен этот Бог Грома... магазин должен продолжать работать!"
+    },
+    "pack02:66373": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66373",
+      "original": "Howdy! Nice of you to drop by! Here, take a look at the goods I have here. They're the very best, you'll see.",
+      "translation": "Привет! Очень мило с твоей стороны зайти! Вот, взгляните на товары, которые у меня здесь есть. Они самые лучшие, вот увидите."
+    },
+    "pack02:66374": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66374",
+      "original": "...Thunder? Oh well, no matter. Here, have a look around.",
+      "translation": "...Гром? Да ладно, неважно. Вот, осмотритесь."
+    },
+    "pack02:66375": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66375",
+      "original": "Welcome! We have a lot of great things here, just like in Lucia's shop!",
+      "translation": "Добро пожаловать! У нас здесь много классных вещей, как и в магазине Люсии!"
+    },
+    "pack02:66376": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66376",
+      "original": "Again with that thunder... Oh, right. Sorry to keep you waiting.",
+      "translation": "Опять этот гром... Ах да. Извините, что заставил вас ждать."
+    },
+    "pack02:66377": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66377",
+      "original": "Greetings. Have a look at our selection.",
+      "translation": "Привет. Взгляните на нашу подборку."
+    },
+    "pack02:66378": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66378",
+      "original": "I won't be threatened into closing my shop... So, what will it be today?",
+      "translation": "Мне не будут угрожать закрытием магазина... Итак, что же будет сегодня?"
+    },
+    "pack02:66379": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66379",
+      "original": "Hehe, welcome. I will work hard to catch up to you too.",
+      "translation": "Хе-хе, добро пожаловать. Я тоже буду усердно работать, чтобы догнать тебя."
+    },
+    "pack02:66380": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66380",
+      "original": "N-no matter how scary that Thunder God is... the shop must go on!",
+      "translation": "Н-неважно, насколько страшен этот Бог Грома... магазин должен продолжать работать!"
+    },
+    "pack02:66381": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66381",
+      "original": "Howdy! Nice of you to drop by! Here, take a look at the goods I have here. They're the very best, you'll see.",
+      "translation": "Привет! Очень мило с твоей стороны зайти! Вот, взгляните на товары, которые у меня здесь есть. Они самые лучшие, вот увидите."
+    },
+    "pack02:66382": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66382",
+      "original": "...Thunder? Oh well, no matter. Here, have a look around.",
+      "translation": "...Гром? Да ладно, неважно. Вот, осмотритесь."
+    },
+    "pack02:66383": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66383",
+      "original": "Welcome! We have a lot of great things here, just like in Lucia's shop!",
+      "translation": "Добро пожаловать! У нас здесь много классных вещей, как и в магазине Люсии!"
+    },
+    "pack02:66384": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66384",
+      "original": "Again with that thunder... Oh, right. Sorry to keep you waiting.",
+      "translation": "Опять этот гром... Ах да. Извините, что заставил вас ждать."
+    },
+    "pack02:66385": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66385",
+      "original": "Greetings. Have a look at our selection.",
+      "translation": "Привет. Взгляните на нашу подборку."
+    },
+    "pack02:66386": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66386",
+      "original": "I won't be threatened into closing my shop... So, what will it be today?",
+      "translation": "Мне не будут угрожать закрытием магазина... Итак, что же будет сегодня?"
+    },
+    "pack02:66387": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66387",
+      "original": "Hehe, welcome. I will work hard to catch up to you too.",
+      "translation": "Хе-хе, добро пожаловать. Я тоже буду усердно работать, чтобы догнать тебя."
+    },
+    "pack02:66388": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66388",
+      "original": "N-no matter how scary that Thunder God is... the shop must go on!",
+      "translation": "Н-неважно, насколько страшен этот Бог Грома... магазин должен продолжать работать!"
+    },
+    "pack02:66389": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66389",
+      "original": "Howdy! Nice of you to drop by! Here, take a look at the goods I have here. They're the very best, you'll see.",
+      "translation": "Привет! Очень мило с твоей стороны зайти! Вот, взгляните на товары, которые у меня здесь есть. Они самые лучшие, вот увидите."
+    },
+    "pack02:66390": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66390",
+      "original": "...Thunder? Oh well, no matter. Here, have a look around.",
+      "translation": "...Гром? Да ладно, неважно. Вот, осмотритесь."
+    },
+    "pack02:66391": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66391",
+      "original": "I have replenished the stock! Make sure you buy lots this time too!",
+      "translation": "Я пополнил запас! Обязательно купите много и в этот раз!"
+    },
+    "pack02:66392": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66392",
+      "original": "I have restocked some items we were running out of. Here, have a look.",
+      "translation": "Я пополнил запасы некоторых товаров, которые у нас заканчивались. Вот, посмотрите."
+    },
+    "pack02:66393": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66393",
+      "original": "I have refreshed my selection somewhat. I hope you can find what you're looking for.",
+      "translation": "Я несколько обновил свой выбор. Надеюсь, вы сможете найти то, что ищете."
+    },
+    "pack02:66394": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66394",
+      "original": "I have restocked my items! You are going to buy them, right?",
+      "translation": "Я пополнил запасы своих товаров! Вы собираетесь их купить, да?"
+    },
+    "pack02:66395": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66395",
+      "original": "Look, I lined up some of my new items! I bet you'll be surprised!",
+      "translation": "Смотри, я выложила несколько своих новинок! Могу поспорить, вы будете удивлены!"
+    },
+    "pack02:66396": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66396",
+      "original": "I have got some new items... You can take a look at them for free.",
+      "translation": "У меня появились новинки... Вы можете посмотреть их бесплатно."
+    },
+    "pack02:66397": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66397",
+      "original": "Please take a look a round. I have quite a few new things for you today.",
+      "translation": "Пожалуйста, осмотритесь. У меня сегодня для вас немало новинок."
+    },
+    "pack02:66398": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66398",
+      "original": "I've stocked on new items! Check them out before you go!",
+      "translation": "Я запасся новинками! Проверьте их, прежде чем идти!"
+    },
+    "pack02:66399": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66399",
+      "original": "I came across something really rare! Here, take a look!",
+      "translation": "Я наткнулся на что-то действительно редкое! Вот, взгляните!"
+    },
+    "pack02:66400": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66400",
+      "original": "I have procured some rare goods. Why don't you take a look?",
+      "translation": "Я приобрел несколько редких товаров. Почему бы тебе не взглянуть?"
+    },
+    "pack02:66401": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66401",
+      "original": "I have discovered some exceptional items. Please, do have a look around.",
+      "translation": "Я обнаружил несколько исключительных предметов. Пожалуйста, осмотритесь вокруг."
+    },
+    "pack02:66402": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66402",
+      "original": "Hehehe. I've got my hands on some unique things! Check them out before you miss your chance!",
+      "translation": "Хе-хе-хе. У меня в руках уникальные вещи! Проверьте их, прежде чем упустить свой шанс!"
+    },
+    "pack02:66403": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66403",
+      "original": "Which one do you want?",
+      "translation": "Какой из них вы хотите?"
+    },
+    "pack02:66404": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66404",
+      "original": "What are you looking for?",
+      "translation": "Что Вы ищете?"
+    },
+    "pack02:66405": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66405",
+      "original": "What would you like today?",
+      "translation": "Чего бы тебе хотелось сегодня?"
+    },
+    "pack02:66406": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66406",
+      "original": "What do you need?",
+      "translation": "Что ищешь?"
+    },
+    "pack02:66407": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66407",
+      "original": "Ah, you don't have enough Coll. I can't sell it to you like this!",
+      "translation": "Ах, тебе не хватает Колла. Я не могу продать его тебе в таком виде!"
+    },
+    "pack02:66408": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66408",
+      "original": "That's not enough money for this! I can't sell it to you!",
+      "translation": "На это денег не хватит! Я не могу продать его тебе!"
+    },
+    "pack02:66409": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66409",
+      "original": "Uhm... Sorry, but it would seem you don't have enough. Money, that is.",
+      "translation": "Хм... Извините, но, похоже, вам не хватает. Деньги, то есть."
+    },
+    "pack02:66410": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66410",
+      "original": "Hey-hey! That's not enough money! Come back when you make some more!",
+      "translation": "Эй-эй! Это не достаточно денег! Возвращайся, когда приготовишь еще!"
+    },
+    "pack02:66411": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66411",
+      "original": "Oh, your bag looks too full. I don't think you'll be able to carry this...",
+      "translation": "О, твоя сумка выглядит слишком полной. Я не думаю, что ты сможешь это вынести..."
+    },
+    "pack02:66412": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66412",
+      "original": "You can't carry more items. Came back after you put some away.",
+      "translation": "Вы не можете нести больше предметов. Вернулся после того, как ты немного убрал."
+    },
+    "pack02:66413": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66413",
+      "original": "You won't be able to carry any more things. You need to put some of them away.",
+      "translation": "Вы больше не сможете нести какие-либо вещи. Вам нужно убрать некоторые из них."
+    },
+    "pack02:66414": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66414",
+      "original": "Your bags are full! Go get rid of some stuff first!",
+      "translation": "Ваши сумки полны! Сначала избавься от некоторых вещей!"
+    },
+    "pack02:66415": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66415",
+      "original": "What do you want to sell?",
+      "translation": "Что хочешь продать?"
+    },
+    "pack02:66416": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66416",
+      "original": "What do you want to hand over?",
+      "translation": "Что вы хотите передать?"
+    },
+    "pack02:66417": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66417",
+      "original": "There is something you would like to sell?",
+      "translation": "Есть что-то, что вы хотели бы продать?"
+    },
+    "pack02:66418": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66418",
+      "original": "What have you got?",
+      "translation": "Что у тебя есть?"
+    },
+    "pack02:66419": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66419",
+      "original": "Hmm? There's nothing for me to buy...",
+      "translation": "Хм? Мне нечего покупать..."
+    },
+    "pack02:66420": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66420",
+      "original": "Hm, sorry. You don't seem to have anything I can buy from you.",
+      "translation": "Хм, извини. Кажется, у тебя нет ничего, что я мог бы у тебя купить."
+    },
+    "pack02:66421": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66421",
+      "original": "Ah, I am very sorry but I don't think you have anything I can buy at the moment.",
+      "translation": "Ах, мне очень жаль, но я не думаю, что у вас есть что-нибудь, что я могу купить в данный момент."
+    },
+    "pack02:66422": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66422",
+      "original": "I don't think I want any of these. Nothing for me to buy here.",
+      "translation": "Я не думаю, что мне нужно что-то из этого. Мне здесь нечего покупать."
+    },
+    "pack02:66423": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66423",
+      "original": "Is this it?",
+      "translation": "Это оно?"
+    },
+    "pack02:66424": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66424",
+      "original": "You want this?",
+      "translation": "Вы хотите этого?"
+    },
+    "pack02:66425": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66425",
+      "original": "Will this be all?",
+      "translation": "Это все?"
+    },
+    "pack02:66426": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66426",
+      "original": "Is this what you want?",
+      "translation": "Это то, чего ты хочешь?"
+    },
+    "pack02:66427": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66427",
+      "original": "Thank you!",
+      "translation": "Спасибо!"
+    },
+    "pack02:66428": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66428",
+      "original": "Deal.",
+      "translation": "Иметь дело."
+    },
+    "pack02:66429": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66429",
+      "original": "T-thank you!",
+      "translation": "Т-спасибо!"
+    },
+    "pack02:66430": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66430",
+      "original": "Thanks always.",
+      "translation": "Всегда спасибо."
+    },
+    "pack02:66431": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66431",
+      "original": "Come again!",
+      "translation": "Приходи ещё♪!"
+    },
+    "pack02:66432": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66432",
+      "original": "...Good luck! I'm rooting for you!",
+      "translation": "...Удачи! Я болею за тебя!"
+    },
+    "pack02:66433": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66433",
+      "original": "You should come again.",
+      "translation": "Тебе следует прийти еще раз."
+    },
+    "pack02:66434": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66434",
+      "original": "I hope to see you again soon. Conquer your troubles, and come by again.",
+      "translation": "Я надеюсь увидеть вас снова в ближайшее время. Преодолевайте свои проблемы и приходите снова."
+    },
+    "pack02:66435": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66435",
+      "original": "Please, do come again.",
+      "translation": "Пожалуйста, приходите еще."
+    },
+    "pack02:66436": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66436",
+      "original": "Please come again. I will be looking forward to your next visit.",
+      "translation": "Пожалуйста, приходите еще раз. Я буду с нетерпением ждать вашего следующего визита."
+    },
+    "pack02:66437": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66437",
+      "original": "Come again!",
+      "translation": "Приходи ещё♪!"
+    },
+    "pack02:66438": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66438",
+      "original": "...I know it's hard on you right now. Because of that as well, make sure you come to visit.",
+      "translation": "...Я знаю, что тебе сейчас тяжело. Поэтому обязательно приходите в гости."
+    },
+    "pack02:66439": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66439",
+      "original": "Come on! Let's go! I'll teach you all I know!",
+      "translation": "Ну давай же! Пойдем! Я научу тебя всему, что знаю!"
+    },
+    "pack02:66440": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66440",
+      "original": "Let's go about this calmly. ...Okay?",
+      "translation": "Давайте подойдем к этому спокойно. ...Хорошо?"
+    },
+    "pack02:66441": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66441",
+      "original": "Hm? Didn't we just go there? Is there something you forgot?",
+      "translation": "Хм? Разве мы не пошли туда только что? Есть что-то, что ты забыл?"
+    },
+    "pack02:66442": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66442",
+      "original": "Let's not. Don't we have something else we need to do first?",
+      "translation": "Давайте не будем. Разве нам не нужно сделать что-то еще в первую очередь?"
+    },
+    "pack02:66443": {
+      "source": "pack02_text_en",
+      "file": "str_system_message.xml",
+      "string_no": "66443",
+      "original": "Ugh... Um... So... So, you two! Where shall we go today?!",
+      "translation": "Ух... Эм... Итак... Итак, вы двое! Куда мы пойдем сегодня?!"
+    }
+  }
+}

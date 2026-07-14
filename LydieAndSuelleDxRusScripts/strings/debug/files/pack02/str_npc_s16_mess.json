@@ -1,0 +1,813 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_npc_s16_mess.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:33292289": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292289",
+      "original": "Welcome.",
+      "translation": "Добро пожаловать."
+    },
+    "pack02:33292290": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292290",
+      "original": "*Yawn*... Sorry, I’m closed for the day. Come back tomorrow.",
+      "translation": "*Зевок*... Простите, на сегодня закрыто. Приходите завтра."
+    },
+    "pack02:33292291": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292291",
+      "original": "*Gulp, gulp*... Ahh! There’s nothing like a cold glass of milk after a hard day’s work.",
+      "translation": "*Глоток, глоток*... Ах! Нет ничего лучше холодного молока после тяжёлого дня."
+    },
+    "pack02:33292292": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292292",
+      "original": "A thunder demon... I need to get some anti-lightning items in stock, and think about distributing them for free...",
+      "translation": "Демон грома... Нужно запастись предметами против молний и подумать о бесплатной раздаче..."
+    },
+    "pack02:33292293": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292293",
+      "original": "Things went very well today. I’m so thankful to all the customers who bought things from me.",
+      "translation": "Сегодня всё прошло очень хорошо. Я так благодарен всем покупателям."
+    },
+    "pack02:33292294": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292294",
+      "original": "If you stay out late, you’ll never grow big and tall. Coming from me, you’d better believe it.",
+      "translation": "Если гулять допоздна, не вырастешь большим и сильным. Поверьте мне на слово."
+    },
+    "pack02:33292295": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292295",
+      "original": "...We do not allow disagreements in this store. I must insist that you make up and go back to being friends.",
+      "translation": "...В этом магазине мы не терпим ссор. Настаиваю, чтобы вы помирились и снова стали друзьями."
+    },
+    "pack02:33292296": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292296",
+      "original": "Oh good, it seems you’re on speaking terms again. There’s absolutely no benefit to fighting, you know...",
+      "translation": "О, хорошо, похоже, вы снова разговариваете. В ссорах нет никакой пользы, знаете ли..."
+    },
+    "pack02:33292297": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292297",
+      "original": "What’s the matter? I don’t suppose I could sell you anything that would help...",
+      "translation": "Что случилось? Не думаю, что смогу продать вам что-то, что поможет..."
+    },
+    "pack02:33292298": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292298",
+      "original": "Please come back and take a look again tomorrow. No matter what crisis may face us, as a merchant this is all I can do.",
+      "translation": "Приходите завтра ещё раз. Какой бы кризис ни грозил, как торговец я могу только это."
+    },
+    "pack02:33292299": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292299",
+      "original": "It is the greatest honor I could know to be patronized by two such famous heroes! Although we are closed for the day...",
+      "translation": "Для меня величайшая честь — обслуживать двух таких знаменитых героинь! Хотя мы уже закрыты..."
+    },
+    "pack02:33292300": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292300",
+      "original": "Hmm, what would you like me to throw in...? How about a remarkable piece of synthesis given to me by a famous alchemist...?",
+      "translation": "Хм, что бы вам добавить...? Как насчёт замечательного предмета синтеза от знаменитого алхимика...?"
+    },
+    "pack02:33292301": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292301",
+      "original": "Where could Drossel be this time...? Behind the dresser? Or maybe up on the roof?",
+      "translation": "Где же на этот раз Дроссель...? За комодом? Или на крыше?"
+    },
+    "pack02:33292302": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292302",
+      "original": "Good morning! My Dad’s always telling me how important it is to greet people cheerfully!",
+      "translation": "Доброе утро! Папа всегда говорит, как важно приветствовать людей бодро!"
+    },
+    "pack02:33292303": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292303",
+      "original": "I’m going to play with my friend here again today! But what shall we do? What do you think we should do?",
+      "translation": "Сегодня снова буду играть с другом! Но чем займёмся? Как думаете?"
+    },
+    "pack02:33292304": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292304",
+      "original": "*Yawn*... I’m still so sleepy...",
+      "translation": "*Зевок*... Я ещё так хочу спать..."
+    },
+    "pack02:33292305": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292305",
+      "original": "Come at me, Falgior! I’ll cut you down!",
+      "translation": "Иди сюда, Фальгиор! Я тебя зарублю!"
+    },
+    "pack02:33292306": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292306",
+      "original": "Whenever I’m naughty, Mom gives me a spanking. Did someone spank Falgior?",
+      "translation": "Когда я не слушаюсь, мама даёт подзатыльник. Кому-то дали подзатыльник Фальгиору?"
+    },
+    "pack02:33292307": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292307",
+      "original": "My aunt’s Puni omelets are delicious!",
+      "translation": "Омлеты с Пуни у тёти такие вкусные!"
+    },
+    "pack02:33292308": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292308",
+      "original": "Did something sad happen to you? If someone’s picking on you, just let me know! I’ll teach them a lesson!",
+      "translation": "С тобой что-то печальное случилось? Если кто-то обижает — скажи! Я им устрою!"
+    },
+    "pack02:33292309": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292309",
+      "original": "I’m gonna play hard all day long! Hey, what do you think we should do? You want to play too?",
+      "translation": "Сегодня буду играть изо всех сил! Эй, чем займёмся? Хочешь поиграть тоже?"
+    },
+    "pack02:33292310": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292310",
+      "original": "Uh-oh, it’s raining... But I’m not going inside yet!",
+      "translation": "Ой-ой, идёт дождь... Но я ещё не пойду домой!"
+    },
+    "pack02:33292311": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292311",
+      "original": "Good morning! Isn’t the weather lovely!",
+      "translation": "Доброе утро! Какая чудесная погода!"
+    },
+    "pack02:33292312": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292312",
+      "original": "I do like running around outside, but I also like reading books at home.",
+      "translation": "Мне нравится бегать на улице, но дома тоже люблю читать книги."
+    },
+    "pack02:33292313": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292313",
+      "original": "Do alchemists have to get up early? I just saw Lucia going past before!",
+      "translation": "Алхимикам нужно рано вставать? Я только что видела, как прошла Люсия!"
+    },
+    "pack02:33292314": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292314",
+      "original": "Don’t fight Falgior. It’s too dangerous...",
+      "translation": "Не сражайтесь с Фальгиором. Это слишком опасно..."
+    },
+    "pack02:33292315": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292315",
+      "original": "Was Falgior beaten...? I feel a bit sorry for him.",
+      "translation": "Фальгиора победили...? Мне его немного жаль."
+    },
+    "pack02:33292316": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292316",
+      "original": "For breakfast today, I had a Puni omelet!",
+      "translation": "На завтрак сегодня был омлет с Пуни!"
+    },
+    "pack02:33292317": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292317",
+      "original": "I painted a picture... Do you want it? It might cheer you up.",
+      "translation": "Я нарисовала картинку... Хочешь? Может, поднимет настроение."
+    },
+    "pack02:33292318": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292318",
+      "original": "I want to learn all about alchemy...",
+      "translation": "Хочу узнать всё об алхимии..."
+    },
+    "pack02:33292319": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292319",
+      "original": "Yay, it’s raining! It’s so cold, and so much fun!",
+      "translation": "Ура, идёт дождь! Так холодно и так весело!"
+    },
+    "pack02:33292320": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292320",
+      "original": "I slept so well last night. It must be that new pillow I bought at the market. No sooner do I lie down than I’m out like a light!",
+      "translation": "Прошлой ночью так хорошо выспался. Наверное, из-за новой подушки с рынка. Только лягу — и сразу сплю!"
+    },
+    "pack02:33292321": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292321",
+      "original": "I bought a fancy new vegetable peeler at the market yesterday, but I ended up peeling half the skin off my hand!",
+      "translation": "Вчера на рынке купил модную овощечистку, а в итоге содрал полкожи с руки!"
+    },
+    "pack02:33292322": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292322",
+      "original": "Alchemy is an art that allows you to create new things, right? Hehe, the future’s so exciting!",
+      "translation": "Алхимия — это искусство создавать новые вещи, верно? Хехе, будущее такое захватывающее!"
+    },
+    "pack02:33292323": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292323",
+      "original": "It’s so depressing to see the market so lacking in life... That Falgior really is a pain in the neck!",
+      "translation": "Так уныло видеть рынок безжизненным... Этот Фальгиор и правда вечная головная боль!"
+    },
+    "pack02:33292324": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292324",
+      "original": "Now I can enjoy shopping again! So, what shall I buy today?",
+      "translation": "Теперь снова могу наслаждаться покупками! Итак, что купить сегодня?"
+    },
+    "pack02:33292325": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292325",
+      "original": "Yesterday, I bought a pot that gathers money from a traveling salesman! And for the bargain price of just 5000 Coll!",
+      "translation": "Вчера купил у разъезжего торговца горшок, собирающий деньги! И всего за 5000 коллов!"
+    },
+    "pack02:33292326": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292326",
+      "original": "Why not take a look at the market if you’re at a loss? You might find inspiration there!",
+      "translation": "Если не знаете, что делать — загляните на рынок. Может, найдёте вдохновение!"
+    },
+    "pack02:33292327": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292327",
+      "original": "Every day I come across something new and exciting! Shopping is so wonderful! If only I had unlimited finances...",
+      "translation": "Каждый день встречаю что-то новое и увлекательное! Покупки так прекрасны! Если бы только денег было безгранично..."
+    },
+    "pack02:33292328": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292328",
+      "original": "A merchant from a foreign country is in town. I have to go and see this!",
+      "translation": "В город приехал торговец из-за границы. Надо обязательно посмотреть!"
+    },
+    "pack02:33292329": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292329",
+      "original": "Instead of atelier rankings, I’d like a list of boutique rankings!",
+      "translation": "Вместо ранжирования ателье хотел бы рейтинг бутиков!"
+    },
+    "pack02:33292330": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292330",
+      "original": "Can you buy all sorts of lovely items at an alchemist’s atelier? Maybe I should pay one a visit.",
+      "translation": "В ателье алхимика можно купить всякие чудесные вещи? Может, стоит заглянуть."
+    },
+    "pack02:33292331": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292331",
+      "original": "If Falgior were a merchant, I’d welcome him with open arms...",
+      "translation": "Если бы Фальгиор был торговцем, я бы встретил его с распростёртыми объятиями..."
+    },
+    "pack02:33292332": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292332",
+      "original": "All the stores are staging celebratory sales for the defeat of Falgior! Hehe, I don’t know where to start...!",
+      "translation": "Во всех магазинах праздничные распродажи в честь победы над Фальгиором! Хехе, не знаю, с чего начать...!"
+    },
+    "pack02:33292333": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292333",
+      "original": "I bought a flying broomstick at the market, but I can’t get it to budge even an inch. Do you think it’s run out of magic?",
+      "translation": "Купил на рынке летающую метлу, но она ни на дюйм не сдвинулась. Может, у неё кончилась магия?"
+    },
+    "pack02:33292334": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292334",
+      "original": "It’s important to relax even at the toughest times. Do you want to go shopping with me?",
+      "translation": "Даже в трудные времена важно отдыхать. Хочешь пойти со мной за покупками?"
+    },
+    "pack02:33292335": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292335",
+      "original": "Oh, it’s you! I hope you’ll let me come and buy something from your atelier soon!",
+      "translation": "О, это вы! Надеюсь, скоро смогу зайти купить что-нибудь в вашем ателье!"
+    },
+    "pack02:33292336": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292336",
+      "original": "I’ve bought so much today. I feel so satisfied!",
+      "translation": "Сегодня столько всего купил. Такое чувство удовлетворения!"
+    },
+    "pack02:33292337": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292337",
+      "original": "The atelier rankings are the talk of the town. But I’m so busy shopping, I don’t have time for that!",
+      "translation": "Ранжирование ателье — главная тема в городе. Но я так занят покупками, что некогда!"
+    },
+    "pack02:33292338": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292338",
+      "original": "Hmm... Should I buy the milk dumplings from Mechen or the elder cake from Dona...? It’s so hard to decide...",
+      "translation": "Хм... Купить пельмени с молоком у Мехена или пирог старика у Доны...? Так трудно выбрать..."
+    },
+    "pack02:33292339": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292339",
+      "original": "There’s not much to buy today... I guess it can’t be helped, under the circumstances.",
+      "translation": "Сегодня особо нечего покупать... Наверное, ничего не поделаешь при таких обстоятельствах."
+    },
+    "pack02:33292340": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292340",
+      "original": "Now I can shop again to my heart’s content! Hehe, I can already feel my purse getting lighter!",
+      "translation": "Теперь снова могу покупать сколько душе угодно! Хехе, уже чувствую, как кошелёк пустеет!"
+    },
+    "pack02:33292341": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292341",
+      "original": "That’s enough shopping. Time to head home. I need to look at my purchases!",
+      "translation": "С покупками хватит. Пора домой. Надо разобрать покупки!"
+    },
+    "pack02:33292342": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292342",
+      "original": "The other day I was attacked by a monster on the road.. I’d just bought a new duster, and I shook it about to beat it off. What a purchase!",
+      "translation": "На днях на дороге на меня напал монстр... Я только что купил новую метёлку и замахал ею, чтобы отогнать. Вот покупка!"
+    },
+    "pack02:33292343": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292343",
+      "original": "Everything I’ve ever bought is safely stored at home. They’re my precious treasures!",
+      "translation": "Всё, что я когда-либо покупал, бережно хранится дома. Это мои драгоценные сокровища!"
+    },
+    "pack02:33292344": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292344",
+      "original": "Congratulations, you two! Tell me, what amazing items do you sell at your atelier?",
+      "translation": "Поздравляю, вы двое! Скажите, какие удивительные вещи вы продаёте в своём ателье?"
+    },
+    "pack02:33292345": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292345",
+      "original": "Hmm, rain again... I don’t suppose anyone sells an umbrella that opens all by itself...",
+      "translation": "Хм, опять дождь... Не думаю, что кто-то продаёт зонт, который раскрывается сам..."
+    },
+    "pack02:33292346": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292346",
+      "original": "Welcome, welcome! Come take a look at my amazing stock! Come on, you won’t regret it!",
+      "translation": "Добро пожаловать, добро пожаловать! Загляните к моим удивительным товарам! Не пожалеете!"
+    },
+    "pack02:33292347": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292347",
+      "original": "I was told off by one of my customers the other day. She said I’m too loud and obtrusive... But what else can I do?",
+      "translation": "На днях одна покупательница отчитала меня. Сказала, что я слишком громкий и навязчивый... Но что мне ещё делать?"
+    },
+    "pack02:33292348": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292348",
+      "original": "The harder I try to lure in customers, the faster they run away. I don’t know what the problem is...",
+      "translation": "Чем усерднее я заманиваю покупателей, тем быстрее они убегают. Не понимаю, в чём дело..."
+    },
+    "pack02:33292349": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292349",
+      "original": "It’s not surprising I have no customers today. ...Huh, what do you mean, I never have any? Don’t say that...",
+      "translation": "Неудивительно, что сегодня нет покупателей. ...А? Что значит, у меня их никогда не бывает? Не говорите так..."
+    },
+    "pack02:33292350": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292350",
+      "original": "What a fantastic weather. I have a good feeling about today!",
+      "translation": "Какая чудесная погода. У меня хорошее предчувствие насчёт сегодняшнего дня!"
+    },
+    "pack02:33292351": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292351",
+      "original": "Come on in! Buy one of these, and I’ll throw in another! That’s right - you’ll get two for the price of two!",
+      "translation": "Заходите! Купите одно — и я добавлю ещё одно! Верно — два по цене двух!"
+    },
+    "pack02:33292352": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292352",
+      "original": "When you hit a wall, that’s when you can open up new paths! ...At least, that’s what I’ve been told.",
+      "translation": "Когда упираешься в стену — открываются новые пути! ...По крайней мере, мне так говорили."
+    },
+    "pack02:33292353": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292353",
+      "original": "Recently, I’ve found my stocks have started to actually dwindle a little. I'll have to do the best I can with this!",
+      "translation": "В последнее время запасы начали реально уменьшаться. Придётся выкладываться по максимуму!"
+    },
+    "pack02:33292354": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292354",
+      "original": "Hey, you wouldn’t mind if I used your likenesses for some new products, would you? Lydie dumplings and Sue crackers! ...No? I guess not...",
+      "translation": "Эй, вы не против, если я использую ваши образы для новых товаров? Пельмени «Лидия» и крекеры «Сью»! ...Нет? Ну ладно..."
+    },
+    "pack02:33292355": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292355",
+      "original": "I hate when it rains... How much stock have I lost to sudden downpours...?",
+      "translation": "Ненавижу, когда идёт дождь... Сколько товара я потерял из-за внезапных ливней...?"
+    },
+    "pack02:33292356": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292356",
+      "original": "This city is so fascinating. I never get bored here.",
+      "translation": "Этот город такой увлекательный. Здесь мне никогда не скучно."
+    },
+    "pack02:33292357": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292357",
+      "original": "Everyone seems to be so caught up in this atelier ranking craze... Oh, you are too?",
+      "translation": "Все так увлечены этой манией ранжирования ателье... О, и вы тоже?"
+    },
+    "pack02:33292358": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292358",
+      "original": "Alchemy is truly fascinating. It really does excite me.",
+      "translation": "Алхимия по-настоящему завораживает. Она меня и правда волнует."
+    },
+    "pack02:33292359": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292359",
+      "original": "It seems a terrible disaster has befallen Merveille. What will happen to this town...?",
+      "translation": "Похоже, на Мервейль обрушилось ужасное бедствие. Что будет с этим городом...?"
+    },
+    "pack02:33292360": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292360",
+      "original": "It seems disaster has been successfully averted. I am glad to see the smiles back on everyone’s faces.",
+      "translation": "Похоже, бедствие удалось предотвратить. Рада снова видеть улыбки на лицах всех."
+    },
+    "pack02:33292361": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292361",
+      "original": "Soleil Street at this time of day is bustling with activity. I love just strolling down it.",
+      "translation": "Улица Солей в это время дня кипит жизнью. Обожаю просто прогуливаться по ней."
+    },
+    "pack02:33292362": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292362",
+      "original": "...Oh dear, is something the matter? Those glum faces don’t suit the atmosphere of Merveille.",
+      "translation": "...О боже, что-то случилось? Эти мрачные лица не вяжутся с атмосферой Мервейля."
+    },
+    "pack02:33292363": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292363",
+      "original": "When you tire of Merveille, you tire of life itself. I feel sorry for anyone who dislikes this town.",
+      "translation": "Кто устал от Мервейля — тот устал от жизни. Жаль тех, кому этот город не по душе."
+    },
+    "pack02:33292364": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292364",
+      "original": "Merveille takes on a whole new aspect at night. This town has so much depth.",
+      "translation": "Ночью Мервейль предстаёт в совершенно новом свете. У этого города такая глубина."
+    },
+    "pack02:33292365": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292365",
+      "original": "What a fascinating day I had. Would you like to hear about it?",
+      "translation": "Какой увлекательный у меня был день. Хотите послушать?"
+    },
+    "pack02:33292366": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292366",
+      "original": "Alchemy... I would love to give it a try someday...",
+      "translation": "Алхимия... Когда-нибудь очень хотел бы попробовать..."
+    },
+    "pack02:33292367": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292367",
+      "original": "How are we to rid the town of this terrible menace...?",
+      "translation": "Как избавить город от этой ужасной угрозы...?"
+    },
+    "pack02:33292368": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292368",
+      "original": "What was Falgior like? Would you tell me all about him?",
+      "translation": "Каким был Фальгиор? Расскажете мне всё о нём?"
+    },
+    "pack02:33292369": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292369",
+      "original": "I love a town that’s filled with smiles. Hehe, it’s enough to warm even the coldest heart.",
+      "translation": "Люблю город, полный улыбок. Хехе, этого хватает, чтобы согреть даже самое холодное сердце."
+    },
+    "pack02:33292370": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292370",
+      "original": "Please feel free to talk to me if anything unfortunate has happened. I may be of more use than you realize.",
+      "translation": "Если случилось что-то неприятное — обращайтесь. Возможно, я пригожусь больше, чем вы думаете."
+    },
+    "pack02:33292371": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292371",
+      "original": "I just adore the town of Merveille. I’m so glad I was lucky enough to be born here.",
+      "translation": "Я просто обожаю город Мервейль. Так рад, что мне посчастливилось здесь родиться."
+    },
+    "pack02:33292372": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292372",
+      "original": "You two are shining lights, giving Merveille yet another wonderful attraction... Hehe.",
+      "translation": "Вы двое — сияющие огни, дарующие Мервейлю ещё одну чудесную достопримечательность... Хехе."
+    },
+    "pack02:33292373": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292373",
+      "original": "Even in the rain, Merveille’s beauty remains undiminished... Ah-choo!",
+      "translation": "Даже под дождём красота Мервейля не тускнеет... Апчхи!"
+    },
+    "pack02:33292374": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292374",
+      "original": "Uh, umm, I... That is, I want to talk to you about something... You see, I, er... I...",
+      "translation": "Э-э, мм, я... То есть, хочу с вами поговорить... Видите ли, я, э-э... я..."
+    },
+    "pack02:33292375": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292375",
+      "original": "To me, you are... You are... Uh, isn’t the weather nice today!",
+      "translation": "Для меня вы... вы... Э-э, сегодня же хорошая погода!"
+    },
+    "pack02:33292376": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292376",
+      "original": "Hey, you two. Can you use alchemy to make a medicine that allows people to declare their true feelings?",
+      "translation": "Эй, вы двое. Можете с помощью алхимии сделать лекарство, чтобы люди могли выразить свои истинные чувства?"
+    },
+    "pack02:33292377": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292377",
+      "original": "Come what may, I will keep you safe from Falgior!",
+      "translation": "Что бы ни случилось, я защищу вас от Фальгиора!"
+    },
+    "pack02:33292378": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292378",
+      "original": "Life is shorter than you think. I have to seize the day, and ask her to marry me...",
+      "translation": "Жизнь короче, чем кажется. Нужно ловить момент и сделать ей предложение..."
+    },
+    "pack02:33292379": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292379",
+      "original": "Uh, um... I, er, want to ask you something... Will you m-m-m... m...! It’s no good! I can’t do it!",
+      "translation": "Э-э, мм... Я, э-э, хочу кое-что спросить... Выйдете за меня з-з-з... з...! Не получается! Не могу!"
+    },
+    "pack02:33292380": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292380",
+      "original": "I can’t let things end like this without telling her how I feel... I have to... I have to...!",
+      "translation": "Не могу оставить всё так, не сказав ей о своих чувствах... Нужно... нужно...!"
+    },
+    "pack02:33292381": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292381",
+      "original": "Uh, um... I... I want to... I want you to... Aughhh!",
+      "translation": "Э-э, мм... Я... Я хочу... Я хочу, чтобы вы... Аааах!"
+    },
+    "pack02:33292382": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292382",
+      "original": "I want to spend the rest of my life with you. Will you... Will you marry me?!",
+      "translation": "Хочу провести с вами остаток жизни. Выйдете... Выйдете за меня?!"
+    },
+    "pack02:33292383": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292383",
+      "original": "Oh, it’s raining. I’ll have to tell her how I feel another day. It’s better that way!",
+      "translation": "О, идёт дождь. Придётся сказать ей о своих чувствах в другой день. Так даже лучше!"
+    },
+    "pack02:33292384": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292384",
+      "original": "He was like this yesterday too. If he’s worried about something, I wish he’d just talk to me about it...",
+      "translation": "Вчера он был таким же. Если его что-то беспокоит, хотелось бы, чтобы он просто поговорил со мной..."
+    },
+    "pack02:33292385": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292385",
+      "original": "Oh... Why can’t he look me in the eye, instead of staring up at the sky?",
+      "translation": "Ох... Почему он не может посмотреть мне в глаза, а смотрит в небо?"
+    },
+    "pack02:33292386": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292386",
+      "original": "Hey, you there. I don’t suppose you could use your alchemy to...? Never mind. It’s no good relying on other people.",
+      "translation": "Эй, вы. Не могли бы с помощью алхимии...? Ладно, неважно. Нельзя полагаться на других."
+    },
+    "pack02:33292387": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292387",
+      "original": "He may look weak-willed and unreliable, but when push comes to shove he’s a real gentleman!",
+      "translation": "Он может казаться слабовольным и ненадёжным, но в критический момент — настоящий джентльмен!"
+    },
+    "pack02:33292388": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292388",
+      "original": "Thanks to him, I wasn’t afraid of Falgior at all. I just wish we could stay like this forever...",
+      "translation": "Благодаря ему я совсем не боялась Фальгиора. Хотелось бы, чтобы так было всегда..."
+    },
+    "pack02:33292389": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292389",
+      "original": "What is it that he wants to say? Is there something weird about me? Have I got something on my face?",
+      "translation": "Что он хочет сказать? Со мной что-то не так? У меня что, на лице что-то?"
+    },
+    "pack02:33292390": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292390",
+      "original": "No matter what happens, my feelings for him will never change. Never.",
+      "translation": "Что бы ни случилось, мои чувства к нему никогда не изменятся. Никогда."
+    },
+    "pack02:33292391": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292391",
+      "original": "Hmm, maybe I should take the bull by the horns myself... No. I’ll wait just a little longer.",
+      "translation": "Хм, может, взять быка за рога самой... Нет. Подожду ещё немного."
+    },
+    "pack02:33292392": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292392",
+      "original": "Yes! Of course I will! Hehe, this is the happiest day of my life!",
+      "translation": "Да! Конечно, выйду! Хехе, это самый счастливый день в моей жизни!"
+    },
+    "pack02:33292393": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292393",
+      "original": "*Sigh* I bet he’s thinking that because it’s raining, he’ll wait until another day to tell me how he feels. The weather makes no difference...",
+      "translation": "*Вздох* Наверняка он думает, что из-за дождя отложит признание на другой день. Погода-то ни при чём..."
+    },
+    "pack02:33292394": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292394",
+      "original": "Whew, another hard day’s work. I’m a little tired, but I feel good.",
+      "translation": "Фух, ещё один тяжёлый рабочий день. Немного устал, но чувствую себя хорошо."
+    },
+    "pack02:33292395": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292395",
+      "original": "I still have to get things ready for tomorrow. I don’t have time for idle chit-chat.",
+      "translation": "Мне ещё нужно подготовиться к завтрашнему дню. Некогда болтать."
+    },
+    "pack02:33292396": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292396",
+      "original": "I need to get home to bed. I know you must be busy too, but you mustn’t skimp on sleep.",
+      "translation": "Нужно идти спать. Знаю, вы тоже заняты, но нельзя экономить на сне."
+    },
+    "pack02:33292397": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292397",
+      "original": "Tsk, there was hardly any point even working today. That Falgior has a lot to answer for.",
+      "translation": "Тск, сегодня работать было почти бессмысленно. Фальгиору есть за что отвечать."
+    },
+    "pack02:33292398": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292398",
+      "original": "Things are back to normal again. I believe we owe you our gratitude. Thank you!",
+      "translation": "Всё снова в норме. Думаю, мы вам обязаны благодарностью. Спасибо!"
+    },
+    "pack02:33292399": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292399",
+      "original": "I enjoy being busy... Hehe, do you feel the same way?",
+      "translation": "Мне нравится быть занятым... Хехе, вам тоже?"
+    },
+    "pack02:33292400": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292400",
+      "original": "If you’re at a loss, try some of my merchandise. I know you’ll find something useful.",
+      "translation": "Если не знаете, что делать — попробуйте мои товары. Уверен, найдёте что-нибудь полезное."
+    },
+    "pack02:33292401": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292401",
+      "original": "My wares have been selling better than ever recently! Maybe I should go have a drink to celebrate...",
+      "translation": "В последнее время мои товары продаются лучше, чем когда-либо! Может, стоит выпить в честь этого..."
+    },
+    "pack02:33292402": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292402",
+      "original": "Oh, if it isn’t the finest alchemists in the land! Hehe, drop by my store any time! I’ll give you a discount!",
+      "translation": "О, вот и лучшие алхимики в стране! Хехе, заходите в мой магазин когда угодно! Сделаю скидку!"
+    },
+    "pack02:33292403": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s16_mess.xml",
+      "string_no": "33292403",
+      "original": "Tsk, rain... I won’t sell any more today.",
+      "translation": "Тск, дождь... Сегодня больше ничего не продам."
+    }
+  }
+}

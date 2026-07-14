@@ -1,0 +1,820 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_fm_info.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:917505": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917505",
+      "original": "Atelier",
+      "translation": "Ателье"
+    },
+    "pack02:917506": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917506",
+      "original": "Protagonists’ Atelier Basement 2",
+      "translation": "Ателье главных героев, подвал 2"
+    },
+    "pack02:917507": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917507",
+      "original": "Basement",
+      "translation": "Подвал"
+    },
+    "pack02:917508": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917508",
+      "original": "Atelier Borthayre",
+      "translation": "Ателье Бортайр"
+    },
+    "pack02:917509": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917509",
+      "original": "Firis’ Tent",
+      "translation": "Палатка Фирис"
+    },
+    "pack02:917510": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917510",
+      "original": "Ilmeria's Atelier",
+      "translation": "Ателье Ильмерии"
+    },
+    "pack02:917511": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917511",
+      "original": "Alt's Atelier",
+      "translation": "Ателье Альта"
+    },
+    "pack02:917512": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917512",
+      "original": "Weissberg House",
+      "translation": "Дом Вайсберг"
+    },
+    "pack02:917513": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917513",
+      "original": "Castle Entrance Hall",
+      "translation": "Вестибюль замка"
+    },
+    "pack02:917514": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917514",
+      "original": "Church of Vegne",
+      "translation": "Церковь Вегны"
+    },
+    "pack02:917515": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917515",
+      "original": "Smithy",
+      "translation": "Кузница"
+    },
+    "pack02:917516": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917516",
+      "original": "Tailor",
+      "translation": "Портной"
+    },
+    "pack02:917517": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917517",
+      "original": "Gallery",
+      "translation": "Галерея"
+    },
+    "pack02:917518": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917518",
+      "original": "Sea-view Hill",
+      "translation": "Холм с видом на море"
+    },
+    "pack02:917519": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917519",
+      "original": "Lune Street",
+      "translation": "Улица Лун"
+    },
+    "pack02:917520": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917520",
+      "original": "Soleil Street",
+      "translation": "Улица Солей"
+    },
+    "pack02:917521": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917521",
+      "original": "Garden of Merk",
+      "translation": "Сад Мерка"
+    },
+    "pack02:917522": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917522",
+      "original": "Castle Plaza",
+      "translation": "Замковая площадь"
+    },
+    "pack02:917523": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917523",
+      "original": "Chasm in the Heart",
+      "translation": "Пропасть в сердце"
+    },
+    "pack02:917524": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917524",
+      "original": "Fond Memories",
+      "translation": "приятные воспоминания"
+    },
+    "pack02:917525": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917525",
+      "original": "Flower Garden of Felicitation",
+      "translation": "Цветочный сад поздравлений"
+    },
+    "pack02:917526": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917526",
+      "original": "The Most Important Place",
+      "translation": "Самое важное место"
+    },
+    "pack02:917527": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917527",
+      "original": "Eerie Trail",
+      "translation": "Жуткая тропа"
+    },
+    "pack02:917528": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917528",
+      "original": "Whispering Marsh",
+      "translation": "Шепчущий Марш"
+    },
+    "pack02:917529": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917529",
+      "original": "Fearsome Graveyard",
+      "translation": "Грозное кладбище"
+    },
+    "pack02:917530": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917530",
+      "original": "Land of Heavenly Benediction",
+      "translation": "Земля Небесного Благословения"
+    },
+    "pack02:917531": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917531",
+      "original": "Land of Earthly Splendor",
+      "translation": "Земля земного великолепия"
+    },
+    "pack02:917532": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917532",
+      "original": "Land of Celestial Prayer",
+      "translation": "Земля Небесной Молитвы"
+    },
+    "pack02:917533": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917533",
+      "original": "Glacial Labyrinth",
+      "translation": "Ледниковый лабиринт"
+    },
+    "pack02:917534": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917534",
+      "original": "Ice Spike Cavern",
+      "translation": "Пещера Ледяного Шипа"
+    },
+    "pack02:917535": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917535",
+      "original": "Ice Dragon’s Chamber",
+      "translation": "Палата Ледяного Дракона"
+    },
+    "pack02:917536": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917536",
+      "original": "Rugotto Village",
+      "translation": "Деревня Руготто"
+    },
+    "pack02:917537": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917537",
+      "original": "Alvaria Way",
+      "translation": "Альвария Путь"
+    },
+    "pack02:917538": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917538",
+      "original": "Merimer Depths",
+      "translation": "Меримерские глубины"
+    },
+    "pack02:917539": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917539",
+      "original": "Pirates’ Seabed",
+      "translation": "Пиратское морское дно"
+    },
+    "pack02:917540": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917540",
+      "original": "Pirates’ Cove",
+      "translation": "Пиратская бухта"
+    },
+    "pack02:917541": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917541",
+      "original": "First Treasure Vault",
+      "translation": "Первое хранилище сокровищ"
+    },
+    "pack02:917542": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917542",
+      "original": "Second Treasure Vault",
+      "translation": "Второе хранилище сокровищ"
+    },
+    "pack02:917543": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917543",
+      "original": "Final Treasure Vault",
+      "translation": "Последнее хранилище сокровищ"
+    },
+    "pack02:917544": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917544",
+      "original": "Thin Ice Foyer",
+      "translation": "Тонкое ледяное фойе"
+    },
+    "pack02:917545": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917545",
+      "original": "Frozen Hall",
+      "translation": "Ледяной зал"
+    },
+    "pack02:917546": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917546",
+      "original": "Lonely Dining Room",
+      "translation": "Одинокая столовая"
+    },
+    "pack02:917547": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917547",
+      "original": "Tranquil Library",
+      "translation": "Спокойная библиотека"
+    },
+    "pack02:917548": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917548",
+      "original": "Neige's Atelier",
+      "translation": "Ателье Нейдж"
+    },
+    "pack02:917549": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917549",
+      "original": "La Terre d’Hier",
+      "translation": "Ла Терр д’Иер"
+    },
+    "pack02:917550": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917550",
+      "original": "La Terre du Passé",
+      "translation": "Ла Терр дю Пассе"
+    },
+    "pack02:917551": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917551",
+      "original": "La Terre de l’Origine",
+      "translation": "Земля происхождения"
+    },
+    "pack02:917552": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917552",
+      "original": "Karmic Haunt",
+      "translation": "Кармическое привидение"
+    },
+    "pack02:917553": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917553",
+      "original": "Crossroads of Loathing",
+      "translation": "Перекресток ненависти"
+    },
+    "pack02:917554": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917554",
+      "original": "Town of Shattered Dreams",
+      "translation": "Город разбитых мечтаний"
+    },
+    "pack02:917555": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917555",
+      "original": "Place of Inevitable Death",
+      "translation": "Место неизбежной смерти"
+    },
+    "pack02:917556": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917556",
+      "original": "Destination of Eternal Damnation",
+      "translation": "Пункт назначения вечного проклятия"
+    },
+    "pack02:917557": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917557",
+      "original": "Crimson Paradise",
+      "translation": "Багровый рай"
+    },
+    "pack02:917558": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917558",
+      "original": "Land of Flowing Tears",
+      "translation": "Страна льющихся слез"
+    },
+    "pack02:917559": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917559",
+      "original": "Path of Resolution",
+      "translation": "Путь разрешения"
+    },
+    "pack02:917560": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917560",
+      "original": "Rigrein Farm",
+      "translation": "Ферма Ригрейн"
+    },
+    "pack02:917561": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917561",
+      "original": "Dawn Realm",
+      "translation": "Царство рассвета"
+    },
+    "pack02:917562": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917562",
+      "original": "North Gurm Swamp",
+      "translation": "Болото Северного Гурма"
+    },
+    "pack02:917563": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917563",
+      "original": "South Adis Woodland Path",
+      "translation": "Лесная тропа Южного Адиса"
+    },
+    "pack02:917564": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917564",
+      "original": "Nearby Forest",
+      "translation": "Ближний лес"
+    },
+    "pack02:917565": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917565",
+      "original": "Lightning Wasteland",
+      "translation": "Молниеносная пустошь"
+    },
+    "pack02:917566": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917566",
+      "original": "Scorched Cave",
+      "translation": "Выжженная пещера"
+    },
+    "pack02:917567": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917567",
+      "original": "Fated Foothills",
+      "translation": "Обреченные предгорья"
+    },
+    "pack02:917568": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917568",
+      "original": "Eternal Peak",
+      "translation": "Вечный пик"
+    },
+    "pack02:917569": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917569",
+      "original": "Heavenly Flower Garden Battle",
+      "translation": "Битва в Небесном цветочном саду"
+    },
+    "pack02:917570": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917570",
+      "original": "Spooky Forest Battle",
+      "translation": "Жуткая лесная битва"
+    },
+    "pack02:917571": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917571",
+      "original": "Starlight Plain Battle",
+      "translation": "Звездная битва на равнине"
+    },
+    "pack02:917572": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917572",
+      "original": "Luminous Ice Grotto Battle",
+      "translation": "Битва в светящемся ледяном гроте"
+    },
+    "pack02:917573": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917573",
+      "original": "Great Cascades of Anfel Battle",
+      "translation": "Великие каскады битвы при Анфеле"
+    },
+    "pack02:917574": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917574",
+      "original": "Treasury at the Sea Bottom Battle",
+      "translation": "Сокровищница в битве на морском дне"
+    },
+    "pack02:917575": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917575",
+      "original": "Frozen Palace Battle",
+      "translation": "Битва за Ледяным Дворцом"
+    },
+    "pack02:917576": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917576",
+      "original": "Etel Nepica Battle",
+      "translation": "Этель Непика Битва"
+    },
+    "pack02:917577": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917577",
+      "original": "Black Horizon Battle",
+      "translation": "Битва Черного Горизонта"
+    },
+    "pack02:917578": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917578",
+      "original": "Domain of Despair Battle",
+      "translation": "Битва Доменов Отчаяния"
+    },
+    "pack02:917579": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917579",
+      "original": "Plains Battle",
+      "translation": "Равнинная битва"
+    },
+    "pack02:917580": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917580",
+      "original": "Forest Battle",
+      "translation": "Лесная битва"
+    },
+    "pack02:917581": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917581",
+      "original": "Wilderness Battle",
+      "translation": "Битва в пустыне"
+    },
+    "pack02:917582": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917582",
+      "original": "Mountain Battle",
+      "translation": "Горная битва"
+    },
+    "pack02:917583": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917583",
+      "original": "Alt’s Event Map",
+      "translation": "Карта событий Альт"
+    },
+    "pack02:917584": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917584",
+      "original": "The Treasury at the Sea Bottom (Underwater)",
+      "translation": "Сокровищница на морском дне (под водой)"
+    },
+    "pack02:917585": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917585",
+      "original": "Atelier (Heavenly Flower Garden)",
+      "translation": "Ателье (Небесный Цветник)"
+    },
+    "pack02:917586": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917586",
+      "original": "Basement (Heavenly Flower Garden)",
+      "translation": "Подвал (Небесный цветник)"
+    },
+    "pack02:917587": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917587",
+      "original": "Event Spare",
+      "translation": "Запасное мероприятие"
+    },
+    "pack02:917588": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917588",
+      "original": "Journey Atelier (α)",
+      "translation": "Ателье «Путешествие» (α)"
+    },
+    "pack02:917589": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917589",
+      "original": "Journey Forest (α)",
+      "translation": "Путешествие по лесу (α)"
+    },
+    "pack02:917590": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917590",
+      "original": "Journey Battle - Field, Forest (Test)",
+      "translation": "Путешествие Битва - Поле, Лес (Тест)"
+    },
+    "pack02:917591": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917591",
+      "original": "Outskirts Map",
+      "translation": "Карта окрестностей"
+    },
+    "pack02:917592": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917592",
+      "original": "Heavenly Flower Garden",
+      "translation": "Небесный цветочный сад"
+    },
+    "pack02:917593": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917593",
+      "original": "The Spooky Forest",
+      "translation": "Жуткий лес"
+    },
+    "pack02:917594": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917594",
+      "original": "Starlight Plain",
+      "translation": "Звёздная равнина"
+    },
+    "pack02:917595": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917595",
+      "original": "The Luminous Ice Grotto",
+      "translation": "Светящийся ледяной грот"
+    },
+    "pack02:917596": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917596",
+      "original": "The Great Cascades of Anfel",
+      "translation": "Великие каскады Анфела"
+    },
+    "pack02:917597": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917597",
+      "original": "The Treasury at the Sea Bottom",
+      "translation": "Сокровищница на дне моря"
+    },
+    "pack02:917598": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917598",
+      "original": "The Frozen Palace",
+      "translation": "Замёрзший дворец"
+    },
+    "pack02:917599": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917599",
+      "original": "Etel Nepica",
+      "translation": "Этель Непика"
+    },
+    "pack02:917600": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917600",
+      "original": "The Black Horizon",
+      "translation": "Чёрный горизонт"
+    },
+    "pack02:917601": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917601",
+      "original": "Domain of Despair",
+      "translation": "Владения отчаяния"
+    },
+    "pack02:917602": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917602",
+      "original": "Lotus Blossom Pond",
+      "translation": "Пруд лотосов"
+    },
+    "pack02:917603": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917603",
+      "original": "Ventus Mines",
+      "translation": "Шахты Вентуса"
+    },
+    "pack02:917604": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917604",
+      "original": "Church Front Plaza",
+      "translation": "Церковная передняя площадь"
+    },
+    "pack02:917605": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917605",
+      "original": "Drawbridge",
+      "translation": "Разводной мост"
+    },
+    "pack02:917606": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917606",
+      "original": "Slope of Joy and Fear",
+      "translation": "Склон радости и страха"
+    },
+    "pack02:917607": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917607",
+      "original": "Hollow of Fear and Sorrow",
+      "translation": "Лощина страха и печали"
+    },
+    "pack02:917608": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917608",
+      "original": "Peaceful Garden",
+      "translation": "Тихий сад"
+    },
+    "pack02:917609": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917609",
+      "original": "Claudel Prairie",
+      "translation": "Клодельская равнина"
+    },
+    "pack02:917618": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917618",
+      "original": "Nightless Ruined City",
+      "translation": "Разрушенный город без ночи"
+    },
+    "pack02:917619": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917619",
+      "original": "Church Front Plaza",
+      "translation": "Церковная передняя площадь"
+    },
+    "pack02:917620": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917620",
+      "original": "Drawbridge",
+      "translation": "Разводной мост"
+    },
+    "pack02:917621": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917621",
+      "original": "Slope of Joy and Fear",
+      "translation": "Склон радости и страха"
+    },
+    "pack02:917622": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917622",
+      "original": "Hollow of Fear and Sorrow",
+      "translation": "Лощина страха и печали"
+    },
+    "pack02:917623": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917623",
+      "original": "Peaceful Garden",
+      "translation": "Тихий сад"
+    },
+    "pack02:917624": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917624",
+      "original": "Blue Sentiment Land",
+      "translation": "Земля синих чувств"
+    },
+    "pack02:917625": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917625",
+      "original": "Neuboden District",
+      "translation": "Нойбоденский район"
+    },
+    "pack02:917626": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917626",
+      "original": "Granzweit Tree",
+      "translation": "Дерево Гранцвейта"
+    },
+    "pack02:917627": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917627",
+      "original": "Farm Outside Town",
+      "translation": "Ферма за городом"
+    },
+    "pack02:917628": {
+      "source": "pack02_text_en",
+      "file": "str_fm_info.xml",
+      "string_no": "917628",
+      "original": "Land of Rich Encounters",
+      "translation": "Земля богатых встреч"
+    }
+  }
+}

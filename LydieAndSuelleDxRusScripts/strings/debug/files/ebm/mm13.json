@@ -1,0 +1,1056 @@
+{
+  "version": 1,
+  "source": "pack01_ebm",
+  "block": "mm13",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "ebm:mm13/event_message_mm13_010.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_010.ebm",
+      "index": 0,
+      "speaker": "Roger",
+      "original": "Hey, Honnete. I know it's been a while. I'm just so busy with work.",
+      "translation": "Привет, Оннет. Я знаю, что прошло много времени. Я просто так занят работой."
+    },
+    "ebm:mm13/event_message_mm13_010.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_010.ebm",
+      "index": 1,
+      "speaker": "Roger",
+      "original": "Running the greatest atelier in the kingdom isn't easy. It's brought in loads of customers...",
+      "translation": "Управлять лучшим ателье королевства непросто. Это привело к множеству клиентов..."
+    },
+    "ebm:mm13/event_message_mm13_010.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_010.ebm",
+      "index": 2,
+      "speaker": "Roger",
+      "original": "The girls are working so hard. Desperate to keep their promise to you.",
+      "translation": "Девочки очень стараются. Отчаявшись сдержать данное вам обещание."
+    },
+    "ebm:mm13/event_message_mm13_010.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_010.ebm",
+      "index": 3,
+      "speaker": "Roger",
+      "original": "Alchemists for everyone... I know they can do it.",
+      "translation": "Алхимики для всех... Я знаю, что они смогут это сделать."
+    },
+    "ebm:mm13/event_message_mm13_010.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_010.ebm",
+      "index": 4,
+      "speaker": "Honnete",
+      "original": "Lydie and Suelle have finally fulfilled their long dream<CR>of running the best atelier in the kingdom.",
+      "translation": "Лиди и Сюэль наконец-то осуществили свою давнюю мечту<CR> — открыть лучшее ателье в королевстве."
+    },
+    "ebm:mm13/event_message_mm13_010.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_010.ebm",
+      "index": 5,
+      "speaker": "Honnete",
+      "original": "Many people visit their atelier now everyday,<CR>because they might just be the most famous alchemists in the country.",
+      "translation": "Многие люди теперь посещают их ателье каждый день,<CR>потому что они могут быть самыми известными алхимиками в стране."
+    },
+    "ebm:mm13/event_message_mm13_010.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_010.ebm",
+      "index": 6,
+      "speaker": "Honnete",
+      "original": "Even becoming increasingly busy,<CR>the twins strive to do their very best work.",
+      "translation": "Даже будучи очень занятыми, <CR> близнецы стараются делать свою работу как можно лучше."
+    },
+    "ebm:mm13/event_message_mm13_010.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_010.ebm",
+      "index": 7,
+      "speaker": "Honnete",
+      "original": "Their mother is gone, but their new promise supports them from within -<CR>they are going to use their alchemy to bring happiness to everyone.",
+      "translation": "Их матери больше нет, но новое обещание поддерживает их изнутри — <CR> они собираются использовать свою алхимию, чтобы принести счастье всем."
+    },
+    "ebm:mm13/event_message_mm13_010.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_010.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Sue, we've got another order! Ice Bombs, 200, for tomorrow!",
+      "translation": "Сью, у нас еще один заказ! Ледяные бомбы, 200 штук, на завтра!"
+    },
+    "ebm:mm13/event_message_mm13_010.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_010.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "What?! We can't make those, just the two of us! Dad!",
+      "translation": "Что?! Мы не сможем сделать это, только мы вдвоем! Папа!"
+    },
+    "ebm:mm13/event_message_mm13_010.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_010.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "I haven't seen him for a while. Has he run off again?",
+      "translation": "Я не видел его какое-то время. Он снова сбежал?"
+    },
+    "ebm:mm13/event_message_mm13_010.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_010.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "I bet he has! Dummy-daddy! Gah, complaining won't make us any more bombs!",
+      "translation": "Могу поспорить, что он есть! Дурак-папа! Ох, жалобы больше не сделают нас бомбами!"
+    },
+    "ebm:mm13/event_message_mm13_010.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_010.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "Lydie, you take half of them! I'll come help as soon as I'm done here!",
+      "translation": "Лиди, ты возьми половину из них! Я приду на помощь, как только закончу здесь!"
+    },
+    "ebm:mm13/event_message_mm13_010.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_010.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "I've got this! Time to go into top gear!",
+      "translation": "У меня есть это! Пора включить высшую передачу!"
+    },
+    "ebm:mm13/event_message_mm13_010.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_010.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "Me too! Let's do the thing, or we won't get through this! 1, 2, 3!",
+      "translation": "Я тоже! Давайте сделаем это, иначе мы не справимся! 1, 2, 3!"
+    },
+    "ebm:mm13/event_message_mm13_010.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_010.ebm",
+      "index": 15,
+      "speaker": "Together",
+      "original": "To make everyone happy!",
+      "translation": "Чтобы все были счастливы!"
+    },
+    "ebm:mm13/event_message_mm13_010.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_010.ebm",
+      "index": 16,
+      "speaker": "System",
+      "original": "To make everyone happy!",
+      "translation": "Чтобы все были счастливы!"
+    },
+    "ebm:mm13/event_message_mm13_020.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_020.ebm",
+      "index": 0,
+      "speaker": "Roger",
+      "original": "Hey, Honnete. It's been a while. I got a letter from the two of them on their travels.",
+      "translation": "Привет, Оннет. Прошло много времени. Я получил письмо от них двоих во время их путешествия."
+    },
+    "ebm:mm13/event_message_mm13_020.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_020.ebm",
+      "index": 1,
+      "speaker": "Roger",
+      "original": "They are far in the south at the moment. I'm just happy they're doing so well.",
+      "translation": "Они сейчас далеко на юге. Я просто рад, что у них все так хорошо."
+    },
+    "ebm:mm13/event_message_mm13_020.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_020.ebm",
+      "index": 2,
+      "speaker": "Roger",
+      "original": "After becoming the greatest in the kingdom, now it's the greatest in the world! Bold, girls, bold!",
+      "translation": "Став величайшим в королевстве, теперь он величайший в мире! Смелее, девочки, смелее!"
+    },
+    "ebm:mm13/event_message_mm13_020.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_020.ebm",
+      "index": 3,
+      "speaker": "Roger",
+      "original": "All to keep their promise to you, I'm sure. So let's support them both together!",
+      "translation": "Я уверен, все для того, чтобы сдержать данное вам обещание. Так давайте поддержим их обоих вместе!"
+    },
+    "ebm:mm13/event_message_mm13_020.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_020.ebm",
+      "index": 4,
+      "speaker": "Roger",
+      "original": "Their dream to become alchemists for all!",
+      "translation": "Их мечта стать алхимиками для всех!"
+    },
+    "ebm:mm13/event_message_mm13_020.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_020.ebm",
+      "index": 5,
+      "speaker": "Honnete",
+      "original": "Lydie and Suelle have finally fulfilled their long dream<CR>of running the best atelier in the kingdom.",
+      "translation": "Лиди и Сюэль наконец-то осуществили свою давнюю мечту<CR> — открыть лучшее ателье в королевстве."
+    },
+    "ebm:mm13/event_message_mm13_020.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_020.ebm",
+      "index": 6,
+      "speaker": "Honnete",
+      "original": "Now, it's time to aim even higher - <CR>to make their atelier the best one in the world!",
+      "translation": "Теперь пришло время поставить еще более высокую цель — <CR> сделать свое ателье лучшим в мире!"
+    },
+    "ebm:mm13/event_message_mm13_020.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_020.ebm",
+      "index": 7,
+      "speaker": "Honnete",
+      "original": "They will run the best atelier in the world,<CR>and use it to make the world a happier place.",
+      "translation": "Они будут управлять лучшим ателье в мире <CR> и использовать его, чтобы сделать мир счастливее."
+    },
+    "ebm:mm13/event_message_mm13_020.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_020.ebm",
+      "index": 8,
+      "speaker": "Honnete",
+      "original": "These were their words, on the day when the twins finally left their nest.<CR>What kind of story will they paint in the wide-wide world outside?...",
+      "translation": "Это были их слова в тот день, когда близнецы наконец покинули свое гнездо.<CR>Какую историю они нарисуют в огромном внешнем мире?..."
+    },
+    "ebm:mm13/event_message_mm13_020.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_020.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "Hmm. Do we defeat the monsters near the village first, or deliver the cloth to the merchant?",
+      "translation": "Хм. Победим ли мы сначала монстров возле деревни или доставим ткань торговцу?"
+    },
+    "ebm:mm13/event_message_mm13_020.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_020.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "We need to deliver that medicine, too. Can't forget about that!",
+      "translation": "Нам тоже нужно доставить это лекарство. Нельзя об этом забывать!"
+    },
+    "ebm:mm13/event_message_mm13_020.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_020.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "We've just got so much to do. What can we do?",
+      "translation": "У нас просто так много дел. Что мы можем сделать?"
+    },
+    "ebm:mm13/event_message_mm13_020.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_020.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "What do you think? Do them all, of course! What else is there to do?",
+      "translation": "Что вы думаете? Конечно, сделайте все! Что еще делать?"
+    },
+    "ebm:mm13/event_message_mm13_020.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_020.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "Yeah, I mean, I know that. Whatever it takes to make everyone happy, I'll do it.",
+      "translation": "Да, я имею в виду, я это знаю. Я сделаю все, что нужно, чтобы сделать всех счастливыми."
+    },
+    "ebm:mm13/event_message_mm13_020.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_020.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "Hahaha, me too. So let's just handle these one at a time.",
+      "translation": "Ха-ха-ха, я тоже. Итак, давайте разберемся с ними по одному."
+    },
+    "ebm:mm13/event_message_mm13_020.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_020.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "Good call. There's still a long way to go, so we need to take it slow and steady. Ah!",
+      "translation": "Хороший звонок. Нам предстоит пройти еще долгий путь, поэтому нам нужно идти медленно и уверенно. Ах!"
+    },
+    "ebm:mm13/event_message_mm13_020.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_020.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "Aaaaah! We forgot to deliver the bomb to the mayor!",
+      "translation": "Ааааа! Мы забыли доставить бомбу мэру!"
+    },
+    "ebm:mm13/event_message_mm13_020.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_020.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "Right. Let's split up. I'll go back to the town, and you handle the stuff around here!",
+      "translation": "Верно. Давай разделимся. Я вернусь в город, а ты разберись со всем здесь!"
+    },
+    "ebm:mm13/event_message_mm13_020.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_020.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "Sure thing. Sorry, Sue.",
+      "translation": "Конечно. Прости, Сью."
+    },
+    "ebm:mm13/event_message_mm13_020.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_020.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "No need to apologize. We're doing this for everyone, right!",
+      "translation": "Не нужно извиняться. Мы делаем это для всех, верно!"
+    },
+    "ebm:mm13/event_message_mm13_020.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_020.ebm",
+      "index": 20,
+      "speaker": "Lydie",
+      "original": "Yes, right! We can do this!",
+      "translation": "Да, верно! Мы можем это сделать!"
+    },
+    "ebm:mm13/event_message_mm13_020.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_020.ebm",
+      "index": 21,
+      "speaker": "Together",
+      "original": "To make everyone happy!",
+      "translation": "Чтобы все были счастливы!"
+    },
+    "ebm:mm13/event_message_mm13_020.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_020.ebm",
+      "index": 22,
+      "speaker": "System",
+      "original": "To make everyone happy!",
+      "translation": "Чтобы все были счастливы!"
+    },
+    "ebm:mm13/event_message_mm13_030.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_030.ebm",
+      "index": 0,
+      "speaker": "Honnete",
+      "original": "To become the alchemists who can help everyone,<CR>Lydie and Sue have decided that they will need a bigger atelier to do it.",
+      "translation": "Чтобы стать алхимиками, способными помочь каждому,<CR>Лиди и Сью решили, что для этого им понадобится более крупная мастерская."
+    },
+    "ebm:mm13/event_message_mm13_030.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_030.ebm",
+      "index": 1,
+      "speaker": "Honnete",
+      "original": "All the effort they have spent to frantically gather the money<CR>needed to open it was worth it in the end. The atelier thrives​!",
+      "translation": "Все усилия, которые они потратили, чтобы лихорадочно собрать деньги<CR>, необходимые для открытия, в конце концов того стоили. Ателье процветает!"
+    },
+    "ebm:mm13/event_message_mm13_030.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_030.ebm",
+      "index": 2,
+      "speaker": "Honnete",
+      "original": "And, with Suelle's newly discovered talent for business,<CR>their enterprise will only continue to grow.",
+      "translation": "А благодаря недавно обнаруженному у Сюэль таланту к бизнесу,<CR>их предприятие будет только продолжать расти."
+    },
+    "ebm:mm13/event_message_mm13_030.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_030.ebm",
+      "index": 3,
+      "speaker": "Honnete",
+      "original": "Today again, many clients are gathering<CR>to wait for the opening time of their new grand atelier.",
+      "translation": "Сегодня снова множество клиентов собираются<CR>, чтобы дождаться открытия своего нового гранд-ателье."
+    },
+    "ebm:mm13/event_message_mm13_030.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_030.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Hey, stop pushing! Stop pushing!",
+      "translation": "Эй, хватит давить! Перестаньте давить!"
+    },
+    "ebm:mm13/event_message_mm13_030.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_030.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "We've got plenty of stock today. Please, form a queue!",
+      "translation": "У нас сегодня много запасов. Пожалуйста, встаньте в очередь!"
+    },
+    "ebm:mm13/event_message_mm13_030.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_030.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "Hmm. Taking current sales into account, next we will need... this and this.",
+      "translation": "Хм. Учитывая текущие продажи, дальше нам понадобится… то и это."
+    },
+    "ebm:mm13/event_message_mm13_030.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_030.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Lydie. Do you have the materials to make more? If not, we'll need a new contract, quickly.",
+      "translation": "Лиди. Есть ли у вас материалы, чтобы сделать больше? Если нет, нам срочно понадобится новый контракт."
+    },
+    "ebm:mm13/event_message_mm13_030.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_030.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "I don't think we've got enough. Leave it to me, then, I'll get them sorted!",
+      "translation": "Я не думаю, что нам хватит. Предоставьте это мне, тогда я разберусь с ними!"
+    },
+    "ebm:mm13/event_message_mm13_030.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_030.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Okay. Next, I need to go and check on our branch on Soleil Street.",
+      "translation": "Хорошо. Далее мне нужно пойти и проверить наш филиал на Улице Солей."
+    },
+    "ebm:mm13/event_message_mm13_030.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_030.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Hahaha, you're so busy! Are you sure you're not pushing yourself too hard?",
+      "translation": "Ха-ха-ха, ты так занят! Вы уверены, что не слишком напрягаете себя?"
+    },
+    "ebm:mm13/event_message_mm13_030.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_030.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "I'm fine. This is all so we can make even more money, you'll see!",
+      "translation": "Я в порядке. Это все для того, чтобы мы могли заработать еще больше денег, вот увидите!"
+    },
+    "ebm:mm13/event_message_mm13_030.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_030.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "Make more money, and open more shops. That's how we can help the most people!",
+      "translation": "Зарабатывайте больше денег и открывайте больше магазинов. Именно так мы можем помочь большинству людей!"
+    },
+    "ebm:mm13/event_message_mm13_030.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_030.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "As the beautiful president in charge of all this, I can't stop now!",
+      "translation": "Как прекрасный президент, отвечающий за все это, я не могу сейчас остановиться!"
+    },
+    "ebm:mm13/event_message_mm13_030.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_030.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "Hahaha, all very well. But we've sold out again!",
+      "translation": "Ха-ха-ха, все очень хорошо. Но мы снова распродали билеты!"
+    },
+    "ebm:mm13/event_message_mm13_030.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_030.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "What? After all those we made? C-Change of plans, Lydie! Start making more, right now!",
+      "translation": "Что? После всего того, что мы сделали? П-изменение планов, Лиди! Начните зарабатывать больше прямо сейчас!"
+    },
+    "ebm:mm13/event_message_mm13_030.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_030.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "OK! Hahaha. Making money isn't easy, is it!",
+      "translation": "ХОРОШО! Ха-ха-ха. Зарабатывать деньги непросто, не так ли!"
+    },
+    "ebm:mm13/event_message_mm13_040.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_040.ebm",
+      "index": 0,
+      "speaker": "Honnete",
+      "original": "To become the alchemists who can help everyone,<CR>Lydie and Sue have decided to focus on the existence of the Mysterious Paintings.",
+      "translation": "Чтобы стать алхимиками, способными помочь каждому,<CR>Лиди и Сью решили сосредоточиться на существовании Таинственных картин."
+    },
+    "ebm:mm13/event_message_mm13_040.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_040.ebm",
+      "index": 1,
+      "speaker": "Honnete",
+      "original": "With the goal to paint Mysterious Paintings that will help everyone,<CR>Lydie and Sue begun their hard training.",
+      "translation": "С целью нарисовать загадочные картины, которые помогут всем,<CR>Лиди и Сью начали упорные тренировки."
+    },
+    "ebm:mm13/event_message_mm13_040.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_040.ebm",
+      "index": 2,
+      "speaker": "Honnete",
+      "original": "With the help from their father, Roger, eventually<CR>they really managed to create the first Mysterious Painting of their own.",
+      "translation": "С помощью своего отца, Роджера, в конце концов<CR> им действительно удалось создать первую собственную Таинственную картину."
+    },
+    "ebm:mm13/event_message_mm13_040.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_040.ebm",
+      "index": 3,
+      "speaker": "Honnete",
+      "original": "Very soon, the whole world was buzzing with their names,<CR>and the twins became known everywhere as the \"Mysterious Painters.\"",
+      "translation": "Очень скоро весь мир загудел от их имен,<CR>и близнецы стали повсюду известны как «Таинственные художники»."
+    },
+    "ebm:mm13/event_message_mm13_040.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_040.ebm",
+      "index": 4,
+      "speaker": "Journalist",
+      "original": "Madam Sue. What is the theme of your next Mysterious Painting?",
+      "translation": "Госпожа Сью. Какова тема вашей следующей «Таинственной картины»?"
+    },
+    "ebm:mm13/event_message_mm13_040.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_040.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Are you ready for this? I call it \"Romance & Violence\"!",
+      "translation": "Вы готовы к этому? Я называю это «Романтика и насилие»!"
+    },
+    "ebm:mm13/event_message_mm13_040.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_040.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "The perfect world for a young woman seeking both some romance and some stimulation!",
+      "translation": "Идеальный мир для молодой женщины, которая ищет романтики и стимуляции!"
+    },
+    "ebm:mm13/event_message_mm13_040.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_040.ebm",
+      "index": 7,
+      "speaker": "Journalist",
+      "original": "I see, I see. And what about you, Madam Lydie?",
+      "translation": "Я вижу, я вижу. А как насчет вас, мадам Лиди?"
+    },
+    "ebm:mm13/event_message_mm13_040.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_040.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Me? Well, my next theme will be... \"March of the Rabbits\"!",
+      "translation": "Мне? Что ж, моей следующей темой будет... «Марш кроликов»!"
+    },
+    "ebm:mm13/event_message_mm13_040.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_040.ebm",
+      "index": 9,
+      "speaker": "Journalist",
+      "original": "Excuse me?",
+      "translation": "Прошу прощения?"
+    },
+    "ebm:mm13/event_message_mm13_040.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_040.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "My next theme is March of the Rabbits! I think a horde of bunnies would be quite soothing.",
+      "translation": "Моя следующая тема — «Марш кроликов»! Я думаю, что стая кроликов будет очень успокаивать."
+    },
+    "ebm:mm13/event_message_mm13_040.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_040.ebm",
+      "index": 11,
+      "speaker": "Journalist",
+      "original": "S-Sure, maybe you have a point. Thank you. How about a message for all your fans?",
+      "translation": "Н-конечно, возможно, ты прав. Спасибо. Как насчет послания всем твоим поклонникам?"
+    },
+    "ebm:mm13/event_message_mm13_040.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_040.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "No problem! I'm going to paint something you'll love again, don't worry about that!",
+      "translation": "Без проблем! Я снова нарисую то, что вам понравится, не волнуйтесь об этом!"
+    },
+    "ebm:mm13/event_message_mm13_040.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_040.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "M-Me too. We do this to bring joy and happiness to you all!",
+      "translation": "М-я тоже. Мы делаем это, чтобы принести всем вам радость и счастье!"
+    },
+    "ebm:mm13/event_message_mm13_040.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_040.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "I just hope our paintings can make you all happy. That's what we want, more than anything.",
+      "translation": "Я просто надеюсь, что наши картины сделают вас всех счастливыми. Это то, чего мы хотим, больше всего на свете."
+    },
+    "ebm:mm13/event_message_mm13_040.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_040.ebm",
+      "index": 15,
+      "speaker": "Journalist",
+      "original": "Thank you. We will be looking forward to you next work.",
+      "translation": "Спасибо. Будем ждать Вас в следующих работах."
+    },
+    "ebm:mm13/event_message_mm13_040.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_040.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "You can count on us! Right, Lydie?",
+      "translation": "Вы можете рассчитывать на нас! Верно, Лиди?"
+    },
+    "ebm:mm13/event_message_mm13_040.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_040.ebm",
+      "index": 17,
+      "speaker": "Lydie",
+      "original": "That's right! Please look forward to our next Mysterious Paintings!",
+      "translation": "Это верно! Пожалуйста, с нетерпением ждите наших следующих загадочных картин!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Hey, Sue! Are you ready yet?",
+      "translation": "Привет, Сью! Вы уже готовы?"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Hold on, just a little longer! I'm almost done... I think!",
+      "translation": "Подожди, еще немного! Я почти закончил... Думаю!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "If we don't hurry up, Sophie will get here! Then I'll have to leave you behind, Sue!",
+      "translation": "Если мы не поторопимся, Софи приедет! Тогда мне придется оставить тебя, Сью!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "No, no! I don't want that! I'm hurrying, OK!",
+      "translation": "Нет, нет! Я не хочу этого! Я спешу, ок!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 4,
+      "speaker": "Roger",
+      "original": "I can't believe them. All this noise, right up to the moment they leave!",
+      "translation": "Я не могу им поверить. Весь этот шум, вплоть до того момента, как они уйдут!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 5,
+      "speaker": "Honnete",
+      "original": "Hehe. It's just like them. I'd be worried if this went any other way.",
+      "translation": "Хе-хе. Это так же, как они. Я бы забеспокоился, если бы все пошло по-другому."
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 6,
+      "speaker": "Roger",
+      "original": "Yes, good point. Honnete, are you sad?",
+      "translation": "Да, хороший момент. Оннет, тебе грустно?"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 7,
+      "speaker": "Honnete",
+      "original": "No, not at all.",
+      "translation": "Нет, совсем нет."
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 8,
+      "speaker": "Honnete",
+      "original": "They've grown up, and now they are leaving the nest. So we'll see them off with a smile.",
+      "translation": "Они подросли и теперь покидают гнездо. Так что мы провожаем их с улыбкой."
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 9,
+      "speaker": "Roger",
+      "original": "Yes, well said.",
+      "translation": "Да, хорошо сказано."
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 10,
+      "speaker": "Sophie",
+      "original": "Lydie, Sue!",
+      "translation": "Лиди, Сью!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 11,
+      "speaker": "Firis",
+      "original": "Are you ready to do? We're leaving!",
+      "translation": "Вы готовы сделать? Мы уходим!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "Right, I'm ready! Let's go!",
+      "translation": "Хорошо, я готов! Пойдем!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "Well then. Dad, Mom. We'll be seeing you.",
+      "translation": "Ну что ж. Папа, мама. Мы увидимся."
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "I don't think we'll be back all that soon, but take care of yourselves.",
+      "translation": "Я не думаю, что мы вернемся так скоро, но берегите себя."
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 15,
+      "speaker": "Honnete",
+      "original": "That goes for you, too. Do your best out there!",
+      "translation": "Это касается и тебя. Делайте все возможное там!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 16,
+      "speaker": "Roger",
+      "original": "Go and find yourselves in this wide, wide world! Girls...",
+      "translation": "Идите и найдите себя в этом огромном, огромном мире! Девушки..."
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 17,
+      "speaker": "Together",
+      "original": "Off you go!",
+      "translation": "Идите!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 18,
+      "speaker": "System",
+      "original": "Off you go!",
+      "translation": "Идите!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 19,
+      "speaker": "Together",
+      "original": "See you later!",
+      "translation": "Увидимся позже!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 20,
+      "speaker": "System",
+      "original": "See you later!",
+      "translation": "Увидимся позже!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 21,
+      "speaker": "Honnete",
+      "original": "Lydie and Suelle have finally fulfilled their long dream<CR>of running the best atelier in the kingdom,<CR>and now aiming to become the alchemists who can help all.",
+      "translation": "Лиди и Сюэль наконец-то осуществили свою давнюю мечту<CR> открыть лучшее ателье в королевстве<CR> и теперь стремятся стать алхимиками, которые смогут помочь всем."
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 22,
+      "speaker": "Honnete",
+      "original": "They have left their home town, Merveille,<CR>and now travel the world together with Sophie and Firis.",
+      "translation": "Они покинули свой родной город Мервейль<CR> и теперь путешествуют по миру вместе с Софи и Фирис."
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 23,
+      "speaker": "Honnete",
+      "original": "Even now, for sure, they are using their alchemy<CR>to make someone happy, in some faraway corner of this vast world.",
+      "translation": "Даже сейчас, наверняка, они используют свою алхимию<CR>, чтобы сделать кого-то счастливым, в каком-то дальнем уголке этого огромного мира."
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 24,
+      "speaker": "Sophie",
+      "original": "Hey, Plachta. Where did those Philosopher's Stones we just made get to?",
+      "translation": "Привет, Плахта. Куда делись те Философские камни, которые мы только что сделали?"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 25,
+      "speaker": "Firis",
+      "original": "Ah, sorry! I used them up!",
+      "translation": "Ах, извини! Я их израсходовал!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 26,
+      "speaker": "Sue",
+      "original": "Hahaha, I've got some extra ones here. If you need some, you can use these.",
+      "translation": "Ха-ха-ха, у меня есть еще несколько штук. Если они вам нужны, вы можете использовать их."
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 27,
+      "speaker": "Sophie",
+      "original": "Thanks. Now I can complete the request.",
+      "translation": "Спасибо. Теперь я могу выполнить запрос."
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 28,
+      "speaker": "Liane",
+      "original": "Hey, that reminds me. Firis, isn't the deadline on that request coming up?",
+      "translation": "Эй, это напоминает мне. Фирис, не приближается ли срок рассмотрения этого запроса?"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 29,
+      "speaker": "Firis",
+      "original": "Ah, I completely forgot! I need to start synthesizing!",
+      "translation": "Ах, я совсем забыл! Мне нужно начать синтезировать!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 30,
+      "speaker": "Firis",
+      "original": "In which case, let's call in Ilmeria for some help!",
+      "translation": "В таком случае давайте позовем на помощь Илмерию!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 31,
+      "speaker": "Sue",
+      "original": "We can't do that. We've been calling on her every day recently! You'll drive her mad!",
+      "translation": "Мы не можем этого сделать. В последнее время мы звоним ей каждый день! Ты сведешь ее с ума!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:32": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 32,
+      "speaker": "Firis",
+      "original": "Yeah, good point. We have to do this ourselves.",
+      "translation": "Да, хороший момент. Мы должны сделать это сами."
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:33": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 33,
+      "speaker": "Lydie",
+      "original": "Hold it, Sue. You've got a request too, haven't you? With a deadline today?",
+      "translation": "Подожди, Сью. У тебя тоже есть просьба, не так ли? Срок сегодня?"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:34": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 34,
+      "speaker": "Sue",
+      "original": "Aaaaaah! W-What should I do? I'll never make it now. I think I need to call in Lucia!",
+      "translation": "Ааааа! Ч-что мне делать? Теперь я никогда этого не сделаю. Думаю, мне нужно позвонить Люсии!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:35": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 35,
+      "speaker": "Lydie",
+      "original": "No, maybe not. You worked her fingers to the bone last time, didn't you?",
+      "translation": "Нет, может быть, нет. В прошлый раз ты проработал ей пальцы до костей, не так ли?"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:36": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 36,
+      "speaker": "Plachta",
+      "original": "Alright, so let's split up and start synthesizing!",
+      "translation": "Хорошо, давайте разделимся и начнем синтезировать!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:37": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 37,
+      "speaker": "Plachta",
+      "original": "We've got more than enough alchemists here. If we work together, we can do this!",
+      "translation": "У нас здесь более чем достаточно алхимиков. Если мы будем работать вместе, мы сможем это сделать!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:38": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 38,
+      "speaker": "Sue",
+      "original": "Uwah, sorry for the rush! Thanks!",
+      "translation": "Ух, извините за спешку! Спасибо!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:39": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 39,
+      "speaker": "Liane",
+      "original": "Once we finish this synthesis, where do you want to go next?",
+      "translation": "Как только мы закончим этот синтез, куда вы хотите пойти дальше?"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:40": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 40,
+      "speaker": "Sophie",
+      "original": "Good question. What do you think?",
+      "translation": "Хороший вопрос. Что вы думаете?"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:41": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 41,
+      "speaker": "Lydie",
+      "original": "I don't have a preference. All we have to do is make everyone happy as we go!",
+      "translation": "У меня нет предпочтений. Все, что нам нужно сделать, это сделать всех счастливыми на своем пути!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:42": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 42,
+      "speaker": "Sophie",
+      "original": "Let's just see where the road takes us, then. I don't know what lies there...",
+      "translation": "Тогда давай просто посмотрим, куда нас приведет дорога. Я не знаю, что там лежит..."
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:43": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 43,
+      "speaker": "Sophie",
+      "original": "But if we're all together, it will be fine!",
+      "translation": "Но если мы будем все вместе, то всё будет хорошо!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:44": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 44,
+      "speaker": "Firis",
+      "original": "Yes! If monsters turn up, or a rock gets in the way, we'll just push on through!",
+      "translation": "Да! Если появятся монстры или на пути встанет камень, мы просто прорвемся!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:45": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 45,
+      "speaker": "Sue",
+      "original": "Well said! No matter what happens, we're alchemists!",
+      "translation": "Хорошо сказано! Что бы ни случилось, мы алхимики!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:46": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 46,
+      "speaker": "Lydie",
+      "original": "I wonder what new encounters will lie ahead! What new events we might enjoy?",
+      "translation": "Интересно, какие новые встречи ждут впереди! Какие новые события нам могут понравиться?"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:47": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 47,
+      "speaker": "Lydie",
+      "original": "Hey, Sue?",
+      "translation": "Эй, Сью?"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:48": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 48,
+      "speaker": "Sue",
+      "original": "Right, Lydie!",
+      "translation": "Верно, Лидия!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:49": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 49,
+      "speaker": "Together",
+      "original": "I can't wait to find out!",
+      "translation": "Не могу дождаться, чтобы узнать!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:50": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 50,
+      "speaker": "System",
+      "original": "I can't wait to find out!",
+      "translation": "Не могу дождаться, чтобы узнать!"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:51": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 51,
+      "speaker": "Honnete",
+      "original": "Where have they had gone,<CR>and what traces their deeds have left...",
+      "translation": "Куда они пропали,<CR>и какие следы оставили их дела..."
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:52": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 52,
+      "speaker": "Honnete",
+      "original": "The tales of their adventures<CR>have become the subject of many books and paintings. ",
+      "translation": "Рассказы об их приключениях<CR>стали предметом многих книг и картин."
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:53": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 53,
+      "speaker": "Honnete",
+      "original": "And the people of later generations all agree in calling this age,<CR>the age when alchemy was thriving and enriching people's lives,",
+      "translation": "И все последующие поколения согласны называть эту эпоху, <CR>эпохой, когда алхимия процветала и обогащала жизнь людей,"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:54": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 54,
+      "speaker": "Honnete",
+      "original": "lives that were full of miracles and undeniable happiness, ",
+      "translation": "жизни, полные чудес и неоспоримого счастья,"
+    },
+    "ebm:mm13/event_message_mm13_050.ebm:55": {
+      "source": "pack01_ebm",
+      "path": "mm13/event_message_mm13_050.ebm",
+      "index": 55,
+      "speaker": "Honnete",
+      "original": "- \"The Age of Mysterious.\"",
+      "translation": "- «Эпоха таинственная»."
+    }
+  }
+}

@@ -1,0 +1,2224 @@
+{
+  "version": 1,
+  "source": "pack01_ebm",
+  "block": "qc07_rog",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "ebm:qc07_rog/event_message_qc07_rog_010.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_010.ebm",
+      "index": 0,
+      "speaker": "Roger",
+      "original": "Hey, girls...",
+      "translation": "Эй, девочки..."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_010.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_010.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "What is it, Dad? You've got a very serious look on your face.",
+      "translation": "Что такое, папа? У тебя очень серьёзное выражение лица."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_010.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_010.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Did you eat something bad? There's some medicine in the cabinet over there...",
+      "translation": "Ты съел что-то плохое? Там в шкафу есть лекарства..."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_010.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_010.ebm",
+      "index": 3,
+      "speaker": "Roger",
+      "original": "That's not it! I've something to tell you. I've had a super genius synthesis idea!",
+      "translation": "Это не так! Мне есть что тебе сказать. У меня возникла супергениальная идея синтеза!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_010.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_010.ebm",
+      "index": 4,
+      "speaker": "Roger",
+      "original": "However, I need a load of materials to realize it. It's not going to be easy to collect them all.",
+      "translation": "Однако, чтобы реализовать это, мне нужно много материалов. Собрать их все будет непросто."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_010.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_010.ebm",
+      "index": 5,
+      "speaker": "Roger",
+      "original": "Yet it would be a waste to never let this idea see the light of day! You know what that means, right?",
+      "translation": "Однако было бы напрасной тратой никогда не позволить этой идее увидеть свет! Вы знаете, что это значит, да?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_010.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_010.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "No! I mean, yes, I know what it means, but no! We're not going out to collect your materials!",
+      "translation": "Нет! То есть, да, я знаю, что это значит, но нет! Мы не собираемся собирать ваши материалы!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_010.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_010.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "This kind of thing never ends well. I think you'd better leave it well alone.",
+      "translation": "Подобные вещи никогда не заканчиваются хорошо. Я думаю, тебе лучше оставить это в покое."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_010.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_010.ebm",
+      "index": 8,
+      "speaker": "Roger",
+      "original": "How did I raise two such rude girls! This idea is all for your sakes!",
+      "translation": "Как я воспитала двух таких грубых девочек! Эта идея все ради вас!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_010.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_010.ebm",
+      "index": 9,
+      "speaker": "Roger",
+      "original": "Let me ask. Have you ever wished we had more space in the atelier?",
+      "translation": "Позвольте мне спросить. Вам когда-нибудь хотелось, чтобы в нашей ателье было больше места?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_010.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_010.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Sure, I've thought that. What? You're going to do something with our storage?",
+      "translation": "Конечно, я так думал. Что? Ты собираешься что-то сделать с нашим хранилищем?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_010.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_010.ebm",
+      "index": 11,
+      "speaker": "Roger",
+      "original": "Yes, that's it exactly! I'm going to make your wish come true!",
+      "translation": "Да, это именно так! Я исполню твое желание!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_010.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_010.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "One of dad's ideas that actually sounds appealing? Very well, then. Just this once...",
+      "translation": "Одна из идей папы, которая действительно звучит привлекательно? Тогда очень хорошо. Только в этот раз..."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_010.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_010.ebm",
+      "index": 13,
+      "speaker": "Roger",
+      "original": "Hehe, I thought that's what you'd say. Here's your list, then!",
+      "translation": "Хе-хе, я думал, ты так скажешь. Тогда вот ваш список!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_010.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_010.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "What's going on here? It's just like a promotion test!",
+      "translation": "Что здесь происходит? Это как тест на повышение!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_010.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_010.ebm",
+      "index": 15,
+      "speaker": "Roger",
+      "original": "Hahah! I used my artistic skills to make it as close to the real thing as I could!",
+      "translation": "Ха-ха! Я использовал свои художественные навыки, чтобы сделать это как можно ближе к реальности!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_010.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_010.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "Stop wasting your time on pointless flourishes!",
+      "translation": "Хватит тратить время на бессмысленные заигрывания!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_010.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_010.ebm",
+      "index": 17,
+      "speaker": "Roger",
+      "original": "Hahahaha! In any case, my dear girls, I entrust the collection of these materials to you!",
+      "translation": "Ха-ха-ха! В любом случае, дорогие мои девочки, сбор этих материалов я доверяю вам!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_010.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_010.ebm",
+      "index": 18,
+      "speaker": "System",
+      "original": "<CLEG>[Tutorial] ~Crazy Recipes~<CLNR>",
+      "translation": "<CLEG>[Урок] ~Безумные рецепты~<CLNR>"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_010.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_010.ebm",
+      "index": 19,
+      "speaker": "System",
+      "original": "Roger will sometimes think up crazy recipes and ask his daughters to collect the materials.",
+      "translation": "Роджер иногда придумывает сумасшедшие рецепты и просит своих дочерей собрать материалы."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_010.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_010.ebm",
+      "index": 20,
+      "speaker": "System",
+      "original": "It's up to you whether you respond or not, but if you do something good might happen! Maybe!",
+      "translation": "От вас зависит, ответите вы или нет, но если вы сделаете что-то хорошее, может случиться что-то хорошее! Может быть!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_010.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_010.ebm",
+      "index": 21,
+      "speaker": "System",
+      "original": "<CLR1>Don't begrudge him a chance for some father-daughter time! Do your best to collect what he needs!<CLNR>",
+      "translation": "<CLR1>Не завидуйте ему возможности побыть отцом с дочерью! Сделайте все возможное, чтобы собрать то, что ему нужно!<CLNR>"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_020.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_020.ebm",
+      "index": 0,
+      "speaker": "Roger",
+      "original": "Hahaha, great work! I will now present the evaluation from your dear father!",
+      "translation": "Ха-ха-ха, отличная работа! Сейчас я представлю оценку вашего дорогого отца!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_020.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_020.ebm",
+      "index": 1,
+      "speaker": "Roger",
+      "original": "That was incredible, girls! Hahaha! You've stirred up my creative soul!",
+      "translation": "Это было невероятно, девочки! Ха-ха-ха! Вы взбудоражили мою творческую душу!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_020.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_020.ebm",
+      "index": 2,
+      "speaker": "Roger",
+      "original": "Hahahah, well done, girls. I can make something good with this!",
+      "translation": "Ха-ха-ха, молодцы, девочки. Я могу сделать из этого что-то хорошее!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_020.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_020.ebm",
+      "index": 3,
+      "speaker": "Roger",
+      "original": "Hmm, not quite what I was expecting. I think this will still work, though.",
+      "translation": "Хм, не совсем то, что я ожидал. Хотя я думаю, что это все равно сработает."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_020.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_020.ebm",
+      "index": 4,
+      "speaker": "Roger",
+      "original": "This is no good! Girls, just what do you think creativity is? I can't accept this! Try again!",
+      "translation": "Это нехорошо! Девочки, а как вы думаете, что такое творчество? Я не могу это принять! Попробуйте еще раз!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_030.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_030.ebm",
+      "index": 0,
+      "speaker": "Roger",
+      "original": "There! All done!",
+      "translation": "Там! Все готово!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_030.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_030.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "So, Dad, what is this?",
+      "translation": "Итак, папа, что это?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_030.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_030.ebm",
+      "index": 2,
+      "speaker": "Roger",
+      "original": "Can't you tell? It's a container!",
+      "translation": "Разве ты не можешь сказать? Это контейнер!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_030.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_030.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Yes, we can see that much... What I'm asking is, why did you make it?",
+      "translation": "Да, мы так много видим... Я спрашиваю, почему ты это сделал?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_030.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_030.ebm",
+      "index": 4,
+      "speaker": "Roger",
+      "original": "What? This is what you wanted. More containers means more storage room, right?",
+      "translation": "Что? Это то, чего ты хотел. Больше контейнеров — больше места для хранения, верно?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_030.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_030.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Only one thing makes sense here. We were fools for expecting anything more from you.",
+      "translation": "Здесь имеет смысл только одно. Мы были дураками, ожидая от вас чего-то большего."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_030.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_030.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "I can't believe it... All that time gathering materials! All those materials! Wasted!",
+      "translation": "Я не могу в это поверить... Все это время собирал материалы! Все эти материалы! Потраченный!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_030.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_030.ebm",
+      "index": 7,
+      "speaker": "Roger",
+      "original": "What exactly where you expecting, then? I guess I failed to explain myself. Ah, another screw up!",
+      "translation": "Тогда чего именно, где ты ожидаешь? Думаю, я не смог объясниться. Ах, очередной провал!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_030.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_030.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Enough, dummy-daddy! You've earned that name again today!",
+      "translation": "Хватит, дурак-папа! Сегодня вы снова заслужили это имя!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_030.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_030.ebm",
+      "index": 9,
+      "speaker": "Roger",
+      "original": "Well, anyway. It's done now, so just try to make the best of it.",
+      "translation": "Ну, во всяком случае. Это уже сделано, так что просто постарайтесь извлечь из этого максимум пользы."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_030.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_030.ebm",
+      "index": 10,
+      "speaker": "Roger",
+      "original": "After all, look how many I've made! Hahaha, we'll never run out of storage space again!",
+      "translation": "Ведь посмотрите, сколько я сделал! Ха-ха-ха, у нас больше никогда не закончится место для хранения вещей!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_030.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_030.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "W-We don't need this many. You've actually made less room! We only need one!",
+      "translation": "М-нам не нужно так много. На самом деле вы освободили меньше места! Нам нужен только один!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_030.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_030.ebm",
+      "index": 12,
+      "speaker": "Roger",
+      "original": "What? After I worked so hard on all of these? That's harsh!",
+      "translation": "Что? После того, как я так усердно над всем этим работал? Это жестко!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_030.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_030.ebm",
+      "index": 13,
+      "speaker": "Roger",
+      "original": "Especially as I made three of them! Look, three! Now each of us can have our personal storage!",
+      "translation": "Тем более, что я их сделал три! Смотри, три! Теперь у каждого из нас может быть свое личное хранилище!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_030.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_030.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "What do we need three for? Maybe we should stuff you into one of them!",
+      "translation": "Зачем нам три? Может, нам стоит засунуть тебя в один из них!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_030.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_030.ebm",
+      "index": 15,
+      "speaker": "Roger",
+      "original": "Please, only use them for the intended purpose.",
+      "translation": "Пожалуйста, используйте их только по назначению."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_030.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_030.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "It sounds pretty good to me! But if you don't like that, very well, we'll just keep one of them!",
+      "translation": "Для меня это звучит очень хорошо! Но если вам это не нравится, что ж, мы просто оставим себе один из них!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_030.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_030.ebm",
+      "index": 17,
+      "speaker": "Roger",
+      "original": "What? After I worked so hard on all of these? That's harsh!",
+      "translation": "Что? После того, как я так усердно над всем этим работал? Это жестко!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_030.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_030.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "Uwah. It's just a basic container. No frills at all.",
+      "translation": "Ува. Это просто базовый контейнер. Никаких излишеств вообще."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_030.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_030.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "All that time we spent isn't coming back, is it... I wish it would. Haah.",
+      "translation": "Все то время, что мы провели, не вернется, не так ли... Мне бы хотелось, чтобы это было так. Хаа."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_040.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_040.ebm",
+      "index": 0,
+      "speaker": "Roger",
+      "original": "Hey, girls! I've thought of another wonderful new idea.",
+      "translation": "Эй, девочки! Я придумал еще одну замечательную новую идею."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_040.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_040.ebm",
+      "index": 1,
+      "speaker": "Together",
+      "original": "No thanks!",
+      "translation": "Нет, спасибо!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_040.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_040.ebm",
+      "index": 2,
+      "speaker": "System",
+      "original": "No thanks!",
+      "translation": "Нет, спасибо!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_040.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_040.ebm",
+      "index": 3,
+      "speaker": "Roger",
+      "original": "You'll do it! Great, thank you! I knew you would!",
+      "translation": "Ты сделаешь это! Отлично, спасибо! Я знал, что ты это сделаешь!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_040.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_040.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Ugh!",
+      "translation": "Фу!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_040.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_040.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "How many bullets do I have left? I guess I'll only need one, anyway...",
+      "translation": "Сколько пуль у меня осталось? Думаю, мне все равно понадобится только один..."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_040.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_040.ebm",
+      "index": 6,
+      "speaker": "Roger",
+      "original": "I'm sorry, I got carried away again! But this time it really is a great idea!",
+      "translation": "Извините, я снова увлекся! Но на этот раз это действительно отличная идея!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_040.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_040.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "Huh. I guess we can at least hear you out...",
+      "translation": "Хм. Думаю, мы сможем хотя бы тебя выслушать..."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_040.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_040.ebm",
+      "index": 8,
+      "speaker": "Roger",
+      "original": "Thank you! Now then. Have you ever heard of a tree that grows golden fruit?",
+      "translation": "Спасибо! Итак, теперь. Вы когда-нибудь слышали о дереве, на котором растут золотые плоды?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_040.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_040.ebm",
+      "index": 9,
+      "speaker": "Roger",
+      "original": "It's just an idiom, normally, but alchemy can make it real!",
+      "translation": "Обычно это всего лишь идиома, но алхимия может сделать это реальностью!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_040.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_040.ebm",
+      "index": 10,
+      "speaker": "Roger",
+      "original": "What I've come up with is a tree that blooms with Coll every day!",
+      "translation": "Я придумал дерево, которое цветет Коллом каждый день!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_040.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_040.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "What?! That sounds like a dream! We'll do it! Count us in, dearest dad!",
+      "translation": "Что?! Это похоже на сон! Мы сделаем это! Присоединяйтесь к нам, дорогой папа!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_040.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_040.ebm",
+      "index": 12,
+      "speaker": "Roger",
+      "original": "Hahahaha! My daughters, true to their greedy desires! I like it!",
+      "translation": "Ха-ха-ха! Дочери мои, верные своим жадным желаниям! Мне это нравится!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_040.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_040.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "Hmm. That sounds a bit too good to be true... I can see this going really wrong!",
+      "translation": "Хм. Это звучит слишком хорошо, чтобы быть правдой... Я вижу, что все идет не так!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_040.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_040.ebm",
+      "index": 14,
+      "speaker": "Roger",
+      "original": "Here we go, then! Get ready for your next test from me!",
+      "translation": "Тогда поехали! Приготовьтесь к следующему тесту от меня!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_040.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_040.ebm",
+      "index": 15,
+      "speaker": "Roger",
+      "original": "If this works out, we'll all be rich! For our bright, gold-filled future, go get to work!",
+      "translation": "Если это сработает, мы все будем богатыми! Ради нашего светлого, наполненного золотом будущего, приступайте к работе!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_045.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_045.ebm",
+      "index": 0,
+      "speaker": "Roger",
+      "original": "Hahaha, great work! I will now announce the results from me, your dear old dad.",
+      "translation": "Ха-ха-ха, отличная работа! Сейчас я объявлю результаты от себя, твоего дорогого старого папы."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_045.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_045.ebm",
+      "index": 1,
+      "speaker": "Roger",
+      "original": "That was incredible, girls! Hahaha! You've stirred up my creative soul!",
+      "translation": "Это было невероятно, девочки! Ха-ха-ха! Вы взбудоражили мою творческую душу!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_045.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_045.ebm",
+      "index": 2,
+      "speaker": "Roger",
+      "original": "Hahahah, well done, girls. I can make something good with this!",
+      "translation": "Ха-ха-ха, молодцы, девочки. Я могу сделать из этого что-то хорошее!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_045.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_045.ebm",
+      "index": 3,
+      "speaker": "Roger",
+      "original": "Hmm, not quite what I was expecting. I think this will still work, though.",
+      "translation": "Хм, не совсем то, что я ожидал. Хотя я думаю, что это все равно сработает."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_045.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_045.ebm",
+      "index": 4,
+      "speaker": "Roger",
+      "original": "This is no good! Girls, just what do you think creativity is? I can't accept this! Try again!",
+      "translation": "Это нехорошо! Девочки, а как вы думаете, что такое творчество? Я не могу это принять! Попробуйте еще раз!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 0,
+      "speaker": "Roger",
+      "original": "We've done it!",
+      "translation": "Мы сделали это!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "It's divine! This is the Gold Tree, that blooms with Coll? *drooling* Haha, something's wrong with my mouth!",
+      "translation": "Это божественно! Это Золотое Дерево, цветущее Коллом? *пускает слюни* Хаха, что-то не так с моим ртом!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Sue, you're slobbering everywhere!",
+      "translation": "Сью, ты везде слюняшь!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Hah! Sorry. I just lost every sensibility, faced with this marvel.",
+      "translation": "Ха! Извини. Я просто потерял всякую чувствительность, столкнувшись с этим чудом."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 4,
+      "speaker": "Roger",
+      "original": "Ah! Look! It's starting to bloom!",
+      "translation": "Ах! Смотреть! Оно начинает цвести!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "What! Look at all that! Incredible. We'll be rich in no time, like this!",
+      "translation": "Что! Посмотрите на все это! Невероятный. Мы скоро разбогатеем, вот так!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Uwah! You're right, this is a fantastic invention.",
+      "translation": "Ува! Вы правы, это фантастическое изобретение."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 7,
+      "speaker": "Roger",
+      "original": "What did I say? My idea was perfect!",
+      "translation": "Что я сказал? Моя идея была идеальна!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Uwah, that's more than I was expecting! Hahaha, this is pretty good.",
+      "translation": "Ух, это больше, чем я ожидал! Ха-ха-ха, это очень хорошо."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 9,
+      "speaker": "Roger",
+      "original": "Hahaha, praise me more! I am a certified genius! Hahaha!",
+      "translation": "Ха-ха-ха, хвали меня больше! Я сертифицированный гений! Ха-ха-ха!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Oh, it worked. This should cover our pocket money.",
+      "translation": "О, это сработало. Это должно покрыть наши карманные деньги."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "Yeah. It's less than I was expecting, but this is more than enough.",
+      "translation": "Ага. Это меньше, чем я ожидал, но этого более чем достаточно."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 12,
+      "speaker": "Roger",
+      "original": "Right? Another wonderful idea from me!",
+      "translation": "Верно? Еще одна замечательная идея от меня!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "Tell me. Do you need to water this tree?",
+      "translation": "Скажи мне. Нужно ли поливать это дерево?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 14,
+      "speaker": "Roger",
+      "original": "Nope, no water needed. It uses a very special fertilizer. Gold.",
+      "translation": "Нет, вода не нужна. Для этого используются специальные удобрения. Золото."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "Excuse me?",
+      "translation": "Прошу прощения?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 16,
+      "speaker": "Roger",
+      "original": "This tree doesn't drink water. It drinks liquid gold. Around 100,000 Coll's worth a day.",
+      "translation": "Это дерево не пьет воду. Он пьет жидкое золото. Около 100 000 коллов в день."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "What! 100,000 Coll? That puts us completely in the red, no matter how you think about it!",
+      "translation": "Что! 100 000 коллов? Это ставит нас полностью в минус, как бы вы об этом ни думали!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 18,
+      "speaker": "Roger",
+      "original": "Hmmm, that's a good point. Huh, another screw up!",
+      "translation": "Хммм, это хороший момент. Ха, очередной провал!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "Hah! I can't even get angry. Dad, go and dump this tree somewhere.",
+      "translation": "Ха! Я даже не могу злиться. Папа, пойди и выбрось это дерево куда-нибудь."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 20,
+      "speaker": "Sue",
+      "original": "A tree that will drink all our cash? This is literally the last thing we need around here!",
+      "translation": "Дерево, которое выпьет все наши деньги? Это буквально последнее, что нам здесь нужно!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 21,
+      "speaker": "Roger",
+      "original": "What?! You can't throw it away! This is a tree, struggling for life... huh? Is something burning?",
+      "translation": "Что?! Вы не можете его выбросить! Это дерево, борющееся за жизнь... да? Что-то горит?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 22,
+      "speaker": "Lydie",
+      "original": "Burn it with fire! If you have to hate someone over this, tree, then hate our dad!",
+      "translation": "Сожгите его огнём! Если тебе приходится кого-то ненавидеть из-за этого дерева, то возненавидь нашего папу!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 23,
+      "speaker": "Roger",
+      "original": "Lydie! Hey! What are you doing? Stop it! Hey, stop it! Hey!",
+      "translation": "Лиди! Привет! Что ты делаешь? Прекрати! Эй, прекрати! Привет!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 24,
+      "speaker": "System",
+      "original": "3000 Coll received.",
+      "translation": "Получено 3000 колл."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 25,
+      "speaker": "System",
+      "original": "1000 Coll received.",
+      "translation": "Получено 1000 колл."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_050.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_050.ebm",
+      "index": 26,
+      "speaker": "System",
+      "original": "100 Coll received.",
+      "translation": "Получено 100 кол."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_060.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_060.ebm",
+      "index": 0,
+      "speaker": "Roger",
+      "original": "Hehehe, girls! I've had...",
+      "translation": "Хе-хе-хе, девочки! у меня было..."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_060.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_060.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Sue, let's go shopping, before we run out of ingredients.",
+      "translation": "Сью, пойдем за покупками, пока у нас не закончились ингредиенты."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_060.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_060.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Sure, sounds good. I fancy something healthy tonight!",
+      "translation": "Конечно, звучит хорошо. Сегодня вечером мне хочется чего-нибудь полезного!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_060.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_060.ebm",
+      "index": 3,
+      "speaker": "Roger",
+      "original": "Stop ignoring me, girls! My feelings are very delicate!",
+      "translation": "Девочки, хватит меня игнорировать! Мои чувства очень деликатны!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_060.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_060.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "What for? You've just had another silly idea, haven't you?",
+      "translation": "Зачем? Тебе только что пришла в голову еще одна глупая идея, не так ли?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_060.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_060.ebm",
+      "index": 5,
+      "speaker": "Roger",
+      "original": "Lydie, you've been so spiky recently. You weren't like this when you were small!",
+      "translation": "Лиди, ты в последнее время такая резкая. Ты не был таким, когда был маленьким!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_060.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_060.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "Which is all your fault, Dad. What's the idea this time?",
+      "translation": "Это все твоя вина, пап. Какая идея на этот раз?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_060.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_060.ebm",
+      "index": 7,
+      "speaker": "Roger",
+      "original": "A real blinder. An item for use in battle! You fight monsters sometimes, right?",
+      "translation": "Настоящий ослепитель. Предмет для использования в бою! Ты иногда сражаешься с монстрами, да?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_060.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_060.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Yeah, of course. We encounter monsters when we go to gather materials.",
+      "translation": "Да, конечно. Мы сталкиваемся с монстрами, когда собираем материалы."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_060.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_060.ebm",
+      "index": 9,
+      "speaker": "Roger",
+      "original": "I'd like to reduce any risks for you. So I've thought of an item to neutralize monsters.",
+      "translation": "Я хотел бы уменьшить любые риски для вас. Вот я и придумал предмет для нейтрализации монстров."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_060.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_060.ebm",
+      "index": 10,
+      "speaker": "Roger",
+      "original": "You know about being captivated when you see something beautiful? Just how I felt with Honnete...",
+      "translation": "Вы знаете, как быть очарованным, когда видишь что-то красивое? Именно то, что я чувствовал с Оннет..."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_060.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_060.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Reminiscing aside, I know what you mean...",
+      "translation": "Если отбросить воспоминания, я понимаю, о чем вы..."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_060.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_060.ebm",
+      "index": 12,
+      "speaker": "Roger",
+      "original": "I think monsters are probably the same. Increase your own appeal, enchant them...",
+      "translation": "Я думаю, что монстры, вероятно, такие же. Повысьте свою привлекательность, очаруйте их..."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_060.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_060.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "Yes! It may make it safer! Dad, that's not a bad idea!",
+      "translation": "Да! Это может сделать его безопаснее! Папа, это неплохая идея!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_060.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_060.ebm",
+      "index": 14,
+      "speaker": "Roger",
+      "original": "Right! So here's the list!",
+      "translation": "Верно! Итак, вот список!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_060.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_060.ebm",
+      "index": 15,
+      "speaker": "Roger",
+      "original": "I've thought of this especially for you. Don't waste my sincere feelings, please!",
+      "translation": "Я подумал об этом специально для тебя. Не тратьте мои искренние чувства, пожалуйста!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_065.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_065.ebm",
+      "index": 0,
+      "speaker": "Roger",
+      "original": "Hahaha, great work! I will now announce the results from me, your dear old dad.",
+      "translation": "Ха-ха-ха, отличная работа! Сейчас я объявлю результаты от себя, твоего дорогого старого папы."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_065.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_065.ebm",
+      "index": 1,
+      "speaker": "Roger",
+      "original": "That was incredible, girls! Hahaha! You've stirred up my creative soul!",
+      "translation": "Это было невероятно, девочки! Ха-ха-ха! Вы взбудоражили мою творческую душу!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_065.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_065.ebm",
+      "index": 2,
+      "speaker": "Roger",
+      "original": "Hahahah, well done, girls. I can make something good with this!",
+      "translation": "Ха-ха-ха, молодцы, девочки. Я могу сделать из этого что-то хорошее!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_065.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_065.ebm",
+      "index": 3,
+      "speaker": "Roger",
+      "original": "Hmm, not quite what I was expecting. I think this will still work, though.",
+      "translation": "Хм, не совсем то, что я ожидал. Хотя я думаю, что это все равно сработает."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_065.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_065.ebm",
+      "index": 4,
+      "speaker": "Roger",
+      "original": "This is no good! Girls, just what do you think creativity is? I can't accept this! Try again!",
+      "translation": "Это нехорошо! Девочки, а как вы думаете, что такое творчество? Я не могу это принять! Попробуйте еще раз!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 0,
+      "speaker": "Roger",
+      "original": "All done!",
+      "translation": "Все готово!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "What? Perfume? This is going to neutralize monsters?",
+      "translation": "Что? Духи? Это позволит нейтрализовать монстров?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 2,
+      "speaker": "Roger",
+      "original": "Yes. If you're not sure, just give it a try. Here!",
+      "translation": "Да. Если вы не уверены, просто попробуйте. Здесь!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Uwah! Stop it, don't just spray that near me!",
+      "translation": "Ува! Прекрати, не распыляй это рядом со мной!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Although it does smell quite nice... Hm?",
+      "translation": "Хотя пахнет довольно приятно... Хм?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Hold on, what's going on? My heart is racing!",
+      "translation": "Подожди, что происходит? Мое сердце колотится!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "You too, Lydie? Mine is too!",
+      "translation": "Ты тоже, Лиди? Моя тоже!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 7,
+      "speaker": "Roger",
+      "original": "Huh?",
+      "translation": "Хм?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "This is odd. I'm feeling a bit weird, Lydie, when I look at you...",
+      "translation": "Это странно. Я чувствую себя немного странно, Лиди, когда смотрю на тебя..."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "Sue, me too! Looking at you! You're so cute. So cute, little Sue!",
+      "translation": "Сью, я тоже! Глядя на тебя! Ты такой милый. Какая милая маленькая Сью!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 10,
+      "speaker": "Roger",
+      "original": "Hmmm, it looks like it was too strong... Hah, another screw up. I'll make it weaker.",
+      "translation": "Хммм, похоже, это было слишком сильно... Ха, еще один провал. Я сделаю его слабее."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Lydie!",
+      "translation": "Лиди!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "Sue!",
+      "translation": "Сью!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "Nothing has changed?",
+      "translation": "Ничего не изменилось?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "Yeah. Does this stuff even work?",
+      "translation": "Ага. Эта штука вообще работает?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 15,
+      "speaker": "Roger",
+      "original": "It should. I guess your appeal just can't be increased any further! Hahaha!",
+      "translation": "Должно. Я думаю, ваша привлекательность просто не может быть увеличена дальше! Ха-ха-ха!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "Sue. I'll hit him in the back. You take the front.",
+      "translation": "Сью. Я ударю его в спину. Ты идешь на фронт."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "Sure. I'll do the count. One, two...",
+      "translation": "Конечно. Я посчитаю. Один, два..."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 18,
+      "speaker": "Roger",
+      "original": "Guwaaaah! Another... screw... up!",
+      "translation": "Гуваааа! Еще один... черт... пипец!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "Hey. I've been trying to think of the perfect word for you, Lydie, and I've finally found it. Dowdy.",
+      "translation": "Привет. Я пытался придумать для тебя идеальное слово, Лиди, и наконец нашел его. Дауди."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 20,
+      "speaker": "Lydie",
+      "original": "What?! Do you even know what that means? How about you stop trying to act all cute, Sue!",
+      "translation": "Что?! Вы хоть знаете, что это значит? Как насчет того, чтобы перестать вести себя мило, Сью!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 21,
+      "speaker": "Sue",
+      "original": "I don't have to act anything, I am cute! Super cute! But you, Lydie, well...",
+      "translation": "Мне не нужно ничего играть, я милый! Супер мило! Но ты, Лиди, ну..."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 22,
+      "speaker": "Roger",
+      "original": "Hmm. It seems to be having the opposite effect. Ah, another screw up. I'll adjust the recipe...",
+      "translation": "Хм. Кажется, это имеет противоположный эффект. Ах, еще один провал. Рецепт поправлю..."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 23,
+      "speaker": "Lydie",
+      "original": "Why do you put hot sauce on fried eggs? I just can't accept that!",
+      "translation": "Почему вы добавляете острый соус в яичницу? Я просто не могу этого принять!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 24,
+      "speaker": "Sue",
+      "original": "I need more stimulation than salt and pepper can provide! You just have no taste, Lydie!",
+      "translation": "Мне нужно больше стимуляции, чем могут дать соль и перец! У тебя просто нет вкуса, Лиди!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_070.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_070.ebm",
+      "index": 25,
+      "speaker": "System",
+      "original": "<CLEG>Roger's Idea Note<CLNR> received.",
+      "translation": "<CLEG>Записка с идеями Роджера<CLNR> получена."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_080.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_080.ebm",
+      "index": 0,
+      "speaker": "Roger",
+      "original": "Hahahah, girls! This time I have been blessed with the ultimate idea!",
+      "translation": "Ха-ха-ха, девочки! На этот раз мне пришла в голову потрясающая идея!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_080.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_080.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Oh... What it is this time?",
+      "translation": "Ох... Что на этот раз?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_080.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_080.ebm",
+      "index": 2,
+      "speaker": "Roger",
+      "original": "Wow, that was easier than I was expecting? In fact, you've got me a bit worried now!",
+      "translation": "Ого, это оказалось проще, чем я ожидал? На самом деле, ты меня немного обеспокоил!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_080.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_080.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Nothing to worry about, I promise. We've just given up on resisting your foolishness.",
+      "translation": "Ничего страшного, обещаю. Мы только что отказались сопротивляться твоей глупости."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_080.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_080.ebm",
+      "index": 4,
+      "speaker": "Roger",
+      "original": "I-Is that so... I feel conflicted about that, too. Moving on! How about a potion to make you taller?",
+      "translation": "Я-это так... Я тоже чувствую противоречие по этому поводу. Двигаемся дальше! Как насчет зелья, которое сделает тебя выше?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_080.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_080.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "That sounds surprisingly reasonable... but no, not coming from you. Have to keep our guard up!",
+      "translation": "Это звучит на удивление разумно... но нет, это исходит не от вас. Нам придется держать бдительность!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_080.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_080.ebm",
+      "index": 6,
+      "speaker": "Roger",
+      "original": "Ahem. You have a merchant you're friendly with, right? What's her name? Something corny?",
+      "translation": "Кхм. У вас есть торговец, с которым вы дружите, верно? Как ее зовут? Что-то банальное?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_080.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_080.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "A merchant? You mean Corneria?",
+      "translation": "Купец? Вы имеете в виду Корнерию?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_080.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_080.ebm",
+      "index": 8,
+      "speaker": "Roger",
+      "original": "Yes, that's her. I've heard rumors that she has a bit of an issue with her height.",
+      "translation": "Да, это она. До меня доходили слухи, что у нее проблемы с ростом."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_080.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_080.ebm",
+      "index": 9,
+      "speaker": "Roger",
+      "original": "She's helped you both out, so I'd like to help resolve her complex, if I can.",
+      "translation": "Она помогла вам обоим, поэтому я хотел бы помочь разрешить ее комплекс, если смогу."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_080.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_080.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Dad! This is a new and unexpected side of you!",
+      "translation": "Папа! Это новая и неожиданная сторона тебя!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_080.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_080.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "Our self-obsessed, selfish mad-scientist of a father, who's wasted almost his entire life!",
+      "translation": "Наш эгоистичный, эгоистичный безумный учёный отец, который потратил впустую почти всю свою жизнь!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_080.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_080.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "Is now working to help others! Sue, we need to push the boat out tonight! Let's celebrate!",
+      "translation": "Теперь работает, чтобы помогать другим! Сью, нам нужно вытолкнуть лодку сегодня вечером! Давайте праздновать!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_080.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_080.ebm",
+      "index": 13,
+      "speaker": "Roger",
+      "original": "I'm not sure I like where this is heading... Don't make me cry again, girls, please!",
+      "translation": "Не уверена, что мне нравится, к чему все идет... Не заставляйте меня снова плакать, девочки, пожалуйста!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_080.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_080.ebm",
+      "index": 14,
+      "speaker": "Roger",
+      "original": "A-Anyway! Here's your list!",
+      "translation": "А-В любом случае! Вот ваш список!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_080.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_080.ebm",
+      "index": 15,
+      "speaker": "Roger",
+      "original": "To prove I'm not mad... I mean, to repay kind Corneria, go and do your very best!",
+      "translation": "Чтобы доказать, что я не злюсь... Я имею в виду, чтобы отплатить доброй Корнерии, иди и постарайся изо всех сил!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_085.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_085.ebm",
+      "index": 0,
+      "speaker": "Roger",
+      "original": "Hahaha, great work! I will now announce the results from me, your dear old dad.",
+      "translation": "Ха-ха-ха, отличная работа! Сейчас я объявлю результаты от себя, твоего дорогого старого папы."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_085.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_085.ebm",
+      "index": 1,
+      "speaker": "Roger",
+      "original": "That was incredible, girls! Hahaha! You've stirred up my creative soul!",
+      "translation": "Это было невероятно, девочки! Ха-ха-ха! Вы взбудоражили мою творческую душу!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_085.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_085.ebm",
+      "index": 2,
+      "speaker": "Roger",
+      "original": "Hahahah, well done, girls. I can make something good with this!",
+      "translation": "Ха-ха-ха, молодцы, девочки. Я могу сделать из этого что-то хорошее!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_085.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_085.ebm",
+      "index": 3,
+      "speaker": "Roger",
+      "original": "Hmm, not quite what I was expecting. I think this will still work, though.",
+      "translation": "Хм, не совсем то, что я ожидал. Хотя я думаю, что это все равно сработает."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_085.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_085.ebm",
+      "index": 4,
+      "speaker": "Roger",
+      "original": "This is no good! Girls, just what do you think creativity is? I can't accept this! Try again!",
+      "translation": "Это нехорошо! Девочки, а как вы думаете, что такое творчество? Я не могу это принять! Попробуйте еще раз!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 0,
+      "speaker": "Roger",
+      "original": "This is perfect. All finished! Hurry up and get Corneria, go on!",
+      "translation": "Это идеально. Все закончено! Поторопитесь и получите Корнерию, вперед!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Alright! We'll be back in a flash!",
+      "translation": "Хорошо! Мы вернемся в мгновение ока!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 2,
+      "speaker": "Corneria",
+      "original": "Ah, hello. It's very nice to meet you. I am Corneria.",
+      "translation": "Ах, привет. Очень приятно познакомиться. Я Корнерия."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 3,
+      "speaker": "Roger",
+      "original": "Ah, how polite you are! I'm Roger, father of Lydie and Suelle...",
+      "translation": "Ах, какой вы вежливый! Я Роджер, отец Лиди и Сюэль..."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Enough with the small talk! Here you go, Corneria. Drink this.",
+      "translation": "Хватит светских разговоров! Вот, Корнерия. Выпей это."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 5,
+      "speaker": "Corneria",
+      "original": "Some kind of medicine? Is this really for me?",
+      "translation": "Какое-то лекарство? Это действительно для меня?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Yes. It will make you taller. Dad cooked it up as a way to thank you for all you've done for us.",
+      "translation": "Да. Это сделает вас выше. Папа приготовил это, чтобы поблагодарить тебя за все, что ты для нас сделал."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 7,
+      "speaker": "Roger",
+      "original": "That's right. They seem to rely on you a lot, so I very much want you to have this.",
+      "translation": "Это верно. Кажется, они во многом на тебя полагаются, поэтому я очень хочу, чтобы у тебя это было."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Go ahead! Swill it down and grow like a beanstalk!",
+      "translation": "Вперед, продолжать! Вылейте его и вырастите, как бобовый стебель!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 9,
+      "speaker": "Corneria",
+      "original": "I'm very happy! I'll drink it at once!",
+      "translation": "Я очень рад! Я выпью его сразу!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 10,
+      "speaker": "Roger",
+      "original": "Right... Run for it, girls!",
+      "translation": "Правильно... Бегите, девочки!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "Huh?",
+      "translation": "Хм?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 12,
+      "speaker": "Corneria",
+      "original": "Huh? What? What's this?",
+      "translation": "Хм? Что? Что это?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 13,
+      "speaker": "Together",
+      "original": "What on earth is this?!",
+      "translation": "Что это, черт возьми?!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 14,
+      "speaker": "System",
+      "original": "What on earth is this?!",
+      "translation": "Что это, черт возьми?!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 15,
+      "speaker": "Roger",
+      "original": "Hahahaha! Victory! At that size you'll never have to worry about how tall you are again!",
+      "translation": "Ха-ха-ха! Победа! С таким размером вам больше никогда не придется беспокоиться о своем росте!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "You idiot! You've created a hundred new worries for her!",
+      "translation": "Ты идиот! Ты создал для нее сотню новых забот!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 17,
+      "speaker": "Corneria",
+      "original": "...Lydie? ...Sue? Can you explain what's going on here?",
+      "translation": "...Лидия? ...Сью? Можете ли вы объяснить, что здесь происходит?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "Gyaah, my ears! Corneria! Please, try not to talk!",
+      "translation": "Дааа, мои уши! Корнерия! Пожалуйста, постарайтесь не разговаривать!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "Dummy-daddy! What are you going to do about this?",
+      "translation": "Дурак-папа! Что ты собираешься с этим делать?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 20,
+      "speaker": "Roger",
+      "original": "Don't worry. It shouldn't be much longer now.",
+      "translation": "Не волнуйся. Теперь это не должно занять много времени."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 21,
+      "speaker": "Sue",
+      "original": "Ah! Corneria is shrinking back down!",
+      "translation": "Ах! Корнерия снова уменьшается!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 22,
+      "speaker": "Corneria",
+      "original": "W-What just happened? Was that a dream?",
+      "translation": "Ч-что только что произошло? Это был сон?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 23,
+      "speaker": "Lydie",
+      "original": "Y-Yes, a dream. Hahaha, I've no idea what you were dreaming about, of course! Sorry for the trouble!",
+      "translation": "Д-да, мечта. Ха-ха-ха, я, конечно, понятия не имею, о чем ты мечтал! Извините за беспокойство!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 24,
+      "speaker": "Corneria",
+      "original": "O-kay... A dream? It seemed very vivid...",
+      "translation": "О-кей... Мечта? Это казалось очень ярким..."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 25,
+      "speaker": "Sue",
+      "original": "Well, Dad. How are you going to make up for this one?",
+      "translation": "Ну, папа. Как ты собираешься компенсировать это?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 26,
+      "speaker": "Lydie",
+      "original": "How! Corneria didn't get any taller, but you did put a hole in our roof!",
+      "translation": "Как! Корнерия не стала выше, но ты проделал дыру в нашей крыше!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 27,
+      "speaker": "Roger",
+      "original": "Ah! I was just too fixated on making her bigger! Ah, another screw up!",
+      "translation": "Ах! Я был слишком зациклен на том, чтобы сделать ее больше! Ах, очередной провал!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 28,
+      "speaker": "Lydie",
+      "original": "We'll be putting your food allowance toward the repairs, Dad. No eating until it's fixed!",
+      "translation": "Мы потратим твои карманные деньги на ремонт, пап. Никакой еды, пока это не будет исправлено!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 29,
+      "speaker": "Sue",
+      "original": "No take-backs this time. Complain, cry, scream, you are not going to eat a thing!",
+      "translation": "На этот раз никаких возвратов. Жалуйтесь, плачьте, кричите, вы ничего не будете есть!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 30,
+      "speaker": "Roger",
+      "original": "G-Girls! That's just too mean!",
+      "translation": "Девочки! Это слишком подло!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 31,
+      "speaker": "Roger",
+      "original": "Hahaha, she was even bigger than I was expecting! Good, good, I'm pleased with that!",
+      "translation": "Ха-ха-ха, она оказалась даже больше, чем я ожидал! Хорошо, хорошо, я доволен этим!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:32": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 32,
+      "speaker": "Sue",
+      "original": "He's not paying any attention to us! What can we do?",
+      "translation": "Он не обращает на нас никакого внимания! Что мы можем сделать?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:33": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 33,
+      "speaker": "Corneria",
+      "original": "Is there someone there? I can't hear you very well!",
+      "translation": "Там есть кто-нибудь? Я тебя плохо слышу!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:34": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 34,
+      "speaker": "Lydie",
+      "original": "Uwaaaah! Our atelier is being destroyed!",
+      "translation": "Уваааа! Наше ателье разрушают!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:35": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 35,
+      "speaker": "Sue",
+      "original": "Stay still! Please, don't move another muscle, Corneria!",
+      "translation": "Оставайся на месте! Пожалуйста, не двигай ни одним мускулом, Корнерия!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:36": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 36,
+      "speaker": "Roger",
+      "original": "Hahahaha! This is a success like few I've had in recent years! Hahaha!",
+      "translation": "Ха-ха-ха! Это успех, которого у меня было немного за последние годы! Ха-ха-ха!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:37": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 37,
+      "speaker": "Lydie",
+      "original": "It took a long time for Corneria to return to normal...",
+      "translation": "Корнерии потребовалось много времени, чтобы вернуться в нормальное состояние..."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:38": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 38,
+      "speaker": "Lydie",
+      "original": "And even after she did, we had to spend a lot on fixing the damage to the atelier.",
+      "translation": "И даже после того, как она это сделала, нам пришлось немало потратиться на устранение повреждений ателье."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:39": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 39,
+      "speaker": "Roger",
+      "original": "Ah, another screw up! I completely overlooked the potential for damage to the atelier!",
+      "translation": "Ах, очередной провал! Я совершенно упустил из виду возможность повреждения ателье!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:40": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 40,
+      "speaker": "Sue",
+      "original": "That's enough from you! I hope you're ready to pay!",
+      "translation": "Хватит с тебя! Надеюсь, вы готовы заплатить!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:41": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 41,
+      "speaker": "Roger",
+      "original": "What? I haven't really thought about that!",
+      "translation": "Что? Я особо об этом не думал!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:42": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 42,
+      "speaker": "Sue",
+      "original": "Seriously! What can we do with you!",
+      "translation": "Серьезно! Что нам с тобой сделать!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:43": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 43,
+      "speaker": "Corneria",
+      "original": "This is odd. I suddenly feel like going on a wrecking rampage?",
+      "translation": "Это странно. Мне вдруг захотелось впасть в разрушительную ярость?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:44": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 44,
+      "speaker": "Lydie",
+      "original": "C-Corneria, that sounds a bit excessively violent?",
+      "translation": "Си-Корнерия, это звучит слишком жестоко?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:45": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 45,
+      "speaker": "Roger",
+      "original": "Ah. That's probably one of the side effects of the ingredients I used.",
+      "translation": "Ах. Вероятно, это один из побочных эффектов ингредиентов, которые я использовал."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:46": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 46,
+      "speaker": "Lydie",
+      "original": "What were you thinking, Dad? This is a nightmare!",
+      "translation": "О чем ты думал, папа? Это кошмар!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:47": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 47,
+      "speaker": "Corneria",
+      "original": "Raaagh! I'm tearing this place down!",
+      "translation": "Раааа! Я снесу это место!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:48": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 48,
+      "speaker": "Sue",
+      "original": "She's started her rampage! W-We're finished! This is the end of the world!",
+      "translation": "Она начала буйствовать! М-мы закончили! Это конец света!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:49": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 49,
+      "speaker": "Lydie",
+      "original": "Agh!",
+      "translation": "Ах!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:50": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 50,
+      "speaker": "Sue",
+      "original": "That was a dream? All a dream! Phew, of course it was!",
+      "translation": "Это был сон? Всё мечта! Уф, конечно было!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:51": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 51,
+      "speaker": "Lydie",
+      "original": "Of course! There's no way Corneria could turn so massive in real life...",
+      "translation": "Конечно! В реальной жизни Корнерия не может стать такой огромной..."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:52": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 52,
+      "speaker": "Corneria",
+      "original": "Lydie, Sue... I'd really like to turn back to normal now?",
+      "translation": "Лиди, Сью... Мне бы очень хотелось вернуться к нормальной жизни сейчас?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:53": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 53,
+      "speaker": "Together",
+      "original": "It wasn't a dream!",
+      "translation": "Это был не сон!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:54": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 54,
+      "speaker": "System",
+      "original": "It wasn't a dream!",
+      "translation": "Это был не сон!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:55": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 55,
+      "speaker": "Lydie",
+      "original": "It took a long time for Corneria to return to normal...",
+      "translation": "Корнерии потребовалось много времени, чтобы вернуться в нормальное состояние..."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:56": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 56,
+      "speaker": "Lydie",
+      "original": "And even after she did, we had to spend a lot on fixing the damage to the atelier.",
+      "translation": "И даже после того, как она это сделала, нам пришлось немало потратиться на устранение повреждений ателье."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:57": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 57,
+      "speaker": "Roger",
+      "original": "Ah, another screw up. I didn't expect her to go on a destructive rampage. Hahaha!",
+      "translation": "Ах, еще один провал. Я не ожидал, что она впадет в разрушительную ярость. Ха-ха-ха!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:58": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 58,
+      "speaker": "Sue",
+      "original": "Hah!",
+      "translation": "Ха!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:59": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 59,
+      "speaker": "Roger",
+      "original": "Guwah! Hold on, girls! No violence! I don't agree with violence! Ugah!",
+      "translation": "Гува! Держитесь, девочки! Никакого насилия! Я не согласен с насилием! Уга!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:60": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 60,
+      "speaker": "System",
+      "original": "Paid 1000 Coll for repairs and other expenses.",
+      "translation": "Заплатили 1000 колл на ремонт и другие расходы."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_090.ebm:61": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_090.ebm",
+      "index": 61,
+      "speaker": "System",
+      "original": "Paid 3000 Coll for repairs and other expenses.",
+      "translation": "Заплачено 3000 колл на ремонт и другие расходы."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_100.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_100.ebm",
+      "index": 0,
+      "speaker": "Roger",
+      "original": "Hehehe. Hey, girls. How about we aim for the very pinnacle of alchemy together?",
+      "translation": "Хе-хе-хе. Привет, девочки. Как насчет того, чтобы вместе достичь вершины алхимии?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_100.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_100.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Uwah, this sounds suspicious. If you acted like that on the street, you'd be arrested!",
+      "translation": "Увау, это звучит подозрительно. Если бы ты вел себя так на улице, тебя бы арестовали!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_100.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_100.ebm",
+      "index": 2,
+      "speaker": "Roger",
+      "original": "Suspicious? I'm cool! Anyway, I've had another good idea, so I need your help.",
+      "translation": "Подозрительный? Я крут! В любом случае, у меня появилась еще одна хорошая идея, поэтому мне нужна ваша помощь."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_100.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_100.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Ugah! Just hearing that phrase brings back a bunch of horrible memories!",
+      "translation": "Уга! Просто услышав эту фразу, навевает кучу ужасных воспоминаний!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_100.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_100.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Come on, Dad. You're a licensed alchemist, after all. Stop with these crazy ideas! Okay?",
+      "translation": "Давай, папа. В конце концов, вы лицензированный алхимик. Хватит с этими безумными идеями! Хорошо?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_100.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_100.ebm",
+      "index": 5,
+      "speaker": "Roger",
+      "original": "Never! Alchemy is all about imagination. The day you stop trying is the day you stop growing.",
+      "translation": "Никогда! Алхимия основана на воображении. В тот день, когда вы перестанете пытаться, вы перестанете расти."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_100.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_100.ebm",
+      "index": 6,
+      "speaker": "Roger",
+      "original": "That's why I'm always using the power of flexible thinking to try and create new recipes!",
+      "translation": "Вот почему я всегда использую силу гибкого мышления, чтобы пробовать создавать новые рецепты!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_100.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_100.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Gah, and now you're almost making sense! Very well. We'll help you again.",
+      "translation": "Га, и теперь ты почти что-то понял! Очень хорошо. Мы снова поможем вам."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_100.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_100.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Although I bet we regret it. What's the item this time, then?",
+      "translation": "Хотя держу пари, что мы об этом пожалеем. Что же это за предмет на этот раз?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_100.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_100.ebm",
+      "index": 9,
+      "speaker": "Roger",
+      "original": "Ah-ha! The most powerful bomb in the history of the world! Collect up lots of bombs for me!",
+      "translation": "Ах-ха! Самая мощная бомба в мировой истории! Собери для меня побольше бомб!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_100.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_100.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Now this sounds really dangerous. Lydie! It isn't too late to back out of this!",
+      "translation": "Теперь это звучит очень опасно. Лиди! Еще не поздно отказаться от этого!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_100.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_100.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "You're right, Sue. Dad, forget we said anything! We're not going to help...",
+      "translation": "Ты права, Сью. Папа, забудь, что мы что-то говорили! Мы не собираемся помогать..."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_100.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_100.ebm",
+      "index": 12,
+      "speaker": "Roger",
+      "original": "Foolish girls, you can't escape now! Here's your list!",
+      "translation": "Глупые девчонки, вам теперь не сбежать! Вот ваш список!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_100.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_100.ebm",
+      "index": 13,
+      "speaker": "Roger",
+      "original": "If you don't help, I think I'll quietly coat Sue's guns with honey!",
+      "translation": "Если ты не поможешь, думаю, я тихонько помажу медом пистолеты Сью!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_100.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_100.ebm",
+      "index": 14,
+      "speaker": "Roger",
+      "original": "Hahaha! Imagine the terror, as hundreds of insects crawl toward your beloved weapons!",
+      "translation": "Ха-ха-ха! Представьте себе ужас, когда сотни насекомых ползут к вашему любимому оружию!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_100.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_100.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "Aaaah! Coward! That's just mean!",
+      "translation": "Аааа! Трус! Это просто подло!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_100.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_100.ebm",
+      "index": 16,
+      "speaker": "Roger",
+      "original": "Hahaha, call me whatever you like! I'll do whatever it takes, for the sake of my alchemy!",
+      "translation": "Ха-ха-ха, называй меня как хочешь! Я сделаю все возможное ради своей алхимии!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_100.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_100.ebm",
+      "index": 17,
+      "speaker": "Roger",
+      "original": "You know what you have to do, girls. I'm just going to step out and buy some honey!",
+      "translation": "Вы знаете, что вам нужно делать, девочки. Я просто выйду и куплю немного меда!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_100.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_100.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "Fiend! Monster! Uwah, Lydie.",
+      "translation": "Дьявол! Монстр! Ух, Лиди."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_100.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_100.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "Cheer up, Sue. Our dad really is good for nothing, though, isn't he?",
+      "translation": "Не унывайте, Сью. А ведь наш отец действительно ни на что не годен, не так ли?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_100.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_100.ebm",
+      "index": 20,
+      "speaker": "Lydie",
+      "original": "He also seems to be enjoying himself a bit more now... I guess we could help him a little?",
+      "translation": "И, кажется, теперь он немного больше развлекается... Думаю, мы могли бы ему немного помочь?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_105.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_105.ebm",
+      "index": 0,
+      "speaker": "Roger",
+      "original": "Hahaha, great work! I will now announce the results from me, your dear old dad.",
+      "translation": "Ха-ха-ха, отличная работа! Сейчас я объявлю результаты от себя, твоего дорогого старого папы."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_105.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_105.ebm",
+      "index": 1,
+      "speaker": "Roger",
+      "original": "That was incredible, girls! Hahaha! You've stirred up my creative soul!",
+      "translation": "Это было невероятно, девочки! Ха-ха-ха! Вы взбудоражили мою творческую душу!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_105.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_105.ebm",
+      "index": 2,
+      "speaker": "Roger",
+      "original": "Hahahah, well done, girls. I can make something good with this!",
+      "translation": "Ха-ха-ха, молодцы, девочки. Я могу сделать из этого что-то хорошее!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_105.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_105.ebm",
+      "index": 3,
+      "speaker": "Roger",
+      "original": "Hmm, not quite what I was expecting. I think this will still work, though.",
+      "translation": "Хм, не совсем то, что я ожидал. Хотя я думаю, что это все равно сработает."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_105.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_105.ebm",
+      "index": 4,
+      "speaker": "Roger",
+      "original": "This is no good! Girls, just what do you think creativity is? I can't accept this! Try again!",
+      "translation": "Это нехорошо! Девочки, а как вы думаете, что такое творчество? Я не могу это принять! Попробуйте еще раз!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 0,
+      "speaker": "Roger",
+      "original": "It's finished! This is it, girls! The bomb among bombs!",
+      "translation": "Все кончено! Вот оно, девочки! Бомба среди бомб!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 1,
+      "speaker": "Roger",
+      "original": "The ultimate explosive, which (I bet) countless alchemists have sought since history began!",
+      "translation": "Совершенное взрывчатое вещество, которое (держу пари) искали бесчисленные алхимики с начала истории!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "I heard that! But yes, it does look like quite a bomb.",
+      "translation": "Я это слышал! Но да, это действительно выглядит как настоящая бомба."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Yeah. Let me take a look... ah!",
+      "translation": "Ага. Позвольте мне взглянуть... ах!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 4,
+      "speaker": "Roger",
+      "original": "...hnnnn!",
+      "translation": "...хнннн!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Phew, that was close. I almost dropped it!",
+      "translation": "Уф, это было близко. Я чуть не уронил его!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 6,
+      "speaker": "Roger",
+      "original": "I'm glad you didn't... Talk about the party getting wiped out! More like the world...",
+      "translation": "Я рад, что ты этого не сделал... Поговорим о том, что вечеринка будет уничтожена! Скорее мир..."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "What? Dad, just how explosive is this thing?",
+      "translation": "Что? Пап, насколько взрывоопасна эта штука?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 8,
+      "speaker": "Roger",
+      "original": "Let me see. If it did ever explode, well... It could crack the planet...",
+      "translation": "Дайте-ка подумать. Если бы он когда-нибудь взорвался, что ж... Это могло бы расколоть планету..."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "W-What?! Why would you ever make such a thing?! I almost ended existence as we know it, just now!",
+      "translation": "Ч-Что?! Зачем тебе вообще такое делать?! Я почти закончил существование, каким мы его знаем, только сейчас!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 10,
+      "speaker": "Roger",
+      "original": "Indeed. I think you'd better handle it with a little more care! Here's the recipe, anyway.",
+      "translation": "Действительно. Я думаю, тебе лучше отнестись к этому с большей осторожностью! Во всяком случае, вот рецепт."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "We don't want that! We can't carry the burden of that much power!",
+      "translation": "Мы не хотим этого! Мы не сможем нести бремя такой силы!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 12,
+      "speaker": "Roger",
+      "original": "No, don't be like that. You've grown up a lot! I bet...",
+      "translation": "Нет, не будь таким. Ты сильно повзрослел! Бьюсь об заклад..."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "I'm not falling for it! I'm not falling for any more of your tricks!",
+      "translation": "Я на это не куплюсь! Я больше не поведусь на твои уловки!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 14,
+      "speaker": "Roger",
+      "original": "It seems a shame to waste it. I tucked it into your notebook, for safe keeping.",
+      "translation": "Кажется, жалко тратить его впустую. Я спрятал это в твой блокнот, на всякий случай."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "Hey, don't touch my stuff! And what do you mean, \"tucked\", it's stick in with glue!",
+      "translation": "Эй, не трогай мои вещи! А что значит \"заправил\", он приклеен!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 16,
+      "speaker": "Roger",
+      "original": "Hahaha! The ultimate collaboration between father and daughters... I'm happy it turned out so well.",
+      "translation": "Ха-ха-ха! Идеальное сотрудничество отца и дочерей... Я рад, что все получилось так хорошо."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 17,
+      "speaker": "Lydie",
+      "original": "Hah! Enough with your crazy recipes, Dad. This is the last one! Otherwise, well, you'll see!",
+      "translation": "Ха! Хватит твоих сумасшедших рецептов, пап. Это последний! В противном случае, ну вы увидите!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "Uwah! Lydie has lost it.",
+      "translation": "Ува! Лиди потеряла это."
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 19,
+      "speaker": "Roger",
+      "original": "I'll see what?",
+      "translation": "Я посмотрю, что?"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 20,
+      "speaker": "Lydie",
+      "original": "You are better off not asking that question! Hehe!",
+      "translation": "Лучше не задавай этот вопрос! Хе-хе!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 21,
+      "speaker": "Roger",
+      "original": "Uwaah!",
+      "translation": "Уваа!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 22,
+      "speaker": "Sue",
+      "original": "That isn't going to stop you, is it? We'll be dealing with your crackpot schemes forever!",
+      "translation": "Это тебя не остановит, не так ли? Мы всегда будем иметь дело с вашими сумасшедшими схемами!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 23,
+      "speaker": "Sue",
+      "original": "Well, I guess I don't mind. It's dangerous, sure, but it's also a lot of fun! Haha!",
+      "translation": "Ну, думаю, я не против. Конечно, это опасно, но и очень весело! Хаха!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 24,
+      "speaker": "Roger",
+      "original": "I will not bow to threats! Never! Alchemy and creativity must be free! Freedom! FREEDOM!",
+      "translation": "Я не подчинюсь угрозам! Никогда! Алхимия и творчество должны быть свободными! Свобода! СВОБОДА!"
+    },
+    "ebm:qc07_rog/event_message_qc07_rog_110.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc07_rog/event_message_qc07_rog_110.ebm",
+      "index": 25,
+      "speaker": "System",
+      "original": "<CLEG>Roger's Forbidden Idea<CLNR> was glued to your notebook.",
+      "translation": "<CLEG>Запретная идея Роджера<CLNR> была приклеена к твоему блокноту."
+    }
+  }
+}

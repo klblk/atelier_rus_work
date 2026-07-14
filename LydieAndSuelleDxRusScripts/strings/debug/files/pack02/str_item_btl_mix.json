@@ -1,0 +1,358 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_item_btl_mix.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:7143425": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143425",
+      "original": "A Fire attack on a single enemy, with a high probability of causing Burns.",
+      "translation": "Огненная атака по одному врагу с высокой вероятностью наложить ожог."
+    },
+    "pack02:7143426": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143426",
+      "original": "An Ice attack on a single enemy, with a high probability of causing Slowness.^00Greatly lowers Defense.",
+      "translation": "Ледяная атака на одного врага с высокой вероятностью вызвать Медлительность.^00Значительно снижает защиту."
+    },
+    "pack02:7143427": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143427",
+      "original": "A Lightning attack on a single enemy, with a high probability of knocking them down.^00Greatly lowers Attack.",
+      "translation": "Молниеносная атака на одного врага с высокой вероятностью сбивает его с ног.^00Значительно снижает атаку."
+    },
+    "pack02:7143428": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143428",
+      "original": "An Air attack on a single enemy, with a high probability of causing Sleep.",
+      "translation": "Воздушная атака на одного врага с высокой вероятностью усыпления."
+    },
+    "pack02:7143429": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143429",
+      "original": "★Lydie Exclusive^00Medium HP Recovery to all allies, with additional HP Recovery on every turn.",
+      "translation": "★Только для Лидии^00Среднее восстановление HP всем союзникам с дополнительным восстановлением HP на каждом ходу."
+    },
+    "pack02:7143430": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143430",
+      "original": "★Lydie Exclusive^00Lowers skill MP consumption for a single ally.",
+      "translation": "★Только для Лидии^00Снижает расход MP для одного союзника."
+    },
+    "pack02:7143431": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143431",
+      "original": "★Suelle Exclusive^00High probability of causing Sleep to all enemies.",
+      "translation": "★Только для Сюэль^00Высокая вероятность усыпить всех врагов."
+    },
+    "pack02:7143432": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143432",
+      "original": "Nullifies Area Effects for a number of turns.",
+      "translation": "Обнуляет эффекты области на несколько ходов."
+    },
+    "pack02:7143433": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143433",
+      "original": "★Suelle Exclusive^00Medium probability of causing Blindness to all enemies.",
+      "translation": "★Только для Сюэль^00Средняя вероятность ослепления всех врагов."
+    },
+    "pack02:7143434": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143434",
+      "original": "Increases the Exp received in the end of the battle.",
+      "translation": "Увеличивает опыт, получаемый в конце боя."
+    },
+    "pack02:7143435": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143435",
+      "original": "★Lydie Exclusive^00Applies resistance to all special attacks to all allies.",
+      "translation": "★Только для Лидии^00Применяет сопротивление ко всем специальным атакам всем союзникам."
+    },
+    "pack02:7143436": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143436",
+      "original": "★Suelle Exclusive^00Instantly revives a single ally.",
+      "translation": "★Только для Сюэль^00Мгновенно воскрешает одного союзника."
+    },
+    "pack02:7143437": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143437",
+      "original": "★Lydie Exclusive^00Applies large HP Recovery to all allies and removes all ailments.",
+      "translation": "★Только для Лидии^00Применяет большое восстановление HP ко всем союзникам и снимает все недуги."
+    },
+    "pack02:7143438": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143438",
+      "original": "★Suelle Exclusive^00High probability of causing Sleep and Poison to a single enemy.",
+      "translation": "★Только для Сюэль^00Высокая вероятность вызвать усыпление и яд у одного врага."
+    },
+    "pack02:7143439": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143439",
+      "original": "★Lydie Exclusive^00Fire attack with extra large damage and a high probability of causing Burns to all enemies.",
+      "translation": "★Эксклюзив Лидия^00Огненная атака с очень большим уроном и высокой вероятностью нанесения ожогов всем врагам."
+    },
+    "pack02:7143440": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143440",
+      "original": "★Lydie Exclusive^00Fills the Combination Gauge of a single ally to 100%.",
+      "translation": "★Только для Лидии^00Заполняет шкалу комбинации одного союзника до 100%."
+    },
+    "pack02:7143441": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143441",
+      "original": "★Suelle Exclusive^00Heavily Stuns all enemies.",
+      "translation": "★Только для Сюэль^00Сильно оглушает всех врагов."
+    },
+    "pack02:7143442": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143442",
+      "original": "★Suelle Exclusive^00Causes heavy Fire, Ice, Lightning, and Air damage to all enemies.",
+      "translation": "★Только для Сюэль^00Наносит всем врагам сильный урон огнём, льдом, молнией и воздухом."
+    },
+    "pack02:7143443": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143443",
+      "original": "★Suelle Exclusive^00Poisons all enemies.",
+      "translation": "★Только для Сюэль^00Отравляет всех врагов."
+    },
+    "pack02:7143444": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143444",
+      "original": "★Lydie Exclusive^00Fills Combination Gauges of all allies to 100%.",
+      "translation": "★Только для Лидии^00Заполняет комбинированные шкалы всех союзников до 100%."
+    },
+    "pack02:7143445": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143445",
+      "original": "&lt;CLGR&gt;Extra Effect: &quot;Chain of Explosions&quot;&lt;CLNR&gt;^00Additional Fire damage to all enemies. &lt;CLRE&gt;Damage increases if number of Anima is above 50.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Дополнительный эффект: «Цепочка взрывов»&lt;CLNR&gt;^00Дополнительный урон от огня всем врагам. &lt;CLRE&gt;Урон увеличивается, если количество Анимы превышает 50.&lt;CLNR&gt;"
+    },
+    "pack02:7143446": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143446",
+      "original": "&lt;CLGR&gt;Extra Effect: &quot;Aimed Lightning Strike&quot;&lt;CLNR&gt;^00Additional Lightning damage to a single enemy. High probability of a critical. &lt;CLRE&gt;Probability of a critical increases if number of Anima is above 50.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Дополнительный эффект: «Прицельный удар молнии»&lt;CLNR&gt;^00Дополнительный урон молнией одному противнику. Высокая вероятность крита. &lt;CLRE&gt;Вероятность критического удара увеличивается, если количество Аним превышает 50.&lt;CLNR&gt;"
+    },
+    "pack02:7143447": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143447",
+      "original": "&lt;CLGR&gt;Extra Effect: Total Freeze&lt;CLNR&gt;^00Additional Ice damage in enemy's range. &lt;CLRE&gt;Applies Slowness if number of Anima is above 50.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Дополнительный эффект: Полная заморозка&lt;CLNR&gt;^00Дополнительный урон льдом в радиусе действия врага. &lt;CLRE&gt;Применяет замедление, если количество аним превышает 50.&lt;CLNR&gt;"
+    },
+    "pack02:7143448": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143448",
+      "original": "&lt;CLGR&gt;Extra Effect: &quot;Cutting Wind&quot;&lt;CLNR&gt;^00Additional Air damage to all enemies. &lt;CLRE&gt;Damage increases if number of Anima is above 60.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Дополнительный эффект: «Режущий ветер»&lt;CLNR&gt;^00Дополнительный урон от воздуха всем врагам. &lt;CLRE&gt;Урон увеличивается, если количество Анимы превышает 60.&lt;CLNR&gt;"
+    },
+    "pack02:7143449": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143449",
+      "original": "&lt;CLGR&gt;Extra Effect: &quot;Thorns of Light&quot;&lt;CLNR&gt;^00Causes heavy damage to a single enemy piercing through their defenses. &lt;CLRE&gt;Damage increases if number of Anima is above 50.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Дополнительный эффект: «Шипы Света»&lt;CLNR&gt;^00Наносит тяжёлый урон одному врагу, пробивая его защиту. &lt;CLRE&gt;Урон увеличивается, если количество Анимы превышает 50.&lt;CLNR&gt;"
+    },
+    "pack02:7143450": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143450",
+      "original": "&lt;CLGR&gt;Extra Effect: &quot;Energy Gain&quot;&lt;CLNR&gt;^00Removes bad status effects from a single ally. &lt;CLRE&gt;Increases Attack if number of Anima is above 30.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Дополнительный эффект: «Прирост энергии»&lt;CLNR&gt;^00Удаляет плохие статусные эффекты с одного союзника. &lt;CLRE&gt;Увеличивает атаку, если количество Анимы превышает 30.&lt;CLNR&gt;"
+    },
+    "pack02:7143451": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143451",
+      "original": "&lt;CLGR&gt;Extra Effect: &quot;Centrifugal Force Boost&quot;&lt;CLNR&gt;^00Applies 300 points of damage in enemy's range. &lt;CLRE&gt;Adds additional 200 points of damage if number of Anima is above 50.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Дополнительный эффект: «Усиление центробежной силы»&lt;CLNR&gt;^00Наносит 300 единиц урона в радиусе действия врага. &lt;CLRE&gt;Добавляет дополнительно 200 единиц урона, если количество Анимы превышает 50.&lt;CLNR&gt;"
+    },
+    "pack02:7143452": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143452",
+      "original": "&lt;CLGR&gt;Extra Effect: &quot;Forest Aroma&quot;&lt;CLNR&gt;^00Applies automatic MP Recovery to all allies. &lt;CLRE&gt;Adds automatic HP Recovery if number of Anima is above 30.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Дополнительный эффект: «Лесной аромат»&lt;CLNR&gt;^00Применяет автоматическое восстановление MP ко всем союзникам. &lt;CLRE&gt;Добавляет автоматическое восстановление HP, если количество Анима превышает 30.&lt;CLNR&gt;"
+    },
+    "pack02:7143453": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143453",
+      "original": "&lt;CLGR&gt;Extra Effect: &quot;Cooling Breeze&quot;&lt;CLNR&gt;^00Applies large HP Recovery to all allies. &lt;CLRE&gt;Increases Defense if number of Anima is above 30.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Дополнительный эффект: «Прохладный бриз»&lt;CLNR&gt;^00Применяет большое восстановление HP ко всем союзникам. &lt;CLRE&gt;Увеличивает защиту, если количество Анимы превышает 30.&lt;CLNR&gt;"
+    },
+    "pack02:7143454": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143454",
+      "original": "★Suelle Exclusive^00&lt;CLGR&gt;Extra Effect: &quot;Binding Poison&quot;&lt;CLNR&gt;^00Poisons a single enemy.&lt;CLRE&gt;^00Effect changes to Deadly Poison if number of Anima is above 80.&lt;CLNR&gt;",
+      "translation": "★Только для Сюэль^00&lt;CLGR&gt;Дополнительный эффект: «Связывающий яд»&lt;CLNR&gt;^00Отравляет одного врага.&lt;CLRE&gt;^00Эффект меняется на Смертельный яд, если количество аним превышает 80.&lt;CLNR&gt;"
+    },
+    "pack02:7143455": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143455",
+      "original": "★Lydie Exclusive^00&lt;CLGR&gt;Extra Effect: &quot;Softener&quot;&lt;CLNR&gt;^00Raises maximum HP of all allies. &lt;CLRE&gt;Increases the effect if number of Anima is above 20.&lt;CLNR&gt;",
+      "translation": "★Только для Лидии^00&lt;CLGR&gt;Дополнительный эффект: «Смягчение»&lt;CLNR&gt;^00Повышает максимальное количество HP всех союзников. &lt;CLRE&gt;Усиливает эффект, если количество Анимы превышает 20.&lt;CLNR&gt;"
+    },
+    "pack02:7143456": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143456",
+      "original": "★Suelle Exclusive^00&lt;CLGR&gt;Extra Effect: &quot;Origin Awakening&quot;&lt;CLNR&gt;^00Increases Attack and Equipment Effect. &lt;CLRE&gt;Increases the effect if number of Anima is above 50.&lt;CLNR&gt;",
+      "translation": "★Только для Сюэль^00&lt;CLGR&gt;Дополнительный эффект: «Пробуждение происхождения»&lt;CLNR&gt;^00Увеличивает эффект атаки и снаряжения. &lt;CLRE&gt;Усиливает эффект, если количество Анима превышает 50.&lt;CLNR&gt;"
+    },
+    "pack02:7143457": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143457",
+      "original": "&lt;CLGR&gt;Extra Effect: &quot;Megabomb&quot;&lt;CLNR&gt;^00Additional Fire and Basic damage. &lt;CLRE&gt;Increases Basic damage if number of Anima is above 80.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Дополнительный эффект: «Мегабомба»&lt;CLNR&gt;^00Дополнительный огненный и базовый урон. &lt;CLRE&gt;Увеличивает базовый урон, если количество Анимы превышает 80.&lt;CLNR&gt;"
+    },
+    "pack02:7143458": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143458",
+      "original": "&lt;CLGR&gt;Extra Effect: &quot;Time Freezer&quot;&lt;CLNR&gt;^00Causes powerful Slowness in the specified area. &lt;CLRE&gt;Adds Sleep if number of Anima is above 70.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Дополнительный эффект: «Заморозка времени»&lt;CLNR&gt;^00Вызывает мощную замедленность в указанной области. &lt;CLRE&gt;Добавляет сон, если количество Анимы превышает 70.&lt;CLNR&gt;"
+    },
+    "pack02:7143459": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143459",
+      "original": "&lt;CLGR&gt;Extra Effect: &quot;Delayed Lightning Strike&quot;&lt;CLNR&gt;^00Produces a Time Card with additional Lightning damage for a single enemy. &lt;CLRE&gt;Adds another Time Card if number of Anima is above 50.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Дополнительный эффект: «Отложенный удар молнии»&lt;CLNR&gt;^00Дает карту времени с дополнительным уроном от молнии для одного врага. &lt;CLRE&gt;Добавляет еще одну карту времени, если количество Аним превышает 50.&lt;CLNR&gt;"
+    },
+    "pack02:7143460": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143460",
+      "original": "&lt;CLGR&gt;Extra Effect: &quot;Blinding Gale&quot;&lt;CLNR&gt;^00Causes Blindness to all enemies.^00&lt;CLRE&gt;Adds Immobility if number of Anima is above 50.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Дополнительный эффект: «Слепящая буря»&lt;CLNR&gt;^00Вызывает слепоту всех врагов.^00&lt;CLRE&gt;Добавляет обездвиженность, если количество аним превышает 50.&lt;CLNR&gt;"
+    },
+    "pack02:7143461": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143461",
+      "original": "★Suelle Exclusive^00&lt;CLGR&gt;Extra Effect: &quot;Supreme Presence&quot;&lt;CLNR&gt;^00Greatly increases Attack of a single ally. &lt;CLRE&gt;Increases Equipment Effect if number of Anima is above 60.&lt;CLNR&gt;",
+      "translation": "★Только для Сюэль^00&lt;CLGR&gt;Дополнительный эффект: «Высшее присутствие»&lt;CLNR&gt;^00Значительно увеличивает атаку одного союзника. &lt;CLRE&gt;Увеличивает эффект снаряжения, если количество Анимы превышает 60.&lt;CLNR&gt;"
+    },
+    "pack02:7143462": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143462",
+      "original": "★Lydie Exclusive^00&lt;CLGR&gt;Extra Effect: &quot;White Rainbow Ward&quot;&lt;CLNR&gt;^00Greatly enhances Evasion ability of all allies. &lt;CLRE&gt;Greatly increases probability of a critical if number of Anima is above 60.&lt;CLNR&gt;",
+      "translation": "★Только для Лидии^00&lt;CLGR&gt;Дополнительный эффект: «Оберег Белой Радуги»&lt;CLNR&gt;^00Значительно увеличивает способность уклонения всех союзников. &lt;CLRE&gt;Значительно увеличивает вероятность критического удара, если количество Анимы превышает 60.&lt;CLNR&gt;"
+    },
+    "pack02:7143463": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143463",
+      "original": "★Lydie Exclusive^00&lt;CLGR&gt;Extra Effect: &quot;Absolute Healing&quot;&lt;CLNR&gt;^00Applies full HP Recovery to all allies. &lt;CLRE&gt;Applies full MP Recovery if number of Anima is above 60.&lt;CLNR&gt;",
+      "translation": "★Только для Лидии^00&lt;CLGR&gt;Дополнительный эффект: «Абсолютное исцеление»&lt;CLNR&gt;^00Применяет полное восстановление HP ко всем союзникам. &lt;CLRE&gt;Применяет полное восстановление MP, если количество Анимы превышает 60.&lt;CLNR&gt;"
+    },
+    "pack02:7143464": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143464",
+      "original": "★Lydie Exclusive^00&lt;CLGR&gt;Extra Effect: &quot;Despair of World's End&quot;&lt;CLNR&gt;^00Extreme Basic damage to a single enemy. &lt;CLRE&gt;Greatly lowers all statuses if number of Anima is 99.&lt;CLNR&gt;",
+      "translation": "★Только для Лидии^00&lt;CLGR&gt;Дополнительный эффект: «Отчаяние конца света»&lt;CLNR&gt;^00Экстремальный базовый урон одному противнику. &lt;CLRE&gt;Значительно снижает все статусы, если количество Анима равно 99.&lt;CLNR&gt;"
+    },
+    "pack02:7143465": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143465",
+      "original": "Inflicts Fire, Ice and Lightning damage on a single enemy.",
+      "translation": "Наносит урон огнем, льдом и молнией одному врагу."
+    },
+    "pack02:7143466": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143466",
+      "original": "Inflicts Fire and Air damage on a single enemy.",
+      "translation": "Наносит урон огнем и воздухом одному врагу."
+    },
+    "pack02:7143467": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143467",
+      "original": "Inflicts Lightning and Ice damage on a single enemy.",
+      "translation": "Наносит урон молнией и льдом одному противнику."
+    },
+    "pack02:7143468": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143468",
+      "original": "★Suelle Exclusive^00Raises the target's Attack, Defense, Speed and Equipment Effect.",
+      "translation": "★Только для Сюэль^00Повышает атаку, защиту, скорость и эффект снаряжения цели."
+    },
+    "pack02:7143469": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143469",
+      "original": "★Lydie Exclusive^00Recovers the HP of all allies, and heals one status ailment.",
+      "translation": "★Только для Лидии^00Восстанавливает HP всех союзников и лечит одно статусное недомогание."
+    },
+    "pack02:7143470": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143470",
+      "original": "★Suelle Exclusive^00&lt;CLGR&gt;Extra Effect: &quot;Mysterious Strength&quot;&lt;CLNR&gt;^00Significantly lowers all enemy Attack, Defense and Speed. &lt;CLRE&gt;Effect increases if number of Anima is above 60.&lt;CLNR&gt;",
+      "translation": "★Только для Сюэль^00&lt;CLGR&gt;Дополнительный эффект: «Таинственная сила»&lt;CLNR&gt;^00Значительно снижает атаку, защиту и скорость всех врагов. &lt;CLRE&gt;Эффект усиливается, если количество Аним превышает 60.&lt;CLNR&gt;"
+    },
+    "pack02:7143471": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143471",
+      "original": "★Lydie Exclusive^00&lt;CLGR&gt;Extra Effect: &quot;Spirit's Portrait&quot;&lt;CLNR&gt;^00Inflicts heavy fixed damage on all enemies. &lt;CLRE&gt;Damage increases if number of Anima is above 80.&lt;CLNR&gt;",
+      "translation": "★Только для Лидии^00&lt;CLGR&gt;Дополнительный эффект: «Портрет духа»&lt;CLNR&gt;^00Наносит тяжелый фиксированный урон всем врагам. &lt;CLRE&gt;Урон увеличивается, если количество Анимы превышает 80.&lt;CLNR&gt;"
+    },
+    "pack02:7143472": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143472",
+      "original": "★Suelle Exclusive^00&lt;CLGR&gt;Extra Effect: &quot;Honed Strike&quot;&lt;CLNR&gt;^00Inflicts extreme Fire damage on all enemies. &lt;CLRE&gt;Damage increases if number of Anima is above 80.&lt;CLNR&gt;",
+      "translation": "★Только для Сюэль^00&lt;CLGR&gt;Дополнительный эффект: «Отточенный удар»&lt;CLNR&gt;^00Наносит огромный урон от огня всем врагам. &lt;CLRE&gt;Урон увеличивается, если количество Анимы превышает 80.&lt;CLNR&gt;"
+    },
+    "pack02:7143473": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143473",
+      "original": "★Lydie Exclusive^00&lt;CLGR&gt;Extra Effect: &quot;Holy Water of Mercy&quot;&lt;CLNR&gt;^00Activates 2 time cards. &lt;CLRE&gt;An additional time card is activated if number of Anima is above 60.&lt;CLNR&gt;",
+      "translation": "★Только для Лидии^00&lt;CLGR&gt;Дополнительный эффект: «Святая вода милосердия»&lt;CLNR&gt;^00Активирует 2 карты времени. &lt;CLRE&gt;Дополнительная карта времени активируется, если количество Аним превышает 60.&lt;CLNR&gt;"
+    },
+    "pack02:7143474": {
+      "source": "pack02_text_en",
+      "file": "str_item_btl_mix.xml",
+      "string_no": "7143474",
+      "original": "&lt;CLGR&gt;Extra Effect: &quot;Light of Salvation&quot;&lt;CLNR&gt;^00Significantly restores all allies' HP, and restores more HP each turn. &lt;CLRE&gt;Effect increases if number of Anima is above 40.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Дополнительный эффект: «Свет спасения»&lt;CLNR&gt;^00Значительно восстанавливает HP всем союзникам и восстанавливает больше HP каждый ход. &lt;CLRE&gt;Эффект усиливается, если количество Аним превышает 40.&lt;CLNR&gt;"
+    }
+  }
+}

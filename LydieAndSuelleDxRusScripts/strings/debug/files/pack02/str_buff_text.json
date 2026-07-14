@@ -1,0 +1,400 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_buff_text.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:20316163": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316163",
+      "original": "Unable to move.",
+      "translation": "Невозможно двигаться."
+    },
+    "pack02:20316164": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316164",
+      "original": "Take damage each turn.",
+      "translation": "Получайте урон каждый ход."
+    },
+    "pack02:20316165": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316165",
+      "original": "Increases wait time.",
+      "translation": "Увеличивает время ожидания."
+    },
+    "pack02:20316166": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316166",
+      "original": "Take damage when healed.",
+      "translation": "Получите урон при исцелении."
+    },
+    "pack02:20316167": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316167",
+      "original": "Decreases hit chance and evasion chance.",
+      "translation": "Уменьшает шанс попадания и шанс уклонения."
+    },
+    "pack02:20316168": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316168",
+      "original": "Decreases skill power.",
+      "translation": "Уменьшает силу навыка."
+    },
+    "pack02:20316169": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316169",
+      "original": "Cannot recover HP or MP.",
+      "translation": "Невозможно восстановить HP или MP."
+    },
+    "pack02:20316170": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316170",
+      "original": "Some commands are unusable.",
+      "translation": "Некоторые команды непригодны для использования."
+    },
+    "pack02:20316171": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316171",
+      "original": "Take damage each turn.",
+      "translation": "Получайте урон каждый ход."
+    },
+    "pack02:20316172": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316172",
+      "original": "Take heavy damage each turn.",
+      "translation": "Получайте тяжелый урон каждый ход."
+    },
+    "pack02:20316179": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316179",
+      "original": "Temporarily increases level by &lt;NUM1&gt;.",
+      "translation": "Временно увеличивает уровень на &lt;NUM1&gt;."
+    },
+    "pack02:20316180": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316180",
+      "original": "Increases ATK by &lt;NUM1&gt;.",
+      "translation": "Увеличивает АТК на &lt;NUM1&gt;."
+    },
+    "pack02:20316181": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316181",
+      "original": "Increases DEF by &lt;NUM1&gt;.",
+      "translation": "Увеличивает ЗЩТ на &lt;NUM1&gt;."
+    },
+    "pack02:20316182": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316182",
+      "original": "Increases SPD by &lt;NUM1&gt;.",
+      "translation": "Увеличивает скорость на &lt;NUM1&gt;."
+    },
+    "pack02:20316184": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316184",
+      "original": "Increases maximum HP by &lt;NUM1&gt;%.",
+      "translation": "Увеличивает максимальное количество HP на &lt;NUM1&gt;%."
+    },
+    "pack02:20316185": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316185",
+      "original": "Critical hit rate changes by &lt;NUM1&gt;.",
+      "translation": "Вероятность критического удара изменится на &lt;NUM1&gt;."
+    },
+    "pack02:20316186": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316186",
+      "original": "Changes hit rate by &lt;NUM1&gt;.",
+      "translation": "Изменяет частоту попаданий на &lt;NUM1&gt;."
+    },
+    "pack02:20316187": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316187",
+      "original": "Changes evasion rate by &lt;NUM1&gt;.",
+      "translation": "Изменяет скорость уклонения на &lt;NUM1&gt;."
+    },
+    "pack02:20316188": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316188",
+      "original": "Ailments last for &lt;NUM1&gt; turns.",
+      "translation": "Недомогания длятся &lt;NUM1&gt; ходов."
+    },
+    "pack02:20316189": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316189",
+      "original": "Reduces all damage by &lt;NUM1&gt;%.",
+      "translation": "Уменьшает весь урон на &lt;NUM1&gt;%."
+    },
+    "pack02:20316190": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316190",
+      "original": "Changes critical bonus by &lt;NUM1&gt;.",
+      "translation": "Изменяет критический бонус на &lt;NUM1&gt;."
+    },
+    "pack02:20316196": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316196",
+      "original": "Mirror images appear, providing support.",
+      "translation": "Материализация защитных зеркал."
+    },
+    "pack02:20316202": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316202",
+      "original": "Temporarily reduces level by &lt;NUM1&gt;.",
+      "translation": "Временно снижает уровень на &lt;NUM1&gt;."
+    },
+    "pack02:20316203": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316203",
+      "original": "Reduces ATK by &lt;NUM1&gt;.",
+      "translation": "Уменьшает АТК на &lt;NUM1&gt;."
+    },
+    "pack02:20316204": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316204",
+      "original": "Reduces DEF by &lt;NUM1&gt;.",
+      "translation": "Уменьшает ЗЩТ на &lt;NUM1&gt;."
+    },
+    "pack02:20316205": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316205",
+      "original": "Reduces SPD by &lt;NUM1&gt;.",
+      "translation": "Уменьшает СПД на &lt;NUM1&gt;."
+    },
+    "pack02:20316207": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316207",
+      "original": "Reduces maximum HP by &lt;NUM1&gt;%.",
+      "translation": "Уменьшает максимальное количество HP на &lt;NUM1&gt;%."
+    },
+    "pack02:20316208": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316208",
+      "original": "Changes skill MP consumption by &lt;NUM1&gt;%.",
+      "translation": "Изменяет расход MP навыков на &lt;NUM1&gt;%."
+    },
+    "pack02:20316209": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316209",
+      "original": "Increases all damage by &lt;NUM1&gt;%.",
+      "translation": "Увеличивает весь урон на &lt;NUM1&gt;%."
+    },
+    "pack02:20316214": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316214",
+      "original": "Changes item effect by &lt;NUM1&gt;%.",
+      "translation": "Изменяет эффект предмета на &lt;NUM1&gt;%."
+    },
+    "pack02:20316215": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316215",
+      "original": "Lose HP each turn.",
+      "translation": "Потеря ОЗ каждый ход."
+    },
+    "pack02:20316216": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316216",
+      "original": "Lose more HP each turn the lower HP drops.",
+      "translation": "Потеря ОЗ каждый ход. (ОЗ↓ -&gt; потеря↑)."
+    },
+    "pack02:20316228": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316228",
+      "original": "Temporarily reduces level by &lt;NUM1&gt;.",
+      "translation": "Временно снижает уровень на &lt;NUM1&gt;."
+    },
+    "pack02:20316229": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316229",
+      "original": "Reduces ATK by &lt;NUM1&gt;.",
+      "translation": "Уменьшает АТК на &lt;NUM1&gt;."
+    },
+    "pack02:20316230": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316230",
+      "original": "Reduces DEF by &lt;NUM1&gt;.",
+      "translation": "Уменьшает ЗЩТ на &lt;NUM1&gt;."
+    },
+    "pack02:20316231": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316231",
+      "original": "Reduces SPD by &lt;NUM1&gt;.",
+      "translation": "Уменьшает СПД на &lt;NUM1&gt;."
+    },
+    "pack02:20316237": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316237",
+      "original": "Revive from KO.",
+      "translation": "Возродиться после нокаута."
+    },
+    "pack02:20316238": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316238",
+      "original": "Restore HP each turn.",
+      "translation": "Восстанавливайте HP каждый ход."
+    },
+    "pack02:20316239": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316239",
+      "original": "Restore MP each turn.",
+      "translation": "Восстанавливайте MP каждый ход."
+    },
+    "pack02:20316242": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316242",
+      "original": "Increases number of actions by &lt;NUM1&gt;.",
+      "translation": "Увеличивает количество действий на &lt;NUM1&gt;."
+    },
+    "pack02:20316243": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316243",
+      "original": "Changes wait time by &lt;NUM1&gt;%.",
+      "translation": "Изменяет время ожидания на &lt;NUM1&gt;%."
+    },
+    "pack02:20316244": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316244",
+      "original": "Have a chance of reducing wait time.",
+      "translation": "Есть шанс сократить время ожидания."
+    },
+    "pack02:20316245": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316245",
+      "original": "Reduces damage from enemy attacks a number of times.",
+      "translation": "Снижение получаемого урона в несколько раз."
+    },
+    "pack02:20316248": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316248",
+      "original": "Changes Stun increase rate by &lt;NUM1&gt;.",
+      "translation": "Изменяет скорость увеличения оглушения на &lt;NUM1&gt;."
+    },
+    "pack02:20316249": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316249",
+      "original": "Decreases resistance to a specific element.",
+      "translation": "Уменьшает сопротивление определенному элементу."
+    },
+    "pack02:20316250": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316250",
+      "original": "Made a target, MP is restored when taking damage.",
+      "translation": "Сделано целью, MP восстанавливается при получении урона."
+    },
+    "pack02:20316251": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316251",
+      "original": "Doubles ATK, but DEF is reduced to 0. Unable to remove.",
+      "translation": "Удваивает АТК, но ЗЩТ снижается до 0. Невозможно удалить."
+    },
+    "pack02:20316274": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316274",
+      "original": "Increases Equipment Effect by &lt;NUM1&gt;.",
+      "translation": "Увеличивает эффект снаряжения на &lt;NUM1&gt;."
+    },
+    "pack02:20316276": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316276",
+      "original": "Decreases ATK + applies Burns.",
+      "translation": "Уменьшает АТК + накладывает ожоги."
+    },
+    "pack02:20316277": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316277",
+      "original": "Decreases DEF + applies Slowness.",
+      "translation": "Уменьшает ЗЩТ + применяет Медлительность."
+    },
+    "pack02:20316278": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316278",
+      "original": "Decreases Equipment Effect + applies Seal.",
+      "translation": "Уменьшает эффект снаряжения + накладывает печать."
+    },
+    "pack02:20316279": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316279",
+      "original": "Decreases SPD + applies Poison.",
+      "translation": "Уменьшает скорость + накладывает яд."
+    },
+    "pack02:20316280": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316280",
+      "original": "Reduces all wait times by half + reduces elemental damage by half.",
+      "translation": "Уменьшает время ожидания вдвое + снижает урон от стихий вдвое."
+    },
+    "pack02:20316281": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316281",
+      "original": "Decreases Equipment Effect by &lt;NUM1&gt;.",
+      "translation": "Уменьшает эффект снаряжения на &lt;NUM1&gt;."
+    },
+    "pack02:20316282": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316282",
+      "original": "Increases resistance to a specific element.",
+      "translation": "Увеличивает устойчивость к определенному элементу."
+    },
+    "pack02:20316283": {
+      "source": "pack02_text_en",
+      "file": "str_buff_text.xml",
+      "string_no": "20316283",
+      "original": "Decreases resistance to a specific element.",
+      "translation": "Уменьшает сопротивление определенному элементу."
+    }
+  }
+}

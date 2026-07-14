@@ -1,0 +1,680 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_ambition_article_text.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:655361": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655361",
+      "original": "We’ve decided to use alchemy to help people, but we still have plenty of free time, so let’s see if we can find some other stuff to do to work on building up our reputation!",
+      "translation": "Мы решили помогать людям алхимией, но свободного времени всё равно хватает — так что давайте поищем, чем ещё заняться, чтобы наращивать нашу репутацию!"
+    },
+    "pack02:655362": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655362",
+      "original": "We haven’t thought about what to do after we achieve our goal. We should probably put more thought into it.",
+      "translation": "Мы даже не думали, что будем делать после достижения цели. Наверное, стоит подумать об этом серьёзнее."
+    },
+    "pack02:655363": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655363",
+      "original": "This is what we’ve managed to come up with for now.^00Anyway, let’s work on becoming number one first!",
+      "translation": "Пока что мы придумали только это.^00Ладно, для начала давайте станем лучшими!"
+    },
+    "pack02:655364": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655364",
+      "original": "The most important things for an alchemist are their synthesis ability and a sense of creativity. In other words, we have to clearly demonstrate that we have both qualities in abundance. Easy peasy!",
+      "translation": "Для алхимика важнее всего умение синтезировать и чувство творчества. То есть нам нужно ясно показать, что обоими качествами мы обладаем в избытке. Легко!"
+    },
+    "pack02:655365": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655365",
+      "original": "Of course, it won’t be easy to do so, but we can’t stop now if we want to realize our dreams!",
+      "translation": "Конечно, это будет нелегко, но если мы хотим воплотить мечты — останавливаться нельзя!"
+    },
+    "pack02:655366": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655366",
+      "original": "I think it’s safe to say we’re the strongest in the land! Of course, there’ll always be a few exceptions...",
+      "translation": "Думаю, можно смело сказать, что мы — сильнейшие в округе! Хотя, конечно, всегда найдутся исключения..."
+    },
+    "pack02:655367": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655367",
+      "original": "We need materials from powerful monsters and to increase my skills with guns. Besides, I can’t go on being afraid of things like ghosts forever, so I really need to conquer these fears for good!",
+      "translation": "Нам нужны материалы с могучих монстров и нужно прокачать мои навыки стрельбы. К тому же я не могу вечно бояться всяких призраков — пора раз и навсегда победить эти страхи!"
+    },
+    "pack02:655368": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655368",
+      "original": "I feel as if we’ve gotten stronger from our adventures. I’ll face anything except bugs and ghosts.",
+      "translation": "Мне кажется, мы стали сильнее благодаря приключениям. Я готова бросить вызов чему угодно — кроме жуков и призраков."
+    },
+    "pack02:655369": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655369",
+      "original": "I’m the best gunner in the kingdom! Of course, I don’t know anybody else who uses a gun, besides Mom...",
+      "translation": "Я — лучший стрелок в королевстве! Правда, кроме мамы я больше никого с ружьём не знаю..."
+    },
+    "pack02:655370": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655370",
+      "original": "We really don’t know what will be on the S Rank test, so we better gather up some impressive materials. I really hate it, but I guess that means we’ll have to pick some insects as well.",
+      "translation": "Мы и правда не знаем, что будет на экзамене ранга S, так что лучше собрать впечатляющие материалы. Мне это очень не нравится, но, похоже, придётся и насекомых тоже собирать."
+    },
+    "pack02:655371": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655371",
+      "original": "It’s so much fun thinking about showing these materials to various merchants! Hehehe!",
+      "translation": "Так здорово думать о том, как мы покажем эти материалы разным торговцам! Хехехе!"
+    },
+    "pack02:655372": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655372",
+      "original": "There are so many amazing materials! I can’t wait to use them in synthesis!",
+      "translation": "Столько потрясающих материалов! Не терпится использовать их в синтезе!"
+    },
+    "pack02:655373": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655373",
+      "original": "We often use synthesis during battle, but I think we should probably look to add some new moves to our repertoire. Let’s try out various techniques and find some that work!",
+      "translation": "Мы часто применяем синтез в бою, но, думаю, стоит добавить в арсенал новые приёмы. Давайте опробуем разные техники и найдём те, что сработают!"
+    },
+    "pack02:655374": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655374",
+      "original": "Anima is super convenient, so we should be careful not to overuse it.",
+      "translation": "Анима — штука очень удобная, так что нужно быть осторожнее и не злоупотреблять ею."
+    },
+    "pack02:655375": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655375",
+      "original": "Maybe I’ll make a finishing move of my own too... I could call it the Super Sue Special!",
+      "translation": "Может, и я придумаю свой финальный приём... Можно назвать его «Супер-спешл Сью»!"
+    },
+    "pack02:655376": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655376",
+      "original": "I’ve been thinking that if we can mass-produce some of the more useful items, it’ll make our efforts go much easier. So let’s make plenty of these, to make our lives a little bit easier!",
+      "translation": "Я подумала: если наладить массовое производство полезных предметов, нам будет гораздо легче. Так что давайте сделаем их с запасом — пусть жизнь станет хоть чуть-чуть проще!"
+    },
+    "pack02:655377": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655377",
+      "original": "It’d be great if we could mass-produce items like these. We could even sell them at the shop to make some money!",
+      "translation": "Было бы здорово наладить массовый выпуск таких вещей. Можно даже продавать их в лавке и заработать!"
+    },
+    "pack02:655378": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655378",
+      "original": "If you ever need some synthesis items, just come visit the Synthesis Sisters! Hahahaha!",
+      "translation": "Если вам понадобятся предметы синтеза — заходите к Сёстрам синтеза! Ха-ха-ха!"
+    },
+    "pack02:655379": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655379",
+      "original": "I can’t believe that we’re really going to be reunited with Mom... We need to take advantage of this opportunity! Oh, and we can spend some time with Dad too, I guess...",
+      "translation": "Не верится, что мы и правда воссоединимся с мамой... Нужно воспользоваться этим шансом! А, ну и с папой тоже можно будет провести время, наверное..."
+    },
+    "pack02:655380": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655380",
+      "original": "We had a nice time together, but it’s not enough. Lydie and I want to spend even more time with her!",
+      "translation": "Мы хорошо провели время, но этого мало. Лиди и я хотим проводить с ней ещё больше!"
+    },
+    "pack02:655381": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655381",
+      "original": "I suppose this is all we can do for the time being. It sure would be nice if we can remain close to Mom.",
+      "translation": "Пока, наверное, на этом всё. Было бы здорово, если бы мы могли и дальше быть рядом с мамой."
+    },
+    "pack02:655382": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655382",
+      "original": "The fabulous fishing sisters of Merveille still have what it takes! We’re gonna catch so many Old Masters that everybody’ll have no choice but to recognize our ability!",
+      "translation": "Знаменитые рыбацкие сёстры Мервейля всё ещё на высоте! Мы наловим столько Владык, что все просто не смогут не признать наше мастерство!"
+    },
+    "pack02:655383": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655383",
+      "original": "We’ve been working hard, but we’ve still got a ways to go. However, we refuse to give up!",
+      "translation": "Мы много работали, но до цели ещё далеко. Однако сдаваться мы не собираемся!"
+    },
+    "pack02:655384": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655384",
+      "original": "Hehehe... We caught quite a haul out there! Let’s cook ‘em up and throw a huge party!",
+      "translation": "Хехехе... Мы там неплохо наловили! Давайте их приготовим и устроим огромную вечеринку!"
+    },
+    "pack02:655385": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655385",
+      "original": "Even though our father is a Licensed Alchemist, we’re not going to let him beat us! Starting today, we’re going to devote ourselves to synthesis and boost our skill level!",
+      "translation": "Хоть наш отец и лицензированный алхимик, мы ему не проиграем! С сегодняшнего дня посвятим себя синтезу и поднимем уровень мастерства!"
+    },
+    "pack02:655386": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655386",
+      "original": "We’ve probably put enough work in, but it might be good to practice a bit more if we’re unsure.",
+      "translation": "Наверное, мы уже достаточно потрудились, но если сомневаемся — стоит ещё немного попрактиковаться."
+    },
+    "pack02:655387": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655387",
+      "original": "Okay, we’re ready to take on anybody! There’s no way Dad’ll be able to beat us at synthesis now!",
+      "translation": "Ладно, мы готовы бросить вызов кому угодно! Папа точно не сможет победить нас в синтезе!"
+    },
+    "pack02:655388": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655388",
+      "original": "If we’re going to prepare for the test, we need to gather all kinds of different materials, just to be safe. Let’s focus on visiting new places and see what we can find there to get ready.",
+      "translation": "Если готовиться к экзамену, нужно собрать всякие разные материалы — на всякий случай. Давайте сосредоточимся на новых местах и посмотрим, что там можно найти для подготовки."
+    },
+    "pack02:655389": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655389",
+      "original": "We’ve only gathered a few materials so far, but it’s fun to see how different they are from the usual ones.",
+      "translation": "Мы пока собрали лишь немного материалов, но так интересно видеть, насколько они отличаются от привычных."
+    },
+    "pack02:655390": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655390",
+      "original": "You can never have too many materials, that’s what I say. Let’s keep gathering them, whether we have a test or not!",
+      "translation": "Материалов, по-моему, не бывает слишком много. Давайте продолжать их собирать — хоть экзамен, хоть нет!"
+    },
+    "pack02:655391": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655391",
+      "original": "We’re much stronger now than we used to be. We can now easily take out the scariest monsters! Let’s take a look at the Notice Board to see if there are any requests to deal with powerful monsters!",
+      "translation": "Мы стали намного сильнее, чем раньше. Теперь нам легко одолеть самых страшных монстров! Давайте заглянем на доску объявлений — вдруг там есть задания на могучих монстров!"
+    },
+    "pack02:655392": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655392",
+      "original": "I suppose the more difficult the request, the more it’ll raise our reputation. Let’s keep at it!",
+      "translation": "Наверное, чем сложнее задание, тем больше вырастет наша репутация. Продолжаем в том же духе!"
+    },
+    "pack02:655393": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655393",
+      "original": "I feel as if we’ve dealt with all of the enemies put before us. So I want to see what else is out there!",
+      "translation": "Мне кажется, мы разобрались со всеми врагами, что встречались на пути. Хочется посмотреть, что ещё там есть!"
+    },
+    "pack02:655394": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655394",
+      "original": "The biggest difference between us and Dad is definitely the amount of trust people place in us! Let’s get word of our atelier out there so that our reputation continues to grow!",
+      "translation": "Главное отличие нас от папы — это, без сомнения, степень доверия, которое нам оказывают! Давайте расскажем о нашем ателье — пусть репутация и дальше растёт!"
+    },
+    "pack02:655395": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655395",
+      "original": "Ever since we defeated Falgior, people have been coming in much greater numbers.",
+      "translation": "С тех пор как мы победили Фальгиора, к нам стало приходить гораздо больше людей."
+    },
+    "pack02:655396": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655396",
+      "original": "Everyone really worked so hard to help us. Hehehe... It sure is nice to be popular!",
+      "translation": "Все так старались, чтобы нам помочь. Хехехе... Приятно быть популярными!"
+    },
+    "pack02:655397": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655397",
+      "original": "We haven’t had much work lately, so I’m not sure we’ll have enough money to cover our living expenses. Therefore, we need to try and quickly make as much money as we can.",
+      "translation": "В последнее время работы мало, и я не уверена, хватит ли денег на жизнь. Значит, нужно постараться быстро заработать как можно больше."
+    },
+    "pack02:655398": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655398",
+      "original": "This should be enough to get us by for a while. Now that we can splurge, I’d like some more food...",
+      "translation": "Этого должно хватить ненадолго. Раз уж можно раскошелиться — хочется поесть получше..."
+    },
+    "pack02:655399": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655399",
+      "original": "That was delicious. I couldn’t be happier! It’s important to eat properly and maintain our strength!",
+      "translation": "Было вкусно. Я на седьмом небе! Важно нормально питаться и поддерживать силы!"
+    },
+    "pack02:655400": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655400",
+      "original": "Where has Dad gone, I wonder... We’re gonna let him have it when he gets home! Bring the thunder! So, we’ll have to learn how to use lightning attacks at least as well as you know who!",
+      "translation": "Интересно, куда делся папа... Когда вернётся — мы ему устроим! Гром и молния! Значит, нам нужно научиться пользоваться электрическими атаками не хуже, чем ты знаешь кто!"
+    },
+    "pack02:655401": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655401",
+      "original": "Hehehe! That oughta do it! Hm? Doesn’t bringing the thunder mean to really drop lightning on someone?!",
+      "translation": "Хехехе! Вот это должно сработать! А? «Гром и молния» — это же значит реально обрушить молнию на кого-то?!"
+    },
+    "pack02:655402": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655402",
+      "original": "Well, it may mean something else, but I think it’s time we really did cause a lightning strike to fall on Dad...",
+      "translation": "Ну, может, это и означает что-то другое, но, думаю, пора нам наконец обрушить на папу настоящую электрическую атаку..."
+    },
+    "pack02:655403": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655403",
+      "original": "Where did amazing people come from? I’m starting to feel a little nervous being in their presence... We need to make friends with everyone here so that we can be considered as their equals, right?",
+      "translation": "Откуда тут столько потрясающих людей? Рядом с ними я уже немного нервничаю... Нужно подружиться со всеми, чтобы нас считали равными себе, верно?"
+    },
+    "pack02:655404": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655404",
+      "original": "Not that it matters, but there are alchemists all around. Mathias has got his work cut out for him!",
+      "translation": "Не то чтобы это важно, но алхимиков тут повсюду. Матиасу работы хватит!"
+    },
+    "pack02:655405": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655405",
+      "original": "Those men are lucky to be surrounded by such beautiful girls. Of course, there better not be any funny business or else...",
+      "translation": "Этим мужчинам повезло быть окружёнными такими красивыми девушками. Только пусть никто не вытворяет глупостей — а то..."
+    },
+    "pack02:655406": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655406",
+      "original": "From today forth, I am to be referred to as Smoldering Sue! Following in the footsteps of the great Blazing Backen, I’ll engulf any enemies in a raging inferno and reduce them to ashes!",
+      "translation": "С сегодняшнего дня меня следует называть Тлеющей Сью! По стопам великого Пламенного Бакена я окружу любых врагов бушующим пламенем и превращу их в пепел!"
+    },
+    "pack02:655407": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655407",
+      "original": "Hehehe... It seems like the name of Smoldering Sue is getting quite famous around these parts!",
+      "translation": "Хехехе... Похоже, имя Тлеющей Сью уже довольно известно в этих краях!"
+    },
+    "pack02:655408": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655408",
+      "original": "There’s just something romantic about being a pirate. I should think about becoming the greatest pirate in the world.",
+      "translation": "В пиратах есть что-то романтичное. Надо подумать о том, чтобы стать величайшим пиратом в мире."
+    },
+    "pack02:655409": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655409",
+      "original": "With all the rain recently, I think there’s money to be made selling waterproofing solutions! Once people see our combination of skill and reasonable prices, we’ll have more business than we’ll know what to do with!",
+      "translation": "С учётом недавних дождей, думаю, на продаже водостойких средств можно неплохо заработать! Когда люди увидят наше мастерство и разумные цены — заказов будет больше, чем мы сможем принять!"
+    },
+    "pack02:655410": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655410",
+      "original": "Our reputation is growing even faster than I expected. I’m glad and everything, but it’s a little complicated...",
+      "translation": "Наша репутация растёт даже быстрее, чем я ожидала. Я рада и всё такое, но ситуация немного осложняется..."
+    },
+    "pack02:655411": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655411",
+      "original": "We’re trying to build up a reputation for quality here. We’re an atelier after all, not a jack‐of‐all‐trades shop!",
+      "translation": "Мы стараемся создать репутацию качества. Мы всё-таки ателье, а не лавка на все руки!"
+    },
+    "pack02:655412": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655412",
+      "original": "We’re no longer limited to &lt;CLGR&gt;&quot;The Spooky Forest&quot;&lt;CLNR&gt; and &lt;CLGR&gt;&quot;The Luminous Ice Grotto&quot;&lt;CLNR&gt; anymore. Now we’re able to visit &lt;CLGR&gt;&quot;The Great Cascades of Anfel&quot;&lt;CLNR&gt; as well. We should go gather some souvenirs and display them in our atelier!",
+      "translation": "Нас уже не держат &lt;CLGR&gt;«Жуткий лес»&lt;CLNR&gt; и &lt;CLGR&gt;«Светящийся ледяной грот»&lt;CLNR&gt; — теперь можем ходить и в &lt;CLGR&gt;«Великие каскады Анфела»&lt;CLNR&gt;. Давайте соберём сувениры и выставим их в нашем ателье!"
+    },
+    "pack02:655413": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655413",
+      "original": "Yes, things are progressing quite nicely. I almost feel as if we’re cheating a bit, but we can’t always choose our methods!",
+      "translation": "Да, дела идут довольно неплохо. Мне почти кажется, что мы немного жульничаем, но не всегда можно выбирать методы!"
+    },
+    "pack02:655414": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655414",
+      "original": "Furthermore, when I take something into the painting, I bring it from the atelier each time...",
+      "translation": "К тому же, когда я переношу что-то в картину, каждый раз тащу это из ателье..."
+    },
+    "pack02:655415": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655415",
+      "original": "We need to become famous like our teacher so that people around town will refer to us as the beautiful sister alchemists! We need to work on becoming both stronger and cuter than before!",
+      "translation": "Нам нужно прославиться, как наша учительница, чтобы в городе называли нас красивыми сёстрами-алхимиками! Нужно стать и сильнее, и милее, чем раньше!"
+    },
+    "pack02:655416": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655416",
+      "original": "Currently, we’re just your average beautiful sister alchemists. We’ve got to try harder if we want to be recognized as geniuses too!",
+      "translation": "Пока мы — просто обычные красивые сёстры-алхимики. Если хотим, чтобы нас считали ещё и гениями — придётся постараться!"
+    },
+    "pack02:655417": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655417",
+      "original": "Hehehe! I’m Sue, the younger of the two beautiful and brilliant sister alchemists! Wow, that’s a quite a tongue twister...",
+      "translation": "Хехехе! Я — Сью, младшая из двух красивых и блестящих сестёр-алхимиков! Ого, какая скороговорка..."
+    },
+    "pack02:655418": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655418",
+      "original": "After Demon Queens come the Demon Gods... Hmm... Next, we should set our sights on the Gods of Destruction! Let’s go to the &lt;CLGR&gt;Lightning Wasteland&lt;CLNR&gt; and &lt;CLGR&gt;The Great Cascades of Anfel&lt;CLNR&gt; and fight some toughest monsters!",
+      "translation": "После Королев демонов идут демонические боги... Хм... Дальше нужно нацелиться на Богов разрушения! Давайте отправимся в &lt;CLGR&gt;Молниевую пустошь&lt;CLNR&gt; и &lt;CLGR&gt;«Великие каскады Анфела»&lt;CLNR&gt; и сразимся с самыми крепкими монстрами!"
+    },
+    "pack02:655419": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655419",
+      "original": "It sure is much easier fighting battles now that we have more people with us. Let’s keep giving it our all!",
+      "translation": "С новыми товарищами сражаться, правда, намного легче. Давайте и дальше выкладываться по полной!"
+    },
+    "pack02:655420": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655420",
+      "original": "Hehehe... Not even the toughest monsters stand a chance against me. Why, you ask? It’s because I’m Sue, the Goddess of Destruction!",
+      "translation": "Хехехе... Даже самые крепкие монстры мне не ровня. Почему, спросите? Потому что я — Сью, Богиня разрушения!"
+    },
+    "pack02:655421": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655421",
+      "original": "According to Dad, people are talking about us quite a bit. That means this is the chance we’ve been waiting for! At any rate, let’s get out there and keep building our reputation!",
+      "translation": "По словам папы, о нас уже довольно много говорят. Значит, это тот шанс, которого мы ждали! В общем, давайте выходить наружу и дальше наращивать репутацию!"
+    },
+    "pack02:655422": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655422",
+      "original": "I feel as if we did really well out there! If we keep this up, the money will be rolling in!",
+      "translation": "Мне кажется, мы там неплохо справились! Если так пойдёт и дальше — деньги польются рекой!"
+    },
+    "pack02:655423": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655423",
+      "original": "I suppose the usual methods are usually the best.^00However, they can be a bit boring sometimes.",
+      "translation": "Наверное, обычные методы — самые надёжные.^00Хотя иногда от них бывает скучновато."
+    },
+    "pack02:655424": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655424",
+      "original": "Those who understand the world of fashion tend to rule the world of business too! And when you have a grasp on both of them, you’ll find that increased wealth and reputation follow soon after!",
+      "translation": "Кто разбирается в моде — тот обычно правит и в мире бизнеса! А когда ты владеешь и тем, и другим — богатство и репутация приходят сами."
+    },
+    "pack02:655425": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655425",
+      "original": "An atelier usually follows an order-based business model, but we should also stock the items that people need.",
+      "translation": "Ателье обычно работает по заказам, но нам стоит держать в запасе и то, что людям нужно."
+    },
+    "pack02:655426": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655426",
+      "original": "Time to check the latest clothing trends... Hey, I’m not slacking off. This is serious work!",
+      "translation": "Пора проверить последние модные тенденции... Эй, я не бездельничаю. Это серьёзная работа!"
+    },
+    "pack02:655427": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655427",
+      "original": "It’s time for a showdown between the various neutralizers! We’ve prepared a few of them with different traits, so let’s see which color the people think is the strongest of them all!",
+      "translation": "Пришло время битвы нейтрализаторов! Мы приготовили несколько штук с разными свойствами — давайте посмотрим, какой цвет люди сочтут самым сильным!"
+    },
+    "pack02:655428": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655428",
+      "original": "We showed everyone how great our neutralizers are, but we’re still a ways from creating the ultimate one.",
+      "translation": "Мы показали всем, какие у нас классные нейтрализаторы, но до идеального ещё далеко."
+    },
+    "pack02:655429": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655429",
+      "original": "None of them really impressed me that much... However, I’m certain we’ll create the ultimate neutralizer eventually!",
+      "translation": "Ни один из них меня особо не впечатлил... Но я уверена — когда-нибудь мы создадим идеальный нейтрализатор!"
+    },
+    "pack02:655430": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655430",
+      "original": "Hey, did you hear the news? Firis’ dojo is opening today! All joking aside, Firis is the same rank as our teacher, so if we visit and have her give us a few pointers, we’ll get to B Rank in no time!",
+      "translation": "Эй, ты слышала новость? Сегодня открывается додзё Фирис! Шутки в сторону: у Фирис тот же ранг, что у нашей учительницы, так что если мы зайдём и попросим пару советов — быстро получим ранг B!"
+    },
+    "pack02:655431": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655431",
+      "original": "Lydie is already down! Should I go on ahead and try to master these techniques by myself?!",
+      "translation": "Лиди уже выбыла! Может, мне идти дальше одной и попытаться освоить эти техники самой?!"
+    },
+    "pack02:655432": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655432",
+      "original": "Yeah! We’ve already reached grade 10 in Firis’ dojo! Huh? We’re only grade 10?! This is gonna take a while...",
+      "translation": "Ура! Мы уже дошли до 10-й ступени в додзё Фирис! А? Мы только на 10-й?! Это надолго..."
+    },
+    "pack02:655433": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655433",
+      "original": "In order to beat Lucia, we need to train and hone our synthesis techniques! We’re dealing with a fairly serious topic, so I was sure to write up a completely serious entry in response!",
+      "translation": "Чтобы победить Люсию, нам нужно тренироваться и оттачивать техники синтеза! Тема довольно серьёзная, так что я специально написала совершенно серьёзную запись!"
+    },
+    "pack02:655434": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655434",
+      "original": "I’m glad that our ability has progressed so much. That really was quite a display of synthesis ability back there.",
+      "translation": "Рада, что наши способности так выросли. Тот синтез там был, правда, впечатляющим."
+    },
+    "pack02:655435": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655435",
+      "original": "The gap between us and Lucia is all due to our teacher. We’ll have to be sure to thank her sometime.",
+      "translation": "Разрыв между нами и Люсией — всё благодаря нашей учительнице. Нужно будет как-нибудь её отблагодарить."
+    },
+    "pack02:655436": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655436",
+      "original": "Now that the curse has been lifted, walking in &lt;CLGR&gt;&quot;The Spooky Forest&quot;&lt;CLNR&gt; is like taking a leisurely stroll in the garden. So let’s get back and experience things that nobody else can!",
+      "translation": "Теперь, когда проклятие снято, прогулка по &lt;CLGR&gt;«Жуткому лесу»&lt;CLNR&gt; — как неспешная прогулка по саду. Давайте вернёмся туда и переживём то, что недоступно никому другому!"
+    },
+    "pack02:655437": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655437",
+      "original": "Well, we were able to take another look at things at least. Of course, we can keep searching if we feel the need to!",
+      "translation": "Ну, хотя бы ещё раз всё осмотрели. Конечно, если захотим — можем продолжить поиски!"
+    },
+    "pack02:655438": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655438",
+      "original": "This makes us Spooky Masters now! That means that we’ll be the ones scaring people out of their wits!",
+      "translation": "Теперь мы — Мастера жути! Значит, именно мы будем пугать людей до полусмерти!"
+    },
+    "pack02:655439": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655439",
+      "original": "I never once thought that one day we’d be acquainted with royalty... I don’t care about Mathias so much, but I’d like to become friends with Mireille, so what should we do to make it happen?",
+      "translation": "Никогда не думала, что однажды мы будем знакомы с королевской семьёй... Матиаса мне, в общем-то, всё равно, но с Мирей хочется подружиться — как бы это устроить?"
+    },
+    "pack02:655440": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655440",
+      "original": "Yes, everything is going according to plan. Mireille is so beautiful, and I simply enjoy talking to her. She’s the perfect friend.",
+      "translation": "Да, всё идёт по плану. Мирей такая красивая, и с ней так приятно разговаривать. Идеальная подруга."
+    },
+    "pack02:655441": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655441",
+      "original": "Mission accomplished! Although, as a nobleman, I expected Mathias to be a bit better with girls...",
+      "translation": "Миссия выполнена! Хотя для дворянина я ожидала, что Матиас будет получше обращаться с девушками..."
+    },
+    "pack02:655442": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655442",
+      "original": "Hmm... What do I have over Lucia... Let me think about it for a second... Oh! I know! I’m much cuter than she is! Although, she’s pretty cute too...",
+      "translation": "Хм... Чем я лучше Люсии... Дай подумать... О! Знаю! Я намного милее! Хотя она тоже довольно милая..."
+    },
+    "pack02:655443": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655443",
+      "original": "Lucia and I are completely different people. Hehe... Of course, we both know who is better...",
+      "translation": "Люсия и я — совершенно разные люди. Хехе... Конечно, мы обе знаем, кто лучше..."
+    },
+    "pack02:655444": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655444",
+      "original": "My dream is for us to become the most beautiful sisters in the land! Oh, and for us to become the best atelier in the land of course.",
+      "translation": "Моя мечта — чтобы мы стали самыми красивыми сёстрами в округе! А, ну и лучшим ателье в стране, конечно."
+    },
+    "pack02:655445": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655445",
+      "original": "We need to show everyone that we are a respected atelier above all else and that we’re the very best at what we do. The best way to do that is to get out there and make a name for ourselves!",
+      "translation": "Нужно показать всем, что мы — уважаемое ателье и лучшие в своём деле. Лучший способ — выйти наружу и прославиться!"
+    },
+    "pack02:655446": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655446",
+      "original": "It seems our reputation has grown, if ever so slightly. I can tell the difference though, so let’s keep it up!",
+      "translation": "Похоже, наша репутация выросла — пусть и чуть-чуть. Но я чувствую разницу, так что продолжаем!"
+    },
+    "pack02:655447": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655447",
+      "original": "I think we’ve done what we could. Now we’ll have to focus on boosting our ability in order to really become famous!",
+      "translation": "Думаю, мы сделали всё, что могли. Теперь нужно сосредоточиться на росте мастерства, чтобы по-настоящему прославиться!"
+    },
+    "pack02:655448": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655448",
+      "original": "Everyone hates monsters, right? If we get out there and defeat them, our reputation is sure to rise! Let’s get out there and do that, so people'll start referring to us as the Demon Queens!",
+      "translation": "Все же ненавидят монстров, верно? Если мы пойдём и победим их — репутация точно вырастет! Давайте так и сделаем — пусть люди начнут называть нас Королевами демонов!"
+    },
+    "pack02:655449": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655449",
+      "original": "Hmm... I’d say we’re more like a Demon Princesses at the moment. How can we speed up the process...",
+      "translation": "Хм... Пока мы скорее похожи на демонических принцесс. Как бы ускорить процесс..."
+    },
+    "pack02:655450": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655450",
+      "original": "I am Sue the Demon Queen! Kneel before me, pathetic monsters! As for you tougher monsters, I shall show you mercy. You’re free to go...",
+      "translation": "Я — Сью, Королева демонов! Преклонитесь передо мной, жалкие монстры! А вам, крепким монстрам, я проявлю милость. Можете идти..."
+    },
+    "pack02:655451": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655451",
+      "original": "Okay, it’s time to go and get people to support us! Hehehe... This is one of my absolute favorite things to do! Let’s get out there and work on building a consensus among the people and our reputation another boost!",
+      "translation": "Ладно, пора идти и заручаться поддержкой людей! Хехехе... Это одно из моих любимых занятий! Давайте выйдем наружу и добьёмся согласия людей — и ещё немного поднимем репутацию!"
+    },
+    "pack02:655452": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655452",
+      "original": "Okay, that should be enough for now. The rest is just a matter of negotiation.",
+      "translation": "Ладно, пока этого должно хватить. Дальше — дело переговоров."
+    },
+    "pack02:655453": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655453",
+      "original": "This is more than sufficient for our needs. Witness the power of Sue the Master Tactician!",
+      "translation": "Этого более чем достаточно для наших целей. Узрите силу Сью — Мастера тактики!"
+    },
+    "pack02:655454": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655454",
+      "original": "Lydie is much too weak for this line of work we do. Let me think for a moment... I got it! If she starts training and gets stronger, we can sell it as the ultimate workout program, guaranteed to work on anyone!",
+      "translation": "Лиди для нашей работы слишком слабая. Дай подумать... Есть! Если она начнёт тренироваться и окрепнет — можно продавать это как идеальную программу тренировок, которая сработает на ком угодно!"
+    },
+    "pack02:655455": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655455",
+      "original": "I’m pretty tired. I think we’ve had enough. I’m not noticing much of a difference yet,",
+      "translation": "Я довольно устала. Думаю, хватит. Пока особой разницы не замечаю,"
+    },
+    "pack02:655456": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_article_text.xml",
+      "string_no": "655456",
+      "original": "but it should be enough for our purposes. Unfortunately, Lydie’s arms are still flabbier than a puni though...",
+      "translation": "но для наших целей этого должно хватить. К сожалению, руки Лиди всё ещё дряблее, чем у пуни..."
+    }
+  }
+}

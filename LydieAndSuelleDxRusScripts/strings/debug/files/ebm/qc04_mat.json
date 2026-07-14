@@ -1,0 +1,3384 @@
+{
+  "version": 1,
+  "source": "pack01_ebm",
+  "block": "qc04_mat",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 0,
+      "speaker": "Mathias",
+      "original": "Ah, your eyes are as deep and lovely as the ocean! What do you say? A vacation of love with...",
+      "translation": "Ах, твои глаза глубоки и прекрасны, как океан! Что ты говоришь? Каникулы любви с..."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 1,
+      "speaker": "Lady Official",
+      "original": "Ah! Sorry, I'm not... I mean, no!",
+      "translation": "Ах! Извините, я не... То есть, нет!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 2,
+      "speaker": "Mathias",
+      "original": "Gah, another failure. This really isn't working.",
+      "translation": "Ох, очередной провал. Это действительно не работает."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Hahaha, how sad! Mathias, failing to ask a girl out again!",
+      "translation": "Ха-ха-ха, как грустно! Матиас, он снова не смог пригласить девушку на свидание!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 4,
+      "speaker": "Mathias",
+      "original": "Gah, you saw that? Just the pair I didn't want to be seen by, too.",
+      "translation": "Га, ты это видел? Это именно та пара, которой я тоже не хотел бы показаться."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Mathias, let's get real for a moment. Your success rate is super low, right?",
+      "translation": "Матиас, давай на минутку станем реальностью. У тебя очень низкий процент успеха, верно?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 6,
+      "speaker": "Mathias",
+      "original": "What! How did you know that? You're not wrong, but there's no way...",
+      "translation": "Что! Откуда ты это знаешь? Вы не правы, но выхода нет..."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "It's your silly lines. \"Lovely as the ocean\"? I think my grandpa used that one!",
+      "translation": "Это твои глупые реплики. «Прекрасен, как океан»? Я думаю, что мой дедушка использовал его!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 8,
+      "speaker": "Mathias",
+      "original": "But this is all from a book! It said this stuff works!",
+      "translation": "Но это все из книги! Он сказал, что эта штука работает!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "You can't rely on a book. A girl wants to feel like you're looking at them, and only them.",
+      "translation": "На книгу нельзя положиться. Девушка хочет чувствовать, что ты смотришь на нее, и только на нее."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 10,
+      "speaker": "Mathias",
+      "original": "Guwah! Lectured on love by a kid!",
+      "translation": "Гува! Лекция о любви от ребенка!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Come on, Lydie, contribute something. Why do you think Mathias is always failing?",
+      "translation": "Давай, Лиди, внеси что-нибудь. Как вы думаете, почему Матиас всегда терпит неудачу?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "Me? Well, I guess because he doesn't have a job?",
+      "translation": "Мне? Ну, я думаю, потому что у него нет работы?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 13,
+      "speaker": "Mathias",
+      "original": "How is that even related to this?",
+      "translation": "Как это вообще связано с этим?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "Haha! Nice angle there, Lydie! Carry on!",
+      "translation": "Хаха! Хороший ракурс, Лиди! Продолжать!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "Well, I wouldn't want to date someone who's just hanging about outside at this time of day.",
+      "translation": "Ну, я бы не хотел встречаться с кем-то, кто просто слоняется снаружи в это время дня."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 16,
+      "speaker": "Mathias",
+      "original": "Hold it. Lydie, could it be? You don't like me?",
+      "translation": "Держи. Лидия, может быть? Я тебе не нравлюсь?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "Ooof! Now this is getting personal. I mean, I wouldn't exactly call you reliable myself...",
+      "translation": "Оуф! Теперь это становится личным. Я имею в виду, я бы сам не назвал тебя надежным..."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 18,
+      "speaker": "Mathias",
+      "original": "One thing. I'm not unemployed, OK? I do have a job, which I do often!",
+      "translation": "Одна вещь. Я не безработный, ясно? У меня есть работа, которую я часто делаю!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "I've never seen you do it. You can't complain if people think you're unemployed.",
+      "translation": "Я никогда не видел, чтобы ты это делал. Вы не можете жаловаться, если люди думают, что вы безработный."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 20,
+      "speaker": "Mathias",
+      "original": "I'm not unemployed! I'm not! You'll see!",
+      "translation": "Я не безработный! Я нет! Вы увидите!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 21,
+      "speaker": "Sue",
+      "original": "Ah, you chased him off! Wasn't that a bit harsh, Lydie?",
+      "translation": "Ах, ты прогнал его! Разве это не было немного грубо, Лиди?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 22,
+      "speaker": "Sue",
+      "original": "Could it be, you actually don't like Mathias that much?",
+      "translation": "Может быть, тебе действительно не очень нравится Матиас?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 23,
+      "speaker": "Lydie",
+      "original": "No, that's not it. It's just, sometimes, he reminds me a little bit too much of Dad.",
+      "translation": "Нет, это не то. Просто иногда он слишком сильно напоминает мне папу."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_010.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_010.ebm",
+      "index": 24,
+      "speaker": "Sue",
+      "original": "Ah. That actually makes a lot of sense, hahaha!",
+      "translation": "Ах. На самом деле в этом есть большой смысл, ха-ха-ха!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_020.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_020.ebm",
+      "index": 0,
+      "speaker": "Mathias",
+      "original": "Hey, girls! I've come to visit!",
+      "translation": "Эй, девочки! Я пришел в гости!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_020.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_020.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "At this time of day? You really don't have a job, do you, Mathias?",
+      "translation": "В это время суток? У тебя правда нет работы, Матиас?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_020.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_020.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Sue, this isn't doing the poor guy any good. We need to find a job for him!",
+      "translation": "Сью, бедняге это не пойдет на пользу. Нам нужно найти ему работу!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_020.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_020.ebm",
+      "index": 3,
+      "speaker": "Mathias",
+      "original": "I've already told you! I'm not unemployed! I'm a Knight, which just means I'm off duty a lot!",
+      "translation": "Я уже говорил тебе! Я не безработный! Я Рыцарь, а это значит, что я часто не при исполнении служебных обязанностей!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_020.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_020.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Off duty, that's what you're calling it? Slacking off, you mean?",
+      "translation": "Вне службы, вот как ты это называешь? Расслабиться, ты имеешь в виду?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_020.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_020.ebm",
+      "index": 5,
+      "speaker": "Mathias",
+      "original": "Gah, enough! Why do you think so little of me, Lydie?",
+      "translation": "Га, хватит! Почему ты так плохо обо мне думаешь, Лиди?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_020.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_020.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "For all sorts of reasons. Never mind that. Why are you here, anyway? It's rare for you to just visit.",
+      "translation": "По разным причинам. Неважно. Почему ты вообще здесь? Вы редко просто заходите в гости."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_020.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_020.ebm",
+      "index": 7,
+      "speaker": "Mathias",
+      "original": "Well, I'm getting interested in alchemy. I thought I'd see you work.",
+      "translation": "Ну, я начинаю интересоваться алхимией. Я думал, что увижу, как ты работаешь."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_020.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_020.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "I don't have a problem with that.",
+      "translation": "У меня нет проблем с этим."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_020.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_020.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "OK, you handle the synthesis, Lydie. I'll make some tea.",
+      "translation": "Хорошо, ты займешься синтезом, Лиди. Я заварю чай."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_020.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_020.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Thanks! Come on then, Mathias. Over here.",
+      "translation": "Спасибо! Тогда давай, Матиас. Здесь."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_020.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_020.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "First, add the materials and adjust the temperature of the cauldron.",
+      "translation": "Сначала добавьте материалы и отрегулируйте температуру казана."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_020.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_020.ebm",
+      "index": 12,
+      "speaker": "Mathias",
+      "original": "Wow, it really is just a big cauldron! I can't believe all that stuff comes out of this.",
+      "translation": "Ух ты, это действительно просто большой котел! Я не могу поверить, что все это произошло из-за этого."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_020.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_020.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "Hahaha, at the beginning I thought so too. Right. Now we mix everything inside...",
+      "translation": "Ха-ха-ха, я тоже сначала так думал. Верно. Теперь перемешиваем все внутри..."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_020.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_020.ebm",
+      "index": 14,
+      "speaker": "Mathias",
+      "original": "And it starts to smoke. There's a lot to learn, isn't there!",
+      "translation": "И начинает дымить. Есть чему поучиться, не так ли!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_020.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_020.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "Ah! Sorry, actually, I think I just have the temperature up a bit too high!",
+      "translation": "Ах! Извините, вообще-то, мне кажется, у меня просто слишком высокая температура!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_020.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_020.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "Gyah! I got tea on my foot! Ow, ow, ow, that's hot!",
+      "translation": "Да! У меня чай на ноге! Ой, ой, ой, это горячо!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_020.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_020.ebm",
+      "index": 17,
+      "speaker": "Lydie",
+      "original": "Hey, Sue! Are you alright? What am I saying, I'm not OK either! This is going to explode!",
+      "translation": "Привет, Сью! Ты в порядке? Да что я говорю, я тоже не в порядке! Это взорвется!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_020.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_020.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "That's a taste of synthesis for you, anyway. Now I will pour the tea.",
+      "translation": "В любом случае для вас это вкус синтеза. Сейчас я налью чай."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_020.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_020.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "Uwah. We should have done these things one at a time to begin with.",
+      "translation": "Ува. Для начала нам следовало бы делать это по одному."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_020.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_020.ebm",
+      "index": 20,
+      "speaker": "Mathias",
+      "original": "Hehehe, they're like two halves of a single person.",
+      "translation": "Хе-хе-хе, они как две половинки одного человека."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_020.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_020.ebm",
+      "index": 21,
+      "speaker": "Mathias",
+      "original": "Two together, acting as one. I guess that isn't so bad either.",
+      "translation": "Двое вместе, действуя как один. Думаю, это тоже не так уж и плохо."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 0,
+      "speaker": "Mireille",
+      "original": "Hey! Twins!",
+      "translation": "Привет! Двойняшки!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "If it isn't Mireille and Mathias! Are you having a meal together?",
+      "translation": "Если бы не Мирей и Матиас! Вы обедаете вместе?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 2,
+      "speaker": "Mathias",
+      "original": "Yes. My sister's idea. Why don't you join us?",
+      "translation": "Да. Идея моей сестры. Почему бы тебе не присоединиться к нам?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "That sounds great! I'm in the mood for something really delicious!",
+      "translation": "Это звучит великолепно! Мне хочется чего-нибудь очень вкусного!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Uwah, it's spicy! Mathias, this is too hot for me.",
+      "translation": "Ух, это остро! Матиас, для меня это слишком жарко."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 5,
+      "speaker": "Mathias",
+      "original": "Ah, sorry. I love it as spicy as possible. Here, you should be able to eat this one.",
+      "translation": "Ах, извини. Я люблю максимально острое. Вот, вы должны быть в состоянии съесть это."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 6,
+      "speaker": "Mireille",
+      "original": "Seriously, you're a lightweight who loves spicy food! How do you have a single friend?",
+      "translation": "Серьезно, вы легковес и любите острую еду! Как у тебя есть одинокий друг?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Mireille, you're totally drunk, aren't you? You've been drinking non-stop since we got here.",
+      "translation": "Мирей, ты совсем пьяна, да? Ты пьешь без перерыва с тех пор, как мы сюда приехали."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 8,
+      "speaker": "Mireille",
+      "original": "That's only because Mathias won't drink. I have to cover us both!",
+      "translation": "Это только потому, что Матиас не пьет. Я должен прикрыть нас обоих!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Uwah, this is bad! She's not making any sense at all now!",
+      "translation": "Ува, это плохо! Она сейчас вообще не имеет никакого смысла!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Wow, that's delicious! It's hot, but not overly spicy. Just right!",
+      "translation": "Вау, это вкусно! Он горячий, но не слишком острый. В самый раз!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 11,
+      "speaker": "Mathias",
+      "original": "See? You get it. These peppers are carefully grown to keep the flavor while dialing back the spice.",
+      "translation": "Видеть? Вы поняли. Этот перец тщательно выращивается, чтобы сохранить вкус и при этом снизить остроту."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "You don't say? You're pretty knowledgeable, Mathias!",
+      "translation": "Вы не говорите? Ты очень хорошо осведомлен, Матиас!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 13,
+      "speaker": "Mireille",
+      "original": "Don't get sucked in, Lydie. His knowledge is just one of the things he uses to pick up women.",
+      "translation": "Не втягивайся, Лиди. Его знания — лишь одна из вещей, которые он использует, чтобы знакомиться с женщинами."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 14,
+      "speaker": "Mathias",
+      "original": "No, it isn't! I grew up in the castle. You can't blame me for trying to expand my horizons!",
+      "translation": "Нет, это не так! Я вырос в замке. Вы не можете винить меня за попытку расширить свой кругозор!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 15,
+      "speaker": "Mireille",
+      "original": "Sure, sure. What good such superficial knowledge will do you, though, I don't know!",
+      "translation": "Конечно, конечно. Но какую пользу вам принесут такие поверхностные знания, я не знаю!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 16,
+      "speaker": "Mathias",
+      "original": "Uwah. She's a real pain when she's drunk.",
+      "translation": "Ува. Когда она пьяна, она причиняет настоящую боль."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "Hahaha. She works so hard the rest of the time, I guess this is the price for that.",
+      "translation": "Ха-ха-ха. В остальное время она так усердно работает, что, думаю, это цена за это."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 18,
+      "speaker": "Mireille",
+      "original": "Right! Time to pay up! Barkeep, here's 10,000 Coll! Take it and be done with you!",
+      "translation": "Верно! Время платить! Бармен, вот 10 000 коллов! Возьми это и покончим с тобой!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 19,
+      "speaker": "Master",
+      "original": "I-I'm sorry! I can't take so much!",
+      "translation": "Я-мне очень жаль! Я не могу взять так много!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 20,
+      "speaker": "Mireille",
+      "original": "What? Isn't that about what we spent?",
+      "translation": "Что? Разве это не то, что мы потратили?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "Sorry, Mireille, but it's probably a tenth of that? Maybe less?",
+      "translation": "Прости, Мирей, но это, наверное, десятая часть этого? Может быть, меньше?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 22,
+      "speaker": "Mathias",
+      "original": "You see? Sister doesn't have a clue about the real world herself!",
+      "translation": "Понимаете? Сестра сама понятия не имеет о реальном мире!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 23,
+      "speaker": "Sue",
+      "original": "Hahaha, looks that way!",
+      "translation": "Ха-ха-ха, выглядит именно так!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_030.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_030.ebm",
+      "index": 24,
+      "speaker": "System",
+      "original": "Mathias has acquired the skill <CLEG>\"Sky Guardian\"<CLNR>.",
+      "translation": "Матиас приобрел навык <CLEG> «Небесный страж»<CLNR>."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_040.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_040.ebm",
+      "index": 0,
+      "speaker": "Mathias",
+      "original": "So you are suffering from a constant lack of resources? It wasn't showing in our reports.",
+      "translation": "Итак, вы страдаете от постоянной нехватки ресурсов? В наших отчетах этого не было."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_040.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_040.ebm",
+      "index": 1,
+      "speaker": "Lady Merchant",
+      "original": "There's plenty of materials out there, but they are just too expensive.",
+      "translation": "Материалов много, но они слишком дорогие."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_040.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_040.ebm",
+      "index": 2,
+      "speaker": "Mathias",
+      "original": "I see. That's been a big help, thank you.",
+      "translation": "Я понимаю. Это была большая помощь, спасибо."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_040.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_040.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Mathias, are you picking up women again?",
+      "translation": "Матиас, ты снова знакомишься с женщинами?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_040.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_040.ebm",
+      "index": 4,
+      "speaker": "Mathias",
+      "original": "What's this, little Lydie? You're not jealous, are you? Hahah, how sweet!",
+      "translation": "Что это, маленькая Лиди? Ты не ревнуешь, да? Ха-ха, как мило!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_040.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_040.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Sue. Go ahead and shoot Mathias.",
+      "translation": "Сью. Идите вперед и пристрелите Матиаса."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_040.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_040.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "Sure thing! Where do you want it?",
+      "translation": "Конечно! Где вы это хотите?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_040.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_040.ebm",
+      "index": 7,
+      "speaker": "Mathias",
+      "original": "Sorry, sorry, I wasn't doing anything like that! I wasn't trying to pick her up!",
+      "translation": "Извините, извините, я ничего такого не делал! Я не пытался ее поднять!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_040.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_040.ebm",
+      "index": 8,
+      "speaker": "Mathias",
+      "original": "I was asking about the state of the market. Just the reports we get aren't enough.",
+      "translation": "Я спрашивал о состоянии рынка. Одних только отчетов, которые мы получаем, недостаточно."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_040.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_040.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Wow. I guess you can be serious, Mathias.",
+      "translation": "Ух ты. Думаю, ты можешь быть серьёзным, Матиас."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_040.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_040.ebm",
+      "index": 10,
+      "speaker": "Mathias",
+      "original": "Hey, I'm always serious! I'm focused, most of the time, you know!",
+      "translation": "Эй, я всегда серьезен! Знаете, большую часть времени я сосредоточен!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_040.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_040.ebm",
+      "index": 11,
+      "speaker": "Mathias",
+      "original": "I realize well enough I can't see the real world from inside the castle. That's why I walk the city, to see the truth.",
+      "translation": "Я прекрасно понимаю, что не могу видеть реальный мир изнутри замка. Вот почему я гуляю по городу, чтобы увидеть правду."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_040.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_040.ebm",
+      "index": 12,
+      "speaker": "Mathias",
+      "original": "I'm also next in the line for the throne. I need to build my knowledge for the future.",
+      "translation": "Я также следующий в очереди на трон. Мне нужно накопить знания на будущее."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_040.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_040.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "I'm sorry, then. I thought you were just a hopeless do-nothing, like our dad.",
+      "translation": "Тогда мне очень жаль. Я думал, ты просто безнадежный бездельник, как наш отец."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_040.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_040.ebm",
+      "index": 14,
+      "speaker": "Mathias",
+      "original": "That's not easy to hear, but at least you have changed your mind now.",
+      "translation": "Нелегко это слышать, но, по крайней мере, теперь ты изменил свое мнение."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_040.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_040.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "I'm sorry, too. I've underestimated you too. You've been working hard, Mathias!",
+      "translation": "Мне тоже жаль. Я тоже тебя недооценил. Ты много работал, Матиас!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_040.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_040.ebm",
+      "index": 16,
+      "speaker": "Mathias",
+      "original": "Hehe, glad to clear that up! I don't mind if you want to show me a little more respect... ah!",
+      "translation": "Хе-хе, рад прояснить это! Я не против, если ты захочешь проявить ко мне немного больше уважения... ах!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_040.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_040.ebm",
+      "index": 17,
+      "speaker": "Mathias",
+      "original": "That's a real cutie! Hey, miss, can I have a word?",
+      "translation": "Это настоящая милашка! Эй, мисс, могу я поговорить с вами?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_040.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_040.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "I can't believe him! Just as I was ready to change my opinion, even just a little.",
+      "translation": "Я не могу ему поверить! Точно так же я был готов изменить свое мнение, хоть немного."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_040.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_040.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "Yeah. I guess Mathias will always be Mathias.",
+      "translation": "Ага. Я думаю, Матиас всегда будет Матиасом."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_050.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_050.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Ah! The King of the Wastrels!",
+      "translation": "Ах! Король пустошей!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_050.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_050.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Hello, King of the Wastrels!",
+      "translation": "Привет, Король Пустошей!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_050.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_050.ebm",
+      "index": 3,
+      "speaker": "Mathias",
+      "original": "Hey, hold it! What kind of title is that?",
+      "translation": "Эй, держи! Что это за титул?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_050.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_050.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "It seems logical enough to me! You're the unemployed heir to the crown, right?",
+      "translation": "Мне это кажется достаточно логичным! Ты безработный наследник короны, верно?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_050.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_050.ebm",
+      "index": 5,
+      "speaker": "Mathias",
+      "original": "That's not what it sounds like! It sounds like I'm the king of idlers or vagabonds!",
+      "translation": "Это не то, на что это похоже! Звучит так, словно я король бездельников или бродяг!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_050.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_050.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Really? Sorry about that! What are you doing, anyway?",
+      "translation": "Действительно? Извините за это! Что ты вообще делаешь?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_050.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_050.ebm",
+      "index": 7,
+      "speaker": "Mathias",
+      "original": "Reading. I'm reading. Elegantly reading!",
+      "translation": "Чтение. Я читаю. Шикарно читаю!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_050.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_050.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Reading! I'm not sure I want to know what kind of book!",
+      "translation": "Читаю! Я не уверен, что хочу знать, что это за книга!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_050.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_050.ebm",
+      "index": 9,
+      "speaker": "Mathias",
+      "original": "Enough jokes! This is what I'm reading!",
+      "translation": "Хватит шуток! Вот что я читаю!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_050.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_050.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Geopolitics! And it's incredibly thick. You really were studying, Mathias!",
+      "translation": "Геополитика! И он невероятно толстый. Ты действительно учился, Матиас!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_050.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_050.ebm",
+      "index": 11,
+      "speaker": "Mathias",
+      "original": "Yes. Very seriously! What do you think of that?",
+      "translation": "Да. Очень серьёзно! Что вы об этом думаете?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_050.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_050.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "Amazing, Mathias! Pigs will be flying tomorrow if you keep this up!",
+      "translation": "Удивительно, Матиас! Если вы продолжите в том же духе, завтра свиньи полетят в воздух!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_050.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_050.ebm",
+      "index": 13,
+      "speaker": "Mathias",
+      "original": "What?",
+      "translation": "Что?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_050.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_050.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "Wow, you said it. Better get those umbrellas ready or it could get messy!",
+      "translation": "Вау, ты это сказал. Лучше приготовьте зонтики, иначе может получиться беспорядок!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_050.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_050.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "Ugh, nasty! Will we ever eat bacon again?",
+      "translation": "Ух, противно! Будем ли мы когда-нибудь снова есть бекон?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_050.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_050.ebm",
+      "index": 16,
+      "speaker": "Mathias",
+      "original": "Keep it up, Mathias! I'm sure someone is watching all your hard work!",
+      "translation": "Так держать, Матиас! Я уверен, что кто-то наблюдает за всей твоей тяжелой работой!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_050.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_050.ebm",
+      "index": 17,
+      "speaker": "System",
+      "original": "Mathias has acquired the skill <CLEG>\"A Heavy Burden\"<CLNR>.",
+      "translation": "Матиас приобрел навык <CLEG> «Тяжелое бремя» <CLNR>."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_060.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_060.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Hey, Sue. Can you get that material over there for me?",
+      "translation": "Привет, Сью. Можете ли вы принести мне этот материал?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_060.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_060.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Sure... hold on?",
+      "translation": "Конечно... подожди?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_060.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_060.ebm",
+      "index": 2,
+      "speaker": "Mireille",
+      "original": "Come on! How long is this going to carry on for? Stop messing around!",
+      "translation": "Ну давай же! Как долго это будет продолжаться? Хватит бездельничать!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_060.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_060.ebm",
+      "index": 3,
+      "speaker": "Mathias",
+      "original": "None of that changes the fact I'm scared! Owww! Sis, come on, you're going to rip something off!",
+      "translation": "Ничто из этого не меняет того факта, что я боюсь! Оууу! Сестренка, да ладно, ты что-нибудь сорвешь!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_060.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_060.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Uwah, what's going on out there? Is that Mireille and Mathias?",
+      "translation": "Увау, что там происходит? Это Мирей и Матиас?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_060.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_060.ebm",
+      "index": 5,
+      "speaker": "Mireille",
+      "original": "We're coming in, twins!",
+      "translation": "Мы входим, близнецы!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_060.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_060.ebm",
+      "index": 6,
+      "speaker": "Mathias",
+      "original": "Hi.",
+      "translation": "Привет."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_060.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_060.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "Ah, hello. What was going on out there? It sounded like quite a frenzy.",
+      "translation": "Ах, привет. Что там происходило? Это звучало как настоящее безумие."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_060.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_060.ebm",
+      "index": 8,
+      "speaker": "Mireille",
+      "original": "Oh, you heard that? We want you to defeat some monsters for us.",
+      "translation": "О, ты это слышал? Мы хотим, чтобы вы победили для нас нескольких монстров."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_060.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_060.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Some monsters? Sure, but this is all a bit sudden.",
+      "translation": "Какие-то монстры? Конечно, но это все немного неожиданно."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_060.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_060.ebm",
+      "index": 10,
+      "speaker": "Mireille",
+      "original": "We received a report of monsters nearby. I was going to send Mathias...",
+      "translation": "Мы получили сообщение о монстрах поблизости. Я собирался послать Матиаса..."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_060.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_060.ebm",
+      "index": 11,
+      "speaker": "Mireille",
+      "original": "But he seems intent on running away from the task!",
+      "translation": "Но он, кажется, намерен сбежать от задания!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_060.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_060.ebm",
+      "index": 12,
+      "speaker": "Mathias",
+      "original": "Come on, it's scary! Who knows what monsters are out there!",
+      "translation": "Да ладно, это страшно! Кто знает, какие монстры там существуют!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_060.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_060.ebm",
+      "index": 13,
+      "speaker": "Mathias",
+      "original": "It's not like any regular people go there. The monster will just go off again, surely.",
+      "translation": "Не то чтобы обычные люди туда ходили. Монстр наверняка взорвется снова."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_060.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_060.ebm",
+      "index": 14,
+      "speaker": "Mireille",
+      "original": "See, this is what I'm dealing with? So we need you to step up.",
+      "translation": "Видите, вот с чем я имею дело? Поэтому нам нужно, чтобы вы сделали шаг вперед."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_060.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_060.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "I see. I think we understand. Come on, Mathias. Why don't you come with us?",
+      "translation": "Я понимаю. Я думаю, мы понимаем. Давай, Матиас. Почему бы тебе не пойти с нами?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_060.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_060.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "If you show us how cool you can be, we'll stop calling you the King of the Wastrels!",
+      "translation": "Если ты покажешь нам, насколько ты крут, мы перестанем называть тебя Королем Пустошей!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_060.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_060.ebm",
+      "index": 17,
+      "speaker": "Mathias",
+      "original": "OK, I'm in. Let's go right away. Come on, both of you!",
+      "translation": "Хорошо, я в деле. Поехали прямо сейчас. Давайте оба!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_060.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_060.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "H-He hates being called King of the Wastrels that much? I feel a little bad about all this.",
+      "translation": "Ч-он так ненавидит, когда его называют королем пустошей? Мне немного не по себе из-за всего этого."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_060.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_060.ebm",
+      "index": 19,
+      "speaker": "Mireille",
+      "original": "I'm just glad to see him a little invested. Girls, keep an eye on him out there!",
+      "translation": "Я просто рад видеть, что он немного заинтересован. Девочки, следите за ним там!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_070.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_070.ebm",
+      "index": 0,
+      "speaker": "Mathias",
+      "original": "Gah! I want to stop being called the King of the Wastrels, but I have to fight monsters!",
+      "translation": "Га! Я хочу, чтобы меня перестали называть Королём Пустошей, но мне придётся сражаться с монстрами!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_070.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_070.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "What's going on here? You've fought with us against monsters lots of times.",
+      "translation": "Что здесь происходит? Ты много раз сражался с нами против монстров."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_070.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_070.ebm",
+      "index": 2,
+      "speaker": "Mathias",
+      "original": "And I hate it! I don't like to admit this, but I'm not all that brave.",
+      "translation": "И я ненавижу это! Мне не нравится это признавать, но я не такой уж смелый."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_070.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_070.ebm",
+      "index": 3,
+      "speaker": "Mathias",
+      "original": "If possible, I never want to fight another monster again!",
+      "translation": "Если возможно, я никогда больше не хочу сражаться с другим монстром!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_070.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_070.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "You don't? Even though you protected us from them, all those times?",
+      "translation": "Вы не делаете? Несмотря на то, что ты все это время защищал нас от них?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_070.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_070.ebm",
+      "index": 5,
+      "speaker": "Peddler ",
+      "original": "H-Help! Help me!",
+      "translation": "Х-Помогите! Помоги мне!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_070.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_070.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Hey! Someone is being attacked!",
+      "translation": "Привет! На кого-то нападают!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_070.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_070.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "W-We need to move, quickly...",
+      "translation": "Н-нам нужно двигаться, быстро..."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_070.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_070.ebm",
+      "index": 8,
+      "speaker": "Mathias",
+      "original": "Come on, girls! Let's go!",
+      "translation": "Давайте, девочки! Пойдем!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_080.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_080.ebm",
+      "index": 0,
+      "speaker": "Mathias",
+      "original": "Sorry for taking so long! We'll save you now!",
+      "translation": "Извините, что так долго! Мы спасем тебя сейчас!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_090.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_090.ebm",
+      "index": 0,
+      "speaker": "Peddler ",
+      "original": "Thank you so much. You saved me!",
+      "translation": "Большое спасибо. Ты спас меня!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_090.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_090.ebm",
+      "index": 1,
+      "speaker": "Mathias",
+      "original": "No problem. I recommend you don't come back here alone.",
+      "translation": "Без проблем. Я советую тебе не возвращаться сюда одному."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_090.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_090.ebm",
+      "index": 2,
+      "speaker": "Mathias",
+      "original": "Phew. At least no one was hurt.",
+      "translation": "Уф. По крайней мере, никто не пострадал."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_090.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_090.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Mathias! That was so cool!",
+      "translation": "Матиас! Это было так здорово!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_090.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_090.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Yeah! You rushed straight in there! It was actually quite thrilling!",
+      "translation": "Ага! Ты бросился прямо туда! На самом деле это было очень захватывающе!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_090.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_090.ebm",
+      "index": 5,
+      "speaker": "Mathias",
+      "original": "Come on. Stop picking on me.",
+      "translation": "Ну давай же. Перестань придираться ко мне."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_090.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_090.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "We're not! You did look really cool!",
+      "translation": "Мы нет! Ты выглядел очень круто!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_090.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_090.ebm",
+      "index": 7,
+      "speaker": "Mathias",
+      "original": "I'm a knight, after all. I can't just stand there when someone is in danger.",
+      "translation": "В конце концов, я рыцарь. Я не могу просто стоять там, когда кто-то в опасности."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_090.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_090.ebm",
+      "index": 8,
+      "speaker": "Mathias",
+      "original": "Ah, I'm exhausted. That was scary, too. I'm off to bed.",
+      "translation": "Ах, я устал. Это тоже было страшно. Я пошел спать."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_090.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_090.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "There he goes. I guess being praised by us embarrassed him!",
+      "translation": "Вот он. Думаю, наша похвала смутила его!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_090.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_090.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Hahaha, yeah. We were just telling the truth!",
+      "translation": "Ха-ха-ха, да. Мы просто говорили правду!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_090.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_090.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "I know! In any case, it's time to retire the \"King of the Wastrels\".",
+      "translation": "Я знаю! В любом случае, «Королю пустошей» пора отправляться в отставку."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_100.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_100.ebm",
+      "index": 0,
+      "speaker": "Mathias",
+      "original": "Haah, haah, uwah. My lungs are burning!",
+      "translation": "Хаа, хаа, увау. Мои легкие горят!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_100.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_100.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Hey, Mathias. You look pretty exhausted.",
+      "translation": "Привет, Матиас. Ты выглядишь довольно утомленным."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_100.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_100.ebm",
+      "index": 2,
+      "speaker": "Mathias",
+      "original": "Yeah. I'm just going through a few things with my superiors.",
+      "translation": "Ага. Я просто обсуждаю кое-что с моим начальством."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_100.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_100.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Superiors? You mean in the knights?",
+      "translation": "Начальство? Ты имеешь в виду рыцарей?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_100.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_100.ebm",
+      "index": 4,
+      "speaker": "Mathias",
+      "original": "Yeah. The Captain and Vice-Captain.",
+      "translation": "Ага. Капитан и вице-капитан."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_100.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_100.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Wow, the top brass! I'm impressed that you get to be trained by them!",
+      "translation": "Ух ты, высшее руководство! Я впечатлен тем, что вы обучаетесь у них!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_100.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_100.ebm",
+      "index": 6,
+      "speaker": "Mathias",
+      "original": "I'm royalty, after all. But they certainly don't hold back!",
+      "translation": "В конце концов, я из королевской семьи. Но они точно не устоят!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_100.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_100.ebm",
+      "index": 7,
+      "speaker": "Mathias",
+      "original": "The captain teaches me the sword, but he's strict as you can imagine!",
+      "translation": "Капитан учит меня фехтованию, но он строгий, как вы можете себе представить!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_100.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_100.ebm",
+      "index": 8,
+      "speaker": "Mathias",
+      "original": "A single mistake and he hits me with everything he's got!",
+      "translation": "Одна ошибка, и он бьет меня всем, что у него есть!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_100.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_100.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Uwah!",
+      "translation": "Ува!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_100.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_100.ebm",
+      "index": 10,
+      "speaker": "Mathias",
+      "original": "The Vice-Captain seems charming enough, but she's incredibly strong!",
+      "translation": "Вице-капитан кажется достаточно очаровательной, но она невероятно сильна!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_100.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_100.ebm",
+      "index": 11,
+      "speaker": "Mathias",
+      "original": "She hammers me like an anvil, every training session!",
+      "translation": "Она бьет меня как наковальня на каждой тренировке!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_100.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_100.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "Uwah! It's tough being a knight, huh. I could never do it.",
+      "translation": "Ува! Тяжело быть рыцарем, да. Я никогда не смог бы этого сделать."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_100.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_100.ebm",
+      "index": 13,
+      "speaker": "Mathias",
+      "original": "It's extreme, that's for sure. Training every day is harsh.",
+      "translation": "Это экстрим, это точно. Тренироваться каждый день тяжело."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_100.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_100.ebm",
+      "index": 14,
+      "speaker": "Mathias",
+      "original": "But the knights exist to protect people. I think I can put up with a bit of training.",
+      "translation": "Но рыцари существуют, чтобы защищать людей. Я думаю, что смогу немного потренироваться."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_100.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_100.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "Wow. That's an impressive attitude to have.",
+      "translation": "Ух ты. Это впечатляющее отношение."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_100.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_100.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "Yes, very noble! Your strength is the result of all this training, Mathias!",
+      "translation": "Да, очень благородно! Твоя сила — результат всех этих тренировок, Матиас!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_100.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_100.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "Hey! What's with that face, as though you're expecting something bad to happen?",
+      "translation": "Привет! Что с таким лицом, как будто ожидаешь чего-то плохого?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_100.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_100.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "Yeah! We're just being nice to you! Come on, Sue, let's go.",
+      "translation": "Ага! Мы просто добры к вам! Давай, Сью, пойдем."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_100.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_100.ebm",
+      "index": 20,
+      "speaker": "Mathias",
+      "original": "That was a shock. I guess they've finally accepted me. I'm not done for today yet, anyway!",
+      "translation": "Это был шок. Думаю, они наконец приняли меня. В любом случае, я еще не закончил на сегодня!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_100.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_100.ebm",
+      "index": 21,
+      "speaker": "Mathias",
+      "original": "Just you wait, Julio, Shanon! I'm going to defeat you next time!",
+      "translation": "Подождите, Хулио, Шеннон! Я собираюсь победить тебя в следующий раз!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_100.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_100.ebm",
+      "index": 22,
+      "speaker": "System",
+      "original": "Mathias has acquired the skill <CLEG>\"Knight's Pride\"<CLNR>.",
+      "translation": "Матиас приобрел навык <CLEG> «Рыцарская гордость»<CLNR>."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_110.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_110.ebm",
+      "index": 0,
+      "speaker": "Mireille",
+      "original": "There you are. Your moving papers are all finished. Enjoy your new home!",
+      "translation": "Вот и вы. Все ваши документы на переезд оформлены. Наслаждайтесь своим новым домом!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_110.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_110.ebm",
+      "index": 1,
+      "speaker": "Mathias",
+      "original": "Haaah.",
+      "translation": "Хааа."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_110.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_110.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Is it love, young man?",
+      "translation": "Это любовь, молодой человек?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_110.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_110.ebm",
+      "index": 3,
+      "speaker": "Mathias",
+      "original": "Yeah, right. I was just reminded of my sister's superiority once again.",
+      "translation": "Да, верно. Мне только что еще раз напомнили о превосходстве моей сестры."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_110.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_110.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "What do you mean?",
+      "translation": "Что ты имеешь в виду?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_110.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_110.ebm",
+      "index": 5,
+      "speaker": "Mathias",
+      "original": "She's better than me in everything, and she has the right to take the throne. But she still wants me to take it!",
+      "translation": "Она во всем лучше меня и имеет право занять трон. Но она все еще хочет, чтобы я взял это!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_110.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_110.ebm",
+      "index": 6,
+      "speaker": "Mathias",
+      "original": "Could I even rule better than she can? No way! At least, I don't think so.",
+      "translation": "Могу ли я править лучше, чем она? Ни за что! По крайней мере, я так не думаю."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_110.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_110.ebm",
+      "index": 7,
+      "speaker": "Mathias",
+      "original": "When I think about things like that, I sigh, and my will to take the throne just fades even more.",
+      "translation": "Когда я думаю о таких вещах, я вздыхаю, и мое желание занять трон еще больше угасает."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_110.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_110.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "I see. So even you think about stuff like this, Mathias...",
+      "translation": "Я понимаю. Так что даже если ты думаешь о таких вещах, Матиас..."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_110.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_110.ebm",
+      "index": 9,
+      "speaker": "Mathias",
+      "original": "You bet I do. Having the near-perfect sister isn't as great as it might sound!",
+      "translation": "Держу пари, что да. Иметь почти идеальную сестру – это не так здорово, как может показаться!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_110.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_110.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Yeah... Maybe I can relate to that.",
+      "translation": "Да... Может быть, мне это понятно."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_110.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_110.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "Huh?",
+      "translation": "Хм?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_110.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_110.ebm",
+      "index": 12,
+      "speaker": "Mathias",
+      "original": "Yeah, I suppose that's true. I guess you're on my side too, Sue.",
+      "translation": "Да, я полагаю, это правда. Думаю, ты тоже на моей стороне, Сью."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_110.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_110.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "Yeah. Keep your head up, Mathias. I'm supporting you, as someone who shares your pain.",
+      "translation": "Ага. Держи голову выше, Матиас. Я поддерживаю тебя, как человека, разделяющего твою боль."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_110.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_110.ebm",
+      "index": 14,
+      "speaker": "Mathias",
+      "original": "Haha, thanks. That means a lot.",
+      "translation": "Хаха, спасибо. Это многое значит."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_110.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_110.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "His side? Sharing his pain? What are you talking about?",
+      "translation": "Его сторона? Разделить его боль? О чем ты говоришь?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_110.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_110.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "Hehe. You don't need to worry about it, Lydie.",
+      "translation": "Хе-хе. Тебе не нужно об этом беспокоиться, Лиди."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_110.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_110.ebm",
+      "index": 17,
+      "speaker": "Mathias",
+      "original": "Yeah, you don't need to worry at all. Hah, I bet that's nice!",
+      "translation": "Да, вам вообще не о чем беспокоиться. Ха, держу пари, это здорово!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_110.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_110.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "Excuse me?",
+      "translation": "Прошу прощения?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 0,
+      "speaker": "Mireille",
+      "original": "I've had enough of you! You just stay there, paralyzed in fear!",
+      "translation": "Ты мне надоел! Ты просто остаешься там, парализованный страхом!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 1,
+      "speaker": "Mathias",
+      "original": "Uwah! That's going too far! Sis!",
+      "translation": "Ува! Это заходит слишком далеко! Сестренка!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Ah. A sense of deja vu.",
+      "translation": "Ах. Ощущение дежавю."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 3,
+      "speaker": "Mireille",
+      "original": "Hello! We're coming in, twins.",
+      "translation": "Привет! Мы входим, близнецы."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 4,
+      "speaker": "Mathias",
+      "original": "Hi.",
+      "translation": "Привет."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "It's just like last time! Even that business-like smile!",
+      "translation": "Всё как в прошлый раз! Даже эта деловая улыбка!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 6,
+      "speaker": "Mireille",
+      "original": "Oh dear, you heard us again? Maybe I should try to keep my voice down?",
+      "translation": "О боже, ты снова нас услышал? Может, мне стоит попытаться говорить тише?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 7,
+      "speaker": "Mireille",
+      "original": "Anyway, a topic for another time. I've got another request for you.",
+      "translation": "В любом случае, тема для другого раза. У меня к вам еще одна просьба."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Yes? What is it this time?",
+      "translation": "Да? Что на этот раз?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 9,
+      "speaker": "Mireille",
+      "original": "Ready for this? We want you to take the Royal Trial.",
+      "translation": "Готовы к этому? Мы хотим, чтобы вы прошли Королевское испытание."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 10,
+      "speaker": "Mathias",
+      "original": "What! Are you serious, Sis?",
+      "translation": "Что! Ты серьезно, сестренка?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 11,
+      "speaker": "Mireille",
+      "original": "Yes, of course.",
+      "translation": "Да, конечно."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "The Royal Trial? That's quite the name. Just what does it involve?",
+      "translation": "Королевский суд? Это вполне подходящее имя. Что это включает в себя?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 13,
+      "speaker": "Mathias",
+      "original": "It's the trial to become the ruler of this country. Those who pass it earn the right to rule!",
+      "translation": "Это испытание, чтобы стать правителем этой страны. Те, кто пройдет его, получат право на власть!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "Seriously? And it's fine for us to, what, take the throne?",
+      "translation": "Серьезно? И нам нормально, что, занять трон?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "If we can complete it, we might become royalty!",
+      "translation": "Если мы сможем завершить это, мы можем стать членами королевской семьи!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 16,
+      "speaker": "Mireille",
+      "original": "That's fine. The two of you will make much better rulers than pathetic Mathias!",
+      "translation": "Это нормально. Из вас двоих будут гораздо лучшие правители, чем из жалкого Матиаса!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 17,
+      "speaker": "Mathias",
+      "original": "Gah!",
+      "translation": "Га!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 18,
+      "speaker": "Mireille",
+      "original": "OK, twins. Once you are ready, head to the place of testing!",
+      "translation": "Хорошо, близнецы. Когда будете готовы, отправляйтесь к месту испытаний!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 19,
+      "speaker": "Mireille",
+      "original": "Mathias knows where it is. Have him show you.",
+      "translation": "Матиас знает, где это. Пусть он покажет вам."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 20,
+      "speaker": "Mathias",
+      "original": "What? I have to do that, too?",
+      "translation": "Что? Я тоже должен это сделать?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 21,
+      "speaker": "Mireille",
+      "original": "Of course you do. No complaints, from any of you!",
+      "translation": "Конечно, да. Никаких жалоб ни от кого из вас!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 22,
+      "speaker": "Mathias",
+      "original": "Uwah, she's a real tyrant!",
+      "translation": "Ух ты, она настоящий тиран!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 23,
+      "speaker": "Mireille",
+      "original": "Sorry about all this. This is what I was talking about, the thing I need your help with.",
+      "translation": "Извините за все это. Это то, о чем я говорил, и мне нужна твоя помощь."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 24,
+      "speaker": "Mireille",
+      "original": "Will you please just play along?",
+      "translation": "Пожалуйста, подыграй?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_120.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_120.ebm",
+      "index": 25,
+      "speaker": "Lydie",
+      "original": "You've clearly got something in mind. In which case, we'll do all we can to help!",
+      "translation": "Вы явно что-то задумали. В этом случае мы сделаем все возможное, чтобы помочь!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_130.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_130.ebm",
+      "index": 0,
+      "speaker": "Mathias",
+      "original": "The place of testing is just up ahead.",
+      "translation": "Место испытаний прямо впереди."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_130.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_130.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "OK. There's a rock in the way, though. What do we do?",
+      "translation": "ХОРОШО. Однако на пути есть камень. Что нам делать?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_130.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_130.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Ah, I know what this is! When someone of royal blood comes close, the rock will shatter!",
+      "translation": "Ах, я знаю, что это такое! Если кто-то королевской крови приблизится, скала разобьется!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_130.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_130.ebm",
+      "index": 3,
+      "speaker": "Mathias",
+      "original": "Sounds a bit optimistic.",
+      "translation": "Звучит немного оптимистично."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_130.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_130.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Haah, haah. Finally finished. I can't believe we had to move it by hand.",
+      "translation": "Ха-ха, ха-ха. Наконец закончил. Не могу поверить, что нам пришлось перемещать его вручную."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_130.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_130.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "This sucks! I was hoping for more from something called the Royal Trial!",
+      "translation": "Это отстой! Я надеялся на большее от чего-то под названием «Королевский суд»!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_130.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_130.ebm",
+      "index": 6,
+      "speaker": "Mathias",
+      "original": "Come on, girls. The royal family aren't magicians!",
+      "translation": "Давайте, девочки. Королевская семья не волшебники!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_130.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_130.ebm",
+      "index": 7,
+      "speaker": "Mathias",
+      "original": "Now we can reach the place of trials, anyway. Off you go, girls! Good luck!",
+      "translation": "В любом случае, теперь мы можем добраться до места испытаний. Вперёд, девочки! Удачи!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_130.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_130.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Uwah, I just want to punch him in his perfect teeth! What's this trial all about, then?",
+      "translation": "Ух, я просто хочу врезать ему по его идеальным зубам! В чем тогда суть этого суда?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_130.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_130.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "I don't know. We'd better be ready for anything.",
+      "translation": "Я не знаю. Нам лучше быть готовыми ко всему."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_140.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_140.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "This is the place of trials?",
+      "translation": "Это место испытаний?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_140.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_140.ebm",
+      "index": 1,
+      "speaker": "Mireille",
+      "original": "Yes. A sacred place, where you will be tested to see if you are worthy to rule.",
+      "translation": "Да. Священное место, где вас проверят, достойны ли вы править."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_140.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_140.ebm",
+      "index": 2,
+      "speaker": "Mathias",
+      "original": "Hey, Sis! I thought you were working?",
+      "translation": "Эй, сестренка! Я думал, ты работаешь?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_140.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_140.ebm",
+      "index": 3,
+      "speaker": "Mireille",
+      "original": "Hahaha, who do you think you're talking to? I finished all that work in a flash!",
+      "translation": "Ха-ха-ха, как ты думаешь, с кем ты разговариваешь? Я закончил всю эту работу в мгновение ока!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_140.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_140.ebm",
+      "index": 4,
+      "speaker": "Mireille",
+      "original": "There's no trial without me here! You don't even remember the rites, do you?",
+      "translation": "Без меня здесь не будет суда! Ты даже не помнишь обряды, да?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_140.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_140.ebm",
+      "index": 5,
+      "speaker": "Mathias",
+      "original": "Right! There was some stuff we have to say!",
+      "translation": "Верно! Нам есть что сказать!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_140.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_140.ebm",
+      "index": 6,
+      "speaker": "Mireille",
+      "original": "I knew it. I'm going to call forth the guardian of the trial.",
+      "translation": "Я знал это. Я собираюсь вызвать стража суда."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_140.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_140.ebm",
+      "index": 7,
+      "speaker": "Mireille",
+      "original": "Solitary protector of our lands since ancient times! See now if these before you are worthy!",
+      "translation": "Одинокий защитник наших земель с древнейших времен! Посмотрите сейчас, достойны ли они того, что вы видите!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_140.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_140.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Uwah, something has shown up! This is the guardian of the trial?",
+      "translation": "Ух ты, что-то появилось! Это страж суда?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_140.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_140.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "Great. I'm going to feel silly for asking this, but what exactly do we have to do?",
+      "translation": "Большой. Я буду чувствовать себя глупо, спрашивая об этом, но что именно нам нужно сделать?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_140.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_140.ebm",
+      "index": 10,
+      "speaker": "Mireille",
+      "original": "Fight! Win! That's all!",
+      "translation": "Драться! Победить! Вот и все!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_140.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_140.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "This doesn't feel especially royal to me! You just have to beat a boss to be king?",
+      "translation": "Мне это не кажется особенно королевским! Вам просто нужно победить босса, чтобы стать королем?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_140.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_140.ebm",
+      "index": 12,
+      "speaker": "Mathias",
+      "original": "Good luck. I'm behind you all the way.",
+      "translation": "Удачи. Я полностью за тобой."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_140.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_140.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "Gah! You'll pay for this!",
+      "translation": "Га! Вы заплатите за это!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_150.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_150.ebm",
+      "index": 0,
+      "speaker": "Mireille",
+      "original": "The trial carries on until you win! Keep trying!",
+      "translation": "Испытание продолжается до тех пор, пока вы не выиграете! Продолжайте пытаться!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_160.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_160.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Haah, haah, we did it. We won!",
+      "translation": "Ха-ха-ха, мы сделали это. Мы выиграли!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_160.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_160.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Great work, Lydie! A victory of working together! Yes!",
+      "translation": "Отличная работа, Лидия! Победа совместной работы! Да!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_160.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_160.ebm",
+      "index": 2,
+      "speaker": "Mireille",
+      "original": "Amazing. They actually won? I thought it would be a good fight, but still!",
+      "translation": "Удивительный. Они действительно победили? Я думал, что это будет хороший бой, но всё же!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_160.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_160.ebm",
+      "index": 3,
+      "speaker": "Mathias",
+      "original": "Tell me about it! This is their potential?",
+      "translation": "Расскажи мне об этом! Это их потенциал?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_160.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_160.ebm",
+      "index": 4,
+      "speaker": "Mireille",
+      "original": "Ah, anyway. Ahem. Congratulations, both of you! You've earned the right to take the throne!",
+      "translation": "Ах, во всяком случае. Кхм. Поздравляю вас обоих! Вы заслужили право занять трон!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_160.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_160.ebm",
+      "index": 5,
+      "speaker": "Mireille",
+      "original": "Although this wasn't quite the plan.",
+      "translation": "Хотя это был не совсем план."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_160.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_160.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Huh?",
+      "translation": "Хм?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_160.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_160.ebm",
+      "index": 7,
+      "speaker": "Mireille",
+      "original": "No, forget I said anything. Say, Mathias.",
+      "translation": "Нет, забудь, что я сказал. Скажи, Матиас."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_160.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_160.ebm",
+      "index": 8,
+      "speaker": "Mireille",
+      "original": "These two really might take the throne. Are you alright with that?",
+      "translation": "Эти двое действительно могут занять трон. Вас это устраивает?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_160.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_160.ebm",
+      "index": 9,
+      "speaker": "Mathias",
+      "original": "Just a little more time. Give me a little more time. I'll decide soon, I promise.",
+      "translation": "Еще немного времени. Дай мне еще немного времени. Я скоро приму решение, обещаю."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_160.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_160.ebm",
+      "index": 10,
+      "speaker": "Mathias",
+      "original": "Please, Sis.",
+      "translation": "Пожалуйста, сестренка."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_160.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_160.ebm",
+      "index": 11,
+      "speaker": "Mireille",
+      "original": "Okay. Twins, thanks for your help!",
+      "translation": "Хорошо. Близнецы, спасибо за помощь!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_160.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_160.ebm",
+      "index": 12,
+      "speaker": "Mireille",
+      "original": "I'll reward you in due time. See you later!",
+      "translation": "Я вознаградю тебя в свое время. Увидимся позже!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_160.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_160.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "Mathias? Are you alright?",
+      "translation": "Матиас? Ты в порядке?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_160.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_160.ebm",
+      "index": 14,
+      "speaker": "Mathias",
+      "original": "Yeah. I'm OK, all the time. You bet.",
+      "translation": "Ага. Я в порядке, все время. Держу пари."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_160.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_160.ebm",
+      "index": 15,
+      "speaker": "Mathias",
+      "original": "Let's go back, anyway. You must be exhausted after that battle!",
+      "translation": "Все равно вернемся. Вы, должно быть, устали после этой битвы!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_160.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_160.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "Yes. Sounds like a plan.",
+      "translation": "Да. Звучит как план."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_160.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_160.ebm",
+      "index": 17,
+      "speaker": "System",
+      "original": "Mathias has acquired the skill <CLEG>\"Veteran Player\"<CLNR>.",
+      "translation": "Матиас приобрел навык <CLEG> «Игрок-ветеран» <CLNR>."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_170.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_170.ebm",
+      "index": 0,
+      "speaker": "Mathias",
+      "original": "Lydie, Sue! I'm sorry, but there's something I need to ask.",
+      "translation": "Лиди, Сью! Извините, но мне нужно кое-что спросить."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_170.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_170.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "This sounds very formal. What's up, Mathias?",
+      "translation": "Это звучит очень официально. Как дела, Матиас?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_170.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_170.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "You seem a lot more serious than normal.",
+      "translation": "Ты выглядишь намного серьезнее, чем обычно."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_170.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_170.ebm",
+      "index": 3,
+      "speaker": "Mathias",
+      "original": "With good reason. My dad has been laid up in bed with a cold.",
+      "translation": "По уважительной причине. Мой отец лежал в постели с простудой."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_170.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_170.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Your dad, Mathias? You mean the king? T-This does sound serious!",
+      "translation": "Твой отец, Матиас? Ты имеешь в виду короля? Э-это звучит серьезно!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_170.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_170.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Yes, it does! There's been no mention of this in the proclamations?",
+      "translation": "Да, это так! В декларациях об этом не упоминалось?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_170.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_170.ebm",
+      "index": 6,
+      "speaker": "Mathias",
+      "original": "Under my father's orders. He doesn't want to worry the people.",
+      "translation": "По приказу моего отца. Он не хочет беспокоить людей."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_170.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_170.ebm",
+      "index": 7,
+      "speaker": "Mathias",
+      "original": "It's more than a common cold, though. He needs to take some special medicine.",
+      "translation": "Однако это больше, чем обычная простуда. Ему нужно принять какое-то специальное лекарство."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_170.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_170.ebm",
+      "index": 8,
+      "speaker": "Mathias",
+      "original": "So we need you to make it, very quietly. Can we trust you with this?",
+      "translation": "Поэтому нам нужно, чтобы вы сделали это очень тихо. Можем ли мы доверить тебе это?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_170.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_170.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "Of course. Are you sure you've come to the right place, though?",
+      "translation": "Конечно. Вы уверены, что пришли в нужное место?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_170.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_170.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Surely Ilmeria, or Firis, would be better choices to make medicine for the king himself?",
+      "translation": "Несомненно, Илмерия или Фирис были бы лучшим выбором для изготовления лекарств для самого короля?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_170.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_170.ebm",
+      "index": 11,
+      "speaker": "Mathias",
+      "original": "Nope. You're the ones we want. This is a mark of how much we trust you!",
+      "translation": "Неа. Вы те, кого мы хотим. Это знак того, насколько мы вам доверяем!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_170.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_170.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "Mathias! Very well. We've got this!",
+      "translation": "Матиас! Очень хорошо. У нас есть это!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_170.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_170.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "We'll make some medicine to have your dad up and about in no time!",
+      "translation": "Мы приготовим лекарство, которое поможет твоему отцу в кратчайшие сроки прийти в себя!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_170.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_170.ebm",
+      "index": 14,
+      "speaker": "Mathias",
+      "original": "Great! Thanks!",
+      "translation": "Большой! Спасибо!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_180.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_180.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Mathias! We've made the medicine you wanted!",
+      "translation": "Матиас! Мы создали лекарство, которое вы хотели!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_180.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_180.ebm",
+      "index": 1,
+      "speaker": "Mathias",
+      "original": "That's great! Thank you so much!",
+      "translation": "Замечательно! Большое спасибо!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_180.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_180.ebm",
+      "index": 2,
+      "speaker": "Mathias",
+      "original": "With this, I'm sure dad will get better. That's a big relief.",
+      "translation": "Благодаря этому, я уверен, папе станет лучше. Это большое облегчение."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_180.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_180.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Phew, all our hard work was worth it. We hope the king gets better soon!",
+      "translation": "Уф, вся наша тяжелая работа того стоила. Мы надеемся, что король скоро поправится!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_180.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_180.ebm",
+      "index": 4,
+      "speaker": "Mathias",
+      "original": "Me too. This has made me realize how old he is getting, though. Even a cold is not a joke anymore...",
+      "translation": "Я тоже. Однако это заставило меня осознать, насколько он стареет. Даже простуда уже не шутка..."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_180.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_180.ebm",
+      "index": 5,
+      "speaker": "Mathias",
+      "original": "It's about time for someone to succeed the throne and put him at ease.",
+      "translation": "Пришло время кому-то занять трон и успокоить его."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_180.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_180.ebm",
+      "index": 6,
+      "speaker": "Mathias",
+      "original": "And, I think, that's my duty.",
+      "translation": "И, я думаю, это мой долг."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_180.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_180.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Mathias.",
+      "translation": "Матиас."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_180.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_180.ebm",
+      "index": 8,
+      "speaker": "Mathias",
+      "original": "Hey, girls. Do you think that's what I should do? Do you think I can really become king?",
+      "translation": "Привет, девочки. Думаешь, мне следует это сделать? Как ты думаешь, я действительно смогу стать королем?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_180.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_180.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Yeah, I do. Lydie, you too, right?",
+      "translation": "Да, я знаю. Лиди, ты тоже, да?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_180.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_180.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Yeah, of course! You study hard, Mathias, and you're strong and reliable too!",
+      "translation": "Да, конечно! Ты усердно учишься, Матиас, а еще ты сильный и надежный!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_180.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_180.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "I can't say I'm a fan of you always trying to pick up the ladies, though.",
+      "translation": "Хотя я не могу сказать, что я фанат твоих постоянных попыток завоевать расположение дам."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_180.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_180.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "Hahaha, me either, but I feel the same. I'm sure you can be a great king, Mathias.",
+      "translation": "Ха-ха-ха, я тоже, но я чувствую то же самое. Я уверен, что ты сможешь стать великим королем, Матиас."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_180.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_180.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "Promise with Mom Number 5! \"Take action rather than worry!\"",
+      "translation": "Обещание маме номер 5! «Действуйте, а не волнуйтесь!»"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_180.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_180.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "You just need to give it a try. You can't judge anything until you've experienced it!",
+      "translation": "Вам просто нужно попробовать. Вы не можете судить ни о чем, пока не испытаете это на собственном опыте!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_180.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_180.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "That's right. Otherwise, we'll have to start calling you the King of the Wastrels again!",
+      "translation": "Это верно. Иначе нам снова придется называть тебя Королем Пустошей!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_180.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_180.ebm",
+      "index": 16,
+      "speaker": "Mathias",
+      "original": "Hahaha. No, thanks, please don't do that.",
+      "translation": "Ха-ха-ха. Нет, спасибо, пожалуйста, не делай этого."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_180.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_180.ebm",
+      "index": 17,
+      "speaker": "Mathias",
+      "original": "Thank you, Lydie, Sue. You've cheered me up a bit.",
+      "translation": "Спасибо, Лиди, Сью. Вы меня немного подбодрили."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_180.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_180.ebm",
+      "index": 18,
+      "speaker": "Mathias",
+      "original": "I'd better get this medicine to my dad, anyway. See you later!",
+      "translation": "В любом случае, мне лучше отвезти это лекарство отцу. Увидимся позже!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_180.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_180.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "Hehe. He looked a little more cheerful, didn't he?",
+      "translation": "Хе-хе. Он выглядел немного веселее, не так ли?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_180.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_180.ebm",
+      "index": 20,
+      "speaker": "Sue",
+      "original": "Yes. I'm glad we were able to help him, even just a little.",
+      "translation": "Да. Я рад, что мы смогли ему помочь, хотя бы немного."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_190.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_190.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Hey, look at all these people. What's going on?",
+      "translation": "Эй, посмотри на всех этих людей. Что происходит?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_190.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_190.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Let's have a look. \"Proclamation of Coronation\"! Hey! \"Our next king has been decided.\"",
+      "translation": "Давайте посмотрим. «Провозглашение коронации»! Привет! «Наш следующий король определен»."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_190.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_190.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "\"His name shall be Mathias Ferrier Adalet!\"",
+      "translation": "«Его имя будет Матиас Ферье Адалет!»"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_190.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_190.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Lydie! Yes! Mathias has made up his mind to succeed the throne!",
+      "translation": "Лиди! Да! Матиас решил унаследовать трон!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_190.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_190.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Yeah, it looks like it! Congratulations, Mathias!",
+      "translation": "Да, похоже! Поздравляем, Матиас!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_190.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_190.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Come on, we have to say that to his face! Let's go and see Mathias, right away!",
+      "translation": "Да ладно, мы должны сказать это ему в лицо! Пошли навестим Матиаса, прямо сейчас!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_190.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_190.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Yeah, you're right... hey, hold up, Sue!",
+      "translation": "Да, ты права... эй, подожди, Сью!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_200.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_200.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Mathias! Mathias, Mathias! We saw the proclamation!",
+      "translation": "Матиас! Матиас, Матиас! Мы видели объявление!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_200.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_200.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "You're going to be the next king! Congratulations!",
+      "translation": "Ты будешь следующим королем! Поздравляем!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_200.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_200.ebm",
+      "index": 2,
+      "speaker": "Mathias",
+      "original": "Ah, you saw that? Yes, that's right. I am your ruler!",
+      "translation": "Ах, ты это видел? Да, это так. Я твой правитель!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_200.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_200.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "My lord! My liege? Ah, my Majesty! Sorry, Your Majesty!",
+      "translation": "Мой господин! Мой господин? Ах, мое Величество! Извините, Ваше Величество!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_200.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_200.ebm",
+      "index": 4,
+      "speaker": "Mathias",
+      "original": "Hah, OK, I'm just kidding. I'm not actually king until after the coronation.",
+      "translation": "Ха, ладно, я просто шучу. На самом деле я не буду королем до коронации."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_200.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_200.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "What? So you're still unemployed?",
+      "translation": "Что? Так ты все еще безработный?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_200.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_200.ebm",
+      "index": 6,
+      "speaker": "Mathias",
+      "original": "You're still banging that drum? Hahaha! Hey, all of this gives me an idea, anyway.",
+      "translation": "Ты все еще барабанишь в этот барабан? Ха-ха-ха! Эй, в любом случае все это дает мне идею."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_200.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_200.ebm",
+      "index": 7,
+      "speaker": "Mathias",
+      "original": "The crown to be used at the coronation is normally made by people selected by the next king.",
+      "translation": "Корону, которая будет использоваться при коронации, обычно изготавливают люди, выбранные следующим королем."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_200.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_200.ebm",
+      "index": 8,
+      "speaker": "Mathias",
+      "original": "What do you say, girls? Fancy using your alchemy to make me a crown?",
+      "translation": "Что скажете, девочки? Не хочешь использовать свою алхимию, чтобы сделать мне корону?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_200.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_200.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "What! A crown, from alchemy? Is that even a thing?",
+      "translation": "Что! Корона из алхимии? Это вообще что-то?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_200.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_200.ebm",
+      "index": 10,
+      "speaker": "Mathias",
+      "original": "I'm sure it will be fine. I'd love for you to do this.",
+      "translation": "Я уверен, что все будет хорошо. Я бы хотел, чтобы ты это сделал."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_200.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_200.ebm",
+      "index": 11,
+      "speaker": "Mathias",
+      "original": "Alchemy has brought positive change to the city. I want my taking the throne to be the same.",
+      "translation": "Алхимия принесла в город положительные изменения. Я хочу, чтобы мое вступление на трон было таким же."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_200.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_200.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "Very well. If that's what you want, Mathias, we'll happily take this job!",
+      "translation": "Очень хорошо. Если ты этого хочешь, Матиас, мы с радостью возьмемся за эту работу!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_200.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_200.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "You said it! We'll make you a dazzling crown for your coronation!",
+      "translation": "Ты сказал это! Мы сделаем тебе ослепительную корону к твоей коронации!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_200.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_200.ebm",
+      "index": 14,
+      "speaker": "Mathias",
+      "original": "Thanks! No need to hold back, you can really go all out!",
+      "translation": "Спасибо! Не нужно сдерживаться, вы действительно можете выложиться на все сто!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_210.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_210.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Mathias. We've made the crown.",
+      "translation": "Матиас. Мы сделали корону."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_210.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_210.ebm",
+      "index": 1,
+      "speaker": "Mathias",
+      "original": "OK. Let me take a look.",
+      "translation": "ХОРОШО. Позвольте мне взглянуть."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_210.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_210.ebm",
+      "index": 2,
+      "speaker": "Mathias",
+      "original": "Yes. Good color, good sheen. This is a great crown!",
+      "translation": "Да. Хороший цвет, хороший блеск. Это отличная корона!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_210.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_210.ebm",
+      "index": 3,
+      "speaker": "Mathias",
+      "original": "It stands up well compared to my dad's crown, too. In fact, it might be even better!",
+      "translation": "Она также хорошо стоит по сравнению с короной моего отца. На самом деле, это может быть даже лучше!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_210.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_210.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Great, glad to hear it. We were pretty nervous about such an important job.",
+      "translation": "Отлично, рад это слышать. Мы очень нервничали по поводу такой важной работы."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_210.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_210.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Hehe. We put a lot of hard work and feelings into this.",
+      "translation": "Хе-хе. Мы вложили в это много труда и чувств."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_210.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_210.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "You keep it safe, Your Majesty! Keep it on your head!",
+      "translation": "Берегите его, Ваше Величество! Держи это на голове!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_210.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_210.ebm",
+      "index": 7,
+      "speaker": "Mathias",
+      "original": "I will. I'll treasure this forever. Wow, this also means I really can't run away!",
+      "translation": "Я буду. Я буду хранить это вечно. Ух ты, это также означает, что я действительно не могу убежать!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_210.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_210.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Come on, Mathias, you'll be fine! You're going to make a great king!",
+      "translation": "Давай, Матиас, с тобой все будет в порядке! Из тебя выйдет великий король!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_210.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_210.ebm",
+      "index": 9,
+      "speaker": "Mathias",
+      "original": "Yes, you're right. It's just... ah, it's nothing.",
+      "translation": "Да, ты прав. Это просто... ах, это ничего."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_210.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_210.ebm",
+      "index": 10,
+      "speaker": "Mathias",
+      "original": "Heheh, here's your reward. Thank you, both of you!",
+      "translation": "Хе-хе, вот твоя награда. Спасибо вам обоим!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_210.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_210.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "Wow, thanks! I can't wait for the coronation!",
+      "translation": "Вау, спасибо! Не могу дождаться коронации!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_210.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_210.ebm",
+      "index": 12,
+      "speaker": "Mathias",
+      "original": "Yeah. Me too.",
+      "translation": "Ага. Я тоже."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_210.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_210.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "Hmm. Something still sounds a little off. Am I just imagining things?",
+      "translation": "Хм. Что-то все еще звучит немного не так. Я просто воображаю вещи?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_210.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_210.ebm",
+      "index": 14,
+      "speaker": "System",
+      "original": "3000 Coll received.",
+      "translation": "Получено 3000 колл."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_210.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_210.ebm",
+      "index": 15,
+      "speaker": "System",
+      "original": "A new Combination Art for Sue and Mathias <CLEG>\"Full-Power Gunplay\"<CLNR> is unlocked.",
+      "translation": "Разблокировано новое комбинированное искусство для Сью и Матиаса <CLEG> «Full-Power Gunplay»<CLNR>."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_220.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_220.ebm",
+      "index": 0,
+      "speaker": "Mathias",
+      "original": "Hey.",
+      "translation": "Привет."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_220.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_220.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Ah, Your Majesty! Your Royal Highness!",
+      "translation": "Ах, Ваше Величество! Ваше Королевское Высочество!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_220.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_220.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Please, come in!",
+      "translation": "Пожалуйста, заходите!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_220.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_220.ebm",
+      "index": 3,
+      "speaker": "Mathias",
+      "original": "How many times do I have to say this? I'm not king yet! You're just making fun of me, aren't you?",
+      "translation": "Сколько раз мне придется это говорить? Я еще не король! Ты просто смеешься надо мной, да?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_220.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_220.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Of course! What's up, though? You look like you've got something on your mind?",
+      "translation": "Конечно! А что случилось? У тебя такой вид, будто у тебя что-то на уме?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_220.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_220.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Come on, you can tell us anything. We'll help you however we can.",
+      "translation": "Да ладно, ты можешь рассказать нам что угодно. Мы поможем вам, чем сможем."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_220.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_220.ebm",
+      "index": 6,
+      "speaker": "Mathias",
+      "original": "Thanks for saying that. I do have something I want to ask you both.",
+      "translation": "Спасибо, что сказали это. У меня есть кое-что, о чем я хочу спросить вас обоих."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_220.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_220.ebm",
+      "index": 7,
+      "speaker": "Mathias",
+      "original": "If the two of you had to live apart, starting from tomorrow, what would you say?",
+      "translation": "Если бы вам двоим пришлось жить отдельно, начиная с завтрашнего дня, что бы вы сказали?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_220.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_220.ebm",
+      "index": 8,
+      "speaker": "Together",
+      "original": "No way!",
+      "translation": "Ни за что!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_220.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_220.ebm",
+      "index": 9,
+      "speaker": "System",
+      "original": "No way!",
+      "translation": "Ни за что!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_220.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_220.ebm",
+      "index": 10,
+      "speaker": "Mathias",
+      "original": "Why?",
+      "translation": "Почему?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_220.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_220.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "We've lived together since we were born, and that's never going to change!",
+      "translation": "Мы живем вместе с самого рождения, и это никогда не изменится!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_220.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_220.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "That's right. The two of us are one. We couldn't possibly live apart!",
+      "translation": "Это верно. Мы двое — одно целое. Мы не могли жить отдельно!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_220.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_220.ebm",
+      "index": 13,
+      "speaker": "Mathias",
+      "original": "Yes, you're right. I knew it!",
+      "translation": "Да, ты прав. Я знал это!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_220.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_220.ebm",
+      "index": 14,
+      "speaker": "Mathias",
+      "original": "Sorry, girls, but can I ask you to do a job for me, too?",
+      "translation": "Простите, девочки, а можно вас тоже попросить поработать за меня?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_220.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_220.ebm",
+      "index": 15,
+      "speaker": "Mathias",
+      "original": "That crown you made for me. Can you make another one?",
+      "translation": "Эта корона, которую ты сделал для меня. Можете ли вы сделать еще один?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_220.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_220.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "What? Another crown? Not thinking of growing a second head, are you?",
+      "translation": "Что? Еще одна корона? Вы не думаете отрастить вторую голову, не так ли?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_220.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_220.ebm",
+      "index": 17,
+      "speaker": "Mathias",
+      "original": "I can't tell you. I just really need one! Please!",
+      "translation": "Я не могу вам сказать. Мне просто очень нужен один! Пожалуйста!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_220.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_220.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "OK! Anything for the future king!",
+      "translation": "ХОРОШО! Всё для будущего короля!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_220.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_220.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "We'll bring you another crown, just as great as the first one. Just wait a little while, Mathias!",
+      "translation": "Мы принесем тебе еще одну корону, такую же великолепную, как и первая. Подожди немного, Матиас!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_220.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_220.ebm",
+      "index": 20,
+      "speaker": "Mathias",
+      "original": "Thanks. I know you can handle this, Lydie, Sue!",
+      "translation": "Спасибо. Я знаю, что ты справишься с этим, Лиди, Сью!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Here you go, Mathias. The second crown you ordered.",
+      "translation": "Вот, Матиас. Вторая корона, которую вы заказали."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 1,
+      "speaker": "Mathias",
+      "original": "This one is really well made, too. So now...",
+      "translation": "Этот тоже действительно хорошо сделан. Итак, теперь..."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "How about you tell us why you need another one?",
+      "translation": "Как насчет того, чтобы рассказать нам, зачем вам нужен еще один?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 3,
+      "speaker": "Mathias",
+      "original": "Hehe, I'm the next king, after all. It's a little soon, but I'm going to use some of that power.",
+      "translation": "Хе-хе, в конце концов, я следующий король. Это немного скоро, но я собираюсь использовать часть этой силы."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 4,
+      "speaker": "Mathias",
+      "original": "Girls, come with me. I want you to see this, too.",
+      "translation": "Девочки, пойдем со мной. Я хочу, чтобы ты тоже это увидел."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 6,
+      "speaker": "Mireille",
+      "original": "Mathias. And the twins, too. What's up?",
+      "translation": "Матиас. И близнецы тоже. Как дела?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 7,
+      "speaker": "Mathias",
+      "original": "Sister. Can you please clear the room?",
+      "translation": "Сестра. Не могли бы вы очистить комнату?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 8,
+      "speaker": "Mireille",
+      "original": "What? I guess so.",
+      "translation": "Что? Полагаю, что так."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 9,
+      "speaker": "Mireille",
+      "original": "I've done as you asked. What's up? You're acting a bit odd.",
+      "translation": "Я сделал, как вы просили. Как дела? Ты ведешь себя немного странно."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 10,
+      "speaker": "Mathias",
+      "original": "Sis. You've always looked out for me, haven't you.",
+      "translation": "Сестра. Ты всегда заботился обо мне, не так ли."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 11,
+      "speaker": "Mathias",
+      "original": "Supported me, from the shadows. I've only made it this far thanks to you.",
+      "translation": "Поддержал меня, из тени. Я зашел так далеко только благодаря тебе."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 12,
+      "speaker": "Mireille",
+      "original": "Mathias? What is this?",
+      "translation": "Матиас? Что это?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 13,
+      "speaker": "Mathias",
+      "original": "That's why I need you to help me rule.",
+      "translation": "Вот почему мне нужно, чтобы ты помог мне править."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 14,
+      "speaker": "Mathias",
+      "original": "Just like Lydie and Sue and everything they can do, we're better off together!",
+      "translation": "Точно так же, как Лиди и Сью и все, что они могут сделать, нам лучше вместе!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 15,
+      "speaker": "Mathias",
+      "original": "That's why I want you to take this.",
+      "translation": "Вот почему я хочу, чтобы ты взял это."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 16,
+      "speaker": "Mireille",
+      "original": "Hey, this is a crown! You're seriously going to tell me to rule, after all this?",
+      "translation": "Эй, это корона! Ты серьезно собираешься приказать мне править после всего этого?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 17,
+      "speaker": "Mathias",
+      "original": "No! I'll be the king. I want you to be, well, the power behind the throne?",
+      "translation": "Нет! Я буду королем. Я хочу, чтобы ты был, ну, силой, стоящей за троном?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 18,
+      "speaker": "Mathias",
+      "original": "Sister. Please, will you continue to support me, even once I come to power?",
+      "translation": "Сестра. Пожалуйста, продолжите ли вы поддерживать меня, даже когда я приду к власти?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 19,
+      "speaker": "Mathias",
+      "original": "I'm sure that's the best for the future of Adalet, too.",
+      "translation": "Я уверен, что это будет лучше и для будущего Адалет."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 20,
+      "speaker": "Mireille",
+      "original": "Let me confirm one thing with you. You've given this a lot of careful thought, I take it?",
+      "translation": "Позвольте мне подтвердить вам одну вещь. Вы очень тщательно обдумали это, я так понимаю?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 21,
+      "speaker": "Mathias",
+      "original": "Yes. I think this is the best way forward.",
+      "translation": "Да. Я думаю, что это лучший путь вперед."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 22,
+      "speaker": "Mireille",
+      "original": "I see. I which case, it can't be helped. Looks like I'll be holding your hand forever, hah!",
+      "translation": "Я понимаю. В этом случае ничего не поделаешь. Похоже, я буду держать тебя за руку вечно, ха!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 23,
+      "speaker": "Mireille",
+      "original": "King Mathias. I accept the role of, what are we calling this, the king in shadow?",
+      "translation": "Король Матиас. Я принимаю роль, как мы это называем, короля в тени?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 24,
+      "speaker": "Mireille",
+      "original": "A shadow must always be a shadow, however. You'll have to do all of your own duties properly. Understand?",
+      "translation": "Однако тень всегда должна оставаться тенью. Вам придется как следует выполнять все свои обязанности. Понимать?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 25,
+      "speaker": "Mathias",
+      "original": "Of course! Lydie, Sue, you're up!",
+      "translation": "Конечно! Лиди, Сью, вы встали!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 26,
+      "speaker": "Mathias",
+      "original": "We've going to hold a shadow coronation, right now! You two have to bear witness.",
+      "translation": "Мы собираемся провести теневую коронацию прямо сейчас! Вы двое должны дать показания."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 27,
+      "speaker": "Mathias",
+      "original": "We need you two to watch over us as we make a vow the world can never know about!",
+      "translation": "Нам нужно, чтобы вы двое присматривали за нами, пока мы даем клятву, о которой мир никогда не узнает!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 28,
+      "speaker": "Sue",
+      "original": "OK, we can do that. We won't blink once!",
+      "translation": "Хорошо, мы можем это сделать. Мы не моргнем ни разу!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 29,
+      "speaker": "Lydie",
+      "original": "Yes! We'll burn it into our memories!",
+      "translation": "Да! Мы запечатлеем это в наших воспоминаниях!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 30,
+      "speaker": "Mathias",
+      "original": "OK. Here we go!",
+      "translation": "ХОРОШО. Вот так!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 31,
+      "speaker": "Mathias",
+      "original": "This really brings it all home, doesn't it.",
+      "translation": "Это действительно приносит все это домой, не так ли."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:32": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 32,
+      "speaker": "Mireille",
+      "original": "Hahaha, yeah. Being watched is a little embarrassing though...",
+      "translation": "Ха-ха-ха, да. Хотя за мной наблюдают немного неловко..."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:33": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 33,
+      "speaker": "Lydie",
+      "original": "Uwah! That really suits you, both of you!",
+      "translation": "Ува! Вам обоим это очень подходит!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:34": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 34,
+      "speaker": "Sue",
+      "original": "King Mathias! Queen Mireille! Lead our country into a better future!",
+      "translation": "Король Матиас! Королева Мирей! Ведите нашу страну к лучшему будущему!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:35": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 35,
+      "speaker": "Mathias",
+      "original": "Yes! We promise to do so!",
+      "translation": "Да! Мы обещаем это сделать!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:36": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 36,
+      "speaker": "Mireille",
+      "original": "Indeed we do. You first, Mathias.",
+      "translation": "Действительно, мы это делаем. Ты первый, Матиас."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:37": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 37,
+      "speaker": "Mathias",
+      "original": "As ruler, I promise to create a land in which all the people can live safe and happy lives.",
+      "translation": "Как правитель, я обещаю создать землю, в которой все люди смогут жить безопасной и счастливой жизнью."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:38": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 38,
+      "speaker": "Mireille",
+      "original": "As ruler, I promise to create a land in which all the people can live safe and happy lives.",
+      "translation": "Как правитель, я обещаю создать землю, в которой все люди смогут жить безопасной и счастливой жизнью."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:39": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 39,
+      "speaker": "Mathias",
+      "original": "In this moment, I, Mathias Ferrier Adalet, as the king...",
+      "translation": "В этот момент я, Матиас Ферье Адалет, как король..."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:40": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 40,
+      "speaker": "Mireille",
+      "original": "In this moment, I, Mireille Ferrier Adalet, as the king in shadow...",
+      "translation": "В этот момент я, Мирей Феррье Адале, в роли короля тени..."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:41": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 41,
+      "speaker": "Together",
+      "original": "Do swear to succeed the throne of this great land!",
+      "translation": "Поклянитесь унаследовать трон этой великой страны!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:42": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 42,
+      "speaker": "System",
+      "original": "Do swear to succeed the throne of this great land!",
+      "translation": "Поклянитесь унаследовать трон этой великой страны!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:43": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 43,
+      "speaker": "Lydie",
+      "original": "Wow! We bore witness to something incredible, didn't we!",
+      "translation": "Ух ты! Мы стали свидетелями чего-то невероятного, не так ли!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:44": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 44,
+      "speaker": "Sue",
+      "original": "Yeah! The scoop of the century! It's not like we can tell anyone about it, though.",
+      "translation": "Ага! Совок века! Хотя мы не можем никому об этом рассказать."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:45": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 45,
+      "speaker": "Mireille",
+      "original": "That's the way it has to be, girls.",
+      "translation": "Так и должно быть, девочки."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:46": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 46,
+      "speaker": "Mireille",
+      "original": "There have never been two people wearing the crown. You understand too, Mathias?",
+      "translation": "Никогда не было двух человек, носящих корону. Ты тоже понимаешь, Матиас?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:47": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 47,
+      "speaker": "Mathias",
+      "original": "Haha, of course I do. I do, but...",
+      "translation": "Хаха, конечно да. Да, но..."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_230.ebm:48": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_230.ebm",
+      "index": 48,
+      "speaker": "Mathias",
+      "original": "It's a minor problem, really, compared to what it will do for our nation.",
+      "translation": "На самом деле это незначительная проблема по сравнению с тем, что это принесет нашей стране."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_240.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_240.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Hey, the king is slacking off!",
+      "translation": "Эй, король расслабился!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_240.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_240.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "We need to include this in our report to the king in shadow!",
+      "translation": "Нам нужно включить это в наш отчет королю в тени!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_240.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_240.ebm",
+      "index": 3,
+      "speaker": "Mathias",
+      "original": "Hey, don't. Don't do that! I'll be stripped of the position in an instant!",
+      "translation": "Эй, не надо. Не делай этого! Меня вмиг лишат этой должности!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_240.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_240.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Hahaha, we were just joking. Kind of!",
+      "translation": "Ха-ха-ха, мы просто пошутили. Вроде!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_240.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_240.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Sue's right. If you don't keep it together as king, we'll be letting Mireille know!",
+      "translation": "Сью права. Если ты не справишься с ролью короля, мы сообщим об этом Мирей!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_240.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_240.ebm",
+      "index": 6,
+      "speaker": "Mathias",
+      "original": "This is odd. I'm starting to feel like I've walked myself into even more trouble!",
+      "translation": "Это странно. Я начинаю чувствовать, что навлек на себя еще больше неприятностей!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_240.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_240.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Haha, no you're not!",
+      "translation": "Хаха, нет, это не так!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_240.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_240.ebm",
+      "index": 8,
+      "speaker": "Mathias",
+      "original": "I can't fool you, can I. No, I made this decision. I'm not going to start regretting it now.",
+      "translation": "Я не могу обмануть тебя, не так ли? Нет, я принял это решение. Я не собираюсь сейчас об этом сожалеть."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_240.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_240.ebm",
+      "index": 9,
+      "speaker": "Mathias",
+      "original": "Looking back, I guess this all turned out because of you two.",
+      "translation": "Оглядываясь назад, я думаю, что все это произошло из-за вас двоих."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_240.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_240.ebm",
+      "index": 10,
+      "speaker": "Mathias",
+      "original": "Seeing you work together so hard, I have to admit, it's pretty inspiring. I like it.",
+      "translation": "Видеть, как вы так усердно работаете вместе, должен признать, это очень вдохновляет. Мне это нравится."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_240.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_240.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "Mathias! Thank you!",
+      "translation": "Матиас! Спасибо!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_240.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_240.ebm",
+      "index": 12,
+      "speaker": "Mathias",
+      "original": "Hehe, just you wait and see. Me and my sister are going to make this country even greater!",
+      "translation": "Хе-хе, просто подожди и увидишь. Я и моя сестра собираемся сделать эту страну еще лучше!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_240.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_240.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "Yeah, I can't wait! Just make sure you never look unemployed again, OK?",
+      "translation": "Да, я не могу дождаться! Просто постарайся больше никогда не выглядеть безработным, хорошо?"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_240.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_240.ebm",
+      "index": 14,
+      "speaker": "Mathias",
+      "original": "Uwah! You dare speak to your monarch like that? Off with her head!",
+      "translation": "Ува! Ты смеешь так говорить со своим монархом? Отрубить ей голову!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_240.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_240.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "Such abuse of power! The only thing I want to see you cutting are our taxes, king creep!",
+      "translation": "Такое злоупотребление властью! Единственное, что я хочу, чтобы ты сократил, это наши налоги, король ублюдок!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_240.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_240.ebm",
+      "index": 16,
+      "speaker": "Mathias",
+      "original": "Hey, I'm no creep! Right, for that, I'm going to double your taxes!",
+      "translation": "Эй, я не подонок! Хорошо, за это я удвою твои налоги!"
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_240.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_240.ebm",
+      "index": 17,
+      "speaker": "Lydie",
+      "original": "Hahaha! I think the country is going to be a lot of fun with you in charge, Mathias.",
+      "translation": "Ха-ха-ха! Я думаю, под твоим руководством в стране будет очень весело, Матиас."
+    },
+    "ebm:qc04_mat/event_message_qc04_mat_240.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc04_mat/event_message_qc04_mat_240.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "We really are looking forward to everything you'll do!",
+      "translation": "Мы очень ждем всего, что вы сделаете!"
+    }
+  }
+}

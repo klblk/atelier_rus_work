@@ -1,0 +1,1205 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_library_help.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:3866625": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866625",
+      "original": "Synthesis: Basics",
+      "translation": "[Синтез] Основы"
+    },
+    "pack02:3866626": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866626",
+      "original": "Synthesis: Flow",
+      "translation": "[Синтез] Этапы"
+    },
+    "pack02:3866627": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866627",
+      "original": "Synthesis: Categories",
+      "translation": "[Синтез] Категории"
+    },
+    "pack02:3866628": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866628",
+      "original": "Synthesis: Effects",
+      "translation": "[Синтез] Эффекты"
+    },
+    "pack02:3866629": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866629",
+      "original": "Synthesis: Alchemy Components",
+      "translation": "[Синтез] Алхим. компоненты"
+    },
+    "pack02:3866630": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866630",
+      "original": "Synthesis: Traits",
+      "translation": "[Синтез] Свойства"
+    },
+    "pack02:3866631": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866631",
+      "original": "Synthesis: Catalysts",
+      "translation": "[Синтез] Катализаторы"
+    },
+    "pack02:3866632": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866632",
+      "original": "Synthesis: Enhancing Agents",
+      "translation": "Синтез: усиливающие агенты"
+    },
+    "pack02:3866633": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866633",
+      "original": "Recipe Ideas: Basics",
+      "translation": "[Идеи рецептов] Основы"
+    },
+    "pack02:3866634": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866634",
+      "original": "Exploration: Gathering Basics",
+      "translation": "Исследование: сбор основ"
+    },
+    "pack02:3866635": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866635",
+      "original": "Exploration: Gathering Types",
+      "translation": "Исследование: типы сбора"
+    },
+    "pack02:3866636": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866636",
+      "original": "Exploration: Usable Items",
+      "translation": "Исследование: полезные предметы"
+    },
+    "pack02:3866637": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866637",
+      "original": "Exploration: Harvest Equipment",
+      "translation": "Исследование: оборудование для сбора урожая"
+    },
+    "pack02:3866638": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866638",
+      "original": "Exploration: Time Changes",
+      "translation": "Исследование: изменения времени"
+    },
+    "pack02:3866639": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866639",
+      "original": "Exploration: Weather",
+      "translation": "[Исследование] Погода"
+    },
+    "pack02:3866640": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866640",
+      "original": "Exploration: Encounters",
+      "translation": "Исследование: Встречи"
+    },
+    "pack02:3866641": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866641",
+      "original": "Battles: Basics",
+      "translation": "Бои: основы"
+    },
+    "pack02:3866642": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866642",
+      "original": "Battles: Usable Items",
+      "translation": "Битвы: полезные предметы"
+    },
+    "pack02:3866643": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866643",
+      "original": "Battles: Resistances",
+      "translation": "Битвы: Сопротивления"
+    },
+    "pack02:3866644": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866644",
+      "original": "Battles: Ailments",
+      "translation": "Битвы: Болезни"
+    },
+    "pack02:3866645": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866645",
+      "original": "Battles: Break Status",
+      "translation": "Битвы: статус перерыва"
+    },
+    "pack02:3866646": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866646",
+      "original": "Battles: Collaboration Battles",
+      "translation": "Битвы: Совместные битвы"
+    },
+    "pack02:3866647": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866647",
+      "original": "Battles: Vanguard &amp; Rearguard",
+      "translation": "Бои: авангард и арьергард"
+    },
+    "pack02:3866648": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866648",
+      "original": "Battles: Combination Arts",
+      "translation": "Битвы: Комбинированные искусства"
+    },
+    "pack02:3866649": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866649",
+      "original": "Battles: Battle Mix",
+      "translation": "Битвы: Боевой микс"
+    },
+    "pack02:3866650": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866650",
+      "original": "Battles: Extra Mix",
+      "translation": "Битвы: Экстра Микс"
+    },
+    "pack02:3866651": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866651",
+      "original": "Battles: Archeus Anima",
+      "translation": "Битвы: Археус Анима"
+    },
+    "pack02:3866652": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866652",
+      "original": "Battles: Area Effects",
+      "translation": "Бои: Эффекты области"
+    },
+    "pack02:3866653": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866653",
+      "original": "Battles: Rainbow Palette",
+      "translation": "Битвы: Радужная палитра"
+    },
+    "pack02:3866654": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866654",
+      "original": "Facilities: Atelier Basics",
+      "translation": "Удобства: Ателье Основы"
+    },
+    "pack02:3866655": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866655",
+      "original": "Facilities: Weapon Creation",
+      "translation": "Услуги: Создание оружия"
+    },
+    "pack02:3866656": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866656",
+      "original": "Facilities: Weapon Customization",
+      "translation": "Услуги: Кастомизация оружия"
+    },
+    "pack02:3866657": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866657",
+      "original": "Facilities: Armor Creation",
+      "translation": "Услуги: Создание брони"
+    },
+    "pack02:3866658": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866658",
+      "original": "Facilities: Volume Retail Store",
+      "translation": "Удобства: Розничный магазин Volume"
+    },
+    "pack02:3866659": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866659",
+      "original": "Facilities: Auto Refills",
+      "translation": "Удобства: Автоматическое заполнение"
+    },
+    "pack02:3866660": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866660",
+      "original": "Requests: Request Basics",
+      "translation": "Запросы: основы запросов"
+    },
+    "pack02:3866661": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866661",
+      "original": "Requests: Updates",
+      "translation": "Запросы: Обновления"
+    },
+    "pack02:3866662": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866662",
+      "original": "Reputation: Atelier Ranking",
+      "translation": "Репутация: Рейтинг Ателье"
+    },
+    "pack02:3866663": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866663",
+      "original": "Reputation: Path to the Test",
+      "translation": "Репутация: путь к испытанию"
+    },
+    "pack02:3866664": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866664",
+      "original": "Reputation: Promotion Tests",
+      "translation": "Репутация: Тесты на повышение"
+    },
+    "pack02:3866665": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866665",
+      "original": "Reputation: Ambitions Journal",
+      "translation": "Репутация: Журнал «Амбиции»"
+    },
+    "pack02:3866666": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866666",
+      "original": "Approach the cauldron in the atelier and press &lt;IM00&gt; to &lt;CLGR&gt;synthesize an item&lt;CLNR&gt;.",
+      "translation": "Подойдите к котлу в ателье и нажмите &lt;IM00&gt;, чтобы &lt;CLGR&gt; синтезировать предмет &lt;CLNR&gt;."
+    },
+    "pack02:3866667": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866667",
+      "original": "There are five basic steps to the synthesis process. &lt;CLGR&gt;1. Select a recipe:&lt;CLNR&gt; choose an item to synthesize from the list. Items with a “&lt;CLGR&gt;○&lt;CLNR&gt;” next to them can be made right away.",
+      "translation": "Процесс синтеза состоит из пяти основных этапов. &lt;CLGR&gt;1. Выберите рецепт:&lt;CLNR&gt; выберите из списка предмет для синтеза. Предметы со знаком «&lt;CLGR&gt;○&lt;CLNR&gt;» рядом с ними можно создавать сразу."
+    },
+    "pack02:3866668": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866668",
+      "original": "Synthesis recipes contain two types of materials: “materials directly indicated by name” and &lt;CLGR&gt;“Categories”&lt;CLNR&gt; that refer to the general class of materials used.",
+      "translation": "Рецепты синтеза содержат два типа материалов: «материалы, прямо указанные по названию» и &lt;CLGR&gt; «Категории»&lt;CLNR&gt;, относящиеся к общему классу используемых материалов."
+    },
+    "pack02:3866669": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866669",
+      "original": "The &lt;CLGR&gt;Effect&lt;CLNR&gt; of an item is a unique ability attached to the item. For example, the Uni Bag has an Effect of “Physical Damage S” attached to it.",
+      "translation": "&lt;CLGR&gt;Эффект&lt;CLNR&gt; предмета — это уникальная способность, прикрепленная к предмету. Например, к универсальной сумке прикреплен эффект «Физический урон S»."
+    },
+    "pack02:3866670": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866670",
+      "original": "Items used as materials in synthesis include elements known as &lt;CLGR&gt;“Components”&lt;CLNR&gt; within them. They are the pieces that you place on the panels when adding materials to the synthesis process.",
+      "translation": "Предметы, используемые в качестве материалов при синтезе, включают в себя элементы, известные как &lt;CLGR&gt; «Компоненты»&lt;CLNR&gt;. Это детали, которые вы размещаете на панелях при добавлении материалов в процессе синтеза."
+    },
+    "pack02:3866671": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866671",
+      "original": "&lt;CLGR&gt;Traits&lt;CLNR&gt; are the hidden powers of each item. Generally speaking, there are two types of traits: those that enhance existing abilities of an item, and ones that add entirely new abilities to the item.",
+      "translation": "&lt;CLGR&gt;Черты&lt;CLNR&gt; — это скрытые способности каждого предмета. Вообще говоря, существует два типа черт: те, которые улучшают существующие способности предмета, и те, которые добавляют к предмету совершенно новые способности."
+    },
+    "pack02:3866672": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866672",
+      "original": "A &lt;CLGR&gt;Catalyst&lt;CLNR&gt; is a material selected at the start of the synthesis process that provides various effects. You can only add one catalyst per synthesis.",
+      "translation": "&lt;CLGR&gt;Катализатор&lt;CLNR&gt; — это материал, выбранный в начале процесса синтеза, который обеспечивает различные эффекты. Вы можете добавить только один катализатор за один синтез."
+    },
+    "pack02:3866673": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866673",
+      "original": "An &lt;CLGR&gt;Enhancing Agent&lt;CLNR&gt; can be added once per synthesis and is separate from the other materials.",
+      "translation": "&lt;CLGR&gt;Усилитель &lt;CLNR&gt; можно добавить один раз за синтез и отдельно от других материалов."
+    },
+    "pack02:3866674": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866674",
+      "original": "Lydie and Suelle can learn new recipes by performing various actions, such as fighting battles, performing synthesis, or gathering materials. These are known as &lt;CLGR&gt;Recipe Ideas&lt;CLNR&gt;.",
+      "translation": "Лидия и Сюэль могут изучать новые рецепты, выполняя различные действия, например, сражаясь в битвах, выполняя синтез или собирая материалы. Они известны как &lt;CLGR&gt;Идеи рецептов&lt;CLNR&gt;."
+    },
+    "pack02:3866675": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866675",
+      "original": "Basically, gathering refers to harvesting/picking up materials that you see around. This is known as &lt;CLGR&gt;Basic Gathering&lt;CLNR&gt;.",
+      "translation": "По сути, сбор означает сбор материалов, которые вы видите вокруг. Это известно как &lt;CLGR&gt;Базовый сбор&lt;CLNR&gt;."
+    },
+    "pack02:3866676": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866676",
+      "original": "In addition to Basic Gathering, there are also &lt;CLGR&gt;Smash Gathering&lt;CLNR&gt; and &lt;CLGR&gt;Indirect Gathering&lt;CLNR&gt;.",
+      "translation": "Помимо базового сбора, есть также &lt;CLGR&gt;Smash Gathering&lt;CLNR&gt; и &lt;CLGR&gt;Непрямой сбор&lt;CLNR&gt;."
+    },
+    "pack02:3866677": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866677",
+      "original": "You can use the items you create while searching too.",
+      "translation": "Вы также можете использовать созданные вами предметы во время поиска."
+    },
+    "pack02:3866678": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866678",
+      "original": "Some tools can be equipped to make searching easier. These tools are referred to as &lt;CLGR&gt;Harvest Equipment&lt;CLNR&gt;.",
+      "translation": "Некоторые инструменты можно оборудовать для облегчения поиска. Эти инструменты называются &lt;CLGR&gt;Сборочное оборудование&lt;CLNR&gt;."
+    },
+    "pack02:3866679": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866679",
+      "original": "By moving about or gathering materials, time will slowly progress throughout the day.",
+      "translation": "Перемещаясь или собирая материалы, время будет медленно идти в течение дня."
+    },
+    "pack02:3866680": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866680",
+      "original": "Weather outside is capable of changing at any moment. There are 6 types of weather: &lt;CLGR&gt;sunny, cloudy, rain, thunderstorm, sunshower, snow&lt;CLNR&gt;.",
+      "translation": "Погода за окном способна измениться в любой момент. Существует 6 типов погоды: &lt;CLGR&gt;солнечно, облачно, дождь, гроза, солнечный душ, снег&lt;CLNR&gt;."
+    },
+    "pack02:3866681": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866681",
+      "original": "There is a wide variety of monsters living in the gathering areas. Touching a monster will cause a battle to be triggered.",
+      "translation": "В местах сбора обитает большое разнообразие монстров. Прикосновение к монстру приведет к началу битвы."
+    },
+    "pack02:3866682": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866682",
+      "original": "In battles, you can use items and skills to eliminate enemies and achieve victory. Conversely, if you are defeated, you will lose some of the items in your Basket and be returned to the atelier.",
+      "translation": "В боях вы можете использовать предметы и навыки, чтобы уничтожать врагов и добиваться победы. И наоборот, если вы потерпите поражение, вы потеряете часть предметов в своей Корзине и вернетесь в ателье."
+    },
+    "pack02:3866683": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866683",
+      "original": "During battles, you can select the &lt;CLGR&gt;Item&lt;CLNR&gt; command to use items that you have equipped.",
+      "translation": "Во время сражений вы можете выбрать команду &lt;CLGR&gt;Item&lt;CLNR&gt;, чтобы использовать экипированные вами предметы."
+    },
+    "pack02:3866684": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866684",
+      "original": "Enemies have elemental attributes that they are strong or weak against. These are known as &lt;CLGR&gt;Resistances&lt;CLNR&gt;.",
+      "translation": "У врагов есть стихийные свойства, против которых они сильны или слабы. Они известны как &lt;CLGR&gt;Сопротивления&lt;CLNR&gt;."
+    },
+    "pack02:3866685": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866685",
+      "original": "The various negative effects that can be triggered during a battle are referred to as &lt;CLGR&gt;Ailments&lt;CLNR&gt;. The types of possible ailments are listed below.",
+      "translation": "Различные негативные эффекты, которые могут возникнуть во время битвы, называются &lt;CLGR&gt;Состояния&lt;CLNR&gt;. Виды возможных недугов перечислены ниже."
+    },
+    "pack02:3866686": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866686",
+      "original": "Characters will become &lt;CLGR&gt;Stunned&lt;CLNR&gt;, if they are attacked repeatedly.",
+      "translation": "Персонажи станут &lt;CLGR&gt;Оглушенными&lt;CLNR&gt;, если на них будут неоднократно нападать."
+    },
+    "pack02:3866687": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866687",
+      "original": "For teams with an attacker and a supporter, the supporters will be able to use &lt;CLGR&gt;Follow-up Skills&lt;CLNR&gt;.",
+      "translation": "В командах, в которых есть нападающий и болельщик, болельщики смогут использовать &lt;CLGR&gt;Навыки последующих действий&lt;CLNR&gt;."
+    },
+    "pack02:3866688": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866688",
+      "original": "The &lt;CLGR&gt;attackers&lt;CLNR&gt; engage the enemies directly. Although the attackers are unable to use Follow-up Skills, they can select from all other commands, and use Active Skills or items.",
+      "translation": "Атакующие &lt;CLGR&gt;&lt;CLNR&gt; атакуют врагов напрямую. Хотя злоумышленники не могут использовать последующие навыки, они могут выбирать из всех других команд и использовать активные навыки или предметы."
+    },
+    "pack02:3866689": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866689",
+      "original": "&lt;CLGR&gt;Combination Arts&lt;CLNR&gt; are powerful finishing moves that are performed by the attackers and supporters working in unison!",
+      "translation": "&lt;CLGR&gt;Комбинированные искусства&lt;CLNR&gt; — это мощные завершающие приемы, которые выполняются нападающими и сторонниками, работающими в унисон!"
+    },
+    "pack02:3866690": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866690",
+      "original": "&lt;CLGR&gt;Battle Mix&lt;CLNR&gt; is a special Follow-up Skill unique for Lydie and Sue. Follow-up Skills require that certain conditions are fulfilled before they can be used.",
+      "translation": "&lt;CLGR&gt;Летучая мышьtle Mix&lt;CLNR&gt; — это особый дополнительный навык, уникальный для Лидии и Сью. Последующие навыки требуют выполнения определенных условий, прежде чем их можно будет использовать."
+    },
+    "pack02:3866691": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866691",
+      "original": "&lt;CLGR&gt;Extra Mix&lt;CLNR&gt; is a command derived from Battle Mix. Its usage conditions are the same as for Battle Mix.",
+      "translation": "&lt;CLGR&gt;Extra Mix&lt;CLNR&gt; — это команда, полученная из Летучая мышьtle Mix. Условия его использования такие же, как и у Летучая мышьtle Mix."
+    },
+    "pack02:3866692": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866692",
+      "original": "&lt;CLGR&gt;Archeus Anima&lt;CLNR&gt; is a special material used only for Battle Mix.",
+      "translation": "&lt;CLGR&gt;Аркеус-анима&lt;CLNR&gt; — специальный материал, используемый только для Летучая мышьtle Mix."
+    },
+    "pack02:3866693": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866693",
+      "original": "Battles fought within the painting worlds can often feature special effects known as &lt;CLGR&gt;Area Effects&lt;CLNR&gt;.",
+      "translation": "Сражения в мирах рисования часто могут сопровождаться специальными эффектами, известными как &lt;CLGR&gt;Эффекты области&lt;CLNR&gt;."
+    },
+    "pack02:3866694": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866694",
+      "original": "The use of certain items can allow you to change the battle field.",
+      "translation": "Использование определенных предметов может позволить изменить поле боя."
+    },
+    "pack02:3866695": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866695",
+      "original": "In the atelier, you can perform synthesis, sleep in the bed to advance time, save, load, and more.",
+      "translation": "В ателье можно выполнять синтез, спать в кровати, чтобы опережать время, сохранять, загружать и многое другое."
+    },
+    "pack02:3866696": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866696",
+      "original": "Hagel’s shop lets you create special order-made weapons. This process is known as &lt;CLGR&gt;Weapon Crafting&lt;CLNR&gt;.",
+      "translation": "В магазине Хагеля можно создавать специальное оружие на заказ. Этот процесс известен как &lt;CLGR&gt;Изготовление оружия&lt;CLNR&gt;."
+    },
+    "pack02:3866697": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866697",
+      "original": "At Hagel’s shop, you can also join weapons and weapon parts you have in inventory in order to add traits or power them up. This is known as &lt;CLGR&gt;Weapon Customization&lt;CLNR&gt;.",
+      "translation": "В магазине Хагеля вы также можете объединить оружие и его части, имеющиеся у вас в инвентаре, чтобы добавить черты или усилить их. Это известно как &lt;CLGR&gt;Кастомизация оружия&lt;CLNR&gt;."
+    },
+    "pack02:3866698": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866698",
+      "original": "You can also craft armor at Hagel’s shop in the same manner as creating weapons.",
+      "translation": "Вы также можете изготовить броню в магазине Хагеля так же, как и оружие."
+    },
+    "pack02:3866699": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866699",
+      "original": "Corneria’s shop is a place where you can &lt;CLGR&gt;reproduce&lt;CLNR&gt; items that you have synthesized. Reproduced items can be purchased just like regular products.",
+      "translation": "Магазин Корнерии — это место, где вы можете &lt;CLGR&gt;воспроизводить&lt;CLNR&gt; предметы, которые вы синтезировали. Воспроизведенные товары можно приобрести так же, как и обычные товары."
+    },
+    "pack02:3866700": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866700",
+      "original": "Corneria’s shop also provides an &lt;CLGR&gt;auto-refill service&lt;CLNR&gt; to replenish the items you have equipped.",
+      "translation": "Магазин Корнерии также предоставляет услугу &lt;CLGR&gt;автоматического пополнения&lt;CLNR&gt; для пополнения имеющихся у вас предметов."
+    },
+    "pack02:3866701": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866701",
+      "original": "You can press &lt;IM00&gt; in front of the Notice Board at the Castle Plaza to accept &lt;CLGR&gt;Requests&lt;CLNR&gt;. Up to 9 requests will be displayed, but you can only accept up to 5 at one time.",
+      "translation": "Вы можете нажать &lt;IM00&gt; перед доской объявлений на Замковой площади, чтобы принять &lt;CLGR&gt;Запросы&lt;CLNR&gt;. Будет отображено до 9 запросов, но одновременно вы можете принять только до 5."
+    },
+    "pack02:3866702": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866702",
+      "original": "The requests posted to the Notice Board are renewed on a regular basis and will be replaced with other requests.^00^00",
+      "translation": "Запросы, размещаемые на доске объявлений, регулярно обновляются и заменяются другими запросами.^00^00"
+    },
+    "pack02:3866703": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866703",
+      "original": "The &lt;CLGR&gt;Atelier Rank&lt;CLNR&gt; is an indicator of your atelier’s performance. Ranks range from S to G, as well as Unranked, for a combined total of 9.",
+      "translation": "&lt;CLGR&gt;Ранг ателье&lt;CLNR&gt; является показателем эффективности вашего ателье. Ранги варьируются от S до G, а также без рейтинга, всего 9."
+    },
+    "pack02:3866704": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866704",
+      "original": "In order to take a promotion test, you need to raise your &lt;CLGR&gt;reputation&lt;CLNR&gt; and be recognized by the population.",
+      "translation": "Чтобы пройти тест на повышение, вам необходимо поднять свою &lt;CLGR&gt;репутацию&lt;CLNR&gt; и быть признанным населением."
+    },
+    "pack02:3866705": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866705",
+      "original": "To raise your Atelier Rank, boost the reputation of your atelier and speak to Mireille to take a Promotion Test. First, head to the Castle Entrance Hall.",
+      "translation": "Чтобы повысить свой рейтинг в ателье, повысьте репутацию своего ателье и поговорите с Мирей, чтобы пройти тест на повышение. Сначала идите в вестибюль замка."
+    },
+    "pack02:3866706": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866706",
+      "original": "If you’re unsure how to increase your atelier’s reputation, go to the Main Menu and check the &lt;CLGR&gt;Ambitions Journal&lt;CLNR&gt;.",
+      "translation": "Если вы не знаете, как повысить репутацию своего ателье, перейдите в Главное меню и проверьте &lt;CLGR&gt;Журнал амбиций&lt;CLNR&gt;."
+    },
+    "pack02:3866707": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866707",
+      "original": "To synthesize an item, you need to know the recipe for it. You can learn recipes by reading textbooks and discovering Recipe Ideas.",
+      "translation": "Чтобы синтезировать предмет, необходимо знать его рецепт. Вы можете изучать рецепты, читая учебники и находя идеи рецептов."
+    },
+    "pack02:3866708": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866708",
+      "original": "&lt;CLGR&gt;△&lt;CLNR&gt; indicates items you can make if you prepare the necessary materials, while &lt;CLGR&gt;×&lt;CLNR&gt; refers to items that you do not have enough materials to make, and &lt;CLGR&gt;－&lt;CLNR&gt; means your Alchemy Level is not high enough to make the item.",
+      "translation": "&lt;CLGR&gt;△&lt;CLNR&gt; обозначает предметы, которые вы можете сделать, если подготовите необходимые материалы, &lt;CLGR&gt;×&lt;CLNR&gt; относится к предметам, для изготовления которых у вас недостаточно материалов, а &lt;CLGR&gt;－&lt;CLNR&gt; означает, что ваш уровень алхимии недостаточно высок для изготовления предмета."
+    },
+    "pack02:3866709": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866709",
+      "original": "For example, when (Medical Materials) are specified, you can use any of the synthesis materials in the (Medical Materials) category.",
+      "translation": "Например, если указаны (Медицинские материалы), вы можете использовать любой материал синтеза в категории (Медицинские материалы)."
+    },
+    "pack02:3866710": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866710",
+      "original": "Effect refers to the various effects caused by the item, such as adding strong damage to attacks or poisoning the target.",
+      "translation": "Эффект относится к различным эффектам, вызываемым предметом, например, добавлению сильного урона к атакам или отравлению цели."
+    },
+    "pack02:3866711": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866711",
+      "original": "Items have a minimum of one and up to four components. The types of components that can be used are determined by each item.",
+      "translation": "Предметы содержат минимум один и до четырех компонентов. Типы компонентов, которые можно использовать, определяются каждым элементом."
+    },
+    "pack02:3866712": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866712",
+      "original": "Traits can be carried over during the synthesis process. In order to carry to over, traits need to be prepared at the time of synthesis. Additionally, only up to three traits can be carried over.",
+      "translation": "Черты могут быть перенесены в процессе синтеза. Для переноса признаков необходимо подготовить их во время синтеза. Кроме того, можно перенести только до трех черт."
+    },
+    "pack02:3866713": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866713",
+      "original": "There are a variety of things that can happen with the introduction of a catalyst, such as an increase in panel size or the appearance of bonus marks.",
+      "translation": "С введением катализатора может произойти множество вещей, например, увеличение размера панели или появление бонусных знаков."
+    },
+    "pack02:3866714": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866714",
+      "original": "Enhancing Agents have a variety of effects associated with them. They all possess powerful effects different from those of regular component pieces, enabling you to create unique items that you otherwise couldn’t make.",
+      "translation": "Усиливающие агенты имеют множество связанных с ними эффектов. Все они обладают мощными эффектами, отличными от эффектов обычных компонентов, что позволяет вам создавать уникальные предметы, которые иначе вы не смогли бы создать."
+    },
+    "pack02:3866715": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866715",
+      "original": "You can check the conditions for coming up with recipes by going to the Main Menu and selecting &lt;CLGR&gt;Recipe Book&lt;CLNR&gt;. Try to come up with numerous recipes and synthesize as many items as possible.",
+      "translation": "Вы можете проверить условия создания рецептов, зайдя в Главное меню и выбрав &lt;CLGR&gt;Книга рецептов&lt;CLNR&gt;. Постарайтесь придумать множество рецептов и синтезировать как можно больше предметов."
+    },
+    "pack02:3866716": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866716",
+      "original": "There is a multitude of gathering points on any field, and you can examine them to collect materials needed for synthesis.",
+      "translation": "На любом поле имеется множество точек сбора, и вы можете исследовать их, чтобы собрать материалы, необходимые для синтеза."
+    },
+    "pack02:3866717": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866717",
+      "original": "&lt;CLGR&gt;1. Smash Gathering&lt;CLNR&gt; ^00You can swing, kick or use items such as bombs to destroy rocks and other objects in order to gather materials.",
+      "translation": "&lt;CLGR&gt;1. Smash Gathering&lt;CLNR&gt; ^00Вы можете размахивать, пинать или использовать такие предметы, как бомбы, чтобы разрушать камни и другие объекты и собирать материалы."
+    },
+    "pack02:3866718": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866718",
+      "original": "To use an item, go to the Harvest Equipment screen and equip the desired item.",
+      "translation": "Чтобы использовать предмет, перейдите на экран «Снаряжение для сбора урожая» и экипируйте нужный предмет."
+    },
+    "pack02:3866719": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866719",
+      "original": "Basically, Harvest Equipment offers its effects simply by equipping it. Additionally, some types of Harvest Equipment can increase the number of actions you can perform while searching.",
+      "translation": "По сути, оборудование для сбора урожая дает свои эффекты, просто экипировав его. Кроме того, некоторые типы оборудования для сбора урожая могут увеличить количество действий, которые вы можете выполнить во время поиска."
+    },
+    "pack02:3866720": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866720",
+      "original": "There are 5 possible time periods:^00&lt;CLGR&gt;morning, day, evening, night, and late night&lt;CLNR&gt;.",
+      "translation": "Существует 5 возможных периодов времени:^00&lt;CLGR&gt;утро, день, вечер, ночь и поздняя ночь&lt;CLNR&gt;."
+    },
+    "pack02:3866721": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866721",
+      "original": "Both time of the day and weather affect the types of enemies and materials that appear. Try going out in the rain once in a while.",
+      "translation": "И время суток, и погода влияют на типы появляющихся врагов и материалов. Попробуйте время от времени выходить под дождь."
+    },
+    "pack02:3866722": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866722",
+      "original": "If you swing at a monster first, you can begin the battle with an advantage.",
+      "translation": "Если вы первым замахнетесь на монстра, то сможете начать бой с преимуществом."
+    },
+    "pack02:3866723": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866723",
+      "original": "Winning a battle can earn items and Exp points. Characters will level up after earning a certain amount of Exp points, which will boost their parameters and unlock new skills.",
+      "translation": "Победа в битве позволяет заработать предметы и очки опыта. Уровень персонажей будет повышаться после получения определенного количества очков опыта, что повысит их параметры и откроет новые навыки."
+    },
+    "pack02:3866724": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866724",
+      "original": "The items that can be used will differ for each character. For example, Lydie can use all of the items, but Sue is unable to use recovery items.",
+      "translation": "Предметы, которые можно использовать, будут разными для каждого персонажа. Например, Лидия может использовать все предметы, но Сью не может использовать предметы для восстановления."
+    },
+    "pack02:3866725": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866725",
+      "original": "Resistances can be weak or strong, some of them entirely blocking the elemental attacks, and others allowing for a massive damage against a weakness.",
+      "translation": "Сопротивления могут быть слабыми или сильными, некоторые из них полностью блокируют стихийные атаки, а другие позволяют нанести огромный урон слабостям."
+    },
+    "pack02:3866726": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866726",
+      "original": "Poison: Receive damage each turn.^00Deadly Poison: Incur heavy damage each turn.^00Burns: Same as Poison, but don't heal naturally.^00Seal: Prevents from performing certain actions.",
+      "translation": "Яд: получайте урон каждый ход.^00Смертельный яд: наносите тяжелый урон каждый ход.^00Ожоги: то же, что и яд, но не лечит естественным путем.^00Печать: предотвращает выполнение определенных действий."
+    },
+    "pack02:3866727": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866727",
+      "original": "When Stunned, characters are unable to perform any actions until they are attacked, or a set number of turns have elapsed, and suffer increased damage from attacks.",
+      "translation": "Оглушенные персонажи не могут выполнять какие-либо действия до тех пор, пока на них не нападут или пока не пройдет определенное количество ходов, и получают повышенный урон от атак."
+    },
+    "pack02:3866728": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866728",
+      "original": "Follow-up Skills are the skills specific to characters who are acting as the support, and they are triggered automatically once certain conditions are met.",
+      "translation": "Последующие навыки — это навыки, специфичные для персонажей, выступающих в роли поддержки, и они активируются автоматически при выполнении определенных условий."
+    },
+    "pack02:3866729": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866729",
+      "original": "The &lt;CLGR&gt;supporters&lt;CLNR&gt; can only use Follow-up Skills. Additionally, their HP and MP replenishes over time.",
+      "translation": "Сторонники &lt;CLGR&gt;&lt;CLNR&gt; могут использовать только последующие навыки. Кроме того, их HP и MP со временем восполняются."
+    },
+    "pack02:3866730": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866730",
+      "original": "When the attackers and supporters are arranged in certain pairs, a Combination Gauge will be displayed near their stats and they will be able to use Combination Arts.",
+      "translation": "Когда нападающие и сторонники располагаются в определенных парах, рядом с их характеристиками будет отображаться шкала комбинации, и они смогут использовать комбинированные искусства."
+    },
+    "pack02:3866731": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866731",
+      "original": "With the Battle Mix, you can use the materials in your Basket and Archeus Anima to synthesize items from Battle Recipes.",
+      "translation": "С помощью Летучая мышьtle Mix вы можете использовать материалы из вашей Корзины и Аркеус-анима для синтеза предметов из боевых рецептов."
+    },
+    "pack02:3866732": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866732",
+      "original": "Extra Mix enables you to use a battle item as a material for synthesis. The use count for the item used will be set to 0.",
+      "translation": "Extra Mix позволяет использовать боевой предмет в качестве материала для синтеза. Счетчик использования использованного предмета будет установлен на 0."
+    },
+    "pack02:3866733": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866733",
+      "original": "Anima can be obtained through gathering or fighting battles in the painting worlds, and you can hold up to 99 of them.",
+      "translation": "Аниму можно получить, собирая или сражаясь в битвах в мирах живописи, и вы можете хранить до 99 из них."
+    },
+    "pack02:3866734": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866734",
+      "original": "Area Effects are effects that differ for each painting world and they affect both enemies and allies alike. Generally, the effect of Area Effects cannot be avoided.",
+      "translation": "Эффекты области — это эффекты, которые различаются для каждого нарисованного мира и одинаково влияют как на врагов, так и на союзников. Как правило, эффекта зональных эффектов избежать невозможно."
+    },
+    "pack02:3866735": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866735",
+      "original": "You can change a specific Area Effects by painting over the battle field, thereby canceling out any negative Area Effects.",
+      "translation": "Вы можете изменить эффекты определенной области, закрасив поле битвы, тем самым отменяя любые отрицательные эффекты области."
+    },
+    "pack02:3866736": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866736",
+      "original": "Your cauldron, bed, and desk... These are the three most important tools in your atelier.",
+      "translation": "Ваш котел, кровать и письменный стол... Это три самых важных инструмента в вашем ателье."
+    },
+    "pack02:3866737": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866737",
+      "original": "In order to have a weapon created, you will need the materials listed in the weapon’s recipe, as well as the money required.",
+      "translation": "Для создания оружия вам потребуются материалы, перечисленные в рецепте оружия, а также необходимые деньги."
+    },
+    "pack02:3866738": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866738",
+      "original": "To customize a weapon, first select the weapon you wish to customize, and then select the parts you wish to add. You can also remove parts that are already attached to the weapon.",
+      "translation": "Чтобы настроить оружие, сначала выберите оружие, которое хотите настроить, а затем выберите детали, которые хотите добавить. Вы также можете удалить детали, которые уже прикреплены к оружию."
+    },
+    "pack02:3866739": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866739",
+      "original": "Just like with weapons, you will need the materials listed in each recipe as well as the money required when creating new armor.",
+      "translation": "Как и в случае с оружием, вам понадобятся материалы, перечисленные в каждом рецепте, а также деньги, необходимые для создания новой брони."
+    },
+    "pack02:3866740": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866740",
+      "original": "Furthermore, the purchase price will vary depending on the quality of the item as well as its included traits. Be sure to check the cost of the item when registering it.",
+      "translation": "Кроме того, цена покупки будет варьироваться в зависимости от качества предмета, а также его характеристик. Обязательно уточняйте стоимость товара при его регистрации."
+    },
+    "pack02:3866741": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866741",
+      "original": "You can choose whether to enable the Auto Refill feature at Corneria’s shop.",
+      "translation": "Вы можете выбрать, включать ли функцию автоматического пополнения в магазине Корнерия."
+    },
+    "pack02:3866742": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866742",
+      "original": "Requests have varying difficulty levels. The higher the difficulty level of the request, the greater the rewards, but they will be that much harder to complete.",
+      "translation": "Запросы имеют разный уровень сложности. Чем выше уровень сложности запроса, тем больше будет награда, но тем труднее будет его выполнить."
+    },
+    "pack02:3866743": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866743",
+      "original": "Note that requests on the Board that you are yet to accept can change at any moment, so be sure to accept any requests you wish to complete.",
+      "translation": "Обратите внимание, что запросы на Правление, которые вы еще не приняли, могут измениться в любой момент, поэтому обязательно принимайте любые запросы, которые вы хотите выполнить."
+    },
+    "pack02:3866744": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866744",
+      "original": "In order to boost your rank, you will need to pass a promotion test.",
+      "translation": "Чтобы повысить свой ранг, вам необходимо пройти тест на повышение."
+    },
+    "pack02:3866745": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866745",
+      "original": "Increasing your atelier’s reputation will require you complete the ambitions listed in your Ambitions Journal. Once you have reached a certain level of reputation, you will be able to take the promotion test.",
+      "translation": "Повышение репутации вашего ателье потребует от вас выполнения амбиций, перечисленных в вашем журнале амбиций. Как только вы достигнете определенного уровня репутации, вы сможете пройти тест на повышение."
+    },
+    "pack02:3866746": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866746",
+      "original": "After passing the promotion test, use Report to confirm your evaluation. There are three levels of evaluation: Flower circle(Excellent!), Double circle(Very Good!), and Circle(Good).",
+      "translation": "После прохождения теста на повышение используйте «Отчет», чтобы подтвердить свою оценку. Существует три уровня оценки: Цветочный круг (отлично!), Двойной круг (очень хорошо!) и Круг (хорошо)."
+    },
+    "pack02:3866747": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866747",
+      "original": "Your Ambitions Journal will gradually reveal ways Sue has thought up to boost your reputation. Completing the ambitions listed will help to increase the reputation of your atelier.",
+      "translation": "Ваш журнал амбиций постепенно будет раскрывать способы, которые Сью придумала для повышения вашей репутации. Выполнение перечисленных амбиций поможет повысить репутацию вашего ателье."
+    },
+    "pack02:3866748": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866748",
+      "original": "Synthesis requires the use of materials to serve as a base. If you do not have enough materials, you can gather them outside or purchase them in shops until you have the required amount.",
+      "translation": "Синтез требует использования материалов, которые будут служить основой. Если у вас недостаточно материалов, вы можете собрать их на улице или купить в магазинах, пока не соберете необходимое количество."
+    },
+    "pack02:3866749": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866749",
+      "original": "&lt;CLGR&gt;2. Select Catalyst&lt;CLNR&gt;^00Although not required, the use of these during synthesis can change the panel size or cause various bonus effect marks to appear.",
+      "translation": "&lt;CLGR&gt;2. Выберите Catalyst&lt;CLNR&gt;^00Хотя это не обязательно, их использование во время синтеза может изменить размер панели или вызвать появление различных отметок бонусных эффектов."
+    },
+    "pack02:3866750": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866750",
+      "original": "Even when their category is the same, items can have different sized component pieces, colors, or quantities.",
+      "translation": "Даже если их категория одинакова, элементы могут иметь компоненты разного размера, цвета или количества."
+    },
+    "pack02:3866751": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866751",
+      "original": "Items that include effects will have an “effect frame,” which displays the various effects it can have.",
+      "translation": "Элементы, включающие эффекты, будут иметь «рамку эффекта», в которой отображаются различные возможные эффекты."
+    },
+    "pack02:3866752": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866752",
+      "original": "Items with multiple large components are referred to as “good items.” Be sure to use them when carrying out important synthesis.",
+      "translation": "Предметы, состоящие из нескольких крупных компонентов, называются «хорошими предметами». Обязательно используйте их при проведении важного синтеза."
+    },
+    "pack02:3866753": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866753",
+      "original": "Also, note that you can lose certain traits that can’t be combined, such as trying to add recovery item traits to an offensive item.",
+      "translation": "Также обратите внимание, что вы можете потерять определенные характеристики, которые невозможно объединить, например, при попытке добавить характеристики восстанавливаемого предмета к атакующему предмету."
+    },
+    "pack02:3866754": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866754",
+      "original": "Bonus marks indicate that placing a piece in that square will add special effects which will be reflected in the finished item’s qualities.",
+      "translation": "Бонусные знаки указывают на то, что размещение детали в этом квадрате добавит специальные эффекты, которые отразятся на качествах готового предмета."
+    },
+    "pack02:3866755": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866755",
+      "original": "Try to inject the Enhancing Agent at just the right time in order to create powerful items.",
+      "translation": "Постарайтесь ввести Усиливающий агент в нужный момент, чтобы создавать мощные предметы."
+    },
+    "pack02:3866756": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866756",
+      "original": "The basics of alchemy lie in gathering materials. Pick up various materials in order to create the finest tools available.",
+      "translation": "Основы алхимии лежат в сборе материалов. Собирайте различные материалы, чтобы создавать лучшие доступные инструменты."
+    },
+    "pack02:3866757": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866757",
+      "original": "&lt;CLGR&gt;2. Indirect Gathering&lt;CLNR&gt;^00Approach objects such as trees and use a swing or an item to obtain the materials.",
+      "translation": "&lt;CLGR&gt;2. Косвенный сбор&lt;CLNR&gt;^00Подойдите к таким объектам, как деревья, и используйте качели или другой предмет, чтобы получить материалы."
+    },
+    "pack02:3866758": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866758",
+      "original": "When the time comes to use an item, go to the Main Menu and select the Equip tab from your Basket.",
+      "translation": "Когда придет время использовать предмет, перейдите в главное меню и выберите вкладку «Снаряжение» в корзине."
+    },
+    "pack02:3866759": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866759",
+      "original": "Whenever you obtain new Harvest Equipment, be sure to equip it as soon as possible.",
+      "translation": "Всякий раз, когда вы получаете новое оборудование для сбора урожая, обязательно оснастите его как можно скорее."
+    },
+    "pack02:3866760": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866760",
+      "original": "Various changes will occur as time passes in the game, affecting the monsters and materials available out on the fields, as well as the weather conditions.",
+      "translation": "С течением времени в игре будут происходить различные изменения, влияющие на монстров и материалы, доступные на полях, а также на погодные условия."
+    },
+    "pack02:3866761": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866761",
+      "original": "Some materials can only be obtained from monsters, so it is important to actively engage them in battles.",
+      "translation": "Некоторые материалы можно получить только с монстров, поэтому важно активно вовлекать их в сражения."
+    },
+    "pack02:3866762": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866762",
+      "original": "Additionally, the waiting time until the next action varies by item, so be sure to keep an eye on the turn order in the timeline on the right of the screen in order to strategically plan your next move.",
+      "translation": "Кроме того, время ожидания следующего действия зависит от предмета, поэтому обязательно следите за порядком хода на временной шкале в правой части экрана, чтобы стратегически спланировать свой следующий ход."
+    },
+    "pack02:3866763": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866763",
+      "original": "You can press &lt;IM06&gt; when selecting a target to confirm that enemy’s resistances.",
+      "translation": "Вы можете нажать &lt;IM06&gt; при выборе цели, чтобы подтвердить сопротивление врага."
+    },
+    "pack02:3866764": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866764",
+      "original": "Slow: Increases the time until next turn.^00Sleep: Makes to skip a turn.^00Blind: Creates a chance that next attack will miss.^00Curse: Causes damage following healing.",
+      "translation": "Замедление: увеличивает время до следующего хода.^00Сон: позволяет пропустить ход.^00Слепота: создает вероятность того, что следующая атака промахнется.^00Проклятие: наносит урон после исцеления."
+    },
+    "pack02:3866765": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866765",
+      "original": "When the members in the rearguard know multiple Follow-up Skills, you can perform them consecutively if all of the necessary conditions are met.",
+      "translation": "Когда члены арьергарда знают несколько последующих навыков, вы можете применять их последовательно, если соблюдены все необходимые условия."
+    },
+    "pack02:3866766": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866766",
+      "original": "You can freely switch the positions of your party members. Be sure to change your party’s formation as dictated by the battle conditions.",
+      "translation": "Вы можете свободно менять позиции членов вашей партии. Обязательно меняйте построение вашего отряда в соответствии с условиями боя."
+    },
+    "pack02:3866767": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866767",
+      "original": "When the Combination Gauge is full, it will trigger your Follow-up Skill, and then your Combination Arts next.",
+      "translation": "Когда шкала комбинаций заполнится, активируется ваш последующий навык, а затем ваши комбинированные искусства."
+    },
+    "pack02:3866768": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866768",
+      "original": "Items made with Battle Mix are used immediately after creation.",
+      "translation": "Предметы, созданные с помощью Летучая мышьtle Mix, используются сразу после создания."
+    },
+    "pack02:3866769": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866769",
+      "original": "Tools synthesized through the Extra Mix process are guaranteed to have an EX Effect added to them. EX Effects are powerful additional effects exclusive to the Extra Mix process.",
+      "translation": "Инструменты, синтезированные с помощью процесса Extra Mix, гарантированно будут иметь добавленный к ним эффект EX. EX Эффекты — это мощные дополнительные эффекты, эксклюзивные для процесса Extra Mix."
+    },
+    "pack02:3866770": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866770",
+      "original": "Archeus Anima obtained in the painting worlds can also be used in the real world as well.",
+      "translation": "Аркеус-анима, полученная в живописных мирах, также может быть использована и в реальном мире."
+    },
+    "pack02:3866771": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866771",
+      "original": "However, note that battle fields that have been redrawn will remain that way until the battle is over.",
+      "translation": "Однако учтите, что перерисованные поля боя останутся такими до тех пор, пока битва не закончится."
+    },
+    "pack02:3866772": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866772",
+      "original": "Among the various materials, some are capable of boosting the abilities of a weapon planned to be made. By using those materials with effects attached, you can create even more powerful weapons.",
+      "translation": "Среди различных материалов некоторые способны повысить характеристики оружия, которое планируется изготовить. Используя эти материалы с прикрепленными эффектами, вы можете создать еще более мощное оружие."
+    },
+    "pack02:3866773": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866773",
+      "original": "Any effects attached to a part are guaranteed to be carried over to a weapon. Up to three traits can be affixed, but note that it will increase the cost of the procedure accordingly.",
+      "translation": "Любые эффекты, прикрепленные к детали, гарантированно переносятся на оружие. Можно проставить до трех черт, но учтите, что это соответственно увеличит стоимость процедуры."
+    },
+    "pack02:3866774": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866774",
+      "original": "Selecting the materials is the same process as for weapons, but with armor, you can select up to three traits of the materials to carry over. Similarly, doing so will increase the cost of the procedure depending on the traits selected.",
+      "translation": "Выбор материалов — тот же процесс, что и для оружия, но для брони вы можете выбрать до трех характеристик материалов для переноса. Аналогичным образом, это увеличит стоимость процедуры в зависимости от выбранных характеристик."
+    },
+    "pack02:3866775": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866775",
+      "original": "When the refill service is enabled, your items will be replenished when you return to the atelier. In these cases, you will be charged an amount equal to the scope of the refill.",
+      "translation": "Если услуга пополнения включена, ваши вещи будут пополнены, когда вы вернетесь в ателье. В этих случаях с вас будет снята сумма, равная объему пополнения баланса."
+    },
+    "pack02:3866776": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866776",
+      "original": "Requests to slay monsters will be completed when you defeat the required number of the specified monsters. Similarly, delivery requests are completed when you deliver the requested items.",
+      "translation": "Запросы на убийство монстров будут выполнены, когда вы победите необходимое количество указанных монстров. Аналогично, запросы на доставку выполняются, когда вы доставляете запрошенные товары."
+    },
+    "pack02:3866777": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866777",
+      "original": "Although there is no specific time limit, try to pass all of the tests with flying colors. Doing so may just have an &lt;CLGR&gt;effect on your future&lt;CLNR&gt;...",
+      "translation": "Хотя конкретного ограничения по времени нет, постарайтесь пройти все испытания с честью. Это может оказать &lt;CLGR&gt;эффект на ваше будущее&lt;CLNR&gt;..."
+    },
+    "pack02:3866778": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866778",
+      "original": "Note that you will be unable to synthesize an item if its Alchemy Level is higher than that of either Lydie or Suelle. In those instances, work to gain experience and increase your Alchemy Level.",
+      "translation": "Обратите внимание, что вы не сможете синтезировать предмет, если его уровень алхимии выше, чем у Лидия или Сюэль. В таких случаях постарайтесь набраться опыта и повысить свой уровень алхимии."
+    },
+    "pack02:3866779": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866779",
+      "original": "&lt;CLGR&gt;3. Select Materials&lt;CLNR&gt;^00You can select the materials specified by a recipe from the storage. When only a category is specified, you can select from any of the relevant items.",
+      "translation": "&lt;CLGR&gt;3. Выбор материалов&lt;CLNR&gt;^00Вы можете выбрать материалы, указанные в рецепте, из хранилища. Если указана только категория, вы можете выбрать любой из соответствующих элементов."
+    },
+    "pack02:3866780": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866780",
+      "original": "Valuable items often have many powerful components, so be sure to use materials wisely when synthesizing.",
+      "translation": "Ценные предметы часто состоят из множества мощных компонентов, поэтому при синтезе обязательно используйте материалы с умом."
+    },
+    "pack02:3866781": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866781",
+      "original": "You can have up to four effect frames. There are different effects that can appear within one frame. However, only one effect can be active at any given time.",
+      "translation": "Вы можете иметь до четырех рамок эффектов. В одном кадре могут появляться разные эффекты. Однако в любой момент времени может быть активен только один эффект."
+    },
+    "pack02:3866782": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866782",
+      "original": "One of the secrets to synthesis is selecting the best catalyst for the particular item you want to make.",
+      "translation": "Один из секретов синтеза — выбор лучшего катализатора для конкретного предмета, который вы хотите изготовить."
+    },
+    "pack02:3866783": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866783",
+      "original": "By searching outside at different times of day, you might occasionally come across something good. There are even rumors that in some worlds, time does not pass and the weather never changes...",
+      "translation": "Обыскивая улицу в разное время суток, вы можете случайно наткнуться на что-нибудь хорошее. Ходят даже слухи, что в некоторых мирах время не течет и погода никогда не меняется..."
+    },
+    "pack02:3866784": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866784",
+      "original": "×: Weak point^00－: No resistance^00△～◯: Strong to weak resistance^00☆: No effect",
+      "translation": "×: Слабое место^00－: Нет сопротивления^00△～◯: Сильное или слабое сопротивление^00☆: Нет эффекта"
+    },
+    "pack02:3866785": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866785",
+      "original": "However, some skills have set use counts and probabilities. Be sure to understand the limits of your Follow-up Skills and then plan your battle tactics accordingly.",
+      "translation": "Однако для некоторых навыков установлено количество и вероятность использования. Обязательно осознавайте пределы своих Последующих Навыков, а затем соответствующим образом планируйте свою тактику боя."
+    },
+    "pack02:3866786": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866786",
+      "original": "Use the strength of the party’s bonds to its fullest in order to defeat the toughest enemies.",
+      "translation": "Используйте силу партийных связей на полную катушку, чтобы победить самых сильных врагов."
+    },
+    "pack02:3866787": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866787",
+      "original": "Battle Mix materials can be carried in your Basket as well as taken along with you. In such cases, the materials will be need to be equipped in the Harvest Equipment column.",
+      "translation": "Материалы Летучая мышьtle Mix можно носить как в Корзине, так и брать с собой. В таких случаях материалы необходимо будет разместить в столбце «Оборудование для сбора урожая»."
+    },
+    "pack02:3866788": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866788",
+      "original": "EX Effects can be powered up based on the number of Archeus Anima used in the synthesis process. The number of Anima required will differ depending on the recipe.",
+      "translation": "Эффекты EX можно усилить в зависимости от количества Аркеус-анима, использованного в процессе синтеза. Требуемое количество Анимы будет различаться в зависимости от рецепта."
+    },
+    "pack02:3866789": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866789",
+      "original": "Note that created weapons are unable to carry over traits. Make sure you choose your materials carefully so you do not lose any valuable traits.",
+      "translation": "Обратите внимание, что созданное оружие не может переносить свойства. Обязательно тщательно выбирайте материалы, чтобы не потерять какие-либо ценные качества."
+    },
+    "pack02:3866790": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866790",
+      "original": "Core parts and sub parts have their own effects and traits that can be carried over. Combine various parts in order to make super powerful weapons.",
+      "translation": "Основные части и подчасти имеют свои собственные эффекты и особенности, которые можно перенести. Комбинируйте различные детали, чтобы создать сверхмощное оружие."
+    },
+    "pack02:3866791": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866791",
+      "original": "You can create powerful armor by carrying over traits and using a material’s effects to boost its abilities.",
+      "translation": "Вы можете создать мощную броню, перенеся характеристики и используя эффекты материала для усиления его способностей."
+    },
+    "pack02:3866792": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866792",
+      "original": "When you are low on money, Corneria is unable to refill your items, so be sure to keep an eye on how much money you have at all times.",
+      "translation": "Когда у вас мало денег, Корнерия не может пополнить ваши предметы, поэтому всегда следите за тем, сколько у вас денег."
+    },
+    "pack02:3866793": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866793",
+      "original": "After you complete a request, be sure to talk to the Receptionist Lady by the Notice Board. In the case of delivery requests, you can deliver the requested items to her.",
+      "translation": "После того, как вы заполните запрос, обязательно поговорите с администратором у доски объявлений. В случае запросов на доставку вы можете доставить ей запрошенные товары."
+    },
+    "pack02:3866794": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866794",
+      "original": "&lt;CLGR&gt;4. Carrying over traits&lt;CLNR&gt;^00At the end of the synthesis process, the traits attached to the materials can be carried over to the created item.",
+      "translation": "&lt;CLGR&gt;4. Перенос характеристик&lt;CLNR&gt;^00В конце процесса синтеза характеристики, прикрепленные к материалам, могут быть перенесены в созданный предмет."
+    },
+    "pack02:3866795": {
+      "source": "pack02_text_en",
+      "file": "str_library_help.xml",
+      "string_no": "3866795",
+      "original": "Raising your atelier ranking will cause you to receive even more requests. Be sure to check the Notice Board regularly and take on any new requests that appear.",
+      "translation": "Повышение рейтинга вашего ателье приведет к тому, что вы будете получать еще больше запросов. Обязательно регулярно проверяйте доску объявлений и принимайте любые новые запросы, которые появляются."
+    }
+  }
+}

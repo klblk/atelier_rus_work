@@ -1,0 +1,1723 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_recipe_idea_text.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:2359297": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359297",
+      "original": "[Battle Attack]&lt;CR&gt;A bag stuffed full of delicious uni?&lt;CR&gt;",
+      "translation": "[Боевая атака]&lt;CR&gt;Сумка, набитая вкуснейшим универом?&lt;CR&gt;"
+    },
+    "pack02:2359298": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359298",
+      "original": "[Battle Attack]&lt;CR&gt;A bomb that spews forth mighty flames?&lt;CR&gt;",
+      "translation": "[Боевая атака]&lt;CR&gt;Бомба, извергающая могучее пламя?&lt;CR&gt;"
+    },
+    "pack02:2359299": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359299",
+      "original": "[Battle Attack]&lt;CR&gt;A bomb that emits an icy wave of cold air?&lt;CR&gt;",
+      "translation": "[Боевая атака]&lt;CR&gt;Бомба, испускающая ледяную волну холодного воздуха?&lt;CR&gt;"
+    },
+    "pack02:2359300": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359300",
+      "original": "[Battle Attack]&lt;CR&gt;A stone wrapped in lightning?&lt;CR&gt;",
+      "translation": "[Боевая атака]&lt;CR&gt;Камень, окутанный молнией?&lt;CR&gt;"
+    },
+    "pack02:2359301": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359301",
+      "original": "[Battle Attack]&lt;CR&gt;A bomb stuffed full of uni?&lt;CR&gt;",
+      "translation": "[Боевая атака]&lt;CR&gt;Бомба, начиненная универом?&lt;CR&gt;"
+    },
+    "pack02:2359302": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359302",
+      "original": "[Battle Attack]&lt;CR&gt;A bomb that unleashes a shock wave in mid-air?&lt;CR&gt;",
+      "translation": "[Боевая атака]&lt;CR&gt;Бомба, выпускающая ударную волну в воздухе?&lt;CR&gt;"
+    },
+    "pack02:2359303": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359303",
+      "original": "[Battle Attack]&lt;CR&gt;A large bomb that is highly flammable and explosive?&lt;CR&gt;",
+      "translation": "[Боевая атака]&lt;CR&gt;Большая легковоспламеняющаяся и взрывоопасная бомба?&lt;CR&gt;"
+    },
+    "pack02:2359304": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359304",
+      "original": "[Battle Attack]&lt;CR&gt;A bomb that emits a powerful cold wave?&lt;CR&gt;",
+      "translation": "[Боевая атака]&lt;CR&gt;Бомба, испускающая мощную холодную волну?&lt;CR&gt;"
+    },
+    "pack02:2359305": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359305",
+      "original": "[Battle Attack]&lt;CR&gt;A crystal that stores a large amount of electric energy?&lt;CR&gt;",
+      "translation": "[Боевая атака]&lt;CR&gt;Кристалл, хранящий большое количество электрической энергии?&lt;CR&gt;"
+    },
+    "pack02:2359306": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359306",
+      "original": "[Battle Attack]&lt;CR&gt;A bomb that unleashes a shock wave and whirlwind in mid-air?&lt;CR&gt;",
+      "translation": "[Боевая атака]&lt;CR&gt;Бомба, выпускающая в воздухе ударную волну и вихрь?&lt;CR&gt;"
+    },
+    "pack02:2359307": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359307",
+      "original": "[Battle Attack]&lt;CR&gt;A heavy ball capable of rolling on its own?&lt;CR&gt;",
+      "translation": "[Боевая атака]&lt;CR&gt;Тяжелый шар, способный катиться сам по себе?&lt;CR&gt;"
+    },
+    "pack02:2359308": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359308",
+      "original": "[Battle Attack]&lt;CR&gt;A gift from God?&lt;CR&gt;",
+      "translation": "[Боевая атака]&lt;CR&gt;Подарок от Бога?&lt;CR&gt;"
+    },
+    "pack02:2359309": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359309",
+      "original": "[Battle Attack]&lt;CR&gt;A present box with various items inside?&lt;CR&gt;",
+      "translation": "[Боевая атака]&lt;CR&gt;Подарочная коробка с различными предметами внутри?&lt;CR&gt;"
+    },
+    "pack02:2359310": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359310",
+      "original": "[Battle Attack]&lt;CR&gt;Multiple items falling from the sky?&lt;CR&gt;",
+      "translation": "[Боевая атака]&lt;CR&gt;Несколько предметов упали с неба?&lt;CR&gt;"
+    },
+    "pack02:2359311": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359311",
+      "original": "[Battle Attack]&lt;CR&gt;The ultimate bomb that destroys all in its path?&lt;CR&gt;",
+      "translation": "[Боевая атака]&lt;CR&gt;Совершенная бомба, уничтожающая все на своем пути?&lt;CR&gt;"
+    },
+    "pack02:2359312": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359312",
+      "original": "[Battle Attack]&lt;CR&gt;The flames that started it all?&lt;CR&gt;",
+      "translation": "[Боевая атака]&lt;CR&gt;Пламя, с которого все началось?&lt;CR&gt;"
+    },
+    "pack02:2359313": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359313",
+      "original": "[Battle Attack]&lt;CR&gt;The flames that will end it all?&lt;CR&gt;",
+      "translation": "[Боевая атака]&lt;CR&gt;Пламя, которое положит всему этому конец?&lt;CR&gt;"
+    },
+    "pack02:2359314": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359314",
+      "original": "[Battle Attack]&lt;CR&gt;A canvas that possesses unusual power?&lt;CR&gt;",
+      "translation": "[Боевая атака]&lt;CR&gt;Полотно, обладающее необычной силой?&lt;CR&gt;"
+    },
+    "pack02:2359315": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359315",
+      "original": "[Battle Attack]&lt;CR&gt;A ball with everything riding on a single kick?&lt;CR&gt;",
+      "translation": "[Боевая атака]&lt;CR&gt;Мяч, в котором все летит одним ударом?&lt;CR&gt;"
+    },
+    "pack02:2359316": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359316",
+      "original": "[Battle Attack]&lt;CR&gt;A glass tube that emits fire and lightning?&lt;CR&gt;",
+      "translation": "[Боевая атака]&lt;CR&gt;Стеклянная трубка, излучающая огонь и молнии?&lt;CR&gt;"
+    },
+    "pack02:2359317": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359317",
+      "original": "[Battle Attack]&lt;CR&gt;A glass tube that emits wind and ice?&lt;CR&gt;",
+      "translation": "[Боевая атака]&lt;CR&gt;Стеклянная трубка, испускающая ветер и лед?&lt;CR&gt;"
+    },
+    "pack02:2359318": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359318",
+      "original": "[Battle Attack]&lt;CR&gt;A box filled with various items?&lt;CR&gt;",
+      "translation": "[Боевая атака]&lt;CR&gt;Ящик, наполненный различными предметами?&lt;CR&gt;"
+    },
+    "pack02:2359331": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359331",
+      "original": "[Ally Recovery]&lt;CR&gt;A poultice that cures wounds?&lt;CR&gt;",
+      "translation": "[Восстановление союзника]&lt;CR&gt;Припарка, залечивающая раны?&lt;CR&gt;"
+    },
+    "pack02:2359332": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359332",
+      "original": "[Ally Recovery]&lt;CR&gt;Sweets with a simple flavor and design?&lt;CR&gt;",
+      "translation": "[Ally Восст.]&lt;CR&gt;Сладости с простым вкусом и дизайном?&lt;CR&gt;"
+    },
+    "pack02:2359333": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359333",
+      "original": "[Ally Recovery]&lt;CR&gt;A refreshing jelly that looks like a monster?&lt;CR&gt;",
+      "translation": "[Восстановление союзника]&lt;CR&gt;Освежающее желе, похожее на монстра?&lt;CR&gt;"
+    },
+    "pack02:2359334": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359334",
+      "original": "[Ally Recovery]&lt;CR&gt;Medicinal water packed full of nutrients?&lt;CR&gt;",
+      "translation": "[Восстановление союзника]&lt;CR&gt;Лечебная вода, полная питательных веществ?&lt;CR&gt;"
+    },
+    "pack02:2359335": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359335",
+      "original": "[Ally Recovery]&lt;CR&gt;Meat packed with the flavor of the wild?&lt;CR&gt;",
+      "translation": "[Восстановление союзника]&lt;CR&gt;Мясо с диким вкусом?&lt;CR&gt;"
+    },
+    "pack02:2359336": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359336",
+      "original": "[Ally Recovery]&lt;CR&gt;Tea with an enjoyable fruity aroma?&lt;CR&gt;",
+      "translation": "[Восстановление союзника]&lt;CR&gt;Чай с приятным фруктовым ароматом?&lt;CR&gt;"
+    },
+    "pack02:2359337": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359337",
+      "original": "[Ally Recovery]&lt;CR&gt;The fresh aroma of a gentle spring breeze?&lt;CR&gt;",
+      "translation": "[Восстановление союзника]&lt;CR&gt;Свежий аромат нежного весеннего ветерка?&lt;CR&gt;"
+    },
+    "pack02:2359338": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359338",
+      "original": "[Ally Recovery]&lt;CR&gt;A sweet liquid that helps one think clearly?&lt;CR&gt;",
+      "translation": "[Восстановление союзника]&lt;CR&gt;Сладкая жидкость, которая помогает ясно мыслить?&lt;CR&gt;"
+    },
+    "pack02:2359339": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359339",
+      "original": "[Ally Recovery]&lt;CR&gt;A mysterious nectar filled with life force energy?&lt;CR&gt;",
+      "translation": "[Восстановление союзника]&lt;CR&gt;Таинственный нектар, наполненный энергией жизненной силы?&lt;CR&gt;"
+    },
+    "pack02:2359340": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359340",
+      "original": "[Ally Recovery]&lt;CR&gt;A medicine made using a secret formula?&lt;CR&gt;",
+      "translation": "[Восстановление союзника]&lt;CR&gt;Лекарство, изготовленное по секретной формуле?&lt;CR&gt;"
+    },
+    "pack02:2359341": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359341",
+      "original": "[Ally Recovery]&lt;CR&gt;A miraculous medicine with the power of resurrection?&lt;CR&gt;",
+      "translation": "[Восстановление союзника]&lt;CR&gt;Чудесное лекарство, обладающее силой воскрешения?&lt;CR&gt;"
+    },
+    "pack02:2359342": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359342",
+      "original": "[Ally Recovery]&lt;CR&gt;A large and sweet cake?&lt;CR&gt;",
+      "translation": "[Восстановление союзника]&lt;CR&gt;Большой и сладкий торт?&lt;CR&gt;"
+    },
+    "pack02:2359343": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359343",
+      "original": "[Ally Recovery]&lt;CR&gt;A fragrant tea full of sweetness?&lt;CR&gt;",
+      "translation": "[Восстановление союзника]&lt;CR&gt;Ароматный чай, полный сладости?&lt;CR&gt;"
+    },
+    "pack02:2359344": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359344",
+      "original": "[Ally Recovery]&lt;CR&gt;A refreshing jelly that quivers on the plate?&lt;CR&gt;",
+      "translation": "[Восстановление союзника]&lt;CR&gt;Освежающее желе, которое дрожит на тарелке?&lt;CR&gt;"
+    },
+    "pack02:2359345": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359345",
+      "original": "[Ally Recovery]&lt;CR&gt;A healing rain imbued with great power?&lt;CR&gt;",
+      "translation": "[Восстановление союзника]&lt;CR&gt;Целебный дождь, наделенный великой силой?&lt;CR&gt;"
+    },
+    "pack02:2359358": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359358",
+      "original": "[Battle Support]&lt;CR&gt;A poisonous mist that weakens monsters?&lt;CR&gt;",
+      "translation": "[Боевая поддержка]&lt;CR&gt;Ядовитый туман, ослабляющий монстров?&lt;CR&gt;"
+    },
+    "pack02:2359359": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359359",
+      "original": "[Battle Support]&lt;CR&gt;A distinct smell that weakens monsters?&lt;CR&gt;",
+      "translation": "[Боевая поддержка]&lt;CR&gt;Отчетливый запах, ослабляющий монстров?&lt;CR&gt;"
+    },
+    "pack02:2359360": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359360",
+      "original": "[Battle Support]&lt;CR&gt;An acidic mist that weakens monsters?&lt;CR&gt;",
+      "translation": "[Боевая поддержка]&lt;CR&gt;Кислотный туман, ослабляющий монстров?&lt;CR&gt;"
+    },
+    "pack02:2359361": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359361",
+      "original": "[Battle Support]&lt;CR&gt;A powerful poison that weakens monsters?&lt;CR&gt;",
+      "translation": "[Боевая поддержка]&lt;CR&gt;Мощный яд, ослабляющий монстров?&lt;CR&gt;"
+    },
+    "pack02:2359362": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359362",
+      "original": "[Battle Support]&lt;CR&gt;A powerful curse that weakens monsters?&lt;CR&gt;",
+      "translation": "[Боевая поддержка]&lt;CR&gt;Мощное проклятие, ослабляющее монстров?&lt;CR&gt;"
+    },
+    "pack02:2359363": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359363",
+      "original": "[Ally Support]&lt;CR&gt;An incense that wards against various evils?&lt;CR&gt;",
+      "translation": "[Поддержка союзников]&lt;CR&gt;Благовония, защищающие от различного зла?&lt;CR&gt;"
+    },
+    "pack02:2359364": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359364",
+      "original": "[Ally Support]&lt;CR&gt;A cloth that offers the protection of the spirits?&lt;CR&gt;",
+      "translation": "[Поддержка союзников]&lt;CR&gt;Ткань, обеспечивающая защиту духов?&lt;CR&gt;"
+    },
+    "pack02:2359365": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359365",
+      "original": "[Ally Support]&lt;CR&gt;Pills that give one the strength of heroes?&lt;CR&gt;",
+      "translation": "[Поддержка союзников]&lt;CR&gt;Таблетки, придающие силу героя?&lt;CR&gt;"
+    },
+    "pack02:2359366": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359366",
+      "original": "[Ally Support]&lt;CR&gt;A horn that inspires immense courage?&lt;CR&gt;",
+      "translation": "[Поддержка союзников]&lt;CR&gt;Рог, внушающий огромную храбрость?&lt;CR&gt;"
+    },
+    "pack02:2359367": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359367",
+      "original": "[Ally Support]&lt;CR&gt;A stone tablet that gives one holy protection?&lt;CR&gt;",
+      "translation": "[Поддержка союзников]&lt;CR&gt;Каменная табличка, дающая святую защиту?&lt;CR&gt;"
+    },
+    "pack02:2359368": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359368",
+      "original": "[Field Support]&lt;CR&gt;A powder capable of recreating the Heavenly Flower Garden?&lt;CR&gt;",
+      "translation": "[Полевая поддержка]&lt;CR&gt;Порошок, способный воссоздать Небесный цветочный сад?&lt;CR&gt;"
+    },
+    "pack02:2359369": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359369",
+      "original": "[Field Support]&lt;CR&gt;A bookmark​ capable of recreating The Spooky Forest?&lt;CR&gt;",
+      "translation": "[Полевая поддержка]&lt;CR&gt;Закладка, способная воссоздать Жуткий лес?&lt;CR&gt;"
+    },
+    "pack02:2359370": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359370",
+      "original": "[Field Support]&lt;CR&gt;A crystal capable of recreating The Luminous Ice Grotto?&lt;CR&gt;",
+      "translation": "[Полевая поддержка]&lt;CR&gt;Кристалл, способный воссоздать Светящийся ледяной грот?&lt;CR&gt;"
+    },
+    "pack02:2359371": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359371",
+      "original": "[Field Support]&lt;CR&gt;A jewel capable of recreating The Great Cascades of Anfel?&lt;CR&gt;",
+      "translation": "[Полевая поддержка]&lt;CR&gt;Драгоценный камень, способный воссоздать Великие каскады Анфела?&lt;CR&gt;"
+    },
+    "pack02:2359372": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359372",
+      "original": "[Field Support]&lt;CR&gt;A staff capable of recreating The Frozen Palace?&lt;CR&gt;",
+      "translation": "[Полевая поддержка]&lt;CR&gt;Сотрудник, способный воссоздать Ледяной дворец?&lt;CR&gt;"
+    },
+    "pack02:2359373": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359373",
+      "original": "[Field Support]&lt;CR&gt;A coin capable of recreating The Treasury at the Sea Bottom?&lt;CR&gt;",
+      "translation": "[Полевая поддержка]&lt;CR&gt;Монета, способная воссоздать Сокровищницу на дне моря?&lt;CR&gt;"
+    },
+    "pack02:2359374": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359374",
+      "original": "[Field Support]&lt;CR&gt;A clock capable of recreating Etel Nepica?&lt;CR&gt;",
+      "translation": "[Полевая поддержка]&lt;CR&gt;Часы, способные воссоздать Этель Непику?&lt;CR&gt;"
+    },
+    "pack02:2359375": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359375",
+      "original": "[Field Support]&lt;CR&gt;An atomizer capable of recreating the Starlight Plain?&lt;CR&gt;",
+      "translation": "[Полевая поддержка]&lt;CR&gt;Атомайзер, способный воссоздать Равнину Звездного света?&lt;CR&gt;"
+    },
+    "pack02:2359376": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359376",
+      "original": "[Field Support]&lt;CR&gt;Cards capable of recreating ???&lt;CR&gt;",
+      "translation": "[Полевая поддержка]&lt;CR&gt;Карты, способные воссоздать ???&lt;CR&gt;"
+    },
+    "pack02:2359377": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359377",
+      "original": "[Field Support]&lt;CR&gt;Oil capable of recreating ???&lt;CR&gt;",
+      "translation": "[Полевая поддержка]&lt;CR&gt;Нефть, способная воссоздать ???&lt;CR&gt;"
+    },
+    "pack02:2359384": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359384",
+      "original": "[Harvest Tool]&lt;CR&gt;A branch capable of catching creatures in the water?&lt;CR&gt;",
+      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Ветка, способная ловить существ в воде?&lt;CR&gt;"
+    },
+    "pack02:2359385": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359385",
+      "original": "[Harvest Tool]&lt;CR&gt;An easy-to-use fishing rod made from high-quality materials?&lt;CR&gt;",
+      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Простая в использовании удочка из высококачественных материалов?&lt;CR&gt;"
+    },
+    "pack02:2359386": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359386",
+      "original": "[Harvest Tool]&lt;CR&gt;A high-performance fishing rod that will never break?&lt;CR&gt;",
+      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Высокопроизводительная удочка, которая никогда не сломается?&lt;CR&gt;"
+    },
+    "pack02:2359387": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359387",
+      "original": "[Harvest Tool]&lt;CR&gt;A net used for catching insects?&lt;CR&gt;",
+      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Сеть для ловли насекомых?&lt;CR&gt;"
+    },
+    "pack02:2359388": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359388",
+      "original": "[Harvest Tool]&lt;CR&gt;A lightweight net for catching the fastest insects?&lt;CR&gt;",
+      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Легкая сеть для ловли самых быстрых насекомых?&lt;CR&gt;"
+    },
+    "pack02:2359389": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359389",
+      "original": "[Harvest Tool]&lt;CR&gt;A bag used for carrying a large amount of water?&lt;CR&gt;",
+      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Сумка для переноски большого количества воды?&lt;CR&gt;"
+    },
+    "pack02:2359390": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359390",
+      "original": "[Harvest Tool]&lt;CR&gt;A chemical containing various components that soak into the earth?&lt;CR&gt;",
+      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Химическое вещество, содержащее различные компоненты, которые впитываются в землю?&lt;CR&gt;"
+    },
+    "pack02:2359391": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359391",
+      "original": "[Harvest Tool]&lt;CR&gt;A wind that drops the seeds of fruits and trees?&lt;CR&gt;",
+      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Ветер, роняющий семена фруктов и деревьев?&lt;CR&gt;"
+    },
+    "pack02:2359392": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359392",
+      "original": "[Harvest Tool]&lt;CR&gt;A whirlwind that drops the seeds of fruits and trees?&lt;CR&gt;",
+      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Вихрь, роняющий семена фруктов и деревьев?&lt;CR&gt;"
+    },
+    "pack02:2359393": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359393",
+      "original": "[Harvest Tool]&lt;CR&gt;A backpack that holds numerous items?&lt;CR&gt;",
+      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Рюкзак, вмещающий множество предметов?&lt;CR&gt;"
+    },
+    "pack02:2359394": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359394",
+      "original": "[Harvest Tool]&lt;CR&gt;Gloves that make it easier to grab things?&lt;CR&gt;",
+      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Перчатки, которые облегчают сбор вещей?&lt;CR&gt;"
+    },
+    "pack02:2359395": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359395",
+      "original": "[Harvest Tool]&lt;CR&gt;A powerful bomb that blows apart solid rocks?&lt;CR&gt;",
+      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Мощная бомба, разрывающая твердые камни?&lt;CR&gt;"
+    },
+    "pack02:2359396": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359396",
+      "original": "[Harvest Tool]&lt;CR&gt;An extremely powerful bomb that blows apart solid rocks?&lt;CR&gt;",
+      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Чрезвычайно мощная бомба, разрывающая твердые камни?&lt;CR&gt;"
+    },
+    "pack02:2359409": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359409",
+      "original": "[Synthesis Material]&lt;CR&gt;A red liquid that joins together disparate items?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Красная жидкость, соединяющая разрозненные предметы?&lt;CR&gt;"
+    },
+    "pack02:2359410": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359410",
+      "original": "[Synthesis Material]&lt;CR&gt;A blue liquid that joins together disparate items?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Синяя жидкость, соединяющая разрозненные предметы?&lt;CR&gt;"
+    },
+    "pack02:2359411": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359411",
+      "original": "[Synthesis Material]&lt;CR&gt;A yellow liquid that joins together disparate items?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Жёлтая жидкость, соединяющая разрозненные предметы?&lt;CR&gt;"
+    },
+    "pack02:2359412": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359412",
+      "original": "[Synthesis Material]&lt;CR&gt;A green liquid that joins together disparate items?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Зеленая жидкость, соединяющая разрозненные предметы?&lt;CR&gt;"
+    },
+    "pack02:2359413": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359413",
+      "original": "[Synthesis Material]&lt;CR&gt;A purple liquid that joins together disparate items?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Пурпурная жидкость, соединяющая разрозненные предметы?&lt;CR&gt;"
+    },
+    "pack02:2359414": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359414",
+      "original": "[Synthesis Material]&lt;CR&gt;A rainbow-colored liquid that joins together disparate items?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Жидкость радужного цвета, соединяющая разрозненные предметы?&lt;CR&gt;"
+    },
+    "pack02:2359415": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359415",
+      "original": "[Synthesis Material]&lt;CR&gt;A tasteless and odorless liquid that refuses to mix with other liquids?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Жидкость без вкуса и запаха, которая отказывается смешиваться с другими жидкостями?&lt;CR&gt;"
+    },
+    "pack02:2359416": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359416",
+      "original": "[Synthesis Material]&lt;CR&gt;A sweet nectar taken from a beehive?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Сладкий нектар, взятый из улья?&lt;CR&gt;"
+    },
+    "pack02:2359417": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359417",
+      "original": "[Synthesis Material]&lt;CR&gt;A powder that can be used to cook various dishes?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Порошок, из которого можно готовить различные блюда?&lt;CR&gt;"
+    },
+    "pack02:2359418": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359418",
+      "original": "[Synthesis Material]&lt;CR&gt;A flammable liquid that gives off a sweet smell?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Горючая жидкость со сладким запахом?&lt;CR&gt;"
+    },
+    "pack02:2359419": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359419",
+      "original": "[Synthesis Material]&lt;CR&gt;Refined oil, cleared all impurities?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Очищенное масло, очищенное от всех примесей?&lt;CR&gt;"
+    },
+    "pack02:2359420": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359420",
+      "original": "[Synthesis Material]&lt;CR&gt;Paper with a highly irregular surface?&lt;CR&gt;",
+      "translation": "[Синтезный материал]&lt;CR&gt;Бумага с очень неровной поверхностью?&lt;CR&gt;"
+    },
+    "pack02:2359421": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359421",
+      "original": "[Synthesis Material]&lt;CR&gt;A strong smelling solution?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Раствор с сильным запахом?&lt;CR&gt;"
+    },
+    "pack02:2359422": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359422",
+      "original": "[Synthesis Material]&lt;CR&gt;An animal hide?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Шкура животного?&lt;CR&gt;"
+    },
+    "pack02:2359423": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359423",
+      "original": "[Synthesis Material]&lt;CR&gt;Dyes of multiple colors?&lt;CR&gt;",
+      "translation": "[Синтезированный материал]&lt;CR&gt;Красители нескольких цветов?&lt;CR&gt;"
+    },
+    "pack02:2359424": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359424",
+      "original": "[Synthesis Material]&lt;CR&gt;A powder capable of polishing anything to a bright shine?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Порошок, способный отполировать что угодно до яркого блеска?&lt;CR&gt;"
+    },
+    "pack02:2359425": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359425",
+      "original": "[Synthesis Material]&lt;CR&gt;A special clay that has a variety of uses?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Особая глина, которая имеет множество применений?&lt;CR&gt;"
+    },
+    "pack02:2359426": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359426",
+      "original": "[Synthesis Material]&lt;CR&gt;Ash that is easy to burn?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Пепел, который легко сжечь?&lt;CR&gt;"
+    },
+    "pack02:2359427": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359427",
+      "original": "[Synthesis Material]&lt;CR&gt;A ball that depicts the earth?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Шар, изображающий землю?&lt;CR&gt;"
+    },
+    "pack02:2359428": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359428",
+      "original": "[Synthesis Material]&lt;CR&gt;Fish bait that tastes delicious to humans too?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Приманка для рыбы, которая вкусна и людям?&lt;CR&gt;"
+    },
+    "pack02:2359429": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359429",
+      "original": "[Weapon Material]&lt;CR&gt;A metal ingot that is easy to process?&lt;CR&gt;",
+      "translation": "[Материал оружия]&lt;CR&gt;Металлический слиток, который легко обрабатывать?&lt;CR&gt;"
+    },
+    "pack02:2359430": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359430",
+      "original": "[Weapon Material]&lt;CR&gt;A silver ingot that is easy to process?&lt;CR&gt;",
+      "translation": "[Материал оружия]&lt;CR&gt;Серебряный слиток, который легко обрабатывать?&lt;CR&gt;"
+    },
+    "pack02:2359431": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359431",
+      "original": "[Weapon Material]&lt;CR&gt;A gold ingot that is easy to process?&lt;CR&gt;",
+      "translation": "[Материал оружия]&lt;CR&gt;Золотой слиток, который легко обрабатывать?&lt;CR&gt;"
+    },
+    "pack02:2359432": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359432",
+      "original": "[Weapon Material]&lt;CR&gt;A rainbow-colored ingot that is easy to process?&lt;CR&gt;",
+      "translation": "[Материал оружия]&lt;CR&gt;Слиток радужного цвета, который легко обрабатывать?&lt;CR&gt;"
+    },
+    "pack02:2359433": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359433",
+      "original": "[Clothing Material]&lt;CR&gt;A thick cloth that is easy to work with?&lt;CR&gt;",
+      "translation": "[Материал одежды]&lt;CR&gt;Толстая ткань, с которой легко работать?&lt;CR&gt;"
+    },
+    "pack02:2359434": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359434",
+      "original": "[Clothing Material]&lt;CR&gt;A thick and fluffy cloth?&lt;CR&gt;",
+      "translation": "[Материал одежды]&lt;CR&gt;Толстая и пушистая ткань?&lt;CR&gt;"
+    },
+    "pack02:2359435": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359435",
+      "original": "[Clothing Material]&lt;CR&gt;A cloth that is light as a feather?&lt;CR&gt;",
+      "translation": "[Материал одежды]&lt;CR&gt;Ткань, легкая как перышко?&lt;CR&gt;"
+    },
+    "pack02:2359436": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359436",
+      "original": "[Clothing Material]&lt;CR&gt;A highly elastic cloth wrapped in magical power?&lt;CR&gt;",
+      "translation": "[Материал одежды]&lt;CR&gt;Очень эластичная ткань, окутанная магической силой?&lt;CR&gt;"
+    },
+    "pack02:2359437": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359437",
+      "original": "[Synthesis Material]&lt;CR&gt;A piece of ore that contains pitch black gemstones?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Кусок руды, содержащий угольно-черные драгоценные камни?&lt;CR&gt;"
+    },
+    "pack02:2359438": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359438",
+      "original": "[Synthesis Material]&lt;CR&gt;A piece of ore that contains dark red gemstones?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Кусок руды, содержащий темно-красные драгоценные камни?&lt;CR&gt;"
+    },
+    "pack02:2359439": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359439",
+      "original": "[Synthesis Material]&lt;CR&gt;A piece of ore that contains greenish gemstones?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Кусок руды, содержащий зеленоватые драгоценные камни?&lt;CR&gt;"
+    },
+    "pack02:2359440": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359440",
+      "original": "[Synthesis Material]&lt;CR&gt;A piece of ore that contains bluish gemstones?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Кусок руды, содержащий голубоватые драгоценные камни?&lt;CR&gt;"
+    },
+    "pack02:2359441": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359441",
+      "original": "[Synthesis Material]&lt;CR&gt;A piece of ore that contains reddish gemstones?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Кусок руды, содержащий красноватые драгоценные камни?&lt;CR&gt;"
+    },
+    "pack02:2359442": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359442",
+      "original": "[Synthesis Material]&lt;CR&gt;A piece of ore that contains whitish gemstones?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Кусок руды, содержащий беловатые драгоценные камни?&lt;CR&gt;"
+    },
+    "pack02:2359443": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359443",
+      "original": "[Synthesis Material]&lt;CR&gt;A pitch black gemstone obtained from an ore?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Черный драгоценный камень, полученный из руды?&lt;CR&gt;"
+    },
+    "pack02:2359444": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359444",
+      "original": "[Synthesis Material]&lt;CR&gt;A reddish black gemstone obtained from an ore?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Красновато-черный драгоценный камень, полученный из руды?&lt;CR&gt;"
+    },
+    "pack02:2359445": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359445",
+      "original": "[Synthesis Material]&lt;CR&gt;A greenish gemstone obtained from an ore?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Зеленый драгоценный камень, полученный из руды?&lt;CR&gt;"
+    },
+    "pack02:2359446": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359446",
+      "original": "[Synthesis Material]&lt;CR&gt;A bluish gemstone obtained from an ore?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Голубой драгоценный камень, полученный из руды?&lt;CR&gt;"
+    },
+    "pack02:2359447": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359447",
+      "original": "[Synthesis Material]&lt;CR&gt;A reddish gemstone obtained from an ore?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Красноватый драгоценный камень, полученный из руды?&lt;CR&gt;"
+    },
+    "pack02:2359448": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359448",
+      "original": "[Synthesis Material]&lt;CR&gt;A whitish gemstone obtained from an ore?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Беловатый драгоценный камень, полученный из руды?&lt;CR&gt;"
+    },
+    "pack02:2359449": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359449",
+      "original": "[Synthesis Material]&lt;CR&gt;A multicolored gemstone obtained from an ore?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Разноцветный драгоценный камень, полученный из руды?&lt;CR&gt;"
+    },
+    "pack02:2359450": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359450",
+      "original": "[Synthesis Material]&lt;CR&gt;Red stones made with an advanced processing method?&lt;CR&gt;",
+      "translation": "[Синтезированный материал]&lt;CR&gt;Красные камни, изготовленные с использованием передового метода обработки?&lt;CR&gt;"
+    },
+    "pack02:2359451": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359451",
+      "original": "[Synthesis Material]&lt;CR&gt;The ultimate goal of every alchemist?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Конечная цель каждого алхимика?&lt;CR&gt;"
+    },
+    "pack02:2359452": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359452",
+      "original": "[Synthesis Material]&lt;CR&gt;Cute and colorful jewels?&lt;CR&gt;",
+      "translation": "[Синтезированный материал]&lt;CR&gt;Милые и красочные драгоценности?&lt;CR&gt;"
+    },
+    "pack02:2359453": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359453",
+      "original": "[Enhancing Material]&lt;CR&gt;A medicine that enhances the synthesis process?&lt;CR&gt;",
+      "translation": "[Улучшающий материал]&lt;CR&gt;Лекарство, усиливающее процесс синтеза?&lt;CR&gt;"
+    },
+    "pack02:2359454": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359454",
+      "original": "[Enhancing Material]&lt;CR&gt;A black metal that enhances the synthesis process?&lt;CR&gt;",
+      "translation": "[Улучшающий материал]&lt;CR&gt;Черный металл, ускоряющий процесс синтеза?&lt;CR&gt;"
+    },
+    "pack02:2359455": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359455",
+      "original": "[Enhancing Material]&lt;CR&gt;A silver liquid that enhances the synthesis process?&lt;CR&gt;",
+      "translation": "[Улучшающий материал]&lt;CR&gt;Серебряная жидкость, ускоряющая процесс синтеза?&lt;CR&gt;"
+    },
+    "pack02:2359456": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359456",
+      "original": "[Enhancing Material]&lt;CR&gt;A heated pot that enhances the synthesis process?&lt;CR&gt;",
+      "translation": "[Улучшающий материал]&lt;CR&gt;Нагретый горшок, ускоряющий процесс синтеза?&lt;CR&gt;"
+    },
+    "pack02:2359457": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359457",
+      "original": "[Enhancing Material]&lt;CR&gt;Grease that reacts to heat and enhances the synthesis process?&lt;CR&gt;",
+      "translation": "[Улучшающий материал]&lt;CR&gt;Смазка, которая реагирует на тепло и ускоряет процесс синтеза?&lt;CR&gt;"
+    },
+    "pack02:2359458": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359458",
+      "original": "[Enhancing Material]&lt;CR&gt;An ominous stone that enhances the synthesis process?&lt;CR&gt;",
+      "translation": "[Улучшающий материал]&lt;CR&gt;Зловещий камень, ускоряющий процесс синтеза?&lt;CR&gt;"
+    },
+    "pack02:2359459": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359459",
+      "original": "[Enhancing Material]&lt;CR&gt;A holy acid that enhances the synthesis process?&lt;CR&gt;",
+      "translation": "[Улучшающий материал]&lt;CR&gt;Святая кислота, ускоряющая процесс синтеза?&lt;CR&gt;"
+    },
+    "pack02:2359460": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359460",
+      "original": "[Enhancing Material]&lt;CR&gt;Acid obtained from a dragon that enhances the synthesis process?&lt;CR&gt;",
+      "translation": "[Улучшающий материал]&lt;CR&gt;Кислота, полученная от дракона, которая усиливает процесс синтеза?&lt;CR&gt;"
+    },
+    "pack02:2359461": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359461",
+      "original": "[Enhancing Material]&lt;CR&gt;A blue stone that enhances the synthesis process?&lt;CR&gt;",
+      "translation": "[Улучшающий материал]&lt;CR&gt;Синий камень, ускоряющий процесс синтеза?&lt;CR&gt;"
+    },
+    "pack02:2359462": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359462",
+      "original": "[Synthesis Material]&lt;CR&gt;A set of paintbrushes with mysterious powers?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Набор кистей с таинственными способностями?&lt;CR&gt;"
+    },
+    "pack02:2359463": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359463",
+      "original": "[Synthesis Material]&lt;CR&gt;Paintbrushes?&lt;CR&gt;",
+      "translation": "[Синтезированный материал]&lt;CR&gt;Кисти?&lt;CR&gt;"
+    },
+    "pack02:2359464": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359464",
+      "original": "[Synthesis Material]&lt;CR&gt;A paint housing a mysterious power?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Краска, таящая в себе таинственную силу?&lt;CR&gt;"
+    },
+    "pack02:2359465": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359465",
+      "original": "[Synthesis Material]&lt;CR&gt;A paint housing a mysterious power?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Краска, таящая в себе таинственную силу?&lt;CR&gt;"
+    },
+    "pack02:2359466": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359466",
+      "original": "[Synthesis Material]&lt;CR&gt;A paint housing a mysterious power?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Краска, таящая в себе таинственную силу?&lt;CR&gt;"
+    },
+    "pack02:2359467": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359467",
+      "original": "[Synthesis Material]&lt;CR&gt;A paint housing a mysterious power?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Краска, таящая в себе таинственную силу?&lt;CR&gt;"
+    },
+    "pack02:2359468": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359468",
+      "original": "[Synthesis Material]&lt;CR&gt;A paint housing a mysterious power?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Краска, таящая в себе таинственную силу?&lt;CR&gt;"
+    },
+    "pack02:2359469": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359469",
+      "original": "[Synthesis Material]&lt;CR&gt;A paint housing a mysterious power?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Краска, таящая в себе таинственную силу?&lt;CR&gt;"
+    },
+    "pack02:2359470": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359470",
+      "original": "[Synthesis Material]&lt;CR&gt;A paint housing a mysterious power?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Краска, таящая в себе таинственную силу?&lt;CR&gt;"
+    },
+    "pack02:2359471": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359471",
+      "original": "[Synthesis Material]&lt;CR&gt;A diary housing a mysterious power?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Дневник, в котором заключена таинственная сила?&lt;CR&gt;"
+    },
+    "pack02:2359472": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359472",
+      "original": "[Synthesis Material]&lt;CR&gt;A paint containing the power of dreams?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Краска, содержащая силу снов?&lt;CR&gt;"
+    },
+    "pack02:2359473": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359473",
+      "original": "[Synthesis Material]&lt;CR&gt;Pastels containing mysterious powers?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Пастель, содержащая таинственные силы?&lt;CR&gt;"
+    },
+    "pack02:2359474": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359474",
+      "original": "[Synthesis Material]&lt;CR&gt;Matter that is the source of all things?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Материя, которая является источником всех вещей?&lt;CR&gt;"
+    },
+    "pack02:2359475": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359475",
+      "original": "[Synthesis Material]&lt;CR&gt;An eternal flame?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Вечный огонь?&lt;CR&gt;"
+    },
+    "pack02:2359476": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359476",
+      "original": "[Synthesis Material]&lt;CR&gt;The ultimate neutralizing agent?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Лучший нейтрализующий агент?&lt;CR&gt;"
+    },
+    "pack02:2359477": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359477",
+      "original": "[Synthesis Material]&lt;CR&gt;The ultimate alchemist’s cauldron?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Лучший котел алхимика?&lt;CR&gt;"
+    },
+    "pack02:2359478": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359478",
+      "original": "[Synthesis Material]&lt;CR&gt;A compass that displays one’s location?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Компас, показывающий ваше местоположение?&lt;CR&gt;"
+    },
+    "pack02:2359479": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359479",
+      "original": "[Synthesis Material]&lt;CR&gt;A potion that allows to switch bodies?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Зелье, позволяющее менять тела?&lt;CR&gt;"
+    },
+    "pack02:2359480": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359480",
+      "original": "[Synthesis Material]&lt;CR&gt;A jeweled crown?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Корона, украшенная драгоценными камнями?&lt;CR&gt;"
+    },
+    "pack02:2359481": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359481",
+      "original": "[Synthesis Material]&lt;CR&gt;A box that chills items placed inside?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Коробка, охлаждающая предметы, находящиеся внутри?&lt;CR&gt;"
+    },
+    "pack02:2359482": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359482",
+      "original": "[Synthesis Material]&lt;CR&gt;A device that measures lightning power?&lt;CR&gt;",
+      "translation": "[Синтезированный материал]&lt;CR&gt;Устройство, измеряющее мощность молнии?&lt;CR&gt;"
+    },
+    "pack02:2359483": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359483",
+      "original": "[Synthesis Material]&lt;CR&gt;A machine that cools its surroundings?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Машина, охлаждающая окружающую среду?&lt;CR&gt;"
+    },
+    "pack02:2359484": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359484",
+      "original": "[Synthesis Material]&lt;CR&gt;A modest-looking goblet?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Скромный на вид кубок?&lt;CR&gt;"
+    },
+    "pack02:2359485": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359485",
+      "original": "[Synthesis Material]&lt;CR&gt;Silver eating utensils?&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;Серебряные столовые приборы?&lt;CR&gt;"
+    },
+    "pack02:2359486": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359486",
+      "original": "[Synthesis Material]&lt;CR&gt;Powerful stomach medicine?&lt;CR&gt;",
+      "translation": "[Синтезационный материал]&lt;CR&gt;Мощное лекарство от желудка?&lt;CR&gt;"
+    },
+    "pack02:2359487": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359487",
+      "original": "[Synthesis Material]&lt;CR&gt;Highly-effective cold medicine?&lt;CR&gt;",
+      "translation": "[Синтезационный материал]&lt;CR&gt;Высокоэффективное лекарство от простуды?&lt;CR&gt;"
+    },
+    "pack02:2359488": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359488",
+      "original": "[Synthesis Material]&lt;CR&gt;A solvent that melts almost anything?&lt;CR&gt;",
+      "translation": "[Материал для синтеза]&lt;CR&gt;Растворитель, который плавит практически все?&lt;CR&gt;"
+    },
+    "pack02:2359489": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359489",
+      "original": "[Weapon Accessory]&lt;CR&gt;A tool that imbues a weapon with magic?&lt;CR&gt;",
+      "translation": "[Аксессуар для оружия]&lt;CR&gt;Инструмент, наделяющий оружие магией?&lt;CR&gt;"
+    },
+    "pack02:2359490": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359490",
+      "original": "[Weapon Accessory]&lt;CR&gt;A tool that imbues a weapon with magic?&lt;CR&gt;",
+      "translation": "[Аксессуар для оружия]&lt;CR&gt;Инструмент, наделяющий оружие магией?&lt;CR&gt;"
+    },
+    "pack02:2359491": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359491",
+      "original": "[Weapon Accessory]&lt;CR&gt;A crest that imbues a weapon with magic?&lt;CR&gt;",
+      "translation": "[Аксессуар для оружия]&lt;CR&gt;Герб, наделяющий оружие магией?&lt;CR&gt;"
+    },
+    "pack02:2359492": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359492",
+      "original": "[Weapon Accessory]&lt;CR&gt;A crest that imbues a weapon with magic?&lt;CR&gt;",
+      "translation": "[Аксессуар для оружия]&lt;CR&gt;Герб, наделяющий оружие магией?&lt;CR&gt;"
+    },
+    "pack02:2359493": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359493",
+      "original": "[Weapon Accessory]&lt;CR&gt;An orb that adjusts a weapon’s point of balance?&lt;CR&gt;",
+      "translation": "[Аксессуар для оружия]&lt;CR&gt;Сфера, регулирующая точку баланса оружия?&lt;CR&gt;"
+    },
+    "pack02:2359494": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359494",
+      "original": "[Weapon Accessory]&lt;CR&gt;An orb that adjusts a weapon’s point of balance?&lt;CR&gt;",
+      "translation": "[Аксессуар для оружия]&lt;CR&gt;Сфера, регулирующая точку баланса оружия?&lt;CR&gt;"
+    },
+    "pack02:2359495": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359495",
+      "original": "[Weapon Accessory]&lt;CR&gt;A crest that draws out a weapon’s latent power?&lt;CR&gt;",
+      "translation": "[Аксессуар оружия]&lt;CR&gt;Герб, раскрывающий скрытую силу оружия?&lt;CR&gt;"
+    },
+    "pack02:2359496": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359496",
+      "original": "[Weapon Accessory]&lt;CR&gt;A gem that imbues a weapon with magic?&lt;CR&gt;",
+      "translation": "[Аксессуар для оружия]&lt;CR&gt;Драгоценный камень, наделяющий оружие магией?&lt;CR&gt;"
+    },
+    "pack02:2359497": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359497",
+      "original": "[Weapon Accessory]&lt;CR&gt;A gem that imbues a weapon with magic?&lt;CR&gt;",
+      "translation": "[Аксессуар для оружия]&lt;CR&gt;Драгоценный камень, наделяющий оружие магией?&lt;CR&gt;"
+    },
+    "pack02:2359498": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359498",
+      "original": "[Weapon Accessory]&lt;CR&gt;A gem that imbues a weapon with magic?&lt;CR&gt;",
+      "translation": "[Аксессуар для оружия]&lt;CR&gt;Драгоценный камень, наделяющий оружие магией?&lt;CR&gt;"
+    },
+    "pack02:2359499": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359499",
+      "original": "[Weapon Accessory]&lt;CR&gt;A gem that imbues a weapon with magic?&lt;CR&gt;",
+      "translation": "[Аксессуар для оружия]&lt;CR&gt;Драгоценный камень, наделяющий оружие магией?&lt;CR&gt;"
+    },
+    "pack02:2359500": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359500",
+      "original": "[Weapon Accessory]&lt;CR&gt;A gem that imbues a weapon with magic?&lt;CR&gt;",
+      "translation": "[Аксессуар для оружия]&lt;CR&gt;Драгоценный камень, наделяющий оружие магией?&lt;CR&gt;"
+    },
+    "pack02:2359501": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359501",
+      "original": "[Weapon Accessory]&lt;CR&gt;Jewelry that imbues a weapon with magic?&lt;CR&gt;",
+      "translation": "[Аксессуар для оружия]&lt;CR&gt;Ювелирные изделия, наделяющие оружие магией?&lt;CR&gt;"
+    },
+    "pack02:2359502": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359502",
+      "original": "[Weapon Accessory]&lt;CR&gt;A gem that imbues a weapon with magic?&lt;CR&gt;",
+      "translation": "[Аксессуар для оружия]&lt;CR&gt;Драгоценный камень, наделяющий оружие магией?&lt;CR&gt;"
+    },
+    "pack02:2359503": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359503",
+      "original": "[Weapon Accessory]&lt;CR&gt;A gem that imbues a weapon with magic?&lt;CR&gt;",
+      "translation": "[Аксессуар для оружия]&lt;CR&gt;Драгоценный камень, наделяющий оружие магией?&lt;CR&gt;"
+    },
+    "pack02:2359504": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359504",
+      "original": "[Weapon Accessory]&lt;CR&gt;A gem that imbues a weapon with magic?&lt;CR&gt;",
+      "translation": "[Аксессуар для оружия]&lt;CR&gt;Драгоценный камень, наделяющий оружие магией?&lt;CR&gt;"
+    },
+    "pack02:2359505": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359505",
+      "original": "[Weapon Accessory]&lt;CR&gt;A gem that imbues a weapon with magic?&lt;CR&gt;",
+      "translation": "[Аксессуар для оружия]&lt;CR&gt;Драгоценный камень, наделяющий оружие магией?&lt;CR&gt;"
+    },
+    "pack02:2359506": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359506",
+      "original": "[Weapon Accessory]&lt;CR&gt;A gem that imbues a weapon with magic?&lt;CR&gt;",
+      "translation": "[Аксессуар для оружия]&lt;CR&gt;Драгоценный камень, наделяющий оружие магией?&lt;CR&gt;"
+    },
+    "pack02:2359513": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359513",
+      "original": "[Ornament]&lt;CR&gt;A magical inscription that boosts one’s abilities?&lt;CR&gt;",
+      "translation": "[Украшение]&lt;CR&gt;Магическая надпись, усиливающая способности?&lt;CR&gt;"
+    },
+    "pack02:2359514": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359514",
+      "original": "[Ornament]&lt;CR&gt;A ribbon that offers the protection of angels?&lt;CR&gt;",
+      "translation": "[Украшение]&lt;CR&gt;Лента, обеспечивающая защиту ангелов?&lt;CR&gt;"
+    },
+    "pack02:2359515": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359515",
+      "original": "[Ornament]&lt;CR&gt;A talisman that rouses one’s soul?&lt;CR&gt;",
+      "translation": "[Украшение]&lt;CR&gt;Талисман, пробуждающий душу?&lt;CR&gt;"
+    },
+    "pack02:2359516": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359516",
+      "original": "[Ornament]&lt;CR&gt;A talisman that makes one feel lighter?&lt;CR&gt;",
+      "translation": "[Украшение]&lt;CR&gt;Талисман, который заставляет чувствовать себя легче?&lt;CR&gt;"
+    },
+    "pack02:2359517": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359517",
+      "original": "[Ornament]&lt;CR&gt;A talisman that keeps one cool-headed?&lt;CR&gt;",
+      "translation": "[Украшение]&lt;CR&gt;Талисман, сохраняющий хладнокровие?&lt;CR&gt;"
+    },
+    "pack02:2359518": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359518",
+      "original": "[Ornament]&lt;CR&gt;A talisman that rouses one’s soul?&lt;CR&gt;",
+      "translation": "[Украшение]&lt;CR&gt;Талисман, пробуждающий душу?&lt;CR&gt;"
+    },
+    "pack02:2359519": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359519",
+      "original": "[Ornament]&lt;CR&gt;A chain featuring various jewels?&lt;CR&gt;",
+      "translation": "[Украшение]&lt;CR&gt;Цепочка с различными драгоценностями?&lt;CR&gt;"
+    },
+    "pack02:2359520": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359520",
+      "original": "[Ornament]&lt;CR&gt;Armor used to protect the hands?&lt;CR&gt;",
+      "translation": "[Украшение]&lt;CR&gt;Броня используется для защиты рук?&lt;CR&gt;"
+    },
+    "pack02:2359521": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359521",
+      "original": "[Ornament]&lt;CR&gt;A gold coin that is filled with good fortune?&lt;CR&gt;",
+      "translation": "[Украшение]&lt;CR&gt;Золотая монета, приносящая удачу?&lt;CR&gt;"
+    },
+    "pack02:2359522": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359522",
+      "original": "[Ornament]&lt;CR&gt;A collection of fabulous accessories?&lt;CR&gt;",
+      "translation": "[Украшение]&lt;CR&gt;Коллекция потрясающих аксессуаров?&lt;CR&gt;"
+    },
+    "pack02:2359523": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359523",
+      "original": "[Ornament]                                  &lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Украшение] &lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359524": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359524",
+      "original": "[Ornament]                                  &lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Украшение] &lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359525": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359525",
+      "original": "[Ornament]&lt;CR&gt;A necklace that offers the protection of dragons?&lt;CR&gt;",
+      "translation": "[Украшение]&lt;CR&gt;Ожерелье, обеспечивающее защиту от драконов?&lt;CR&gt;"
+    },
+    "pack02:2359526": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359526",
+      "original": "[Ornament]&lt;CR&gt;A charm that gives one the power of beasts?&lt;CR&gt;",
+      "translation": "[Украшение]&lt;CR&gt;Амулет, дающий силу зверя?&lt;CR&gt;"
+    },
+    "pack02:2359543": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359543",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359544": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359544",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359545": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359545",
+      "original": "[Event]&lt;CR&gt;A stuffed toy bear?&lt;CR&gt;",
+      "translation": "[Event]&lt;CR&gt;Мягкий игрушечный мишка?&lt;CR&gt;"
+    },
+    "pack02:2359546": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359546",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359547": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359547",
+      "original": "[Event]&lt;CR&gt;An item needed for painting?&lt;CR&gt;",
+      "translation": "[Event]&lt;CR&gt;Предмет, необходимый для покраски?&lt;CR&gt;"
+    },
+    "pack02:2359548": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359548",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359549": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359549",
+      "original": "[Event]&lt;CR&gt;A bag for candy?&lt;CR&gt;",
+      "translation": "[Event]&lt;CR&gt;Мешок для конфет?&lt;CR&gt;"
+    },
+    "pack02:2359550": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359550",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359551": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359551",
+      "original": "[Event]&lt;CR&gt;A key?&lt;CR&gt;",
+      "translation": "[Event]&lt;CR&gt;Ключ?&lt;CR&gt;"
+    },
+    "pack02:2359552": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359552",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359553": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359553",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359554": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359554",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359555": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359555",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359556": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359556",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359557": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359557",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359558": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359558",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359559": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359559",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359560": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359560",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359561": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359561",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359562": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359562",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359563": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359563",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359564": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359564",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359565": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359565",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359566": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359566",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359567": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359567",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359568": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359568",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359569": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359569",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359570": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359570",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359571": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359571",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359572": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359572",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359573": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359573",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359574": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359574",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359603": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359603",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359604": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359604",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359605": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359605",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359606": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359606",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359607": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359607",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359608": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359608",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359609": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359609",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359610": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359610",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359611": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359611",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359612": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359612",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359613": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359613",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359614": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359614",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359615": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359615",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359616": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359616",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359617": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359617",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359618": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359618",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359619": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359619",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359620": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359620",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359621": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359621",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359622": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359622",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359623": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359623",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359624": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359624",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359625": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359625",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359626": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359626",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359627": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359627",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359628": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359628",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359629": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359629",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359630": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359630",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359631": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359631",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359632": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359632",
+      "original": "[Synthesis Material]&lt;CR&gt;&lt;CR&gt;",
+      "translation": "[Материал синтеза]&lt;CR&gt;&lt;CR&gt;"
+    },
+    "pack02:2359653": {
+      "source": "pack02_text_en",
+      "file": "str_recipe_idea_text.xml",
+      "string_no": "2359653",
+      "original": "[Synthesis Material]　　　　　　　　　&lt;CR&gt;Base of the recipe？&lt;CR&gt;",
+      "translation": "[Материал синтеза]　　　　　　　　　&lt;CR&gt;Основа рецепта？&lt;CR&gt;"
+    }
+  }
+}

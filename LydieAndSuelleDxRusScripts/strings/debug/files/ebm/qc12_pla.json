@@ -1,0 +1,2864 @@
+{
+  "version": 1,
+  "source": "pack01_ebm",
+  "block": "qc12_pla",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "ebm:qc12_pla/event_message_qc12_pla_010.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_010.ebm",
+      "index": 0,
+      "speaker": "Firis",
+      "original": "Spin it, and spin it... Like this, Plachta?",
+      "translation": "Крутите, крутите... Вот так, Плахта?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_010.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_010.ebm",
+      "index": 1,
+      "speaker": "unknown(name_id=18)",
+      "original": "Yes, that looks good. Next...",
+      "translation": "Да, это выглядит хорошо. Следующий..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_010.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_010.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "What's this? Firis is learning alchemy from Plachta?",
+      "translation": "Что это? Фирис учится алхимии у Плахты?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_010.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_010.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Wow, yeah! But isn't Firis Sophie's student?",
+      "translation": "Вау, да! Но разве Фирис не ученица Софи?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_010.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_010.ebm",
+      "index": 4,
+      "speaker": "Firis",
+      "original": "Hey, you two. That's right, I'm Miss Sophie's student.",
+      "translation": "Эй, вы двое. Верно, я ученица мисс Софи."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_010.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_010.ebm",
+      "index": 5,
+      "speaker": "unknown(name_id=18)",
+      "original": "But since that also makes her the student of my student, I sometimes also teach Firis myself.",
+      "translation": "Но поскольку это также делает ее ученицей моей ученицы, я иногда сам преподаю Фирис."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_010.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_010.ebm",
+      "index": 6,
+      "speaker": "Firis",
+      "original": "Plachta can teach really well. It goes without saying that she's a great alchemist, too.",
+      "translation": "Плахта может очень хорошо преподавать. Само собой разумеется, она еще и великий алхимик."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_010.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_010.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Wow! She does look like she'd be good at taking care of people.",
+      "translation": "Ух ты! Похоже, она умеет заботиться о людях."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_010.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_010.ebm",
+      "index": 8,
+      "speaker": "unknown(name_id=18)",
+      "original": "Hehe, thank you. But please don't tell Sophie about this.",
+      "translation": "Хе-хе, спасибо. Но, пожалуйста, не говори об этом Софи."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_010.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_010.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "What? Why not? It's not like you're doing anything wrong...",
+      "translation": "Что? Почему нет? Не похоже, что ты делаешь что-то не так..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_010.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_010.ebm",
+      "index": 10,
+      "speaker": "Firis",
+      "original": "Haha, well, it makes her jealous.",
+      "translation": "Хаха, ну, это заставляет ее ревновать."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_010.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_010.ebm",
+      "index": 11,
+      "speaker": "unknown(name_id=18)",
+      "original": "If I teach Firis, Sophie gets mad and starts going on about how she's Firis' teacher.",
+      "translation": "Если я буду учить Фирис, Софи разозлится и начнет говорить, что она учительница Фирис."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_010.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_010.ebm",
+      "index": 12,
+      "speaker": "unknown(name_id=18)",
+      "original": "Honestly. She's a grown woman now, but inside she's still just a kid.",
+      "translation": "Честно. Она уже взрослая женщина, но внутри она все еще ребенок."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_010.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_010.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "Hahaha, she still relies on you a lot, Sophie!",
+      "translation": "Ха-ха-ха, она все еще во многом на тебя рассчитывает, Софи!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_010.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_010.ebm",
+      "index": 14,
+      "speaker": "unknown(name_id=18)",
+      "original": "Oh, you bet she does. Sometimes I think she'd do better without...",
+      "translation": "О, можешь поспорить, она так и делает. Иногда мне кажется, что ей было бы лучше без..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_010.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_010.ebm",
+      "index": 15,
+      "speaker": "Sophie",
+      "original": "Plachta! I've baked some cookies! Let's have some tea!",
+      "translation": "Плахта! Я испекла печенье! Давайте выпьем чаю!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_010.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_010.ebm",
+      "index": 16,
+      "speaker": "unknown(name_id=18)",
+      "original": "Yes, I'm coming! Sorry, girls, but it's time for tea.",
+      "translation": "Да, я иду! Простите, девочки, но пора пить чай."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_010.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_010.ebm",
+      "index": 17,
+      "speaker": "unknown(name_id=18)",
+      "original": "Sophie, what's on the menu for today?",
+      "translation": "Софи, что сегодня в меню?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_010.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_010.ebm",
+      "index": 18,
+      "speaker": "Sophie",
+      "original": "Some of my special cakes, and some lemon tea too!",
+      "translation": "Немного моих фирменных пирожных и немного чая с лимоном!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_010.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_010.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "She just stopped mid-sentence and went off to eat, didn't she?",
+      "translation": "Она просто остановилась на полуслове и пошла есть, не так ли?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_010.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_010.ebm",
+      "index": 20,
+      "speaker": "Firis",
+      "original": "Hahaha, this might sound odd coming from me, but Plachta's first loyalty is to her stomach!",
+      "translation": "Ха-ха-ха, это может показаться странным с моей стороны, но первая преданность Плахты — ее желудку!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_010.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_010.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "Hah, that's unexpected! I guess Plachta might also be more of a little kid than I thought!",
+      "translation": "Ха, это неожиданно! Думаю, Плахта тоже может оказаться еще большим ребенком, чем я думал!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_020.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_020.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Hello, Plachta. Fancy a little friendly competition?",
+      "translation": "Здравствуйте, Плахта. Хотите устроить небольшое дружеское соревнование?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_020.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_020.ebm",
+      "index": 1,
+      "speaker": "unknown(name_id=18)",
+      "original": "Very well. What do you propose?",
+      "translation": "Очень хорошо. Что вы предлагаете?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_020.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_020.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Hahaha! Nothing less than a test of alchemy knowledge!",
+      "translation": "Ха-ха-ха! Не что иное, как проверка знаний алхимии!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_020.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_020.ebm",
+      "index": 3,
+      "speaker": "unknown(name_id=18)",
+      "original": "You've got guts, Suelle. Thinking you can compete with me in alchemy!",
+      "translation": "У тебя есть смелость, Сюэль. Думаю, ты сможешь соревноваться со мной в алхимии!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_020.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_020.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Oh no, I'm not going to be your opponent. Ta-dah! Lydie is!",
+      "translation": "О нет, я не собираюсь быть твоим противником. Та-да! Лиди есть!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_020.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_020.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "What? Me? Me?! This is the first I'm hearing about this!",
+      "translation": "Что? Мне? Мне?! Впервые слышу об этом!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_020.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_020.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "It just suddenly came to me! You like to read a lot, right Lydie?",
+      "translation": "Это просто внезапно пришло ко мне! Ты любишь много читать, да, Лиди?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_020.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_020.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "So maybe you can give Plachta a run for her money!",
+      "translation": "Так что, возможно, вы сможете дать Плахте шанс заработать деньги!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_020.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_020.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "I don't have your confidence! I'm sorry, Plachta. I forfeit to you, of course.",
+      "translation": "У меня нет твоего доверия! Мне очень жаль, Плахта. Я проигрываю тебе, конечно."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_020.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_020.ebm",
+      "index": 9,
+      "speaker": "unknown(name_id=18)",
+      "original": "No, I don't accept that. Let's do this. I like a good challenge!",
+      "translation": "Нет, я этого не принимаю. Давайте сделаем это. Мне нравится хороший вызов!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_020.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_020.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "No need to get quite so excited! Very well, I'll do it...",
+      "translation": "Не нужно так волноваться! Очень хорошо, я сделаю это..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_020.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_020.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Question 1! Is puni fluid acid or alkaline?",
+      "translation": "Вопрос 1! Пуниная жидкость – кислота или щелочь?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_020.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_020.ebm",
+      "index": 12,
+      "speaker": "Together",
+      "original": "Alkaline.<CR>Alkaline!",
+      "translation": "Щелочная.<CR>Щёлочная!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_020.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_020.ebm",
+      "index": 13,
+      "speaker": "System",
+      "original": "Alkaline!",
+      "translation": "Щелочная!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_020.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_020.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "Correct! What does \"alkaline\" mean again?... Anyway, next question! Spines of an uni are always...",
+      "translation": "Правильный! Что еще значит «щелочная»?... Впрочем, следующий вопрос! Шипы универа всегда..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_020.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_020.ebm",
+      "index": 15,
+      "speaker": "Together",
+      "original": "A multiple of four.<CR>A multiple of four!",
+      "translation": "Кратное четырем.<CR>Кратное четырёх!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_020.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_020.ebm",
+      "index": 16,
+      "speaker": "System",
+      "original": "A multiple of four!",
+      "translation": "кратно четырем!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_020.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_020.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "Another correct answer from you both! Who counted them, anyway? On to question three...",
+      "translation": "Еще один правильный ответ от вас обоих! Кто их вообще считал? Переходим к третьему вопросу..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_020.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_020.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "Uwah, I knew I'd lose. There was no way I could hope to win!",
+      "translation": "Ух, я знал, что проиграю. Я не мог надеяться на победу!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_020.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_020.ebm",
+      "index": 19,
+      "speaker": "unknown(name_id=18)",
+      "original": "Not at all, Lydie. I'm impressed. You've acquired much knowledge for your young age.",
+      "translation": "Вовсе нет, Лидия. Я впечатлен. Вы приобрели много знаний для своего юного возраста."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_020.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_020.ebm",
+      "index": 20,
+      "speaker": "unknown(name_id=18)",
+      "original": "You should be more confident. Your daily studies will surely pay off.",
+      "translation": "Вам следует быть более уверенным в себе. Ваши ежедневные занятия обязательно окупятся."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_020.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_020.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "Plachta! Thank you. I'll try to keep it up!",
+      "translation": "Плахта! Спасибо. Я постараюсь продолжать в том же духе!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_020.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_020.ebm",
+      "index": 22,
+      "speaker": "Sue",
+      "original": "Wow. I can never tell them that I didn't know most of the answers to the questions I was asking.",
+      "translation": "Ух ты. Я никогда не смогу сказать им, что не знаю большинства ответов на вопросы, которые задавал."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_020.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_020.ebm",
+      "index": 23,
+      "speaker": "Sue",
+      "original": "Right... I'm going to forget today ever happened. So, what to eat tomorrow? Hahaha!",
+      "translation": "Верно... Я забуду, что произошло сегодня. Итак, что съесть завтра? Ха-ха-ха!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_030.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_030.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Plachta! Plachta! We've got a question for you!",
+      "translation": "Плахта! Плахта! У нас есть к вам вопрос!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_030.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_030.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Can we watch you while you do some alchemy?",
+      "translation": "Можем ли мы посмотреть, как ты занимаешься алхимией?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_030.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_030.ebm",
+      "index": 2,
+      "speaker": "unknown(name_id=18)",
+      "original": "An interesting request. Whatever for?",
+      "translation": "Интересный запрос. Для чего?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_030.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_030.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Well, what do you think? You're Sophie's teacher, after all!",
+      "translation": "Ну, что ты думаешь? В конце концов, ты учитель Софи!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_030.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_030.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "You must be quite the alchemist! Do you mix while standing on your head? Ooh, tell me that you do!",
+      "translation": "Ты, должно быть, настоящий алхимик! Вы смешиваете, стоя на голове? Ох, скажи мне, что ты делаешь!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_030.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_030.ebm",
+      "index": 5,
+      "speaker": "unknown(name_id=18)",
+      "original": "Girls. I'm an alchemist, not a clown!",
+      "translation": "Девушки. Я алхимик, а не клоун!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_030.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_030.ebm",
+      "index": 6,
+      "speaker": "unknown(name_id=18)",
+      "original": "Also, I'm sorry to betray your expectations, but I can't actually synthesize.",
+      "translation": "Кроме того, мне жаль, что я предал ваши ожидания, но я не могу синтезировать."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_030.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_030.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "What? You can't?! What do you mean?",
+      "translation": "Что? Ты не можешь?! Что ты имеешь в виду?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_030.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_030.ebm",
+      "index": 8,
+      "speaker": "unknown(name_id=18)",
+      "original": "Exactly what it sounds like. There's a reason why I can't make items.",
+      "translation": "Именно так это звучит. Есть причина, по которой я не могу создавать предметы."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_030.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_030.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Really? But you know so much about alchemy!",
+      "translation": "Действительно? Но ты так много знаешь об алхимии!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_030.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_030.ebm",
+      "index": 10,
+      "speaker": "unknown(name_id=18)",
+      "original": "Of course, I used to synthesize in the past. But since I've had this body...",
+      "translation": "Конечно, раньше я синтезировал. Но поскольку у меня было это тело..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_030.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_030.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "Your body? ...Hmm, Sue...",
+      "translation": "Ваше тело? ...Хм, Сью..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_030.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_030.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "Yeah... I don't think we should stick our noses in this one...",
+      "translation": "Да... Я не думаю, что нам стоит совать нос в это..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_030.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_030.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "Plachta, thank you. Sorry for asking something so weird.",
+      "translation": "Плахта, спасибо. Извините, что спросил что-то такое странное."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_030.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_030.ebm",
+      "index": 14,
+      "speaker": "unknown(name_id=18)",
+      "original": "No, that's fine. I can offer you some advice about alchemy, instead.",
+      "translation": "Нет, это нормально. Вместо этого я могу дать вам несколько советов по поводу алхимии."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_030.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_030.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "Wow, are you sure? That would be great!",
+      "translation": "Вау, ты уверен? Это было бы здорово!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_030.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_030.ebm",
+      "index": 16,
+      "speaker": "unknown(name_id=18)",
+      "original": "Without further delay, then. The secret to thinking up recipes...",
+      "translation": "Тогда без дальнейших проволочек. Секрет придумывания рецептов..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_040.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_040.ebm",
+      "index": 0,
+      "speaker": "unknown(name_id=18)",
+      "original": "Hmm. Which should I read next?",
+      "translation": "Хм. Что мне прочитать дальше?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_040.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_040.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Hey, Plachta. Are you choosing a book?",
+      "translation": "Привет, Плахта. Вы выбираете книгу?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_040.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_040.ebm",
+      "index": 2,
+      "speaker": "unknown(name_id=18)",
+      "original": "Yes. I love to read. Would you both care to join me?",
+      "translation": "Да. Я люблю читать. Не могли бы вы оба присоединиться ко мне?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_040.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_040.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Hahaha, I thought you'd never ask! No running away, Sue, please!",
+      "translation": "Ха-ха-ха, я думал, ты никогда не спросишь! Не убегай, Сью, пожалуйста!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_040.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_040.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Gyah! She caught me...",
+      "translation": "Да! Она поймала меня..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_040.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_040.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Of course I did. I'm your sister!",
+      "translation": "Конечно, я это сделал. Я твоя сестра!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_040.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_040.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Plachta was kind enough to ask us to join her! A little reading will do you some good.",
+      "translation": "Плахта любезно предложила нам присоединиться к ней! Небольшое чтение пойдет вам на пользу."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_040.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_040.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Ugh... fine! But just a little, okay?",
+      "translation": "Ух... ладно! Но совсем немного, ладно?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_040.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_040.ebm",
+      "index": 8,
+      "speaker": "unknown(name_id=18)",
+      "original": "Hmm. You may not like reading, Suelle, but you handle those books with care.",
+      "translation": "Хм. Возможно, ты не любишь читать, Сюэль, но ты обращаешься с этими книгами осторожно."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_040.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_040.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Of course. Just because I hate something, it doesn't mean I'm going to throw it around!",
+      "translation": "Конечно. Если я что-то ненавижу, это не значит, что я собираюсь это выбросить!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_040.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_040.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Promise with Mom Number 3! \"Handle books with care\"!",
+      "translation": "Обещание маме номер 3! «Осторожно обращайтесь с книгами»!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_040.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_040.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "Hahaha... That one only came about because you always used to leave books lying around...",
+      "translation": "Ха-ха-ха... Это произошло только потому, что ты всегда оставлял книги валяться повсюду..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_040.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_040.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "I was a baby! I look after books now by keeping them safe on the shelf at all times.",
+      "translation": "Я был ребенком! Теперь я забочусь о книгах, всегда держу их на полке."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_040.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_040.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "Hah! You get bored too easily, Sue.",
+      "translation": "Ха! Тебе слишком быстро становится скучно, Сью."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_040.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_040.ebm",
+      "index": 14,
+      "speaker": "unknown(name_id=18)",
+      "original": "Hehe. In any case, I'm impressed to see you looking after books so well.",
+      "translation": "Хе-хе. В любом случае, я впечатлен тем, что ты так хорошо следишь за книгами."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_040.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_040.ebm",
+      "index": 15,
+      "speaker": "unknown(name_id=18)",
+      "original": "Eating while reading, or folding page corners, I cannot abide people who do such things!",
+      "translation": "Есть во время чтения или загибать уголки страниц — я терпеть не могу людей, которые делают такие вещи!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_040.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_040.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "Hahaha! Plachta, you sound like a book yourself.",
+      "translation": "Ха-ха-ха! Плахта, ты сама говоришь как книга."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_040.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_040.ebm",
+      "index": 17,
+      "speaker": "unknown(name_id=18)",
+      "original": "With good reason, I assure you. I was a book, once.",
+      "translation": "Уверяю вас, на то есть веские причины. Когда-то я был книгой."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_040.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_040.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "... What?! You were a book?!",
+      "translation": "... Что?! Ты был книгой?!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_040.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_040.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "Hey, Lydie... Plachta says the weirdest things sometimes, doesn't she?",
+      "translation": "Эй, Лиди... Плахта иногда говорит самые странные вещи, не так ли?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_040.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_040.ebm",
+      "index": 20,
+      "speaker": "Lydie",
+      "original": "Yeah... Is she simply joking? She doesn't look like the type to joke around...",
+      "translation": "Да... Она просто шутит? Она не похожа на человека, над которым можно шутить..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_040.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_040.ebm",
+      "index": 21,
+      "speaker": "Sue",
+      "original": "I know. But I can't believe that's true, either... Hmm?",
+      "translation": "Я знаю. Но я тоже не могу поверить, что это правда... Хм?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_040.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_040.ebm",
+      "index": 22,
+      "speaker": "unknown(name_id=18)",
+      "original": "Girls? Is something wrong?",
+      "translation": "Девушки? Что-то не так?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_040.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_040.ebm",
+      "index": 23,
+      "speaker": "Lydie",
+      "original": "Ah! No, it's nothing. We're fine.",
+      "translation": "Ах! Нет, это ничего. У нас все в порядке."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_050.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_050.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "... Uh!",
+      "translation": "... Эм-м-м!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_050.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_050.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Just... wanna...",
+      "translation": "Просто... хочу..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_050.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_050.ebm",
+      "index": 2,
+      "speaker": "unknown(name_id=18)",
+      "original": "W-What's got into both of you? Why are you staring at me like that?",
+      "translation": "Ч-что нашло на вас обоих? Почему ты так смотришь на меня?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_050.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_050.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Well... After looking at you closely, we can really see how your body is a doll...",
+      "translation": "Что ж... Присмотревшись к тебе повнимательнее, мы действительно можем увидеть, насколько твое тело похоже на куклу..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_050.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_050.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "You've got that tail going on, of course, and those cool parts stuck to your back...",
+      "translation": "У тебя, конечно, есть этот хвост, и эти крутые части прилипли к твоей спине..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_050.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_050.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "What does it feel like, I wonder? Can I touch you?",
+      "translation": "Интересно, на что это похоже? Могу ли я прикоснуться к тебе?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_050.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_050.ebm",
+      "index": 6,
+      "speaker": "unknown(name_id=18)",
+      "original": "O-Of course not! How embarrassing. Please excuse me!",
+      "translation": "О-конечно нет! Как стыдно. Пожалуйста, извините меня!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_050.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_050.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Ah, hold on! ",
+      "translation": "Ах, держись!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_050.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_050.ebm",
+      "index": 8,
+      "speaker": "unknown(name_id=18)",
+      "original": "Hey! Don't grab that! Don't grab my tail! And it's not a tail either, it's an important piece of...",
+      "translation": "Привет! Не хватай это! Не хватай меня за хвост! И это тоже не хвост, это важная часть..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_050.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_050.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Heh, it looks like a tail to me... So, Plachta...",
+      "translation": "Хех, мне кажется, это хвост... Итак, Плахта..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_050.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_050.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Just what can your body do? I've seen you eating stuff, like cookies... Do you use the toilet?",
+      "translation": "Что же может сделать ваше тело? Я видела, как ты ел что-нибудь, например печенье... Ты ходишь в туалет?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_050.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_050.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "Are you soft? Or unexpectedly hard? Please, let me touch you! Just a little!",
+      "translation": "Ты мягкий? Или неожиданно тяжело? Пожалуйста, позволь мне прикоснуться к тебе! Совсем немного!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_050.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_050.ebm",
+      "index": 12,
+      "speaker": "unknown(name_id=18)",
+      "original": "W-What's with you both?! Please, stay back!",
+      "translation": "Ч-что с вами обоими?! Пожалуйста, держись!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_050.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_050.ebm",
+      "index": 13,
+      "speaker": "unknown(name_id=18)",
+      "original": "Sophie! Sophie! Save me! Please, save me!",
+      "translation": "Софи! Софи! Спаси меня! Пожалуйста, спаси меня!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_050.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_050.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "Bah! But I still have loads of questions...",
+      "translation": "Ба! Но у меня еще масса вопросов..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_050.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_050.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "I just wanted to poke her tummy a little... That's all.",
+      "translation": "Мне просто хотелось немного потыкать ей животик... Вот и все."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_050.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_050.ebm",
+      "index": 16,
+      "speaker": "Sophie",
+      "original": "What are you talking about? Lydie and Sue? That doesn't sound much like them.",
+      "translation": "О чем ты говоришь? Лиди и Сью? Это не очень похоже на них."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_050.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_050.ebm",
+      "index": 17,
+      "speaker": "unknown(name_id=18)",
+      "original": "It is! It's exactly like them! Those two little monsters!",
+      "translation": "Это! Это точно так же, как они! Эти два маленьких монстра!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_050.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_050.ebm",
+      "index": 18,
+      "speaker": "Firis",
+      "original": "Hmm, it feels like I've seen this before somewhere?",
+      "translation": "Хм, такое чувство, будто я где-то это уже видел?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_050.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_050.ebm",
+      "index": 19,
+      "speaker": "Firis",
+      "original": "It can't be helped that they're inquisitive, anyway. I had all sorts of questions myself, haha...",
+      "translation": "В любом случае, ничего не поделаешь, если они любознательны. У меня самого были разные вопросы, хаха..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "I'm going to try again. Just asking can't hurt! Plachta, how old are you?",
+      "translation": "Я попробую еще раз. Просто спросить не повредит! Плачта, сколько тебе лет?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Sue! I know this is an interesting topic, but I think you're starting to bother the poor woman!",
+      "translation": "Сью! Я знаю, это интересная тема, но мне кажется, ты начинаешь беспокоить бедную женщину!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Asking her age is very rude, too. I'm sorry, Plachta.",
+      "translation": "Спрашивать ее возраст тоже очень грубо. Мне очень жаль, Плахта."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Hold on, I want to know the answer! All this talk about \"long ago\"... Well, how long?",
+      "translation": "Подожди, я хочу знать ответ! Все эти разговоры о «давно»… Ну и как долго?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 4,
+      "speaker": "unknown(name_id=18)",
+      "original": "Hehe, I don't mind answering this one. My age? I am...",
+      "translation": "Хе-хе, я не против ответить на этот вопрос. Мой возраст? Я..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Yes?",
+      "translation": "Да?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 6,
+      "speaker": "unknown(name_id=18)",
+      "original": "Sixteen.",
+      "translation": "Шестнадцать."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "...Eh?",
+      "translation": "...Э?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 8,
+      "speaker": "unknown(name_id=18)",
+      "original": "This body was made to look sixteen. And a doll body does not age.",
+      "translation": "Это тело было создано так, чтобы выглядеть шестнадцатилетним. А тело куклы не стареет."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 9,
+      "speaker": "unknown(name_id=18)",
+      "original": "Therefore, I am sixteen. So long as I am in this body, I will be sixteen forever!",
+      "translation": "Следовательно, мне шестнадцать. Пока я в этом теле, мне навсегда будет шестнадцать!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Sounds like cheating to me...",
+      "translation": "Для меня это звучит как обман..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 11,
+      "speaker": "Sophie",
+      "original": "What is it actually? About 520? A bit more?",
+      "translation": "Что это такое на самом деле? Около 520? Еще немного?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 12,
+      "speaker": "unknown(name_id=18)",
+      "original": "Sophie! Why did you have to ruin it?!",
+      "translation": "Софи! Зачем тебе было его портить?!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 13,
+      "speaker": "Sophie",
+      "original": "Sorry, but I can't just sit by while a friend so fiendishly covers up her age...",
+      "translation": "Извините, но я не могу просто сидеть сложа руки, пока подруга так яростно скрывает свой возраст..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "520! That's like, a super granny! The grandma among grandmas!",
+      "translation": "520! Вот типа супербабушка! Бабушка среди бабушек!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 15,
+      "speaker": "Sophie",
+      "original": "Ah... I wouldn't throw terminology like that around...",
+      "translation": "Эх... Я бы не стал разбрасываться такой терминологией..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 16,
+      "speaker": "unknown(name_id=18)",
+      "original": "It's all right. I'm definitely an old maid, however you count it.",
+      "translation": "Все в порядке. Я определенно старая дева, как бы вы это ни считали."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 17,
+      "speaker": "unknown(name_id=18)",
+      "original": "A stubborn, set-in-her ways, always complaining, eccentric old granny, that's me!",
+      "translation": "Упрямая, своенравная, вечно жалующаяся, эксцентричная старая бабушка – это я!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 18,
+      "speaker": "Sophie",
+      "original": "Oh dear, you've done it now... Girls, please, try and change the subject!",
+      "translation": "О боже, ты уже это сделал... Девочки, попробуйте сменить тему!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "Okay, okay... I know! Plachta, I've got another question!",
+      "translation": "Ладно, ладно... Я знаю! Плачта, у меня еще вопрос!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 20,
+      "speaker": "Sue",
+      "original": "You've been a book, and now a doll... Do you want to become human again?",
+      "translation": "Ты была книгой, а теперь куклой... Хочешь снова стать человеком?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 21,
+      "speaker": "unknown(name_id=18)",
+      "original": "Yes. Of course I do. But there's also no hurry.",
+      "translation": "Да. Конечно, да. Но и спешить некуда."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 22,
+      "speaker": "unknown(name_id=18)",
+      "original": "I have complete faith in Sophie, and she'll be able to turn me back, one day.",
+      "translation": "Я полностью верю в Софи, и однажды она сможет вернуть меня."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 23,
+      "speaker": "Lydie",
+      "original": "Uwah! Plachta, you really do trust Sophie...",
+      "translation": "Ува! Плахта, ты действительно доверяешь Софи..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 24,
+      "speaker": "unknown(name_id=18)",
+      "original": "Yes. Even if she does go around spilling all my secrets.",
+      "translation": "Да. Даже если она выдаст все мои секреты."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 25,
+      "speaker": "Sophie",
+      "original": "Ah, I'm going to pay for that one later... That's the problem with the elderly!",
+      "translation": "Эх, за это я потом заплачу... Вот в чем проблема стариков!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 26,
+      "speaker": "unknown(name_id=18)",
+      "original": "What?! Another kick while I'm down! And you dare to address your teacher in such a way!",
+      "translation": "Что?! Еще один удар, пока я лежу! И вы смеете так обращаться к своему учителю!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 27,
+      "speaker": "Sue",
+      "original": "Hahaha, Sophie and Plachta really are such good friends!",
+      "translation": "Ха-ха-ха, Софи и Плахта действительно такие хорошие друзья!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 28,
+      "speaker": "Lydie",
+      "original": "I've never seen two people who seem to be having so much fun when they are fighting.",
+      "translation": "Я никогда не видел двух людей, которым было бы так весело, когда они ссорились."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 29,
+      "speaker": "unknown(name_id=18)",
+      "original": "You're such a slob, too! Look, I can see your underwear again!",
+      "translation": "Ты тоже такой неряха! Смотри, я снова вижу твое нижнее белье!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_060.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_060.ebm",
+      "index": 30,
+      "speaker": "Sophie",
+      "original": "Hey, you don't have to say that with them here! And you're one to talk about showing off...",
+      "translation": "Эй, тебе не обязательно говорить это с ними здесь! И ты один из тех, кто говорит о хвастовстве..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 0,
+      "speaker": "unknown(name_id=18)",
+      "original": "How many times do I have to tell you?! After you've used something, put it back!",
+      "translation": "Сколько раз мне тебе говорить?! После того, как вы что-то использовали, положите это обратно!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 1,
+      "speaker": "Sophie",
+      "original": "Gah! I was just placing it somewhere I can easily find it again, that's all...",
+      "translation": "Га! Я просто положил его туда, где смогу легко его найти, вот и все..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Ah, Sophie is getting chewed out again...",
+      "translation": "Ох, Софи снова разжевывают..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Hahaha... I've seen that so often, I'm starting to think it's just a routine in this atelier.",
+      "translation": "Ха-ха-ха... Я видел это так часто, что начинаю думать, что это просто рутина в этом ателье."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 4,
+      "speaker": "Sophie",
+      "original": "Great timing, girls! Take care of Plachta, will you? Later!",
+      "translation": "Отличное время, девочки! Позаботься о Плахте, ладно? Позже!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 5,
+      "speaker": "unknown(name_id=18)",
+      "original": "Hey, wait! Gah, she's gone. Always so fast to run away!",
+      "translation": "Эй, подожди! Га, она ушла. Всегда так быстро убегаешь!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Sorry about that. It looks like our timing was off?",
+      "translation": "Извините за это. Похоже, мы опоздали?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 7,
+      "speaker": "unknown(name_id=18)",
+      "original": "No, it's fine. Hehehe. We can just start from the beginning when she gets back.",
+      "translation": "Нет, все в порядке. Хе-хе-хе. Мы сможем начать с самого начала, когда она вернется."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Uwah! Cold hearted!",
+      "translation": "Ува! Холодное сердце!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 9,
+      "speaker": "unknown(name_id=18)",
+      "original": "It's not like I'm lecturing her for my own enjoyment.",
+      "translation": "Я не читаю ей лекции ради собственного удовольствия."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 10,
+      "speaker": "unknown(name_id=18)",
+      "original": "While Sophie's alchemy may have grown in leaps and bounds, her general living skills are still poor.",
+      "translation": "Хотя алхимия Софи, возможно, и выросла семимильными шагами, ее общие жизненные навыки все еще остаются плохими."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 11,
+      "speaker": "unknown(name_id=18)",
+      "original": "If I can't change this, she'll become a worthless old lady who's only saving grace is her alchemy!",
+      "translation": "Если я не смогу это изменить, она превратится в никчемную старушку, единственным спасением которой является ее алхимия!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 12,
+      "speaker": "unknown(name_id=18)",
+      "original": "I want her to be happy, that's all. So she needs to be able to do more than just alchemy...",
+      "translation": "Я хочу, чтобы она была счастлива, вот и все. Значит, ей нужно уметь больше, чем просто алхимию..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "I see... So that's the reason behind all of your lecturing.",
+      "translation": "Понятно... Вот в чем причина всех ваших лекций."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "Hahaha! Plachta, it's like you're her mother!",
+      "translation": "Ха-ха-ха! Плачта, ты как будто ее мать!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 15,
+      "speaker": "unknown(name_id=18)",
+      "original": "M-Mother?",
+      "translation": "М-мама?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 16,
+      "speaker": "unknown(name_id=18)",
+      "original": "I've been called \"elderly\" and \"granny\" and all sorts in the past...",
+      "translation": "В прошлом меня называли «пожилой», «бабушкой» и так далее…"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 17,
+      "speaker": "unknown(name_id=18)",
+      "original": "But this is the first time I've been called a \"mother\". Wow, this one might be really getting to me...",
+      "translation": "Но это первый раз, когда меня называют «матерью». Ого, возможно, это меня действительно задевает..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "Really? Hehe, Mother Plachta! I think it quite suits you.",
+      "translation": "Действительно? Хе-хе, матушка Плахта! Думаю, тебя это вполне устраивает."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 19,
+      "speaker": "unknown(name_id=18)",
+      "original": "S-Stop that! I think I'd rather be treated like a frail old lady than be called \"mother\"!",
+      "translation": "П-прекрати это! Я думаю, что лучше со мной будут обращаться как с хрупкой старушкой, чем называть «матерью»!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 20,
+      "speaker": "unknown(name_id=18)",
+      "original": "Both of you, don't call me that again! Understand?",
+      "translation": "Вы оба, не называйте меня так больше! Понимать?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 21,
+      "speaker": "Sue",
+      "original": "Okay! No problem, Mommy Plachta!",
+      "translation": "Хорошо! Ничего страшного, мамочка Плахта!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 22,
+      "speaker": "unknown(name_id=18)",
+      "original": "Suelle, time for one of my famous lectures. All of your dreams are about to come true!",
+      "translation": "Сюэль, пришло время одной из моих знаменитых лекций. Все ваши мечты вот-вот сбудутся!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 23,
+      "speaker": "Sue",
+      "original": "Oh no, I went too far! Run for it!",
+      "translation": "О нет, я зашел слишком далеко! Беги за этим!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 24,
+      "speaker": "Lydie",
+      "original": "Hey, Sue! Ah, Plachta, see you later!",
+      "translation": "Привет, Сью! Ах, Плахта, увидимся позже!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_070.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_070.ebm",
+      "index": 25,
+      "speaker": "unknown(name_id=18)",
+      "original": "I can hardly keep up with those two, honestly...",
+      "translation": "Честно говоря, я с трудом успеваю за этими двумя..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_080.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_080.ebm",
+      "index": 0,
+      "speaker": "Plachta",
+      "original": "Oh? Welcome, you two. Would you like some tea?",
+      "translation": "Ой? Добро пожаловать, вы двое. Хотите чаю?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_080.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_080.ebm",
+      "index": 1,
+      "speaker": "Plachta",
+      "original": "...Oh.",
+      "translation": "...Ой."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_080.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_080.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Are you all right, Plachta?!",
+      "translation": "С тобой все в порядке, Плахта?!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_080.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_080.ebm",
+      "index": 3,
+      "speaker": "Plachta",
+      "original": "... I am sorry. It's embarrassing, but I'm not very used to this body yet...",
+      "translation": "... Мне жаль. Стыдно, но я еще не очень привыкла к этому телу..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_080.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_080.ebm",
+      "index": 4,
+      "speaker": "Plachta",
+      "original": "It's been 500 years since I had a human one. I can't seem to find the right balance...",
+      "translation": "Прошло 500 лет с тех пор, как у меня был человеческий. Не могу найти правильный баланс..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_080.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_080.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Oh... I guess a doll's body and a human one must be pretty different...",
+      "translation": "Ох... Наверное, тела куклы и человека сильно отличаются..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_080.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_080.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "By the way, how does it even feel, having a doll's body? Were your joints like all hard?",
+      "translation": "Кстати, каково это вообще иметь кукольное тело? Ваши суставы были твердыми?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_080.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_080.ebm",
+      "index": 7,
+      "speaker": "Plachta",
+      "original": "Not at all. It was a work of a master, after all. ",
+      "translation": "Нисколько. В конце концов, это была работа мастера."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_080.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_080.ebm",
+      "index": 8,
+      "speaker": "Plachta",
+      "original": "Even if there were times when I would injure it, it never failed me otherwise. ",
+      "translation": "Даже если были моменты, когда я мог его поранить, в остальном он меня никогда не подводил."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_080.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_080.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "Hmmmm. Does that mean that a human body is actually less comfortable?",
+      "translation": "Хмммм. Означает ли это, что человеческое тело на самом деле менее комфортно?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_080.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_080.ebm",
+      "index": 10,
+      "speaker": "Plachta",
+      "original": "Ahaha, well, I wouldn't say that... I am simply not used to it yet.",
+      "translation": "Ахаха, ну я бы так не сказал... Просто я еще не привык."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_080.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_080.ebm",
+      "index": 11,
+      "speaker": "Plachta",
+      "original": "But this body does... how should I say it... \"fit better\"? I guess.",
+      "translation": "Но это тело... как бы это сказать... \"подходит лучше\"? Наверное."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_080.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_080.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "\"Fit better\"?... I can't even begin to understand...",
+      "translation": "«Лучше подходит»?... Я даже не могу понять..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_080.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_080.ebm",
+      "index": 13,
+      "speaker": "Plachta",
+      "original": "That is natural. Usually, humans do not get to experience having more than one kind of body, after all. ",
+      "translation": "Это естественно. В конце концов, обычно людям не удается иметь более одного типа тел."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_080.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_080.ebm",
+      "index": 14,
+      "speaker": "Plachta",
+      "original": "Well, when I first got my doll body it didn't take that much to get used to it. So I think it won't be long now...",
+      "translation": "Что ж, когда я впервые получила свое кукольное тело, мне не потребовалось много времени, чтобы к нему привыкнуть. Так что я думаю, что это ненадолго..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_080.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_080.ebm",
+      "index": 15,
+      "speaker": "Plachta",
+      "original": "Yeah, my favorite student made this body for me after all, and I want to use it freely as soon as I can... Ohoh.",
+      "translation": "Да, мой любимый ученик все-таки сделал для меня это тело, и я хочу использовать его свободно, как только смогу... Ох."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_080.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_080.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "Uh? That was some nasty noise. Ahh! The flask is in shards!",
+      "translation": "Эм-м-м? Это был какой-то противный шум. Ах! Колба разлетелась на осколки!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_080.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_080.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "I think it got crushed under Plachta's bottom... Hip-crusher Plachta... A technique to fear...",
+      "translation": "Думаю, его раздавило под задом Плахты... Бедродробилка Плахты... Техника, которой стоит бояться..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_080.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_080.ebm",
+      "index": 18,
+      "speaker": "Plachta",
+      "original": "Hip-crusher?! Don't give me any weird nicknames! ",
+      "translation": "Хип-сокрушитель?! Не давайте мне никаких странных прозвищ!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_080.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_080.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "Yeah, I mean her hips are pretty big... Oh. No. I mean... ! Ugh, well, we'll be going now! Bye!",
+      "translation": "Да, я имею в виду, что ее бедра довольно большие... Ох. Нет, я имею в виду... ! Ух, ну, сейчас пойдем! Пока!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_080.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_080.ebm",
+      "index": 20,
+      "speaker": "Plachta",
+      "original": "Wait right there! Mocking my complexes... You'll get an earful yet!",
+      "translation": "Подождите здесь! Издеваюсь над моими комплексами... Еще по уху получишь!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_080.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_080.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "Waaah! She can run just fine! I think we've inspired her to master her new body!",
+      "translation": "Вааа! Она прекрасно умеет бегать! Я думаю, мы вдохновили ее на освоение своего нового тела!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_080.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_080.ebm",
+      "index": 22,
+      "speaker": "Sue",
+      "original": "Run for it! She'll spank us for sure if she catches up!",
+      "translation": "Беги за этим! Она нас обязательно отшлепает, если догонит!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_080.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_080.ebm",
+      "index": 23,
+      "speaker": "Plachta",
+      "original": "Girls! I won't forgive you easily for this! Get back here!",
+      "translation": "Девушки! Я не прощу тебе этого легко! Вернись сюда!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_090.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_090.ebm",
+      "index": 0,
+      "speaker": "Plachta",
+      "original": "Hey, girls! I've been waiting for you!",
+      "translation": "Эй, девочки! Я ждал тебя!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_090.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_090.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "You have? Some kind of emergency job?",
+      "translation": "У вас есть? Какая-то экстренная работа?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_090.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_090.ebm",
+      "index": 2,
+      "speaker": "Plachta",
+      "original": "Yes, that's right. You see...",
+      "translation": "Да, это так. Понимаете..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_090.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_090.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Was that your tummy rumbling, Plachta? That means...",
+      "translation": "Плахта, это у тебя в животе урчало? Это значит..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_090.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_090.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "You're hungry?",
+      "translation": "Ты голоден?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_090.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_090.ebm",
+      "index": 5,
+      "speaker": "Plachta",
+      "original": "That's right. It's been a long time since I experienced rumbling like this.",
+      "translation": "Это верно. Давно я не сталкивался с таким грохотом."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_090.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_090.ebm",
+      "index": 6,
+      "speaker": "Plachta",
+      "original": "Since becoming human again, everything I eat is just so delicious!",
+      "translation": "С тех пор, как я снова стал человеком, все, что я ем, стало таким вкусным!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_090.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_090.ebm",
+      "index": 7,
+      "speaker": "Plachta",
+      "original": "So I want both of you to feed me with the most delicious stuff you can find!",
+      "translation": "Поэтому я хочу, чтобы вы оба накормили меня самым вкусным, что только сможете найти!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_090.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_090.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Hahaha, I guess that makes sense. You can leave this to us, then!",
+      "translation": "Ха-ха-ха, я думаю, это имеет смысл. Тогда вы можете оставить это нам!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_090.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_090.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "We'll bring enough food to feed you ten times over!",
+      "translation": "Мы привезём столько еды, чтобы накормить вас в десять раз больше!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_090.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_090.ebm",
+      "index": 10,
+      "speaker": "Plachta",
+      "original": "As quickly as possible, please. Hehehe!",
+      "translation": "Как можно быстрее, пожалуйста. Хе-хе-хе!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_090.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_090.ebm",
+      "index": 11,
+      "speaker": "Plachta",
+      "original": "I'm so hungry, the two of you are starting to look quite delicious!",
+      "translation": "Я так голоден, вы двое начинаете выглядеть очень аппетитно!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_090.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_090.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "Uwaaah! We'll be quick, we promise, just don't eat us!",
+      "translation": "Увааа! Мы будем быстрыми, обещаем, только не ешьте нас!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_090.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_090.ebm",
+      "index": 13,
+      "speaker": "Plachta",
+      "original": "Hehehe... I'll be waiting.",
+      "translation": "Хе-хе-хе... Я буду ждать."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_100.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_100.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Plachta! We've got some of the most delicious food we could find!",
+      "translation": "Плахта! У нас есть одни из самых вкусных блюд, которые мы только могли найти!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_100.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_100.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "This should fill you up, Plachta! Go ahead, eat...",
+      "translation": "Это должно тебя наполнить, Плахта! Давай, ешь..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_100.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_100.ebm",
+      "index": 2,
+      "speaker": "Plachta",
+      "original": "Phew, thanks. That was all very good.",
+      "translation": "Уф, спасибо. Все было очень хорошо."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_100.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_100.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "What! You've finished already?",
+      "translation": "Что! Ты уже закончил?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_100.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_100.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "I-I think I blinked and missed it! Is this what happens when you go hungry for 500 years?",
+      "translation": "Кажется, я моргнул и пропустил это! Вот что происходит, когда голодаешь 500 лет?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_100.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_100.ebm",
+      "index": 5,
+      "speaker": "Plachta",
+      "original": "The 500 Years' Hunger! Yes, I might enter an eating contest under that name.",
+      "translation": "500-летний голод! Да, я мог бы принять участие в конкурсе еды под этим именем."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_100.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_100.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Hahaha. You'll probably face Firis in the final!",
+      "translation": "Ха-ха-ха. Вероятно, в финале вы встретитесь с Фирис!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_100.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_100.ebm",
+      "index": 7,
+      "speaker": "Plachta",
+      "original": "Probably. Anyway, recently, eating has been giving me much joy.",
+      "translation": "Вероятно. В любом случае, в последнее время еда доставляла мне много радости."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_100.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_100.ebm",
+      "index": 8,
+      "speaker": "Plachta",
+      "original": "Being able to truly enjoy delicious food might be the best thing about becoming human again.",
+      "translation": "Возможность по-настоящему наслаждаться вкусной едой может оказаться лучшим способом снова стать человеком."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_100.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_100.ebm",
+      "index": 9,
+      "speaker": "Plachta",
+      "original": "I did eat while I was a doll, after all, but I couldn't taste the food.",
+      "translation": "В конце концов, я ела, когда была куклой, но не могла ощутить вкус еды."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_100.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_100.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "I see, I see... A bit of indulging now isn't going to hurt, then, is it?",
+      "translation": "Понятно, понятно... Немного побаловаться сейчас не повредит, не так ли?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_100.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_100.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Hmm...",
+      "translation": "Хм..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_100.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_100.ebm",
+      "index": 12,
+      "speaker": "Plachta",
+      "original": "What is it, Suelle? Have I got some food stuck on my face?",
+      "translation": "Что такое, Сюэль? У меня на лице застряла еда?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_100.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_100.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "No, but I was just thinking... Have you put on a little weight, Plachta?",
+      "translation": "Нет, я просто подумал... Ты не поправилась, Плахта?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_100.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_100.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "Hey, now that you mention it... You do look a little plumper!",
+      "translation": "Эй, теперь, когда ты об этом упомянул... Ты выглядишь немного полнее!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_100.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_100.ebm",
+      "index": 16,
+      "speaker": "Plachta",
+      "original": "Y-You might be right... I have been feeling heavier recently.",
+      "translation": "Д-возможно, ты прав... В последнее время я чувствую себя тяжелее."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_100.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_100.ebm",
+      "index": 17,
+      "speaker": "Plachta",
+      "original": "I overlooked that point. Completely forgot about it! A human body gets larger, doesn't it!",
+      "translation": "Я упустил из виду этот момент. Совсем забыл об этом! Человеческое тело становится больше, не так ли!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_100.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_100.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "It's much easier to put it on that it is to take it off.",
+      "translation": "Надеть его гораздо проще, чем снять."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_100.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_100.ebm",
+      "index": 19,
+      "speaker": "Plachta",
+      "original": "Uwah! Is the human body so cruel?",
+      "translation": "Ува! Так ли жестоко человеческое тело?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_100.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_100.ebm",
+      "index": 20,
+      "speaker": "Plachta",
+      "original": "What can I do?! I want to eat, but I don't want to get fat!",
+      "translation": "Что я могу сделать?! Я есть хочу, но не хочу толстеть!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_100.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_100.ebm",
+      "index": 21,
+      "speaker": "Plachta",
+      "original": "Sophie! Sophie! Answer me! Give me the answer!",
+      "translation": "Софи! Софи! Ответьте мне! Дай мне ответ!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_100.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_100.ebm",
+      "index": 22,
+      "speaker": "Sue",
+      "original": "Plachta... That's a battle that every human has to fight for themselves...",
+      "translation": "Плахта... Это битва, которую каждому человеку приходится вести за себя..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_100.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_100.ebm",
+      "index": 23,
+      "speaker": "Sue",
+      "original": "That's the truth of life, Plachta. You're living it now.",
+      "translation": "Это правда жизни, Плахта. Ты живешь этим сейчас."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_100.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_100.ebm",
+      "index": 24,
+      "speaker": "Lydie",
+      "original": "Sue, I think that might be going a little far!",
+      "translation": "Сью, я думаю, это зашло слишком далеко!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 0,
+      "speaker": "Sophie",
+      "original": "Ugh... My back is killing me.",
+      "translation": "Ух... Моя спина меня убивает."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Eh?! Are you alright? Did you sprain it?!",
+      "translation": "Э?! Ты в порядке? Ты его вывихнул?!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 2,
+      "speaker": "Sophie",
+      "original": "No way! I'm not that old yet! I just spent a bit too long at my desk last night...",
+      "translation": "Ни за что! Я еще не так стар! Вчера вечером я слишком долго просидел за столом..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Oh... Well, maybe you just need a massage? I could help you.",
+      "translation": "Ох... Ну, может, тебе просто нужен массаж? Я мог бы помочь тебе."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "I'm actually pretty good at it! Sometimes I even get asked by our neighbors...",
+      "translation": "На самом деле у меня это неплохо получается! Иногда меня даже спрашивают наши соседи..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 5,
+      "speaker": "Sophie",
+      "original": "Really? Well, if you don't mind...",
+      "translation": "Действительно? Ну, если ты не против..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 6,
+      "speaker": "Plachta",
+      "original": "Sophie? Sorry, I think I'll need my usual maintenance...",
+      "translation": "Софи? Извините, думаю, мне понадобится обычное обслуживание..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 7,
+      "speaker": "Sophie",
+      "original": "Ahahaha! Maintenance? You're a human now!",
+      "translation": "Ахахаха! Обслуживание? Ты теперь человек!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 8,
+      "speaker": "Plachta",
+      "original": "Ah... Right. Sorry, of course you're right...",
+      "translation": "Ах... Верно. Извините, конечно, вы правы..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 9,
+      "speaker": "Plachta",
+      "original": "Heh... That heavenly ticklish feeling... I guess I'll never get to experience that again.",
+      "translation": "Хех... Это божественное щекотливое чувство... Думаю, мне больше никогда не доведется его испытать."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "She looks pretty disappointed about that. Does maintenance really feel that good?",
+      "translation": "Она выглядит очень разочарованной этим. Действительно ли обслуживание так приятно?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 11,
+      "speaker": "Sophie",
+      "original": "I wonder... It's not like we can do it to humans... Hm?",
+      "translation": "Интересно... Не похоже, что мы можем сделать это с людьми... Хм?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 12,
+      "speaker": "Sophie",
+      "original": "Oh! I've got it! Your offer of a massage. I think there's someone better to...",
+      "translation": "Ой! Я понял! Ваше предложение массажа. Я думаю, есть кто-то лучше..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 13,
+      "speaker": "Plachta",
+      "original": "Aaaaahhhh...",
+      "translation": "Ааааааа..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "Ehehe, does it really feel that good, Plachta?",
+      "translation": "Эхехе, неужели так хорошо, Плахта?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 15,
+      "speaker": "Plachta",
+      "original": "It does... It really does... It feels the best...",
+      "translation": "Да... Действительно так... Это лучше всего..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "Wow. That's some face, Plachta! Lydie must be really good.",
+      "translation": "Ух ты. Вот какое лицо, Плахта! Лиди, должно быть, очень хороша."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 17,
+      "speaker": "Sophie",
+      "original": "Ugh, I think I'm getting envious. Lydie! I want one too, after all!",
+      "translation": "Ох, кажется, я начинаю завидовать. Лиди! Я ведь тоже хочу!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "Okaay! Just give me a few minutes here. ...Hn! This should be a good spot!",
+      "translation": "Хорошо! Просто дай мне здесь несколько минут. ...Хн! Это должно быть хорошее место!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 19,
+      "speaker": "Plachta",
+      "original": "Oooohh! Amazing... you're amazing, Lydie! I can't... think anymore...",
+      "translation": "Ооооо! Потрясающе... ты потрясающая, Лиди! Я не могу... больше думать..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 20,
+      "speaker": "Lydie",
+      "original": "Ehhehe! That's right, that's right. And for the finish... there's this special technique...",
+      "translation": "Эхехе! Это верно, это верно. А для завершения... есть такая особая техника..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 21,
+      "speaker": "Plachta",
+      "original": "Oooohh! I'm in heaven... !",
+      "translation": "Ооооо! Я в раю... !"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 22,
+      "speaker": "Plachta",
+      "original": "Thank... you... very much...",
+      "translation": "Большое спасибо..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 23,
+      "speaker": "Sophie",
+      "original": "It was... very... good",
+      "translation": "Это было... очень... хорошо"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 24,
+      "speaker": "Lydie",
+      "original": "... Ooops. I might have overdone it a little.",
+      "translation": "... Упс. Возможно, я немного переборщил."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 25,
+      "speaker": "Sue",
+      "original": "I wouldn't say \"a little\"... But they look pretty happy, so I guess it's alright?",
+      "translation": "Я бы не сказал \"немного\"... Но они выглядят довольно счастливыми, так что, думаю, всё в порядке?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 26,
+      "speaker": "Lydie",
+      "original": "Yeah, you're right! It's nice to do something good!",
+      "translation": "Да, ты прав! Приятно делать что-то хорошее!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 27,
+      "speaker": "Sue",
+      "original": "... Good? ... That?",
+      "translation": "... Хороший? ... Что?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 28,
+      "speaker": "Plachta",
+      "original": "I am... very happy... Thank you...",
+      "translation": "Я... очень счастлив... Спасибо..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 29,
+      "speaker": "Sophie",
+      "original": "It was... great",
+      "translation": "Это было... здорово"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_110.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_110.ebm",
+      "index": 30,
+      "speaker": "Sue",
+      "original": "... I don't think I'll ever risk getting a massage from Lydie.",
+      "translation": "... Не думаю, что когда-нибудь рискну получить массаж от Лиди."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_120.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_120.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Plachta, hello.",
+      "translation": "Плахта, здравствуйте."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_120.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_120.ebm",
+      "index": 2,
+      "speaker": "Plachta",
+      "original": "Girls, good timing. In fact, perfect timing!",
+      "translation": "Девочки, удачное время. На самом деле, идеальное время!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_120.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_120.ebm",
+      "index": 3,
+      "speaker": "Plachta",
+      "original": "I've got a request for you. Will you watch me synthesize?",
+      "translation": "У меня к вам просьба. Ты посмотришь, как я синтезирую?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_120.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_120.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Synthesize? But you said you couldn't do it before...",
+      "translation": "Синтезировать? Но ты сказал, что не мог сделать это раньше..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_120.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_120.ebm",
+      "index": 5,
+      "speaker": "Plachta",
+      "original": "That was because of my doll body.",
+      "translation": "Это произошло из-за моего кукольного тела."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_120.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_120.ebm",
+      "index": 6,
+      "speaker": "Plachta",
+      "original": "Now I am human again, I should - in theory - be able to perform alchemy again...",
+      "translation": "Теперь я снова человек и теоретически должен снова уметь заниматься алхимией..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_120.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_120.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "Of course! In which case, we'd love to watch you in action, Plachta!",
+      "translation": "Конечно! В таком случае, мы будем рады увидеть тебя в деле, Плахта!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_120.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_120.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "We get to see 500 years of alchemy experience in action! I can't wait! Plachta, go ahead!",
+      "translation": "Мы увидим 500-летний опыт алхимии в действии! Я не могу дождаться! Плахта, вперед!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_120.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_120.ebm",
+      "index": 9,
+      "speaker": "Plachta",
+      "original": "Thank you. Listen to the desires of the materials, and change their properties. Remember...",
+      "translation": "Спасибо. Прислушивайтесь к желаниям материалов и меняйте их свойства. Помнить..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_120.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_120.ebm",
+      "index": 10,
+      "speaker": "Plachta",
+      "original": "I did it! Success!",
+      "translation": "Я сделал это! Успех!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_120.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_120.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "Great! Congratulations! Not to mention the high quality...",
+      "translation": "Большой! Поздравляем! Не говоря уже о высоком качестве..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_120.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_120.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "So this is your skill, Plachta? Uwah, I think I've got goosebumps!",
+      "translation": "Так это твое умение, Плахта? Ух, кажется, у меня мурашки по коже!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_120.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_120.ebm",
+      "index": 13,
+      "speaker": "Plachta",
+      "original": "Hehe, this takes me back. The feeling of creating something new. That raw thrill!",
+      "translation": "Хе-хе, это возвращает меня назад. Ощущение создания чего-то нового. Этот необузданный восторг!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_120.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_120.ebm",
+      "index": 14,
+      "speaker": "Plachta",
+      "original": "It's been so long since I experienced this. Alchemy really is something special, isn't it?",
+      "translation": "Прошло так много времени с тех пор, как я испытал это. Алхимия действительно нечто особенное, не так ли?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_120.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_120.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "You're right! Alchemy is fun!",
+      "translation": "Ты прав! Алхимия – это весело!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_120.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_120.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "It's been 500 years for you, hasn't it? That must make it feel even better!",
+      "translation": "Для тебя прошло 500 лет, не так ли? Это должно заставить его чувствовать себя еще лучше!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_120.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_120.ebm",
+      "index": 17,
+      "speaker": "Plachta",
+      "original": "It does. Now I can experience this again any time I want!",
+      "translation": "Это так. Теперь я могу испытать это снова в любое время, когда захочу!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_120.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_120.ebm",
+      "index": 18,
+      "speaker": "Plachta",
+      "original": "I owe Sophie even more gratitude, clearly. She has given me back something very dear to me.",
+      "translation": "Очевидно, я обязан Софи еще большей благодарностью. Она вернула мне что-то очень дорогое для меня."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_120.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_120.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "Hehe. You look so happy, Plachta!",
+      "translation": "Хе-хе. Ты выглядишь такой счастливой, Плахта!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_120.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_120.ebm",
+      "index": 20,
+      "speaker": "Lydie",
+      "original": "I'm glad, too. Please show us what you can do again soon!",
+      "translation": "Я тоже рад. Пожалуйста, покажите нам, что вы можете сделать снова в ближайшее время!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_120.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_120.ebm",
+      "index": 21,
+      "speaker": "Plachta",
+      "original": "Of course. Any time you like, girls, if that is all right with you. Thank you for today.",
+      "translation": "Конечно. Девочки, в любое время, если вас это устраивает. Спасибо за сегодня."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_120.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_120.ebm",
+      "index": 22,
+      "speaker": "Plachta",
+      "original": "It's been a while since I synthesized anything, but there's one thing I can't ignore from this.",
+      "translation": "Давненько я ничего не синтезировал, но есть одна вещь, которую я не могу игнорировать."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_120.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_120.ebm",
+      "index": 23,
+      "speaker": "Plachta",
+      "original": "From the quality of this item, it's clear that my student surpassed me long ago...",
+      "translation": "По качеству этой вещи видно, что мой ученик уже давно меня превзошёл..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_120.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_120.ebm",
+      "index": 24,
+      "speaker": "Plachta",
+      "original": "I think the time may have finally come...",
+      "translation": "Я думаю, что время, наконец, пришло..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Sophie! Plachta! Do you want to play cards with us?...",
+      "translation": "Софи! Плахта! Хотите поиграть с нами в карты?..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Hold on. It looks like they are having some serious discussion...",
+      "translation": "Подожди. Похоже, у них серьезный разговор..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 2,
+      "speaker": "Sophie",
+      "original": "Alright, Plachta. What is it that you want to talk about?",
+      "translation": "Хорошо, Плахта. О чем ты хочешь поговорить?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 3,
+      "speaker": "Plachta",
+      "original": "Do you remember, Sophie, the goal that I once set for you?",
+      "translation": "Помнишь ли ты, Софи, цель, которую я когда-то перед тобой поставил?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 4,
+      "speaker": "Sophie",
+      "original": "Of course. To surpass you as an alchemist, Plachta. What about it?",
+      "translation": "Конечно. Превзойти тебя как алхимика, Плахта. Что насчет этого?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 5,
+      "speaker": "Plachta",
+      "original": "I tried some synthesis recently. It was a success. I made an item without any trouble.",
+      "translation": "Недавно я попробовал синтезировать. Это был успех. Я сделал предмет без каких-либо проблем."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 6,
+      "speaker": "Sophie",
+      "original": "Wow, you did? That's great, Plachta!",
+      "translation": "Вау, ты это сделал? Это здорово, Плахта!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 7,
+      "speaker": "Plachta",
+      "original": "Thank you. However, at the same time, I realized something. You have already well surpassed me.",
+      "translation": "Спасибо. Однако в то же время я кое-что понял. Вы уже значительно превзошли меня."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 8,
+      "speaker": "Sophie",
+      "original": "...What?",
+      "translation": "...Что?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 9,
+      "speaker": "Plachta",
+      "original": "Congratulations, Sophie. You have surpassed me as an alchemist.",
+      "translation": "Поздравляю, Софи. Ты превзошёл меня как алхимик."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 10,
+      "speaker": "Plachta",
+      "original": "As your friend, your family, and your teacher, I am so happy. You really have worked hard.",
+      "translation": "Как ваш друг, ваша семья и ваш учитель, я так счастлив. Вы действительно много работали."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 11,
+      "speaker": "Sophie",
+      "original": "...Thank you. All that work has paid off...",
+      "translation": "...Спасибо. Вся эта работа окупилась..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 12,
+      "speaker": "Sophie",
+      "original": "But this doesn't mean things are going to change, right? We'll still be a student and a teacher?",
+      "translation": "Но это не значит, что все изменится, верно? Мы все равно останемся учеником и учителем?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 13,
+      "speaker": "Plachta",
+      "original": "No, we won't. In this moment, I think something has definitely changed.",
+      "translation": "Нет, мы не будем. В этот момент, я думаю, что-то определенно изменилось."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 14,
+      "speaker": "Sophie",
+      "original": "...What do you mean?",
+      "translation": "...Что ты имеешь в виду?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 15,
+      "speaker": "Plachta",
+      "original": "You've been so good to me, Sophie. You've done so much for me, all these years.",
+      "translation": "Ты была так добра ко мне, Софи. Ты так много сделал для меня за все эти годы."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 16,
+      "speaker": "Plachta",
+      "original": "I am so grateful for all of that. Too grateful for words!",
+      "translation": "Я так благодарен за все это. Слишком благодарен за слова!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 17,
+      "speaker": "Plachta",
+      "original": "But that's also why I'm worried. Worried about you.",
+      "translation": "Но именно поэтому я волнуюсь. Беспокоюсь о тебе."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 18,
+      "speaker": "Plachta",
+      "original": "Sophie. Am I getting in your way? Are you missing out on your own happiness, because of me?",
+      "translation": "Софи. Я мешаю тебе? Ты лишаешь своего счастья из-за меня?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 20,
+      "speaker": "Plachta",
+      "original": "If so, then you've done enough. You've made me as happy as I can possibly be.",
+      "translation": "Если да, то вы сделали достаточно. Ты сделал меня настолько счастливым, насколько это возможно."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 21,
+      "speaker": "Plachta",
+      "original": "For the sake of your own happiness, is it time for us to take different paths?",
+      "translation": "Не пора ли нам пойти разными путями ради собственного счастья?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 22,
+      "speaker": "Sophie",
+      "original": "What!",
+      "translation": "Что!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 23,
+      "speaker": "Plachta",
+      "original": "You know what I mean. Time for you to graduate. We should go our...",
+      "translation": "Если вы понимаете, о чем я. Тебе пора заканчивать учебу. Нам пора идти..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 24,
+      "speaker": "Sophie",
+      "original": "Ughhhh...",
+      "translation": "Уххх..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 25,
+      "speaker": "Plachta",
+      "original": "S-Sophie! I'm not finished yet!",
+      "translation": "С-Софи! Я еще не закончил!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 26,
+      "speaker": "Plachta",
+      "original": "Sophie? Sophie! I'm only thinking of your happiness! That's why I suggested...",
+      "translation": "Софи? Софи! Я думаю только о твоем счастье! Именно поэтому я предложил..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 27,
+      "speaker": "Lydie",
+      "original": "Ah! She's done it now. I can see why Sophie would be angry, putting it like that...",
+      "translation": "Ах! Она сделала это сейчас. Я понимаю, почему Софи рассердится, если сформулировать это так..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_130.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_130.ebm",
+      "index": 28,
+      "speaker": "Sue",
+      "original": "Me too. Plachta is just too blunt sometimes...",
+      "translation": "Я тоже. Плахта иногда бывает слишком прямолинейной..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 0,
+      "speaker": "Plachta",
+      "original": "Oh, Sophie... What did I say wrong?",
+      "translation": "Ох, Софи... Что я сказал не так?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Uwah! Plachta is super depressed!",
+      "translation": "Ува! Плахта в супер депрессии!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 2,
+      "speaker": "Plachta",
+      "original": "Ah, girls! Please help me... Sophie won't listen to a thing I say.",
+      "translation": "Ах, девочки! Пожалуйста, помогите мне... Софи не слушает ничего, что я говорю."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 3,
+      "speaker": "Plachta",
+      "original": "I only proposed what I did because I was thinking of Sophie's future.",
+      "translation": "Я предложил то, что сделал, только потому, что думал о будущем Софи."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 4,
+      "speaker": "Plachta",
+      "original": "Ah, Sophie! We need to finish our conversation...",
+      "translation": "Ах, Софи! Нам нужно закончить наш разговор..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 5,
+      "speaker": "Sophie",
+      "original": "Hah!",
+      "translation": "Ха!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 6,
+      "speaker": "Plachta",
+      "original": "Ah! Aaah!",
+      "translation": "Ах! Ааа!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Hahaha... Sophie doesn't hold back, does she?",
+      "translation": "Ха-ха-ха... Софи не сдерживается, не так ли?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 8,
+      "speaker": "Plachta",
+      "original": "I don't understand this. I truly don't!",
+      "translation": "Я этого не понимаю. Я правда нет!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 9,
+      "speaker": "Plachta",
+      "original": "Does Sophie hate me now? Is that it?",
+      "translation": "Софи меня теперь ненавидит? Это все?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Come on! She could never hate you, Plachta!",
+      "translation": "Ну давай же! Она никогда не сможет тебя ненавидеть, Плахта!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Of course not! Sophie still loves you a lot, even now!",
+      "translation": "Конечно, нет! Софи все еще очень тебя любит, даже сейчас!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "That's exactly why she's acting like this. Can't you see that?",
+      "translation": "Именно поэтому она так себя ведет. Разве ты не видишь этого?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 13,
+      "speaker": "Plachta",
+      "original": "I'm sorry. I just don't understand.",
+      "translation": "Мне жаль. Я просто не понимаю."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 14,
+      "speaker": "Plachta",
+      "original": "Lydie, Suelle! Please! Tell me the answer!",
+      "translation": "Лиди, Сюэль! Пожалуйста! Скажи мне ответ!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 15,
+      "speaker": "Plachta",
+      "original": "I can't believe that not being able to talk to Sophie is so difficult!",
+      "translation": "Не могу поверить, что не иметь возможности поговорить с Софи — это так сложно!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "Uh, I'm really starting to feel sorry for her. But...",
+      "translation": "Ох, мне действительно становится ее жаль. Но..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "I know. We can't tell her. This is Sophie and Plachta's problem.",
+      "translation": "Я знаю. Мы не можем ей сказать. Это проблема Софи и Плахты."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "Plachta. You don't have to worry about anything.",
+      "translation": "Плахта. Вам не о чем беспокоиться."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 20,
+      "speaker": "Lydie",
+      "original": "That's right. You just need to place your hand on your heart and think for yourself.",
+      "translation": "Это верно. Вам просто нужно положить руку на сердце и подумать самостоятельно."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 21,
+      "speaker": "Sue",
+      "original": "Plachta, you're human now. The things you feel when your heart is throbbing the most...",
+      "translation": "Плахта, ты теперь человек. То, что ты чувствуешь, когда твое сердце бьется сильнее всего..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 22,
+      "speaker": "Sue",
+      "original": "Those are your true feelings, Plachta.",
+      "translation": "Вот твои истинные чувства, Плахта."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 23,
+      "speaker": "Plachta",
+      "original": "My true feelings?",
+      "translation": "Мои истинные чувства?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 24,
+      "speaker": "Lydie",
+      "original": "That's enough hints from us! You can handle the rest yourself!",
+      "translation": "Хватит с нас подсказок! Остальное вы можете сделать сами!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 25,
+      "speaker": "Sue",
+      "original": "We'll see you later!",
+      "translation": "Увидимся позже!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_140.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_140.ebm",
+      "index": 26,
+      "speaker": "Plachta",
+      "original": "When my heart is throbbing? My true feelings? I want... for things to stay the same with Sophie!",
+      "translation": "Когда мое сердце бьется? Мои истинные чувства? Я хочу... чтобы с Софи все оставалось по-прежнему!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_150.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_150.ebm",
+      "index": 0,
+      "speaker": "Plachta",
+      "original": "Luard... It's a strange thing, isn't it?",
+      "translation": "Луард... Странная вещь, не правда ли?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_150.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_150.ebm",
+      "index": 1,
+      "speaker": "Alt",
+      "original": "Yes? What?",
+      "translation": "Да? Что?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_150.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_150.ebm",
+      "index": 2,
+      "speaker": "Plachta",
+      "original": "Sophie has surpassed me, and became a wonderful alchemist... Yet I'm so happy about it!",
+      "translation": "Софи превзошла меня и стала замечательным алхимиком... Но я так этому рада!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_150.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_150.ebm",
+      "index": 3,
+      "speaker": "Plachta",
+      "original": "In the past I pushed myself so hard, not wanting to lose to anyone.",
+      "translation": "Раньше я очень старался, не желая никому проигрывать."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_150.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_150.ebm",
+      "index": 4,
+      "speaker": "Plachta",
+      "original": "Yet now, having my student surpass me makes me the happiest I've ever been.",
+      "translation": "И все же теперь, когда мой ученик превзошел меня, я стал самым счастливым человеком, которым я когда-либо был."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_150.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_150.ebm",
+      "index": 5,
+      "speaker": "Alt",
+      "original": "Hehe. I understand that myself. Everything I've experienced changed my thinking, too.",
+      "translation": "Хе-хе. Я это понимаю сам. Все, что я испытал, изменило и мое мышление."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_150.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_150.ebm",
+      "index": 6,
+      "speaker": "Alt",
+      "original": "It seems so clear now, doesn't it? There's no way that we two could hope to master alchemy.",
+      "translation": "Теперь это кажется таким ясным, не так ли? Мы не можем надеяться овладеть алхимией."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_150.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_150.ebm",
+      "index": 7,
+      "speaker": "Alt",
+      "original": "With the passage of time, our alchemy will fade into the past... Progress overtakes us.",
+      "translation": "С течением времени наша алхимия уйдет в прошлое... Прогресс настигает нас."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_150.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_150.ebm",
+      "index": 8,
+      "speaker": "Alt",
+      "original": "That's good. That's the right thing. That's how alchemy evolves.",
+      "translation": "Это хорошо. Это правильно. Так развивается алхимия."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_150.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_150.ebm",
+      "index": 9,
+      "speaker": "Alt",
+      "original": "As we become the past, more people are being saved by alchemy every day.",
+      "translation": "По мере того, как мы уходим в прошлое, каждый день с помощью алхимии спасается все больше людей."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_150.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_150.ebm",
+      "index": 10,
+      "speaker": "Alt",
+      "original": "That's why I'm happy to see us overtaken. If only I'd realized this 500 years ago...",
+      "translation": "Вот почему я рад видеть, что нас обогнали. Если бы я только понял это 500 лет назад..."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_150.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_150.ebm",
+      "index": 11,
+      "speaker": "Plachta",
+      "original": "Indeed. Well said.",
+      "translation": "Действительно. Хорошо сказано."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_150.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_150.ebm",
+      "index": 12,
+      "speaker": "Plachta",
+      "original": "Our role now is to watch over them. To watch over and nurture the youth who will lead the future.",
+      "translation": "Наша роль сейчас – присматривать за ними. Присматривать и воспитывать молодежь, которая будет вести будущее."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_150.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_150.ebm",
+      "index": 13,
+      "speaker": "Alt",
+      "original": "Yes. This will be much harder than just synthesizing stuff! Do you think you can do it?",
+      "translation": "Да. Это будет намного сложнее, чем просто синтезировать вещи! Как вы думаете, вы сможете это сделать?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_150.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_150.ebm",
+      "index": 14,
+      "speaker": "Plachta",
+      "original": "Hah, I was about to ask you the same thing. Can a softy like you really lead people?",
+      "translation": "Ха, я собирался спросить тебя о том же. Может ли такой слабак, как ты, по-настоящему руководить людьми?"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_150.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_150.ebm",
+      "index": 15,
+      "speaker": "Alt",
+      "original": "Huh! If you can do it, there's no way that I can't!",
+      "translation": "Хм! Если вы можете это сделать, то я не смогу этого сделать!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_150.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_150.ebm",
+      "index": 16,
+      "speaker": "Alt",
+      "original": "Anyway. Look at us, both back in living bodies.",
+      "translation": "В любом случае. Посмотрите на нас, оба снова в живых телах."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_150.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_150.ebm",
+      "index": 17,
+      "speaker": "Alt",
+      "original": "Our methods differed, but we can finally collect on an idea that we forgot 500 years ago.",
+      "translation": "Наши методы различались, но мы, наконец, можем собрать воедино идею, которую забыли 500 лет назад."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_150.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_150.ebm",
+      "index": 18,
+      "speaker": "Plachta",
+      "original": "That's right. Something bright, shining, and so important.",
+      "translation": "Это верно. Что-то яркое, сияющее и такое важное."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_150.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_150.ebm",
+      "index": 19,
+      "speaker": "Alt",
+      "original": "The seeds of tomorrow, which can never be forgotten.",
+      "translation": "Семена завтрашнего дня, которые невозможно забыть."
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_150.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_150.ebm",
+      "index": 20,
+      "speaker": "Together",
+      "original": "Hope, for the future!",
+      "translation": "Надеюсь, на будущее!"
+    },
+    "ebm:qc12_pla/event_message_qc12_pla_150.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc12_pla/event_message_qc12_pla_150.ebm",
+      "index": 21,
+      "speaker": "System",
+      "original": "Hope, for the future!",
+      "translation": "Надеюсь, на будущее!"
+    }
+  }
+}

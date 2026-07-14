@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_npc_s60_mess.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:34471937": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s60_mess.xml",
+      "string_no": "34471937",
+      "original": "Hmm... I can’t find any good materials...^00Materials, come on out!",
+      "translation": "Хм... Не могу найти хороших материалов...^00Материалы, выходите!"
+    },
+    "pack02:34471938": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s60_mess.xml",
+      "string_no": "34471938",
+      "original": "*Pant, pant*... I can’t do this anymore...^00Sorry, the rest is up to you...",
+      "translation": "*Вздох, вздох*... Больше не могу...^00Извини, дальше на тебе..."
+    },
+    "pack02:34471939": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s60_mess.xml",
+      "string_no": "34471939",
+      "original": "Materials, come on out!",
+      "translation": "Материалы, выходите!"
+    },
+    "pack02:34471940": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s60_mess.xml",
+      "string_no": "34471940",
+      "original": "*Pant, pant*...",
+      "translation": "*Вздох, вздох*..."
+    },
+    "pack02:34471941": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s60_mess.xml",
+      "string_no": "34471941",
+      "original": "Hang in there, Lydie.^00I’m with you all the way, even when I’m resting.",
+      "translation": "Держись, Лиди.^00Я с тобой до конца, даже когда отдыхаю."
+    },
+    "pack02:34471942": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s60_mess.xml",
+      "string_no": "34471942",
+      "original": "Hang in there!",
+      "translation": "Держись!"
+    }
+  }
+}

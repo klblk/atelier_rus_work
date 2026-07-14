@@ -1,0 +1,3424 @@
+{
+  "version": 1,
+  "source": "pack01_ebm",
+  "block": "yy01",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "ebm:yy01/event_message_yy01_010.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Hey, Sue. Do you mind if I ask you a question?",
+      "translation": "Привет, Сью. Вы не возражаете, если я задам вам вопрос?"
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "What do you think this is?",
+      "translation": "Как вы думаете, что это такое?"
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Oh, that thing we found in the world inside the painting? Hmm, I don't know...",
+      "translation": "О, та штука, которую мы нашли в мире внутри картины? Хм, я не знаю..."
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "...Oh, I've got it! I think it's a piece of something.",
+      "translation": "...О, я понял! Я думаю, это кусок чего-то."
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "I already know that! I'm asking what you think it might be a piece of!",
+      "translation": "Я это уже знаю! Я спрашиваю, что, по вашему мнению, это может быть кусок!"
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Hmm... Off the top of my head, I'd say... a treasure map!",
+      "translation": "Хм... На ум, я бы сказал... карта сокровищ!"
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "Maybe an adventurer long ago hid a priceless treasure, and left this as a guide to its location... Hehe.",
+      "translation": "Возможно, какой-то авантюрист давным-давно спрятал бесценное сокровище и оставил его как путеводитель по его местонахождению... Хе-хе."
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "Hahaha, that's just the sort of thing I thought you'd say, Sue.",
+      "translation": "Ха-ха-ха, я ожидал, что ты скажешь именно это, Сью."
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "I know! Hehe, I'm such a romantic!",
+      "translation": "Я знаю! Хе-хе, я такой романтик!"
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "Hmm... I don't know about romantic... I was going to say greedy.",
+      "translation": "Хм... Не знаю насчет романтического... Я хотел сказать жадного."
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Hmph. Call me greedy if you like, but we all need money to survive.",
+      "translation": "Хм. Если хотите, называйте меня жадным, но нам всем нужны деньги, чтобы выжить."
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "...All right then, what do you think it is, since you're above such worldly concerns?",
+      "translation": "...Хорошо, тогда как ты думаешь, что это такое, раз ты выше таких мирских забот?"
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "I'm glad you asked! In fact, I think it might be a secret alchemy recipe!",
+      "translation": "Я рад, что вы спросили! На самом деле, я думаю, что это может быть секретный алхимический рецепт!"
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "A recipe for a legendary item, written by alchemists of yore! A way to raise our atelier rank!",
+      "translation": "Рецепт легендарного предмета, написанный алхимиками древности! Способ повысить рейтинг нашего ателье!"
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "We'll get so many requests, we'll be rich in no time! Hehe, wouldn't that be something...!",
+      "translation": "Мы получим столько запросов, что разбогатеем в мгновение ока! Хе-хе, разве это не было бы чем-то...!"
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "...Um, Lydie. It sounds like you're every bit as greedy as me.",
+      "translation": "...Эм, Лиди. Похоже, ты такой же жадный, как и я."
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "Huh? ...Ah! F-Forget I said that! It doesn't count, okay?!",
+      "translation": "Хм? ...Ах! Н-забудь, что я это сказал! Это не считается, ясно?!"
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "Haha. I guess we are twins, after all.",
+      "translation": "Хаха. Думаю, мы все-таки близнецы."
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "But back to the matter at hand... Do you think there might be other scraps like this one?",
+      "translation": "Но вернемся к делу... Как вы думаете, могут ли быть еще подобные записки?"
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "Well... I don't know for sure... But it sure seems like there might be.",
+      "translation": "Ну... Я точно не знаю... Но вроде бы так и есть."
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 20,
+      "speaker": "Lydie",
+      "original": "And there's definitely something drawn on it, that might carry on beyond its edges...",
+      "translation": "И на нем определенно что-то нарисовано, что может продолжаться за его краями..."
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 21,
+      "speaker": "Sue",
+      "original": "That's exactly what I was thinking! Plus, it's more exciting to imagine there are others!",
+      "translation": "Именно об этом я и думал! К тому же, еще интереснее представить, что есть и другие!"
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 22,
+      "speaker": "Sue",
+      "original": "Now, since we found this in the world inside a painting, you'd think the others might be...",
+      "translation": "Раз уж мы нашли это в мире внутри картины, можно подумать, что остальные могут быть..."
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 23,
+      "speaker": "Lydie",
+      "original": "...Inside another painting.",
+      "translation": "...Внутри еще одной картины."
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 24,
+      "speaker": "Lydie",
+      "original": "If we could find other scraps of paper, it could lead to a truly historic discovery!",
+      "translation": "Если бы мы смогли найти другие клочки бумаги, это могло бы привести к поистине историческому открытию!"
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 25,
+      "speaker": "Sue",
+      "original": "That's right, Lydie! This piece of paper is the key to untold dreams!",
+      "translation": "Правильно, Лидия! Этот листок бумаги – ключ к несбыточным мечтам!"
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 26,
+      "speaker": "Sue",
+      "original": "Then let's go see if we can't find more of them somewhere!",
+      "translation": "Тогда пойдем посмотрим, не найдем ли мы где-нибудь еще таких!"
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 27,
+      "speaker": "Lydie",
+      "original": "Yes, let's! We'll be the richest sisters in the world!",
+      "translation": "Да, давайте! Мы будем самыми богатыми сестрами в мире!"
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 28,
+      "speaker": "Sue",
+      "original": "...Lydie, I think you're greedier than I am.",
+      "translation": "...Лиди, я думаю, ты более жадная, чем я."
+    },
+    "ebm:yy01/event_message_yy01_010.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_010.ebm",
+      "index": 29,
+      "speaker": "Lydie",
+      "original": "N-No, I'm not!",
+      "translation": "Н-нет, я не такой!"
+    },
+    "ebm:yy01/event_message_yy01_020.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_020.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Hehe... We've collected plenty of those fragments now. It's amazing how many we've found...",
+      "translation": "Хе-хе... Мы уже собрали много таких фрагментов. Удивительно, как много мы нашли..."
+    },
+    "ebm:yy01/event_message_yy01_020.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_020.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Our path to riches is... Huh? If I put this one here, and that one... Ah!",
+      "translation": "Наш путь к богатству - это... А? Если я положу это сюда, а то... Ах!"
+    },
+    "ebm:yy01/event_message_yy01_020.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_020.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Lydie! Lydie!",
+      "translation": "Лиди! Лиди!"
+    },
+    "ebm:yy01/event_message_yy01_020.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_020.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Yes, yes, what is it, Sue? A bug, or something?",
+      "translation": "Да, да, что такое, Сью? Баг или что?"
+    },
+    "ebm:yy01/event_message_yy01_020.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_020.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "I'd be yelling a lot louder if it were a bug! But it is big news!",
+      "translation": "Я бы кричал намного громче, если бы это была ошибка! Но это большая новость!"
+    },
+    "ebm:yy01/event_message_yy01_020.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_020.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "This! Look at this, Lydie! When I line up the edges of the pieces like this...",
+      "translation": "Этот! Посмотри на это, Лиди! Когда я выравниваю края деталей вот так..."
+    },
+    "ebm:yy01/event_message_yy01_020.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_020.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Huh? What happens? ...Oh! The pictures join up!",
+      "translation": "Хм? Что происходит? ...Ой! Картинки соединяются!"
+    },
+    "ebm:yy01/event_message_yy01_020.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_020.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Exactly! They join up perfectly. This is no coincidence.",
+      "translation": "Точно! Они прекрасно соединяются. Это не случайно."
+    },
+    "ebm:yy01/event_message_yy01_020.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_020.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Yeah! Which means... These pieces were all once part of the same picture!",
+      "translation": "Ага! А это значит... Все эти кусочки когда-то были частью одной картины!"
+    },
+    "ebm:yy01/event_message_yy01_020.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_020.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Yes! This is a really, really big discovery! This is earth-shattering news, Lydie!",
+      "translation": "Да! Это действительно большое открытие! Это потрясающая новость, Лиди!"
+    },
+    "ebm:yy01/event_message_yy01_020.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_020.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "...Of course, it means it isn't a treasure map or an alchemy recipe.",
+      "translation": "...Конечно, это значит, что это не карта сокровищ и не алхимический рецепт."
+    },
+    "ebm:yy01/event_message_yy01_020.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_020.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "Haha... I guess we can't do anything about that.",
+      "translation": "Ха-ха... Думаю, мы ничего не можем с этим поделать."
+    },
+    "ebm:yy01/event_message_yy01_020.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_020.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "We should see if we can work out what kind of picture this is...",
+      "translation": "Посмотрим, сможем ли мы понять, что это за картина..."
+    },
+    "ebm:yy01/event_message_yy01_020.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_020.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "Hmm, it's hard to say... We've still only got about half of it, after all...",
+      "translation": "Хм, сложно сказать... Ведь у нас еще только половина..."
+    },
+    "ebm:yy01/event_message_yy01_020.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_020.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "Ooh, I really want to know more! I want to see what the painting is of...!",
+      "translation": "Ох, я действительно хочу знать больше! Я хочу посмотреть, что это за картина...!"
+    },
+    "ebm:yy01/event_message_yy01_020.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_020.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "...Okay, then! We'll just have to gather more pieces, and complete the painting!",
+      "translation": "...Хорошо, тогда! Нам просто нужно собрать больше деталей и завершить картину!"
+    },
+    "ebm:yy01/event_message_yy01_020.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_020.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "We've managed to collect this many. I'm sure we can find more!",
+      "translation": "Нам удалось собрать столько. Я уверен, что мы сможем найти больше!"
+    },
+    "ebm:yy01/event_message_yy01_020.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_020.ebm",
+      "index": 17,
+      "speaker": "Lydie",
+      "original": "Yeah, you're right! There's nothing you and I can't accomplish!",
+      "translation": "Да, ты прав! Нет ничего, чего мы с тобой не смогли бы достичь!"
+    },
+    "ebm:yy01/event_message_yy01_020.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_020.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "Come on, then, Sue. Let's go explore the world inside the paintings!",
+      "translation": "Тогда давай, Сью. Давайте исследовать мир внутри картин!"
+    },
+    "ebm:yy01/event_message_yy01_020.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_020.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "Yeah! Hehe, it's so exciting...! Just you wait! We'll finish it in no time!",
+      "translation": "Ага! Хе-хе, это так интересно...! Просто подожди! Мы закончим это в кратчайшие сроки!"
+    },
+    "ebm:yy01/event_message_yy01_030.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_030.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Sue, Sue. We've collected plenty of painting pieces now.",
+      "translation": "Сью, Сью. Сейчас мы собрали много фрагментов живописи."
+    },
+    "ebm:yy01/event_message_yy01_030.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_030.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Yeah. More than I thought there would be.",
+      "translation": "Ага. Больше, чем я думал."
+    },
+    "ebm:yy01/event_message_yy01_030.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_030.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "I know. It must be a pretty big painting. Shall we see if we can piece them together?",
+      "translation": "Я знаю. Должно быть, это довольно большая картина. Посмотрим, сможем ли мы собрать их воедино?"
+    },
+    "ebm:yy01/event_message_yy01_030.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_030.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Okay. Let's take a look... Huh?",
+      "translation": "Хорошо. Давайте посмотрим... А?"
+    },
+    "ebm:yy01/event_message_yy01_030.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_030.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Is it possible...? Is it possible that we have all the pieces now...?!",
+      "translation": "Является ли это возможным...? Возможно ли, что теперь у нас есть все кусочки...?!"
+    },
+    "ebm:yy01/event_message_yy01_030.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_030.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "It certainly looks that way... Which means, Lydie...!",
+      "translation": "Это действительно так выглядит... А это значит, Лиди...!"
+    },
+    "ebm:yy01/event_message_yy01_030.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_030.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Yes, Sue! We'll finally learn what this painting is of!",
+      "translation": "Да, Сью! Наконец-то мы узнаем, что это за картина!"
+    },
+    "ebm:yy01/event_message_yy01_030.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_030.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Okay, let's lay all the pieces out properly! This piece must go here, and that one there...",
+      "translation": "Хорошо, давайте разложим все детали как следует! Этот кусок должен идти сюда, а тот туда..."
+    },
+    "ebm:yy01/event_message_yy01_030.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_030.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "No, I think that should go over here, shouldn't it? And this one over there...",
+      "translation": "Нет, я думаю, это должно быть здесь, не так ли? А вот этот..."
+    },
+    "ebm:yy01/event_message_yy01_030.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_030.ebm",
+      "index": 9,
+      "speaker": "Together",
+      "original": "We've done it!",
+      "translation": "Мы сделали это!"
+    },
+    "ebm:yy01/event_message_yy01_030.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_030.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "We've done it!",
+      "translation": "Мы сделали это!"
+    },
+    "ebm:yy01/event_message_yy01_030.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_030.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "It took a while, but we've finally completed the painting. It's a landscape, like we figured.",
+      "translation": "Это заняло некоторое время, но мы наконец закончили картину. Как мы и предполагали, это пейзаж."
+    },
+    "ebm:yy01/event_message_yy01_030.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_030.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "Yeah, with a giant tree in the middle. A big tree, a big tree...",
+      "translation": "Да, с гигантским деревом посередине. Большое дерево, большое дерево..."
+    },
+    "ebm:yy01/event_message_yy01_030.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_030.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "...Have you ever seen a tree like this round these parts?",
+      "translation": "...Вы когда-нибудь видели такое дерево в этих местах?"
+    },
+    "ebm:yy01/event_message_yy01_030.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_030.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "Haha... This came from the world within the paintings, so it may not be a real tree... Uwah!",
+      "translation": "Ха-ха... Это пришло из мира на картинах, так что, возможно, это не настоящее дерево... Ух!"
+    },
+    "ebm:yy01/event_message_yy01_030.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_030.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "The painting... It just glowed, didn't it?!",
+      "translation": "Картина... Она просто светилась, не так ли?!"
+    },
+    "ebm:yy01/event_message_yy01_030.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_030.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "Yeah... Ah! Look, Sue! The pieces have all stuck together...!",
+      "translation": "Да... Ах! Смотри, Сью! Все кусочки склеились...!"
+    },
+    "ebm:yy01/event_message_yy01_030.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_030.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "It's become one painting...! But we only placed them there...!",
+      "translation": "Это стало одной картиной...! Но мы лишь разместили их там...!"
+    },
+    "ebm:yy01/event_message_yy01_030.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_030.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "...Sue. Do you think this could be...?",
+      "translation": "...Сью. Как вы думаете, это может быть...?"
+    },
+    "ebm:yy01/event_message_yy01_030.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_030.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "Yeah. I think this is a mysterious painting, too...",
+      "translation": "Ага. Я тоже думаю, что это загадочная картина..."
+    },
+    "ebm:yy01/event_message_yy01_030.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_030.ebm",
+      "index": 20,
+      "speaker": "Sue",
+      "original": "Then let's hang it in the gallery. Maybe we'll be able to travel to a new world!",
+      "translation": "Тогда давай повесим его в галерее. Возможно, мы сможем отправиться в новый мир!"
+    },
+    "ebm:yy01/event_message_yy01_030.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_030.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "Good idea! Come on, let's go to the castle, Sue!",
+      "translation": "Хорошая идея! Давай, пойдем в замок, Сью!"
+    },
+    "ebm:yy01/event_message_yy01_040.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_040.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Excuse us, Mireille. We need to use the gallery!",
+      "translation": "Извините, Мирей. Нам нужно использовать галерею!"
+    },
+    "ebm:yy01/event_message_yy01_040.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_040.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Sorry! We need to hang a new painting!",
+      "translation": "Извини! Нам нужно повесить новую картину!"
+    },
+    "ebm:yy01/event_message_yy01_040.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_040.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "There we go. What do you think?",
+      "translation": "Вот и все. Что вы думаете?"
+    },
+    "ebm:yy01/event_message_yy01_040.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_040.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Hmm, I think it's tilted slightly to the right. Only a tiny bit.",
+      "translation": "Хм, я думаю, что он слегка наклонен вправо. Совсем чуть-чуть."
+    },
+    "ebm:yy01/event_message_yy01_040.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_040.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Roger that! Is that better...?",
+      "translation": "Заметано! Так лучше...?"
+    },
+    "ebm:yy01/event_message_yy01_040.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_040.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Hmm... It really seems to fit in here...",
+      "translation": "Хм... Кажется, сюда действительно подходит..."
+    },
+    "ebm:yy01/event_message_yy01_040.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_040.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "I know! I feel like a brand new adventure is just around the corner...!",
+      "translation": "Я знаю! Я чувствую, что новое приключение уже не за горами...!"
+    },
+    "ebm:yy01/event_message_yy01_040.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_040.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Shall we see if we can go inside it, then?",
+      "translation": "Посмотрим, сможем ли мы войти в него?"
+    },
+    "ebm:yy01/event_message_yy01_040.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_040.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Yeah! ...At least, I'd like to, but we should probably prepare first.",
+      "translation": "Ага! ...По крайней мере, мне бы хотелось, но сначала нам, наверное, следует подготовиться."
+    },
+    "ebm:yy01/event_message_yy01_040.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_040.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "It's not like we've ever had to put a painting together from pieces…",
+      "translation": "Не то чтобы нам когда-либо приходилось собирать картину из кусочков…"
+    },
+    "ebm:yy01/event_message_yy01_040.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_040.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Yeah, that's true. We'd better be prepared for any possibility.",
+      "translation": "Да, это правда. Нам лучше быть готовыми к любой возможности."
+    },
+    "ebm:yy01/event_message_yy01_040.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_040.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Promise with Mom Number 9! \"Always prepare thoroughly for picnics and adventures!\"",
+      "translation": "Обещание маме номер 9! «Всегда тщательно готовьтесь к пикникам и приключениям!»"
+    },
+    "ebm:yy01/event_message_yy01_040.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_040.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "That's right! Then let's get ready as quickly as we can!",
+      "translation": "Это верно! Тогда давайте готовиться как можно быстрее!"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Okay. Are you ready?",
+      "translation": "Хорошо. Вы готовы?"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Oh, sorry... I forgot one thing...",
+      "translation": "Ой, извини... Я забыл одну вещь..."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Oops. Well, I guess the adventure will wait for us! We need to make sure we have all we need!",
+      "translation": "Упс. Что ж, думаю, приключения нас ждут! Нам нужно убедиться, что у нас есть все, что нам нужно!"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Yeah, I'm ready to go! Let's see if...",
+      "translation": "Да, я готов идти! Посмотрим, если..."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Yeah...! Let's see if we can enter the painting!",
+      "translation": "Ага...! Посмотрим, сможем ли мы войти в картину!"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 5,
+      "speaker": "Girl in Love",
+      "original": "A town rooted in a new land. A symbol of the diligence of its people.",
+      "translation": "Город, основанный на новой земле. Символ трудолюбия своего народа."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 6,
+      "speaker": "Girl in Love",
+      "original": "The seed sprouts, with the promise of future bloom. This world grows with the water of new meetings.",
+      "translation": "Семена прорастают, обещая будущее цветение. Этот мир растет водой новых встреч."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 7,
+      "speaker": "Girl in Love",
+      "original": "Born from a miraculous encounter, this land extends its branches to tell a new story.",
+      "translation": "Эта земля, рожденная в результате чудесной встречи, расширяет свои ветви, чтобы рассказать новую историю."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 8,
+      "speaker": "Girl in Love",
+      "original": "Gaining strength from the legacy of the wise men of yore, and hoping for new meetings...",
+      "translation": "Черпая силы из наследия мудрецов былых времен, и надеясь на новые встречи..."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 9,
+      "speaker": "Girl in Love",
+      "original": "The \"Land of Rich Encounters\"... Does its mighty tree house hope, or something else...?",
+      "translation": "«Страна богатых встреч»… Надеется ли ее могучий домик на дереве или что-то еще…?"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Whew. This... Are we inside the painting? So it was a mysterious painting after all.",
+      "translation": "Вот так. Это... Мы внутри картины? Так что это все-таки была загадочная картина."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Yeah! We know a mysterious painting when we see one... Huh?",
+      "translation": "Ага! Мы узнаем загадочную картину, когда видим ее... А?"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "Look, Lydie, look! There's an enormous tree over there!",
+      "translation": "Смотри, Лидия, смотри! Там огромное дерево!"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "Oh, you're right...! That must be the tree from the painting.",
+      "translation": "О, ты прав...! Должно быть, это дерево с картины."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "Yes. It seems somehow even larger than it looked!",
+      "translation": "Да. Кажется, оно даже больше, чем казалось!"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "Yes! It might even be as big as Merveille Castle... Ah.",
+      "translation": "Да! Он может быть даже таким же большим, как замок Мервейля... Ага."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "Sue, I've made a discovery myself... Isn't that a town over there?",
+      "translation": "Сью, я сам сделал открытие... Разве там не город?"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 17,
+      "speaker": "Lydie",
+      "original": "Which means there are probably people living in this world!",
+      "translation": "А это значит, что наверняка в этом мире живут люди!"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "Oh, you're right! Then let's start by heading to the town!",
+      "translation": "О, ты прав! Тогда начнем с поездки в город!"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "Here we are. It's not all that large, but it does seem to be bustling.",
+      "translation": "Вот мы и здесь. Он не такой уж большой, но кажется шумным."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 20,
+      "speaker": "Sue",
+      "original": "Yes. The only other painting I can think of that had a town was \"The Cascades of Anfel\".",
+      "translation": "Да. Единственная картина, о которой я могу вспомнить, где был город, — это «Каскады Анфеля»."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "Oh, yes. Fuoco's town. You're right, though; I can't think of any others.",
+      "translation": "О, да. Город Фуоко. Однако вы правы; Я не могу думать ни о каких других."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 22,
+      "speaker": "???",
+      "original": "Huh...? Lydie, Sue...?",
+      "translation": "Хм...? Лиди, Сью...?"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 23,
+      "speaker": "Lydie",
+      "original": "...Huh?",
+      "translation": "...Хм?"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 24,
+      "speaker": "Sue",
+      "original": "Er, um... Lydie, do you know her...?",
+      "translation": "Э, эм... Лиди, ты ее знаешь...?"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 25,
+      "speaker": "Lydie",
+      "original": "What? Uh, no... I figured she must be a friend of yours...",
+      "translation": "Что? Э-э, нет... Я подумал, что она, должно быть, твоя подруга..."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 26,
+      "speaker": "???",
+      "original": "...I see. This must be before you met me...",
+      "translation": "...Я понимаю. Должно быть, это было до того, как ты встретил меня..."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 27,
+      "speaker": "Lydie",
+      "original": "Huh? Before we met you...?",
+      "translation": "Хм? До того, как мы встретили тебя...?"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 28,
+      "speaker": "???",
+      "original": "Oh, please ignore me. Suffice it to say, I know both of you...",
+      "translation": "О, пожалуйста, игнорируйте меня. Достаточно сказать, что я знаю вас обоих..."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 29,
+      "speaker": "???",
+      "original": "But you don't know me yet. So please allow me to introduce myself.",
+      "translation": "Но ты меня еще не знаешь. Поэтому, пожалуйста, позвольте мне представиться."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 30,
+      "speaker": "Girl in Love",
+      "original": "My name is Nelke. Nelke von Lestamm. I work as a town official here in Westwald.",
+      "translation": "Меня зовут Нельке. Нельке фон Лестамм. Я работаю городским чиновником здесь, в Вествальде."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 31,
+      "speaker": "Sue",
+      "original": "Delighted to meet you, Nelke!",
+      "translation": "Рад знакомству, Нельке!"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:32": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 32,
+      "speaker": "Lydie",
+      "original": "You said you already know us, but still... I'm Lydie, and this is Sue.",
+      "translation": "Ты сказал, что уже знаешь нас, но все же... Я Лиди, а это Сью."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:33": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 33,
+      "speaker": "Sue",
+      "original": "We're alchemists aiming to have the finest atelier in the land. Are you sure it‘s us you know?",
+      "translation": "Мы алхимики, стремящиеся создать лучшее ателье в стране. Ты уверен, что это нас знаешь?"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:34": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 34,
+      "speaker": "Girl in Love",
+      "original": "Oh yes, quite sure. It's unmistakably you.",
+      "translation": "О да, совершенно уверен. Это безошибочно ты."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:35": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 35,
+      "speaker": "Girl in Love",
+      "original": "But you must know nothing about me. So I hope you will get to know me over time.",
+      "translation": "Но вы не должны ничего знать обо мне. Поэтому я надеюсь, что со временем вы познакомитесь со мной."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:36": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 36,
+      "speaker": "Together",
+      "original": "Yes!",
+      "translation": "Да!"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:37": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 37,
+      "speaker": "Sue",
+      "original": "Yes!",
+      "translation": "Да!"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:38": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 38,
+      "speaker": "Lydie",
+      "original": "Well, Nelke... There's a lot I'm curious about, but to begin with...",
+      "translation": "Ну, Нельке... Мне многое интересно, но для начала..."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:39": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 39,
+      "speaker": "Lydie",
+      "original": "How is it you know us?",
+      "translation": "Откуда ты нас знаешь?"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:40": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 40,
+      "speaker": "Sue",
+      "original": "This is the world inside a painting, right? Are we famous here, or something?",
+      "translation": "Это мир внутри картины, верно? Мы здесь знамениты или что-то в этом роде?"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:41": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 41,
+      "speaker": "Sue",
+      "original": "I guess it wouldn't be surprising! After all, we are beautiful and talented alchemist sisters!",
+      "translation": "Думаю, это неудивительно! Ведь мы красивые и талантливые сестры-алхимики!"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:42": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 42,
+      "speaker": "Girl in Love",
+      "original": "Haha... Unfortunately, that's not the case. The fact is, I've met you before.",
+      "translation": "Ха-ха... К сожалению, это не так. Дело в том, что я встречал тебя раньше."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:43": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 43,
+      "speaker": "Girl in Love",
+      "original": "But it seems likely that I met the \"future\" versions of you.",
+      "translation": "Но вполне вероятно, что я встретил вашу «будущую» версию."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:44": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 44,
+      "speaker": "Lydie",
+      "original": "Future versions...?!",
+      "translation": "Будущие версии...?!"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:45": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 45,
+      "speaker": "Sue",
+      "original": "Of us?! W-What are you talking about?!",
+      "translation": "Из нас?! Ч-о чём ты говоришь?!"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:46": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 46,
+      "speaker": "Girl in Love",
+      "original": "As I mentioned before, I am a town official here in Westwald.",
+      "translation": "Как я уже упоминал, я городской чиновник здесь, в Вествальде."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:47": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 47,
+      "speaker": "Girl in Love",
+      "original": "My job is to grow the town... And I enlisted your help, in the future, to do that.",
+      "translation": "Моя работа — развивать город... И я заручился вашей помощью в будущем, чтобы сделать это."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:48": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 48,
+      "speaker": "Sue",
+      "original": "O-Oh... I think I understand...",
+      "translation": "О-о... кажется, я понимаю..."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:49": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 49,
+      "speaker": "Lydie",
+      "original": "I never thought I'd meet someone who knew the future us... It feels kinda weird...",
+      "translation": "Я никогда не думал, что встречу кого-то, кто знает наше будущее... Это как-то странно..."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:50": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 50,
+      "speaker": "Sue",
+      "original": "I know what you mean. But... Hehehe...",
+      "translation": "Я знаю, что ты имеешь в виду. Но... хехехе..."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:51": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 51,
+      "speaker": "Sue",
+      "original": "Nelke! What are we like? In the future, I mean.",
+      "translation": "Нельке! Какие мы? Я имею в виду в будущем."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:52": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 52,
+      "speaker": "Sue",
+      "original": "Naturally we'll be running the greatest atelier in the land... But are we tall and sexy too?",
+      "translation": "Естественно, у нас будет лучшее ателье в стране... Но мы тоже высокие и сексуальные?"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:53": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 53,
+      "speaker": "Lydie",
+      "original": "Oh, I want to know about that, too! Are we, you know, well-proportioned, and all that...?",
+      "translation": "О, я тоже хочу об этом знать! Мы, знаете ли, стройные и все такое...?"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:54": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 54,
+      "speaker": "Girl in Love",
+      "original": "Huh? Well, I... I really shouldn't comment... It's for your own good.",
+      "translation": "Хм? Ну, я... мне действительно не следует комментировать... Это для твоего же блага."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:55": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 55,
+      "speaker": "Girl in Love",
+      "original": "If you know too much about your own future, it might cause you to lose ambition.",
+      "translation": "Если вы слишком много знаете о своем будущем, это может привести к потере амбиций."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:56": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 56,
+      "speaker": "Sue",
+      "original": "Ohh... I guess you're right...",
+      "translation": "Ох... Думаю, ты прав..."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:57": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 57,
+      "speaker": "Lydie",
+      "original": "Yes, that does make sense...",
+      "translation": "Да, это имеет смысл..."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:58": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 58,
+      "speaker": "Lydie",
+      "original": "I don't know what the future holds, but I do want to give all I have right now, Sue!",
+      "translation": "Я не знаю, что ждет меня в будущем, но я хочу отдать все, что у меня есть, прямо сейчас, Сью!"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:59": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 59,
+      "speaker": "Sue",
+      "original": "Yup! You said it, Lydie! Besides, I know our future is bright!",
+      "translation": "Ага! Ты сказала это, Лиди! Кроме того, я знаю, что наше будущее светлое!"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:60": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 60,
+      "speaker": "Girl in Love",
+      "original": "Hehe, I see that your cheerful optimism is the same now as it was, or will be, then.",
+      "translation": "Хе-хе, я вижу, что твой жизнерадостный оптимизм сейчас такой же, каким он был или будет тогда."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:61": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 61,
+      "speaker": "Girl in Love",
+      "original": "...I feel like we got a little sidetracked, but how would you like a tour of this place?",
+      "translation": "...Мне кажется, мы немного отвлеклись, но как бы вы хотели совершить экскурсию по этому месту?"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:62": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 62,
+      "speaker": "Girl in Love",
+      "original": "Is there anything in particular you'd like to know about?",
+      "translation": "Есть ли что-то особенное, о чем вы хотели бы узнать?"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:63": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 63,
+      "speaker": "Lydie",
+      "original": "...Well, I'd like to go and see that enormous tree. I've been curious about it ever since we got here.",
+      "translation": "...Ну, я бы хотел пойти и посмотреть на это огромное дерево. Мне было любопытно это с тех пор, как мы сюда приехали."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:64": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 64,
+      "speaker": "Girl in Love",
+      "original": "Well, that sounds perfect. I was about to tell you all about it anyway.",
+      "translation": "Что ж, это звучит идеально. Я все равно собирался вам обо всем рассказать."
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:65": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 65,
+      "speaker": "Girl in Love",
+      "original": "Shall we go together then...? To the Granzweit Tree?",
+      "translation": "Тогда пойдем вместе?.. К Дереву Гранцвейта?"
+    },
+    "ebm:yy01/event_message_yy01_050.ebm:66": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_050.ebm",
+      "index": 66,
+      "speaker": "Lydie",
+      "original": "The Granzweit Tree...?",
+      "translation": "Дерево Гранцвейта...?"
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 0,
+      "speaker": "Girl in Love",
+      "original": "Here we are. This is...",
+      "translation": "Вот мы и здесь. Это..."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "The Granz-something Tree!",
+      "translation": "Гранц-что-то Дерево!"
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 2,
+      "speaker": "Girl in Love",
+      "original": "...The Granzweit Tree.",
+      "translation": "...Дерево Гранцвейта."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Hehe, it's even bigger up close. The air here is so clear, it feels fantastic...",
+      "translation": "Хе-хе, вблизи он еще больше. Воздух здесь настолько чист, что кажется фантастическим..."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Wow. I could build several houses with just this one tree. Hehe, I can feel a sale coming on...",
+      "translation": "Ух ты. Из одного-единственного дерева я мог бы построить несколько домов. Хе-хе, я чувствую приближение распродажи..."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 5,
+      "speaker": "Girl in Love",
+      "original": "Y-You mustn't try and use it as timber! This tree is vital to this world.",
+      "translation": "Д-не пытайся использовать его как древесину! Это дерево жизненно важно для этого мира."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Vital...? In what way...?",
+      "translation": "Жизненно важный...? Каким образом...?"
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 7,
+      "speaker": "Girl in Love",
+      "original": "This tree is one of the Sage Relics. It is preventing the return of a terrible monster.",
+      "translation": "Это дерево — одна из Реликвий Мудреца. Он препятствует возвращению ужасного монстра."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 8,
+      "speaker": "Girl in Love",
+      "original": "If it is weakened in any way, the monster will return... And this world will be destroyed.",
+      "translation": "Если его каким-либо образом ослабить, чудовище вернется... И этот мир будет разрушен."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "What?! Seriously?! Th-This tree's even more important than I thought...",
+      "translation": "Что?! Серьезно?! Э-это дерево даже важнее, чем я думал..."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "It looks so beautiful, I had no idea... It's a little scary now that I know...",
+      "translation": "Это выглядит так красиво, я понятия не имел... Теперь, когда я это знаю, немного страшно..."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 11,
+      "speaker": "Girl in Love",
+      "original": "I'm sorry if I frightened you. This tree is indeed preventing the return of a terrible beast.",
+      "translation": "Мне жаль, если я напугал тебя. Это дерево действительно препятствует возвращению ужасного зверя."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 12,
+      "speaker": "Girl in Love",
+      "original": "But it is not all so scary. Very rarely, this tree also produces a large fruit.",
+      "translation": "Но не все так страшно. Очень редко это дерево также дает крупные плоды."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "A large... fruit? Can it be eaten?",
+      "translation": "Большой... фрукт? Можно ли это есть?"
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 14,
+      "speaker": "Girl in Love",
+      "original": "Of course. In fact...",
+      "translation": "Конечно. Фактически..."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 15,
+      "speaker": "Girl in Love",
+      "original": "It is the sweetest of all the fruits in the world. One mouthful is enough to enchant you for life.",
+      "translation": "Это самый сладкий из всех фруктов в мире. Одного глотка достаточно, чтобы очаровать вас на всю жизнь."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "Wow... One mouthful, and you're enchanted for life...!",
+      "translation": "Ух ты... Один глоток, и ты очарован на всю жизнь...!"
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "...Lydie! My mouth's watering! I want to eat it! I want that fruit!",
+      "translation": "...Лидия! У меня текут слюнки! Я хочу это съесть! Я хочу этот фрукт!"
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "Hahaha, so do I... But Nelke said it only produces fruit very rarely.",
+      "translation": "Ха-ха-ха, я тоже... Но Нельке сказала, что фрукты приносят очень редко."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "Which means it's unlikely to happen. And even if it did, who's to say we'd get to eat it...?",
+      "translation": "А это значит, что это вряд ли произойдет. И даже если бы это было так, кто сказал, что мы сможем это съесть...?"
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 20,
+      "speaker": "Sue",
+      "original": "Hmm... Then how about this? The two of us help Nelke!",
+      "translation": "Хм... Тогда как насчет этого? Мы вдвоем помогаем Нельке!"
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 21,
+      "speaker": "Sue",
+      "original": "Her job is to grow the town of Westabout, right?",
+      "translation": "Ее работа — развивать город Вестабаут, верно?"
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 22,
+      "speaker": "Lydie",
+      "original": "Westwald, but yes...",
+      "translation": "Вествальд, но да..."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 23,
+      "speaker": "Sue",
+      "original": "That's it! While we wait for the fruit, we'll help her grow the town.",
+      "translation": "Вот и все! Пока мы ждем плодов, мы поможем ей вырастить город."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 24,
+      "speaker": "Sue",
+      "original": "If we do that... Hehehe. She'll be sure to give us some of that fruit!",
+      "translation": "Если мы сделаем это... Хе-хе-хе. Она обязательно подарит нам немного этих фруктов!"
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 25,
+      "speaker": "Lydie",
+      "original": "Hmm, you might be right. But don't you think it's a little self-serving? A little calculating?",
+      "translation": "Хм, возможно, ты прав. Но тебе не кажется, что это немного корыстно? Немного расчетов?"
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 26,
+      "speaker": "Sue",
+      "original": "What's wrong with being calculating?! After all, we're the greedy sisters! Fair work for fair pay!",
+      "translation": "Что плохого в расчете?! В конце концов, мы жадные сестры! Честная работа за достойную оплату!"
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 27,
+      "speaker": "Sue",
+      "original": "Besides... I'm only human! How can I resist after being told how sweet it is?",
+      "translation": "К тому же... Я всего лишь человек! Как я могу устоять после того, как мне сказали, насколько это сладко?"
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 28,
+      "speaker": "Lydie",
+      "original": "Well, yes... I can see that...",
+      "translation": "Ну да... я это вижу..."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 29,
+      "speaker": "Sue",
+      "original": "Then let's be honest about our desires! Oh, Nelke!",
+      "translation": "Тогда давайте будем честны в своих желаниях! О, Нельке!"
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 30,
+      "speaker": "Girl in Love",
+      "original": "Yes? What's the matter?",
+      "translation": "Да? В чем дело?"
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 31,
+      "speaker": "Sue",
+      "original": "We've been thinking, and we have a proposition for you...",
+      "translation": "Мы подумали и у нас есть для вас предложение..."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:32": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 32,
+      "speaker": "Girl in Love",
+      "original": "Hmm. The fruit of the Granzweit Tree in return for helping me develop the town?",
+      "translation": "Хм. Плод Дерева Гранцвейт в обмен на помощь в развитии города?"
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:33": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 33,
+      "speaker": "Lydie",
+      "original": "Yes... I must apologize for being such slaves to our appetites...",
+      "translation": "Да... Я должен извиниться за то, что был таким рабом наших аппетитов..."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:34": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 34,
+      "speaker": "Girl in Love",
+      "original": "Haha, don't be so hard on yourselves.",
+      "translation": "Ха-ха, не будьте так строги к себе."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:35": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 35,
+      "speaker": "Girl in Love",
+      "original": "The development of Westwald is not only my job... It's also my dream.",
+      "translation": "Развитие Вествальда — это не только моя работа… Это еще и моя мечта."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:36": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 36,
+      "speaker": "Girl in Love",
+      "original": "I've enlisted the help of many others already, and I want the town to grow still further.",
+      "translation": "Я уже заручился помощью многих других и хочу, чтобы город рос еще дальше."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:37": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 37,
+      "speaker": "Girl in Love",
+      "original": "So I'm delighted to have your aid, no matter what your motivation may be. Hehe.",
+      "translation": "Поэтому я рад вашей помощи, независимо от вашей мотивации. Хе-хе."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:38": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 38,
+      "speaker": "Sue",
+      "original": "So, you're saying...?",
+      "translation": "Итак, вы говорите...?"
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:39": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 39,
+      "speaker": "Girl in Love",
+      "original": "Yes. I accept your proposition.",
+      "translation": "Да. Я принимаю ваше предложение."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:40": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 40,
+      "speaker": "Girl in Love",
+      "original": "If you help me grow the town, I will reward you with the fruit of the Granzweit Tree.",
+      "translation": "Если ты поможешь мне вырастить город, я вознагражу тебя плодами Дерева Гранцвейт."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:41": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 41,
+      "speaker": "Lydie",
+      "original": "Excellent! Thank you, Nelke!",
+      "translation": "Отличный! Спасибо, Нельке!"
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:42": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 42,
+      "speaker": "Girl in Love",
+      "original": "No, no, thank you. And I must remind you, no one knows when the tree will bear fruit.",
+      "translation": "Нет, нет, спасибо. И я должен вам напомнить, никто не знает, когда дерево принесет плоды."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:43": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 43,
+      "speaker": "Girl in Love",
+      "original": "You may have to wait quite a long time... Are you okay with that?",
+      "translation": "Возможно, вам придется ждать довольно долго... Вас это устраивает?"
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:44": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 44,
+      "speaker": "Sue",
+      "original": "Of course! And until that time, I'll do whatever I can to help you!",
+      "translation": "Конечно! А до этого времени я сделаю все, что смогу, чтобы помочь тебе!"
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:45": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 45,
+      "speaker": "Lydie",
+      "original": "Me too! Just tell me what you need, Nelke!",
+      "translation": "Я тоже! Просто скажи мне, что тебе нужно, Нельке!"
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:46": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 46,
+      "speaker": "Girl in Love",
+      "original": "Hehe, well, I do have one thing in mind already...",
+      "translation": "Хе-хе, ну, я уже кое-что задумал..."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:47": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 47,
+      "speaker": "Girl in Love",
+      "original": "Our stocks of stone used to build the town are running low. I'd like you to find some more stones.",
+      "translation": "Наши запасы камня, использованного для строительства города, заканчиваются. Я хочу, чтобы ты нашел еще несколько камней."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:48": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 48,
+      "speaker": "Lydie",
+      "original": "Stones for building, right? Then they can't just be any old stones.",
+      "translation": "Камни для строительства, да? Тогда это не могут быть просто старые камни."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:49": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 49,
+      "speaker": "Girl in Love",
+      "original": "That's right. They need to be hard and dense.",
+      "translation": "Это верно. Они должны быть твердыми и плотными."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:50": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 50,
+      "speaker": "Girl in Love",
+      "original": "When seen on the map... we tend to find them around this area.",
+      "translation": "Если их увидеть на карте... мы обычно находим их в этой области."
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:51": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 51,
+      "speaker": "Sue",
+      "original": "Understood! Let's get going!",
+      "translation": "Понял! Давайте пойдем!"
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:52": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 52,
+      "speaker": "Sue",
+      "original": "Just you wait, Nelke! We'll get you the sturdiest stones yet!",
+      "translation": "Подожди, Нельке! Мы подарим вам самые крепкие камни!"
+    },
+    "ebm:yy01/event_message_yy01_060.ebm:53": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_060.ebm",
+      "index": 53,
+      "speaker": "Girl in Love",
+      "original": "With you two on the case, I have nothing to worry about. I know I can count on you.",
+      "translation": "Поскольку вы двое занимаетесь этим делом, мне не о чем беспокоиться. Я знаю, что могу на тебя рассчитывать."
+    },
+    "ebm:yy01/event_message_yy01_070.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_070.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Now, then. I think this is the area Nelke told us about.",
+      "translation": "Итак, сейчас. Я думаю, это та область, о которой нам рассказала Нельке."
+    },
+    "ebm:yy01/event_message_yy01_070.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_070.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Yeah. There are nice-looking stones everywhere!",
+      "translation": "Ага. Повсюду красивые камни!"
+    },
+    "ebm:yy01/event_message_yy01_070.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_070.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Hehe. For that tasty fruit, I'll dig up every stone there is here!",
+      "translation": "Хе-хе. Ради этого вкусного плода я выкопаю здесь каждый камень!"
+    },
+    "ebm:yy01/event_message_yy01_070.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_070.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Hahaha, indeed... Hey! Sue, look out!",
+      "translation": "Ха-ха-ха, действительно... Эй! Сью, берегись!"
+    },
+    "ebm:yy01/event_message_yy01_070.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_070.ebm",
+      "index": 4,
+      "speaker": "Monster",
+      "original": "Grruaarghh!",
+      "translation": "Грруааа!"
+    },
+    "ebm:yy01/event_message_yy01_070.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_070.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Uwah, a monster! It's really thrashing about, too!",
+      "translation": "Ух ты, монстр! Это тоже очень трясется!"
+    },
+    "ebm:yy01/event_message_yy01_070.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_070.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Hmm... Somehow, I get the feeling that it's frightened of something...",
+      "translation": "Хм... Почему-то у меня такое ощущение, что оно чего-то напугано..."
+    },
+    "ebm:yy01/event_message_yy01_070.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_070.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Hey! Now's not the time to be worried about that, Lydie! We can't gather stones with that around!",
+      "translation": "Привет! Сейчас не время беспокоиться об этом, Лиди! Мы не можем собирать камни с этим вокруг!"
+    },
+    "ebm:yy01/event_message_yy01_070.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_070.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Come on, we need to defeat it... For Nelke and the future of Westbolt!",
+      "translation": "Давай, нам нужно победить его... Ради Нельке и будущего Вестболта!"
+    },
+    "ebm:yy01/event_message_yy01_070.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_070.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "You've got the name wrong again, but I like your spirit! Let's do it!",
+      "translation": "Ты снова ошибся именем, но мне нравится твой дух! Давай сделаем это!"
+    },
+    "ebm:yy01/event_message_yy01_070.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_070.ebm",
+      "index": 10,
+      "speaker": "Monster",
+      "original": "Grruaarghh!",
+      "translation": "Грруааа!"
+    },
+    "ebm:yy01/event_message_yy01_080.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_080.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Okay, this time! For Wastweld!",
+      "translation": "Хорошо, на этот раз! За Ваствелд!"
+    },
+    "ebm:yy01/event_message_yy01_080.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_080.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Westwald!",
+      "translation": "Вествальд!"
+    },
+    "ebm:yy01/event_message_yy01_080.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_080.ebm",
+      "index": 2,
+      "speaker": "Monster",
+      "original": "Grruaarghh!",
+      "translation": "Грруааа!"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Whew, we somehow managed to get through that. That monster was stronger than I thought...",
+      "translation": "Ух, нам как-то удалось через это пройти. Этот монстр оказался сильнее, чем я думал..."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Hmm, and its behavior is still gnawing at me... What could it have been afraid of...?",
+      "translation": "Хм, а меня до сих пор гложет его поведение... Чего оно могло бояться...?"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Well, we won, so what does it matter? But here's where things get really tough, Lydie!",
+      "translation": "Ну, мы победили, так какое это имеет значение? Но здесь всё становится по-настоящему сложно, Лиди!"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "We have to collect every stone that can be used to build with! Hehe, I'm gonna dig this place up!",
+      "translation": "Нам нужно собрать каждый камень, который можно использовать для строительства! Хе-хе, я раскопаю это место!"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Hey! Be careful, or you'll upset Nelke! You need to fill every hole you dig...!",
+      "translation": "Привет! Будьте осторожны, иначе вы расстроите Нельке! Вам нужно заполнить каждую яму, которую вы выкопаете...!"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "...Whew. We've gathered quite a lot now. I'm so tired...",
+      "translation": "...Ух. Мы уже собрали довольно много. Я так устал..."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "Yup! We've got enough to build a castle here!",
+      "translation": "Ага! У нас достаточно, чтобы построить здесь замок!"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "Well, I don't know about that, but a house, maybe... Ah!",
+      "translation": "Ну, не знаю насчет этого, но дом, может быть... Ах!"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Hm? What's the matter, Lydie? Did you forget something?",
+      "translation": "Хм? В чем дело, Лиди? Ты что-то забыл?"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "No, it's just... I was wondering...",
+      "translation": "Нет, просто... мне интересно..."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "How are we going to carry these stones back to town?",
+      "translation": "Как мы собираемся отнести эти камни обратно в город?"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "...Ah.",
+      "translation": "...Ах."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "...All right, then! Let's go ask Nelke what she wants us to do next!",
+      "translation": "...Ну ладно! Давай спросим Нельке, что она хочет, чтобы мы сделали дальше!"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "Sue! You mustn't close your eyes to reality!",
+      "translation": "Сью! Не стоит закрывать глаза на реальность!"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "Oh, but, but...! We'll never be able to carry this many!",
+      "translation": "Ой, но, но...! Мы никогда не сможем унести такое количество!"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "Come on! Don't forget: Promise with Mom Number 1! \"Don't give up before you even try\"!",
+      "translation": "Ну давай же! Не забудьте: Обещание маме номер 1! «Не сдавайся, даже не попробовав»!"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "Gah...",
+      "translation": "Га..."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "It won't be easy, I know... But we accepted this request.",
+      "translation": "Я знаю, это будет нелегко... Но мы приняли эту просьбу."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "It's our responsibility to see it through to the end. Besides, Sue...",
+      "translation": "Наша обязанность — довести дело до конца. Кроме того, Сью..."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 20,
+      "speaker": "Lydie",
+      "original": "If we abandon a request halfway through, we won't get any fruit. If that's what you want, then...",
+      "translation": "Если мы откажемся от запроса на полпути, мы не получим никаких плодов. Если ты этого хочешь, то..."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 21,
+      "speaker": "Sue",
+      "original": "Ugh... That... That would not be good.",
+      "translation": "Ух... Это... Это было бы нехорошо."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 22,
+      "speaker": "Lydie",
+      "original": "I didn't think so. So come on, then... Huh?",
+      "translation": "Я так не думал. Так давай тогда... А?"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 23,
+      "speaker": "Girl in Love",
+      "original": "Hello, you two!",
+      "translation": "Привет, вы двое!"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 24,
+      "speaker": "Sue",
+      "original": "Nelke! What are you doing here?!",
+      "translation": "Нельке! Что ты здесь делаешь?!"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 25,
+      "speaker": "Girl in Love",
+      "original": "I figured you'd just about be finished with the stones... My! Look how many you've gathered.",
+      "translation": "Я полагал, что ты уже закончил с камнями... Боже! Посмотрите, сколько вы собрали."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 26,
+      "speaker": "Lydie",
+      "original": "Yes. The problem is... we don't know how to carry them all back...",
+      "translation": "Да. Проблема в том, что... мы не знаем, как вернуть их всех обратно..."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 27,
+      "speaker": "Girl in Love",
+      "original": "Oh, I should have mentioned. The people of the town will carry them for you.",
+      "translation": "О, я должен был упомянуть. Жители города понесут их для вас."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 28,
+      "speaker": "Sue",
+      "original": "Oh, well, that changes everything. I'm glad we didn't start carrying them ourselves...",
+      "translation": "Ох, ну это все меняет. Я рада, что мы не стали их носить сами..."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 29,
+      "speaker": "Lydie",
+      "original": "Hahaha, that's true... It was a close one.",
+      "translation": "Ха-ха-ха, это правда... Это было близко."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 30,
+      "speaker": "Lydie",
+      "original": "To be honest, I was planning on leaving most of the carrying to you, Sue...",
+      "translation": "Честно говоря, я планировал оставить большую часть переноски тебе, Сью..."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 31,
+      "speaker": "Sue",
+      "original": "What?! After you guilt-tripped me into it?!",
+      "translation": "Что?! После того, как ты втянул меня в это из-за чувства вины?!"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:32": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 32,
+      "speaker": "Sue",
+      "original": "You're so mean and nasty! You're the devil incarnate!",
+      "translation": "Ты такой злой и противный! Ты воплощение дьявола!"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:33": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 33,
+      "speaker": "Lydie",
+      "original": "Sorry, sorry! I'll make you some pancakes later to make up for it, okay?",
+      "translation": "Извините, извините! Я приготовлю тебе блинов позже, чтобы компенсировать это, ладно?"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:34": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 34,
+      "speaker": "Sue",
+      "original": "Hmm... I'll forgive you if you cover them in lashings of honey!",
+      "translation": "Хм... Я прощу тебя, если ты покроешь их медом!"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:35": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 35,
+      "speaker": "Girl in Love",
+      "original": "Hehe. You two seem to be getting along as well as you always did.",
+      "translation": "Хе-хе. Вы двое, кажется, ладите так же хорошо, как и всегда."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:36": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 36,
+      "speaker": "Girl in Love",
+      "original": "Oh, I only know the future you, so I guess \"as well as you always did\" isn't really appropriate...",
+      "translation": "О, я знаю только твое будущее, так что, думаю, «так хорошо, как ты всегда» не совсем уместно…"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:37": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 37,
+      "speaker": "Lydie",
+      "original": "Oh, so Sue and I get along well in the future too?",
+      "translation": "О, так мы со Сью и в будущем тоже хорошо поладим?"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:38": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 38,
+      "speaker": "Sue",
+      "original": "Haha, of course we do! How could we ever fall out?",
+      "translation": "Ха-ха, конечно, делаем! Как мы могли когда-нибудь поссориться?"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:39": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 39,
+      "speaker": "Lydie",
+      "original": "I guess you're right. We are always together, after all!",
+      "translation": "Я думаю, ты прав. Ведь мы всегда вместе!"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:40": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 40,
+      "speaker": "Girl in Love",
+      "original": "Hehe... The bonds that tie you two really are unbreakable!",
+      "translation": "Хе-хе... Узы, связывающие вас двоих, действительно нерушимы!"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:41": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 41,
+      "speaker": "Girl in Love",
+      "original": "Well, it's about time to head back to town. You must be tired.",
+      "translation": "Что ж, пора возвращаться в город. Вы, должно быть, устали."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:42": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 42,
+      "speaker": "Girl in Love",
+      "original": "Just leave the rest to the townsfolk... Huh?!",
+      "translation": "Остальное оставьте горожанам... А?!"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:43": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 43,
+      "speaker": "Lydie",
+      "original": "Woah... What's happening?!",
+      "translation": "Вау... Что происходит?!"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:44": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 44,
+      "speaker": "Sue",
+      "original": "It's stopped... What was that? An earthquake?",
+      "translation": "Оно остановилось... Что это было? Землетрясение?"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:45": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 45,
+      "speaker": "Girl in Love",
+      "original": "Yes... There have been rather a lot of them recently.",
+      "translation": "Да... Их в последнее время стало довольно много."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:46": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 46,
+      "speaker": "Girl in Love",
+      "original": "They appear to be centered on the Granzweit Tree, but no one knows why.",
+      "translation": "Кажется, что они сосредоточены на Дереве Гранцвейта, но никто не знает почему."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:47": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 47,
+      "speaker": "Girl in Love",
+      "original": "I have a theory that they are related to the black monsters that have recently appeared...",
+      "translation": "У меня есть теория, что они связаны с недавно появившимися черными монстрами..."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:48": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 48,
+      "speaker": "Lydie",
+      "original": "Black... monsters?! Sue, that sounds like...",
+      "translation": "Черные... монстры?! Сью, это звучит как..."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:49": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 49,
+      "speaker": "Sue",
+      "original": "Remplir?! Nelke, I think we know what this might be...!",
+      "translation": "Ремплир?! Нельке, думаю, мы знаем, что это может быть...!"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:50": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 50,
+      "speaker": "Girl in Love",
+      "original": "I never knew such things existed... In that case, things may be worse than I thought.",
+      "translation": "Я никогда не знал, что такие вещи существуют... В таком случае все может быть хуже, чем я думал."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:51": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 51,
+      "speaker": "Girl in Love",
+      "original": "As I explained, the Granzweit Tree is a Sage's Relic, whose role is to thwart a certain monster.",
+      "translation": "Как я объяснил, Дерево Гранцвейта — это Реликвия Мудреца, чья роль состоит в том, чтобы помешать определенному монстру."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:52": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 52,
+      "speaker": "Girl in Love",
+      "original": "If the Remplir weaken the tree, then it may not be able to do that...",
+      "translation": "Если Ремплиры ослабят дерево, то оно, возможно, не сможет этого сделать..."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:53": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 53,
+      "speaker": "Lydie",
+      "original": "What you're saying is... that monster may return.",
+      "translation": "Вы говорите, что... этот монстр может вернуться."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:54": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 54,
+      "speaker": "Girl in Love",
+      "original": "Yes...",
+      "translation": "Да..."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:55": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 55,
+      "speaker": "Sue",
+      "original": "But...! But if that happened, the town, it would be...!",
+      "translation": "Но...! Но если бы такое случилось, город, это был бы...!"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:56": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 56,
+      "speaker": "Lydie",
+      "original": "Urgh... But to defeat all the Remplir would be terribly difficult...",
+      "translation": "Ух... Но победить всех Ремплиров будет ужасно сложно..."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:57": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 57,
+      "speaker": "Sue",
+      "original": "Yes... We maybe able to do it, but it would take a very long time.",
+      "translation": "Да... Возможно, мы сможем это сделать, но это займет очень много времени."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:58": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 58,
+      "speaker": "Lydie",
+      "original": "Perhaps it would be better to find another way.",
+      "translation": "Возможно, было бы лучше найти другой путь."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:59": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 59,
+      "speaker": "Girl in Love",
+      "original": "Another way...?",
+      "translation": "Другой способ...?"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:60": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 60,
+      "speaker": "Sue",
+      "original": "Yes. For example... We could make a tool to enhance the tree's ability to block the monster!",
+      "translation": "Да. Например... Мы могли бы создать инструмент, который усилит способность дерева блокировать монстра!"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:61": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 61,
+      "speaker": "Lydie",
+      "original": "Ah! That's brilliant, Sue! Remplir exist in other worlds, too.",
+      "translation": "Ах! Это гениально, Сью! Ремплиры существуют и в других мирах."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:62": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 62,
+      "speaker": "Lydie",
+      "original": "They're only really a problem when there are too many, but that isn't the case here...",
+      "translation": "На самом деле они представляют собой проблему только тогда, когда их слишком много, но здесь это не тот случай..."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:63": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 63,
+      "speaker": "Sue",
+      "original": "Exactly. What we have to avoid at all costs is the return of this monster.",
+      "translation": "Точно. Чего нам следует избегать любой ценой, так это возвращения этого монстра."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:64": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 64,
+      "speaker": "Sue",
+      "original": "In which case, that's what we need to focus on, by strengthening the tree's magic!",
+      "translation": "В таком случае, именно на этом нам и нужно сосредоточиться, усиливая магию дерева!"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:65": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 65,
+      "speaker": "Girl in Love",
+      "original": "I see... So simple, but practical and instantly effective.",
+      "translation": "Понятно... Так просто, но практично и мгновенно эффективно."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:66": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 66,
+      "speaker": "Girl in Love",
+      "original": "In that case... You should have this.",
+      "translation": "В таком случае... Тебе должно быть это."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:67": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 67,
+      "speaker": "Sue",
+      "original": "Hm? Is this... a recipe?",
+      "translation": "Хм? Это... рецепт?"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:68": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 68,
+      "speaker": "Lydie",
+      "original": "...Um, it looks like a recipe for some sort of nutrient...",
+      "translation": "...Эм, это похоже на рецепт какого-то питательного вещества..."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:69": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 69,
+      "speaker": "Girl in Love",
+      "original": "Exactly right. This is the recipe for a special nutrient used on the Granzweit Tree.",
+      "translation": "Совершенно верно. Это рецепт специального питательного вещества, используемого на дереве Гранцвейт."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:70": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 70,
+      "speaker": "Girl in Love",
+      "original": "The tree's magic weakened once before, and this is what was used then.",
+      "translation": "Магия дерева однажды ослабла, и тогда было использовано именно это."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:71": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 71,
+      "speaker": "Girl in Love",
+      "original": "If we can provide the tree with nutrients, it will help prevent the return of the monster.",
+      "translation": "Если мы сможем обеспечить дерево питательными веществами, это поможет предотвратить возвращение монстра."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:72": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 72,
+      "speaker": "Lydie",
+      "original": "Mm. That sounds perfect! Leave the alchemy to us, okay?",
+      "translation": "Мм. Это звучит идеально! Оставь алхимию нам, ладно?"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:73": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 73,
+      "speaker": "Girl in Love",
+      "original": "I was hoping you'd say that... You really don't mind?",
+      "translation": "Я надеялся, что ты это скажешь... Ты правда не против?"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:74": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 74,
+      "speaker": "Sue",
+      "original": "Of course not! Just give us a little time, okay, Nelke?",
+      "translation": "Конечно, нет! Просто дай нам немного времени, ладно, Нельке?"
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:75": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 75,
+      "speaker": "Girl in Love",
+      "original": "Sure. I can't use alchemy myself, so you are our only hope...",
+      "translation": "Конечно. Я сам не умею пользоваться алхимией, так что ты наша единственная надежда..."
+    },
+    "ebm:yy01/event_message_yy01_090.ebm:76": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_090.ebm",
+      "index": 76,
+      "speaker": "Girl in Love",
+      "original": "Please, we need you to save Westwald, and save this world!",
+      "translation": "Пожалуйста, нам нужно, чтобы вы спасли Вествальд и спасли этот мир!"
+    },
+    "ebm:yy01/event_message_yy01_100.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_100.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Nelke! We've completed the nutrient you wanted!",
+      "translation": "Нельке! Мы подготовили необходимое вам питательное вещество!"
+    },
+    "ebm:yy01/event_message_yy01_100.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_100.ebm",
+      "index": 1,
+      "speaker": "Girl in Love",
+      "original": "Thank you so much, Lydie, Sue!",
+      "translation": "Огромное спасибо, Лиди, Сью!"
+    },
+    "ebm:yy01/event_message_yy01_100.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_100.ebm",
+      "index": 2,
+      "speaker": "Girl in Love",
+      "original": "This should be enough to strengthen the magic of the Granzweit Tree... Kya!",
+      "translation": "Этого должно быть достаточно, чтобы усилить магию Дерева Гранцвейта... Кья!"
+    },
+    "ebm:yy01/event_message_yy01_100.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_100.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Woah, another earthquake?! It's bigger than before...!",
+      "translation": "Ого, еще одно землетрясение?! Это больше, чем раньше...!"
+    },
+    "ebm:yy01/event_message_yy01_100.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_100.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "You don't think...?! You don't think something's happened to the Granzweit Tree...?!",
+      "translation": "Вы не думаете...?! Вы же не думаете, что с Деревом Гранцвейта что-то случилось...?!"
+    },
+    "ebm:yy01/event_message_yy01_100.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_100.ebm",
+      "index": 5,
+      "speaker": "Girl in Love",
+      "original": "...Perhaps! We must go and see for ourselves at once!",
+      "translation": "...Возможно! Мы должны немедленно пойти и увидеть все своими глазами!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 0,
+      "speaker": "Gossiping Peddler",
+      "original": "Grraaghh!",
+      "translation": "Урааа!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Remplir are attacking the tree...?!",
+      "translation": "Ремплиры атакуют дерево...?!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Uwah! Th-This is big trouble!",
+      "translation": "Ува! Э-это большая беда!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 3,
+      "speaker": "Girl in Love",
+      "original": "Its magic will be weakened...! Lydie, Sue! The nutrient, quickly!",
+      "translation": "Его магия ослабнет...! Лиди, Сью! Питательное вещество, быстро!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "O-Of course!",
+      "translation": "О-Конечно!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "This should do it... Woah!",
+      "translation": "Это должно сработать... Вау!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 6,
+      "speaker": "Dairy Farmer",
+      "original": "Graaaaahhh!",
+      "translation": "Граааааа!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "Wh-What is that thing...?!",
+      "translation": "Ч-что это за штука...?!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 8,
+      "speaker": "Girl in Love",
+      "original": "Siegel...!",
+      "translation": "Сигел...!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Siegel...? That's the monster that the tree was holding at bay?!",
+      "translation": "Сигел...? Это монстр, которого дерево сдерживало?!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 10,
+      "speaker": "Girl in Love",
+      "original": "Yes, that's right...!",
+      "translation": "Да, именно так...!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 11,
+      "speaker": "Girl in Love",
+      "original": "Ugh, I made a terrible mistake... The tree had been weakened more than I realized...!",
+      "translation": "Ух, я совершил ужасную ошибку... Дерево ослабло сильнее, чем я предполагал...!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 12,
+      "speaker": "Girl in Love",
+      "original": "Lydie, Sue... Run. You must protect yourselves.",
+      "translation": "Лиди, Сью... Бегите. Вы должны защитить себя."
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "What?!",
+      "translation": "Что?!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 14,
+      "speaker": "Girl in Love",
+      "original": "Siegel is immensely strong. Tackling him head-on is a fool's errand...!",
+      "translation": "Сигел невероятно силен. Сразиться с ним в лоб – это глупая затея...!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 15,
+      "speaker": "Girl in Love",
+      "original": "I may not be able to defeat him, but I can buy time. You must use it to flee...!",
+      "translation": "Возможно, я не смогу победить его, но я могу выиграть время. Вы должны использовать его, чтобы сбежать...!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "...No!",
+      "translation": "...Нет!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 17,
+      "speaker": "Girl in Love",
+      "original": "Sue...?",
+      "translation": "Сью...?"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "I refuse to go, too! We could never leave you here and save ourselves!",
+      "translation": "Я тоже отказываюсь идти! Мы никогда не сможем оставить тебя здесь и спасти себя!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 19,
+      "speaker": "Girl in Love",
+      "original": "But...!",
+      "translation": "Но...!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 20,
+      "speaker": "Sue",
+      "original": "This place is important to you, right?",
+      "translation": "Это место важно для тебя, верно?"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 22,
+      "speaker": "Lydie",
+      "original": "Your dream is for Westwald to grow into a grand city, right?!",
+      "translation": "Вы мечтаете, чтобы Вествальд превратился в великий город, верно?!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 23,
+      "speaker": "Girl in Love",
+      "original": "Y-Yes, that's right, but...",
+      "translation": "Д-да, это так, но..."
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 24,
+      "speaker": "Sue",
+      "original": "In that case, you have to let us defend it for you! We can't let that monster have its way!",
+      "translation": "В этом случае вы должны позволить нам защитить его за вас! Мы не можем позволить этому монстру добиться своего!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 25,
+      "speaker": "Lydie",
+      "original": "Exactly! We won't let any old monster ruin your dream!",
+      "translation": "Точно! Мы не позволим никакому старому монстру разрушить вашу мечту!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 26,
+      "speaker": "Girl in Love",
+      "original": "Lydie...! Sue...!",
+      "translation": "Лиди...! Сью...!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 27,
+      "speaker": "Lydie",
+      "original": "Come on, Sue! Time to focus!",
+      "translation": "Давай, Сью! Время сосредоточиться!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 28,
+      "speaker": "Sue",
+      "original": "I know! Let's show them what alchemists are capable of, and save this world!",
+      "translation": "Я знаю! Давайте покажем им, на что способны алхимики, и спасем этот мир!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 29,
+      "speaker": "Dairy Farmer",
+      "original": "Gworrghh!",
+      "translation": "Ухх!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 30,
+      "speaker": "Girl in Love",
+      "original": "...! Here he comes!",
+      "translation": "...! Вот он идет!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 31,
+      "speaker": "Together",
+      "original": "...Let's do this!",
+      "translation": "...Давайте сделаем это!"
+    },
+    "ebm:yy01/event_message_yy01_110.ebm:32": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_110.ebm",
+      "index": 32,
+      "speaker": "Sue",
+      "original": "...Let's do this!",
+      "translation": "...Давайте сделаем это!"
+    },
+    "ebm:yy01/event_message_yy01_120.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_120.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "I'll never give up, no matter how long it takes...!",
+      "translation": "Я никогда не сдамся, сколько бы времени это ни заняло...!"
+    },
+    "ebm:yy01/event_message_yy01_120.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_120.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Me neither! To protect this place so dear to Nelke...",
+      "translation": "И я нет! Чтобы защитить это место, столь дорогое Нельке..."
+    },
+    "ebm:yy01/event_message_yy01_120.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_120.ebm",
+      "index": 2,
+      "speaker": "Together",
+      "original": "We'll never lose!",
+      "translation": "Мы никогда не проиграем!"
+    },
+    "ebm:yy01/event_message_yy01_120.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_120.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "We'll never lose!",
+      "translation": "Мы никогда не проиграем!"
+    },
+    "ebm:yy01/event_message_yy01_120.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_120.ebm",
+      "index": 4,
+      "speaker": "Dairy Farmer",
+      "original": "Gworrghh!",
+      "translation": "Ухх!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 0,
+      "speaker": "Dairy Farmer",
+      "original": "Guarrghh...!",
+      "translation": "Урааа...!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Hah, hah... We did it...?!",
+      "translation": "Ха-ха... Мы сделали это...?!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Looks that way...! Great job, Lydie!",
+      "translation": "Выглядит так...! Отличная работа, Лидия!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 3,
+      "speaker": "Girl in Love",
+      "original": "Th-That was amazing...! I can't believe you could beat Siegel...!",
+      "translation": "Э-это было потрясающе...! Я не могу поверить, что ты смог победить Сигела...!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Hehe. Well, we were motivated. It was for you!",
+      "translation": "Хе-хе. Что ж, мы были мотивированы. Это было для тебя!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 5,
+      "speaker": "Girl in Love",
+      "original": "For me...?",
+      "translation": "Для меня...?"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "Yes! To protect your precious Westwald!",
+      "translation": "Да! Чтобы защитить ваш драгоценный Вествальд!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 7,
+      "speaker": "Girl in Love",
+      "original": "Ah... Yes, I suppose it was.",
+      "translation": "Ах... Да, я думаю, так оно и было."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 8,
+      "speaker": "Girl in Love",
+      "original": "You alchemists... I forgot what you were like...!",
+      "translation": "Вы, алхимики... Я забыл, какие вы были...!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 9,
+      "speaker": "Girl in Love",
+      "original": "Thank you so much, both of you! Thanks to you, the town is safe.",
+      "translation": "Огромное спасибо вам обоим! Благодаря вам город в безопасности."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 10,
+      "speaker": "Girl in Love",
+      "original": "I must keep working, to make it more prosperous than... Uh-oh!",
+      "translation": "Я должен продолжать работать, чтобы сделать его более процветающим, чем... Ой-ой!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "W-Woah! The tree... It's glowing...!",
+      "translation": "В-вау! Дерево... Оно светится...!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "Wh-What's happening?! It's not Siegel again, is it...?!",
+      "translation": "Ч-что происходит?! Это снова не Сигел, не так ли...?!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 13,
+      "speaker": "Girl in Love",
+      "original": "No, this is...!",
+      "translation": "Нет, это...!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "The Granzweit Tree... Is it bearing fruit?!",
+      "translation": "Дерево Гранцвейта... Оно приносит плоды?!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 15,
+      "speaker": "Girl in Love",
+      "original": "Yes...! And it's perfectly ripe and ready for eating!",
+      "translation": "Да...! И он совершенно спелый и готов к употреблению!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "Really?! Hehe, look at them all...!",
+      "translation": "Действительно?! Хе-хе, посмотри на них всех...!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 17,
+      "speaker": "Lydie",
+      "original": "Isn't this wonderful, Sue?! But why would it produce fruit so suddenly? Because of Siegel?",
+      "translation": "Разве это не чудесно, Сью?! Но почему оно так внезапно принесло плоды? Из-за Сигела?"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 18,
+      "speaker": "Girl in Love",
+      "original": "Yes. And because of the nutrient. The nutrient normally works to strengthen the tree's magic.",
+      "translation": "Да. И из-за питательных веществ. Питательное вещество обычно усиливает магию дерева."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 19,
+      "speaker": "Girl in Love",
+      "original": "But with Siegel defeated, the nutrient's effects were felt elsewhere.",
+      "translation": "Но после поражения Сигела эффект питательного вещества ощущался и в других местах."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 20,
+      "speaker": "Girl in Love",
+      "original": "With nutrients coursing through its sap, the tree produced fruit instead. Hehe...",
+      "translation": "Благодаря питательным веществам, проходившим через его сок, дерево вместо этого приносило плоды. Хе-хе..."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 21,
+      "speaker": "Girl in Love",
+      "original": "Which means, this tremendous harvest is all thanks to you two.",
+      "translation": "А это значит, что этот колоссальный урожай – все благодаря вам двоим."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 22,
+      "speaker": "Sue",
+      "original": "Really...? I don't fully understand, but it sounds great!",
+      "translation": "Действительно...? Я не до конца понимаю, но звучит здорово!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 23,
+      "speaker": "Girl in Love",
+      "original": "Yes. You really did both do wonderfully well.",
+      "translation": "Да. Вы действительно справились с обеими задачами на удивление хорошо."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 24,
+      "speaker": "Girl in Love",
+      "original": "And now, I must fulfill my end of the bargain. Here you are.",
+      "translation": "И теперь я должен выполнить свою часть сделки. Вот, пожалуйста."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 25,
+      "speaker": "Lydie",
+      "original": "The fruit...?! Are you sure we can eat it?!",
+      "translation": "Фрукты...?! Ты уверен, что мы сможем это съесть?!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 26,
+      "speaker": "Sue",
+      "original": "That's right! We've hardly helped with the town at all yet...",
+      "translation": "Это верно! С городом мы пока почти не помогали..."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 27,
+      "speaker": "Girl in Love",
+      "original": "Without you, the town would have been swallowed whole by Siegel.",
+      "translation": "Без вас Сигел поглотил бы город целиком."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 28,
+      "speaker": "Girl in Love",
+      "original": "Please eat as much as you wish. After all, this is the greatest harvest ever.",
+      "translation": "Пожалуйста, ешьте столько, сколько хотите. Ведь это самый большой урожай за всю историю."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 29,
+      "speaker": "Lydie",
+      "original": "Thank you...! Ready, Sue?",
+      "translation": "Спасибо...! Готова, Сью?"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 30,
+      "speaker": "Sue",
+      "original": "Ready, Lydie!",
+      "translation": "Готова, Лидия!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 31,
+      "speaker": "Together",
+      "original": "Let's eat!",
+      "translation": "Давайте есть!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:32": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 32,
+      "speaker": "Sue",
+      "original": "Let's eat!",
+      "translation": "Давайте есть!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:33": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 33,
+      "speaker": "Sue",
+      "original": "Whee, I ate so much... I've never been so full...",
+      "translation": "Ух, я так много ел... Я никогда не был таким сытым..."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:34": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 34,
+      "speaker": "Lydie",
+      "original": "Wow, look at your stomach, Sue. You look like you've got a Puni in there!",
+      "translation": "Ух ты, посмотри на свой живот, Сью. У тебя такой вид, будто у тебя там пуни!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:35": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 35,
+      "speaker": "Sue",
+      "original": "D-Don't be ridiculous! Is that any way to talk to a lady?",
+      "translation": "Д-Не смеши! Это какой-нибудь способ поговорить с дамой?"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:36": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 36,
+      "speaker": "Lydie",
+      "original": "Haha, sorry. But we only ate so much because they tasted so good.",
+      "translation": "Хаха, извини. Но мы ели так много только потому, что они были такими вкусными."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:37": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 37,
+      "speaker": "Girl in Love",
+      "original": "Hehe. I'm just glad you had the opportunity to taste it.",
+      "translation": "Хе-хе. Я просто рад, что у вас была возможность попробовать его."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:38": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 38,
+      "speaker": "Lydie",
+      "original": "We did more than that! Thank you so much, Nelke!",
+      "translation": "Мы сделали больше, чем это! Огромное спасибо, Нельке!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:39": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 39,
+      "speaker": "Sue",
+      "original": "Thank you! It was soooo good!",
+      "translation": "Спасибо! Это было так хорошо!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:40": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 40,
+      "speaker": "Sue",
+      "original": "Lydie, we'll have to work much harder to help Nelke develop her town to pay her back!",
+      "translation": "Лиди, нам придется работать еще усерднее, чтобы помочь Нельке развивать ее город и отплатить ей тем же!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:41": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 41,
+      "speaker": "Lydie",
+      "original": "Absolutely, Sue! We'll give it all we've got!",
+      "translation": "Абсолютно, Сью! Мы отдадим все, что у нас есть!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:42": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 42,
+      "speaker": "Girl in Love",
+      "original": "What...? You still want to help the town..?",
+      "translation": "Что...? Ты все еще хочешь помочь городу?"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:43": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 43,
+      "speaker": "Sue",
+      "original": "Of course we do! All we've done so far is collect some stones.",
+      "translation": "Конечно, мы делаем! Все, что мы пока сделали, это собрали несколько камней."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:44": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 44,
+      "speaker": "Lydie",
+      "original": "Yeah! We can't just go home now that we've eaten the fruit!",
+      "translation": "Ага! Мы не можем просто пойти домой теперь, когда съели фрукты!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:45": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 45,
+      "speaker": "Lydie",
+      "original": "We're ready to do much more! Just tell us what you need, Nelke!",
+      "translation": "Мы готовы сделать гораздо больше! Просто скажи нам, что тебе нужно, Нельке!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:46": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 46,
+      "speaker": "Girl in Love",
+      "original": "Well! Hehe, I am impressed with you, Lydie and Sue.",
+      "translation": "Хорошо! Хе-хе, вы меня впечатлили, Лиди и Сью."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:47": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 47,
+      "speaker": "Girl in Love",
+      "original": "You were among the youngest of all the alchemists who helped with the town...",
+      "translation": "Вы были одним из самых молодых алхимиков, которые помогали городу..."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:48": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 48,
+      "speaker": "Girl in Love",
+      "original": "But you worked together, and made lasting contributions to this place.",
+      "translation": "Но вы работали вместе и внесли неоценимый вклад в это место."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:49": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 49,
+      "speaker": "Girl in Love",
+      "original": "I see that spirit has always been in you...",
+      "translation": "Я вижу, что дух всегда был в тебе..."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:50": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 50,
+      "speaker": "Sue",
+      "original": "Hehe, I guess so! We'll always be best friends, and we'll always try our hardest!",
+      "translation": "Хе-хе, я думаю, да! Мы всегда будем лучшими друзьями и всегда будем стараться изо всех сил!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:51": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 51,
+      "speaker": "Lydie",
+      "original": "Yeah. I mean... That's basically our dream, isn't it?",
+      "translation": "Ага. Я имею в виду... По сути, это наша мечта, не так ли?"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:52": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 52,
+      "speaker": "Sue",
+      "original": "Absolutely... Hang on! Wait just a minute!",
+      "translation": "Абсолютно... Подожди! Подожди минутку!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:53": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 53,
+      "speaker": "Sue",
+      "original": "Nelke, what did you mean when you said we were among the youngest \"of all the alchemists\"...",
+      "translation": "Нельке, что ты имела в виду, когда сказала, что мы были одними из самых молодых «из всех алхимиков»…"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:54": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 54,
+      "speaker": "Lydie",
+      "original": "Oh, yeah. Does that mean other alchemists helped you with Westwald's development?",
+      "translation": "Ах, да. Означает ли это, что другие алхимики помогли вам в разработке Вествальда?"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:55": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 55,
+      "speaker": "Girl in Love",
+      "original": "Yes, that's precisely what it means.",
+      "translation": "Да, именно это и означает."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:56": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 56,
+      "speaker": "Girl in Love",
+      "original": "Originally, Westwald was located at the intersection of many other worlds.",
+      "translation": "Изначально Вествальд находился на пересечении множества других миров."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:57": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 57,
+      "speaker": "Girl in Love",
+      "original": "And alchemists visiting from those worlds all helped with its development.",
+      "translation": "И алхимики, приехавшие из этих миров, помогли в его развитии."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:58": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 58,
+      "speaker": "Girl in Love",
+      "original": "Including the two of you, of course.",
+      "translation": "Включая вас двоих, конечно."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:59": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 59,
+      "speaker": "Lydie",
+      "original": "From other worlds?! Th-That's unbelievable... That really happened...?",
+      "translation": "Из других миров?! Э-это невероятно... Это действительно произошло...?"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:60": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 60,
+      "speaker": "Girl in Love",
+      "original": "Yes. And this world is a recreation of Westwald as a \"mysterious painting\"...",
+      "translation": "Да. И этот мир — воссоздание Вествальда как «таинственной картины»…"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:61": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 61,
+      "speaker": "Girl in Love",
+      "original": "It is intended as a way of commemorating the great feats of those alchemists.",
+      "translation": "Он задуман как способ почтить память великих подвигов этих алхимиков."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:62": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 62,
+      "speaker": "Sue",
+      "original": "W-Wow... It's kind of hard to get my head around it all...",
+      "translation": "Н-ух... Как-то сложно уложить все это в голове..."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:63": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 63,
+      "speaker": "Lydie",
+      "original": "Hahaha, me too... So this world is different, and is just a world inside a painting.",
+      "translation": "Ха-ха-ха, я тоже... Итак, этот мир другой, и это просто мир внутри картины."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:64": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 64,
+      "speaker": "Girl in Love",
+      "original": "Yes... But it is an accurate representation of the desire to develop the town.",
+      "translation": "Да... Но это точное отражение желания развивать город."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:65": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 65,
+      "speaker": "Girl in Love",
+      "original": "I made a vow that I would build upon the efforts of the alchemists who helped me...",
+      "translation": "Я дал клятву, что буду опираться на усилия алхимиков, которые мне помогли..."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:66": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 66,
+      "speaker": "Girl in Love",
+      "original": "I swore on the Granzweit Tree that I would make this town as great as it was in its own world.",
+      "translation": "Я поклялся Древом Гранцвейта, что сделаю этот город таким же великим, каким он был в его собственном мире."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:67": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 67,
+      "speaker": "Girl in Love",
+      "original": "Which is why I'm so happy that you have promised to help me!",
+      "translation": "Вот почему я так рад, что вы пообещали мне помочь!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:68": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 68,
+      "speaker": "Lydie",
+      "original": "Well, that's good to hear. Okay, then, Nelke...",
+      "translation": "Что ж, приятно это слышать. Ладно, тогда, Нельке..."
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:69": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 69,
+      "speaker": "Sue",
+      "original": "Let's make Westwald the greatest city known to man!",
+      "translation": "Давайте сделаем Вествальд величайшим городом, известным человечеству!"
+    },
+    "ebm:yy01/event_message_yy01_130.ebm:70": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_130.ebm",
+      "index": 70,
+      "speaker": "Girl in Love",
+      "original": "Yes! I look forward to working with you, Lydie and Sue!",
+      "translation": "Да! Я с нетерпением жду возможности поработать с вами, Лиди и Сью!"
+    },
+    "ebm:yy01/event_message_yy01_140.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_140.ebm",
+      "index": 0,
+      "speaker": "Girl in Love",
+      "original": "Lydie, Sue. I have a request I hope you can help me with...",
+      "translation": "Лиди, Сью. У меня есть просьба, надеюсь, вы мне поможете..."
+    },
+    "ebm:yy01/event_message_yy01_140.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_140.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Hm, okay, I understand. That'll be no problem at all!",
+      "translation": "Хм, окей, я понимаю. Это не будет вообще проблемой!"
+    },
+    "ebm:yy01/event_message_yy01_140.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_140.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Okay, I get it! You can leave everything to us!",
+      "translation": "Хорошо, я понял! Вы можете оставить все нам!"
+    },
+    "ebm:yy01/event_message_yy01_140.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_140.ebm",
+      "index": 3,
+      "speaker": "Girl in Love",
+      "original": "It's such a comfort knowing that the two of you are on the case!",
+      "translation": "Так приятно осознавать, что вы двое занимаетесь этим делом!"
+    },
+    "ebm:yy01/event_message_yy01_150.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_150.ebm",
+      "index": 0,
+      "speaker": "Girl in Love",
+      "original": "Well, I see you've completed the request I gave you! Thank you so much!",
+      "translation": "Что ж, я вижу, вы выполнили мою просьбу! Большое спасибо!"
+    },
+    "ebm:yy01/event_message_yy01_150.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_150.ebm",
+      "index": 1,
+      "speaker": "Girl in Love",
+      "original": "This is your reward. Please accept it.",
+      "translation": "Это ваша награда. Пожалуйста, примите это."
+    },
+    "ebm:yy01/event_message_yy01_150.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_150.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Thank you! Please don't hesitate to ask if anything else comes up.",
+      "translation": "Спасибо! Пожалуйста, не стесняйтесь спрашивать, если появится что-нибудь еще."
+    },
+    "ebm:yy01/event_message_yy01_150.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_150.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Wow, thank you so much! Please feel free to ask if you have any more requests!",
+      "translation": "Вау, спасибо тебе огромное! Пожалуйста, не стесняйтесь спрашивать, есть ли у вас еще запросы!"
+    },
+    "ebm:yy01/event_message_yy01_150.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_150.ebm",
+      "index": 4,
+      "speaker": "Girl in Love",
+      "original": "Hehe, I'm most grateful. I'll be counting on you.",
+      "translation": "Хе-хе, я очень благодарен. Я буду рассчитывать на тебя."
+    },
+    "ebm:yy01/event_message_yy01_160.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_160.ebm",
+      "index": 0,
+      "speaker": "Girl in Love",
+      "original": "Ah, Lydie, Sue! Look...!",
+      "translation": "Ах, Лиди, Сью! Смотреть...!"
+    },
+    "ebm:yy01/event_message_yy01_160.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_160.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Wow...!",
+      "translation": "Ух ты...!"
+    },
+    "ebm:yy01/event_message_yy01_160.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_160.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Wow...!",
+      "translation": "Ух ты...!"
+    },
+    "ebm:yy01/event_message_yy01_160.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_160.ebm",
+      "index": 3,
+      "speaker": "Girl in Love",
+      "original": "Thanks to your efforts, Westwald has grown so much...!",
+      "translation": "Благодаря вашим усилиям Вествальд так вырос...!"
+    },
+    "ebm:yy01/event_message_yy01_160.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_160.ebm",
+      "index": 4,
+      "speaker": "Girl in Love",
+      "original": "Thank you for everything. You don't know how grateful I am.",
+      "translation": "Спасибо за все. Вы не представляете, как я благодарен."
+    },
+    "ebm:yy01/event_message_yy01_160.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_160.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Hehe, it's so nice to hear you say that!",
+      "translation": "Хе-хе, так приятно слышать это от тебя!"
+    },
+    "ebm:yy01/event_message_yy01_160.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_160.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "Yeah! It makes it all worthwhile!",
+      "translation": "Ага! Это делает все это стоящим!"
+    },
+    "ebm:yy01/event_message_yy01_160.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "yy01/event_message_yy01_160.ebm",
+      "index": 7,
+      "speaker": "Girl in Love",
+      "original": "Hehe. I hope you'll both continue to do what you can for the development of Westwald.",
+      "translation": "Хе-хе. Я надеюсь, что вы оба продолжите делать все возможное для развития Вествальда."
+    }
+  }
+}

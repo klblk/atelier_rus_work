@@ -1,0 +1,379 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_library_define.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:4063233": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063233",
+      "original": "Back",
+      "translation": "Назад"
+    },
+    "pack02:4063234": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063234",
+      "original": "Select",
+      "translation": "Выбор"
+    },
+    "pack02:4063235": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063235",
+      "original": "Confirm",
+      "translation": "Подтверждение"
+    },
+    "pack02:4063236": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063236",
+      "original": "Change Page",
+      "translation": "Смена страницы"
+    },
+    "pack02:4063237": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063237",
+      "original": "Change Entry",
+      "translation": "Сменить"
+    },
+    "pack02:4063238": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063238",
+      "original": "Next Page",
+      "translation": "Другая страница"
+    },
+    "pack02:4063239": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063239",
+      "original": "Don't Know",
+      "translation": "Неизвестно"
+    },
+    "pack02:4063242": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063242",
+      "original": "Sub-menu",
+      "translation": "Подменю"
+    },
+    "pack02:4063243": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063243",
+      "original": "Related Item",
+      "translation": "Связанное"
+    },
+    "pack02:4063244": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063244",
+      "original": "Sort",
+      "translation": "Сортировка"
+    },
+    "pack02:4063245": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063245",
+      "original": "Filter",
+      "translation": "Фильтр"
+    },
+    "pack02:4063246": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063246",
+      "original": "Clip",
+      "translation": "Закладки"
+    },
+    "pack02:4063247": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063247",
+      "original": "Remove Clip",
+      "translation": "Удалить"
+    },
+    "pack02:4063248": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063248",
+      "original": "Close Book",
+      "translation": "Закрыть книгу"
+    },
+    "pack02:4063249": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063249",
+      "original": "Standard",
+      "translation": "По умолчанию"
+    },
+    "pack02:4063250": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063250",
+      "original": "By Name",
+      "translation": "По алфавиту"
+    },
+    "pack02:4063251": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063251",
+      "original": "By Level",
+      "translation": "По уровню"
+    },
+    "pack02:4063252": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063252",
+      "original": "By Value",
+      "translation": "По стоимости"
+    },
+    "pack02:4063253": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063253",
+      "original": "By Money",
+      "translation": "По выпадающим деньгам"
+    },
+    "pack02:4063254": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063254",
+      "original": "By Exp",
+      "translation": "По опыту"
+    },
+    "pack02:4063255": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063255",
+      "original": "Top",
+      "translation": "Разделы"
+    },
+    "pack02:4063256": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063256",
+      "original": "Recipe Idea",
+      "translation": "Идеи рецептов"
+    },
+    "pack02:4063257": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063257",
+      "original": "Items",
+      "translation": "Предметы"
+    },
+    "pack02:4063259": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063259",
+      "original": "All",
+      "translation": "Все"
+    },
+    "pack02:4063260": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063260",
+      "original": "Materials",
+      "translation": "Материалы"
+    },
+    "pack02:4063261": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063261",
+      "original": "Synthesis",
+      "translation": "Синтез"
+    },
+    "pack02:4063262": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063262",
+      "original": "Usables",
+      "translation": "Расходники"
+    },
+    "pack02:4063263": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063263",
+      "original": "Gathering",
+      "translation": "Сбор материалов"
+    },
+    "pack02:4063264": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063264",
+      "original": "Ornaments",
+      "translation": "Украшения"
+    },
+    "pack02:4063265": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063265",
+      "original": "Weapons/Armor",
+      "translation": "Оружие/броня"
+    },
+    "pack02:4063269": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063269",
+      "original": "Effects/Traits",
+      "translation": "Эффекты/свойства"
+    },
+    "pack02:4063270": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063270",
+      "original": "Effects",
+      "translation": "Эффекты"
+    },
+    "pack02:4063271": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063271",
+      "original": "Traits",
+      "translation": "Свойства"
+    },
+    "pack02:4063273": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063273",
+      "original": "Monsters",
+      "translation": "Монстры"
+    },
+    "pack02:4063275": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063275",
+      "original": "Areas",
+      "translation": "Локации"
+    },
+    "pack02:4063277": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063277",
+      "original": "Facilities",
+      "translation": "Объекты"
+    },
+    "pack02:4063279": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063279",
+      "original": "Help",
+      "translation": "Помощь"
+    },
+    "pack02:4063281": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063281",
+      "original": "   Not Registered &lt;#666666&gt; You can press &lt;IM07&gt; in the Encyclopedia and select ”Clip” to add it here.",
+      "translation": "Не зарегистрировано &lt;#666666&gt; Нажмите &lt;IM07&gt; в энциклопедии и выберите «Закладки», чтобы добавить сюда."
+    },
+    "pack02:4063282": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063282",
+      "original": "Close",
+      "translation": "Закрыть"
+    },
+    "pack02:4063283": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063283",
+      "original": "Open Book",
+      "translation": "Открыть книгу"
+    },
+    "pack02:4063284": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063284",
+      "original": "Remove",
+      "translation": "Снять"
+    },
+    "pack02:4063285": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063285",
+      "original": "Synthesize",
+      "translation": "Синтезировать"
+    },
+    "pack02:4063287": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063287",
+      "original": "No Setting",
+      "translation": "Не задано"
+    },
+    "pack02:4063288": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063288",
+      "original": "Red",
+      "translation": "Красный"
+    },
+    "pack02:4063289": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063289",
+      "original": "Blue",
+      "translation": "Синий"
+    },
+    "pack02:4063290": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063290",
+      "original": "Green",
+      "translation": "Зелёный"
+    },
+    "pack02:4063291": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063291",
+      "original": "Yellow",
+      "translation": "Жёлтый"
+    },
+    "pack02:4063292": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063292",
+      "original": "White",
+      "translation": "Белый"
+    },
+    "pack02:4063294": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063294",
+      "original": "Off",
+      "translation": "нет"
+    },
+    "pack02:4063298": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063298",
+      "original": "Battle Recipes",
+      "translation": "Боевые рецепты"
+    },
+    "pack02:4063299": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063299",
+      "original": "Enhancing Agents",
+      "translation": "Активаторы"
+    },
+    "pack02:4063300": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063300",
+      "original": "Other",
+      "translation": "Прочее"
+    },
+    "pack02:4063302": {
+      "source": "pack02_text_en",
+      "file": "str_library_define.xml",
+      "string_no": "4063302",
+      "original": "(%s)",
+      "translation": "(%s)"
+    }
+  }
+}

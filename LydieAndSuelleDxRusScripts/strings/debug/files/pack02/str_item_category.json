@@ -1,0 +1,393 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_item_category.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:6815745": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815745",
+      "original": "(Plants)",
+      "translation": "(Растения)"
+    },
+    "pack02:6815746": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815746",
+      "original": "(Magic Grass)",
+      "translation": "(Магич. трава)"
+    },
+    "pack02:6815747": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815747",
+      "original": "(Beehives)",
+      "translation": "(Ульи)"
+    },
+    "pack02:6815748": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815748",
+      "original": "(Fruits)",
+      "translation": "(Фрукт)"
+    },
+    "pack02:6815749": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815749",
+      "original": "(Fungus)",
+      "translation": "(Гриб)"
+    },
+    "pack02:6815750": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815750",
+      "original": "(Foodstuff)",
+      "translation": "(Ингредиент)"
+    },
+    "pack02:6815751": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815751",
+      "original": "(Animal Materials)",
+      "translation": "(Животный мат.)"
+    },
+    "pack02:6815752": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815752",
+      "original": "(Flowers)",
+      "translation": "(Цветок)"
+    },
+    "pack02:6815753": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815753",
+      "original": "(Insects)",
+      "translation": "(Насекомое)"
+    },
+    "pack02:6815754": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815754",
+      "original": "(Seafood)",
+      "translation": "(Морепродукт)"
+    },
+    "pack02:6815755": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815755",
+      "original": "(Puniballs)",
+      "translation": "(Пуниболы)"
+    },
+    "pack02:6815756": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815756",
+      "original": "(Dragon Materials)",
+      "translation": "(Драконий мат.)"
+    },
+    "pack02:6815757": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815757",
+      "original": "(Aroma)",
+      "translation": "(Аромат)"
+    },
+    "pack02:6815758": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815758",
+      "original": "(Water)",
+      "translation": "(Жидкость)"
+    },
+    "pack02:6815759": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815759",
+      "original": "(Oil)",
+      "translation": "(Масло)"
+    },
+    "pack02:6815760": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815760",
+      "original": "(Gas)",
+      "translation": "(Газ)"
+    },
+    "pack02:6815761": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815761",
+      "original": "(Paper)",
+      "translation": "(Бумага)"
+    },
+    "pack02:6815762": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815762",
+      "original": "(Fuel)",
+      "translation": "(Горючий мат.)"
+    },
+    "pack02:6815763": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815763",
+      "original": "(Gunpowder)",
+      "translation": "(Порошок)"
+    },
+    "pack02:6815764": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815764",
+      "original": "(Wood)",
+      "translation": "(Древесина)"
+    },
+    "pack02:6815765": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815765",
+      "original": "(Thread)",
+      "translation": "(Нить)"
+    },
+    "pack02:6815766": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815766",
+      "original": "(Cloth)",
+      "translation": "(Ткань)"
+    },
+    "pack02:6815767": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815767",
+      "original": "(Clay)",
+      "translation": "(Глина)"
+    },
+    "pack02:6815768": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815768",
+      "original": "(Sand)",
+      "translation": "(Песок)"
+    },
+    "pack02:6815769": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815769",
+      "original": "(Ores)",
+      "translation": "(Руда)"
+    },
+    "pack02:6815770": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815770",
+      "original": "(Gems)",
+      "translation": "(Самоцвет)"
+    },
+    "pack02:6815771": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815771",
+      "original": "(Metal)",
+      "translation": "(Металл)"
+    },
+    "pack02:6815772": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815772",
+      "original": "(Medical Materials)",
+      "translation": "(Лекарств. мат.)"
+    },
+    "pack02:6815773": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815773",
+      "original": "(Poison Materials)",
+      "translation": "(Ядовитый мат.)"
+    },
+    "pack02:6815774": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815774",
+      "original": "(Hidden Power)",
+      "translation": "(Скрытая сила)"
+    },
+    "pack02:6815775": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815775",
+      "original": "(Elixirs)",
+      "translation": "(Эликсир)"
+    },
+    "pack02:6815776": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815776",
+      "original": "(Enhancer)",
+      "translation": "(Усилитель)"
+    },
+    "pack02:6815777": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815777",
+      "original": "(Anima)",
+      "translation": "(Анима)"
+    },
+    "pack02:6815778": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815778",
+      "original": "(Neutralizers)",
+      "translation": "(Нейтрализатор)"
+    },
+    "pack02:6815779": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815779",
+      "original": "(Magic Tools)",
+      "translation": "(Магич. инструм.)"
+    },
+    "pack02:6815780": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815780",
+      "original": "(Bombs)",
+      "translation": "(Бомба)"
+    },
+    "pack02:6815781": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815781",
+      "original": "(Medicine)",
+      "translation": "(Лекарство)"
+    },
+    "pack02:6815782": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815782",
+      "original": "(Sweets)",
+      "translation": "(Сладкое)"
+    },
+    "pack02:6815783": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815783",
+      "original": "(Food)",
+      "translation": "(Еда)"
+    },
+    "pack02:6815784": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815784",
+      "original": "(Weapon Materials)",
+      "translation": "(Мат. оружия)"
+    },
+    "pack02:6815785": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815785",
+      "original": "(Armor Materials)",
+      "translation": "(Мат. брони)"
+    },
+    "pack02:6815786": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815786",
+      "original": "(Weapon Cores)",
+      "translation": "(Ядро оружия)"
+    },
+    "pack02:6815787": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815787",
+      "original": "(Weapon Parts)",
+      "translation": "(Деталь оружия)"
+    },
+    "pack02:6815788": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815788",
+      "original": "(Metal Canes)",
+      "translation": "(Метал. посох)"
+    },
+    "pack02:6815789": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815789",
+      "original": "(Alchemic Guns)",
+      "translation": "(Алхим. ружьё)"
+    },
+    "pack02:6815790": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815790",
+      "original": "(Bows)",
+      "translation": "(Лук)"
+    },
+    "pack02:6815791": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815791",
+      "original": "(Canes)",
+      "translation": "(Посох)"
+    },
+    "pack02:6815792": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815792",
+      "original": "(Blade)",
+      "translation": "(Клинок)"
+    },
+    "pack02:6815793": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815793",
+      "original": "(Books)",
+      "translation": "(Книга)"
+    },
+    "pack02:6815794": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815794",
+      "original": "(Parasols)",
+      "translation": "(Зонтик)"
+    },
+    "pack02:6815795": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815795",
+      "original": "(Decorative Canes)",
+      "translation": "(Декор. посох)"
+    },
+    "pack02:6815796": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815796",
+      "original": "(Armor)",
+      "translation": "(Броня)"
+    },
+    "pack02:6815797": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815797",
+      "original": "(Ornaments)",
+      "translation": "(Украшение)"
+    },
+    "pack02:6815798": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815798",
+      "original": "(Gathering Tools)",
+      "translation": "(Инстр. сбора)"
+    },
+    "pack02:6815799": {
+      "source": "pack02_text_en",
+      "file": "str_item_category.xml",
+      "string_no": "6815799",
+      "original": "(Key Items)",
+      "translation": "(Важное)"
+    }
+  }
+}

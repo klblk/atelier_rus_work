@@ -1,0 +1,2647 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_item_potential.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:6946817": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946817",
+      "original": "Low Price",
+      "translation": "Низкая цена"
+    },
+    "pack02:6946818": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946818",
+      "original": "Low Price +",
+      "translation": "Низкая цена +"
+    },
+    "pack02:6946819": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946819",
+      "original": "Low Price ++",
+      "translation": "Низкая цена ++"
+    },
+    "pack02:6946820": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946820",
+      "original": "Common Item",
+      "translation": "Доступный предмет"
+    },
+    "pack02:6946821": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946821",
+      "original": "Mass Produced",
+      "translation": "Легкодоступный предмет"
+    },
+    "pack02:6946822": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946822",
+      "original": "Bargain",
+      "translation": "Выгодная покупка"
+    },
+    "pack02:6946824": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946824",
+      "original": "High Price",
+      "translation": "Высокая цена"
+    },
+    "pack02:6946825": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946825",
+      "original": "High Price +",
+      "translation": "Высокая цена +"
+    },
+    "pack02:6946826": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946826",
+      "original": "High Price ++",
+      "translation": "Высокая цена ++"
+    },
+    "pack02:6946827": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946827",
+      "original": "High Class",
+      "translation": "Роскошный предмет"
+    },
+    "pack02:6946828": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946828",
+      "original": "Rare Item",
+      "translation": "Редкий предмет"
+    },
+    "pack02:6946829": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946829",
+      "original": "Overpriced",
+      "translation": "Завышенная цена"
+    },
+    "pack02:6946831": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946831",
+      "original": "Quality Up",
+      "translation": "Качество ↑"
+    },
+    "pack02:6946832": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946832",
+      "original": "Quality Up +",
+      "translation": "Качество ↑ +"
+    },
+    "pack02:6946833": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946833",
+      "original": "Quality Up ++",
+      "translation": "Качество ↑ ++"
+    },
+    "pack02:6946834": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946834",
+      "original": "Well Made",
+      "translation": "Отличный предмет"
+    },
+    "pack02:6946835": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946835",
+      "original": "Pro Perfection",
+      "translation": "Совершенный предмет"
+    },
+    "pack02:6946836": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946836",
+      "original": "Superb Quality",
+      "translation": "Превосходное качество"
+    },
+    "pack02:6946840": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946840",
+      "original": "Destruction Up",
+      "translation": "Разрушение ↑"
+    },
+    "pack02:6946841": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946841",
+      "original": "Destruction Up +",
+      "translation": "Разрушение ↑ +"
+    },
+    "pack02:6946842": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946842",
+      "original": "Destruction Up ++",
+      "translation": "Разрушение ↑ ++"
+    },
+    "pack02:6946843": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946843",
+      "original": "Big Destruction",
+      "translation": "Сильное разрушение"
+    },
+    "pack02:6946844": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946844",
+      "original": "Intense Destruction",
+      "translation": "Интенсивное разрушение"
+    },
+    "pack02:6946845": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946845",
+      "original": "Ultimate Destruction",
+      "translation": "Абсолютное разрушение"
+    },
+    "pack02:6946846": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946846",
+      "original": "Godlike Destruction",
+      "translation": "Божественное разрушение"
+    },
+    "pack02:6946848": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946848",
+      "original": "Fixed Power",
+      "translation": "Фиксированная сила"
+    },
+    "pack02:6946849": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946849",
+      "original": "Fixed Power +",
+      "translation": "Фиксированная сила +"
+    },
+    "pack02:6946850": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946850",
+      "original": "Fixed Power ++",
+      "translation": "Фиксированная сила ++"
+    },
+    "pack02:6946851": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946851",
+      "original": "Pain in Numbers",
+      "translation": "Числовая боль"
+    },
+    "pack02:6946852": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946852",
+      "original": "Damage in Numbers",
+      "translation": "Числовой урон"
+    },
+    "pack02:6946853": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946853",
+      "original": "Big Damage Numbers",
+      "translation": "Большой числовой урон"
+    },
+    "pack02:6946854": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946854",
+      "original": "Destruction Legend",
+      "translation": "Разрушитель легенд"
+    },
+    "pack02:6946856": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946856",
+      "original": "Increase Sharpness",
+      "translation": "Повышение остроты"
+    },
+    "pack02:6946857": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946857",
+      "original": "Cutting Ability Up",
+      "translation": "Режущая способность ↑"
+    },
+    "pack02:6946858": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946858",
+      "original": "Increase Aggression",
+      "translation": "Повышение агрессии"
+    },
+    "pack02:6946863": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946863",
+      "original": "Recovery Up",
+      "translation": "Восстановление ↑"
+    },
+    "pack02:6946864": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946864",
+      "original": "Recovery Up +",
+      "translation": "Восстановление ↑ +"
+    },
+    "pack02:6946865": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946865",
+      "original": "Recovery Up ++",
+      "translation": "Восстановление ↑ ++"
+    },
+    "pack02:6946866": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946866",
+      "original": "Great Recovery",
+      "translation": "Большое восстановление"
+    },
+    "pack02:6946867": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946867",
+      "original": "Intense Recovery",
+      "translation": "Интенсивное восстановление"
+    },
+    "pack02:6946868": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946868",
+      "original": "Ultimate Recovery",
+      "translation": "Абсолютное восстановление"
+    },
+    "pack02:6946869": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946869",
+      "original": "Blessed by Gods",
+      "translation": "Благословение богов"
+    },
+    "pack02:6946871": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946871",
+      "original": "Fixed Recovery",
+      "translation": "Фикс-е восстановление"
+    },
+    "pack02:6946872": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946872",
+      "original": "Fixed Recovery +",
+      "translation": "Фикс-е восстановление +"
+    },
+    "pack02:6946873": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946873",
+      "original": "Fixed Recovery ++",
+      "translation": "Фикс-е восстановление ++"
+    },
+    "pack02:6946874": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946874",
+      "original": "Enhanced Medicine",
+      "translation": "Улучшенное лекарство"
+    },
+    "pack02:6946875": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946875",
+      "original": "Greatly Enhanced Medicine",
+      "translation": "Значительно улучшенное лекарство"
+    },
+    "pack02:6946876": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946876",
+      "original": "Super Enhanced Recovery",
+      "translation": "Супер-усиленное восстановление"
+    },
+    "pack02:6946877": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946877",
+      "original": "Legendary Recovery",
+      "translation": "Легендар-е восстановление"
+    },
+    "pack02:6946882": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946882",
+      "original": "Critical",
+      "translation": "Шанс крит. действия"
+    },
+    "pack02:6946883": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946883",
+      "original": "Critical +",
+      "translation": "Шанс крит. действия +"
+    },
+    "pack02:6946884": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946884",
+      "original": "Critical ++",
+      "translation": "Шанс крит. действия ++"
+    },
+    "pack02:6946885": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946885",
+      "original": "Critical Finish",
+      "translation": "Критический триумф"
+    },
+    "pack02:6946886": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946886",
+      "original": "Half Critical",
+      "translation": "50% крит. действие"
+    },
+    "pack02:6946887": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946887",
+      "original": "One Hit Kill",
+      "translation": "Нокаутирующая атака"
+    },
+    "pack02:6946889": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946889",
+      "original": "Stable Effect",
+      "translation": "Стабильный эффект"
+    },
+    "pack02:6946890": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946890",
+      "original": "Stable Effect +",
+      "translation": "Стабильный эффект +"
+    },
+    "pack02:6946891": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946891",
+      "original": "Stable Effect ++",
+      "translation": "Стабильный эффект ++"
+    },
+    "pack02:6946892": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946892",
+      "original": "Stability Emphasis",
+      "translation": "Акцент на стабильность"
+    },
+    "pack02:6946893": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946893",
+      "original": "Solid Effect",
+      "translation": "Ожидаемый эффект"
+    },
+    "pack02:6946894": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946894",
+      "original": "Boost Expected Value",
+      "translation": "Ожидаемый результат"
+    },
+    "pack02:6946898": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946898",
+      "original": "Uses +1",
+      "translation": "Использований +1"
+    },
+    "pack02:6946899": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946899",
+      "original": "Uses +2",
+      "translation": "Использований +2"
+    },
+    "pack02:6946900": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946900",
+      "original": "Multiply",
+      "translation": "Число использования +3"
+    },
+    "pack02:6946902": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946902",
+      "original": "Uses -1",
+      "translation": "Использований -1"
+    },
+    "pack02:6946903": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946903",
+      "original": "Uses -2",
+      "translation": "Использований -2"
+    },
+    "pack02:6946904": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946904",
+      "original": "Reduction",
+      "translation": "Число использования -5"
+    },
+    "pack02:6946909": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946909",
+      "original": "Increase HP",
+      "translation": "Увеличение ОЗ"
+    },
+    "pack02:6946910": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946910",
+      "original": "Boost HP",
+      "translation": "Повышение ОЗ"
+    },
+    "pack02:6946911": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946911",
+      "original": "Greatly Increase HP",
+      "translation": "Значительное увеличение ОЗ"
+    },
+    "pack02:6946912": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946912",
+      "original": "Full of Life",
+      "translation": "Полнота жизни"
+    },
+    "pack02:6946913": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946913",
+      "original": "Overflowing Life",
+      "translation": "Переполняющая жизнь"
+    },
+    "pack02:6946914": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946914",
+      "original": "Power of Life",
+      "translation": "Сила жизни"
+    },
+    "pack02:6946916": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946916",
+      "original": "Increase MP",
+      "translation": "Увеличение ОМ"
+    },
+    "pack02:6946917": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946917",
+      "original": "Boost MP",
+      "translation": "Повышение ОМ"
+    },
+    "pack02:6946918": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946918",
+      "original": "Greatly Increase MP",
+      "translation": "Значительное увеличение ОМ"
+    },
+    "pack02:6946919": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946919",
+      "original": "Magician's Wisdom",
+      "translation": "Мудрость мага"
+    },
+    "pack02:6946920": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946920",
+      "original": "Grand Magician's Wisdom",
+      "translation": "Мудрость великого мага"
+    },
+    "pack02:6946921": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946921",
+      "original": "Wisdom of the Gods",
+      "translation": "Мудрость богов"
+    },
+    "pack02:6946923": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946923",
+      "original": "Increase HPMP",
+      "translation": "Увеличение ОЗ и ОМ"
+    },
+    "pack02:6946924": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946924",
+      "original": "Boost HPMP",
+      "translation": "Повышение ОЗ и ОМ"
+    },
+    "pack02:6946925": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946925",
+      "original": "Greatly Increase HPMP",
+      "translation": "Значительное увеличение ОЗ и ОМ"
+    },
+    "pack02:6946927": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946927",
+      "original": "Parameters +10%",
+      "translation": "Характеристики +10%"
+    },
+    "pack02:6946928": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946928",
+      "original": "Parameters +12%",
+      "translation": "Характеристики +12%"
+    },
+    "pack02:6946929": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946929",
+      "original": "Parameters +15%",
+      "translation": "Характеристики +15%"
+    },
+    "pack02:6946930": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946930",
+      "original": "Enhance the Body",
+      "translation": "Усиление тела"
+    },
+    "pack02:6946931": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946931",
+      "original": "Draw Out Power",
+      "translation": "Концентрация мощи"
+    },
+    "pack02:6946932": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946932",
+      "original": "Develop the Body",
+      "translation": "Развитие тела"
+    },
+    "pack02:6946933": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946933",
+      "original": "Evolve the Body",
+      "translation": "Эволюция тела"
+    },
+    "pack02:6946935": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946935",
+      "original": "Enhance Attack",
+      "translation": "Усиление атаки"
+    },
+    "pack02:6946936": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946936",
+      "original": "Boost Attack",
+      "translation": "Повышение атаки"
+    },
+    "pack02:6946937": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946937",
+      "original": "Enhance Attack Greatly",
+      "translation": "Значительное усиление атаки"
+    },
+    "pack02:6946938": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946938",
+      "original": "Power of Beasts",
+      "translation": "Сила зверей"
+    },
+    "pack02:6946939": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946939",
+      "original": "Power of Destruction",
+      "translation": "Разрушительная сила"
+    },
+    "pack02:6946940": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946940",
+      "original": "Power of Gods",
+      "translation": "Сила богов"
+    },
+    "pack02:6946942": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946942",
+      "original": "Enhance Defense",
+      "translation": "Усиление защиты"
+    },
+    "pack02:6946943": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946943",
+      "original": "Boost Defense",
+      "translation": "Повышение защиты"
+    },
+    "pack02:6946944": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946944",
+      "original": "Super Enhance Defense",
+      "translation": "Супер усиление защиты"
+    },
+    "pack02:6946945": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946945",
+      "original": "Steel Defense",
+      "translation": "Стальная защита"
+    },
+    "pack02:6946946": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946946",
+      "original": "Diamond Defense",
+      "translation": "Алмазная защита"
+    },
+    "pack02:6946947": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946947",
+      "original": "Dragon Scale Defense",
+      "translation": "Защита драконьей чешуи"
+    },
+    "pack02:6946949": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946949",
+      "original": "Enhance Speed",
+      "translation": "Усиление скорости"
+    },
+    "pack02:6946950": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946950",
+      "original": "Boost Speed",
+      "translation": "Повышение скорости"
+    },
+    "pack02:6946951": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946951",
+      "original": "Super Enhance Speed",
+      "translation": "Супер усиление скорости"
+    },
+    "pack02:6946952": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946952",
+      "original": "Speed of Skanda",
+      "translation": "Скорость Сканды"
+    },
+    "pack02:6946953": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946953",
+      "original": "Speed of Gods",
+      "translation": "Скорость богов"
+    },
+    "pack02:6946954": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946954",
+      "original": "Speed of Light",
+      "translation": "Скорость света"
+    },
+    "pack02:6946956": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946956",
+      "original": "Enhance Equipment Effect",
+      "translation": "Усиление эффекта снаряжения"
+    },
+    "pack02:6946957": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946957",
+      "original": "Boost Equipment Effect",
+      "translation": "Повышение эффекта снаряжения"
+    },
+    "pack02:6946958": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946958",
+      "original": "Greatly Enhance Equip Effect",
+      "translation": "Значительное усиление эфф. снаряжения"
+    },
+    "pack02:6946959": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946959",
+      "original": "Brave's Equipment",
+      "translation": "Снаряжение храбреца"
+    },
+    "pack02:6946960": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946960",
+      "original": "Hero's Equipment",
+      "translation": "Снаряжение героя"
+    },
+    "pack02:6946961": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946961",
+      "original": "Divine Equipment",
+      "translation": "Божественное снаряжение"
+    },
+    "pack02:6946963": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946963",
+      "original": "Enhance ATK-DEF",
+      "translation": "Усиление АТК-ЗЩТ"
+    },
+    "pack02:6946964": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946964",
+      "original": "Enhance ATK-SPD",
+      "translation": "Усиление АТК-СКР"
+    },
+    "pack02:6946965": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946965",
+      "original": "Enhance DEF-SPD",
+      "translation": "Усиление ЗЩТ-СКР"
+    },
+    "pack02:6946966": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946966",
+      "original": "Enhance All Stats",
+      "translation": "Все характеристики"
+    },
+    "pack02:6946968": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946968",
+      "original": "Boost ATK-DEF",
+      "translation": "Повышение АТК-ЗЩТ"
+    },
+    "pack02:6946969": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946969",
+      "original": "Boost ATK-SPD",
+      "translation": "Повышение АТК-СКР"
+    },
+    "pack02:6946970": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946970",
+      "original": "Boost DEF-SPD",
+      "translation": "Повышение ЗЩТ-СКР"
+    },
+    "pack02:6946971": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946971",
+      "original": "Boost All Stats",
+      "translation": "Все характеристики+"
+    },
+    "pack02:6946973": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946973",
+      "original": "Extra Boost All Stats",
+      "translation": "Все характеристики++"
+    },
+    "pack02:6946974": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946974",
+      "original": "Almighty Power",
+      "translation": "Всемогущая сила"
+    },
+    "pack02:6946976": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946976",
+      "original": "Flawless Body",
+      "translation": "Безупречное тело"
+    },
+    "pack02:6946977": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946977",
+      "original": "Tenacious Body",
+      "translation": "Стойкое тело"
+    },
+    "pack02:6946982": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946982",
+      "original": "Consumed MP -10%",
+      "translation": "Расход ОМ -10%"
+    },
+    "pack02:6946983": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946983",
+      "original": "Consumed MP -15%",
+      "translation": "Расход ОМ -15%"
+    },
+    "pack02:6946984": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946984",
+      "original": "Consumed MP -20%",
+      "translation": "Расход ОМ -20%"
+    },
+    "pack02:6946985": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946985",
+      "original": "Cut Consumed MP",
+      "translation": "Снижение расхода ОМ"
+    },
+    "pack02:6946986": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946986",
+      "original": "Lower Consumed MP",
+      "translation": "Уменьшение расхода ОМ"
+    },
+    "pack02:6946987": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946987",
+      "original": "Halve Consumed MP",
+      "translation": "Половина расхода ОМ"
+    },
+    "pack02:6946989": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946989",
+      "original": "Skill Power +10%",
+      "translation": "Сила навыков +10%"
+    },
+    "pack02:6946990": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946990",
+      "original": "Skill Power +12%",
+      "translation": "Сила навыков +12%"
+    },
+    "pack02:6946991": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946991",
+      "original": "Skill Power +15%",
+      "translation": "Сила навыков +15%"
+    },
+    "pack02:6946992": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946992",
+      "original": "Enhance Skills",
+      "translation": "Усиление навыков"
+    },
+    "pack02:6946993": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946993",
+      "original": "Boost Skills",
+      "translation": "Повышение навыков"
+    },
+    "pack02:6946994": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946994",
+      "original": "Greatly Enhance Skills",
+      "translation": "Значительное усиление навыков"
+    },
+    "pack02:6946996": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946996",
+      "original": "Eco Skill Use",
+      "translation": "Экономное использование навыков"
+    },
+    "pack02:6946997": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946997",
+      "original": "Reduce Skill Cost",
+      "translation": "Снижение стоимости навыков"
+    },
+    "pack02:6946998": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6946998",
+      "original": "Saving on Skills",
+      "translation": "Экономия на навыках"
+    },
+    "pack02:6947000": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947000",
+      "original": "Expert Skill",
+      "translation": "Мастерство"
+    },
+    "pack02:6947001": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947001",
+      "original": "Super Skill",
+      "translation": "Мастерство +"
+    },
+    "pack02:6947006": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947006",
+      "original": "Soul Dwelling",
+      "translation": "Жилище души"
+    },
+    "pack02:6947007": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947007",
+      "original": "Blessing of Strength",
+      "translation": "Благословение силы"
+    },
+    "pack02:6947008": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947008",
+      "original": "Blessing of Protection",
+      "translation": "Благословение защиты"
+    },
+    "pack02:6947009": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947009",
+      "original": "Blessing of Skanda",
+      "translation": "Благословение Сканды"
+    },
+    "pack02:6947026": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947026",
+      "original": "Apply Sleep",
+      "translation": "Наложение сна"
+    },
+    "pack02:6947027": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947027",
+      "original": "Apply Poison",
+      "translation": "Наложение отравления"
+    },
+    "pack02:6947028": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947028",
+      "original": "Apply Slowness",
+      "translation": "Наложение замедления"
+    },
+    "pack02:6947029": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947029",
+      "original": "Apply Curse",
+      "translation": "Наложение проклятия"
+    },
+    "pack02:6947030": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947030",
+      "original": "Apply Blindness",
+      "translation": "Наложение слепоты"
+    },
+    "pack02:6947031": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947031",
+      "original": "Apply Burn",
+      "translation": "Наложение ожогов"
+    },
+    "pack02:6947032": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947032",
+      "original": "Apply Healing Block",
+      "translation": "Наложение запрета лечения"
+    },
+    "pack02:6947033": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947033",
+      "original": "Apply Seal",
+      "translation": "Наложение печати"
+    },
+    "pack02:6947035": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947035",
+      "original": "Consume Soul",
+      "translation": "Поглощение души"
+    },
+    "pack02:6947036": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947036",
+      "original": "Powerless Curse",
+      "translation": "Проклятие бессилия"
+    },
+    "pack02:6947037": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947037",
+      "original": "Defenseless Curse",
+      "translation": "Проклятие уязвимости"
+    },
+    "pack02:6947038": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947038",
+      "original": "Slowness Curse",
+      "translation": "Проклятие замедления"
+    },
+    "pack02:6947043": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947043",
+      "original": "Absorb Damage",
+      "translation": "Поглощение урона"
+    },
+    "pack02:6947044": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947044",
+      "original": "Absorb Damage +",
+      "translation": "Поглощение урона +"
+    },
+    "pack02:6947045": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947045",
+      "original": "Absorb Damage ++",
+      "translation": "Поглощение урона ++"
+    },
+    "pack02:6947046": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947046",
+      "original": "Absorb HP",
+      "translation": "Поглощение ОЗ"
+    },
+    "pack02:6947047": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947047",
+      "original": "Steal Life",
+      "translation": "Кража жизни"
+    },
+    "pack02:6947048": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947048",
+      "original": "Absorb Soul",
+      "translation": "Поглощение души"
+    },
+    "pack02:6947049": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947049",
+      "original": "Overpowered",
+      "translation": "Сверхмощь"
+    },
+    "pack02:6947054": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947054",
+      "original": "Beast Menace",
+      "translation": "Угроза зверей"
+    },
+    "pack02:6947055": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947055",
+      "original": "Dragon Menace",
+      "translation": "Угроза драконов"
+    },
+    "pack02:6947056": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947056",
+      "original": "Spirit Menace",
+      "translation": "Угроза духов"
+    },
+    "pack02:6947057": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947057",
+      "original": "Alchemic Menace",
+      "translation": "Угроза алхимиков"
+    },
+    "pack02:6947058": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947058",
+      "original": "Forest Creature Menace",
+      "translation": "Угроза лесных существ"
+    },
+    "pack02:6947059": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947059",
+      "original": "Tiny Creature Menace",
+      "translation": "Угроза мелких существ"
+    },
+    "pack02:6947060": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947060",
+      "original": "Puni Menace",
+      "translation": "Угроза Пуни"
+    },
+    "pack02:6947061": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947061",
+      "original": "Water Creature Menace",
+      "translation": "Угроза водных существ"
+    },
+    "pack02:6947063": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947063",
+      "original": "Air Creature Menace",
+      "translation": "Угроза воздушных существ"
+    },
+    "pack02:6947064": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947064",
+      "original": "Demon Menace",
+      "translation": "Угроза демонов"
+    },
+    "pack02:6947065": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947065",
+      "original": "Black Paint Menace",
+      "translation": "Угроза чёрной краски"
+    },
+    "pack02:6947066": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947066",
+      "original": "God Menace",
+      "translation": "Угроза богов"
+    },
+    "pack02:6947082": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947082",
+      "original": "Enhance Finisher",
+      "translation": "Решающий удар"
+    },
+    "pack02:6947083": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947083",
+      "original": "Enhance Finisher +",
+      "translation": "Решающий удар +"
+    },
+    "pack02:6947084": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947084",
+      "original": "Enhance Finisher ++",
+      "translation": "Решающий удар ++"
+    },
+    "pack02:6947085": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947085",
+      "original": "Merciless Blow",
+      "translation": "Безжалостный удар"
+    },
+    "pack02:6947086": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947086",
+      "original": "Relentless Blow",
+      "translation": "Неумолимый удар"
+    },
+    "pack02:6947087": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947087",
+      "original": "Ruthless Blow",
+      "translation": "Беспощадный удар"
+    },
+    "pack02:6947096": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947096",
+      "original": "Area Bonus",
+      "translation": "Бонус от радиуса дейст."
+    },
+    "pack02:6947097": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947097",
+      "original": "Area Bonus +",
+      "translation": "Бонус от радиуса дейст.+"
+    },
+    "pack02:6947098": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947098",
+      "original": "Effective vs Many",
+      "translation": "Эффективно против многих"
+    },
+    "pack02:6947099": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947099",
+      "original": "Multi Bonus",
+      "translation": "Для кучи"
+    },
+    "pack02:6947101": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947101",
+      "original": "Few Bonus",
+      "translation": "Малый бонус"
+    },
+    "pack02:6947102": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947102",
+      "original": "Few Bonus +",
+      "translation": "Малый бонус +"
+    },
+    "pack02:6947103": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947103",
+      "original": "Effective vs One",
+      "translation": "Эффективно против одного"
+    },
+    "pack02:6947104": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947104",
+      "original": "Single Bonus",
+      "translation": "Бонус на одного"
+    },
+    "pack02:6947106": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947106",
+      "original": "Few + Many Bonus",
+      "translation": "Бонусы на мало+много"
+    },
+    "pack02:6947111": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947111",
+      "original": "Enhance Last",
+      "translation": "Последний шанс"
+    },
+    "pack02:6947112": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947112",
+      "original": "Enhance Last +",
+      "translation": "Последний шанс+"
+    },
+    "pack02:6947113": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947113",
+      "original": "Final Blow",
+      "translation": "Финальный удар"
+    },
+    "pack02:6947114": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947114",
+      "original": "Last Strike",
+      "translation": "Заключительный шанс"
+    },
+    "pack02:6947116": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947116",
+      "original": "Compress Count",
+      "translation": "Сжатие использований"
+    },
+    "pack02:6947117": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947117",
+      "original": "Compress Count +",
+      "translation": "Сжатие использований +"
+    },
+    "pack02:6947118": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947118",
+      "original": "Force Use",
+      "translation": "Принудительное использование"
+    },
+    "pack02:6947119": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947119",
+      "original": "Final One",
+      "translation": "Единственное использование"
+    },
+    "pack02:6947121": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947121",
+      "original": "Boost Count",
+      "translation": "Повышение от числа исп."
+    },
+    "pack02:6947122": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947122",
+      "original": "Boost Count +",
+      "translation": "Повышение от числа исп. +"
+    },
+    "pack02:6947123": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947123",
+      "original": "Bonus Count Boost",
+      "translation": "Бонус числа использований"
+    },
+    "pack02:6947124": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947124",
+      "original": "Enhance and Increase",
+      "translation": "Усиление и увеличение"
+    },
+    "pack02:6947129": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947129",
+      "original": "Fast Use",
+      "translation": "Быстрое использование"
+    },
+    "pack02:6947130": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947130",
+      "original": "Fast Use +",
+      "translation": "Быстрое использование +"
+    },
+    "pack02:6947131": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947131",
+      "original": "Sonic Throw",
+      "translation": "Сверхзвуковой бросок"
+    },
+    "pack02:6947132": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947132",
+      "original": "Terrific Throw",
+      "translation": "Потрясающий бросок"
+    },
+    "pack02:6947134": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947134",
+      "original": "Power Throw",
+      "translation": "Усиление предмета"
+    },
+    "pack02:6947135": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947135",
+      "original": "Power Throw +",
+      "translation": "Усиление предмета +"
+    },
+    "pack02:6947136": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947136",
+      "original": "Strong Throw",
+      "translation": "Мощный бросок"
+    },
+    "pack02:6947145": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947145",
+      "original": "Cunning Wit",
+      "translation": "Остроумие"
+    },
+    "pack02:6947146": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947146",
+      "original": "Splendid Glory",
+      "translation": "Великолепная слава"
+    },
+    "pack02:6947147": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947147",
+      "original": "Benevolent Light",
+      "translation": "Доброжелательный свет"
+    },
+    "pack02:6947148": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947148",
+      "original": "Wild Instinct",
+      "translation": "Дикий инстинкт"
+    },
+    "pack02:6947149": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947149",
+      "original": "Persistent Faith",
+      "translation": "Стойкая вера"
+    },
+    "pack02:6947150": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947150",
+      "original": "Empty World",
+      "translation": "Пустой мир"
+    },
+    "pack02:6947151": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947151",
+      "original": "Power of Madness",
+      "translation": "Сила безумия"
+    },
+    "pack02:6947152": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947152",
+      "original": "Burning Passion",
+      "translation": "Горячая страсть"
+    },
+    "pack02:6947153": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947153",
+      "original": "Unwavering Spirit",
+      "translation": "Непоколебимый дух"
+    },
+    "pack02:6947154": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947154",
+      "original": "Fog of Illusion",
+      "translation": "Туман иллюзии"
+    },
+    "pack02:6947155": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947155",
+      "original": "Bonds of Belief",
+      "translation": "Узы веры"
+    },
+    "pack02:6947156": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947156",
+      "original": "Hammer of Justice",
+      "translation": "Молот справедливости"
+    },
+    "pack02:6947157": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947157",
+      "original": "Dreadful King",
+      "translation": "Ужасный король"
+    },
+    "pack02:6947158": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947158",
+      "original": "Star of Expectation",
+      "translation": "Звезда надежды"
+    },
+    "pack02:6947159": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947159",
+      "original": "Ray of Hope",
+      "translation": "Луч надежды"
+    },
+    "pack02:6947160": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947160",
+      "original": "Awakening Courage",
+      "translation": "Пробуждённая смелость"
+    },
+    "pack02:6947161": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947161",
+      "original": "Kind Soul",
+      "translation": "Мастер комбо"
+    },
+    "pack02:6947162": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947162",
+      "original": "Indomitable Soul",
+      "translation": "Непоколебимый дух"
+    },
+    "pack02:6947164": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947164",
+      "original": "Follow-up: Pain Atk",
+      "translation": "Доп. атака: боль"
+    },
+    "pack02:6947165": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947165",
+      "original": "Follow-up: Magic Atk",
+      "translation": "Доп. атака: магия"
+    },
+    "pack02:6947166": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947166",
+      "original": "Follow-up: Fire Atk",
+      "translation": "Доп. атака: огонь"
+    },
+    "pack02:6947167": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947167",
+      "original": "Follow-up: Ice Atk",
+      "translation": "Доп. атака: лёд"
+    },
+    "pack02:6947168": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947168",
+      "original": "Follow-up: Lightning Atk",
+      "translation": "Доп. атака: молния"
+    },
+    "pack02:6947169": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947169",
+      "original": "Follow-up: Air Atk",
+      "translation": "Доп. атака: воздух"
+    },
+    "pack02:6947170": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947170",
+      "original": "Follow-up: Rage Atk",
+      "translation": "Доп. атака: ярость"
+    },
+    "pack02:6947171": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947171",
+      "original": "Follow-up: Poison Atk",
+      "translation": "Доп. атака: яд"
+    },
+    "pack02:6947172": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947172",
+      "original": "Follow-up: Burning Atk",
+      "translation": "Доп. атака: жжение"
+    },
+    "pack02:6947173": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947173",
+      "original": "Follow-up: Silent Atk",
+      "translation": "Доп. атака: тишина"
+    },
+    "pack02:6947174": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947174",
+      "original": "Follow-up: Sleep Atk",
+      "translation": "Доп. атака: сон"
+    },
+    "pack02:6947175": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947175",
+      "original": "Follow-up: Vampire Atk",
+      "translation": "Доп. атака: вампир"
+    },
+    "pack02:6947176": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947176",
+      "original": "Follow-up: Power Split",
+      "translation": "Доп. атака: разделение АТК"
+    },
+    "pack02:6947177": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947177",
+      "original": "Follow-up: Guard Split",
+      "translation": "Доп. атака: разделение ЗЩТ"
+    },
+    "pack02:6947178": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947178",
+      "original": "Follow-up: Motion Split",
+      "translation": "Доп. атака: разделение СКР"
+    },
+    "pack02:6947179": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947179",
+      "original": "Follow-up: Drain Power",
+      "translation": "Доп. атака: вытягивание АТК"
+    },
+    "pack02:6947180": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947180",
+      "original": "Follow-up: Drain Defense",
+      "translation": "Доп. атака: вытягивание ЗЩТ"
+    },
+    "pack02:6947181": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947181",
+      "original": "Follow-up: Drain Motion",
+      "translation": "Доп. атака: вытягивание СКР"
+    },
+    "pack02:6947182": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947182",
+      "original": "Glass Shield",
+      "translation": "Стеклянный щит"
+    },
+    "pack02:6947183": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947183",
+      "original": "Demon's Dominance",
+      "translation": "Власть демона"
+    },
+    "pack02:6947184": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947184",
+      "original": "Forbidden Contract",
+      "translation": "Запретная сила"
+    },
+    "pack02:6947185": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947185",
+      "original": "Shroomtrooper Regen",
+      "translation": "Грибная регенерация"
+    },
+    "pack02:6947186": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947186",
+      "original": "Prospector Treasure",
+      "translation": "Искатель сокровищ"
+    },
+    "pack02:6947187": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947187",
+      "original": "Mountain God Bless",
+      "translation": "Благословение бога горы"
+    },
+    "pack02:6947188": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947188",
+      "original": "Lich Form",
+      "translation": "Форма Лича"
+    },
+    "pack02:6947189": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947189",
+      "original": "Eternal Power",
+      "translation": "Безграничная сила"
+    },
+    "pack02:6947190": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947190",
+      "original": "Shroomking's Regen",
+      "translation": "Регенерация высшего гриба"
+    },
+    "pack02:6947191": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947191",
+      "original": "Uncontrolled Aura",
+      "translation": "Бесконтрольная аура"
+    },
+    "pack02:6947192": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947192",
+      "original": "Positive Risk",
+      "translation": "Положительный риск"
+    },
+    "pack02:6947193": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947193",
+      "original": "Negative Risk",
+      "translation": "Отрицательный риск"
+    },
+    "pack02:6947194": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947194",
+      "original": "Devil Shield",
+      "translation": "Щит дьявола"
+    },
+    "pack02:6947195": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947195",
+      "original": "Evil God's Power",
+      "translation": "Мощь злого бога"
+    },
+    "pack02:6947196": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947196",
+      "original": "Heightened Soul",
+      "translation": "Усиление духа"
+    },
+    "pack02:6947197": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947197",
+      "original": "Flow of Gusts",
+      "translation": "Порывы ветра"
+    },
+    "pack02:6947198": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947198",
+      "original": "Alchemic Star",
+      "translation": "Алхимическая звезда"
+    },
+    "pack02:6947199": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947199",
+      "original": "Force Cure",
+      "translation": "Мощное исцеление"
+    },
+    "pack02:6947200": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947200",
+      "original": "Goddess' Curse",
+      "translation": "Проклятие богини"
+    },
+    "pack02:6947201": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947201",
+      "original": "Verdict of Rage",
+      "translation": "Вспышка ярости"
+    },
+    "pack02:6947202": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947202",
+      "original": "Heal Stun",
+      "translation": "Лечение оглушения"
+    },
+    "pack02:6947203": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947203",
+      "original": "Perpetual Motion",
+      "translation": "Вечный двигатель"
+    },
+    "pack02:6947207": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947207",
+      "original": "Barrage Attack",
+      "translation": "Заградительная атака"
+    },
+    "pack02:6947208": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947208",
+      "original": "Skillful Attack",
+      "translation": "Искусная атака"
+    },
+    "pack02:6947209": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947209",
+      "original": "Persistent Attack",
+      "translation": "Настойчивая атака"
+    },
+    "pack02:6947226": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947226",
+      "original": "Auto Activate 20%",
+      "translation": "Автоактивация 20%"
+    },
+    "pack02:6947227": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947227",
+      "original": "Auto Activate 30%",
+      "translation": "Автоактивация 30%"
+    },
+    "pack02:6947228": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947228",
+      "original": "Auto Activate 50%",
+      "translation": "Автоактивация 50%"
+    },
+    "pack02:6947229": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947229",
+      "original": "Auto Use",
+      "translation": "Автоиспользование"
+    },
+    "pack02:6947231": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947231",
+      "original": "Remove Attributes",
+      "translation": "Удаление атрибутов"
+    },
+    "pack02:6947233": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947233",
+      "original": "Nectar of Dusk",
+      "translation": "Нектар сумрака"
+    },
+    "pack02:6947234": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947234",
+      "original": "Cure of All Illnesses",
+      "translation": "Исцеление всех недугов"
+    },
+    "pack02:6947235": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947235",
+      "original": "Full of Spirit",
+      "translation": "Полнота духа"
+    },
+    "pack02:6947236": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947236",
+      "original": "Frozen Delicacy",
+      "translation": "Замороженный деликатес"
+    },
+    "pack02:6947237": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947237",
+      "original": "Light of Harmony",
+      "translation": "Свет гармонии"
+    },
+    "pack02:6947238": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947238",
+      "original": "Top Grade Hardness",
+      "translation": "Высший класс твёрдости"
+    },
+    "pack02:6947239": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947239",
+      "original": "Diamond Shield",
+      "translation": "Алмазный щит"
+    },
+    "pack02:6947240": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947240",
+      "original": "Tough",
+      "translation": "Твёрдый"
+    },
+    "pack02:6947241": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947241",
+      "original": "Demonic Power",
+      "translation": "Демоническая сила"
+    },
+    "pack02:6947242": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947242",
+      "original": "Ceaseless Aura",
+      "translation": "Привлекающая аура"
+    },
+    "pack02:6947243": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947243",
+      "original": "Top Fashion",
+      "translation": "Стиль"
+    },
+    "pack02:6947244": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947244",
+      "original": "Cool Fashion",
+      "translation": "Стиль+"
+    },
+    "pack02:6947245": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947245",
+      "original": "Hot Fashion",
+      "translation": "Стиль++"
+    },
+    "pack02:6947246": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947246",
+      "original": "Pure Power",
+      "translation": "Сила очищения"
+    },
+    "pack02:6947247": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947247",
+      "original": "Dragon Aura",
+      "translation": "Аура дракона"
+    },
+    "pack02:6947248": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947248",
+      "original": "Dragon Soul",
+      "translation": "Душа дракона"
+    },
+    "pack02:6947249": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947249",
+      "original": "Dragon's Vitality",
+      "translation": "Стойкость дракона"
+    },
+    "pack02:6947250": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947250",
+      "original": "Controls Gravity",
+      "translation": "Контроль гравитации"
+    },
+    "pack02:6947251": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947251",
+      "original": "Light as Wind",
+      "translation": "Лёгкость ветра"
+    },
+    "pack02:6947252": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947252",
+      "original": "Supreme Feel",
+      "translation": "Блаженство"
+    },
+    "pack02:6947253": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947253",
+      "original": "Awakening Heal",
+      "translation": "Мощное оживление"
+    },
+    "pack02:6947254": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947254",
+      "original": "Black Abyss",
+      "translation": "Чёрная бездна"
+    },
+    "pack02:6947255": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947255",
+      "original": "Ancient Shield",
+      "translation": "Щит древности"
+    },
+    "pack02:6947256": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947256",
+      "original": "Aurora Drop",
+      "translation": "Капля Авроры"
+    },
+    "pack02:6947257": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947257",
+      "original": "Twin Powers",
+      "translation": "Двойная сила"
+    },
+    "pack02:6947258": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947258",
+      "original": "Power of Evolution",
+      "translation": "Мощь эволюции"
+    },
+    "pack02:6947278": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947278",
+      "original": "Resonance Blade: Sword",
+      "translation": "Резонансный клинок: меч"
+    },
+    "pack02:6947279": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947279",
+      "original": "Resonance Blade: Sacred",
+      "translation": "Резонансный клинок: завет"
+    },
+    "pack02:6947280": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947280",
+      "original": "Resonance Shield: Body",
+      "translation": "Резонансный щит: тело"
+    },
+    "pack02:6947281": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947281",
+      "original": "Resonance Shield: Guard",
+      "translation": "Резонансный щит: блок"
+    },
+    "pack02:6947282": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947282",
+      "original": "Resonance Art: Blink",
+      "translation": "Резонансный навык: вспышка"
+    },
+    "pack02:6947283": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947283",
+      "original": "Resonance Art: Musou",
+      "translation": "Резонансный навык: мусоу"
+    },
+    "pack02:6947284": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947284",
+      "original": "Resonance All: Heaven",
+      "translation": "Полный резонанс: небо"
+    },
+    "pack02:6947285": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947285",
+      "original": "Resonance All: Truth",
+      "translation": "Полный резонанс: истина"
+    },
+    "pack02:6947286": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947286",
+      "original": "Red Shine",
+      "translation": "Красный блеск"
+    },
+    "pack02:6947287": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947287",
+      "original": "Blue Shine",
+      "translation": "Синий блеск"
+    },
+    "pack02:6947288": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947288",
+      "original": "Green Shine",
+      "translation": "Зелёный блеск"
+    },
+    "pack02:6947289": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947289",
+      "original": "Madder Shine",
+      "translation": "Блеск марены"
+    },
+    "pack02:6947290": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947290",
+      "original": "Black Shine",
+      "translation": "Чёрный блеск"
+    },
+    "pack02:6947291": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947291",
+      "original": "White Shine",
+      "translation": "Белый блеск"
+    },
+    "pack02:6947292": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947292",
+      "original": "Crimson Radiance",
+      "translation": "Багровое сияние"
+    },
+    "pack02:6947293": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947293",
+      "original": "Azure Radiance",
+      "translation": "Лазурное сияние"
+    },
+    "pack02:6947294": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947294",
+      "original": "Jade Radiance",
+      "translation": "Нифритовое сияние"
+    },
+    "pack02:6947295": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947295",
+      "original": "Scarlet Radiance",
+      "translation": "Алое сияние"
+    },
+    "pack02:6947296": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947296",
+      "original": "Dusk Radiance",
+      "translation": "Сумрачное сияние"
+    },
+    "pack02:6947297": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947297",
+      "original": "Gold Radiance",
+      "translation": "Золотое сияние"
+    },
+    "pack02:6947298": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947298",
+      "original": "Truth Fortune",
+      "translation": "Удача искателя истины"
+    },
+    "pack02:6947299": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947299",
+      "original": "Truth Knowledge",
+      "translation": "Знания искателя истины"
+    },
+    "pack02:6947300": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947300",
+      "original": "Truth Memory",
+      "translation": "Опыт искателя истины"
+    },
+    "pack02:6947301": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947301",
+      "original": "Ultimate Stability",
+      "translation": "Абсолютная стабильность"
+    },
+    "pack02:6947302": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947302",
+      "original": "Ultimate Mobility",
+      "translation": "Абсолютная подвижность"
+    },
+    "pack02:6947303": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947303",
+      "original": "Ultimate Regeneration",
+      "translation": "Абсолютная регенерация"
+    },
+    "pack02:6947304": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947304",
+      "original": "Ultimate Criticality",
+      "translation": "Абсолютная крит. атака"
+    },
+    "pack02:6947305": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947305",
+      "original": "Ultimate Conversion",
+      "translation": "Абсолютная конверсия"
+    },
+    "pack02:6947306": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947306",
+      "original": "Ultimate Evolution",
+      "translation": "Абсолютная эволюция"
+    },
+    "pack02:6947307": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947307",
+      "original": "Ultimate Vitality",
+      "translation": "Абсолютная живучесть"
+    },
+    "pack02:6947308": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947308",
+      "original": "Ultimate Mentality",
+      "translation": "Абсолютный интеллект"
+    },
+    "pack02:6947309": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947309",
+      "original": "Ultimate Enhancement",
+      "translation": "Абсолютное усиление"
+    },
+    "pack02:6947310": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947310",
+      "original": "Ultimate Attack",
+      "translation": "Абсолютная атака"
+    },
+    "pack02:6947311": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947311",
+      "original": "Ultimate Defense",
+      "translation": "Абсолютная защита"
+    },
+    "pack02:6947312": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947312",
+      "original": "Ultimate Energy",
+      "translation": "Абсолютная мощь"
+    },
+    "pack02:6947313": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947313",
+      "original": "Ultimate Strength",
+      "translation": "Абсолютная сила"
+    },
+    "pack02:6947314": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947314",
+      "original": "Ultimate Accuracy",
+      "translation": "Абсолютная точность"
+    },
+    "pack02:6947315": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947315",
+      "original": "Ultimate Evasion",
+      "translation": "Абсолютное уклонение"
+    },
+    "pack02:6947316": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947316",
+      "original": "Ultimate Fire Resistance",
+      "translation": "Абсолютное сопр. огню"
+    },
+    "pack02:6947317": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947317",
+      "original": "Ultimate Ice Resistance",
+      "translation": "Абсолютное сопр. льду"
+    },
+    "pack02:6947318": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947318",
+      "original": "Ultimate Thunder Resistance",
+      "translation": "Абсолютное сопр. молнии"
+    },
+    "pack02:6947319": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947319",
+      "original": "Ultimate Air Resistance",
+      "translation": "Абсолютное сопр. воздуху"
+    },
+    "pack02:6947320": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947320",
+      "original": "Ultimate Resistance",
+      "translation": "Абсолютное сопротивление"
+    },
+    "pack02:6947321": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947321",
+      "original": "Ultimate Support",
+      "translation": "Абсолютная поддержка"
+    },
+    "pack02:6947322": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947322",
+      "original": "Ultimate Compensation",
+      "translation": "Абсолютная компенсация"
+    },
+    "pack02:6947323": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947323",
+      "original": "Ultimate Recovery",
+      "translation": "Абсолютное восстановление"
+    },
+    "pack02:6947324": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947324",
+      "original": "Ultimate Turn-Around",
+      "translation": "Абсолютная готовность"
+    },
+    "pack02:6947325": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947325",
+      "original": "Ultimate Mitigation",
+      "translation": "Асолютное смягчение"
+    },
+    "pack02:6947326": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947326",
+      "original": "Ultimate Stunning Force",
+      "translation": "Абсолютная ошеломит. сила"
+    },
+    "pack02:6947327": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947327",
+      "original": "Divine Mobility",
+      "translation": "Божественная подвижность"
+    },
+    "pack02:6947328": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947328",
+      "original": "Divine Regeneration",
+      "translation": "Божественная регенерация"
+    },
+    "pack02:6947329": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947329",
+      "original": "Divine Conversion",
+      "translation": "Божественное преобразование"
+    },
+    "pack02:6947330": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947330",
+      "original": "Divine Enhancement",
+      "translation": "Божественное усиление"
+    },
+    "pack02:6947331": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947331",
+      "original": "Divine Attack",
+      "translation": "Божественная атака"
+    },
+    "pack02:6947332": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947332",
+      "original": "Divine Defense",
+      "translation": "Божественная защита"
+    },
+    "pack02:6947333": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947333",
+      "original": "Divine Energy",
+      "translation": "Божественная энергия"
+    },
+    "pack02:6947334": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947334",
+      "original": "Divine Strength",
+      "translation": "Божественная сила"
+    },
+    "pack02:6947335": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947335",
+      "original": "Divine Support",
+      "translation": "Божественная поддержка"
+    },
+    "pack02:6947336": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947336",
+      "original": "Divine Turn-Around",
+      "translation": "Божественный разворот"
+    },
+    "pack02:6947337": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947337",
+      "original": "Resonance Blade: Master",
+      "translation": "Резонансный клинок: мастер"
+    },
+    "pack02:6947338": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947338",
+      "original": "Resonance Shield: Vajra",
+      "translation": "Резонансный щит: ваджра"
+    },
+    "pack02:6947339": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947339",
+      "original": "Resonance Art: Glory",
+      "translation": "Резонансный навык: слава"
+    },
+    "pack02:6947340": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947340",
+      "original": "Resonance All: Creation",
+      "translation": "Полный резонанс: созидание"
+    },
+    "pack02:6947341": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947341",
+      "original": "Evil's Bane",
+      "translation": "Бич зла"
+    },
+    "pack02:6947342": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947342",
+      "original": "Peerless Strike",
+      "translation": "Бесподобный удар"
+    },
+    "pack02:6947343": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947343",
+      "original": "Lightning Throw",
+      "translation": "Молниеносный бросок"
+    },
+    "pack02:6947344": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947344",
+      "original": "Mighty Throw",
+      "translation": "Мощный бросок"
+    },
+    "pack02:6947345": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947345",
+      "original": "Twin Powers: Pair",
+      "translation": "Двойная сила: пара"
+    },
+    "pack02:6947346": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947346",
+      "original": "Sun's Protection",
+      "translation": "Солнечная защита"
+    },
+    "pack02:6947347": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947347",
+      "original": "Moon's Protection",
+      "translation": "Лунная защита"
+    },
+    "pack02:6947348": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947348",
+      "original": "Warrior Star",
+      "translation": "Звезда воина"
+    },
+    "pack02:6947349": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947349",
+      "original": "Holy Sacrifice",
+      "translation": "Священная жертва"
+    },
+    "pack02:6947350": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947350",
+      "original": "Rose Fairy's Prayer",
+      "translation": "Молитва розовой феи"
+    },
+    "pack02:6947562": {
+      "source": "pack02_text_en",
+      "file": "str_item_potential.xml",
+      "string_no": "6947562",
+      "original": "None",
+      "translation": "Нет"
+    }
+  }
+}

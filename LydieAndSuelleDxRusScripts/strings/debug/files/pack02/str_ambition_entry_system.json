@@ -1,0 +1,974 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_ambition_entry_system.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:851969": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851969",
+      "original": "Increase your &lt;CLGR&gt;Alchemy Level&lt;CLNR&gt;.",
+      "translation": "Повысить &lt;CLGR&gt;Ур. алхимии&lt;CLNR&gt;."
+    },
+    "pack02:851970": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851970",
+      "original": "Increase your &lt;CLGR&gt;Battle Level&lt;CLNR&gt;.",
+      "translation": "Повысить &lt;CLGR&gt;Ур. боя&lt;CLNR&gt;."
+    },
+    "pack02:851971": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851971",
+      "original": "Use a &lt;CLGR&gt;Linking Chain&lt;CLNR&gt;.",
+      "translation": "Использовать &lt;CLGR&gt;Соединительная цепь&lt;CLNR&gt;."
+    },
+    "pack02:851972": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851972",
+      "original": "Go to the &lt;CLGR&gt;Heavenly Flower Garden Atelier&lt;CLNR&gt;.",
+      "translation": "Посетить &lt;CLGR&gt;Ателье «Небесный цветочный сад»&lt;CLNR&gt;."
+    },
+    "pack02:851973": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851973",
+      "original": "Create &lt;CLGR&gt;Philosopher Stones&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Философские камни&lt;CLNR&gt;."
+    },
+    "pack02:851974": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851974",
+      "original": "Create &lt;CLGR&gt;N/A&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Н/д&lt;CLNR&gt;."
+    },
+    "pack02:851975": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851975",
+      "original": "Create &lt;CLGR&gt;Mystery Elixir&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Чудодейственный эликсир&lt;CLNR&gt;."
+    },
+    "pack02:851976": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851976",
+      "original": "Create &lt;CLGR&gt;Himmelle Relief&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Химмеле-рельеф&lt;CLNR&gt;."
+    },
+    "pack02:851977": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851977",
+      "original": "Create &lt;CLGR&gt;Bond of Wisdom&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Узы мудрости&lt;CLNR&gt;."
+    },
+    "pack02:851978": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851978",
+      "original": "Create &lt;CLGR&gt;Diamond Rune Stone&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Алмазный рунический камень&lt;CLNR&gt;."
+    },
+    "pack02:851979": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851979",
+      "original": "Defeat &lt;CLGR&gt;Uber Dragon&lt;CLNR&gt;.",
+      "translation": "Победить &lt;CLGR&gt;Сверхдракон&lt;CLNR&gt;."
+    },
+    "pack02:851980": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851980",
+      "original": "Defeat &lt;CLGR&gt;Death Knight Addis&lt;CLNR&gt;.",
+      "translation": "Победить &lt;CLGR&gt;Адис ~рыцарь смерти~&lt;CLNR&gt;."
+    },
+    "pack02:851981": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851981",
+      "original": "Create &lt;CLGR&gt;Star Suelle&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Звёздная Сюэль&lt;CLNR&gt;."
+    },
+    "pack02:851982": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851982",
+      "original": "Create &lt;CLGR&gt;Dragoon Mail&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Драгунская броня&lt;CLNR&gt;."
+    },
+    "pack02:851983": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851983",
+      "original": "Defeat &lt;CLGR&gt;ghost-type monsters&lt;CLNR&gt;.",
+      "translation": "Победить &lt;CLGR&gt;монстров типа «призрак»&lt;CLNR&gt;."
+    },
+    "pack02:851984": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851984",
+      "original": "Obtain &lt;CLGR&gt;Dunkelheit&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Дункельхайт&lt;CLNR&gt;."
+    },
+    "pack02:851985": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851985",
+      "original": "Obtain &lt;CLGR&gt;Black Star Stone&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Чёрнозвёздный камень&lt;CLNR&gt;."
+    },
+    "pack02:851986": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851986",
+      "original": "Obtain &lt;CLGR&gt;Wicked Bone&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Странная кость&lt;CLNR&gt;."
+    },
+    "pack02:851987": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851987",
+      "original": "Obtain &lt;CLGR&gt;Dragon Eye&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Драконий глаз&lt;CLNR&gt;."
+    },
+    "pack02:851988": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851988",
+      "original": "Gather &lt;CLGR&gt;(Insects)&lt;CLNR&gt;.",
+      "translation": "Собрать &lt;CLGR&gt;(Насекомое)&lt;CLNR&gt;."
+    },
+    "pack02:851989": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851989",
+      "original": "Use &lt;CLGR&gt;All-In Super-Bomb&lt;CLNR&gt;.",
+      "translation": "Использовать &lt;CLGR&gt;Супербомба «всё или ничего»&lt;CLNR&gt;."
+    },
+    "pack02:851990": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851990",
+      "original": "Use &lt;CLGR&gt;Super-speed Wind-up Key&lt;CLNR&gt;.",
+      "translation": "Использовать &lt;CLGR&gt;Сверхскоростная заводная пружина&lt;CLNR&gt;."
+    },
+    "pack02:851991": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851991",
+      "original": "Use &lt;CLGR&gt;The Darkness&lt;CLNR&gt;.",
+      "translation": "Использовать &lt;CLGR&gt;Тьма&lt;CLNR&gt;."
+    },
+    "pack02:851992": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851992",
+      "original": "Use some &lt;CLGR&gt;Cutie Tea&lt;CLNR&gt;.",
+      "translation": "Использовать &lt;CLGR&gt;Чай милушка&lt;CLNR&gt;."
+    },
+    "pack02:851993": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851993",
+      "original": "Use &lt;CLGR&gt;Full-Power Gunplay&lt;CLNR&gt;.",
+      "translation": "Использовать &lt;CLGR&gt;Полномощная перестрелка&lt;CLNR&gt;."
+    },
+    "pack02:851994": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851994",
+      "original": "Use &lt;CLGR&gt;Firis &amp; Sue Surprise&lt;CLNR&gt;.",
+      "translation": "Использовать &lt;CLGR&gt;Сюрприз Фирис &amp; Сью&lt;CLNR&gt;."
+    },
+    "pack02:851995": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851995",
+      "original": "Make some &lt;CLGR&gt;heat-hardening Alchemic Clay&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;термостойкая алхимическая глина&lt;CLNR&gt;."
+    },
+    "pack02:851996": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851996",
+      "original": "Make some &lt;CLGR&gt;cleansing Distilled Water&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;очищающая очищенная вода&lt;CLNR&gt;."
+    },
+    "pack02:851997": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851997",
+      "original": "Make some &lt;CLGR&gt;Neutralizer Purple&lt;CLNR&gt; with &lt;CLGR&gt;Big Destruction&lt;CLNR&gt; trait.",
+      "translation": "Создать &lt;CLGR&gt;Фиолетовый нейтрализатор&lt;CLNR&gt; со свойством &lt;CLGR&gt;Сильное разрушение&lt;CLNR&gt;."
+    },
+    "pack02:851998": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851998",
+      "original": "Make some &lt;CLGR&gt;Ashes of Origin&lt;CLNR&gt; with &lt;CLGR&gt;Great Recovery&lt;CLNR&gt; trait.",
+      "translation": "Создать &lt;CLGR&gt;Пепел начала&lt;CLNR&gt; со свойством &lt;CLGR&gt;Большое восстановление&lt;CLNR&gt;."
+    },
+    "pack02:851999": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "851999",
+      "original": "Help with &lt;CLGR&gt;Crazy Recipes&lt;CLNR&gt;.",
+      "translation": "Помочь с &lt;CLGR&gt;Безумные рецепты&lt;CLNR&gt;."
+    },
+    "pack02:852000": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852000",
+      "original": "Gather some &lt;CLGR&gt;Wool&lt;CLNR&gt;.",
+      "translation": "Собрать &lt;CLGR&gt;Шерсть&lt;CLNR&gt;."
+    },
+    "pack02:852001": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852001",
+      "original": "Obtain &lt;CLGR&gt;Aroma Holts&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Арома-хольтс&lt;CLNR&gt;."
+    },
+    "pack02:852002": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852002",
+      "original": "Make &lt;CLGR&gt;Simple Cookies&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Простое печенье&lt;CLNR&gt;."
+    },
+    "pack02:852003": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852003",
+      "original": "Obtain &lt;CLGR&gt;Nectar Fruit&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Нектарный фрукт&lt;CLNR&gt;."
+    },
+    "pack02:852004": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852004",
+      "original": "Catch &lt;CLGR&gt;Camber&lt;CLNR&gt;.",
+      "translation": "Поймать &lt;CLGR&gt;Камбер&lt;CLNR&gt;."
+    },
+    "pack02:852005": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852005",
+      "original": "Catch &lt;CLGR&gt;Sea Horse&lt;CLNR&gt;.",
+      "translation": "Поймать &lt;CLGR&gt;Морской конёк&lt;CLNR&gt;."
+    },
+    "pack02:852006": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852006",
+      "original": "Catch &lt;CLGR&gt;Sea Snails&lt;CLNR&gt;.",
+      "translation": "Поймать &lt;CLGR&gt;Морские улитки&lt;CLNR&gt;."
+    },
+    "pack02:852007": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852007",
+      "original": "Catch &lt;CLGR&gt;Lobsters&lt;CLNR&gt;.",
+      "translation": "Поймать &lt;CLGR&gt;Омары&lt;CLNR&gt;."
+    },
+    "pack02:852008": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852008",
+      "original": "Catch &lt;CLGR&gt;Balloon Fish&lt;CLNR&gt;.",
+      "translation": "Поймать &lt;CLGR&gt;Рыба-шар&lt;CLNR&gt;."
+    },
+    "pack02:852009": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852009",
+      "original": "Catch &lt;CLGR&gt;one of the Old Masters&lt;CLNR&gt;.",
+      "translation": "Поймать &lt;CLGR&gt;одного из Владык&lt;CLNR&gt;."
+    },
+    "pack02:852010": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852010",
+      "original": "Make &lt;CLGR&gt;medicine type item via synthesis&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;лекарство через синтез&lt;CLNR&gt;."
+    },
+    "pack02:852011": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852011",
+      "original": "Make some &lt;CLGR&gt;Breezy Aroma&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Освежающая свеча&lt;CLNR&gt;."
+    },
+    "pack02:852012": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852012",
+      "original": "Make some &lt;CLGR&gt;Apcol&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Апкол&lt;CLNR&gt;."
+    },
+    "pack02:852013": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852013",
+      "original": "Make some &lt;CLGR&gt;Warding Incense&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Защитные благовония&lt;CLNR&gt;."
+    },
+    "pack02:852014": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852014",
+      "original": "Make some &lt;CLGR&gt;Dark Water&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Тёмная вода&lt;CLNR&gt;."
+    },
+    "pack02:852015": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852015",
+      "original": "Gather &lt;CLGR&gt;Purple Flowers&lt;CLNR&gt;.",
+      "translation": "Собрать &lt;CLGR&gt;Фиолетовые цветы&lt;CLNR&gt;."
+    },
+    "pack02:852016": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852016",
+      "original": "Gather &lt;CLGR&gt;Snow Queen&lt;CLNR&gt;.",
+      "translation": "Собрать &lt;CLGR&gt;Снежная королева&lt;CLNR&gt;."
+    },
+    "pack02:852017": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852017",
+      "original": "Gather &lt;CLGR&gt;Lakebottom Water&lt;CLNR&gt;.",
+      "translation": "Собрать &lt;CLGR&gt;Рекадонная вода&lt;CLNR&gt;."
+    },
+    "pack02:852018": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852018",
+      "original": "Gather &lt;CLGR&gt;Rainbow Corundum&lt;CLNR&gt;.",
+      "translation": "Собрать &lt;CLGR&gt;Радужная корунда&lt;CLNR&gt;."
+    },
+    "pack02:852019": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852019",
+      "original": "Gather &lt;CLGR&gt;Marble Salt&lt;CLNR&gt;.",
+      "translation": "Собрать &lt;CLGR&gt;Мраморная соль&lt;CLNR&gt;."
+    },
+    "pack02:852020": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852020",
+      "original": "Gather &lt;CLGR&gt;Alberich&lt;CLNR&gt;.",
+      "translation": "Собрать &lt;CLGR&gt;Альберих&lt;CLNR&gt;."
+    },
+    "pack02:852021": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852021",
+      "original": "Defeat &lt;CLGR&gt;Super Puni&lt;CLNR&gt;.",
+      "translation": "Победить &lt;CLGR&gt;Суперпуни&lt;CLNR&gt;."
+    },
+    "pack02:852022": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852022",
+      "original": "Defeat &lt;CLGR&gt;Justrun-Foryourlife&lt;CLNR&gt;.",
+      "translation": "Победить &lt;CLGR&gt;Безумногриб&lt;CLNR&gt;."
+    },
+    "pack02:852023": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852023",
+      "original": "Defeat &lt;CLGR&gt;Sage’s Envoy&lt;CLNR&gt;.",
+      "translation": "Победить &lt;CLGR&gt;Последователь мудреца&lt;CLNR&gt;."
+    },
+    "pack02:852024": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852024",
+      "original": "Defeat &lt;CLGR&gt;Dark Maiden&lt;CLNR&gt;.",
+      "translation": "Победить &lt;CLGR&gt;Дева тьмы&lt;CLNR&gt;."
+    },
+    "pack02:852025": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852025",
+      "original": "Visit the &lt;CLGR&gt;Smithy&lt;CLNR&gt;.",
+      "translation": "Посетить &lt;CLGR&gt;Кузница&lt;CLNR&gt;."
+    },
+    "pack02:852026": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852026",
+      "original": "Visit the &lt;CLGR&gt;Castle Entrance Hall&lt;CLNR&gt;.",
+      "translation": "Посетить &lt;CLGR&gt;Вестибюль замка&lt;CLNR&gt;."
+    },
+    "pack02:852027": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852027",
+      "original": "Visit the &lt;CLGR&gt;Church of Vegne&lt;CLNR&gt;.",
+      "translation": "Посетить &lt;CLGR&gt;Церковь Вегны&lt;CLNR&gt;."
+    },
+    "pack02:852028": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852028",
+      "original": "Visit &lt;CLGR&gt;Atelier Borthayre&lt;CLNR&gt;.",
+      "translation": "Посетить &lt;CLGR&gt;Ателье Бортайр&lt;CLNR&gt;."
+    },
+    "pack02:852029": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852029",
+      "original": "Visit &lt;CLGR&gt;Garden of Merk&lt;CLNR&gt;.",
+      "translation": "Посетить &lt;CLGR&gt;Сад Мерка&lt;CLNR&gt;."
+    },
+    "pack02:852030": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852030",
+      "original": "Visit &lt;CLGR&gt;Ilmeria's Atelier&lt;CLNR&gt;.",
+      "translation": "Посетить &lt;CLGR&gt;Ателье Ильмерии&lt;CLNR&gt;."
+    },
+    "pack02:852031": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852031",
+      "original": "Visit &lt;CLGR&gt;Soleil Street&lt;CLNR&gt;.",
+      "translation": "Посетить &lt;CLGR&gt;Улицу Солей&lt;CLNR&gt;."
+    },
+    "pack02:852032": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852032",
+      "original": "Create &lt;CLGR&gt;Wind God's Bag&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Мешочек с ветром&lt;CLNR&gt;."
+    },
+    "pack02:852033": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852033",
+      "original": "Create &lt;CLGR&gt;High Price+&lt;CLNR&gt; &lt;CLGR&gt;Diamonds&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Высокая цена+&lt;CLNR&gt; &lt;CLGR&gt;Алмазы&lt;CLNR&gt;."
+    },
+    "pack02:852034": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852034",
+      "original": "Obtain &lt;CLGR&gt;Dragon Scale&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Чешуя дракона&lt;CLNR&gt;."
+    },
+    "pack02:852035": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852035",
+      "original": "Obtain a &lt;CLGR&gt;Spirit Rock&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Кристалл духа&lt;CLNR&gt;."
+    },
+    "pack02:852036": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852036",
+      "original": "Obtain some &lt;CLGR&gt;Ancient Water&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Древняя вода&lt;CLNR&gt;."
+    },
+    "pack02:852037": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852037",
+      "original": "Create &lt;CLGR&gt;Lightning Crystal&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Молникристалл&lt;CLNR&gt;."
+    },
+    "pack02:852038": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852038",
+      "original": "Create &lt;CLGR&gt;Symmetrical&lt;CLNR&gt; &lt;CLGR&gt;Lightning Bombs&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Симметричность&lt;CLNR&gt; &lt;CLGR&gt;Молниевые бомбы&lt;CLNR&gt;."
+    },
+    "pack02:852039": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852039",
+      "original": "Use &lt;CLGR&gt;Lightning Flash&lt;CLNR&gt;.",
+      "translation": "Использовать &lt;CLGR&gt;Молниевая вспышка&lt;CLNR&gt;."
+    },
+    "pack02:852040": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852040",
+      "original": "Use &lt;CLGR&gt;Lightning Strike&lt;CLNR&gt;.",
+      "translation": "Использовать &lt;CLGR&gt;Электрическая атака&lt;CLNR&gt;."
+    },
+    "pack02:852041": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852041",
+      "original": "Use &lt;CLGR&gt;Accel Guard&lt;CLNR&gt;.",
+      "translation": "Использовать &lt;CLGR&gt;Ускоренная защита&lt;CLNR&gt;."
+    },
+    "pack02:852042": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852042",
+      "original": "Fire &lt;CLGR&gt;Ignition Arrow&lt;CLNR&gt;.",
+      "translation": "Использовать &lt;CLGR&gt;Зажигательная стрела&lt;CLNR&gt;."
+    },
+    "pack02:852043": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852043",
+      "original": "Fire &lt;CLGR&gt;Dwarf’s Rage&lt;CLNR&gt;.",
+      "translation": "Использовать &lt;CLGR&gt;Ярость гнома&lt;CLNR&gt;."
+    },
+    "pack02:852044": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852044",
+      "original": "Use &lt;CLGR&gt;Aura Cannon&lt;CLNR&gt;.",
+      "translation": "Использовать &lt;CLGR&gt;Пушка ауры&lt;CLNR&gt;."
+    },
+    "pack02:852045": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852045",
+      "original": "Create &lt;CLGR&gt;Pirate Flare&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Пиратская вспышка&lt;CLNR&gt;."
+    },
+    "pack02:852046": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852046",
+      "original": "Obtain &lt;CLGR&gt;Backen's Bromide&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Бромид Бакена&lt;CLNR&gt;."
+    },
+    "pack02:852047": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852047",
+      "original": "Defeat &lt;CLGR&gt;Ice Flower Spirits&lt;CLNR&gt;.",
+      "translation": "Победить &lt;CLGR&gt;Духи ледяного цветка&lt;CLNR&gt;."
+    },
+    "pack02:852048": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852048",
+      "original": "Defeat &lt;CLGR&gt;Chromel Verde&lt;CLNR&gt;.",
+      "translation": "Победить &lt;CLGR&gt;Зелёный хромел&lt;CLNR&gt;."
+    },
+    "pack02:852049": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852049",
+      "original": "Defeat &lt;CLGR&gt;Snow Ear&lt;CLNR&gt;.",
+      "translation": "Победить &lt;CLGR&gt;Снежный ушастик&lt;CLNR&gt;."
+    },
+    "pack02:852050": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852050",
+      "original": "Defeat &lt;CLGR&gt;Big Tree Soldier&lt;CLNR&gt;.",
+      "translation": "Победить &lt;CLGR&gt;Хранитель лесов&lt;CLNR&gt;."
+    },
+    "pack02:852051": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852051",
+      "original": "Obtain some &lt;CLGR&gt;(Wood)&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;(Древесина)&lt;CLNR&gt;."
+    },
+    "pack02:852052": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852052",
+      "original": "Obtain &lt;CLGR&gt;Paper Scraps&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Обрывки бумаги&lt;CLNR&gt;."
+    },
+    "pack02:852053": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852053",
+      "original": "Obtain some &lt;CLGR&gt;(Puniballs)&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;(Пуниболы)&lt;CLNR&gt;."
+    },
+    "pack02:852054": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852054",
+      "original": "Obtain &lt;CLGR&gt;Chaotic Dirt&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Хаотичная грязь&lt;CLNR&gt;."
+    },
+    "pack02:852055": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852055",
+      "original": "Obtain &lt;CLGR&gt;Golden Threads&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Золотые нити&lt;CLNR&gt;."
+    },
+    "pack02:852056": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852056",
+      "original": "Obtain &lt;CLGR&gt;Ripple Stone&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Рябый камень&lt;CLNR&gt;."
+    },
+    "pack02:852057": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852057",
+      "original": "Obtain &lt;CLGR&gt;Lava Ore&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Лавовая руда&lt;CLNR&gt;."
+    },
+    "pack02:852058": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852058",
+      "original": "Obtain &lt;CLGR&gt;Raw Jet&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Сырой обсидиан&lt;CLNR&gt;."
+    },
+    "pack02:852059": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852059",
+      "original": "Obtain some &lt;CLGR&gt;Golden Rock&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Златокамень&lt;CLNR&gt;."
+    },
+    "pack02:852060": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852060",
+      "original": "Obtain &lt;CLGR&gt;Big Beast Bone&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Кость большого зверя&lt;CLNR&gt;."
+    },
+    "pack02:852061": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852061",
+      "original": "Create &lt;CLGR&gt;Puni Jelly&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Пуни-желе&lt;CLNR&gt;."
+    },
+    "pack02:852062": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852062",
+      "original": "Create &lt;CLGR&gt;Angel Ribbon&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Ленточка ангела&lt;CLNR&gt;."
+    },
+    "pack02:852063": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852063",
+      "original": "Create &lt;CLGR&gt;Fruit Tea&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Фруктовый чай&lt;CLNR&gt;."
+    },
+    "pack02:852064": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852064",
+      "original": "Create &lt;CLGR&gt;Ori Bomb&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Ори бомба&lt;CLNR&gt;."
+    },
+    "pack02:852065": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852065",
+      "original": "Defeat &lt;CLGR&gt;Potteria&lt;CLNR&gt;.",
+      "translation": "Победить &lt;CLGR&gt;Котелия&lt;CLNR&gt;."
+    },
+    "pack02:852066": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852066",
+      "original": "Defeat &lt;CLGR&gt;Auto Armor&lt;CLNR&gt;.",
+      "translation": "Победить &lt;CLGR&gt;Автоброня&lt;CLNR&gt;."
+    },
+    "pack02:852067": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852067",
+      "original": "Defeat &lt;CLGR&gt;Chromel Rose&lt;CLNR&gt;.",
+      "translation": "Победить &lt;CLGR&gt;Розовый хромел&lt;CLNR&gt;."
+    },
+    "pack02:852068": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852068",
+      "original": "Defeat &lt;CLGR&gt;turtle-type monsters&lt;CLNR&gt;.",
+      "translation": "Победить &lt;CLGR&gt;монстров типа «черепаха»&lt;CLNR&gt;."
+    },
+    "pack02:852069": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852069",
+      "original": "Defeat &lt;CLGR&gt;chroma-type monsters&lt;CLNR&gt;.",
+      "translation": "Победить &lt;CLGR&gt;монстров типа «хрома»&lt;CLNR&gt;."
+    },
+    "pack02:852070": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852070",
+      "original": "Obtain &lt;CLGR&gt;Ertona Crystal&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Эртонский кристалл&lt;CLNR&gt;."
+    },
+    "pack02:852071": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852071",
+      "original": "Obtain &lt;CLGR&gt;Kriev&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Криев&lt;CLNR&gt;."
+    },
+    "pack02:852072": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852072",
+      "original": "Complete &lt;CLGR&gt;requests&lt;CLNR&gt;.",
+      "translation": "Выполнить &lt;CLGR&gt;запросы&lt;CLNR&gt;."
+    },
+    "pack02:852073": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852073",
+      "original": "Make a purchase at a &lt;CLGR&gt;Shop&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Магазин&lt;CLNR&gt;."
+    },
+    "pack02:852074": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852074",
+      "original": "&lt;CLGR&gt;Change&lt;CLNR&gt; your character.",
+      "translation": "&lt;CLGR&gt;Смена&lt;CLNR&gt; персонажа."
+    },
+    "pack02:852075": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852075",
+      "original": "Visit &lt;CLGR&gt;another atelier&lt;CLNR&gt;.",
+      "translation": "Посетить &lt;CLGR&gt;другое ателье&lt;CLNR&gt;."
+    },
+    "pack02:852076": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852076",
+      "original": "Create &lt;CLGR&gt;Neutralizer Green&lt;CLNR&gt; of &lt;CLGR&gt;50+ Quality&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Зелёный нейтрализатор&lt;CLNR&gt; с &lt;CLGR&gt;Качество 50+&lt;CLNR&gt;."
+    },
+    "pack02:852077": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852077",
+      "original": "Create &lt;CLGR&gt;High Price&lt;CLNR&gt; &lt;CLGR&gt;Neutralizer Blue&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Высокая цена&lt;CLNR&gt; &lt;CLGR&gt;Синий нейтрализатор&lt;CLNR&gt;."
+    },
+    "pack02:852078": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852078",
+      "original": "Create &lt;CLGR&gt;Quality Up&lt;CLNR&gt; &lt;CLGR&gt;Neutralizer Yellow&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Качество ↑&lt;CLNR&gt; &lt;CLGR&gt;Жёлтый нейтрализатор&lt;CLNR&gt;."
+    },
+    "pack02:852079": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852079",
+      "original": "Create &lt;CLGR&gt;Neutralizer Red&lt;CLNR&gt; of &lt;CLGR&gt;50+ Quality&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Красный нейтрализатор&lt;CLNR&gt; с &lt;CLGR&gt;Качество 50+&lt;CLNR&gt;."
+    },
+    "pack02:852080": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852080",
+      "original": "Win a &lt;CLGR&gt;battle&lt;CLNR&gt;.",
+      "translation": "Выиграть &lt;CLGR&gt;бой&lt;CLNR&gt;."
+    },
+    "pack02:852081": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852081",
+      "original": "Perform &lt;CLGR&gt;synthesis&lt;CLNR&gt;.",
+      "translation": "Выполнить &lt;CLGR&gt;синтез&lt;CLNR&gt;."
+    },
+    "pack02:852082": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852082",
+      "original": "Obtain some &lt;CLGR&gt;materials&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;материалы&lt;CLNR&gt;."
+    },
+    "pack02:852083": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852083",
+      "original": "Use &lt;CLGR&gt;Strength Meat&lt;CLNR&gt;.",
+      "translation": "Использовать &lt;CLGR&gt;Сытное мясо&lt;CLNR&gt;."
+    },
+    "pack02:852084": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852084",
+      "original": "Create &lt;CLGR&gt;Leather&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Дублёная кожа&lt;CLNR&gt;."
+    },
+    "pack02:852085": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852085",
+      "original": "Create &lt;CLGR&gt;Pure Oil&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Чистое масло&lt;CLNR&gt;."
+    },
+    "pack02:852086": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852086",
+      "original": "Create &lt;CLGR&gt;Distilled Water&lt;CLNR&gt;.",
+      "translation": "Создать &lt;CLGR&gt;Очищенная вода&lt;CLNR&gt;."
+    },
+    "pack02:852087": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852087",
+      "original": "Gather &lt;CLGR&gt;Winged Plant&lt;CLNR&gt;.",
+      "translation": "Собрать &lt;CLGR&gt;Крылатое растение&lt;CLNR&gt;."
+    },
+    "pack02:852088": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852088",
+      "original": "Gather &lt;CLGR&gt;Black Tree Stone&lt;CLNR&gt;.",
+      "translation": "Собрать &lt;CLGR&gt;Древесный камень&lt;CLNR&gt;."
+    },
+    "pack02:852089": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852089",
+      "original": "Defeat &lt;CLGR&gt;Little Soldiers&lt;CLNR&gt;.",
+      "translation": "Победить &lt;CLGR&gt;Маленькие солдаты&lt;CLNR&gt;."
+    },
+    "pack02:852090": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852090",
+      "original": "Defeat &lt;CLGR&gt;Fang Bats&lt;CLNR&gt;.",
+      "translation": "Победить &lt;CLGR&gt;Клыкастые летяги&lt;CLNR&gt;."
+    },
+    "pack02:852091": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852091",
+      "original": "Use &lt;CLGR&gt;Temple Slide&lt;CLNR&gt;.",
+      "translation": "Использовать &lt;CLGR&gt;Скольжение храма&lt;CLNR&gt;."
+    },
+    "pack02:852092": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852092",
+      "original": "Complete all of the &lt;CLGR&gt;entries on Page 1&lt;CLNR&gt;.",
+      "translation": "Выполнить все &lt;CLGR&gt;записи на странице 1&lt;CLNR&gt;."
+    },
+    "pack02:852093": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852093",
+      "original": "Obtain &lt;CLGR&gt;Yarn Coat&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Шерстяной плащ&lt;CLNR&gt;."
+    },
+    "pack02:852094": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852094",
+      "original": "Obtain &lt;CLGR&gt;Plant Oil&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Растительное масло&lt;CLNR&gt;."
+    },
+    "pack02:852095": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852095",
+      "original": "Obtain &lt;CLGR&gt;Princess Grass&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Принцесса травы&lt;CLNR&gt;."
+    },
+    "pack02:852096": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852096",
+      "original": "Obtain &lt;CLGR&gt;Wascher&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Вашер&lt;CLNR&gt;."
+    },
+    "pack02:852097": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852097",
+      "original": "Visit &lt;CLGR&gt;each area of the capital&lt;CLNR&gt;.",
+      "translation": "Посетить &lt;CLGR&gt;каждый район столицы&lt;CLNR&gt;."
+    },
+    "pack02:852098": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852098",
+      "original": "Defeat &lt;CLGR&gt;beast-type monster&lt;CLNR&gt;.",
+      "translation": "Победить &lt;CLGR&gt;монстра типа «зверь»&lt;CLNR&gt;."
+    },
+    "pack02:852099": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852099",
+      "original": "Defeat &lt;CLGR&gt;rabbit-type monster&lt;CLNR&gt;.",
+      "translation": "Победить &lt;CLGR&gt;монстра типа «кролик»&lt;CLNR&gt;."
+    },
+    "pack02:852100": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852100",
+      "original": "Defeat &lt;CLGR&gt;mushroom-type monster&lt;CLNR&gt;.",
+      "translation": "Победить &lt;CLGR&gt;монстра типа «гриб»&lt;CLNR&gt;."
+    },
+    "pack02:852101": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852101",
+      "original": "Defeat &lt;CLGR&gt;plant-type monster&lt;CLNR&gt;.",
+      "translation": "Победить &lt;CLGR&gt;монстра типа «растение»&lt;CLNR&gt;."
+    },
+    "pack02:852102": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852102",
+      "original": "Sell an item in a &lt;CLGR&gt;Shop&lt;CLNR&gt;.",
+      "translation": "Продать предмет в &lt;CLGR&gt;Магазин&lt;CLNR&gt;."
+    },
+    "pack02:852103": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852103",
+      "original": "&lt;CLGR&gt;Jump&lt;CLNR&gt;.",
+      "translation": "&lt;CLGR&gt;Прыжок&lt;CLNR&gt;."
+    },
+    "pack02:852104": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852104",
+      "original": "Perform a &lt;CLGR&gt;preemptive attack&lt;CLNR&gt;.",
+      "translation": "Выполнить &lt;CLGR&gt;упреждающая атака&lt;CLNR&gt;."
+    },
+    "pack02:852105": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852105",
+      "original": "Obtain &lt;CLGR&gt;Broken Rock&lt;CLNR&gt;.",
+      "translation": "Получить &lt;CLGR&gt;Разбитый камень&lt;CLNR&gt;."
+    },
+    "pack02:852106": {
+      "source": "pack02_text_en",
+      "file": "str_ambition_entry_system.xml",
+      "string_no": "852106",
+      "original": "Use &lt;CLGR&gt;Defensive Blow&lt;CLNR&gt;.",
+      "translation": "Использовать &lt;CLGR&gt;Защитный удар&lt;CLNR&gt;."
+    }
+  }
+}

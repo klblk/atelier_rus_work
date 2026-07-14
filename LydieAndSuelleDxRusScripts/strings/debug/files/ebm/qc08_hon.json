@@ -1,0 +1,1520 @@
+{
+  "version": 1,
+  "source": "pack01_ebm",
+  "block": "qc08_hon",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "This is bad. Real bad. I need to do something about this!",
+      "translation": "Это плохо. Очень плохо. Мне нужно что-то с этим сделать!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Huh? Lydie, what's up? You look really pale!",
+      "translation": "Хм? Лиди, что случилось? Ты выглядишь очень бледной!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Ah, well. I think maybe I've put on some weight?",
+      "translation": "Ах, ну. Я думаю, может быть, я прибавил в весе?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Really... It doesn't look like it to me.",
+      "translation": "Правда... Мне это не кажется."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "My clothing feels all tight, though! Like I can hardly move!",
+      "translation": "Хотя моя одежда кажется тесной! Как будто я едва могу двигаться!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Hmm. Let me take a look...",
+      "translation": "Хм. Дай мне взглянуть..."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "Lydie, you haven't gotten fat. You've just gotten taller.",
+      "translation": "Лиди, ты не потолстела. Ты только что стал выше."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "What? That's all?",
+      "translation": "Что? Вот и все?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Yeah. It's not a tummy problem at all. You've grown, which is stretching your clothes.",
+      "translation": "Ага. Это вообще не проблема с животиком. Ты выросла, а это значит, что твоя одежда растягивается."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "I have as well, actually. It's getting a bit tough to move in my clothes, too.",
+      "translation": "У меня, кстати, тоже. Мне тоже становится немного трудно двигаться в одежде."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "You have too, Sue? But we can't just go and get new clothes, can we...",
+      "translation": "У тебя тоже есть, Сью? Но мы не можем просто пойти и купить новую одежду, не так ли..."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "No, not really...",
+      "translation": "Нет, не совсем..."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 12,
+      "speaker": "Honnete",
+      "original": "(Hehe. Lydie, Suelle! I've got these presents for you today!)",
+      "translation": "(Хе-хе. Лиди, Сюэль! У меня сегодня для вас подарки!)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "(Wow, lovely! Clothes!)",
+      "translation": "(Ух ты, как мило! Одежда!)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "(They are pretty flashy. Did you make these, Mom?)",
+      "translation": "(Они довольно яркие. Ты сделала их, мама?)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 15,
+      "speaker": "Honnete",
+      "original": "(That's right! To celebrate your first successful synthesis!)",
+      "translation": "(Правильно! В честь вашего первого успешного синтеза!)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 16,
+      "speaker": "Honnete",
+      "original": "(Hehehe... All female alchemists wear cute clothing, just like this.)",
+      "translation": "(Хе-хе-хе... Все женщины-алхимики носят вот такую милую одежду.)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "(Wow, they do? Can I try it on right away?)",
+      "translation": "(Ух ты, они делают? Могу я сразу примерить?)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 18,
+      "speaker": "Honnete",
+      "original": "(Of course, but I think they might still be a bit...)",
+      "translation": "(Конечно, но я думаю, что они все же могут быть немного...)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "(Uwah, Mom! It's all baggy!)",
+      "translation": "(Ух, мама! Это все мешковато!)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 20,
+      "speaker": "Honnete",
+      "original": "(Haha, of course it is. I made these for you to wear when you're a bit older.)",
+      "translation": "(Ха-ха, конечно. Я сделала это для тебя, чтобы ты носила, когда подрастешь.)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 21,
+      "speaker": "Honnete",
+      "original": "(Just keep learning alchemy from your father. Once your skills and bodies have grown some more...)",
+      "translation": "(Просто продолжайте учиться алхимии у своего отца. Как только ваши навыки и тело вырастут еще немного...)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 22,
+      "speaker": "Honnete",
+      "original": "(I want you to come and show me what you look like, wearing these clothes.)",
+      "translation": "(Я хочу, чтобы ты пришел и показал мне, как ты выглядишь в этой одежде.)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 23,
+      "speaker": "Sue",
+      "original": "We never got to show mom what we look like in these, did we?",
+      "translation": "Нам так и не удалось показать маме, как мы в них выглядим, не так ли?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 24,
+      "speaker": "Lydie",
+      "original": "I know. How about we let them out a little, then? Then we'll be able to wear them a bit longer!",
+      "translation": "Я знаю. Как насчет того, чтобы выпустить их немного? Тогда мы сможем носить их еще немного!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_010.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_010.ebm",
+      "index": 25,
+      "speaker": "Sue",
+      "original": "Yes, good idea! I'll go and get the sewing kit!",
+      "translation": "Да, хорошая идея! Я пойду и возьму набор для шитья!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Great. That's another bomb finished!",
+      "translation": "Большой. Вот еще одна бомба готова!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Lydie, you're synthesizing? Oh, you've made a burning boom-boom!",
+      "translation": "Лиди, ты синтезируешь? Ох, ты устроил горящий бум-бум!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "I assure you I haven't!",
+      "translation": "Уверяю вас, нет!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "What? That, right there. Look! Burning boom-boom!",
+      "translation": "Что? Вот именно. Смотреть! Горящий бум-бум!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "It's a bomb! Where's that strange name coming from?",
+      "translation": "Это бомба! Откуда такое странное имя?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "I think mine is better. Much more descriptive!",
+      "translation": "Я думаю, что мой лучше. Гораздо более описательно!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "I'm not sure about that... What about this one, then?",
+      "translation": "В этом я не уверен... А что насчет этого?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Freezy McFreezeboom!",
+      "translation": "Фризи МакФризбум!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Okaay... This one?",
+      "translation": "Ладно... Этот?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Shocking Blastio!",
+      "translation": "Шокирующий Бластио!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Uwah, you're losing me here. There's not even any logic to your naming conventions...",
+      "translation": "Увау, ты теряешь меня здесь. В ваших соглашениях об именах даже нет никакой логики..."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Of course not! Being bound by logic goes completely against being an alchemist!",
+      "translation": "Конечно, нет! Быть связанным логикой совершенно противоречит тому, чтобы быть алхимиком!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "You might be right there, but no one else is going to understand those crazy names.",
+      "translation": "Возможно, вы и правы, но никто больше не поймет этих безумных названий."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "I don't think that's true, either. The general masses will love my touch of flair!",
+      "translation": "Я тоже не думаю, что это правда. Широким массам понравится мое чутье!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "I knew Sue liked giving things odd names, but I wasn't aware it was this serious...",
+      "translation": "Я знал, что Сью любит давать вещам странные имена, но не знал, что это настолько серьёзно..."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "Uwah, maybe she's started taking after our dad? As her sister, should I be warning her?",
+      "translation": "Ух, может, она начала походить на нашего отца? Как ее сестра, должна ли я ее предупреждать?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 16,
+      "speaker": "Roger",
+      "original": "Sorry, Lydie, but you're wrong there. It's not me she's taking after here...",
+      "translation": "Прости, Лидия, но здесь ты ошибаешься. Она здесь не за мной гонится..."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 17,
+      "speaker": "Honnete",
+      "original": "(Ah, Roger. You're making a bomb again? Let me name it. How about \"Hottie Boomster\"!)",
+      "translation": "(Ах, Роджер. Ты снова делаешь бомбу? Позвольте мне назвать ее. Как насчет «Красотки-бумстера»!)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 18,
+      "speaker": "Roger",
+      "original": "(What are you talking about? It's just a bomb.)",
+      "translation": "(О чем вы говорите? Это просто бомба.)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 19,
+      "speaker": "Honnete",
+      "original": "(Bah! Alchemists sure love to give things dull names. I thought you were creative?)",
+      "translation": "(Ба! Алхимики, конечно, любят давать вещам скучные названия. Я думал, вы творческий человек?)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 20,
+      "speaker": "Roger",
+      "original": "(Go on, then. What kind of names do you want?)",
+      "translation": "(Тогда продолжайте. Какие имена вам нужны?)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 21,
+      "speaker": "Honnete",
+      "original": "(Let's see now, for example... )",
+      "translation": "(Посмотрим сейчас, например...)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 22,
+      "speaker": "Roger",
+      "original": "(Right. That's a Craft...)",
+      "translation": "(Верно. Это ремесло...)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 23,
+      "speaker": "Honnete",
+      "original": "(But why not call it an Uni Buster? Something with a bit more punch?)",
+      "translation": "(Но почему бы не назвать это Уни Buster? Что-нибудь более мощное?)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 24,
+      "speaker": "Roger",
+      "original": "(It still isn't really telling anyone what it does, though, is it?)",
+      "translation": "(Однако он до сих пор никому не говорит, что он делает, не так ли?)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 25,
+      "speaker": "Lydie",
+      "original": "OK, what about this, then?",
+      "translation": "Хорошо, а что насчет этого?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 26,
+      "speaker": "Sue",
+      "original": "Oooh, give me a moment. Uni Buster! Yeah!",
+      "translation": "Ооо, дай мне минутку. Юни Бастер! Ага!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 27,
+      "speaker": "Lydie",
+      "original": "Uni Buster? You know what, that one might actually work...",
+      "translation": "Юни Бастер? Знаешь что, это действительно может сработать..."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 28,
+      "speaker": "Roger",
+      "original": "Honnete... Your spirit lives on, in them.",
+      "translation": "Оннет... Твой дух живет в них."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_020.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_020.ebm",
+      "index": 29,
+      "speaker": "Roger",
+      "original": "Some of the weirdest parts of it, anyway.",
+      "translation": "Во всяком случае, некоторые из самых странных его частей."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_030.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_030.ebm",
+      "index": 0,
+      "speaker": "Honnete",
+      "original": "Hello, girls. Here, I've got some gifts for you.",
+      "translation": "Здравствуйте, девочки. Вот, у меня есть для тебя подарки."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_030.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_030.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Gifts? Where have you been, Mom?",
+      "translation": "Подарки? Где ты была, мама?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_030.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_030.ebm",
+      "index": 2,
+      "speaker": "Honnete",
+      "original": "Oh, all over. The Great Cascades of Anfel, and the Spooky Forest, too.",
+      "translation": "Ох, всё кончено. Великие каскады Анфела и Жуткий лес тоже."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_030.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_030.ebm",
+      "index": 3,
+      "speaker": "Honnete",
+      "original": "Ah, and the Treasury at the Sea Bottom, too! I chatted with the Captain, he was most amusing.",
+      "translation": "А, и Сокровищница на Морском дне тоже! Я болтал с капитаном, он был очень забавным."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_030.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_030.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "I don't remember you being quite this active, Mom.",
+      "translation": "Я не помню, чтобы ты была такой активной, мам."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_030.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_030.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Hmm. Just don't go anywhere too strange, okay?",
+      "translation": "Хм. Только не ходи куда-нибудь слишком странным, ладно?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_030.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_030.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "There are monsters in the painting worlds. We don't want you to get hurt, Mom.",
+      "translation": "В живописных мирах есть монстры. Мы не хотим, чтобы ты пострадала, мама."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_030.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_030.ebm",
+      "index": 7,
+      "speaker": "Honnete",
+      "original": "Ah, my dear Suelle. Just who taught you how to shoot? Do you even remember?",
+      "translation": "Ах, моя дорогая Сюэль. Вот только кто тебя научил стрелять? Ты хоть помнишь?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_030.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_030.ebm",
+      "index": 8,
+      "speaker": "Honnete",
+      "original": "Look! This is my Lydie-Suelle Z! I had Roger... I mean, he kindly made it for me, to protect myself!",
+      "translation": "Смотреть! Это моя Лиди-Сюэль З! У меня был Роджер... То есть он любезно сделал это для меня, чтобы защитить себя!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_030.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_030.ebm",
+      "index": 9,
+      "speaker": "Honnete",
+      "original": "I can handle any monster I come across with this. Your mom is stone-cold sniper, girls! Bam!",
+      "translation": "С помощью этого я могу справиться с любым монстром, с которым столкнусь. Ваша мама - хладнокровный снайпер, девочки! Бам!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_030.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_030.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "W-Wow... I'm starting to think you might be tougher than Dad, Mom.",
+      "translation": "Н-ух... Я начинаю думать, что ты можешь быть жестче папы, мамы."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_030.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_030.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Ugh... All that trauma from being taught how to shoot is bubbling back up again!",
+      "translation": "Ух... Вся эта травма от обучения стрельбе снова всплескивает!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_030.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_030.ebm",
+      "index": 12,
+      "speaker": "Honnete",
+      "original": "I can't fight without a gun, anyway, and I'm not planning on doing anything too crazy.",
+      "translation": "В любом случае, я не могу драться без оружия и не планирую делать ничего слишком сумасшедшего."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_030.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_030.ebm",
+      "index": 13,
+      "speaker": "Honnete",
+      "original": "It just means I can walk around safely. So please, girls, there's no need to worry about me.",
+      "translation": "Это просто означает, что я могу безопасно ходить. Так что, пожалуйста, девочки, не беспокойтесь обо мне."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_030.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_030.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "...Alright.",
+      "translation": "...Хорошо."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_030.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_030.ebm",
+      "index": 15,
+      "speaker": "Honnete",
+      "original": "Great! I'll pick you up some more gifts the next time I'm out. Look forward to it!",
+      "translation": "Большой! В следующий раз, когда уйду, я куплю тебе еще несколько подарков. С нетерпением ждем этого!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_030.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_030.ebm",
+      "index": 16,
+      "speaker": "System",
+      "original": "<CLEG>Dunkelheit<CLNR>, <CLEG>Starfruit<CLNR> and <CLEG>Bracken's Bromide<CLNR> received.",
+      "translation": "<CLEG>Дункельхейт<CLNR>, <CLEG>Звёздный фрукт<CLNR> и <CLEG>Бромид папоротника<CLNR> получены."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_040.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_040.ebm",
+      "index": 0,
+      "speaker": "Honnete",
+      "original": "Hey, girls! I've found some more treats for you!",
+      "translation": "Эй, девочки! Я нашла для вас еще несколько вкусняшек!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_040.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_040.ebm",
+      "index": 1,
+      "speaker": "Honnete",
+      "original": "Make good use of them, okay?",
+      "translation": "Используйте их с пользой, хорошо?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_040.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_040.ebm",
+      "index": 2,
+      "speaker": "System",
+      "original": "<CLEG><CLNR> received.",
+      "translation": "<CLEG><CLNR> получено."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_050.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_050.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Mom, Mom. I really want a plate of your pancakes! It's been too long!",
+      "translation": "Мама, мама. Мне очень хочется тарелку твоих блинчиков! Прошло слишком много времени!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_050.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_050.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Me too! I want to compare them with the ones Lydie makes!",
+      "translation": "Я тоже! Я хочу сравнить их с теми, что делает Лиди!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_050.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_050.ebm",
+      "index": 2,
+      "speaker": "Honnete",
+      "original": "Is that so, my darlings? I would love to, but I can't get the ingredients for them in here.",
+      "translation": "Так ли это, мои дорогие? Я бы с радостью, но у меня нет здесь ингредиентов для них."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_050.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_050.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "We'll bring them to you, then. Would that work?",
+      "translation": "Тогда мы привезем их вам. Это сработает?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_050.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_050.ebm",
+      "index": 4,
+      "speaker": "Honnete",
+      "original": "Yes! I'll knock your socks off with deliciousness! Bring me the best ingredients you can find.",
+      "translation": "Да! Я снесу вам носки от вкуснятины! Принеси мне лучшие ингредиенты, какие сможешь найти."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 0,
+      "speaker": "Honnete",
+      "original": "Wow! I can't afford to mess up after you've collected all of this. To the kitchen!",
+      "translation": "Ух ты! Я не могу позволить себе все испортить после того, как ты все это собрал. На кухню!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Hehe, I'll help too. I really want to cook with you!",
+      "translation": "Хе-хе, я тоже помогу. Я очень хочу готовить с тобой!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Okay... Then I'll just go for a run outside! I want to get as hungry as possible for this!",
+      "translation": "Хорошо... Тогда я просто пойду на пробежку! Ради этого я хочу проголодаться как можно сильнее!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "That was delicious! Yours are always good, Lydie, but mom's are the best!",
+      "translation": "Это было восхитительно! Твои всегда хорошие, Лиди, но мамины самые лучшие!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "You said it! They're on a whole different level from mine. Mom, seconds! I want more!",
+      "translation": "Ты сказал это! Они на совершенно другом уровне, чем мой. Мама, секунды! Я хочу большего!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 5,
+      "speaker": "Honnete",
+      "original": "Oh, my dears. You've still got honey all around your mouths!",
+      "translation": "О, мои дорогие. У тебя все еще мед во рту!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 6,
+      "speaker": "Honnete",
+      "original": "You've grown bigger, but you're still little kids in so many ways!",
+      "translation": "Вы выросли, но во многих отношениях вы все еще маленькие дети!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "I don't think that's true! I just ate them a little too quickly...",
+      "translation": "Я не думаю, что это правда! Я просто съел их слишком быстро..."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Me too. It's your fault, Mom, for making those pancakes too delicious!",
+      "translation": "Я тоже. Мама, ты виновата, что блины получились слишком вкусными!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 9,
+      "speaker": "Honnete",
+      "original": "What? My fault? Then I apologize sincerely!",
+      "translation": "Что? Моя вина? Тогда я искренне извиняюсь!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Hahaha. They really are good, though. I make them almost exactly the same way.",
+      "translation": "Ха-ха-ха. Хотя они действительно хороши. Я делаю их почти одинаково."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 11,
+      "speaker": "Honnete",
+      "original": "Hahah, that's because mine have a secret ingredient!",
+      "translation": "Ха-ха, это потому, что у меня есть секретный ингредиент!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "Wow! Like what? Hold on, you're not going to say \"love\", are you?",
+      "translation": "Ух ты! Как что? Подожди, ты же не собираешься говорить «люблю», не так ли?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 13,
+      "speaker": "Honnete",
+      "original": "Ah...",
+      "translation": "Ах..."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "Looks like you guessed it, Sue.",
+      "translation": "Похоже, ты догадалась, Сью."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 15,
+      "speaker": "Honnete",
+      "original": "N-No she didn't! I put all sorts of other things in as well, this, and that, and lots of things!",
+      "translation": "Н-нет, она этого не сделала! Я также добавляю еще много чего, и то, и это, и еще много чего!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "Okay, okay! I'm sorry, Mom! I'm sorry!",
+      "translation": "Хорошо, хорошо! Мне очень жаль, мама! Мне жаль!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 17,
+      "speaker": "Honnete",
+      "original": "Hah! Here, you can have this.",
+      "translation": "Ха! Вот, вы можете получить это."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "What? A pancake recipe?",
+      "translation": "Что? Рецепт блинов?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 19,
+      "speaker": "Honnete",
+      "original": "That's right. That's how you make Honnete style pancakes. Read it and you'll be ready.",
+      "translation": "Это верно. Вот так готовятся блины в стиле Оннет. Прочтите его, и вы будете готовы."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 20,
+      "speaker": "Sue",
+      "original": "Uwah! You wrote it all down for us? Thanks, Mom!",
+      "translation": "Ува! Ты нам все это записал? Спасибо, мама!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 21,
+      "speaker": "Honnete",
+      "original": "Hehe, no problem. I'll do whatever it takes to make you girls happy!",
+      "translation": "Хе-хе, без проблем. Я сделаю все возможное, чтобы вы, девочки, были счастливы!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 22,
+      "speaker": "Honnete",
+      "original": "When you have kids of your own, make some delicious pancakes for them, too.",
+      "translation": "Если у вас есть дети, приготовьте для них вкусные блины."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 23,
+      "speaker": "Lydie",
+      "original": "We will. We'll treasure this forever.",
+      "translation": "Мы будем. Мы будем хранить это вечно."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_060.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_060.ebm",
+      "index": 24,
+      "speaker": "System",
+      "original": "<CLEG>Mother's Recipe Notes<CLNR> received.",
+      "translation": "<CLEG>Записки рецептов матери<CLNR> получены."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 0,
+      "speaker": "Honnete",
+      "original": "...So cute.",
+      "translation": "...Как мило."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Eh?",
+      "translation": "Э?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 2,
+      "speaker": "Honnete",
+      "original": "I've been thinking it all this time, of course, but the two of you are just so cute!",
+      "translation": "Я, конечно, все это время думал об этом, но вы двое такие милые!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 3,
+      "speaker": "Honnete",
+      "original": "Look at the foresight I had, in making clothing that turned out to suit you so well!",
+      "translation": "Посмотрите, какую предусмотрительность я проявил, создав одежду, которая так вам подошла!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Hey, that's right! I didn't think we'd ever get to, but now you've seen us wearing this!",
+      "translation": "Эй, это правда! Я не думал, что мы когда-нибудь доберемся до этого, но теперь вы видели, как мы носим это!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Yes! Hehe, what do you think, Mom? Do we look like alchemists?",
+      "translation": "Да! Хе-хе, что ты думаешь, мама? Мы похожи на алхимиков?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 6,
+      "speaker": "Honnete",
+      "original": "Yes, you do! Like exceptionally talented, exceptionally cute alchemists!",
+      "translation": "Да, так и есть! Как исключительно талантливые, исключительно милые алхимики!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 7,
+      "speaker": "Honnete",
+      "original": "We need to get Roger to paint this. Your cuteness needs to be preserved for future generations!",
+      "translation": "Нам нужно, чтобы Роджер это нарисовал. Ваша привлекательность должна быть сохранена для будущих поколений!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Hahah! You're starting to sound like Liane...",
+      "translation": "Ха-ха! Ты начинаешь походить на Лиану..."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "D-Don't worry, Mom! You don't need a painting, we'll come any time you want to see us!",
+      "translation": "Д-Не волнуйся, мама! Вам не нужна картина, мы приедем в любое время, когда вы захотите нас видеть!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Rip? Did I just hear a ripping sound?",
+      "translation": "Рвать? Я только что услышал треск?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Aaaaah! My clothing ripped! My side, my side is completely exposed!",
+      "translation": "Ааааа! Моя одежда порвалась! Моя сторона, моя сторона полностью раскрыта!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 12,
+      "speaker": "Honnete",
+      "original": "Oh my! Suelle, sorry, but can you take that off for a moment?",
+      "translation": "О боже! Сюэль, извини, но ты можешь снять это на минутку?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "What? I think I'm too embarrassed to do that!",
+      "translation": "Что? Думаю, мне слишком стыдно это делать!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 14,
+      "speaker": "Honnete",
+      "original": "It's alright. No one here to see. Come on, take it off!",
+      "translation": "Все в порядке. Здесь никого нет, чтобы увидеться. Давай, сними это!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "Hands off, Mom! I can take off my own clothes!",
+      "translation": "Руки прочь, мама! Я могу снять свою одежду!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 16,
+      "speaker": "Honnete",
+      "original": "There, all done. I'm glad there was a sewing kit here in the atelier.",
+      "translation": "Вот и все готово. Я рада, что здесь, в ателье, появился набор для шитья."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 17,
+      "speaker": "Lydie",
+      "original": "Amazing, Mom... You fixed that in the blink of the eye!",
+      "translation": "Удивительно, мама... Ты исправила это в мгновение ока!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "Thank you! Huh? It seems easier to move in than before!",
+      "translation": "Спасибо! Хм? Кажется, переехать легче, чем раньше!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 19,
+      "speaker": "Honnete",
+      "original": "Yes. It was getting too small, so I adjusted it a little, too.",
+      "translation": "Да. Он стал слишком маленьким, поэтому я тоже его немного подкорректировал."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 20,
+      "speaker": "Honnete",
+      "original": "You've both grown so much bigger than I expected when I made this...",
+      "translation": "Вы оба стали намного больше, чем я ожидал, когда делал это..."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "Mom...",
+      "translation": "Мама..."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 22,
+      "speaker": "Honnete",
+      "original": "I'm glad. Hey, Lydie. Can I take a look at yours, too?",
+      "translation": "Я рад. Привет, Лиди. Могу я тоже взглянуть на твою?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 23,
+      "speaker": "Honnete",
+      "original": "It must be getting tight as well. I'll fix it.",
+      "translation": "Должно быть, тоже становится туго. Я исправлю это."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 24,
+      "speaker": "Lydie",
+      "original": "Great! Thank you, Mom!",
+      "translation": "Большой! Спасибо, мама!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 25,
+      "speaker": "Sue",
+      "original": "I'll get you something to wear, then. It was super cold while I was waiting!",
+      "translation": "Тогда я принесу тебе что-нибудь надеть. Пока я ждал, было очень холодно!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 26,
+      "speaker": "Lydie",
+      "original": "Thanks, Sue. I'll go and get changed!",
+      "translation": "Спасибо, Сью. Я пойду переодеваться!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 27,
+      "speaker": "Honnete",
+      "original": "That's good. Kids should always surpass the expectations of their adults.",
+      "translation": "Это хорошо. Дети всегда должны превосходить ожидания взрослых."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_070.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_070.ebm",
+      "index": 28,
+      "speaker": "Honnete",
+      "original": "Being able to watch them grow up, though... Roger, I'm so jealous.",
+      "translation": "Но возможность наблюдать, как они растут... Роджер, я так завидую."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 0,
+      "speaker": "Honnete",
+      "original": "Say, I have a request for you both...",
+      "translation": "Скажите, у меня к вам обоим просьба..."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "A request? Do you want a massage? Have you got an itchy back?",
+      "translation": "Просьба? Хотите массаж? У вас чешется спина?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 2,
+      "speaker": "Honnete",
+      "original": "No. Actually, I was thinking I want to give alchemy a try!",
+      "translation": "Нет. Вообще-то я подумал, что хочу попробовать алхимию!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 3,
+      "speaker": "Roger",
+      "original": "Whaaaat?!",
+      "translation": "Чтоааа?!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "W-What's brought this on? And Dad, where did you spring from?",
+      "translation": "Ч-что на это повлияло? А папа, откуда ты взялся?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 5,
+      "speaker": "Roger",
+      "original": "I just wanted to see Honnete! Forget that, anyway! What do you mean, you want to try alchemy?!",
+      "translation": "Я просто хотел увидеть Оннет! В любом случае, забудьте об этом! Что значит, хочешь попробовать алхимию?!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 6,
+      "speaker": "Honnete",
+      "original": "Hah, I'm just feeling a bit lonely... Everyone in this family can use alchemy but me...",
+      "translation": "Ха, мне просто немного одиноко... Все в этой семье умеют алхимию, кроме меня..."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 7,
+      "speaker": "Honnete",
+      "original": "It's like I'm on the outside! So I want to give it a try!",
+      "translation": "Я как будто снаружи! Поэтому я хочу попробовать!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Ah, so that's why... What do you think, Dad?",
+      "translation": "А, так вот почему... Что ты думаешь, папа?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 9,
+      "speaker": "Roger",
+      "original": "Hmm... Once she sets her mind on something, she won't budge... The same as someone else we know...",
+      "translation": "Хм... Как только она что-то задумала, она не сдвинется с места... Как и кто-то еще, кого мы знаем..."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Yes, I think I know who you are talking about...",
+      "translation": "Да, кажется, я знаю, о ком ты говоришь..."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "S-Someone else? Like who? Anyway, why don't we all teach her together?",
+      "translation": "С-Кто-то еще? Как кто? В любом случае, почему бы нам всем не научить ее вместе?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "Yes. Good idea. A whole family practicing alchemy together would be lovely!",
+      "translation": "Да. Хорошая идея. Было бы здорово, если бы вся семья вместе занималась алхимией!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 13,
+      "speaker": "Honnete",
+      "original": "Hehe, you're right! Take your time and teach me everything you can!",
+      "translation": "Хе-хе, ты прав! Не торопитесь и научите меня всему, чему сможете!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 14,
+      "speaker": "Honnete",
+      "original": "Alrighty. I add this next, do I?",
+      "translation": "Хорошо. Я добавлю это следующим, не так ли?"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 15,
+      "speaker": "Roger",
+      "original": "Gaaah! T-too much! Water! Add some water and dilute it!",
+      "translation": "Гааа! Т-слишком много! Вода! Добавьте немного воды и разбавьте!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 16,
+      "speaker": "Honnete",
+      "original": "Next, mix it as hard as possible! Hahaha, this is fun!",
+      "translation": "Далее перемешиваем как можно сильнее! Ха-ха-ха, это весело!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "It's flying everywhere! Splashing everywhere! Go slower! Uwah, it's really bitter, too!",
+      "translation": "Он летает повсюду! Брызги повсюду! Иди медленнее! Ух, это тоже очень горько!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 18,
+      "speaker": "Honnete",
+      "original": "Finally, we adjust the heat. It's just like cooking!",
+      "translation": "Наконец, регулируем нагрев. Это как готовить!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "Mom, hold on! Don't turn it up that high!",
+      "translation": "Мама, держись! Не включайте его так высоко!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 20,
+      "speaker": "Honnete",
+      "original": "Oh dear. At least I finally get to say this line...",
+      "translation": "О, Боже. По крайней мере, я наконец могу сказать эту фразу..."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 21,
+      "speaker": "Honnete",
+      "original": "...Fire in the hole!!",
+      "translation": "...Огонь в дыре!!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 22,
+      "speaker": "Roger",
+      "original": "We've finally finished cleaning all that up. It was worse than Lydie and Sue's first attempt!",
+      "translation": "Мы наконец закончили все это убирать. Это было хуже, чем первая попытка Лиди и Сью!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 23,
+      "speaker": "Honnete",
+      "original": "Hahaha... It doesn't look like I'm suited to alchemy.",
+      "translation": "Ха-ха-ха... Не похоже, что я подхожу для алхимии."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 24,
+      "speaker": "Lydie",
+      "original": "I'm sorry, Mom. I don't really want to say this, but I think you're right.",
+      "translation": "Мне очень жаль, мама. Мне не очень хочется этого говорить, но я думаю, что ты прав."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 25,
+      "speaker": "Honnete",
+      "original": "You are so incredible, all three of you. You do something so difficult all the time, don't you...",
+      "translation": "Вы такие невероятные, все трое. Ты все время делаешь что-то такое сложное, не так ли..."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 26,
+      "speaker": "Honnete",
+      "original": "Alchemists really are incredible!",
+      "translation": "Алхимики действительно невероятные!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 27,
+      "speaker": "Roger",
+      "original": "Honnete...",
+      "translation": "Оннет..."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 28,
+      "speaker": "Honnete",
+      "original": "Lydie, Suelle, and Roger. Keep up the good work!",
+      "translation": "Лиди, Сюэль и Роджер. Продолжайте в том же духе!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 29,
+      "speaker": "Honnete",
+      "original": "I want to be able to boast to everyone I meet about how great my alchemist family is!",
+      "translation": "Я хочу иметь возможность похвастаться перед всеми, кого я встречу, тем, насколько велика моя алхимическая семья!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 30,
+      "speaker": "Lydie",
+      "original": "Sure! You can count on us, Mom!",
+      "translation": "Конечно! Ты можешь рассчитывать на нас, мама!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 31,
+      "speaker": "Sue",
+      "original": "We'll have our names ring out across every world there is, you'll see!",
+      "translation": "Наши имена будут звучать во всех мирах, вот увидите!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_080.ebm:32": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_080.ebm",
+      "index": 32,
+      "speaker": "Honnete",
+      "original": "I'm behind you all the way, girls. You are my precious treasures, after all.",
+      "translation": "Я полностью за вами, девочки. В конце концов, вы — мои драгоценные сокровища."
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_090.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_090.ebm",
+      "index": 1,
+      "speaker": "Honnete",
+      "original": "(Your turn, Suelle. I'm going to test you to see if you remember. Promise with Mom Number 1?)",
+      "translation": "(Твоя очередь, Сюэль. Я проверю тебя, помнишь ли ты. Обещание маме номер 1?)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_090.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_090.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "(Easy! \"Don't give up before you even try\"!)",
+      "translation": "(Легко! «Не сдавайся, даже не попробовав»!)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_090.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_090.ebm",
+      "index": 3,
+      "speaker": "Honnete",
+      "original": "(Very good. What about number 4?)",
+      "translation": "(Очень хорошо. А как насчет номера 4?)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_090.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_090.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "(I've got that one too! \"Stay away from strange people\"!)",
+      "translation": "(У меня тоже есть такое! «Держись подальше от незнакомых людей»!)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_090.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_090.ebm",
+      "index": 5,
+      "speaker": "Honnete",
+      "original": "(Perfect! You've got this down, Suelle!)",
+      "translation": "(Отлично! Ты все поняла, Сюэль!)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_090.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_090.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "(Hehe, I know! Maybe I can't study like Lydie...)",
+      "translation": "(Хе-хе, я знаю! Может быть, я не смогу учиться, как Лиди...)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_090.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_090.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "(But I remember all of our promises with you! I want to make you happy, Mom!)",
+      "translation": "(Но я помню все наши с тобой обещания! Я хочу сделать тебя счастливой, мама!)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_090.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_090.ebm",
+      "index": 8,
+      "speaker": "Honnete",
+      "original": "(Ah, good girl! Come here and let me pat you on the head!)",
+      "translation": "(Ах, хорошая девочка! Подойди сюда, позволь мне погладить тебя по голове!)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_090.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_090.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "(Great! I love you, Mom!)",
+      "translation": "(Отлично! Я люблю тебя, мама!)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_090.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_090.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Mom!",
+      "translation": "Мама!"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_100.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_100.ebm",
+      "index": 1,
+      "speaker": "Honnete",
+      "original": "(Look, Lydie! I found a lovely flower!)",
+      "translation": "(Смотри, Лиди! Я нашел чудесный цветок!)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_100.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_100.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "(Yes, look! Mom, this is called a Punitrancer!)",
+      "translation": "(Да, смотри! Мама, это называется Пунитранссер!)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_100.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_100.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "(They call it that because it entrances puni. It's so cute, isn't it?)",
+      "translation": "(Они называют его так, потому что оно захватывает дух. Это так мило, не правда ли?)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_100.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_100.ebm",
+      "index": 4,
+      "speaker": "Honnete",
+      "original": "(Wow, I didn't know that! You know so much, Lydie. Have you been reading the encyclopedia again?)",
+      "translation": "(Ух ты, я этого не знал! Ты так много знаешь, Лиди. Ты снова читала энциклопедию?)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_100.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_100.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "(Yep! You bought it for me, so I've read it all the way through!)",
+      "translation": "(Да! Вы купили это для меня, поэтому я прочитал это полностью!)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_100.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_100.ebm",
+      "index": 6,
+      "speaker": "Honnete",
+      "original": "(That's amazing! You'll be a great scholar in the future!)",
+      "translation": "(Это потрясающе! В будущем вы станете великим учёным!)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_100.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_100.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "(What? No way! I want to be alchemist, just like Dad!)",
+      "translation": "(Что? Ни в коем случае! Я хочу быть алхимиком, как папа!)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_100.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_100.ebm",
+      "index": 8,
+      "speaker": "Honnete",
+      "original": "(Hehe, of course. But all this studying will pay off as well, I'm sure.)",
+      "translation": "(Хе-хе, конечно. Но я уверен, что все это обучение тоже окупится.)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_100.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_100.ebm",
+      "index": 9,
+      "speaker": "Honnete",
+      "original": "(You keep up the hard work and stay my bright little Lydie!)",
+      "translation": "(Продолжай усердно работать и оставайся моей умной маленькой Лиди!)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_100.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_100.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "(I will!)",
+      "translation": "(Я буду!)"
+    },
+    "ebm:qc08_hon/event_message_qc08_hon_100.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc08_hon/event_message_qc08_hon_100.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "Just a little longer!",
+      "translation": "Еще немного!"
+    }
+  }
+}

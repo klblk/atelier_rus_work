@@ -1,0 +1,256 @@
+{
+  "version": 1,
+  "source": "pack01_ebm",
+  "block": "xx04",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "ebm:xx04/event_message_xx04_010.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_010.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "The upper limit on Battle Levels has been removed. Increasing in level will allow you to learn new skills.",
+      "translation": "Верхний предел боевых уровней был удален. Повышение уровня позволит вам освоить новые навыки."
+    },
+    "ebm:xx04/event_message_xx04_020.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_020.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "The <CLGR>\"Secret Synthesis Research Journal\"<CLNR> has been opened! New recipes learned:",
+      "translation": "«Секретный журнал исследований синтеза» <CLGR><CLNR> открыт! Узнаны новые рецепты:"
+    },
+    "ebm:xx04/event_message_xx04_020.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_020.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": "<CLGR>Blason of Genesis<CLNR>, <CLGR>Parasim of Courage<CLNR>, <CLGR>Sphere of Wisdom<CLNR>, <CLGR>Bond of Royalty<CLNR>,",
+      "translation": "<CLGR>Бесон Бытия<CLNR>, <CLGR>Паразим Мужества<CLNR>, <CLGR>Сфера Мудрости<CLNR>, <CLGR>Узы царственности<CLNR>,"
+    },
+    "ebm:xx04/event_message_xx04_020.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_020.ebm",
+      "index": 2,
+      "speaker": "System",
+      "original": "<CLGR>Argento of Harmony<CLNR>, <CLGR>Vetur Caput<CLNR>, <CLGR>Sumar Caput<CLNR>, <CLGR>Force Regen<CLNR>,",
+      "translation": "<CLGR>Ардженто Гармонии<CLNR>, <CLGR>Ветур Капут<CLNR>, <CLGR>Сумар Капут<CLNR>, <CLGR>Регенерация силы<CLNR>,"
+    },
+    "ebm:xx04/event_message_xx04_020.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_020.ebm",
+      "index": 3,
+      "speaker": "System",
+      "original": "<CLGR>Absorption Caput<CLNR>, <CLGR>Lion's Might<CLNR>, <CLGR>Blitz Core: Fire<CLNR>, <CLGR>Blitz Core: Ice<CLNR>,",
+      "translation": "<CLGR>Капут поглощения<CLNR>, <CLGR>Мощь льва<CLNR>, <CLGR>Блиц-ядро: Огонь<CLNR>, <CLGR>Блиц-ядро: Лед<CLNR>,"
+    },
+    "ebm:xx04/event_message_xx04_020.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_020.ebm",
+      "index": 4,
+      "speaker": "System",
+      "original": "<CLGR>Blitz Core: Thunder<CLNR>, <CLGR>Blitz Core: Wind<CLNR>, <CLGR>Manly Pickle Stone<CLNR>, <CLGR>Dimension Bomb<CLNR>, <CLGR>Omega Craft<CLNR>,",
+      "translation": "<CLGR>Блиц-ядро: Гром<CLNR>, <CLGR>Блиц-ядро: Ветер<CLNR>, <CLGR>Камень Мэнли Пикля<CLNR>, <CLGR>Пространственная бомба<CLNR>, <CLGR>Омега-крафт<CLNR>,"
+    },
+    "ebm:xx04/event_message_xx04_020.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_020.ebm",
+      "index": 5,
+      "speaker": "System",
+      "original": "<CLGR>Apple Tart<CLNR>, <CLGR>Mushroom Stew<CLNR>, <CLGR>Tonic Powder<CLNR>, <CLGR>Spark Mallet<CLNR>, <CLGR>White-Hot Headband<CLNR>,",
+      "translation": "<CLGR>Яблочный пирог<CLNR>, <CLGR>Грибное рагу<CLNR>, <CLGR>Тоник<CLNR>, <CLGR>Искра-молоток<CLNR>, <CLGR>Бело-горячая повязка на голову<CLNR>,"
+    },
+    "ebm:xx04/event_message_xx04_020.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_020.ebm",
+      "index": 6,
+      "speaker": "System",
+      "original": "<CLGR>Spirit Earrings<CLNR>, <CLGR>Monochrome Glasses<CLNR>, <CLGR>Time Control Hourglass<CLNR>, <CLGR>Radiant Talisman<CLNR>,",
+      "translation": "<CLGR>Серьги духа<CLNR>, <CLGR>Монохромные очки<CLNR>, <CLGR>Песочные часы контроля времени<CLNR>, <CLGR>Сияющий талисман<CLNR>,"
+    },
+    "ebm:xx04/event_message_xx04_020.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_020.ebm",
+      "index": 7,
+      "speaker": "System",
+      "original": "<CLGR>Moonshine Talisman<CLNR>, <CLGR>Phoenix Bracelet<CLNR>, <CLGR>Treasure Grimoire<CLNR>, <CLGR>Camo Cloak<CLNR>.",
+      "translation": "<CLGR>Талисман самогона<CLNR>, <CLGR>Браслет Феникса<CLNR>, <CLGR>Сокровище Гримуара<CLNR>, <CLGR>Камуфляжный плащ<CLNR>."
+    },
+    "ebm:xx04/event_message_xx04_030.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_030.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "The <CLGR>\"Adventurers' Tales\"<CLNR> has been opened! New recipes learned:",
+      "translation": "<CLGR>\"Сказки искателей приключений\"<CLNR> открыта! Узнаны новые рецепты:"
+    },
+    "ebm:xx04/event_message_xx04_030.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_030.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": "<CLGR>Spiked Boots<CLNR>, <CLGR>Special Elixir Nutrients<CLNR>, <CLGR>Secret Bag<CLNR>.",
+      "translation": "<CLGR>Ботинки с шипами<CLNR>, <CLGR>Особые питательные вещества эликсира<CLNR>, <CLGR>Секретная сумка<CLNR>."
+    },
+    "ebm:xx04/event_message_xx04_040.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_040.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "The <CLGR>\"Delicacies and Rarities Pack\"<CLNR> has been unlocked! Acquired the following items:",
+      "translation": "<CLGR>Набор деликатесов и раритетов <CLNR> разблокирован! Приобретены следующие предметы:"
+    },
+    "ebm:xx04/event_message_xx04_040.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_040.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": "<CLGR>Weiss Wheat<CLNR>, <CLGR>Dunkelheit<CLNR>, <CLGR>Dragon Scale<CLNR>, <CLGR>Deep Core<CLNR>, <CLGR>Rapier Fish<CLNR>.",
+      "translation": "<CLGR>Вейсская пшеница<CLNR>, <CLGR>Дункельхейт<CLNR>, <CLGR>Чешуйка дракона<CLNR>, <CLGR>Глубокое ядро<CLNR>, <CLGR>Рыба-рапира<CLNR>."
+    },
+    "ebm:xx04/event_message_xx04_060.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_060.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "A new area, <CLGR>\"Nightless Ruined City\"<CLNR>, has been unlocked! It can be accessed from the Painting Map.",
+      "translation": "Была разблокирована новая область <CLGR> «Разрушенный город без ночи» <CLNR>! Доступ к нему можно получить с карты живописи."
+    },
+    "ebm:xx04/event_message_xx04_080.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_080.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "The <CLGR>\"Loads of Exp\" Quest<CLNR> has been unlocked! It can be accepted at the Notice Board.",
+      "translation": "Квест <CLGR> «Много опыта»<CLNR> разблокирован! Его можно принять на доске объявлений."
+    },
+    "ebm:xx04/event_message_xx04_090.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_090.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "The <CLGR>\"Piles of Coll\" Quest<CLNR> has been unlocked! It can be accepted at the Notice Board.",
+      "translation": "Квест <CLGR> «Свалка» <CLNR> разблокирован! Его можно принять на доске объявлений."
+    },
+    "ebm:xx04/event_message_xx04_100.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_100.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "追加キャラ『<CLGR>ルーシャ<CLNR>』が開放されました。<CR>参戦するには５話まで進める必要があります",
+      "translation": "追加キャラ『<CLGR>ルーシャ<CLNR>』が開放されました。<CR>参戦するには５話まで進める必要があります"
+    },
+    "ebm:xx04/event_message_xx04_110.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_110.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "A new area, <CLGR>\"Blue Sentiment Land\"<CLNR>, has been unlocked! It can be accessed from the Painting Map.",
+      "translation": "Открыта новая область <CLGR> «Земля голубых чувств» <CLNR>! Доступ к нему можно получить с карты живописи."
+    },
+    "ebm:xx04/event_message_xx04_120.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_120.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "A new outfit for Lydie, <CLGR>\"Smart & Sweet\"<CLNR>, has become available!",
+      "translation": "Стал доступен новый наряд для Лиди, <CLGR>\"Smart & Sweet\"<CLNR>!"
+    },
+    "ebm:xx04/event_message_xx04_130.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_130.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "A new outfit for Suelle, <CLGR>\"Active ☆ Lovely\"<CLNR>, has become available!",
+      "translation": "Стал доступен новый наряд для Сюэль, <CLGR>\"Активный ☆ Прекрасный\"<CLNR>!"
+    },
+    "ebm:xx04/event_message_xx04_150.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_150.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "ソフィーと戦うことができるようになりました。<CR>最終話＆ソフィーストーリーを進める必要があります",
+      "translation": "ソフィーと戦うことができるようになりました。<CR>最終話＆ソフィーストーリーを進める必要があります"
+    },
+    "ebm:xx04/event_message_xx04_160.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_160.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "The following recipes have been acquired:",
+      "translation": "Были приобретены следующие рецепты:"
+    },
+    "ebm:xx04/event_message_xx04_160.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_160.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": " <CLGR>Archeus Anima<CLNR>.",
+      "translation": "<CLGR>Археус Анима<CLNR>."
+    },
+    "ebm:xx04/event_message_xx04_170.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_170.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "追加キャラ『<CLGR>イルメリア<CLNR>』が開放されました。<CR>参戦するには７話まで進める必要があります",
+      "translation": "追加キャラ『<CLGR>イルメリア<CLNR>』が開放されました。<CR>参戦するには７話まで進める必要があります"
+    },
+    "ebm:xx04/event_message_xx04_180.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_180.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "追加マップ『<CLGR>クラーデル平原<CLNR>』が追加されました",
+      "translation": "追加マップ『<CLGR>クラーデル平原<CLNR>』が追加されました"
+    },
+    "ebm:xx04/event_message_xx04_190.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_190.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "A new outfit for Sophie, <CLGR>\"Best Partner\"<CLNR>, has become available for use!",
+      "translation": "Новый наряд для Софи, <CLGR>\"Лучший партнёр\"<CLNR>, стал доступен для использования!"
+    },
+    "ebm:xx04/event_message_xx04_200.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_200.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "A new outfit for Firis, <CLGR>\"Teacher's Favorite\"<CLNR>, has become available for use!",
+      "translation": "Новый наряд для Фирис, <CLGR>\"Любимец учителя\"<CLNR>, стал доступен для использования!"
+    },
+    "ebm:xx04/event_message_xx04_210.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_210.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "A new outfit for Ilmeria, <CLGR>\"Cormeria?\"<CLNR>, has become available for use!",
+      "translation": "Новый наряд для Илмерии, <CLGR>\"Кормерия?\"<CLNR>, стал доступен для использования!"
+    },
+    "ebm:xx04/event_message_xx04_220.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_220.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "A new outfit for Lucia, <CLGR>\"Bunny Tail\"<CLNR>, has become available for use!",
+      "translation": "Новый наряд для Люсии, <CLGR>\"Кроличий хвост\"<CLNR>, стал доступен для использования!"
+    },
+    "ebm:xx04/event_message_xx04_230.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_230.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "A new area, <CLGR>\"Lotus Blossom Pond\"<CLNR>, has been unlocked! It can be accessed from the Outskirts Map.",
+      "translation": "Открыта новая область <CLGR> «Пруд с цветением лотоса»<CLNR>! Доступ к нему можно получить с карты окраин."
+    },
+    "ebm:xx04/event_message_xx04_240.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx04/event_message_xx04_240.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "A new area, <CLGR>\"Ventus Mines\"<CLNR>, has been unlocked! It can be accessed from the Outskirts Map.",
+      "translation": "Открыта новая область <CLGR> «Рудники Вентус» <CLNR>! Доступ к нему можно получить с карты окраин."
+    }
+  }
+}

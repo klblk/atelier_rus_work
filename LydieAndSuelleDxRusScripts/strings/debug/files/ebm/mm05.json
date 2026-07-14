@@ -1,0 +1,3128 @@
+{
+  "version": 1,
+  "source": "pack01_ebm",
+  "block": "mm05",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "ebm:mm05/event_message_mm05_010.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_010.ebm",
+      "index": 0,
+      "speaker": "Roger",
+      "original": "Girls! Celebrate! The town is afire with rumors of you two!",
+      "translation": "Девушки! Празднуйте! Город охвачен слухами о вас двоих!"
+    },
+    "ebm:mm05/event_message_mm05_010.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_010.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Rumors? About the prettiest sisters in the city? Ah, I'm so embarrassed! Pretty, you said?",
+      "translation": "Слухи? О самых красивых сестрах в городе? Ах, мне так стыдно! Красиво, ты сказал?"
+    },
+    "ebm:mm05/event_message_mm05_010.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_010.ebm",
+      "index": 2,
+      "speaker": "Roger",
+      "original": "Stop sleep talking! Go splash some water on your face and wake up. I'm talking about your Atelier Ranking!",
+      "translation": "Хватит говорить во сне! Иди, плесни себе в лицо немного воды и проснись. Я говорю о вашем рейтинге ателье!"
+    },
+    "ebm:mm05/event_message_mm05_010.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_010.ebm",
+      "index": 3,
+      "speaker": "Roger",
+      "original": "The talented twins who are quickly making a name for themselves!",
+      "translation": "Талантливые близнецы, быстро сделавшие себе имя!"
+    },
+    "ebm:mm05/event_message_mm05_010.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_010.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Wow, that's great! All our hard work has paid off!",
+      "translation": "Вау, это здорово! Вся наша тяжелая работа окупилась!"
+    },
+    "ebm:mm05/event_message_mm05_010.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_010.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Okay, don't drop your guard now. We're aiming for the top, and we're not there yet!",
+      "translation": "Хорошо, не теряй бдительности сейчас. Мы стремимся к вершине, но мы еще не там!"
+    },
+    "ebm:mm05/event_message_mm05_010.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_010.ebm",
+      "index": 6,
+      "speaker": "Roger",
+      "original": "Keep your heads on, that's right. Many people still have a reputation higher than yours.",
+      "translation": "Держите голову подальше, это верно. Многие люди до сих пор имеют репутацию выше вашей."
+    },
+    "ebm:mm05/event_message_mm05_010.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_010.ebm",
+      "index": 7,
+      "speaker": "Roger",
+      "original": "Ilmeria, Firis, and a guy called Alt, all have very high ranks.",
+      "translation": "Илмерия, Фирис и парень по имени Альт имеют очень высокие звания."
+    },
+    "ebm:mm05/event_message_mm05_010.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_010.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Alt? I don't think we've met him.",
+      "translation": "Альт? Я не думаю, что мы с ним встречались."
+    },
+    "ebm:mm05/event_message_mm05_010.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_010.ebm",
+      "index": 9,
+      "speaker": "Roger",
+      "original": "No need to worry about other people. You just keep going at your own pace.",
+      "translation": "Не нужно беспокоиться о других людях. Вы просто продолжаете идти в своем собственном темпе."
+    },
+    "ebm:mm05/event_message_mm05_010.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_010.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Hey, is that a customer? Come on in!",
+      "translation": "Эй, это клиент? Заходите!"
+    },
+    "ebm:mm05/event_message_mm05_010.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_010.ebm",
+      "index": 11,
+      "speaker": "Messenger Puni",
+      "original": "Puni-Puni!",
+      "translation": "Пуни-Пуни!"
+    },
+    "ebm:mm05/event_message_mm05_010.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_010.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "Uwah, a Puni! What's it doing at our atelier? Hold on, I think it's delivering that letter?",
+      "translation": "Увау, пуни! Что он делает в нашем ателье? Подождите, я думаю, он доставляет письмо?"
+    },
+    "ebm:mm05/event_message_mm05_010.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_010.ebm",
+      "index": 13,
+      "speaker": "Mireille",
+      "original": "“Sorry if this surprised you. This is Mireille, brought to you by my Messenger Puni, Puni Saemon.",
+      "translation": "«Извините, если это вас удивило. Это Мирей, которую вам принес мой посланник Пуни, Пуни Саэмон."
+    },
+    "ebm:mm05/event_message_mm05_010.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_010.ebm",
+      "index": 14,
+      "speaker": "Mireille",
+      "original": "I don't want to keep on calling you to the castle, so I'm sending you the next Promotion Test conditions.",
+      "translation": "Я не хочу продолжать звать тебя в замок, поэтому посылаю тебе условия следующего теста на повышение."
+    },
+    "ebm:mm05/event_message_mm05_010.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_010.ebm",
+      "index": 15,
+      "speaker": "Mireille",
+      "original": "Good luck with them! To my dear twins, from Mireille.”",
+      "translation": "Удачи с ними! Моим дорогим близнецам от Мирей."
+    },
+    "ebm:mm05/event_message_mm05_010.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_010.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "Wow, I've never seen a Messenger Puni before. Puni can be pretty versatile, can't they!",
+      "translation": "Ух ты, я никогда раньше не видел Посланника Пуни. Пуни могут быть весьма универсальными, не так ли!"
+    },
+    "ebm:mm05/event_message_mm05_010.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_010.ebm",
+      "index": 17,
+      "speaker": "Messenger Puni",
+      "original": "Puni-puni!",
+      "translation": "Пуни-пуни!"
+    },
+    "ebm:mm05/event_message_mm05_010.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_010.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "Hmm, the requirements look pretty similar. We need to raise our reputation to take the exam.",
+      "translation": "Хм, требования очень похожи. Нам нужно поднять свою репутацию, чтобы сдать экзамен."
+    },
+    "ebm:mm05/event_message_mm05_010.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_010.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "Very well! It's time to aim for E Rank!",
+      "translation": "Очень хорошо! Пришло время стремиться к рангу E!"
+    },
+    "ebm:mm05/event_message_mm05_010.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_010.ebm",
+      "index": 20,
+      "speaker": "System",
+      "original": "Subsidy of 2000 Coll received.",
+      "translation": "Получена субсидия в размере 2000 колл."
+    },
+    "ebm:mm05/event_message_mm05_010.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_010.ebm",
+      "index": 21,
+      "speaker": "System",
+      "original": "You can now go to <CLEG>Braisewest<CLNR>!",
+      "translation": "Теперь вы можете перейти в <CLEG>Брайзвест<CLNR>!"
+    },
+    "ebm:mm05/event_message_mm05_020.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_020.ebm",
+      "index": 0,
+      "speaker": "Firis",
+      "original": "Lydie, Sue! I'm coming in!",
+      "translation": "Лиди, Сью! Я вхожу!"
+    },
+    "ebm:mm05/event_message_mm05_020.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_020.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Hello, Firis! Hold on? Did we tell you where to find our atelier?",
+      "translation": "Здравствуйте, Фирис! Подожди? Мы рассказали вам, где найти наше ателье?"
+    },
+    "ebm:mm05/event_message_mm05_020.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_020.ebm",
+      "index": 2,
+      "speaker": "Firis",
+      "original": "Nope, Ilmeria told me. There's something I want to ask you both.",
+      "translation": "Нет, сказала мне Илмерия. Я хочу кое-что спросить у вас обоих."
+    },
+    "ebm:mm05/event_message_mm05_020.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_020.ebm",
+      "index": 3,
+      "speaker": "Firis",
+      "original": "Tell me, if you can. Are there any legends about thunder in this region?",
+      "translation": "Скажи мне, если сможешь. Есть ли в этих краях легенды о громе?"
+    },
+    "ebm:mm05/event_message_mm05_020.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_020.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "About thunder? Let me see...",
+      "translation": "О громе? Дайте-ка подумать..."
+    },
+    "ebm:mm05/event_message_mm05_020.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_020.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Yes. There's only one I can think of... The \"Legend of the Thunder God\".",
+      "translation": "Да. Я могу вспомнить только одно... «Легенду о Боге Грома»."
+    },
+    "ebm:mm05/event_message_mm05_020.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_020.ebm",
+      "index": 6,
+      "speaker": "Firis",
+      "original": "That sounds promising! Can you tell me about it?",
+      "translation": "Звучит многообещающе! Можете ли вы рассказать мне об этом?"
+    },
+    "ebm:mm05/event_message_mm05_020.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_020.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "Sure. Long ago, there was a raging god named Falgior, who razed this area with the power of lightning.",
+      "translation": "Конечно. Давным-давно жил яростный бог по имени Фальгиор, который сравнял с землей эту местность силой молнии."
+    },
+    "ebm:mm05/event_message_mm05_020.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_020.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Eventually, a hero and an alchemist worked together to seal Falgior away in a painting.",
+      "translation": "В конце концов, герой и алхимик объединились, чтобы запечатать Фальгиора на картине."
+    },
+    "ebm:mm05/event_message_mm05_020.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_020.ebm",
+      "index": 9,
+      "speaker": "Firis",
+      "original": "The Thunder God Falgior, an alchemist, and sealing a god in a painting?",
+      "translation": "Бог грома Фальгиор, алхимик, запечатывает бога на картине?"
+    },
+    "ebm:mm05/event_message_mm05_020.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_020.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Everyone living in Adalet knows this story. It's very famous.",
+      "translation": "Эту историю знают все жители Адалета. Это очень известно."
+    },
+    "ebm:mm05/event_message_mm05_020.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_020.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Hahaha! Parents even tell their kids they'll set the Thunder God on them if they don't behave!",
+      "translation": "Ха-ха-ха! Родители даже говорят своим детям, что натравят на них Бога Грома, если они не будут хорошо себя вести!"
+    },
+    "ebm:mm05/event_message_mm05_020.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_020.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "I always thought it was just a fairytale, though. I've no idea if it's real.",
+      "translation": "Хотя я всегда думал, что это просто сказка. Я понятия не имею, реально ли это."
+    },
+    "ebm:mm05/event_message_mm05_020.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_020.ebm",
+      "index": 13,
+      "speaker": "Firis",
+      "original": "No worries. Thanks for telling me. He's a little something, a thank you gift!",
+      "translation": "Не беспокойся. Спасибо, что рассказали мне. Он нечто маленькое, подарок-спасибо!"
+    },
+    "ebm:mm05/event_message_mm05_020.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_020.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "Meat... Plenty of it, too. That's quite the, eh, thoughtful gift?",
+      "translation": "Мясо... И его много. Это очень, да, продуманный подарок?"
+    },
+    "ebm:mm05/event_message_mm05_020.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_020.ebm",
+      "index": 15,
+      "speaker": "Firis",
+      "original": "You think? That's one meal for me. Hehe, I hope you enjoy it!",
+      "translation": "Вы думаете? Для меня это один прием пищи. Хе-хе, надеюсь, вам понравится!"
+    },
+    "ebm:mm05/event_message_mm05_020.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_020.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "T-This is one meal?",
+      "translation": "Т-это один прием пищи?"
+    },
+    "ebm:mm05/event_message_mm05_020.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_020.ebm",
+      "index": 17,
+      "speaker": "Lydie",
+      "original": "Hahaha! I wonder why she wanted to talk about lightning all of a sudden, though?",
+      "translation": "Ха-ха-ха! Интересно, почему ей вдруг захотелось поговорить о молнии?"
+    },
+    "ebm:mm05/event_message_mm05_020.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_020.ebm",
+      "index": 18,
+      "speaker": "System",
+      "original": "<CLEG>Strength Meat<CLNR> received.",
+      "translation": "<CLEG>Мясо силы<CLNR> получено."
+    },
+    "ebm:mm05/event_message_mm05_030.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_030.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Sue! I've made some pancakes! I copied them from Mom's recipe. What do you think?",
+      "translation": "Сью! Я приготовила блины! Я скопировала их с маминого рецепта. Что вы думаете?"
+    },
+    "ebm:mm05/event_message_mm05_030.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_030.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Wow, they look delicious! Time to tuck in!",
+      "translation": "Вау, они выглядят восхитительно! Время пристегиваться!"
+    },
+    "ebm:mm05/event_message_mm05_030.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_030.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Hmm, they're good! Not too sweet, the perfect blends of honey and butter! I'm in heaven!",
+      "translation": "Хм, они хороши! Не слишком сладкий, идеальное сочетание меда и масла! Я в раю!"
+    },
+    "ebm:mm05/event_message_mm05_030.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_030.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Ah, I'm stuffed! That was totally delicious!",
+      "translation": "Ах, я наелся! Это было очень вкусно!"
+    },
+    "ebm:mm05/event_message_mm05_030.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_030.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Thank you. I remember Mom used to always make them for us.",
+      "translation": "Спасибо. Я помню, мама всегда готовила их для нас."
+    },
+    "ebm:mm05/event_message_mm05_030.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_030.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Yeah. Oh mom...",
+      "translation": "Ага. Ох, мама..."
+    },
+    "ebm:mm05/event_message_mm05_030.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_030.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "\"To run the greatest atelier in the kingdom, together, as a family\"... Will we really be able to keep this promise?",
+      "translation": "«Управлять величайшим ателье королевства вместе, как семья»... Сможем ли мы действительно сдержать это обещание?"
+    },
+    "ebm:mm05/event_message_mm05_030.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_030.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "Hey! You're not backing down now! No fair! You always chew me out when I say things like that!",
+      "translation": "Привет! Теперь ты не отступишь! Нет честности! Ты всегда меня ругаешь, когда я говорю такие вещи!"
+    },
+    "ebm:mm05/event_message_mm05_030.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_030.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Promise with Mom Number 2! \"Always keep your promises!\"",
+      "translation": "Обещание маме номер 2! «Всегда выполняйте свои обещания!»"
+    },
+    "ebm:mm05/event_message_mm05_030.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_030.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Hahaha, I'm sorry! But in order to keep this promise...",
+      "translation": "Ха-ха-ха, извини! Но чтобы сдержать это обещание..."
+    },
+    "ebm:mm05/event_message_mm05_030.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_030.ebm",
+      "index": 10,
+      "speaker": "Roger",
+      "original": "Uwah, smoke from the cauldron! My new special recipe! Where did I go wrong?!",
+      "translation": "Ух, дым из котла! Мой новый особенный рецепт! Где я ошибся?!"
+    },
+    "ebm:mm05/event_message_mm05_030.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_030.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "Yeah... First we need our dad to get his act together...",
+      "translation": "Да... Сначала нам нужно, чтобы наш отец собрался с силами..."
+    },
+    "ebm:mm05/event_message_mm05_040.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_040.ebm",
+      "index": 0,
+      "speaker": "Lucia",
+      "original": "Ohohoho! Your big sister is here for a play date, girls!",
+      "translation": "Ого-хо-хо! Ваша старшая сестра пришла на свидание, девочки!"
+    },
+    "ebm:mm05/event_message_mm05_040.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_040.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "No one asked you to come! I was just about to take a break, too.",
+      "translation": "Никто не просил тебя приходить! Я тоже собирался сделать перерыв."
+    },
+    "ebm:mm05/event_message_mm05_040.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_040.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "In which case, let's have some snacks and a chat. I'll make the tea!",
+      "translation": "В таком случае, давайте перекусим и поболтаем. Я заварю чай!"
+    },
+    "ebm:mm05/event_message_mm05_040.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_040.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "I've been meaning to ask you, Lucia. Just how impressive is it to be a certified alchemist?",
+      "translation": "Я хотел спросить тебя, Люсия. Насколько впечатляюще быть сертифицированным алхимиком?"
+    },
+    "ebm:mm05/event_message_mm05_040.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_040.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "I know it's amazing, but that's about all. What are the details?",
+      "translation": "Я знаю, что это потрясающе, но это все. Каковы детали?"
+    },
+    "ebm:mm05/event_message_mm05_040.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_040.ebm",
+      "index": 5,
+      "speaker": "Lucia",
+      "original": "Oh, good question. Being certified is the highest - and only, really - qualification for alchemists.",
+      "translation": "О, хороший вопрос. Сертификация — это высшая и единственная квалификация для алхимиков."
+    },
+    "ebm:mm05/event_message_mm05_040.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_040.ebm",
+      "index": 6,
+      "speaker": "Lucia",
+      "original": "They hold the exam once a year, but only one or two people pass.",
+      "translation": "Экзамен проводят раз в год, но сдают его только один-два человека."
+    },
+    "ebm:mm05/event_message_mm05_040.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_040.ebm",
+      "index": 7,
+      "speaker": "Lucia",
+      "original": "That means certified alchemists are incredibly skilled.",
+      "translation": "Это означает, что сертифицированные алхимики невероятно опытны."
+    },
+    "ebm:mm05/event_message_mm05_040.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_040.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Only one or two a year? Is it that rare?",
+      "translation": "Только один или два в год? Это настолько редко?"
+    },
+    "ebm:mm05/event_message_mm05_040.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_040.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Have you tried to get certified, Lucia? You like qualifications, right?",
+      "translation": "Люсия, ты пробовала пройти сертификацию? Вам нравится квалификация, верно?"
+    },
+    "ebm:mm05/event_message_mm05_040.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_040.ebm",
+      "index": 10,
+      "speaker": "Lucia",
+      "original": "That's true, yes, but there are lots of hurdles in the way.",
+      "translation": "Да, это правда, но на этом пути есть много препятствий."
+    },
+    "ebm:mm05/event_message_mm05_040.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_040.ebm",
+      "index": 11,
+      "speaker": "Lucia",
+      "original": "The exam venue is far away, for a start, but you also need to collect references.",
+      "translation": "Место проведения экзамена, во-первых, далеко, но нужно еще и справки собрать."
+    },
+    "ebm:mm05/event_message_mm05_040.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_040.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "References? References to what?",
+      "translation": "Ссылки? Ссылки на что?"
+    },
+    "ebm:mm05/event_message_mm05_040.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_040.ebm",
+      "index": 13,
+      "speaker": "Lucia",
+      "original": "References from certified alchemists. Endorsements for taking the exam, basically.",
+      "translation": "Рекомендации от сертифицированных алхимиков. По сути, одобрение для сдачи экзамена."
+    },
+    "ebm:mm05/event_message_mm05_040.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_040.ebm",
+      "index": 14,
+      "speaker": "Lucia",
+      "original": "You need three of them to take the exam. Not easy in Adalet, with so few alchemists around!",
+      "translation": "Для сдачи экзамена вам понадобится трое из них. Нелегко в Адалете, где так мало алхимиков!"
+    },
+    "ebm:mm05/event_message_mm05_040.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_040.ebm",
+      "index": 15,
+      "speaker": "Lucia",
+      "original": "My father told me that Merveille had a certified alchemist, long ago...",
+      "translation": "Мой отец рассказал мне, что давным-давно у Мервеля был сертифицированный алхимик..."
+    },
+    "ebm:mm05/event_message_mm05_040.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_040.ebm",
+      "index": 16,
+      "speaker": "Lucia",
+      "original": "But they aren't here any more. So I've pretty much given up on getting certified.",
+      "translation": "Но их здесь больше нет. Поэтому я практически отказался от получения сертификата."
+    },
+    "ebm:mm05/event_message_mm05_040.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_040.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "I see. So our teacher and Firis have both passed this super hard exam? I'm even more impressed!",
+      "translation": "Я понимаю. Значит, наш учитель и Фирис сдали этот сверхсложный экзамен? Я впечатлен еще больше!"
+    },
+    "ebm:mm05/event_message_mm05_050.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_050.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "The reputation of our atelier has improved again.<CR>I think maybe we're ready to take the next exam...",
+      "translation": "Репутация нашего ателье снова улучшилась.<CR>Думаю, может быть, мы готовы сдать следующий экзамен..."
+    },
+    "ebm:mm05/event_message_mm05_050.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_050.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "The reputation of our atelier keeps rising!<CR>I bet we're ready to take the next exam!",
+      "translation": "Репутация нашего ателье продолжает расти!<CR>Держу пари, что мы готовы сдавать следующий экзамен!"
+    },
+    "ebm:mm05/event_message_mm05_055.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_055.ebm",
+      "index": 0,
+      "speaker": "Mireille",
+      "original": "Your reputation isn't high enough yet to take the next exam. Keep it up! You'll get there!",
+      "translation": "Ваша репутация еще недостаточно высока, чтобы сдавать следующий экзамен. Так держать! Вы доберетесь туда!"
+    },
+    "ebm:mm05/event_message_mm05_055.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_055.ebm",
+      "index": 1,
+      "speaker": "Mireille",
+      "original": "Interesting. Your reputation has grown quite a lot. I think you might be ready for the exam.",
+      "translation": "Интересный. Ваша репутация значительно выросла. Я думаю, ты можешь быть готов к экзамену."
+    },
+    "ebm:mm05/event_message_mm05_055.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_055.ebm",
+      "index": 2,
+      "speaker": "Mireille",
+      "original": "What do you think? Do you want to try the next Promotion Test?",
+      "translation": "Что вы думаете? Хотите попробовать следующий промо-тест?"
+    },
+    "ebm:mm05/event_message_mm05_055.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_055.ebm",
+      "index": 3,
+      "speaker": "Mireille",
+      "original": "That's fine, too. If you decide to take the test, just come and see me any time.",
+      "translation": "Это тоже нормально. Если вы решите пройти тест, просто приходите ко мне в любое время."
+    },
+    "ebm:mm05/event_message_mm05_060.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_060.ebm",
+      "index": 0,
+      "speaker": "Mireille",
+      "original": "Very well. Then, without further ado, here's your next task!",
+      "translation": "Очень хорошо. Тогда, без лишних слов, вот ваше следующее задание!"
+    },
+    "ebm:mm05/event_message_mm05_060.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_060.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "An investigation into the odd weather we've been having? There have been a lot of storms recently.",
+      "translation": "Расследование странной погоды, которая у нас была? В последнее время было много штормов."
+    },
+    "ebm:mm05/event_message_mm05_060.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_060.ebm",
+      "index": 2,
+      "speaker": "Mireille",
+      "original": "Indeed. Too many, I think you'll agree. Will you help with looking into it?",
+      "translation": "Действительно. Слишком много, я думаю, вы согласитесь. Поможете ли вы разобраться в этом?"
+    },
+    "ebm:mm05/event_message_mm05_060.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_060.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Of course. This is hardly our specialty, though, and we don't know anything about lightning!",
+      "translation": "Конечно. Впрочем, это вряд ли наша специальность, и мы ничего не знаем о молниях!"
+    },
+    "ebm:mm05/event_message_mm05_060.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_060.ebm",
+      "index": 4,
+      "speaker": "Mireille",
+      "original": "No worries! We only need you to synthesize a device to measure lightning power and place it somewhere.",
+      "translation": "Не беспокойся! Нам нужно только, чтобы вы синтезировали прибор для измерения мощности молнии и разместили его где-нибудь."
+    },
+    "ebm:mm05/event_message_mm05_060.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_060.ebm",
+      "index": 5,
+      "speaker": "Mireille",
+      "original": "Here's the recipe for the device. Make it just like you see here.",
+      "translation": "Вот рецепт устройства. Сделайте это так, как вы видите здесь."
+    },
+    "ebm:mm05/event_message_mm05_060.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_060.ebm",
+      "index": 6,
+      "speaker": "Mireille",
+      "original": "Do that, then bring it here to me. It can give you a bit of a spark, so be careful!",
+      "translation": "Сделай это, а потом принеси мне сюда. Это может дать вам искру, так что будьте осторожны!"
+    },
+    "ebm:mm05/event_message_mm05_060.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_060.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "Isn't it a failure if that happens? Ah, well, no matter.",
+      "translation": "Разве это не провал, если такое произойдет? Ах, ну, неважно."
+    },
+    "ebm:mm05/event_message_mm05_060.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_060.ebm",
+      "index": 8,
+      "speaker": "System",
+      "original": "<CLEG>E Rank Test Problem<CLNR> received.",
+      "translation": "<CLEG>E Задача проверки ранга<CLNR> получена."
+    },
+    "ebm:mm05/event_message_mm05_070.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_070.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Good, the measuring device is complete! Next we have to take this to Mireille.",
+      "translation": "Отлично, измерительный прибор готов! Далее нам нужно отнести это Мирей."
+    },
+    "ebm:mm05/event_message_mm05_070.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_070.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "That's right...",
+      "translation": "Это верно..."
+    },
+    "ebm:mm05/event_message_mm05_070.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_070.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "What's wrong? You don't look all that happy.",
+      "translation": "В чем дело? Ты не выглядишь таким уж счастливым."
+    },
+    "ebm:mm05/event_message_mm05_070.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_070.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "I'm worried about the thunder. There has been a lot of storms recently.",
+      "translation": "Я беспокоюсь о громе. В последнее время было много штормов."
+    },
+    "ebm:mm05/event_message_mm05_070.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_070.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Both Firis and Mireille are looking into them now, aren't they!",
+      "translation": "И Фирис, и Мирей сейчас их изучают, не так ли?"
+    },
+    "ebm:mm05/event_message_mm05_070.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_070.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "I just hope it isn't all some kind of bad omen.",
+      "translation": "Я просто надеюсь, что это не какое-то плохое предзнаменование."
+    },
+    "ebm:mm05/event_message_mm05_070.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_070.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "Huh, you're overthinking things. This device is intended to provide the answers, anyway!",
+      "translation": "Ха, ты слишком много думаешь. В любом случае это устройство предназначено для того, чтобы давать ответы!"
+    },
+    "ebm:mm05/event_message_mm05_070.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_070.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "There's no need to worry. Let's deliver the device and see what happens next.",
+      "translation": "Не стоит беспокоиться. Доставим аппарат и посмотрим, что будет дальше."
+    },
+    "ebm:mm05/event_message_mm05_070.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_070.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Yes, you're right. I'm just overthinking things.",
+      "translation": "Да, ты прав. Я просто слишком много думаю."
+    },
+    "ebm:mm05/event_message_mm05_080.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_080.ebm",
+      "index": 0,
+      "speaker": "Mireille",
+      "original": "Great work, twins! Now we should be able to shed some light on this lightning problem!",
+      "translation": "Отличная работа, близнецы! Теперь мы сможем пролить свет на эту проблему с молниями!"
+    },
+    "ebm:mm05/event_message_mm05_080.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_080.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Ahem! So, now we just go out and set it up?",
+      "translation": "Кхм! Итак, теперь мы просто выйдем и настроим это?"
+    },
+    "ebm:mm05/event_message_mm05_080.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_080.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Then we'll do that right away. See you later, Mireille.",
+      "translation": "Тогда мы сделаем это прямо сейчас. Увидимся позже, Мирей."
+    },
+    "ebm:mm05/event_message_mm05_080.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_080.ebm",
+      "index": 3,
+      "speaker": "Mireille",
+      "original": "Not even a smile... Shed some light on this lightning problem! I thought that was pretty good...",
+      "translation": "Даже улыбки... Пролейте свет на эту молниеносную проблему! Я подумал, что это очень хорошо..."
+    },
+    "ebm:mm05/event_message_mm05_090.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_090.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "We need to place the machine around here. Where, exactly?",
+      "translation": "Нам нужно разместить машину где-то здесь. Где именно?"
+    },
+    "ebm:mm05/event_message_mm05_090.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_090.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Good question. A place to put the device, a place to put the device...",
+      "translation": "Хороший вопрос. Место для размещения устройства, место для размещения устройства..."
+    },
+    "ebm:mm05/event_message_mm05_090.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_090.ebm",
+      "index": 2,
+      "speaker": "???",
+      "original": "I don't think it matters. It isn't going to make much of a difference.",
+      "translation": "Я не думаю, что это имеет значение. Это не будет иметь большого значения."
+    },
+    "ebm:mm05/event_message_mm05_090.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_090.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Ugh, sorry. Who are you?",
+      "translation": "Ух, извини. Кто ты?"
+    },
+    "ebm:mm05/event_message_mm05_090.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_090.ebm",
+      "index": 4,
+      "speaker": "???",
+      "original": "Who I am is a trifling question, Lydie and Sue of Lune Street.",
+      "translation": "Кто я, это пустяковый вопрос, Лиди и Сью с Лун-стрит."
+    },
+    "ebm:mm05/event_message_mm05_090.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_090.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "What? You know us?",
+      "translation": "Что? Вы нас знаете?"
+    },
+    "ebm:mm05/event_message_mm05_090.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_090.ebm",
+      "index": 6,
+      "speaker": "???",
+      "original": "With all the rumors, how could I not? I've been wanting to meet you both.",
+      "translation": "Учитывая все эти слухи, как я мог не сделать этого? Я хотел встретиться с вами обоими."
+    },
+    "ebm:mm05/event_message_mm05_090.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_090.ebm",
+      "index": 7,
+      "speaker": "???",
+      "original": "I see now, yes... You have wonderful eyes. Filled with ambitions and hopes. They're most striking.",
+      "translation": "Теперь я вижу, да... У тебя чудесные глаза. Наполненный амбициями и надеждами. Они наиболее поразительны."
+    },
+    "ebm:mm05/event_message_mm05_090.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_090.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "O-okay...",
+      "translation": "О-окей..."
+    },
+    "ebm:mm05/event_message_mm05_090.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_090.ebm",
+      "index": 9,
+      "speaker": "???",
+      "original": "Ah, one last thing. There are some things in the future you can change, and some you cannot.",
+      "translation": "Ах, и последнее. В будущем есть что-то, что вы можете изменить, а что-то — нет."
+    },
+    "ebm:mm05/event_message_mm05_090.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_090.ebm",
+      "index": 10,
+      "speaker": "???",
+      "original": "You need to stop your futile struggle and focus only on that what can still be changed. That's all.",
+      "translation": "Вам нужно прекратить свою бесполезную борьбу и сосредоточиться только на том, что еще можно изменить. Вот и все."
+    },
+    "ebm:mm05/event_message_mm05_090.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_090.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "And he's gone... Just who was that?",
+      "translation": "И он ушел... Кто это был?"
+    },
+    "ebm:mm05/event_message_mm05_090.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_090.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "Don't ask me. With all that talk about the future... Maybe a fortune teller? Anyway, back to the task at hand!",
+      "translation": "Не спрашивай меня. Со всеми этими разговорами о будущем... Может быть, гадалка? В любом случае, вернемся к поставленной задаче!"
+    },
+    "ebm:mm05/event_message_mm05_090.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_090.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "Of course, of course. We can't afford to forget why we're here!",
+      "translation": "Конечно, конечно. Мы не можем позволить себе забыть, почему мы здесь!"
+    },
+    "ebm:mm05/event_message_mm05_090.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_090.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "That's it, all finished! We've completed the task!",
+      "translation": "Вот и все, все готово! Мы выполнили задачу!"
+    },
+    "ebm:mm05/event_message_mm05_090.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_090.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "Great. Let's go and report to Mireille. I hope she doesn't try another terrible pun on us...",
+      "translation": "Большой. Пойдем, доложим Мирей. Надеюсь, она не применит к нам еще один ужасный каламбур..."
+    },
+    "ebm:mm05/event_message_mm05_090.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_090.ebm",
+      "index": 16,
+      "speaker": "Firis",
+      "original": "Hmm. I'm sure I've met him before somewhere, but I can't place it... Am I just imagining things?",
+      "translation": "Хм. Я уверен, что где-то уже встречал его раньше, но не могу вспомнить... Неужели я просто воображаю?"
+    },
+    "ebm:mm05/event_message_mm05_095.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_095.ebm",
+      "index": 0,
+      "speaker": "Mireille",
+      "original": "It's time to announce my evaluation!",
+      "translation": "Пришло время огласить мою оценку!"
+    },
+    "ebm:mm05/event_message_mm05_095.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_095.ebm",
+      "index": 1,
+      "speaker": "Mireille",
+      "original": "Well done. Most impressive, in fact! I can't fault this at all!",
+      "translation": "Отличная работа. На самом деле, самое впечатляющее! Я вообще не могу в этом винить!"
+    },
+    "ebm:mm05/event_message_mm05_095.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_095.ebm",
+      "index": 2,
+      "speaker": "Mireille",
+      "original": "Yes, that's pretty good. You pass!",
+      "translation": "Да, это очень хорошо. Вы проходите!"
+    },
+    "ebm:mm05/event_message_mm05_095.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_095.ebm",
+      "index": 3,
+      "speaker": "Mireille",
+      "original": "That's barely a pass. You just scraped over the line. You'll need to try harder next time!",
+      "translation": "Это едва ли проходной балл. Вы просто перешли черту. В следующий раз вам придется постараться больше!"
+    },
+    "ebm:mm05/event_message_mm05_095.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_095.ebm",
+      "index": 4,
+      "speaker": "Mireille",
+      "original": "Sorry, this is no good. I can't let you pass based on this.",
+      "translation": "Извините, это бесполезно. Я не могу позволить тебе пройти из-за этого."
+    },
+    "ebm:mm05/event_message_mm05_100.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_100.ebm",
+      "index": 0,
+      "speaker": "Mireille",
+      "original": "You've placed the device. Thank you. Which means...",
+      "translation": "Вы разместили устройство. Спасибо. Что означает..."
+    },
+    "ebm:mm05/event_message_mm05_100.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_100.ebm",
+      "index": 1,
+      "speaker": "Mireille",
+      "original": "Yes! You've received E Rank, twins! Congratulations!",
+      "translation": "Да! Вы получили ранг E, близнецы! Поздравляем!"
+    },
+    "ebm:mm05/event_message_mm05_100.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_100.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Thank you, Mireille! Which means...",
+      "translation": "Спасибо, Мирей! Что означает..."
+    },
+    "ebm:mm05/event_message_mm05_100.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_100.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "What is the Mysterious Painting this time? I just can't wait to see it!",
+      "translation": "Что представляет собой Таинственная Картина на этот раз? Я просто не могу дождаться, чтобы увидеть это!"
+    },
+    "ebm:mm05/event_message_mm05_100.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_100.ebm",
+      "index": 4,
+      "speaker": "Mireille",
+      "original": "Ah, well, about that... I actually haven't obtained a new painting yet.",
+      "translation": "А, ну, насчет этого... Я вообще-то еще не приобрел новую картину."
+    },
+    "ebm:mm05/event_message_mm05_100.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_100.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "No way! But you made a promise! You can't break a promise!",
+      "translation": "Ни за что! Но ты дал обещание! Нельзя нарушать обещание!"
+    },
+    "ebm:mm05/event_message_mm05_100.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_100.ebm",
+      "index": 6,
+      "speaker": "Mathias",
+      "original": "I've got my eye on the next one, it's just the negotiations are dragging on.",
+      "translation": "Я присматриваюсь к следующему, просто переговоры затягиваются."
+    },
+    "ebm:mm05/event_message_mm05_100.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_100.ebm",
+      "index": 7,
+      "speaker": "Mireille",
+      "original": "Which means, I'm sorry, but can you wait a little bit longer?",
+      "translation": "Это значит, извини, но ты можешь подождать еще немного?"
+    },
+    "ebm:mm05/event_message_mm05_100.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_100.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Uh, very well. We can't get selfish, can we! We'll be patient.",
+      "translation": "Э-э, очень хорошо. Мы не можем быть эгоистичными, не так ли! Мы будем терпеливы."
+    },
+    "ebm:mm05/event_message_mm05_100.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_100.ebm",
+      "index": 9,
+      "speaker": "Mireille",
+      "original": "That's very good of you.",
+      "translation": "Это очень мило с твоей стороны."
+    },
+    "ebm:mm05/event_message_mm05_100.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_100.ebm",
+      "index": 10,
+      "speaker": "Mathias",
+      "original": "I've got an idea! Lydie, Sue. Why don't you try looking for a Painting by yourselves?",
+      "translation": "У меня есть идея! Лиди, Сью. Почему бы вам не попробовать найти картину самостоятельно?"
+    },
+    "ebm:mm05/event_message_mm05_100.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_100.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "What do you mean, Mathias? We can do that?",
+      "translation": "Что ты имеешь в виду, Матиас? Мы можем это сделать?"
+    },
+    "ebm:mm05/event_message_mm05_100.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_100.ebm",
+      "index": 12,
+      "speaker": "Mathias",
+      "original": "I've heard rumors that someone brought a large painting into the city recently.",
+      "translation": "До меня доходили слухи, что недавно кто-то привез в город большую картину."
+    },
+    "ebm:mm05/event_message_mm05_100.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_100.ebm",
+      "index": 13,
+      "speaker": "Mathias",
+      "original": "And that there's another world inside it. In other words, a Mysterious Painting.",
+      "translation": "И что внутри него есть другой мир. Другими словами, загадочная картина."
+    },
+    "ebm:mm05/event_message_mm05_100.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_100.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "I see! If we negotiate with them directly, then...",
+      "translation": "Я понимаю! Если мы будем вести переговоры с ними напрямую, то..."
+    },
+    "ebm:mm05/event_message_mm05_100.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_100.ebm",
+      "index": 15,
+      "speaker": "Mireille",
+      "original": "We might be able to get a new Mysterious Painting! Do you want to give it a try?",
+      "translation": "Возможно, нам удастся получить новую Таинственную картину! Хотите попробовать?"
+    },
+    "ebm:mm05/event_message_mm05_100.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_100.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "Hehehe! I know all about negotiations and strategy! You can count me in!",
+      "translation": "Хе-хе-хе! Я знаю все о переговорах и стратегии! Вы можете рассчитывать на меня!"
+    },
+    "ebm:mm05/event_message_mm05_100.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_100.ebm",
+      "index": 17,
+      "speaker": "Mireille",
+      "original": "Sounds like a plan. Good luck! We'll keep up with our negotiations, too... that is, Mathias will.",
+      "translation": "Звучит как план. Удачи! Мы тоже будем вести переговоры... то есть Матиас будет."
+    },
+    "ebm:mm05/event_message_mm05_100.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_100.ebm",
+      "index": 18,
+      "speaker": "Mathias",
+      "original": "What? Me again?",
+      "translation": "Что? Опять я?"
+    },
+    "ebm:mm05/event_message_mm05_100.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_100.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "Right. First we need to find the person who has the Painting. Who collects all the best rumors?",
+      "translation": "Верно. Сначала нам нужно найти человека, у которого есть Картина. Кто собирает все лучшие слухи?"
+    },
+    "ebm:mm05/event_message_mm05_100.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_100.ebm",
+      "index": 20,
+      "speaker": "Sue",
+      "original": "Maybe Sister Grace, who talks to a lot of people? Or Lucia and Liane, who run shops?",
+      "translation": "Может быть, Сестра Грейс, которая общается со многими людьми? Или Люсия и Лиана, которые держат магазины?"
+    },
+    "ebm:mm05/event_message_mm05_100.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_100.ebm",
+      "index": 21,
+      "speaker": "Sue",
+      "original": "Let's go and see them. We can think some more if that doesn't turn anything up.",
+      "translation": "Пойдем и посмотрим на них. Мы можем подумать еще, если это ничего не даст."
+    },
+    "ebm:mm05/event_message_mm05_110.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_110.ebm",
+      "index": 0,
+      "speaker": "Grace",
+      "original": "Someone carrying a large picture around? Sorry, I haven't heard anything like that.",
+      "translation": "Кто-то носит с собой большую картину? Извините, я ничего подобного не слышал."
+    },
+    "ebm:mm05/event_message_mm05_110.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_110.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "I see. Sorry for asking such a weird question.",
+      "translation": "Я понимаю. Извините, что задал такой странный вопрос."
+    },
+    "ebm:mm05/event_message_mm05_110.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_110.ebm",
+      "index": 2,
+      "speaker": "Grace",
+      "original": "Oh, no need to apologize. Come and see me any time.",
+      "translation": "Ох, не надо извиняться. Приходи ко мне в любое время."
+    },
+    "ebm:mm05/event_message_mm05_120.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_120.ebm",
+      "index": 0,
+      "speaker": "Lucia",
+      "original": "Hmm, a large painting? A large painting... Sorry, I haven't heard any talk.",
+      "translation": "Хм, большая картина? Большая картина... Извините, я не слышал никаких разговоров."
+    },
+    "ebm:mm05/event_message_mm05_120.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_120.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "It was worth asking, I guess. Sorry for interrupting your work.",
+      "translation": "Думаю, стоило спросить. Извините, что прерываю вашу работу."
+    },
+    "ebm:mm05/event_message_mm05_120.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_120.ebm",
+      "index": 2,
+      "speaker": "Lucia",
+      "original": "I don't mind an interruption from you two. I'll let you know if I hear anything.",
+      "translation": "Я не против того, чтобы вас отвлекали. Я дам вам знать, если что-нибудь услышу."
+    },
+    "ebm:mm05/event_message_mm05_130.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_130.ebm",
+      "index": 0,
+      "speaker": "Liane",
+      "original": "Someone bringing a large painting into the city? Yes, I know who you want.",
+      "translation": "Кто-то привез в город большую картину? Да, я знаю, кого ты хочешь."
+    },
+    "ebm:mm05/event_message_mm05_130.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_130.ebm",
+      "index": 1,
+      "speaker": "Liane",
+      "original": "People in a tavern I frequent were talking about it. Some male alchemist, seen with a big painting.",
+      "translation": "Люди в таверне, которую я часто посещал, говорили об этом. Какой-то мужчина-алхимик, которого видели с большой картиной."
+    },
+    "ebm:mm05/event_message_mm05_130.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_130.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "An alchemist! What kind of person was he?",
+      "translation": "Алхимик! Что он был за человек?"
+    },
+    "ebm:mm05/event_message_mm05_130.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_130.ebm",
+      "index": 3,
+      "speaker": "Liane",
+      "original": "Let me think. His name is Alt, they said. Something about that made me remember it.",
+      "translation": "Дай мне подумать. Его зовут Альт, сказали они. Что-то в этом заставило меня вспомнить это."
+    },
+    "ebm:mm05/event_message_mm05_130.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_130.ebm",
+      "index": 4,
+      "speaker": "Liane",
+      "original": "Apparently he has an atelier on Soleil Street.",
+      "translation": "Судя по всему, у него ателье на Улице Солей."
+    },
+    "ebm:mm05/event_message_mm05_130.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_130.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "You seem to know a lot about him, from only hearing his name in a tavern!",
+      "translation": "Похоже, вы многое о нем знаете, ведь только что услышали его имя в таверне!"
+    },
+    "ebm:mm05/event_message_mm05_130.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_130.ebm",
+      "index": 6,
+      "speaker": "Liane",
+      "original": "Hehe, I did some checking of my own. Information is the lifeblood of both hunting and retail!",
+      "translation": "Хе-хе, я сам кое-что проверил. Информация – это источник жизненной силы как охоты, так и розничной торговли!"
+    },
+    "ebm:mm05/event_message_mm05_130.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_130.ebm",
+      "index": 7,
+      "speaker": "Liane",
+      "original": "I don't have an exact location on his atelier, though. You'll have to search for it yourselves.",
+      "translation": "Однако у меня нет точного местоположения его ателье. Вам придется искать его самостоятельно."
+    },
+    "ebm:mm05/event_message_mm05_130.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_130.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Thank you, Liane! You really helped us out!",
+      "translation": "Спасибо, Лиана! Вы нам очень помогли!"
+    },
+    "ebm:mm05/event_message_mm05_130.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_130.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Right then. Let's go look for Alt's Atelier on Soleil Street.",
+      "translation": "Прямо тогда. Пойдем искать ателье Альта на Улице Солей."
+    },
+    "ebm:mm05/event_message_mm05_130.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_130.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Sure thing! Alt, though, I'm sure I've heard that name before somewhere. Where was it?",
+      "translation": "Конечно! Однако я уверен, что где-то уже слышал это имя. Где это было?"
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Hmm...",
+      "translation": "Хм..."
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 1,
+      "speaker": "???",
+      "original": "...always... here... hot... home...",
+      "translation": "...всегда... здесь... жарко... дома..."
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Lydie, what's wrong? Did you hear that painting voice again?",
+      "translation": "Лиди, что случилось? Вы снова слышали этот голос живописца?"
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Hahaha, I think so. It was coming from over there.",
+      "translation": "Ха-ха-ха, я так думаю. Оно исходило оттуда."
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "In which case, this is the place! If you heard the voice, there must be a Mysterious Painting here!",
+      "translation": "В таком случае, это место! Если вы слышали голос, значит, здесь должна быть Таинственная Картина!"
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Right! Hello? Anyone home?",
+      "translation": "Верно! Привет? Кто-нибудь дома?"
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 6,
+      "speaker": "???",
+      "original": "Hello? Oh, it's you two. I have to say, I envy all that energy you have!",
+      "translation": "Привет? О, это вы двое. Должен сказать, я завидую вашей энергии!"
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Ah, I remember you! That means... you're Alt?",
+      "translation": "Ах, я помню тебя! Это значит... ты Альт?"
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 8,
+      "speaker": "Alt",
+      "original": "Who told you that name? No matter. Yes, I'm Alt.",
+      "translation": "Кто сказал тебе это имя? Независимо от того. Да, я Альт."
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 9,
+      "speaker": "Alt",
+      "original": "So... What brings you here?",
+      "translation": "Итак... Что привело вас сюда?"
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Ah, well, we heard that you were seen carrying a large painting around, you see...",
+      "translation": "А, ну, мы слышали, что вас видели с большой картиной, понимаете..."
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 11,
+      "speaker": "Alt",
+      "original": "You mean this? It really was a pain to get in here.",
+      "translation": "Вы имеете в виду это? Действительно, было очень больно сюда заходить."
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "I'm sure it was, Alt. How would you feel about us taking it out of here?",
+      "translation": "Я уверен, что так оно и было, Альт. Как бы вы отнеслись к тому, чтобы мы увезли это отсюда?"
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "As it turns out, this painting is actually cursed! Just owning it will make all of your hair...",
+      "translation": "Оказывается, эта картина на самом деле проклята! Одно только владение им сделает все ваши волосы..."
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 14,
+      "speaker": "Alt",
+      "original": "Sure, you can have it.",
+      "translation": "Конечно, вы можете это получить."
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "What? T-That was quick! You aren't kidding, right?",
+      "translation": "Что? Т-это было быстро! Вы не шутите, да?"
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "Why are you so surprised, Sue?",
+      "translation": "Почему ты так удивлена, Сью?"
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "Because no one normally gives up something so easily! I wouldn't! Never!",
+      "translation": "Потому что никто обычно так легко от чего-то не отказывается! Я бы не стал! Никогда!"
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 18,
+      "speaker": "Alt",
+      "original": "Honest to a fault. Of course, I'm not going to give it up for free.",
+      "translation": "Честно до отказа. Конечно, я не собираюсь отдавать его бесплатно."
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 19,
+      "speaker": "Alt",
+      "original": "You can take it on one condition. I want to join you when you investigate it.",
+      "translation": "Вы можете принять его при одном условии. Я хочу присоединиться к вам, когда вы расследуете это."
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 20,
+      "speaker": "Sue",
+      "original": "Investigate it? I'm sorry, I've no idea...",
+      "translation": "Расследовать это? Извините, я понятия не имею..."
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 21,
+      "speaker": "Alt",
+      "original": "No need to play coy. I know about Mysterious Paintings and your little trips inside them.",
+      "translation": "Не нужно притворяться застенчивым. Я знаю о «Таинственных картинах» и ваших маленьких путешествиях внутри них."
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 22,
+      "speaker": "Alt",
+      "original": "If you take me with you, I don't mind handing over this painting. What do you say?",
+      "translation": "Если вы возьмете меня с собой, я не против передать эту картину. Что ты говоришь?"
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 23,
+      "speaker": "Sue",
+      "original": "Very well. That sounds reasonable enough. It can't hurt to have someone else along.",
+      "translation": "Очень хорошо. Это звучит достаточно разумно. Если рядом будет кто-то еще, это не повредит."
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 24,
+      "speaker": "Alt",
+      "original": "Thank you. Restoring this painting by myself would be a pain, and I want to visit as many worlds as I can, too.",
+      "translation": "Спасибо. Восстановить эту картину самому было бы непросто, и я тоже хочу посетить как можно больше миров."
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 25,
+      "speaker": "Alt",
+      "original": "I'll take it over to the castle then. See you there.",
+      "translation": "Тогда я отнесу его в замок. Увидимся там."
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 26,
+      "speaker": "Lydie",
+      "original": "Hahaha, that's great! He handed it over with almost no fuss at all.",
+      "translation": "Ха-ха-ха, это здорово! Он передал его почти без суеты."
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 27,
+      "speaker": "Sue",
+      "original": "No fuss, indeed. He seems competent, anyway, so he'll probably be a help inside the paintings.",
+      "translation": "Действительно, никакой суеты. В любом случае он кажется компетентным, так что, вероятно, он поможет в работе над картинами."
+    },
+    "ebm:mm05/event_message_mm05_140.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_140.ebm",
+      "index": 28,
+      "speaker": "Sue",
+      "original": "Now, to the castle, Lydie. We have to prepare to restore that Painting!",
+      "translation": "Теперь о замке, Лиди. Мы должны подготовиться к восстановлению этой картины!"
+    },
+    "ebm:mm05/event_message_mm05_150.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_150.ebm",
+      "index": 0,
+      "speaker": "Alt",
+      "original": "There you are. This is the Painting I found. \"The Great Cascades of Anfel.\"",
+      "translation": "Вот и вы. Это картина, которую я нашел. «Великие каскады Анфеля»."
+    },
+    "ebm:mm05/event_message_mm05_150.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_150.ebm",
+      "index": 1,
+      "speaker": "Mireille",
+      "original": "After all that, you were the one who found it, Alt! You could have just let me know.",
+      "translation": "В конце концов, именно ты нашел это, Альт! Ты мог бы просто дать мне знать."
+    },
+    "ebm:mm05/event_message_mm05_150.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_150.ebm",
+      "index": 2,
+      "speaker": "Alt",
+      "original": "Haha, am I obligated to do that? Now then, both of you, please get to work on restoring it.",
+      "translation": "Ха-ха, я обязан это сделать? А теперь, пожалуйста, приступайте к его восстановлению."
+    },
+    "ebm:mm05/event_message_mm05_150.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_150.ebm",
+      "index": 3,
+      "speaker": "Alt",
+      "original": "I'll wait here until the work is finished. Please don't take too long.",
+      "translation": "Я подожду здесь, пока работа не закончится. Пожалуйста, не занимайте слишком много времени."
+    },
+    "ebm:mm05/event_message_mm05_160.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_160.ebm",
+      "index": 0,
+      "speaker": "Alt",
+      "original": "Hmm, so that's how you Restore one of these Paintings. I've never seen it done before.",
+      "translation": "Хм, вот как можно восстановить одну из этих картин. Я никогда не видел, чтобы это делалось раньше."
+    },
+    "ebm:mm05/event_message_mm05_160.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_160.ebm",
+      "index": 1,
+      "speaker": "Alt",
+      "original": "I'll write all of that up later, anyway. For now, this means we can go inside, right?",
+      "translation": "В любом случае, я все это напишу позже. На данный момент это означает, что мы можем войти внутрь, верно?"
+    },
+    "ebm:mm05/event_message_mm05_160.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_160.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Yes, that's right! That should take care of it.",
+      "translation": "Да, это так! Об этом следует позаботиться."
+    },
+    "ebm:mm05/event_message_mm05_160.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_160.ebm",
+      "index": 3,
+      "speaker": "Alt",
+      "original": "Good. In which case, I want to get in there as quickly as possible.",
+      "translation": "Хороший. В таком случае я хочу попасть туда как можно быстрее."
+    },
+    "ebm:mm05/event_message_mm05_160.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_160.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Hahaha, we'll get ready as quickly as we can. Please just wait a little longer.",
+      "translation": "Ха-ха-ха, мы будем готовы как можно быстрее. Пожалуйста, подождите еще немного."
+    },
+    "ebm:mm05/event_message_mm05_170.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_170.ebm",
+      "index": 0,
+      "speaker": "Firis",
+      "original": "Hmmm...",
+      "translation": "Хм..."
+    },
+    "ebm:mm05/event_message_mm05_170.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_170.ebm",
+      "index": 1,
+      "speaker": "Alt",
+      "original": "W-What is it? Why are you staring at me like that?",
+      "translation": "Ч-что это? Почему ты так смотришь на меня?"
+    },
+    "ebm:mm05/event_message_mm05_170.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_170.ebm",
+      "index": 2,
+      "speaker": "Firis",
+      "original": "I'm not sure. I could swear that I've met you somewhere before.",
+      "translation": "Я не уверен. Могу поклясться, что где-то уже встречал тебя."
+    },
+    "ebm:mm05/event_message_mm05_170.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_170.ebm",
+      "index": 3,
+      "speaker": "Alt",
+      "original": "I think you're imagining things. I don't remember you at all.",
+      "translation": "Я думаю, ты что-то воображаешь. Я тебя совсем не помню."
+    },
+    "ebm:mm05/event_message_mm05_170.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_170.ebm",
+      "index": 4,
+      "speaker": "Firis",
+      "original": "Really? That sounds suspicious to me, too.",
+      "translation": "Действительно? Мне это тоже кажется подозрительным."
+    },
+    "ebm:mm05/event_message_mm05_170.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_170.ebm",
+      "index": 5,
+      "speaker": "Mathias",
+      "original": "Come now, Firis. You're unsettling our Alt. Leave him be.",
+      "translation": "Давай, Фирис. Вы тревожите нашего Альта. Оставьте его в покое."
+    },
+    "ebm:mm05/event_message_mm05_170.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_170.ebm",
+      "index": 6,
+      "speaker": "Firis",
+      "original": "Fine, fine. I'm sure I'll remember eventually. Anyway, shall we depart?",
+      "translation": "Хорошо, хорошо. Я уверен, что в конце концов я вспомню. В любом случае, нам пора отправляться?"
+    },
+    "ebm:mm05/event_message_mm05_170.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_170.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "We're ready! Off we go, into the world of the Painting!",
+      "translation": "Мы готовы! Поехали, в мир Картины!"
+    },
+    "ebm:mm05/event_message_mm05_180.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_180.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "With a grating roar, there pours forth a rain of vivid red.",
+      "translation": "С резким ревом льется ярко-красный дождь."
+    },
+    "ebm:mm05/event_message_mm05_180.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_180.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": "The endless, tumbling flow of molten rock scorches the sky,<CR>parches the land, becoming a sea of fire.",
+      "translation": "Бесконечный, падающий поток расплавленной породы опаляет небо, <CR> высушивает землю, превращаясь в море огня."
+    },
+    "ebm:mm05/event_message_mm05_180.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_180.ebm",
+      "index": 2,
+      "speaker": "System",
+      "original": "Amid this tumult of engulfing flame,<CR>no seed of life can hope to find purchase.",
+      "translation": "Среди этого буйства охватывающего пламени <CR>ни одно семя жизни не может надеяться найти опору."
+    },
+    "ebm:mm05/event_message_mm05_180.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_180.ebm",
+      "index": 3,
+      "speaker": "System",
+      "original": "Backed by dragon's roars, this world heads into destruction.<CR>Will you stand witness to that fate?",
+      "translation": "Под реву дракона этот мир движется к разрушению.<CR>Сможете ли вы стать свидетелем этой судьбы?"
+    },
+    "ebm:mm05/event_message_mm05_180.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_180.ebm",
+      "index": 4,
+      "speaker": "System",
+      "original": "Land of the red apocalypse, The Great Cascades of Anfel.<CR>If only some salvation could be found...",
+      "translation": "Земля красного апокалипсиса, Великие каскады Анфела.<CR>Если бы только можно было найти какое-то спасение..."
+    },
+    "ebm:mm05/event_message_mm05_190.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_190.ebm",
+      "index": 0,
+      "speaker": "Lucia",
+      "original": "It's so hot! Where are we, an oven? Couldn't we arrive somewhere a little cooler?",
+      "translation": "Это так жарко! Где мы, духовка? Не могли бы мы приехать куда-нибудь попрохладнее?"
+    },
+    "ebm:mm05/event_message_mm05_190.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_190.ebm",
+      "index": 1,
+      "speaker": "Alt",
+      "original": "It really is a world swallowed by magma. Just like the painting showed.",
+      "translation": "Это действительно мир, поглощенный магмой. Точно так же, как показано на картине."
+    },
+    "ebm:mm05/event_message_mm05_190.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_190.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Alt, you look so cool and composed! I think I'm about to melt on the spot!",
+      "translation": "Альт, ты выглядишь так здорово и собранно! Кажется, я сейчас расплавлюсь на месте!"
+    },
+    "ebm:mm05/event_message_mm05_190.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_190.ebm",
+      "index": 3,
+      "speaker": "Alt",
+      "original": "I was expecting something like this, so I came prepared. That's all.",
+      "translation": "Я ожидал чего-то подобного, поэтому подошел подготовленным. Вот и все."
+    },
+    "ebm:mm05/event_message_mm05_190.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_190.ebm",
+      "index": 4,
+      "speaker": "Mathias",
+      "original": "What! You could have shared your little idea. Hey, why don't you share it now? Give it here!",
+      "translation": "Что! Вы могли бы поделиться своей маленькой идеей. Эй, почему бы тебе не поделиться этим сейчас? Дайте сюда!"
+    },
+    "ebm:mm05/event_message_mm05_190.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_190.ebm",
+      "index": 5,
+      "speaker": "Alt",
+      "original": "No, thanks. If I give it to you then I'll be the one all hot.",
+      "translation": "Нет, спасибо. Если я отдам это тебе, то я буду весь в горячке."
+    },
+    "ebm:mm05/event_message_mm05_190.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_190.ebm",
+      "index": 6,
+      "speaker": "Firis",
+      "original": "Hahaha, I guess you're right. Shall we get moving, then?",
+      "translation": "Ха-ха-ха, я думаю, ты прав. Тогда пойдем?"
+    },
+    "ebm:mm05/event_message_mm05_190.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_190.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "Might not be a bad idea. I'm going to end up baked if I have to stand here any longer.",
+      "translation": "Возможно, это неплохая идея. Я сгорю, если мне придется здесь еще стоять."
+    },
+    "ebm:mm05/event_message_mm05_190.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_190.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "We'll be in for an easy time if baking is all we have to worry about. Come on!",
+      "translation": "Нас ждут легкие времена, если нам придется беспокоиться только о выпечке. Ну давай же!"
+    },
+    "ebm:mm05/event_message_mm05_190.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_190.ebm",
+      "index": 9,
+      "speaker": "System",
+      "original": "Alt joined the party!",
+      "translation": "Альт присоединился к вечеринке!"
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 0,
+      "speaker": "Mathias",
+      "original": "What's that thing? It doesn't look like a person.",
+      "translation": "Что это за штука? Это не похоже на человека."
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 1,
+      "speaker": "Alt",
+      "original": "A type of fairy or elemental? Seeing as we're inside a painting, something the artist made up?",
+      "translation": "Типа феи или элементаля? Видя, что мы находимся внутри картины, что-то придумал художник?"
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "In any case, let's try talking to it. Hey, you there! What are you doing?",
+      "translation": "В любом случае, давайте попробуем с ним поговорить. Эй, ты там! Что ты делаешь?"
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 3,
+      "speaker": "???",
+      "original": "What am I doing? Running away, of course! Hold on, humans? Humans!",
+      "translation": "Что я делаю? Конечно же, убежать! Подождите, люди? Люди!"
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 4,
+      "speaker": "???",
+      "original": "What are you doing in here? R-Run for it or you'll get cooked!",
+      "translation": "Что ты здесь делаешь? R-Беги за этим, иначе тебя поджарят!"
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "C-Cooked? What do you mean?",
+      "translation": "С-приготовлено? Что ты имеешь в виду?"
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 6,
+      "speaker": "???",
+      "original": "You don't know? The Fire Dragon from the depths is on a rampage, making all these volcanoes erupt!",
+      "translation": "Вы не знаете? Огненный Дракон из глубин неистовствует, заставляя извергаться все эти вулканы!"
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 7,
+      "speaker": "???",
+      "original": "There's nothing we can do now! This whole region is about to be swallowed by magma!",
+      "translation": "Мы ничего не можем сделать сейчас! Весь этот регион вот-вот поглотит магма!"
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 8,
+      "speaker": "Lucia",
+      "original": "What?! That could really happen?",
+      "translation": "Что?! Это действительно могло произойти?"
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 9,
+      "speaker": "???",
+      "original": "Don't ask me! We just have to run for it! This is my homeland, sure, but we still have to run!",
+      "translation": "Не спрашивай меня! Нам просто нужно бежать за этим! Конечно, это моя родина, но нам все равно придется бежать!"
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "What should we do?! It sounds like this world is about to end! ",
+      "translation": "Что нам делать?! Похоже, этому миру вот-вот придет конец!"
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "No, we can't do that... We haven't seen anything in here yet. And anyway...",
+      "translation": "Нет, мы не можем этого сделать... Мы здесь еще ничего не видели. И вообще..."
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "We've got people here about to lose their home! We have to do something to help them, Lydie.",
+      "translation": "У нас здесь люди, которые вот-вот потеряют свой дом! Мы должны что-то сделать, чтобы помочь им, Лиди."
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "Hahaha, somehow I knew you were going to say that. You, eh...",
+      "translation": "Ха-ха-ха, я почему-то знал, что ты это скажешь. Ты, эх..."
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 14,
+      "speaker": "Fuoco",
+      "original": "I'm not \"you\", I'm Fuoco! Don't you know to use someone's name, human?",
+      "translation": "Я не «ты», я Фуоко! Разве ты не знаешь, как использовать чье-то имя, человек?"
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "Says the one calling us \"human\"! I'm Sue, and this is Lydie.",
+      "translation": "Говорит тот, кто называет нас «людьми»! Я Сью, а это Лиди."
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 16,
+      "speaker": "Fuoco",
+      "original": "Sue and Lydie. Very well. What do you want, then? I really am busy running away at the moment!",
+      "translation": "Сью и Лиди. Очень хорошо. Чего же ты тогда хочешь? Я правда сейчас занят побегом!"
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 17,
+      "speaker": "Lydie",
+      "original": "Fuoco. You don't want this place to be destroyed, do you? We're going to help you with that.",
+      "translation": "Фуоко. Вы ведь не хотите, чтобы это место было разрушено? Мы собираемся помочь вам в этом."
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "Hehe, we're alchemists, after all! You can leave this problem with us!",
+      "translation": "Хе-хе, мы ведь алхимики! Вы можете оставить эту проблему нам!"
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 19,
+      "speaker": "Fuoco",
+      "original": "Alchemists? What does that even mean?",
+      "translation": "Алхимики? Что это вообще значит?"
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 20,
+      "speaker": "Sue",
+      "original": "Ah, well, we're super heroes! That's what it means!",
+      "translation": "Ох, ну мы же супергерои! Вот что это значит!"
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 21,
+      "speaker": "Mathias",
+      "original": "You need to stop just making stuff up...",
+      "translation": "Тебе нужно перестать просто выдумывать всякую ерунду..."
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 22,
+      "speaker": "Fuoco",
+      "original": "Super heroes! Lydie and Sue, the super heroes!",
+      "translation": "Супер герои! Лиди и Сью, супергерои!"
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 23,
+      "speaker": "Fuoco",
+      "original": "In which case, yes please! Help us! I can't let you do all the work, though. I'll go with you!",
+      "translation": "В этом случае да, пожалуйста! Помогите нам! Но я не могу позволить тебе делать всю работу. Я пойду с тобой!"
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 24,
+      "speaker": "Fuoco",
+      "original": "If this doesn't work out, we'll all melt in the river of lava together!",
+      "translation": "Если не получится, мы все вместе расплавимся в реке лавы!"
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 25,
+      "speaker": "Lydie",
+      "original": "Uwah! That's a bit graphic. Don't worry, we won't let that happen.",
+      "translation": "Ува! Это немного графично. Не волнуйтесь, мы этого не допустим."
+    },
+    "ebm:mm05/event_message_mm05_200.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_200.ebm",
+      "index": 26,
+      "speaker": "Sue",
+      "original": "First, we need to investigate the area. Let's carry on.",
+      "translation": "Для начала нам нужно исследовать местность. Давайте продолжим."
+    },
+    "ebm:mm05/event_message_mm05_210.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_210.ebm",
+      "index": 0,
+      "speaker": "Firis",
+      "original": "Hehe, Fuoco!",
+      "translation": "Хе-хе, Фуоко!"
+    },
+    "ebm:mm05/event_message_mm05_210.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_210.ebm",
+      "index": 1,
+      "speaker": "Fuoco",
+      "original": "What is it, Firis?",
+      "translation": "Что такое, Фирис?"
+    },
+    "ebm:mm05/event_message_mm05_210.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_210.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "A-Amazing. Firis has already become so friendly with Fuoco!",
+      "translation": "А-удивительно. Фирис уже так подружилась с Фуоко!"
+    },
+    "ebm:mm05/event_message_mm05_210.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_210.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "She's got a gift, I'll give her that. Meanwhile, over here...",
+      "translation": "У нее есть дар, я подарю ей его. Тем временем здесь..."
+    },
+    "ebm:mm05/event_message_mm05_210.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_210.ebm",
+      "index": 4,
+      "speaker": "Alt",
+      "original": "There are seemingly self-aware creatures in here? Is this another expression of alchemy? Hmmm...",
+      "translation": "Здесь есть существа, обладающие самосознанием? Это еще одно проявление алхимии? Хм..."
+    },
+    "ebm:mm05/event_message_mm05_210.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_210.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Alt! Just don't dissect poor Fuoco, alright?",
+      "translation": "Альт! Только не расчленяй бедняжку Фуоко, ладно?"
+    },
+    "ebm:mm05/event_message_mm05_210.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_210.ebm",
+      "index": 6,
+      "speaker": "Alt",
+      "original": "What? Ah, of course not. I know the boundaries.",
+      "translation": "Что? Ах, конечно нет. Я знаю границы."
+    },
+    "ebm:mm05/event_message_mm05_210.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_210.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "I'm not sure that you do... Ah Fuoco, are you hungry? Do you want some sweets?",
+      "translation": "Я не уверен, что ты знаешь... Ах, Фуоко, ты голоден? Хочешь сладостей?"
+    },
+    "ebm:mm05/event_message_mm05_210.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_210.ebm",
+      "index": 8,
+      "speaker": "Fuoco",
+      "original": "Sweets? What are those?",
+      "translation": "Сладости? Что это такое?"
+    },
+    "ebm:mm05/event_message_mm05_210.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_210.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "I guess you wouldn't know, would you! The outside world is completely unknown to you, I suppose.",
+      "translation": "Я думаю, вы бы не знали, не так ли! Внешний мир, я полагаю, вам совершенно неизвестен."
+    },
+    "ebm:mm05/event_message_mm05_210.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_210.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "I could try to explain... but you'll get it once you try some! Here, Fuoco, eat this.",
+      "translation": "Я мог бы попытаться объяснить... но вы поймете, как только попробуете! Вот, Фуоко, съешь это."
+    },
+    "ebm:mm05/event_message_mm05_210.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_210.ebm",
+      "index": 11,
+      "speaker": "Fuoco",
+      "original": "Hmm. I can really eat this? I guess I'll give it a try...",
+      "translation": "Хм. Я правда могу это съесть? Пожалуй, попробую..."
+    },
+    "ebm:mm05/event_message_mm05_210.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_210.ebm",
+      "index": 12,
+      "speaker": "Fuoco",
+      "original": "Wow! Wow! Delicious!",
+      "translation": "Ух ты! Ух ты! Вкусный!"
+    },
+    "ebm:mm05/event_message_mm05_210.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_210.ebm",
+      "index": 13,
+      "speaker": "Fuoco",
+      "original": "This is delicious! Sweets are delicious! Please, give me more!",
+      "translation": "Это вкусно! Сладости вкусные! Пожалуйста, дайте мне больше!"
+    },
+    "ebm:mm05/event_message_mm05_210.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_210.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "Uwah, hold on! I've got some more, just stop tugging on me!",
+      "translation": "Увау, держись! У меня есть еще, просто перестань меня тянуть!"
+    },
+    "ebm:mm05/event_message_mm05_210.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_210.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "She's one of the family now. Glad to see them get along.",
+      "translation": "Она теперь член семьи. Рад видеть, что они ладят."
+    },
+    "ebm:mm05/event_message_mm05_210.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_210.ebm",
+      "index": 16,
+      "speaker": "Alt",
+      "original": "What happens when a creature inside a painting eats? Does it offer any nutritional value?",
+      "translation": "Что происходит, когда существо на картине ест? Имеет ли он какую-либо пищевую ценность?"
+    },
+    "ebm:mm05/event_message_mm05_210.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_210.ebm",
+      "index": 17,
+      "speaker": "Mathias",
+      "original": "... Being passionate about research is fine, but don't take it too far.",
+      "translation": "… Увлекаться исследованиями — это нормально, но не заходите слишком далеко."
+    },
+    "ebm:mm05/event_message_mm05_210.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_210.ebm",
+      "index": 18,
+      "speaker": "Firis",
+      "original": "Hahaha! All this activity brings out so many memories. This is fun!",
+      "translation": "Ха-ха-ха! Вся эта деятельность вызывает так много воспоминаний. Это весело!"
+    },
+    "ebm:mm05/event_message_mm05_220.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_220.ebm",
+      "index": 0,
+      "speaker": "Fuoco",
+      "original": "Gulp! Are you ready, everyone? We're about to enter the Fire Dragon's lair!",
+      "translation": "Глоток! Вы готовы, все? Мы собираемся войти в логово Огненного Дракона!"
+    },
+    "ebm:mm05/event_message_mm05_220.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_220.ebm",
+      "index": 1,
+      "speaker": "Mathias",
+      "original": "Hey, Fuoco. What can you tell us about this Fire Dragon?",
+      "translation": "Привет, Фуоко. Что вы можете рассказать нам об этом Огненном Драконе?"
+    },
+    "ebm:mm05/event_message_mm05_220.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_220.ebm",
+      "index": 2,
+      "speaker": "Fuoco",
+      "original": "Let me see. It's big, for a start! It could swallow me whole!",
+      "translation": "Дайте-ка подумать. Для начала, он большой! Оно могло проглотить меня целиком!"
+    },
+    "ebm:mm05/event_message_mm05_220.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_220.ebm",
+      "index": 3,
+      "speaker": "Fuoco",
+      "original": "It's also very violent, spitting fire everywhere! It'll frizzle all your hair in an instant!",
+      "translation": "А еще он очень жестокий, повсюду извергает огонь! Он мгновенно распушит все ваши волосы!"
+    },
+    "ebm:mm05/event_message_mm05_220.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_220.ebm",
+      "index": 4,
+      "speaker": "Mathias",
+      "original": "That last part makes it sound little worse than a bad barber.",
+      "translation": "Последняя часть звучит немного хуже, чем плохой парикмахер."
+    },
+    "ebm:mm05/event_message_mm05_220.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_220.ebm",
+      "index": 5,
+      "speaker": "Fuoco",
+      "original": "Before he turned up, we all lived in peace here. Then he made the volcanos erupt... oh!",
+      "translation": "До его появления мы все жили здесь мирно. Затем он заставил извергаться вулканы... о!"
+    },
+    "ebm:mm05/event_message_mm05_220.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_220.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Fuoco. Don't worry. We're going to defend this world!",
+      "translation": "Фуоко. Не волнуйся. Мы собираемся защитить этот мир!"
+    },
+    "ebm:mm05/event_message_mm05_220.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_220.ebm",
+      "index": 7,
+      "speaker": "Fuoco",
+      "original": "Thank you! Thank you so much for all of your help!",
+      "translation": "Спасибо! Огромное спасибо за вашу помощь!"
+    },
+    "ebm:mm05/event_message_mm05_220.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_220.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "No problem! That said, what exactly should we do? Get the Fire Dragon to leave?",
+      "translation": "Без проблем! Тем не менее, что именно нам следует делать? Заставить Огненного Дракона уйти?"
+    },
+    "ebm:mm05/event_message_mm05_220.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_220.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "That might work, but maybe we should just defeat it? It probably won't leave if we just ask.",
+      "translation": "Это может сработать, но, может быть, нам стоит просто победить его? Вероятно, оно не уйдет, если мы просто спросим."
+    },
+    "ebm:mm05/event_message_mm05_220.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_220.ebm",
+      "index": 10,
+      "speaker": "Firis",
+      "original": "Probably not. Drive it off, or defeat it, then. Those seem like our two choices at the moment.",
+      "translation": "Вероятно, нет. Тогда прогони его или победи. Кажется, на данный момент это два наших варианта."
+    },
+    "ebm:mm05/event_message_mm05_220.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_220.ebm",
+      "index": 11,
+      "speaker": "Lucia",
+      "original": "We'll leave the decision up to the two of you. Take whichever approach you think is best.",
+      "translation": "Мы оставим решение на ваше усмотрение. Выбирайте тот подход, который вы считаете лучшим."
+    },
+    "ebm:mm05/event_message_mm05_230.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_230.ebm",
+      "index": 0,
+      "speaker": "Fire Dragon",
+      "original": "Graaooooooooow!",
+      "translation": "Грааааааааа!"
+    },
+    "ebm:mm05/event_message_mm05_230.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_230.ebm",
+      "index": 1,
+      "speaker": "Mathias",
+      "original": "You're serious about fighting that thing?",
+      "translation": "Ты серьезно собираешься бороться с этой штукой?"
+    },
+    "ebm:mm05/event_message_mm05_230.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_230.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "What do you think, Sue?",
+      "translation": "Что ты думаешь, Сью?"
+    },
+    "ebm:mm05/event_message_mm05_230.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_230.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "W-Why are you asking me? I guess we could give it a try?",
+      "translation": "П-почему ты спрашиваешь меня? Думаю, мы могли бы попробовать?"
+    },
+    "ebm:mm05/event_message_mm05_230.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_230.ebm",
+      "index": 4,
+      "speaker": "Lucia",
+      "original": "We're really going to fight it? Seriously?",
+      "translation": "Мы правда собираемся с этим бороться? Серьезно?"
+    },
+    "ebm:mm05/event_message_mm05_230.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_230.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Deadly serious! Heh, although... if things get too deadly, please help us out! Big sister!",
+      "translation": "Смертельно серьезно! Хех, хотя... если ситуация станет слишком смертельной, пожалуйста, помогите нам! Старшая сестра!"
+    },
+    "ebm:mm05/event_message_mm05_230.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_230.ebm",
+      "index": 6,
+      "speaker": "Lucia",
+      "original": "Why do you only call me that at times like this?",
+      "translation": "Почему ты называешь меня так только в такие моменты?"
+    },
+    "ebm:mm05/event_message_mm05_230.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_230.ebm",
+      "index": 7,
+      "speaker": "Alt",
+      "original": "That's the wiser decision here. We need to think of a way to drive it off, that's all.",
+      "translation": "Это более мудрое решение. Нам нужно придумать, как его прогнать, вот и все."
+    },
+    "ebm:mm05/event_message_mm05_240.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_240.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "What should we do? Try to fight the Fire Dragon?",
+      "translation": "Что нам делать? Попробовать сразиться с Огненным Драконом?"
+    },
+    "ebm:mm05/event_message_mm05_240.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_240.ebm",
+      "index": 1,
+      "speaker": "Lucia",
+      "original": "We're really going to fight it? Seriously?",
+      "translation": "Мы правда собираемся с этим бороться? Серьезно?"
+    },
+    "ebm:mm05/event_message_mm05_240.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_240.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Deadly serious! Heh, although if things get too deadly, please help us out! Big sister!",
+      "translation": "Смертельно серьезно! Хех, хотя, если ситуация станет слишком смертельной, пожалуйста, помоги нам! Старшая сестра!"
+    },
+    "ebm:mm05/event_message_mm05_240.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_240.ebm",
+      "index": 3,
+      "speaker": "Lucia",
+      "original": "Why do you only call me that at times like this?",
+      "translation": "Почему ты называешь меня так только в такие моменты?"
+    },
+    "ebm:mm05/event_message_mm05_240.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_240.ebm",
+      "index": 4,
+      "speaker": "Lucia",
+      "original": "How dumb are you? Do you really need another lesson?",
+      "translation": "Насколько ты тупой? Тебе действительно нужен еще один урок?"
+    },
+    "ebm:mm05/event_message_mm05_240.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_240.ebm",
+      "index": 5,
+      "speaker": "Alt",
+      "original": "That's the wiser decision here. We need to think of a way to drive it off, that's all.",
+      "translation": "Это более мудрое решение. Нам нужно придумать, как его прогнать, вот и все."
+    },
+    "ebm:mm05/event_message_mm05_240.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_240.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "No, let's not.",
+      "translation": "Нет, давайте не будем."
+    },
+    "ebm:mm05/event_message_mm05_250.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_250.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Hmm. I think we'll just get trampled again, but should we try fighting it once more?",
+      "translation": "Хм. Я думаю, нас снова затопчут, но стоит ли нам еще раз попытаться с этим бороться?"
+    },
+    "ebm:mm05/event_message_mm05_250.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_250.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "No, let's not.",
+      "translation": "Нет, давайте не будем."
+    },
+    "ebm:mm05/event_message_mm05_260.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_260.ebm",
+      "index": 0,
+      "speaker": "Fuoco",
+      "original": "There it is. The Fire Dragon! We should be able to observe it safely from here.",
+      "translation": "Вот оно. Огненный Дракон! Мы сможем безопасно наблюдать за этим отсюда."
+    },
+    "ebm:mm05/event_message_mm05_260.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_260.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Uwah, it's bigger than I was expecting! It's going to be tough to defeat that.",
+      "translation": "Увау, это больше, чем я ожидал! Победить это будет сложно."
+    },
+    "ebm:mm05/event_message_mm05_260.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_260.ebm",
+      "index": 2,
+      "speaker": "Fuoco",
+      "original": "We should be able to observe the Fire Dragon safely from here.",
+      "translation": "Отсюда мы сможем безопасно наблюдать за Огненным Драконом."
+    },
+    "ebm:mm05/event_message_mm05_260.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_260.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "It's really big. What should we do?",
+      "translation": "Он действительно большой. Что нам делать?"
+    },
+    "ebm:mm05/event_message_mm05_260.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_260.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Hmmm. We need to find out what's making it so aggressive.",
+      "translation": "Хм. Нам нужно выяснить, что делает его таким агрессивным."
+    },
+    "ebm:mm05/event_message_mm05_260.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_260.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "What could it be? Lydie, what makes you simply go crazy?",
+      "translation": "Что это могло быть? Лиди, что заставляет тебя просто сходить с ума?"
+    },
+    "ebm:mm05/event_message_mm05_260.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_260.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Me? Let me think. When Dad wastes our money again?",
+      "translation": "Мне? Дай мне подумать. Когда папа снова потратит наши деньги?"
+    },
+    "ebm:mm05/event_message_mm05_260.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_260.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "That gets me angry too! What else? What I'm hungry too, I guess?",
+      "translation": "Меня это тоже злит! Что еще? Что, я тоже голоден, наверное?"
+    },
+    "ebm:mm05/event_message_mm05_260.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_260.ebm",
+      "index": 8,
+      "speaker": "Firis",
+      "original": "Hey, me too! Maybe the Fire Dragon is hungry?",
+      "translation": "Эй, я тоже! Может быть, Огненный Дракон голоден?"
+    },
+    "ebm:mm05/event_message_mm05_260.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_260.ebm",
+      "index": 9,
+      "speaker": "Alt",
+      "original": "Fuoco. What does that dragon normally eat?",
+      "translation": "Фуоко. Что обычно ест этот дракон?"
+    },
+    "ebm:mm05/event_message_mm05_260.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_260.ebm",
+      "index": 10,
+      "speaker": "Fuoco",
+      "original": "Good question. I've seen it eating rocks lying around here?",
+      "translation": "Хороший вопрос. Я видел, как он ел валявшиеся здесь камни?"
+    },
+    "ebm:mm05/event_message_mm05_260.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_260.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "Hmm. The Fire Dragon eats rocks? Then if we help it fill up on some tasty stones...",
+      "translation": "Хм. Огненный Дракон ест камни? Тогда, если мы поможем ему наполниться вкусными камнями..."
+    },
+    "ebm:mm05/event_message_mm05_260.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_260.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "Right! It might be satisfied and fly off somewhere else!",
+      "translation": "Верно! Возможно, оно удовлетворится и улетит куда-нибудь еще!"
+    },
+    "ebm:mm05/event_message_mm05_260.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_260.ebm",
+      "index": 13,
+      "speaker": "Fuoco",
+      "original": "Interesting. I think I can help! Collect some stones and give them to me.",
+      "translation": "Интересный. Думаю, я смогу помочь! Соберите несколько камней и отдайте их мне."
+    },
+    "ebm:mm05/event_message_mm05_260.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_260.ebm",
+      "index": 14,
+      "speaker": "Fuoco",
+      "original": "I'll go and spread them in front of the dragon. I'm very fast at running away, don't worry!",
+      "translation": "Я пойду и разложу их перед драконом. Я очень быстро убегаю, не волнуйся!"
+    },
+    "ebm:mm05/event_message_mm05_260.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_260.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "In which case, we'll go and collect some. Just wait here a moment.",
+      "translation": "В таком случае мы пойдем и соберем немного. Просто подожди здесь минутку."
+    },
+    "ebm:mm05/event_message_mm05_270.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_270.ebm",
+      "index": 0,
+      "speaker": "Fuoco",
+      "original": "Uwah, so many? I'll go and get started!",
+      "translation": "Увау, так много? Я пойду и начну!"
+    },
+    "ebm:mm05/event_message_mm05_270.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_270.ebm",
+      "index": 1,
+      "speaker": "Fuoco",
+      "original": "Hehehe, I ran in there, scattered them around and then ran for it! Well? What's happening?",
+      "translation": "Хе-хе-хе, я вбежал туда, раскидал их и побежал к ним! Хорошо? Что происходит?"
+    },
+    "ebm:mm05/event_message_mm05_270.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_270.ebm",
+      "index": 2,
+      "speaker": "Fire Dragon",
+      "original": "Graaoooooow!",
+      "translation": "Граааааааа!"
+    },
+    "ebm:mm05/event_message_mm05_270.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_270.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Oh dear. It looks like eating those stones has just given it more energy.",
+      "translation": "О, Боже. Похоже, что поедание этих камней только что придало ему больше энергии."
+    },
+    "ebm:mm05/event_message_mm05_270.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_270.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Uwah, I'm sorry, Fuoco. That plan was a complete failure.",
+      "translation": "Увау, прости, Фуоко. Этот план потерпел полный провал."
+    },
+    "ebm:mm05/event_message_mm05_270.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_270.ebm",
+      "index": 5,
+      "speaker": "Fuoco",
+      "original": "N-No, no need to worry. Everyone fails sometimes.",
+      "translation": "Н-нет, не стоит волноваться. Каждый иногда терпит неудачу."
+    },
+    "ebm:mm05/event_message_mm05_270.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_270.ebm",
+      "index": 6,
+      "speaker": "Alt",
+      "original": "Well said, Fuoco. Failure is just a step towards success in all things, be it alchemy or anything else.",
+      "translation": "Хорошо сказано, Фуоко. Неудача — это всего лишь шаг к успеху во всем, будь то алхимия или что-то еще."
+    },
+    "ebm:mm05/event_message_mm05_270.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_270.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "OK! In which case, let's try something else. How about trying to drive it off?",
+      "translation": "ХОРОШО! В таком случае, давайте попробуем что-нибудь еще. Как насчет того, чтобы попытаться отогнать его?"
+    },
+    "ebm:mm05/event_message_mm05_270.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_270.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "It's even called the Fire Dragon. It likes fire! In which case, we hit it with something cold!",
+      "translation": "Его даже называют Огненным Драконом. Оно любит огонь! В таком случае ударяем его чем-нибудь холодным!"
+    },
+    "ebm:mm05/event_message_mm05_270.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_270.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Ah, that's not a bad idea. Like giving something spicy to a person with a sweet tooth!",
+      "translation": "Ах, это неплохая идея. Это как подарить сладкоежке что-нибудь острое!"
+    },
+    "ebm:mm05/event_message_mm05_270.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_270.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "That's the idea, anyway. We just need to do something it doesn't like and get rid of it.",
+      "translation": "Во всяком случае, это идея. Нам просто нужно сделать что-то, что ему не нравится, и избавиться от этого."
+    },
+    "ebm:mm05/event_message_mm05_270.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_270.ebm",
+      "index": 11,
+      "speaker": "Fuoco",
+      "original": "Lydie, great thinking! How do you come up with these plans so quickly?",
+      "translation": "Лидия, отличная мысль! Как вам удается так быстро придумывать эти планы?"
+    },
+    "ebm:mm05/event_message_mm05_270.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_270.ebm",
+      "index": 12,
+      "speaker": "Fuoco",
+      "original": "You can leave this to me, too! I'll do something I'm sure that dragon will completely hate!",
+      "translation": "Ты тоже можешь оставить это мне! Я сделаю то, что, я уверен, дракону будет совершенно ненавистно!"
+    },
+    "ebm:mm05/event_message_mm05_280.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_280.ebm",
+      "index": 0,
+      "speaker": "Fuoco",
+      "original": "Oh, this time it's all cold! I'll go and put this to good use!",
+      "translation": "О, на этот раз все холодно! Я пойду и найду этому хорошее применение!"
+    },
+    "ebm:mm05/event_message_mm05_280.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_280.ebm",
+      "index": 1,
+      "speaker": "Fuoco",
+      "original": "Eat this, Fire Dragon! Fuoco Ultra Super Chilling Chilled Attack!",
+      "translation": "Съешь это, Огненный Дракон! Фуоко Ultra Super Chilling Chilling Атака!"
+    },
+    "ebm:mm05/event_message_mm05_280.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_280.ebm",
+      "index": 2,
+      "speaker": "Fire Dragon",
+      "original": "Graaoooooow!",
+      "translation": "Граааааааа!"
+    },
+    "ebm:mm05/event_message_mm05_280.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_280.ebm",
+      "index": 3,
+      "speaker": "Fuoco",
+      "original": "Phew. I ran back here as quickly as I could. Did it work?",
+      "translation": "Уф. Я побежал сюда так быстро, как только мог. Это сработало?"
+    },
+    "ebm:mm05/event_message_mm05_280.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_280.ebm",
+      "index": 4,
+      "speaker": "Firis",
+      "original": "Hmm. It seems to dislike it, but...",
+      "translation": "Хм. Кажется, это не нравится, но..."
+    },
+    "ebm:mm05/event_message_mm05_280.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_280.ebm",
+      "index": 5,
+      "speaker": "Alt",
+      "original": "It simply wasn't strong enough. We need to hit it with stronger cold, or even...",
+      "translation": "Этого просто не было достаточно сильно. Нам нужно поразить его более сильным холодом или даже..."
+    },
+    "ebm:mm05/event_message_mm05_280.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_280.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "Stronger cold? We'll need to think of some kind of a new item, then.",
+      "translation": "Сильный холод? Тогда нам нужно будет придумать какой-нибудь новый предмет."
+    },
+    "ebm:mm05/event_message_mm05_280.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_280.ebm",
+      "index": 7,
+      "speaker": "Fuoco",
+      "original": "Thank you! I believe in all of you!",
+      "translation": "Спасибо! Я верю во всех вас!"
+    },
+    "ebm:mm05/event_message_mm05_280.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_280.ebm",
+      "index": 8,
+      "speaker": "Fuoco",
+      "original": "Once you've made a colder item, bring it to me. Thank you so much for doing this!",
+      "translation": "Как только вы сделаете более холодную вещь, принесите ее мне. Огромное вам спасибо за это!"
+    },
+    "ebm:mm05/event_message_mm05_280.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_280.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "No problem. We'll defend your homeland, Fuoco. Let's do our very best, Sue!",
+      "translation": "Без проблем. Мы защитим твою родину, Фуоко. Давай сделаем все возможное, Сью!"
+    },
+    "ebm:mm05/event_message_mm05_290.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_290.ebm",
+      "index": 0,
+      "speaker": "Fuoco",
+      "original": "We can use this to drive off the Fire Dragon?",
+      "translation": "Мы можем использовать это, чтобы прогнать Огненного Дракона?"
+    },
+    "ebm:mm05/event_message_mm05_290.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_290.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "That's right! This is our secret weapon to chase off the dragon once and for all!",
+      "translation": "Это верно! Это наше секретное оружие, позволяющее прогнать дракона раз и навсегда!"
+    },
+    "ebm:mm05/event_message_mm05_290.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_290.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "I'm sure this will be enough to get the job done! Fuoco, now it's up to you!",
+      "translation": "Я уверен, этого будет достаточно, чтобы завершить работу! Фуоко, теперь дело за тобой!"
+    },
+    "ebm:mm05/event_message_mm05_290.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_290.ebm",
+      "index": 3,
+      "speaker": "Fuoco",
+      "original": "Very well. I'll see you shortly!",
+      "translation": "Очень хорошо. Скоро увидимся!"
+    },
+    "ebm:mm05/event_message_mm05_290.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_290.ebm",
+      "index": 4,
+      "speaker": "Lucia",
+      "original": "Fuoco, good luck!",
+      "translation": "Фуоко, удачи!"
+    },
+    "ebm:mm05/event_message_mm05_290.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_290.ebm",
+      "index": 5,
+      "speaker": "Mathias",
+      "original": "Go freeze his tail off!",
+      "translation": "Иди отморозь ему хвост!"
+    },
+    "ebm:mm05/event_message_mm05_290.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_290.ebm",
+      "index": 6,
+      "speaker": "Fuoco",
+      "original": "F-F-F-Fire Dragon! This is my home! I won't let you destroy it!",
+      "translation": "Ф-ф-ф-Огненный Дракон! Это мой дом! Я не позволю тебе уничтожить его!"
+    },
+    "ebm:mm05/event_message_mm05_290.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_290.ebm",
+      "index": 7,
+      "speaker": "Fuoco",
+      "original": "Take this! Taste all of our anger, and be gone from this place!",
+      "translation": "Возьми это! Вкусите весь наш гнев и уходите отсюда!"
+    },
+    "ebm:mm05/event_message_mm05_290.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_290.ebm",
+      "index": 8,
+      "speaker": "Fire Dragon",
+      "original": "Graaooooooow.",
+      "translation": "Граааааааа."
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Yes! We did it, Fuoco! We defeated the Fire Dragon!",
+      "translation": "Да! Мы сделали это, Фуоко! Мы победили Огненного Дракона!"
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 1,
+      "speaker": "Fuoco",
+      "original": "I saw it all! Amazing! You really are incredible!",
+      "translation": "Я все это видел! Удивительный! Вы действительно невероятные!"
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Hahaha! It wasn't an easy battle, but somehow we managed to win.",
+      "translation": "Ха-ха-ха! Это была непростая битва, но каким-то образом нам удалось победить."
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Yes! You did it, Fuoco! The Fire Dragon has flown off!",
+      "translation": "Да! Ты сделал это, Фуоко! Огненный Дракон улетел!"
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Perfect! I'm so glad the item we made helped out. Congratulations, Fuoco!",
+      "translation": "Идеальный! Я так рада, что вещь, которую мы сделали, помогла. Поздравляем, Фуоко!"
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 5,
+      "speaker": "Fuoco",
+      "original": "Uwaah! Now my homeland is safe!",
+      "translation": "Уваа! Теперь моя Родина в безопасности!"
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 6,
+      "speaker": "Fuoco",
+      "original": "Thank you! Thank you so much! You're the Saviors of our home!",
+      "translation": "Спасибо! Большое спасибо! Вы Спасители нашего дома!"
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "Hey, come on. Heroes is one thing, Saviors is something else...",
+      "translation": "Эй, давай. Герои – это одно, Спасители – это другое…"
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 8,
+      "speaker": "Mathias",
+      "original": "Haha, I don't think so. You saved a world from destruction. That makes you Saviors, in my book!",
+      "translation": "Хаха, я так не думаю. Вы спасли мир от разрушения. В моей книге это делает вас Спасителями!"
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 9,
+      "speaker": "Firis",
+      "original": "He's right. Seeing you both fighting so hard to save Fuoco's world! You were so cool!",
+      "translation": "Он прав. Видеть, как вы оба так упорно сражаетесь за спасение мира Фуоко! Ты был таким крутым!"
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "D-Do you really think so? Saviors! That still sounds a bit funny.",
+      "translation": "Д-Ты правда так думаешь? Спасители! Это все еще звучит немного смешно."
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 11,
+      "speaker": "Fuoco",
+      "original": "Hehe. I've got a gift for my two Saviors, then! My own personal treasure. I want you to have it!",
+      "translation": "Хе-хе. Значит, у меня есть подарок для двух моих Спасителей! Моё личное сокровище. Я хочу, чтобы оно было у тебя!"
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "Hey! They're of a different color, but they look just like the other ones.",
+      "translation": "Привет! Они другого цвета, но похожи на остальных."
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "Yeah! That's our third set, then. Fuoco, thanks for a wonderful gift!",
+      "translation": "Ага! Итак, это наш третий сет. Фуоко, спасибо за чудесный подарок!"
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 14,
+      "speaker": "Fuoco",
+      "original": "Think nothing of it! I'd like you to have this as well!",
+      "translation": "Не думайте об этом! Я бы хотел, чтобы и у тебя было это!"
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "Uwah, are you sure? Thank you, Fuoco!",
+      "translation": "Ува, ты уверен? Спасибо, Фуоко!"
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 16,
+      "speaker": "Fuoco",
+      "original": "Think nothing of it. This is hardly enough for the two Saviors!",
+      "translation": "Не думайте об этом. Едва ли этого достаточно для двух Спасителей!"
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 17,
+      "speaker": "Alt",
+      "original": "Phew. That appears to wrap that up then!",
+      "translation": "Уф. Кажется, на этом все и заканчивается!"
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 18,
+      "speaker": "Lucia",
+      "original": "Yes. That should be enough for now. Shall we head back?",
+      "translation": "Да. На данный момент этого должно быть достаточно. Поедем обратно?"
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 19,
+      "speaker": "Firis",
+      "original": "Sounds good. This world was a lot of fun too!",
+      "translation": "Звучит отлично. В этом мире тоже было очень весело!"
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 20,
+      "speaker": "Fuoco",
+      "original": "You're all leaving? I'm really going to miss you.",
+      "translation": "Вы все уходите? Я действительно буду скучать по тебе."
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 21,
+      "speaker": "Sue",
+      "original": "Hahaha, don't worry, Fuoco. We'll come and see you again!",
+      "translation": "Ха-ха-ха, не волнуйся, Фуоко. Мы приедем к вам снова!"
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 22,
+      "speaker": "Fuoco",
+      "original": "You will? Thank you so much! Do you promise?",
+      "translation": "Вы будете? Большое спасибо! Обещаешь?"
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 23,
+      "speaker": "Lydie",
+      "original": "Yes, we promise. We'll see you again soon, Fuoco! Bye-bye!",
+      "translation": "Да, мы обещаем. Скоро увидимся, Фуоко! Пока-пока!"
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 24,
+      "speaker": "System",
+      "original": "<CLEG>Surging Hell Fire Fragments<CLNR> received.",
+      "translation": "<CLEG>Фрагменты пульсирующего адского огня<CLNR> получены."
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 25,
+      "speaker": "System",
+      "original": "<CLEG>Wild Cotton<CLNR> and <CLEG>Mineral Oil<CLNR> received.",
+      "translation": "Получены <CLEG>Дикий хлопок<CLNR> и <CLEG>Минеральное масло<CLNR>."
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 26,
+      "speaker": "System",
+      "original": "<CLEG>Surging Hell Fire Fragments<CLNR>, <CLEG>Wild Cotton<CLNR> and <CLEG>Mineral Oil<CLNR> received.",
+      "translation": "Получены <CLEG>Фрагменты пульсирующего адского огня<CLNR>, <CLEG>Дикий хлопок<CLNR> и <CLEG>Минеральное масло<CLNR>."
+    },
+    "ebm:mm05/event_message_mm05_300.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_300.ebm",
+      "index": 27,
+      "speaker": "System",
+      "original": "Suelle has acquired the skill <CLEG>\"Talent for Strategy\"<CLNR>.",
+      "translation": "Сюэль приобрела навык <CLEG> «Талант к стратегии» <CLNR>."
+    },
+    "ebm:mm05/event_message_mm05_310.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_310.ebm",
+      "index": 0,
+      "speaker": "Alt",
+      "original": "The world in that painting was very interesting. Watching you two was very entertaining too.",
+      "translation": "Мир на этой картине был очень интересным. Наблюдать за вами тоже было очень интересно."
+    },
+    "ebm:mm05/event_message_mm05_310.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_310.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "What? Watching us was entertaining?",
+      "translation": "Что? Наблюдать за нами было интересно?"
+    },
+    "ebm:mm05/event_message_mm05_310.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_310.ebm",
+      "index": 2,
+      "speaker": "Alt",
+      "original": "Yes. With your backs to the wall - or should I say, magma - you still didn't back down.",
+      "translation": "Да. Стоя спиной к стене – или, лучше сказать, к магме – вы все равно не отступили."
+    },
+    "ebm:mm05/event_message_mm05_310.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_310.ebm",
+      "index": 3,
+      "speaker": "Alt",
+      "original": "You may still lack in experience, but you have everything else you need to become great alchemists.",
+      "translation": "Возможно, вам еще не хватает опыта, но у вас есть все необходимое, чтобы стать великими алхимиками."
+    },
+    "ebm:mm05/event_message_mm05_310.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_310.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "I see... That almost sounds like a compliment?",
+      "translation": "Понятно... Это звучит почти как комплимент?"
+    },
+    "ebm:mm05/event_message_mm05_310.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_310.ebm",
+      "index": 5,
+      "speaker": "Alt",
+      "original": "It was. And I don't give them often. I hope we can be friends.",
+      "translation": "Это было. И я их даю не часто. Я надеюсь, что мы сможем быть друзьями."
+    },
+    "ebm:mm05/event_message_mm05_310.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_310.ebm",
+      "index": 6,
+      "speaker": "Alt",
+      "original": "If there's anything else I can do for you, I'll happily lend you a hand. Anything at all.",
+      "translation": "Если я могу еще что-то для вас сделать, я с радостью вам помогу. Что угодно вообще."
+    },
+    "ebm:mm05/event_message_mm05_310.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_310.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "Wow, are you sure? Thank you so much!",
+      "translation": "Вау, ты уверен? Большое спасибо!"
+    },
+    "ebm:mm05/event_message_mm05_310.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_310.ebm",
+      "index": 8,
+      "speaker": "Alt",
+      "original": "Think nothing of it. Observing you is going to be very productive for me too, I believe.",
+      "translation": "Не думайте об этом. Я думаю, что наблюдение за вами будет очень продуктивным и для меня."
+    },
+    "ebm:mm05/event_message_mm05_310.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_310.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Observing... what, exactly? You're going to get all weird on us, aren't you?",
+      "translation": "Наблюдение... что именно? Ты будешь вести себя странно с нами, не так ли?"
+    },
+    "ebm:mm05/event_message_mm05_310.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_310.ebm",
+      "index": 10,
+      "speaker": "Alt",
+      "original": "Hey! That's not what I meant at all!",
+      "translation": "Привет! Я совсем не это имел в виду!"
+    },
+    "ebm:mm05/event_message_mm05_310.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_310.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "Hah, so you're all slimy as well, aren't you, Alt? Why are all men like this?",
+      "translation": "Ха, так ты тоже весь скользкий, да, Альт? Почему все мужчины такие?"
+    },
+    "ebm:mm05/event_message_mm05_310.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_310.ebm",
+      "index": 12,
+      "speaker": "Alt",
+      "original": "No, I'm not! Listen! Please, listen to me!",
+      "translation": "Нет, я не такой! Слушать! Пожалуйста, послушай меня!"
+    },
+    "ebm:mm05/event_message_mm05_320.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_320.ebm",
+      "index": 0,
+      "speaker": "Mathias",
+      "original": "Sis. The analysis from the devices is complete.",
+      "translation": "Сестра. Анализ с устройств завершен."
+    },
+    "ebm:mm05/event_message_mm05_320.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_320.ebm",
+      "index": 1,
+      "speaker": "Mireille",
+      "original": "Thank you. Let me take a look. Wow, well, this is bad.",
+      "translation": "Спасибо. Позвольте мне взглянуть. Вау, ну это плохо."
+    },
+    "ebm:mm05/event_message_mm05_320.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_320.ebm",
+      "index": 2,
+      "speaker": "Mathias",
+      "original": "I know. A bit of a problem. Things are progressing faster than we expected.",
+      "translation": "Я знаю. Небольшая проблема. Дела развиваются быстрее, чем мы ожидали."
+    },
+    "ebm:mm05/event_message_mm05_320.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_320.ebm",
+      "index": 3,
+      "speaker": "Mireille",
+      "original": "Indeed. We'll need to think of new steps we can take. Ah, I'm getting a headache already!",
+      "translation": "Действительно. Нам нужно будет подумать о новых шагах, которые мы можем предпринять. Ох, у меня уже голова болит!"
+    },
+    "ebm:mm05/event_message_mm05_320.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm05/event_message_mm05_320.ebm",
+      "index": 4,
+      "speaker": "Mathias",
+      "original": "I'll tell you what. I wish a \"Savior\" or two would turn up here in our world, too...",
+      "translation": "Вот что я вам скажу. Я бы хотел, чтобы один или два «Спасителя» появились и здесь, в нашем мире…"
+    }
+  }
+}

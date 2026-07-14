@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_telop.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:196609": {
+      "source": "pack02_text_en",
+      "file": "str_telop.xml",
+      "string_no": "196609",
+      "original": "Completed “&lt;STR1&gt;”.",
+      "translation": "«&lt;STR1&gt;» выполнено."
+    },
+    "pack02:196610": {
+      "source": "pack02_text_en",
+      "file": "str_telop.xml",
+      "string_no": "196610",
+      "original": "Results of “&lt;STR1&gt;” can now be reported.",
+      "translation": "По «&lt;STR1&gt;» можно сдать отчёт."
+    },
+    "pack02:196611": {
+      "source": "pack02_text_en",
+      "file": "str_telop.xml",
+      "string_no": "196611",
+      "original": "The recipe for “&lt;STR1&gt;” was added.",
+      "translation": "Добавлен рецепт «&lt;STR1&gt;»."
+    },
+    "pack02:196612": {
+      "source": "pack02_text_en",
+      "file": "str_telop.xml",
+      "string_no": "196612",
+      "original": "“&lt;STR1&gt;” was added to the To-do List.",
+      "translation": "«&lt;STR1&gt;» добавлено в список дел."
+    },
+    "pack02:196613": {
+      "source": "pack02_text_en",
+      "file": "str_telop.xml",
+      "string_no": "196613",
+      "original": "“&lt;STR1&gt;” was updated.",
+      "translation": "«&lt;STR1&gt;» обновлено."
+    }
+  }
+}

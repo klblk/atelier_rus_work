@@ -1,0 +1,896 @@
+{
+  "version": 1,
+  "source": "pack01_ebm",
+  "block": "ms01",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "ebm:ms01/event_message_ms01_010.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_010.ebm",
+      "index": 0,
+      "speaker": "Fuoco",
+      "original": "Hey, everyone! I've been waiting for you! I've been waiting!",
+      "translation": "Привет всем! Я ждал тебя! Я ждал!"
+    },
+    "ebm:ms01/event_message_ms01_010.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_010.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Ah, Fuoco! What's up? Why the panic?",
+      "translation": "Ах, Фуоко! Как дела? Почему паника?"
+    },
+    "ebm:ms01/event_message_ms01_010.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_010.ebm",
+      "index": 2,
+      "speaker": "Fuoco",
+      "original": "He's back! He's back again! The fire dragon has returned!",
+      "translation": "Он вернулся! Он снова вернулся! Огненный дракон вернулся!"
+    },
+    "ebm:ms01/event_message_ms01_010.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_010.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "It has? What should we do?",
+      "translation": "Имеет? Что нам делать?"
+    },
+    "ebm:ms01/event_message_ms01_010.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_010.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "There's nothing to think about, Sue. If we leave him unchecked this world really might end.",
+      "translation": "Не о чем думать, Сью. Если мы оставим его без внимания, этому миру действительно может прийти конец."
+    },
+    "ebm:ms01/event_message_ms01_010.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_010.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Fuoco, you can leave it to us! We'll take that dragon out, no problem!",
+      "translation": "Фуоко, можешь оставить это нам! Мы уничтожим этого дракона, без проблем!"
+    },
+    "ebm:ms01/event_message_ms01_010.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_010.ebm",
+      "index": 6,
+      "speaker": "Fuoco",
+      "original": "Thank you so much! I'm sorry for always asking so much!",
+      "translation": "Большое спасибо! Прости, что всегда так много прошу!"
+    },
+    "ebm:ms01/event_message_ms01_020.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_020.ebm",
+      "index": 0,
+      "speaker": "Fire Dragon",
+      "original": "Graaoooooow!",
+      "translation": "Граааааааа!"
+    },
+    "ebm:ms01/event_message_ms01_020.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_020.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Right! For Fuoco, and this entire world! We're ending this here!",
+      "translation": "Верно! За Фуоко и за весь этот мир! Мы заканчиваем это здесь!"
+    },
+    "ebm:ms01/event_message_ms01_030.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_030.ebm",
+      "index": 0,
+      "speaker": "Fire Dragon",
+      "original": "Graaoooooow!",
+      "translation": "Граааааааа!"
+    },
+    "ebm:ms01/event_message_ms01_030.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_030.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "We won't lose again!",
+      "translation": "Мы больше не проиграем!"
+    },
+    "ebm:ms01/event_message_ms01_040.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_040.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Phew! We managed to beat it!",
+      "translation": "Уф! Нам удалось его победить!"
+    },
+    "ebm:ms01/event_message_ms01_040.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_040.ebm",
+      "index": 1,
+      "speaker": "Fuoco",
+      "original": "Both of you, thank you so much! You are the Saviors of our world, no doubt about it!",
+      "translation": "Вам обоим, большое спасибо! Вы — Спасители нашего мира, в этом нет никаких сомнений!"
+    },
+    "ebm:ms01/event_message_ms01_040.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_040.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Hahah, you bet we are! Whatever you need, we're the ones to...",
+      "translation": "Ха-ха, можешь поспорить, что мы есть! Что бы вам ни понадобилось, мы готовы..."
+    },
+    "ebm:ms01/event_message_ms01_040.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_040.ebm",
+      "index": 3,
+      "speaker": "Fire Dragon",
+      "original": "Graaoooooow!",
+      "translation": "Граааааааа!"
+    },
+    "ebm:ms01/event_message_ms01_040.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_040.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Take... care... of it?",
+      "translation": "Позаботиться... о нем?"
+    },
+    "ebm:ms01/event_message_ms01_040.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_040.ebm",
+      "index": 5,
+      "speaker": "Fire Dragon",
+      "original": "Graaooooooooooow!",
+      "translation": "Граааааааааа!"
+    },
+    "ebm:ms01/event_message_ms01_040.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_040.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "It's back again! But we just defeated it, right?",
+      "translation": "Оно снова вернулось! Но мы только что победили его, верно?"
+    },
+    "ebm:ms01/event_message_ms01_040.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_040.ebm",
+      "index": 8,
+      "speaker": "Fuoco",
+      "original": "Hmm. It seems a little fixated on me...",
+      "translation": "Хм. Кажется, он немного зациклен на мне..."
+    },
+    "ebm:ms01/event_message_ms01_040.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_040.ebm",
+      "index": 9,
+      "speaker": "Fire Dragon",
+      "original": "Grrrrrrrrrrr!",
+      "translation": "Гррррррррр!"
+    },
+    "ebm:ms01/event_message_ms01_040.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_040.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "And quite docile, too. Don't tell me! The fire dragon has fallen for Fuoco?",
+      "translation": "И довольно послушный. Не говорите мне! Огненный дракон влюбился в Фуоко?"
+    },
+    "ebm:ms01/event_message_ms01_040.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_040.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "What?! That sounds very unlikely to me...",
+      "translation": "Что?! Мне это кажется очень маловероятным..."
+    },
+    "ebm:ms01/event_message_ms01_040.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_040.ebm",
+      "index": 12,
+      "speaker": "Fire Dragon",
+      "original": "Grah! Grrrah!",
+      "translation": "Грах! Грра!"
+    },
+    "ebm:ms01/event_message_ms01_040.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_040.ebm",
+      "index": 13,
+      "speaker": "Fuoco",
+      "original": "Ah, hey, cut that out! No licking! Please, you're getting me all slobbery!",
+      "translation": "Ах, эй, прекрати это! Никакого облизывания! Пожалуйста, ты делаешь меня слюнявым!"
+    },
+    "ebm:ms01/event_message_ms01_040.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_040.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "I think I spoke too soon. It seems very likely. So the dragon was revived by...",
+      "translation": "Думаю, я заговорил слишком рано. Это кажется очень вероятным. Итак, дракон был возрожден..."
+    },
+    "ebm:ms01/event_message_ms01_040.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_040.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "The power of love. The desire to see Fuoco again. That pure emotion caused this miracle.",
+      "translation": "Сила любви. Желание снова увидеть Фуоко. Эта чистая эмоция вызвала это чудо."
+    },
+    "ebm:ms01/event_message_ms01_040.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_040.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "Impossible... is what I'd love to say. But this is a Mysterious World. Anything seems possible here.",
+      "translation": "Невозможно... вот что я хотел бы сказать. Но это Таинственный Мир. Здесь кажется возможным все."
+    },
+    "ebm:ms01/event_message_ms01_040.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_040.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "Looks like it all worked out, to me! The fire dragon is smitten with Fuoco, and seems very calm.",
+      "translation": "Похоже, у меня все получилось! Огненный дракон очарован Фуоко и кажется очень спокойным."
+    },
+    "ebm:ms01/event_message_ms01_040.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_040.ebm",
+      "index": 18,
+      "speaker": "Fuoco",
+      "original": "It doesn't seem fine to me! I'm the one covered in dragon slobber over here!",
+      "translation": "Мне это кажется нехорошим! Это я здесь весь в драконьей слюне!"
+    },
+    "ebm:ms01/event_message_ms01_040.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_040.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "Fuoco. I hope you and the fire dragon are very happy together!",
+      "translation": "Фуоко. Надеюсь, вы с огненным драконом очень счастливы вместе!"
+    },
+    "ebm:ms01/event_message_ms01_040.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_040.ebm",
+      "index": 20,
+      "speaker": "Fuoco",
+      "original": "Hold on! Lydie! Sue! I can't accept this!",
+      "translation": "Подожди! Лиди! Сью! Я не могу это принять!"
+    },
+    "ebm:ms01/event_message_ms01_050.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_050.ebm",
+      "index": 0,
+      "speaker": "Fuoco",
+      "original": "I've been waiting for you to return! My fire dragon is hungry, hungry for your blood!",
+      "translation": "Я ждал твоего возвращения! Мой огненный дракон жаждет твоей крови!"
+    },
+    "ebm:ms01/event_message_ms01_050.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_050.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "W-What was that now? Fuoco? W-What's going on?",
+      "translation": "Ч-что это было сейчас? Фуоко? Ч-что происходит?"
+    },
+    "ebm:ms01/event_message_ms01_050.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_050.ebm",
+      "index": 2,
+      "speaker": "Fuoco",
+      "original": "What do you think! I'm about to sacrifice you all to my dragon!",
+      "translation": "Что вы думаете! Я собираюсь принести вас всех в жертву моему дракону!"
+    },
+    "ebm:ms01/event_message_ms01_050.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_050.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "What's happened to you! Please, Fuoco, go back to your quiet and gentle self!",
+      "translation": "Что с тобой случилось! Пожалуйста, Фуоко, вернись к своему тихому и нежному состоянию!"
+    },
+    "ebm:ms01/event_message_ms01_050.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_050.ebm",
+      "index": 4,
+      "speaker": "Fuoco",
+      "original": "Hahaha! There's no going back once you've ridden a dragon!",
+      "translation": "Ха-ха-ха! Пути назад уже нет, если ты оседлал дракона!"
+    },
+    "ebm:ms01/event_message_ms01_050.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_050.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Fuoco!",
+      "translation": "Фуоко!"
+    },
+    "ebm:ms01/event_message_ms01_050.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_050.ebm",
+      "index": 6,
+      "speaker": "Fuoco",
+      "original": "Oh, I'm just joking.",
+      "translation": "О, я просто шучу."
+    },
+    "ebm:ms01/event_message_ms01_050.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_050.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "Ouch! You really had us going there!",
+      "translation": "Ой! Вы действительно заставили нас пойти туда!"
+    },
+    "ebm:ms01/event_message_ms01_050.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_050.ebm",
+      "index": 8,
+      "speaker": "Fuoco",
+      "original": "Just a little thank you for foisting a fire dragon off on me. It's been restless, recently, too.",
+      "translation": "Просто немного спасибо, что навязали мне огненного дракона. В последнее время тоже было беспокойно."
+    },
+    "ebm:ms01/event_message_ms01_050.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_050.ebm",
+      "index": 9,
+      "speaker": "Fire Dragon",
+      "original": "Graaoooooow!",
+      "translation": "Граааааааа!"
+    },
+    "ebm:ms01/event_message_ms01_050.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_050.ebm",
+      "index": 10,
+      "speaker": "Fuoco",
+      "original": "There, see? I think it's because it's been suppressing its basic nature a little too much.",
+      "translation": "Вот, видишь? Я думаю, это потому, что он слишком сильно подавлял свою основную природу."
+    },
+    "ebm:ms01/event_message_ms01_050.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_050.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Ah, so all that sacrifice stuff was just about wanting to fight and burn off some stress, was it?",
+      "translation": "Ах, так все эти жертвоприношения были просто желанием побороться и избавиться от стресса, не так ли?"
+    },
+    "ebm:ms01/event_message_ms01_050.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_050.ebm",
+      "index": 12,
+      "speaker": "Fuoco",
+      "original": "I'm not sure what \"stress\" is, but yes, I think that sounds about right.",
+      "translation": "Я не уверен, что такое «стресс», но да, я думаю, это звучит правильно."
+    },
+    "ebm:ms01/event_message_ms01_050.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_050.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "I see. Then you can leave it to us. We'll help you whenever you need it, Fuoco!",
+      "translation": "Я понимаю. Тогда вы можете оставить это нам. Мы поможем тебе, когда тебе это понадобится, Фуоко!"
+    },
+    "ebm:ms01/event_message_ms01_050.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_050.ebm",
+      "index": 14,
+      "speaker": "Fuoco",
+      "original": "Thank you so much! I'll wait with the dragon, then. Just come and see us once you are ready!",
+      "translation": "Большое спасибо! Тогда я подожду с драконом. Просто приходите к нам, как только будете готовы!"
+    },
+    "ebm:ms01/event_message_ms01_060.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_060.ebm",
+      "index": 0,
+      "speaker": "Fuoco",
+      "original": "Hey, everyone. You want to play with my fire dragon?",
+      "translation": "Привет всем. Хочешь поиграть с моим огненным драконом?"
+    },
+    "ebm:ms01/event_message_ms01_060.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_060.ebm",
+      "index": 1,
+      "speaker": "Fuoco",
+      "original": "Very well. Let's set some stuff on fire!",
+      "translation": "Очень хорошо. Давайте подожжем что-нибудь!"
+    },
+    "ebm:ms01/event_message_ms01_060.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_060.ebm",
+      "index": 2,
+      "speaker": "Fuoco",
+      "original": "I see. Come and see us any time, okay?",
+      "translation": "Я понимаю. Приходи к нам в любое время, ладно?"
+    },
+    "ebm:ms01/event_message_ms01_070.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_070.ebm",
+      "index": 0,
+      "speaker": "Fuoco",
+      "original": "Thank you, everyone. The fire dragon seems a bit more satisfied, too.",
+      "translation": "Спасибо всем. Огненный дракон, кажется, тоже немного более удовлетворен."
+    },
+    "ebm:ms01/event_message_ms01_070.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_070.ebm",
+      "index": 1,
+      "speaker": "Fire Dragon",
+      "original": "Graaoooooooow!",
+      "translation": "Грааааааааа!"
+    },
+    "ebm:ms01/event_message_ms01_070.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_070.ebm",
+      "index": 2,
+      "speaker": "Fuoco",
+      "original": "Here's a little something for you! I hope you'll accept it!",
+      "translation": "Вот кое-что для вас! Надеюсь, ты примешь это!"
+    },
+    "ebm:ms01/event_message_ms01_070.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_070.ebm",
+      "index": 3,
+      "speaker": "Fuoco",
+      "original": "There's plenty more fire left, though. Come again and play any time!",
+      "translation": "Однако огня еще много. Приходите снова и играйте в любое время!"
+    },
+    "ebm:ms01/event_message_ms01_070.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_070.ebm",
+      "index": 4,
+      "speaker": "System",
+      "original": "<CLEG>Dragon Bloodstone<CLNR> and <CLEG>Dragon Scale<CLNR> received.",
+      "translation": "<CLEG>Драконий Кровавый Камень<CLNR> и <CLEG>Драконья Чешуя<CLNR> получены."
+    },
+    "ebm:ms01/event_message_ms01_080.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_080.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Coming here always reminds me of the Captain.",
+      "translation": "Приход сюда всегда напоминает мне о капитане."
+    },
+    "ebm:ms01/event_message_ms01_080.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_080.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Me too. He was completely crazy, but also a really interesting man.",
+      "translation": "Я тоже. Он был совершенно сумасшедшим, но при этом очень интересным человеком."
+    },
+    "ebm:ms01/event_message_ms01_080.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_080.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "We can't go getting all soppy, though, can we? We're his minions, after all!",
+      "translation": "Но мы же не можем быть такими сентиментальными, не так ли? В конце концов, мы его приспешники!"
+    },
+    "ebm:ms01/event_message_ms01_080.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_080.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "That's right! We have to be full of life, full of energy, just like him!",
+      "translation": "Это верно! Мы должны быть полны жизни, полны энергии, как и он!"
+    },
+    "ebm:ms01/event_message_ms01_080.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_080.ebm",
+      "index": 4,
+      "speaker": "Backen",
+      "original": "Awahaha! Well said, you scurvy dogs! That's why you're worthy to be my minions!",
+      "translation": "Авахаха! Хорошо сказано, мерзкие собаки! Вот почему вы достойны быть моими приспешниками!"
+    },
+    "ebm:ms01/event_message_ms01_080.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_080.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Uwakyaaaaaah! The C-C-C-Captain's g-g-ghost!",
+      "translation": "Увакьяаааа! Призрак капитана C-C-C-призрак!"
+    },
+    "ebm:ms01/event_message_ms01_080.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_080.ebm",
+      "index": 6,
+      "speaker": "Backen",
+      "original": "Stow it! I'm not a ghost! This is the real, one-and-only me!",
+      "translation": "Убери это! Я не призрак! Это настоящая, единственная и неповторимая я!"
+    },
+    "ebm:ms01/event_message_ms01_080.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_080.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "Hold up! Captain, you said all that cool stuff and faded away!",
+      "translation": "Задерживать! Капитан, вы сказали все эти крутые вещи и исчезли!"
+    },
+    "ebm:ms01/event_message_ms01_080.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_080.ebm",
+      "index": 8,
+      "speaker": "Backen",
+      "original": "That was quite a performance, wasn't it? Did it move you? It moved you, right? Didn't it?",
+      "translation": "Это было настоящее выступление, не так ли? Вас это тронуло? Тебя это тронуло, да? Не так ли?"
+    },
+    "ebm:ms01/event_message_ms01_080.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_080.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Hahahaha! Ah, you really pulled one over on me!",
+      "translation": "Ха-ха-ха! Ах, ты действительно на меня напал!"
+    },
+    "ebm:ms01/event_message_ms01_080.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_080.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Hahaha, me too! I'm glad you're still with us, anyway.",
+      "translation": "Ха-ха-ха, я тоже! В любом случае, я рад, что ты все еще с нами."
+    },
+    "ebm:ms01/event_message_ms01_080.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_080.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Me too. You're a tyrannical pyromaniac, but I was sad to see you fade away.",
+      "translation": "Я тоже. Ты тиранический пироман, но мне было грустно видеть, как ты исчезаешь."
+    },
+    "ebm:ms01/event_message_ms01_080.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_080.ebm",
+      "index": 12,
+      "speaker": "Backen",
+      "original": "Awahaha! Me too, me too! I'll continue to lead you across the seas, fear not!",
+      "translation": "Авахаха! Я тоже, я тоже! Я продолжу вести тебя через моря, не бойся!"
+    },
+    "ebm:ms01/event_message_ms01_080.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_080.ebm",
+      "index": 13,
+      "speaker": "Backen",
+      "original": "All ten of them, you'll see! Anyone gets in our way, we burn them to ash!",
+      "translation": "Все десять из них, вот увидите! Если кто-то встанет у нас на пути, мы сожжем его дотла!"
+    },
+    "ebm:ms01/event_message_ms01_080.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_080.ebm",
+      "index": 14,
+      "speaker": "Backen",
+      "original": "That's me! Captain...",
+      "translation": "Это я! Капитан..."
+    },
+    "ebm:ms01/event_message_ms01_080.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_080.ebm",
+      "index": 15,
+      "speaker": "Everyone",
+      "original": "Backen!",
+      "translation": "Бакен!"
+    },
+    "ebm:ms01/event_message_ms01_080.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_080.ebm",
+      "index": 16,
+      "speaker": "System",
+      "original": "Backen!",
+      "translation": "Бакен!"
+    },
+    "ebm:ms01/event_message_ms01_080.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_080.ebm",
+      "index": 17,
+      "speaker": "System",
+      "original": "Backen!",
+      "translation": "Бакен!"
+    },
+    "ebm:ms01/event_message_ms01_090.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_090.ebm",
+      "index": 0,
+      "speaker": "Neige",
+      "original": "Hey, girls! What happened with your mother?",
+      "translation": "Эй, девочки! Что случилось с твоей матерью?"
+    },
+    "ebm:ms01/event_message_ms01_090.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_090.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Thank you, Neige. We actually managed to work something out!",
+      "translation": "Спасибо, Нейдж. Нам действительно удалось кое-что придумать!"
+    },
+    "ebm:ms01/event_message_ms01_090.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_090.ebm",
+      "index": 2,
+      "speaker": "Neige",
+      "original": "Really? That's great to hear.",
+      "translation": "Действительно? Приятно это слышать."
+    },
+    "ebm:ms01/event_message_ms01_090.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_090.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Hehehe, you're so kind, Neige. You've been worrying about us?",
+      "translation": "Хе-хе-хе, ты такая добрая, Нейдж. Ты беспокоился о нас?"
+    },
+    "ebm:ms01/event_message_ms01_090.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_090.ebm",
+      "index": 4,
+      "speaker": "Neige",
+      "original": "Hah! Who'd worry about you two? I'm worried about your soul fragment mother! Because she's just like me.",
+      "translation": "Ха! Кто будет беспокоиться о вас двоих? Я беспокоюсь о твоем фрагменте души, мама! Потому что она такая же, как я."
+    },
+    "ebm:ms01/event_message_ms01_090.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_090.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Oh yeah? We're kind enough to leave it that, I suppose.",
+      "translation": "Ах, да? Полагаю, мы достаточно любезны, чтобы оставить это так."
+    },
+    "ebm:ms01/event_message_ms01_090.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_090.ebm",
+      "index": 6,
+      "speaker": "Neige",
+      "original": "Gah! Stop grinning like that, you dummy! G-Get out of here! I'll call some monsters!",
+      "translation": "Га! Перестань так ухмыляться, дурачок! Г-уйди отсюда! Я вызову монстров!"
+    },
+    "ebm:ms01/event_message_ms01_090.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_090.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "A-alright, alright! We'll come again soon, Neige!",
+      "translation": "А-хорошо, хорошо! Мы скоро приедем снова, Нейдж!"
+    },
+    "ebm:ms01/event_message_ms01_090.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_090.ebm",
+      "index": 8,
+      "speaker": "Neige",
+      "original": "If they saved their mother, that means they took care of the Remplir, somehow...",
+      "translation": "Если они спасли свою мать, значит, они как-то позаботились о Ремплире..."
+    },
+    "ebm:ms01/event_message_ms01_090.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_090.ebm",
+      "index": 9,
+      "speaker": "Neige",
+      "original": "Such a thing was impossible when I was alive. Time has continued on without me, it seems.",
+      "translation": "Такое было невозможно, когда я был жив. Кажется, время продолжалось без меня."
+    },
+    "ebm:ms01/event_message_ms01_090.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_090.ebm",
+      "index": 10,
+      "speaker": "Neige",
+      "original": "I've got this eternal life. After all my regrets, maybe, I can help them... Even from inside here.",
+      "translation": "У меня есть эта вечная жизнь. После всех моих сожалений, возможно, я смогу им помочь... Даже отсюда."
+    },
+    "ebm:ms01/event_message_ms01_090.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_090.ebm",
+      "index": 11,
+      "speaker": "Neige",
+      "original": "To do everything they can to help someone again. That's what an alchemist does.",
+      "translation": "Сделать все возможное, чтобы снова помочь кому-то. Это то, что делает алхимик."
+    },
+    "ebm:ms01/event_message_ms01_090.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_090.ebm",
+      "index": 12,
+      "speaker": "Neige",
+      "original": "Those two girls have helped me remember that. Please, never change, either of you.",
+      "translation": "Эти две девушки помогли мне запомнить это. Пожалуйста, никогда не меняйтесь ни один из вас."
+    },
+    "ebm:ms01/event_message_ms01_110.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_110.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "We shouldn't be going that way right now.",
+      "translation": "Нам не следует идти этим путем прямо сейчас."
+    },
+    "ebm:ms01/event_message_ms01_110.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_110.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "We can't get through there.",
+      "translation": "Мы не сможем туда пройти."
+    },
+    "ebm:ms01/event_message_ms01_110.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_110.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "How about trying that way?",
+      "translation": "Как насчет того, чтобы попробовать таким образом?"
+    },
+    "ebm:ms01/event_message_ms01_110.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_110.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "We shouldn't leave the city at the moment.",
+      "translation": "В данный момент нам не следует покидать город."
+    },
+    "ebm:ms01/event_message_ms01_110.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_110.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "We shouldn't be synthesizing right now.",
+      "translation": "Нам не следует сейчас синтезировать."
+    },
+    "ebm:ms01/event_message_ms01_110.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_110.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "We can't go to bed at the moment.",
+      "translation": "Мы не можем сейчас пойти спать."
+    },
+    "ebm:ms01/event_message_ms01_110.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_110.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "We can't go that way now!",
+      "translation": "Мы не можем пойти этим путем сейчас!"
+    },
+    "ebm:ms01/event_message_ms01_110.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_110.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "We can't get through this way.",
+      "translation": "Мы не сможем пройти таким путем."
+    },
+    "ebm:ms01/event_message_ms01_110.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_110.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Let's try over there!",
+      "translation": "Давай попробуем там!"
+    },
+    "ebm:ms01/event_message_ms01_110.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_110.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "We can't go outside right now.",
+      "translation": "Мы не можем сейчас выйти на улицу."
+    },
+    "ebm:ms01/event_message_ms01_110.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_110.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Let's not synthesize at the moment.",
+      "translation": "Давайте пока не будем синтезировать."
+    },
+    "ebm:ms01/event_message_ms01_110.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_110.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "There's no time to be sleeping!",
+      "translation": "Нет времени спать!"
+    },
+    "ebm:ms01/event_message_ms01_120.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_120.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "We shouldn't be going that way right now.",
+      "translation": "Нам не следует идти этим путем прямо сейчас."
+    },
+    "ebm:ms01/event_message_ms01_120.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_120.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "We can't get through there.",
+      "translation": "Мы не сможем туда пройти."
+    },
+    "ebm:ms01/event_message_ms01_120.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_120.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "How about trying that way?",
+      "translation": "Как насчет того, чтобы попробовать таким образом?"
+    },
+    "ebm:ms01/event_message_ms01_120.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_120.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "We shouldn't leave the city at the moment.",
+      "translation": "В данный момент нам не следует покидать город."
+    },
+    "ebm:ms01/event_message_ms01_120.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_120.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "We shouldn't be synthesizing right now.",
+      "translation": "Нам не следует сейчас синтезировать."
+    },
+    "ebm:ms01/event_message_ms01_120.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_120.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "We can't go to bed at the moment.",
+      "translation": "Мы не можем сейчас пойти спать."
+    },
+    "ebm:ms01/event_message_ms01_120.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_120.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "We can't go that way now!",
+      "translation": "Мы не можем пойти этим путем сейчас!"
+    },
+    "ebm:ms01/event_message_ms01_120.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_120.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "We can't get through this way.",
+      "translation": "Мы не сможем пройти таким путем."
+    },
+    "ebm:ms01/event_message_ms01_120.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_120.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Let's try over there!",
+      "translation": "Давай попробуем там!"
+    },
+    "ebm:ms01/event_message_ms01_120.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_120.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "We can't go outside right now.",
+      "translation": "Мы не можем сейчас выйти на улицу."
+    },
+    "ebm:ms01/event_message_ms01_120.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_120.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Let's not synthesize at the moment.",
+      "translation": "Давайте пока не будем синтезировать."
+    },
+    "ebm:ms01/event_message_ms01_120.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_120.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "There's no time to be sleeping!",
+      "translation": "Нет времени спать!"
+    },
+    "ebm:ms01/event_message_ms01_200.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_200.ebm",
+      "index": 0,
+      "speaker": "Alt's Passionate Fan",
+      "original": "That was fun! Thanks for playing with me! Here's a token of my thanks. Haaaaaaaaaah! Hah!",
+      "translation": "Это было весело! Спасибо, что играете со мной! Вот знак моей благодарности. Хаааааааа! Ха!"
+    },
+    "ebm:ms01/event_message_ms01_200.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "ms01/event_message_ms01_200.ebm",
+      "index": 1,
+      "speaker": "Alt's Passionate Fan",
+      "original": "Right, I'm going to nap for a while. Please do come again.",
+      "translation": "Ладно, я собираюсь немного вздремнуть. Пожалуйста, приходите еще раз."
+    }
+  }
+}

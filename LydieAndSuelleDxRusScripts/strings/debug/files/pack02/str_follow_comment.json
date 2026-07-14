@@ -1,0 +1,393 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_follow_comment.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:20578305": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578305",
+      "original": "None",
+      "translation": "Нет"
+    },
+    "pack02:20578306": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578306",
+      "original": "Use a skill.",
+      "translation": "Использовать навык."
+    },
+    "pack02:20578307": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578307",
+      "original": "Receive 5% or more of maximum HP in damage from the enemy.",
+      "translation": "Получить от врага урон ≥5% от макс. ОЗ."
+    },
+    "pack02:20578308": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578308",
+      "original": "Use an HP Recovery effect, or use an MP Recovery effect.",
+      "translation": "Использовать эффект восстановления ОЗ или эффект восстановления ОМ."
+    },
+    "pack02:20578309": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578309",
+      "original": "Cause damage to all enemies.",
+      "translation": "Нанести урон всем врагам."
+    },
+    "pack02:20578310": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578310",
+      "original": "KO an attacker.",
+      "translation": "Нокаутировать атакующего."
+    },
+    "pack02:20578311": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578311",
+      "original": "Start a battle with swing, or use a tool to restore HP or MP.",
+      "translation": "Начать бой первой атакой или использовать предмет для восстановления ОЗ или ОМ."
+    },
+    "pack02:20578312": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578312",
+      "original": "Use a skill.",
+      "translation": "Использовать навык."
+    },
+    "pack02:20578313": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578313",
+      "original": "Inflict skill damage against the enemy.",
+      "translation": "Нанести врагу урон навыком."
+    },
+    "pack02:20578314": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578314",
+      "original": "Inflict skill damage against the enemy, and stun them.",
+      "translation": "Нанести врагу урон навыком и оглушить его."
+    },
+    "pack02:20578315": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578315",
+      "original": "Inflict skill damage against the enemy, and stun them.",
+      "translation": "Нанести врагу урон навыком и оглушить его."
+    },
+    "pack02:20578316": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578316",
+      "original": "KO an attacker.",
+      "translation": "Нокаутировать атакующего."
+    },
+    "pack02:20578317": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578317",
+      "original": "Use a tool to inflict damage.",
+      "translation": "Использовать предмет, чтобы нанести урон."
+    },
+    "pack02:20578318": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578318",
+      "original": "Cause Lightning damage to a single enemy.",
+      "translation": "Нанести электрический урон одному врагу."
+    },
+    "pack02:20578319": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578319",
+      "original": "Cause Ice damage to a single enemy.",
+      "translation": "Нанести ледяной урон одному врагу."
+    },
+    "pack02:20578320": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578320",
+      "original": "Cause Fire damage to a single enemy.",
+      "translation": "Нанести огненный урон одному врагу."
+    },
+    "pack02:20578321": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578321",
+      "original": "Cause Air damage to a single enemy.",
+      "translation": "Нанести воздушный урон одному врагу."
+    },
+    "pack02:20578322": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578322",
+      "original": "Cause Magic damage to a single enemy.",
+      "translation": "Нанести магический урон одному врагу."
+    },
+    "pack02:20578323": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578323",
+      "original": "Use a (Bomb).",
+      "translation": "Использовать (Бомбу)."
+    },
+    "pack02:20578324": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578324",
+      "original": "Use a (Medicine).",
+      "translation": "Использовать (Лекарство)."
+    },
+    "pack02:20578325": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578325",
+      "original": "Use a tool to cause Fire damage.",
+      "translation": "Использовать предмет, чтобы нанести огненный урон."
+    },
+    "pack02:20578326": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578326",
+      "original": "Use a (Magic Item).",
+      "translation": "Использовать (Магич. предмет)."
+    },
+    "pack02:20578327": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578327",
+      "original": "Use an (Elixir).",
+      "translation": "Использовать (Эликсир)."
+    },
+    "pack02:20578328": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578328",
+      "original": "Use a tool to inflict elemental damage the target is weak to.",
+      "translation": "Использовать предмет, чтобы нанести стихийный урон, к которому цель уязвима."
+    },
+    "pack02:20578329": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578329",
+      "original": "Receive 50% or more of maximum HP in damage from the enemy.",
+      "translation": "Получить от врага урон ≥50% от макс. ОЗ."
+    },
+    "pack02:20578330": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578330",
+      "original": "The attackers are Poisoned or Burned.",
+      "translation": "Атакующие отравлены или горят."
+    },
+    "pack02:20578331": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578331",
+      "original": "KO an attacker.",
+      "translation": "Нокаутировать атакующего."
+    },
+    "pack02:20578332": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578332",
+      "original": "Use a skill against the enemy to inflict damage.",
+      "translation": "Использовать навык против врага, чтобы нанести урон."
+    },
+    "pack02:20578333": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578333",
+      "original": "Use a skill against all enemies to inflict damage.",
+      "translation": "Использовать навык против всех врагов, чтобы нанести урон."
+    },
+    "pack02:20578334": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578334",
+      "original": "Use an effect that increases ATK, DEF, or SPD.",
+      "translation": "Использовать эффект, повышающий АТК, ЗЩТ или СКР."
+    },
+    "pack02:20578335": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578335",
+      "original": "Inflict skill damage against the enemy and stun them.",
+      "translation": "Нанести врагу урон навыка и оглушить его."
+    },
+    "pack02:20578336": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578336",
+      "original": "Attackers receive heavy damage.",
+      "translation": "Атакующие получают тяжёлый урон."
+    },
+    "pack02:20578337": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578337",
+      "original": "Use a tool to restore HP.",
+      "translation": "Использовать предмет для восстановления ОЗ."
+    },
+    "pack02:20578338": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578338",
+      "original": "Cause Physical damage to a single enemy.",
+      "translation": "Нанести физический урон одному врагу."
+    },
+    "pack02:20578339": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578339",
+      "original": "Use an item to revive an ally.",
+      "translation": "Использовать предмет, чтобы воскресить союзника."
+    },
+    "pack02:20578340": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578340",
+      "original": "Cause damage to the enemy and simultaneously stun and stagger them.",
+      "translation": "Нанести врагу урон и одновременно оглушить и сбить его с толку."
+    },
+    "pack02:20578341": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578341",
+      "original": "Use a status boosting effect.",
+      "translation": "Использовать эффект усиления характеристик."
+    },
+    "pack02:20578342": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578342",
+      "original": "Inflict skill damage against the enemy.",
+      "translation": "Нанести врагу урон навыка."
+    },
+    "pack02:20578343": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578343",
+      "original": "Cause damage to all enemies.",
+      "translation": "Нанести урон всем врагам."
+    },
+    "pack02:20578344": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578344",
+      "original": "Use a skill to cause damage to all enemies.",
+      "translation": "Использовать навык, чтобы нанести урон всем врагам."
+    },
+    "pack02:20578345": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578345",
+      "original": "KO an attacker.",
+      "translation": "Нокаутировать атакующего."
+    },
+    "pack02:20578346": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578346",
+      "original": "Cause Fire damage to the enemy.",
+      "translation": "Нанести врагу огненный урон."
+    },
+    "pack02:20578347": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578347",
+      "original": "Receive damage that amounts to more than 15% of your Max HP.",
+      "translation": "Получить урон более 15% от вашей макс. ОЗ."
+    },
+    "pack02:20578348": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578348",
+      "original": "Inflict skill damage against an enemy.",
+      "translation": "Нанести врагу урон навыка."
+    },
+    "pack02:20578349": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578349",
+      "original": "Inflict Physical damage against an enemy and stagger them.",
+      "translation": "Нанести врагу физический урон и сбить его с толку."
+    },
+    "pack02:20578350": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578350",
+      "original": "Inflict skill damage against an enemy and stun them.",
+      "translation": "Нанести врагу урон навыка и оглушить его."
+    },
+    "pack02:20578351": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578351",
+      "original": "Inflict Physical damage on a single enemy.",
+      "translation": "Нанести физический урон одному врагу."
+    },
+    "pack02:20578352": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578352",
+      "original": "Use an effect against a single enemy and inflict Fire or Lightning damage on them.",
+      "translation": "Использовать эффект против одного врага и нанести ему огненный или электрический урон."
+    },
+    "pack02:20578353": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578353",
+      "original": "Use an effect against a single enemy and inflict Ice or Air damage on them.",
+      "translation": "Использовать эффект против одного врага и нанести ему ледяной или воздушный урон."
+    },
+    "pack02:20578354": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578354",
+      "original": "Use a tool to inflict damage on a single enemy and stun them.",
+      "translation": "Использовать предмет, чтобы нанести урон одному врагу и оглушить его."
+    },
+    "pack02:20578355": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578355",
+      "original": "Use an effect against a single enemy, inflict damage and stun them.",
+      "translation": "Использовать эффект против одного врага, нанести урон и оглушить его."
+    },
+    "pack02:20578356": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578356",
+      "original": "Inflict skill damage against an enemy and stun them.",
+      "translation": "Нанести врагу урон навыка и оглушить его."
+    },
+    "pack02:20578357": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578357",
+      "original": "Use an item to cause damage to the enemy and stun them.",
+      "translation": "Использовать предмет, чтобы нанести врагу урон и оглушить его."
+    },
+    "pack02:20578358": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578358",
+      "original": "Simultaneously restore HP and MP, and increase one of ATK, DEF, or SPD.",
+      "translation": "Одновременно восстановить ОЗ и ОМ и повысить АТК, ЗЩТ или СКР."
+    },
+    "pack02:20578359": {
+      "source": "pack02_text_en",
+      "file": "str_follow_comment.xml",
+      "string_no": "20578359",
+      "original": "Receive 5% or more of maximum HP in damage from the enemy.",
+      "translation": "Получить от врага урон ≥5% от макс. ОЗ."
+    }
+  }
+}

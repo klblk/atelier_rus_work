@@ -1,0 +1,1520 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_action_comment.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:19988481": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988481",
+      "original": "Strike the enemy with a staff.",
+      "translation": "Удар посохом по врагу."
+    },
+    "pack02:19988482": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988482",
+      "original": "Cause light damage to a single enemy.^00Delay the enemy’s turn slightly.",
+      "translation": "Наносит лёгкий урон одному врагу.^00Слегка задерживает ход врага."
+    },
+    "pack02:19988483": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988483",
+      "original": "Increase ATK of an ally.",
+      "translation": "Повышает АТК союзника."
+    },
+    "pack02:19988484": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988484",
+      "original": "Increase DEF of all allies.",
+      "translation": "Повышает ЗЩТ всех союзников."
+    },
+    "pack02:19988485": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988485",
+      "original": "Apply continuous HP Recovery to all allies.",
+      "translation": "Накладывает непрерывное восстановление ОЗ на всех союзников."
+    },
+    "pack02:19988486": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988486",
+      "original": "Restore a small amount of MP.",
+      "translation": "Восстанавливает небольшое количество ОМ."
+    },
+    "pack02:19988487": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988487",
+      "original": "Restore a small amount of HP.",
+      "translation": "Восстанавливает небольшое количество ОЗ."
+    },
+    "pack02:19988488": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988488",
+      "original": "Restore small amounts of HP and MP.",
+      "translation": "Восстанавливает небольшие количества ОЗ и ОМ."
+    },
+    "pack02:19988489": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988489",
+      "original": "Restore a medium amount of HP of all allies and increase DEF.",
+      "translation": "Восстанавливает среднее количество ОЗ всем союзникам и повышает ЗЩТ."
+    },
+    "pack02:19988490": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988490",
+      "original": "&lt;CLGR&gt;[Use Limit: 1]^00&lt;CLNR&gt;Revive from KO, and restore half of HP.",
+      "translation": "&lt;CLGR&gt;[Лимит использования: 1]^00&lt;CLNR&gt;Воскрешает из нокаута и восстанавливает половину ОЗ."
+    },
+    "pack02:19988491": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988491",
+      "original": "Increase the Recovery amount.",
+      "translation": "Увеличивает объём восстановления."
+    },
+    "pack02:19988492": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988492",
+      "original": "Reduce elemental damage inflicted against you.",
+      "translation": "Снижает стихийный урон, наносимый вам."
+    },
+    "pack02:19988493": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988493",
+      "original": "Increase the Recovery effects of Follow-up Skills.",
+      "translation": "Усиливает эффекты восстановления навыков поддержки."
+    },
+    "pack02:19988494": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988494",
+      "original": "Increase the damage of Battle Mix items.",
+      "translation": "Увеличивает урон предметов боевого синтеза."
+    },
+    "pack02:19988495": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988495",
+      "original": "Synthesize Archeus Anima and materials to instantly create and use an item.",
+      "translation": "Синтезирует Аркеус-анимы и материалы для мгновенного создания и использования предмета."
+    },
+    "pack02:19988496": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988496",
+      "original": "Fire bullets at the enemy.",
+      "translation": "Стреляет пулями по врагу."
+    },
+    "pack02:19988497": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988497",
+      "original": "Cause light damage to a single enemy.^00The wait time is short.",
+      "translation": "Наносит лёгкий урон одному врагу.^00Время ожидания короткое."
+    },
+    "pack02:19988498": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988498",
+      "original": "Cause medium damage to a single enemy and lower their DEF.^00The wait time is short.",
+      "translation": "Наносит средний урон одному врагу и снижает его ЗЩТ.^00Время ожидания короткое."
+    },
+    "pack02:19988499": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988499",
+      "original": "Cause medium damage to a single enemy with a small chance of killing them instantly.^00The wait time is short.",
+      "translation": "Наносит средний урон одному врагу с небольшим шансом мгновенно убить.^00Время ожидания короткое."
+    },
+    "pack02:19988500": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988500",
+      "original": "Cause medium damage to a single enemy.^00Increase power in proportion to speed.",
+      "translation": "Наносит средний урон одному врагу.^00Сила растёт пропорционально скорости."
+    },
+    "pack02:19988501": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988501",
+      "original": "Cause light damage to a single enemy.",
+      "translation": "Наносит лёгкий урон одному врагу."
+    },
+    "pack02:19988502": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988502",
+      "original": "Cause light damage to a single enemy.",
+      "translation": "Наносит лёгкий урон одному врагу."
+    },
+    "pack02:19988503": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988503",
+      "original": "Cause medium damage to all enemies.",
+      "translation": "Наносит средний урон всем врагам."
+    },
+    "pack02:19988504": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988504",
+      "original": "&lt;CLGR&gt;[Use Limit: 1]^00&lt;CLNR&gt;Cause heavy damage to a single enemy.",
+      "translation": "&lt;CLGR&gt;[Лимит использования: 1]^00&lt;CLNR&gt;Наносит тяжёлый урон одному врагу."
+    },
+    "pack02:19988505": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988505",
+      "original": "&lt;CLGR&gt;[Use Limit: 1]^00&lt;CLNR&gt;Cause massive damage to a single enemy.",
+      "translation": "&lt;CLGR&gt;[Лимит использования: 1]^00&lt;CLNR&gt;Наносит огромный урон одному врагу."
+    },
+    "pack02:19988506": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988506",
+      "original": "Increase SPD.",
+      "translation": "Повышает СКР."
+    },
+    "pack02:19988507": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988507",
+      "original": "Increase skill damage when acting as an Attacker.",
+      "translation": "Увеличивает урон навыков при роли атакующего."
+    },
+    "pack02:19988508": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988508",
+      "original": "Increase ATK when afflicted by a status ailment.",
+      "translation": "Повышает АТК при наложении негативного статуса."
+    },
+    "pack02:19988509": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988509",
+      "original": "Increase evasion chance against physical attacks.",
+      "translation": "Повышает шанс уклонения от физических атак."
+    },
+    "pack02:19988510": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988510",
+      "original": "Synthesize Archeus Anima and materials to instantly create and use an item.",
+      "translation": "Синтезирует Аркеус-анимы и материалы для мгновенного создания и использования предмета."
+    },
+    "pack02:19988511": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988511",
+      "original": "Fire arrows at the enemy.",
+      "translation": "Выпускает стрелы во врага."
+    },
+    "pack02:19988512": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988512",
+      "original": "Cause medium damage to all enemies.",
+      "translation": "Наносит средний урон всем врагам."
+    },
+    "pack02:19988513": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988513",
+      "original": "Cause medium damage to enemies in a large area.^00The larger the enemy, the greater the power.",
+      "translation": "Наносит средний урон врагам на большой площади.^00Чем крупнее враг, тем выше сила."
+    },
+    "pack02:19988514": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988514",
+      "original": "Cause medium damage to enemies in a large area.^00The fewer the targets, the greater the power.",
+      "translation": "Наносит средний урон врагам на большой площади.^00Чем меньше целей, тем выше сила."
+    },
+    "pack02:19988515": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988515",
+      "original": "Cause heavy damage to a single enemy.^00The smaller the enemy, the greater the power.",
+      "translation": "Наносит тяжёлый урон одному врагу.^00Чем мельче враг, тем выше сила."
+    },
+    "pack02:19988516": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988516",
+      "original": "&lt;CLGR&gt;[Use Limit: 1]^00&lt;CLNR&gt;Cause heavy Lightning damage to all enemies.",
+      "translation": "&lt;CLGR&gt;[Лимит использования: 1]^00&lt;CLNR&gt;Наносит тяжёлый урон молнией всем врагам."
+    },
+    "pack02:19988517": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988517",
+      "original": "&lt;CLGR&gt;[Use Limit: 1]^00&lt;CLNR&gt;Cause heavy Ice damage to all enemies.",
+      "translation": "&lt;CLGR&gt;[Лимит использования: 1]^00&lt;CLNR&gt;Наносит тяжёлый урон льдом всем врагам."
+    },
+    "pack02:19988518": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988518",
+      "original": "&lt;CLGR&gt;[Use Limit: 1]^00&lt;CLNR&gt;Cause heavy Fire damage to a single enemy.",
+      "translation": "&lt;CLGR&gt;[Лимит использования: 1]^00&lt;CLNR&gt;Наносит тяжёлый урон огнём одному врагу."
+    },
+    "pack02:19988519": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988519",
+      "original": "&lt;CLGR&gt;[Use Limit: 1]^00&lt;CLNR&gt;Cause heavy Air damage to a single enemy.",
+      "translation": "&lt;CLGR&gt;[Лимит использования: 1]^00&lt;CLNR&gt;Наносит тяжёлый урон воздухом одному врагу."
+    },
+    "pack02:19988520": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988520",
+      "original": "&lt;CLGR&gt;[Use Limit: 1]^00&lt;CLNR&gt;Cause massive damage to a single enemy.",
+      "translation": "&lt;CLGR&gt;[Лимит использования: 1]^00&lt;CLNR&gt;Наносит огромный урон одному врагу."
+    },
+    "pack02:19988521": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988521",
+      "original": "Increase resistance to ailments.",
+      "translation": "Повышает сопротивление негативным статусам."
+    },
+    "pack02:19988522": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988522",
+      "original": "Increase ATK and reduce damage taken from an enemy 3 levels or more higher than you.",
+      "translation": "Повышает АТК и снижает урон от врага на 3+ уровней выше вас."
+    },
+    "pack02:19988523": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988523",
+      "original": "Increase Follow-up Skill damage.",
+      "translation": "Увеличивает урон навыков поддержки."
+    },
+    "pack02:19988524": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988524",
+      "original": "Increase damage of special attacks.",
+      "translation": "Увеличивает урон специальных атак."
+    },
+    "pack02:19988525": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988525",
+      "original": "Protect the twins by taking damage on their behalf.",
+      "translation": "Защищает близнецов, принимая урон за них."
+    },
+    "pack02:19988526": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988526",
+      "original": "Attack by striking the enemy with a staff.",
+      "translation": "Атакует, ударяя врага посохом."
+    },
+    "pack02:19988527": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988527",
+      "original": "Cause light damage to a single enemy and stagger them.",
+      "translation": "Наносит лёгкий урон одному врагу и выводит его из строя."
+    },
+    "pack02:19988528": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988528",
+      "original": "Slow and cause light damage to all enemies.",
+      "translation": "Замедляет и наносит лёгкий урон всем врагам."
+    },
+    "pack02:19988529": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988529",
+      "original": "Cause medium damage to a single enemy and lower their ATK, DEF, and SPD.",
+      "translation": "Наносит средний урон одному врагу и снижает его АТК, ЗЩТ и СКР."
+    },
+    "pack02:19988530": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988530",
+      "original": "Reduce the target's level by 5.",
+      "translation": "Снижает уровень цели на 5."
+    },
+    "pack02:19988531": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988531",
+      "original": "Randomly apply 1 ailment to a single enemy.^00The stun level is high.",
+      "translation": "Случайно накладывает 1 негативный статус на одного врага.^00Уровень оглушения высокий."
+    },
+    "pack02:19988532": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988532",
+      "original": "Apply Poison to all enemies.^00The stun level is high.",
+      "translation": "Накладывает отравление на всех врагов.^00Уровень оглушения высокий."
+    },
+    "pack02:19988533": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988533",
+      "original": "Cause medium damage to all enemies and apply Poison.^00The stun level is high.",
+      "translation": "Наносит средний урон всем врагам и накладывает отравление.^00Уровень оглушения высокий."
+    },
+    "pack02:19988534": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988534",
+      "original": "Cause heavy damage to all enemies with a small chance of applying Mortal Poison.^00The stun level is high.",
+      "translation": "Наносит тяжёлый урон всем врагам с небольшим шансом наложить смертельный яд.^00Уровень оглушения высокий."
+    },
+    "pack02:19988535": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988535",
+      "original": "&lt;CLGR&gt;[Activate Chance]^00&lt;CLNR&gt;Cause massive damage to all enemies.^00The stun level is very high.",
+      "translation": "&lt;CLGR&gt;[Шанс активации]^00&lt;CLNR&gt;Наносит огромный урон всем врагам.^00Уровень оглушения очень высокий."
+    },
+    "pack02:19988536": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988536",
+      "original": "Increase power when using tools.",
+      "translation": "Увеличивает силу при использовании инструментов."
+    },
+    "pack02:19988537": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988537",
+      "original": "Reduce the increase in wait time when using tools.",
+      "translation": "Снижает увеличение времени ожидания при использовании инструментов."
+    },
+    "pack02:19988538": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988538",
+      "original": "Reduce damage received from enemies.",
+      "translation": "Снижает получаемый урон от врагов."
+    },
+    "pack02:19988539": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988539",
+      "original": "Increase the power of (Medicines).",
+      "translation": "Увеличивает силу (лекарств)."
+    },
+    "pack02:19988540": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988540",
+      "original": "Protect the twins by taking damage on their behalf.",
+      "translation": "Защищает близнецов, принимая урон за них."
+    },
+    "pack02:19988541": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988541",
+      "original": "Attack with a sword.",
+      "translation": "Атакует мечом."
+    },
+    "pack02:19988542": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988542",
+      "original": "Cause medium damage to enemies in a single row.",
+      "translation": "Наносит средний урон врагам в одном ряду."
+    },
+    "pack02:19988543": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988543",
+      "original": "Cause medium damage to enemies in a single column.",
+      "translation": "Наносит средний урон врагам в одном столбце."
+    },
+    "pack02:19988544": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988544",
+      "original": "&lt;CLGR&gt;[Status Change: Accel Guard]^00&lt;CLNR&gt;Increases DEF. Receive the focus of enemy attacks for 2 turns, restoring MP with damage taken.",
+      "translation": "&lt;CLGR&gt;[Смена статуса: Ускоренная защита]^00&lt;CLNR&gt;Повышает ЗЩТ. На 2 хода перенимает на себя атаки врагов, восстанавливая ОМ при получении урона."
+    },
+    "pack02:19988545": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988545",
+      "original": "&lt;CLGR&gt;[Status Change: Beast Mode]^00&lt;CLNR&gt;Double ATK, but reduces DEF to 0. The effect remains until KO’ed.",
+      "translation": "&lt;CLGR&gt;[Смена статуса: Звериный режим]^00&lt;CLNR&gt;Удваивает АТК, но снижает ЗЩТ до 0. Эффект сохраняется до нокаута."
+    },
+    "pack02:19988546": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988546",
+      "original": "Can only use when in Beast Mode.^00&lt;CLNR&gt;Cause massive damage to a single enemy and stun them.^00&lt;CLRE&gt;You will also become stunned after using it.",
+      "translation": "Доступен только в зверином режиме.^00&lt;CLNR&gt;Наносит огромный урон одному врагу и оглушает его.^00&lt;CLRE&gt;После использования вы тоже будете оглушены."
+    },
+    "pack02:19988547": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988547",
+      "original": "Increase DEF, and slightly reduce incoming damage.",
+      "translation": "Повышает ЗЩТ и слегка снижает получаемый урон."
+    },
+    "pack02:19988548": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988548",
+      "original": "Restore a large amount of HP.",
+      "translation": "Восстанавливает большое количество ОЗ."
+    },
+    "pack02:19988549": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988549",
+      "original": "Completely cure all ailments.",
+      "translation": "Полностью снимает все негативные статусы."
+    },
+    "pack02:19988550": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988550",
+      "original": "Reduce incoming damage significantly for all allies.",
+      "translation": "Значительно снижает получаемый урон для всех союзников."
+    },
+    "pack02:19988551": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988551",
+      "original": "Increase DEF.",
+      "translation": "Повышает ЗЩТ."
+    },
+    "pack02:19988552": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988552",
+      "original": "Increase Maximum HP.",
+      "translation": "Увеличивает максимум ОЗ."
+    },
+    "pack02:19988553": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988553",
+      "original": "Increase ATK when HP is below half.",
+      "translation": "Повышает АТК, когда ОЗ ниже половины."
+    },
+    "pack02:19988554": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988554",
+      "original": "Increase DEF when afflicted with an ailment.",
+      "translation": "Повышает ЗЩТ при наложении негативного статуса."
+    },
+    "pack02:19988555": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988555",
+      "original": "Protect the twins by taking damage on their behalf.",
+      "translation": "Защищает близнецов, принимая урон за них."
+    },
+    "pack02:19988556": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988556",
+      "original": "Summon a weapon to attack the enemy.",
+      "translation": "Призывает оружие для атаки врага."
+    },
+    "pack02:19988557": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988557",
+      "original": "Cause light Fire damage to enemies in a small area.^00Inflict additional damage proportionate to the Equipment Effect.",
+      "translation": "Наносит лёгкий урон огнём врагам на небольшой площади.^00Наносит дополнительный урон пропорционально эффекту снаряжения."
+    },
+    "pack02:19988558": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988558",
+      "original": "Cause light Ice damage to a single enemy.^00Inflict additional damage proportionate to the Equipment Effect.",
+      "translation": "Наносит лёгкий урон льдом одному врагу.^00Наносит дополнительный урон пропорционально эффекту снаряжения."
+    },
+    "pack02:19988559": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988559",
+      "original": "Cause light Lightning damage to a single enemy.^00Inflict additional damage proportionate to the Equipment Effect.",
+      "translation": "Наносит лёгкий урон молнией одному врагу.^00Наносит дополнительный урон пропорционально эффекту снаряжения."
+    },
+    "pack02:19988560": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988560",
+      "original": "Increase Equipment Effect massively but consume a large amount of HP.",
+      "translation": "Значительно повышает эффект снаряжения, но расходует много ОЗ."
+    },
+    "pack02:19988561": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988561",
+      "original": "Increase the Equipment Effect of all allies.",
+      "translation": "Повышает эффект снаряжения всех союзников."
+    },
+    "pack02:19988562": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988562",
+      "original": "Cause light damage to a single enemy.^00Inflict additional damage proportionate to the Equipment Effect.",
+      "translation": "Наносит лёгкий урон одному врагу.^00Наносит дополнительный урон пропорционально эффекту снаряжения."
+    },
+    "pack02:19988563": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988563",
+      "original": "Cause light damage to a single enemy.^00Inflict additional damage proportionate to the Equipment Effect.",
+      "translation": "Наносит лёгкий урон одному врагу.^00Наносит дополнительный урон пропорционально эффекту снаряжения."
+    },
+    "pack02:19988564": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988564",
+      "original": "Increase Equipment Effect.",
+      "translation": "Повышает эффект снаряжения."
+    },
+    "pack02:19988565": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988565",
+      "original": "&lt;CLGR&gt;[Activate Chance]^00&lt;CLNR&gt;Cause damage proportionate to the Equipment Effect against all enemies and add 1 status ailment.",
+      "translation": "&lt;CLGR&gt;[Шанс активации]^00&lt;CLNR&gt;Наносит урон всем врагам пропорционально эффекту снаряжения и накладывает 1 негативный статус."
+    },
+    "pack02:19988566": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988566",
+      "original": "Increase maximum MP.",
+      "translation": "Увеличивает максимум ОМ."
+    },
+    "pack02:19988567": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988567",
+      "original": "Increase Follow-up Skill damage.",
+      "translation": "Увеличивает урон навыков поддержки."
+    },
+    "pack02:19988568": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988568",
+      "original": "Reduce elemental damage inflicted against you.",
+      "translation": "Снижает стихийный урон, наносимый вам."
+    },
+    "pack02:19988569": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988569",
+      "original": "Increase Combination Arts damage.",
+      "translation": "Увеличивает урон комбинированных приёмов."
+    },
+    "pack02:19988570": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988570",
+      "original": "Protect the twins by taking damage on their behalf.",
+      "translation": "Защищает близнецов, принимая урон за них."
+    },
+    "pack02:19988571": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988571",
+      "original": "Attack by launching a beam of light.",
+      "translation": "Атакует, выпуская луч света."
+    },
+    "pack02:19988572": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988572",
+      "original": "Increase DEF of all allies, and slightly shorten wait time.",
+      "translation": "Повышает ЗЩТ всех союзников и слегка сокращает время ожидания."
+    },
+    "pack02:19988573": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988573",
+      "original": "Increase ATK of all allies, and slightly shorten wait time.",
+      "translation": "Повышает АТК всех союзников и слегка сокращает время ожидания."
+    },
+    "pack02:19988574": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988574",
+      "original": "Restore HP of all allies and activate 1 time card that shortens wait time.",
+      "translation": "Восстанавливает ОЗ всех союзников и активирует 1 карту времени, сокращающую время ожидания."
+    },
+    "pack02:19988575": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988575",
+      "original": "Increase ATK, DEF, and SPD of all allies and activate 1 time card that shortens wait time.",
+      "translation": "Повышает АТК, ЗЩТ и СКР всех союзников и активирует 1 карту времени, сокращающую время ожидания."
+    },
+    "pack02:19988576": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988576",
+      "original": "Reduce incoming damage and slightly fill the Combination Gauge.",
+      "translation": "Снижает получаемый урон и слегка заполняет шкалу комбинации."
+    },
+    "pack02:19988577": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988577",
+      "original": "Moderately restores the MP of all allies and activate 1 time card that slightly fills the Combination Gauge.",
+      "translation": "Умеренно восстанавливает ОМ всех союзников и активирует 1 карту времени, слегка заполняющую шкалу комбинации."
+    },
+    "pack02:19988578": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988578",
+      "original": "Remove any status ailments from all allies and activate 1 time card that fills the Combination Gauge.",
+      "translation": "Снимает негативные статусы со всех союзников и активирует 1 карту времени, заполняющую шкалу комбинации."
+    },
+    "pack02:19988579": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988579",
+      "original": "Activate 1 time card to continuously restore all allies' HP, and another time card to fill the Combination Gauge.",
+      "translation": "Активирует 1 карту времени для непрерывного восстановления ОЗ всех союзников и ещё одну — для заполнения шкалы комбинации."
+    },
+    "pack02:19988580": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988580",
+      "original": "Activate 1 time card that causes heavy damage to all enemies and stuns them.",
+      "translation": "Активирует 1 карту времени, наносящую тяжёлый урон всем врагам и оглушающую их."
+    },
+    "pack02:19988581": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988581",
+      "original": "Increase maximum MP.",
+      "translation": "Увеличивает максимум ОМ."
+    },
+    "pack02:19988582": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988582",
+      "original": "Restore a small amount of MP each turn.",
+      "translation": "Каждый ход восстанавливает небольшое количество ОМ."
+    },
+    "pack02:19988583": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988583",
+      "original": "Increase maximum MP.",
+      "translation": "Увеличивает максимум ОМ."
+    },
+    "pack02:19988584": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988584",
+      "original": "Gain a chance of avoiding being KO’ed when taking a fatal amount of damage.",
+      "translation": "Даёт шанс избежать нокаута при получении смертельного урона."
+    },
+    "pack02:19988585": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988585",
+      "original": "Protect the twins by taking damage on their behalf.",
+      "translation": "Защищает близнецов, принимая урон за них."
+    },
+    "pack02:19988586": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988586",
+      "original": "Synthesize Archeus Anima and materials to instantly create and use an item.",
+      "translation": "Синтезирует Аркеус-анимы и материалы для мгновенного создания и использования предмета."
+    },
+    "pack02:19988587": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988587",
+      "original": "Shoot fireballs at the enemy from a staff.",
+      "translation": "Выпускает огненные шары во врага из посоха."
+    },
+    "pack02:19988588": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988588",
+      "original": "Cause medium Fire damage to enemies in a small area. Gain a medium chance of causing Burns. The stun level is high.",
+      "translation": "Наносит средний урон огнём врагам на небольшой площади. Даёт средний шанс наложить ожог. Уровень оглушения высокий."
+    },
+    "pack02:19988589": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988589",
+      "original": "Restore a small amount of MP of all allies.",
+      "translation": "Восстанавливает небольшое количество ОМ всем союзникам."
+    },
+    "pack02:19988590": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988590",
+      "original": "Cause heavy Fire damage to a single enemy, and remove all enemy status changes. Inflict additional damage when enemy is powered up.",
+      "translation": "Наносит тяжёлый урон огнём одному врагу и снимает все статусные изменения врага. Наносит дополнительный урон, если враг усилен."
+    },
+    "pack02:19988591": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988591",
+      "original": "&lt;CLRE&gt;[HP consumption: 30%] [Stun Increase: 30%]^00&lt;CLNR&gt;Restore all MP. This skill does not use up a turn.",
+      "translation": "&lt;CLRE&gt;[Расход ОЗ: 30%] [Рост оглушения: 30%]^00&lt;CLNR&gt;Полностью восстанавливает ОМ. Этот навык не расходует ход."
+    },
+    "pack02:19988592": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988592",
+      "original": "Cause heavy Fire and Air damage to all enemies.",
+      "translation": "Наносит тяжёлый урон огнём и воздухом всем врагам."
+    },
+    "pack02:19988593": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988593",
+      "original": "Cause Fire and Basic damage to a single enemy.",
+      "translation": "Наносит урон огнём и обычный урон одному врагу."
+    },
+    "pack02:19988594": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988594",
+      "original": "Cause Fire and Lightning damage to a single enemy.",
+      "translation": "Наносит урон огнём и молнией одному врагу."
+    },
+    "pack02:19988595": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988595",
+      "original": "&lt;CLGR&gt;[Use Limit: 1]^00&lt;CLNR&gt;Cause Fire and Ice damage to a single enemy.",
+      "translation": "&lt;CLGR&gt;[Лимит использования: 1]^00&lt;CLNR&gt;Наносит урон огнём и льдом одному врагу."
+    },
+    "pack02:19988596": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988596",
+      "original": "&lt;CLGR&gt;[Activate Chance]^00&lt;CLNR&gt;Revive from KO, and restore half of HP.",
+      "translation": "&lt;CLGR&gt;[Шанс активации]^00&lt;CLNR&gt;Воскрешает из нокаута и восстанавливает половину ОЗ."
+    },
+    "pack02:19988597": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988597",
+      "original": "Increase Follow-up Skill damage.",
+      "translation": "Увеличивает урон навыков поддержки."
+    },
+    "pack02:19988598": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988598",
+      "original": "Increase maximum MP.",
+      "translation": "Увеличивает максимум ОМ."
+    },
+    "pack02:19988599": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988599",
+      "original": "Restore a small amount of MP each turn.",
+      "translation": "Каждый ход восстанавливает небольшое количество ОМ."
+    },
+    "pack02:19988600": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988600",
+      "original": "Increase Combination Arts damage.",
+      "translation": "Увеличивает урон комбинированных приёмов."
+    },
+    "pack02:19988601": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988601",
+      "original": "Protect the twins by taking damage on their behalf.",
+      "translation": "Защищает близнецов, принимая урон за них."
+    },
+    "pack02:19988602": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988602",
+      "original": "Synthesize Archeus Anima and materials to instantly create and use an item.",
+      "translation": "Синтезирует Аркеус-анимы и материалы для мгновенного создания и использования предмета."
+    },
+    "pack02:19988603": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988603",
+      "original": "&lt;CLGR&gt;[Combination: Lydie x Suelle]^00&lt;CLNR&gt;Cause massive damage to all enemies. Greatly delay the enemy’s turn.",
+      "translation": "&lt;CLGR&gt;[Комбинация: Лидия x Сью]^00&lt;CLNR&gt;Наносит огромный урон всем врагам. Сильно задерживает ход врага."
+    },
+    "pack02:19988604": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988604",
+      "original": "&lt;CLGR&gt;[Combination: Lydie x Sophie]^00&lt;CLNR&gt;Cause massive damage to a single enemy that ignores defenses, and reduce DEF greatly.",
+      "translation": "&lt;CLGR&gt;[Комбинация: Лидия x Софи]^00&lt;CLNR&gt;Наносит огромный урон одному врагу, игнорируя защиту, и сильно снижает ЗЩТ."
+    },
+    "pack02:19988605": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988605",
+      "original": "&lt;CLGR&gt;[Combination: Lydie x Alt]^00&lt;CLNR&gt;Stun all enemies and add 5 random ailments.",
+      "translation": "&lt;CLGR&gt;[Комбинация: Лидия x Альт]^00&lt;CLNR&gt;Оглушает всех врагов и накладывает 5 случайных негативных статусов."
+    },
+    "pack02:19988606": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988606",
+      "original": "&lt;CLGR&gt;[Combination: Suelle x Firis]^00&lt;CLNR&gt;Increase the levels of all allies by 5, and completely restore their stun levels.",
+      "translation": "&lt;CLGR&gt;[Комбинация: Сью x Фирис]^00&lt;CLNR&gt;Повышает уровни всех союзников на 5 и полностью восстанавливает их уровни оглушения."
+    },
+    "pack02:19988607": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988607",
+      "original": "&lt;CLGR&gt;[Combination: Suelle x Mathias]^00&lt;CLNR&gt;Cause massive damage to a single enemy.",
+      "translation": "&lt;CLGR&gt;[Комбинация: Сью x Матиас]^00&lt;CLNR&gt;Наносит огромный урон одному врагу."
+    },
+    "pack02:19988608": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988608",
+      "original": "&lt;CLGR&gt;[Combination: Sophie x Firis]^00&lt;CLNR&gt;Revive any KOs, remove ailments, and completely restore HP and MP while applying continuous recovery.",
+      "translation": "&lt;CLGR&gt;[Комбинация: Софи x Фирис]^00&lt;CLNR&gt;Воскрешает из нокаута, снимает негативные статусы и полностью восстанавливает ОЗ и ОМ, накладывая непрерывное восстановление."
+    },
+    "pack02:19988609": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988609",
+      "original": "&lt;CLGR&gt;[Combination: Alt x Mathias]^00&lt;CLNR&gt;Cause extreme damage to a single enemy, with a high chance of killing them instantly.",
+      "translation": "&lt;CLGR&gt;[Комбинация: Альт x Матиас]^00&lt;CLNR&gt;Наносит предельный урон одному врагу с высоким шансом мгновенно убить."
+    },
+    "pack02:19988610": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988610",
+      "original": "&lt;CLGR&gt;[Combination: Lucia x Lydie]^00&lt;CLNR&gt;Increase ATK, DEF, and SPD of all allies, and significantly increase max HP.",
+      "translation": "&lt;CLGR&gt;[Комбинация: Люсия x Лидия]^00&lt;CLNR&gt;Повышает АТК, ЗЩТ и СКР всех союзников и значительно увеличивает макс. ОЗ."
+    },
+    "pack02:19988611": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988611",
+      "original": "&lt;CLGR&gt;[Combination: Lucia x Suelle]^00&lt;CLNR&gt;Inflict damage against a single enemy and stagger them. Activate 2 time cards with the same effect.",
+      "translation": "&lt;CLGR&gt;[Комбинация: Люсия x Сью]^00&lt;CLNR&gt;Наносит урон одному врагу и выводит его из строя. Активирует 2 карты времени с тем же эффектом."
+    },
+    "pack02:19988612": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988612",
+      "original": "&lt;CLGR&gt;[Combination: Ilmeria x Firis]^00&lt;CLNR&gt;Cause heavy Fire damage to a single enemy. Reduce the target's level by 15.",
+      "translation": "&lt;CLGR&gt;[Комбинация: Ильмерия x Фирис]^00&lt;CLNR&gt;Наносит тяжёлый урон огнём одному врагу. Снижает уровень цели на 15."
+    },
+    "pack02:19988613": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988613",
+      "original": "&lt;CLGR&gt;[Combination: Ilmeria x Alt]^00&lt;CLNR&gt;Cause Fire damage to all enemies and activate a time card which causes damage proportionate to the Equipment Effect for 4 elements.",
+      "translation": "&lt;CLGR&gt;[Комбинация: Ильмерия x Альт]^00&lt;CLNR&gt;Наносит урон огнём всем врагам и активирует карту времени, наносящую урон пропорционально эффекту снаряжения для 4 стихий."
+    },
+    "pack02:19988614": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988614",
+      "original": "Afflicted by a powerful curse!",
+      "translation": "Наложено мощное проклятие!"
+    },
+    "pack02:19988615": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988615",
+      "original": "The power of the Twin Gods changes with the movement of the sky!",
+      "translation": "Мощь Близнецов-богов меняется с движением небес!"
+    },
+    "pack02:19988616": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988616",
+      "original": "Exhausted after discharging the electricity stored inside!",
+      "translation": "Истощение после разряда!"
+    },
+    "pack02:19988617": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988617",
+      "original": "A bewitching fog saps away strength!",
+      "translation": "Зачарованный туман высасывает силы!"
+    },
+    "pack02:19988618": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988618",
+      "original": "Entered preparations for a powerful attack!",
+      "translation": "Готовится к мощной атаке!"
+    },
+    "pack02:19988619": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988619",
+      "original": "The living Mystery Elixir flew out!",
+      "translation": "Явление живого Чудодейственного эликсира!"
+    },
+    "pack02:19988620": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988620",
+      "original": "Wounds close as fighting spirit is absorbed...!",
+      "translation": "Раны затягиваются по мере поглощения боевого духа!.."
+    },
+    "pack02:19988621": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988621",
+      "original": "Ripples run and water grows more violent!",
+      "translation": "По воде бегут круги, и она становится яростнее!"
+    },
+    "pack02:19988622": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988622",
+      "original": "The water forms a vortex, growing in strength!",
+      "translation": "Вода образует вихрь, увеличивая силу!"
+    },
+    "pack02:19988623": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988623",
+      "original": "The water washes all away, returning it to nothing!",
+      "translation": "Вода смывает всё, возвращая в небытие!"
+    },
+    "pack02:19988624": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988624",
+      "original": "Defeated...",
+      "translation": "Побеждённый..."
+    },
+    "pack02:19988625": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988625",
+      "original": "The dragon's wounds heal inside the barrier...!",
+      "translation": "Раны дракона затягиваются внутри барьера!.."
+    },
+    "pack02:19988626": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988626",
+      "original": "Morale reduced!",
+      "translation": "Мораль снижена!"
+    },
+    "pack02:19988627": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988627",
+      "original": "Consumption of strength amplified!",
+      "translation": "Расход ОМ увеличен!"
+    },
+    "pack02:19988628": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988628",
+      "original": "Item effects reduced!",
+      "translation": "Эффекты предметов снижены!"
+    },
+    "pack02:19988629": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988629",
+      "original": "Strength fills the body!",
+      "translation": "Тело наполняется силой!"
+    },
+    "pack02:19988630": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988630",
+      "original": "Deadly poison saps vitality!",
+      "translation": "Смертельный яд лишает сил!"
+    },
+    "pack02:19988631": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988631",
+      "original": "The body materializes!",
+      "translation": "Тело материализируется!"
+    },
+    "pack02:19988632": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988632",
+      "original": "Called back to the spirit world!",
+      "translation": "Возвращение в духовный мир!"
+    },
+    "pack02:19988633": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988633",
+      "original": "Enhancements neutralized!",
+      "translation": "Усиления обнулены!"
+    },
+    "pack02:19988634": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988634",
+      "original": "Turns greatly delayed!",
+      "translation": "Ход задержан!"
+    },
+    "pack02:19988635": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988635",
+      "original": "Vitality temporarily reduced!",
+      "translation": "Выносливость временно снижена!"
+    },
+    "pack02:19988636": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988636",
+      "original": "Vitality is very vulnerable!",
+      "translation": "Выносливость стала очень уязвимой!"
+    },
+    "pack02:19988637": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988637",
+      "original": "All enhancements neutralized!",
+      "translation": "Все усиления обнулены!"
+    },
+    "pack02:19988638": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988638",
+      "original": "Stats greatly reduced!",
+      "translation": "Характеристики снижены!"
+    },
+    "pack02:19988639": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988639",
+      "original": "Exposed to multiple malices!",
+      "translation": "Подвержен многочисленным наговорам!"
+    },
+    "pack02:19988640": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988640",
+      "original": "Exposed to countless malices!",
+      "translation": "Подвержен бесчисленным наговорам!"
+    },
+    "pack02:19988641": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988641",
+      "original": "Assaulted by sudden misfortune!",
+      "translation": "Явление внезапного несчастья!"
+    },
+    "pack02:19988642": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988642",
+      "original": "Flame of life mercilessly stolen!",
+      "translation": "Пламя жизни украдено!"
+    },
+    "pack02:19988643": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988643",
+      "original": "Pain is increased with physical troubles!",
+      "translation": "Боль усиливается от физических недугов!"
+    },
+    "pack02:19988644": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988644",
+      "original": "A lethal storm of mutation rages!",
+      "translation": "Бушует смертоносная буря мутации!"
+    },
+    "pack02:19988645": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988645",
+      "original": "Recovery is completely neutralized!",
+      "translation": "Восстановление полностью нейтрализовано!"
+    },
+    "pack02:19988646": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988646",
+      "original": "Cause Fire damage to the target, and add additional damage each turn.",
+      "translation": "Наносит цели огненный урон и каждый ход добавляет дополнительный урон."
+    },
+    "pack02:19988647": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988647",
+      "original": "Cause medium Fire damage to enemies within the area, and reduce DEF by a maximum of 15%.^00This effect normally lasts 3 turns.",
+      "translation": "Наносит врагам в зоне средний огненный урон и снижает ЗЩТ максимум на 15%.^00Обычно действует 3 хода."
+    },
+    "pack02:19988648": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988648",
+      "original": "Cause Fire damage to the target twice.",
+      "translation": "Дважды наносит цели огненный урон."
+    },
+    "pack02:19988649": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988649",
+      "original": "Cause Fire damage to all targets within the area, and greatly delay their turn.",
+      "translation": "Наносит всем целям в зоне огненный урон и сильно задерживает их ход."
+    },
+    "pack02:19988650": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988650",
+      "original": "Cause Ice damage to the target.",
+      "translation": "Наносит цели ледяной урон."
+    },
+    "pack02:19988651": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988651",
+      "original": "Cause Ice damage to all targets within the area, and reduce their SPD by a maximum of 25%.^00This effect normally lasts 3 turns.",
+      "translation": "Наносит всем целям в зоне ледяной урон и снижает их СКР максимум на 25%.^00Обычно действует 3 хода."
+    },
+    "pack02:19988652": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988652",
+      "original": "Cause Ice damage to the target once.",
+      "translation": "Один раз наносит цели ледяной урон."
+    },
+    "pack02:19988653": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988653",
+      "original": "Cause Ice damage to all targets within the area, with a chance of applying Slowness.",
+      "translation": "Наносит всем целям в зоне ледяной урон с шансом наложить «Замедление»."
+    },
+    "pack02:19988654": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988654",
+      "original": "Cause Lightning damage to the target.",
+      "translation": "Наносит цели молниеносный урон."
+    },
+    "pack02:19988655": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988655",
+      "original": "Cause Lightning damage to the target, with a chance of applying Immobility.",
+      "translation": "Наносит цели молниеносный урон с шансом наложить «Обездвиживание»."
+    },
+    "pack02:19988656": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988656",
+      "original": "Cause Lightning damage to all targets within the area once, with a chance of applying Immobility.",
+      "translation": "Один раз наносит всем целям в зоне молниеносный урон с шансом наложить «Обездвиживание»."
+    },
+    "pack02:19988657": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988657",
+      "original": "Causes Lightning damage to all targets within the area, with a chance of applying Weakness.",
+      "translation": "Наносит всем целям в зоне молниеносный урон с шансом наложить «Слабость»."
+    },
+    "pack02:19988658": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988658",
+      "original": "Cause Impact damage to all targets within the area and delay their turns slightly.",
+      "translation": "Наносит всем целям в зоне ударный урон и слегка задерживает их ходы."
+    },
+    "pack02:19988659": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988659",
+      "original": "Cause Impact damage to all targets within the area and delay their turns.",
+      "translation": "Наносит всем целям в зоне ударный урон и задерживает их ходы."
+    },
+    "pack02:19988660": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988660",
+      "original": "Cause Impact damage to all targets within the area and greatly delay their turns.",
+      "translation": "Наносит всем целям в зоне ударный урон и сильно задерживает их ходы."
+    },
+    "pack02:19988661": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988661",
+      "original": "Cause Magic damage to all targets within the area. This effect is unaffected by defenses.",
+      "translation": "Наносит всем целям в зоне магический урон. Не зависит от защиты."
+    },
+    "pack02:19988662": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988662",
+      "original": "Cause Impact and Fire damage to all targets within the area. The power is high, but it requires some time before activation.",
+      "translation": "Наносит всем целям в зоне ударный и огненный урон. Мощность высока, но требуется время на активацию."
+    },
+    "pack02:19988663": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988663",
+      "original": "Gain a chance to apply Seal and Blindness to the target.",
+      "translation": "Даёт шанс наложить на цель «Печать» и «Слепоту»."
+    },
+    "pack02:19988664": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988664",
+      "original": "Cause Magic damage to all targets within the area, with a chance of making them Immobile.",
+      "translation": "Наносит всем целям в зоне магический урон с шансом обездвижить их."
+    },
+    "pack02:19988665": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988665",
+      "original": "Cause Magic damage to all targets within the area, with a chance of applying Seal.",
+      "translation": "Наносит всем целям в зоне магический урон с шансом наложить «Печать»."
+    },
+    "pack02:19988666": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988666",
+      "original": "Gain a chance to apply Slowness and Weakness to the target.",
+      "translation": "Даёт шанс наложить на цель «Замедление» и «Слабость»."
+    },
+    "pack02:19988667": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988667",
+      "original": "Restore the HP of a single ally.^00The amount restored is proportionate to the attack of the user.",
+      "translation": "Восстанавливает ОЗ одному союзнику.^00Объём восстановления пропорционален атаке пользователя."
+    },
+    "pack02:19988668": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988668",
+      "original": "Restore the HP of all allies.^00The amount restored is proportionate to the attack of the user.",
+      "translation": "Восстанавливает ОЗ всем союзникам.^00Объём восстановления пропорционален атаке пользователя."
+    },
+    "pack02:19988669": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988669",
+      "original": "Restore the HP of a single ally and cure up to 2 ailments.^00The amount restored is proportionate to the attack of the user.",
+      "translation": "Восстанавливает ОЗ одному союзнику и снимает до 2 недугов.^00Объём восстановления пропорционален атаке пользователя."
+    },
+    "pack02:19988670": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988670",
+      "original": "Increase SPD of a single ally by up to 15% and reduce the wait time after their turn by 15%.^00This effect normally lasts 3 turns.",
+      "translation": "Повышает СКР одного союзника до 15% и сокращает время ожидания после его хода на 15%.^00Обычно действует 3 хода."
+    },
+    "pack02:19988671": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988671",
+      "original": "Increase ATK of a single ally by up to 15% and increase their basic damage by 15%.^00This effect normally lasts 3 turns.",
+      "translation": "Повышает АТК одного союзника до 15% и увеличивает его базовый урон на 15%.^00Обычно действует 3 хода."
+    },
+    "pack02:19988672": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988672",
+      "original": "Increase DEF of a single ally by up to 15% and reduce damage by 25% for one time only.^00This effect normally lasts 3 turns.",
+      "translation": "Повышает ЗЩТ одного союзника до 15% и один раз снижает урон на 25%.^00Обычно действует 3 хода."
+    },
+    "pack02:19988673": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988673",
+      "original": "Restore HP of all allies.",
+      "translation": "Восстанавливает ОЗ всем союзникам."
+    },
+    "pack02:19988674": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988674",
+      "original": "&lt;CLGR&gt;[Activate Chance]^00&lt;CLNR&gt;Increase ATK of all allies and restore stun levels.",
+      "translation": "&lt;CLGR&gt;[Шанс активации]^00&lt;CLNR&gt;Повышает АТК всех союзников и восстанавливает уровни оглушения."
+    },
+    "pack02:19988675": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988675",
+      "original": "Largely increase ATK and SPD of a single ally.",
+      "translation": "Значительно повышает АТК и СКР одного союзника."
+    },
+    "pack02:19988676": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988676",
+      "original": "Cause damage proportionate to SPD value to all enemies and stagger them.^00The wait time is short.",
+      "translation": "Наносит всем врагам урон, пропорциональный значению СКР, и шатает их.^00Время ожидания короткое."
+    },
+    "pack02:19988677": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988677",
+      "original": "Cause damage to a single enemy. Very high critical rate and stun levels.",
+      "translation": "Наносит урон одному врагу. Очень высокий шанс крит. удара и уровни оглушения."
+    },
+    "pack02:19988678": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988678",
+      "original": "&lt;CLGR&gt;[Use Limit: 1]^00&lt;CLNR&gt;Cause heavy damage to all enemies.",
+      "translation": "&lt;CLGR&gt;[Лимит использования: 1]^00&lt;CLNR&gt;Наносит всем врагам тяжёлый урон."
+    },
+    "pack02:19988679": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988679",
+      "original": "Cause heavy Magic and Physical damage to a single enemy.",
+      "translation": "Наносит одному врагу тяжёлый магический и физический урон."
+    },
+    "pack02:19988680": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988680",
+      "original": "&lt;CLGR&gt;[Use Limit: 1]^00&lt;CLNR&gt;Cause heavy Fire and Lightning damage to a single enemy.",
+      "translation": "&lt;CLGR&gt;[Лимит использования: 1]^00&lt;CLNR&gt;Наносит одному врагу тяжёлый огненный и молниеносный урон."
+    },
+    "pack02:19988681": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988681",
+      "original": "&lt;CLGR&gt;[Use Limit: 1]^00&lt;CLNR&gt;Cause heavy Ice and Air damage to all enemies.",
+      "translation": "&lt;CLGR&gt;[Лимит использования: 1]^00&lt;CLNR&gt;Наносит всем врагам тяжёлый ледяной и воздушный урон."
+    },
+    "pack02:19988682": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988682",
+      "original": "Cause Magic damage to a single enemy and heavily stagger them.^00The stun level is high.",
+      "translation": "Наносит одному врагу магический урон и сильно шатает его.^00Высокий уровень оглушения."
+    },
+    "pack02:19988683": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988683",
+      "original": "Cause Physical damage to all enemies and strongly decrease the critical rate.^00The stun level is high.",
+      "translation": "Наносит всем врагам физический урон и сильно снижает шанс крит. удара.^00Высокий уровень оглушения."
+    },
+    "pack02:19988684": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988684",
+      "original": "&lt;CLGR&gt;[Activate Chance] [Use Limit: 1]^00&lt;CLNR&gt;Cause damage to all enemies and heavily decrease their ATK, DEF, and SPD.",
+      "translation": "&lt;CLGR&gt;[Шанс активации] [Лимит использования: 1]^00&lt;CLNR&gt;Наносит всем врагам урон и сильно снижает их АТК, ЗЩТ и СКР."
+    },
+    "pack02:19988685": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988685",
+      "original": "Make all allies receive considerably less damage the next time they are attacked.",
+      "translation": "Все союзники получают значительно меньше урона при следующей атаке."
+    },
+    "pack02:19988686": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988686",
+      "original": "Cause damage to a single enemy.",
+      "translation": "Наносит урон одному врагу."
+    },
+    "pack02:19988687": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988687",
+      "original": "&lt;CLGR&gt;[Use Limit: 1]^00&lt;CLNR&gt;Cause damage to a single enemy with a chance of instant death.",
+      "translation": "&lt;CLGR&gt;[Лимит использования: 1]^00&lt;CLNR&gt;Наносит одному врагу урон с шансом мгновенной смерти."
+    },
+    "pack02:19988688": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988688",
+      "original": "Cause Air damage to all enemies.^00Inflict additional damage proportionate to the Equipment Effect.",
+      "translation": "Наносит всем врагам воздушный урон.^00Наносит дополнительный урон, пропорциональный эффекту снаряжения."
+    },
+    "pack02:19988689": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988689",
+      "original": "Cause damage to a single enemy proportionate to their Equipment Effect.^00The stun level is high.",
+      "translation": "Наносит одному врагу урон, пропорциональный его эффекту снаряжения.^00Высокий уровень оглушения."
+    },
+    "pack02:19988690": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988690",
+      "original": "&lt;CLGR&gt;[Use Limit: 1]^00&lt;CLNR&gt;Cause damage to all enemies and inflict additional damage proportionate to the Equipment Effect.",
+      "translation": "&lt;CLGR&gt;[Лимит использования: 1]^00&lt;CLNR&gt;Наносит всем врагам урон и дополнительный урон, пропорциональный эффекту снаряжения."
+    },
+    "pack02:19988691": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988691",
+      "original": "Activate 1 time card that greatly shortens wait time of all allies.",
+      "translation": "Активирует 1 карту времени, которая сильно сокращает время ожидания всех союзников."
+    },
+    "pack02:19988692": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988692",
+      "original": "Increase SPD of a single ally, and build up the Combination Gauge slightly.",
+      "translation": "Повышает СКР одного союзника и слегка заполняет шкалу комбинированных приёмов."
+    },
+    "pack02:19988693": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988693",
+      "original": "Cause damage to all enemies proportionate to the number of time cards activated.",
+      "translation": "Наносит всем врагам урон, пропорциональный числу активированных карт времени."
+    },
+    "pack02:19988694": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988694",
+      "original": "&lt;CLRE&gt;[HP consumption: 30%] [Stun Increase: 50%]^00&lt;CLNR&gt;Greatly increase your own ATK. This skill does not use up a turn.",
+      "translation": "&lt;CLRE&gt;[Расход ОЗ: 30%] [Повышение оглушения: 50%]^00&lt;CLNR&gt;Значительно повышает собственную АТК. Навык не расходует ход."
+    },
+    "pack02:19988695": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988695",
+      "original": "Cause extreme Fire and Basic damage to all enemies. The fewer enemies there are, the stronger the effect.",
+      "translation": "Наносит всем врагам предельный огненный и базовый урон. Чем меньше врагов, тем сильнее эффект."
+    },
+    "pack02:19988696": {
+      "source": "pack02_text_en",
+      "file": "str_action_comment.xml",
+      "string_no": "19988696",
+      "original": "Cause Fire damage to a single enemy and stagger them.",
+      "translation": "Наносит одному врагу огненный урон и шатает его."
+    }
+  }
+}

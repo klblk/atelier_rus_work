@@ -1,0 +1,416 @@
+{
+  "version": 1,
+  "source": "pack01_ebm",
+  "block": "xf06",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "ebm:xf06/event_message_xf06_010.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_010.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "Whispering voices mutter rumors from amid the trees.",
+      "translation": "Шепчущие голоса доносят слухи из-за деревьев."
+    },
+    "ebm:xf06/event_message_xf06_010.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_010.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": "From the glooming darkness, you sense the eyes of someone,<CR>something... watching you.",
+      "translation": "Из мрачной тьмы ты чувствуешь чьи-то глаза, <CR>что-то… наблюдающее за тобой."
+    },
+    "ebm:xf06/event_message_xf06_010.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_010.ebm",
+      "index": 2,
+      "speaker": "System",
+      "original": "Looking around, those gnarly trees are all you can see.<CR>All who visit this place are bound to feel the same breath of fear.",
+      "translation": "Оглянувшись вокруг, вы увидите только эти корявые деревья.<CR>Все, кто посещают это место, обязательно почувствуют одно и то же дыхание страха."
+    },
+    "ebm:xf06/event_message_xf06_010.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_010.ebm",
+      "index": 3,
+      "speaker": "System",
+      "original": "And with good reason. For this place is the intersection<CR>between the world of living and the spectral plain.",
+      "translation": "И не без оснований. Ибо это место является пересечением<CR>между миром живых и призрачной равниной."
+    },
+    "ebm:xf06/event_message_xf06_010.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_010.ebm",
+      "index": 4,
+      "speaker": "System",
+      "original": "This is the Spooky Forest.<CR>Beware of the tricks that might be played on you here...",
+      "translation": "Это Жуткий Лес.<CR>Остерегайтесь шуток, которые могут быть с вами здесь сыграны..."
+    },
+    "ebm:xf06/event_message_xf06_020.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_020.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "A tranquil and cold grotto of eternal winter.<CR>Here bloom the ice flowers of crystals.",
+      "translation": "Спокойный и холодный грот вечной зимы.<CR>Здесь цветут ледяные цветы кристаллов."
+    },
+    "ebm:xf06/event_message_xf06_020.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_020.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": "The passage of time has polished the ice walls clear,<CR>unleashing relentless glimmer.",
+      "translation": "С течением времени ледяные стены отполировались до чистоты, <CR>высвобождая неумолимое мерцание."
+    },
+    "ebm:xf06/event_message_xf06_020.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_020.ebm",
+      "index": 2,
+      "speaker": "System",
+      "original": "They almost look like a glossy mirror.<CR>However, you'll have no time to stop and admire your reflection.",
+      "translation": "Они почти похожи на глянцевое зеркало.<CR>Однако у вас не будет времени остановиться и полюбоваться своим отражением."
+    },
+    "ebm:xf06/event_message_xf06_020.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_020.ebm",
+      "index": 3,
+      "speaker": "System",
+      "original": "Just as every rose has its thorn,<CR>dark shadows watch intently from between the frosty blossoms.",
+      "translation": "Как у каждой розы есть шип,<CR>так и тёмные тени пристально наблюдают из-за морозных цветов."
+    },
+    "ebm:xf06/event_message_xf06_020.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_020.ebm",
+      "index": 4,
+      "speaker": "System",
+      "original": "The Luminous Ice Grotto is guarded by the Ruler of Hoarfrost.<CR>So what kind of future does the ice here truly reflect?...",
+      "translation": "Светящийся Ледяной Грот охраняет Повелитель Инея.<CR>Так какое будущее на самом деле отражает здешний лед?..."
+    },
+    "ebm:xf06/event_message_xf06_030.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_030.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "With a grating roar, there pours forth a rain of vivid red.",
+      "translation": "С резким ревом льется ярко-красный дождь."
+    },
+    "ebm:xf06/event_message_xf06_030.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_030.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": "The endless, tumbling flow of molten rock scorches the sky,<CR>parches the land, becoming a sea of fire.",
+      "translation": "Бесконечный, падающий поток расплавленной породы опаляет небо, <CR> высушивает землю, превращаясь в море огня."
+    },
+    "ebm:xf06/event_message_xf06_030.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_030.ebm",
+      "index": 2,
+      "speaker": "System",
+      "original": "Amid this tumult of engulfing flame,<CR>no seed of life can hope to find purchase.",
+      "translation": "Среди этого буйства охватывающего пламени <CR>ни одно семя жизни не может надеяться найти опору."
+    },
+    "ebm:xf06/event_message_xf06_030.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_030.ebm",
+      "index": 3,
+      "speaker": "System",
+      "original": "Backed by dragon's roars, this world heads into destruction.<CR>Will you stand witness to that fate?",
+      "translation": "Под реву дракона этот мир движется к разрушению.<CR>Сможете ли вы стать свидетелем этой судьбы?"
+    },
+    "ebm:xf06/event_message_xf06_030.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_030.ebm",
+      "index": 4,
+      "speaker": "System",
+      "original": "Land of the red apocalypse, The Great Cascades of Anfel.<CR>If only some salvation could be found...",
+      "translation": "Земля красного апокалипсиса, Великие каскады Анфела.<CR>Если бы только можно было найти какое-то спасение..."
+    },
+    "ebm:xf06/event_message_xf06_040.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_040.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "A white forest, and a frozen manor standing silently<CR>among the frost covered trees​.",
+      "translation": "Белый лес и замёрзшая усадьба, молча стоящая<CR> среди покрытых инеем деревьев."
+    },
+    "ebm:xf06/event_message_xf06_040.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_040.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": "The floor, walls, and even time, are all frozen here,<CR>simply existing, encased in a rime of ice.",
+      "translation": "Пол, стены и даже время здесь заморожены, <CR>просто существуют, окруженные инеем льда."
+    },
+    "ebm:xf06/event_message_xf06_040.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_040.ebm",
+      "index": 2,
+      "speaker": "System",
+      "original": "A lone girl lives in the spacious manor,<CR>but her heart, too, is frozen shut in the ice.",
+      "translation": "В просторном поместье живет одинокая девушка, <CR>, но ее сердце тоже замерзло во льду."
+    },
+    "ebm:xf06/event_message_xf06_040.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_040.ebm",
+      "index": 3,
+      "speaker": "System",
+      "original": "Which would make sense. For she is the one<CR>who created this cold world, just as she wished it to be.",
+      "translation": "Это имело бы смысл. Потому что именно она<CR> создала этот холодный мир таким, каким она хотела его видеть."
+    },
+    "ebm:xf06/event_message_xf06_040.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_040.ebm",
+      "index": 4,
+      "speaker": "System",
+      "original": "The Frozen Palace, created by a certain girl...<CR>Will a thaw ever come to this icebound land?",
+      "translation": "Ледяной дворец, созданный некой девушкой...<CR>Придет ли когда-нибудь оттепель на эту скованную льдом землю?"
+    },
+    "ebm:xf06/event_message_xf06_050.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_050.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "The ocean, heaving with raging waves.<CR>Above it flutters the black flag of a pirate vessel.",
+      "translation": "Океан, вздымающийся бушующими волнами.<CR>Над ним развевается черный флаг пиратского судна."
+    },
+    "ebm:xf06/event_message_xf06_050.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_050.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": "In these brigand infested waters, there is known a legend<CR>of one pirate who rose above all others.",
+      "translation": "В этих кишащих разбойниками водах известна легенда<CR> об одном пирате, который возвысился над всеми остальными."
+    },
+    "ebm:xf06/event_message_xf06_050.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_050.ebm",
+      "index": 2,
+      "speaker": "System",
+      "original": "Setting aflame anything in his way, and drowning in riches,<CR>there was one known by the name... Burning Backen.",
+      "translation": "Поджигая все на своем пути и тонув в богатстве,<CR>был один, известный по имени... Пылающий Бакен."
+    },
+    "ebm:xf06/event_message_xf06_050.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_050.ebm",
+      "index": 3,
+      "speaker": "System",
+      "original": "All pirates still seek his most valuable treasures,<CR>hidden somewhere in a cave below the sea waters.",
+      "translation": "Все пираты до сих пор ищут его самые ценные сокровища,<CR>спрятанные где-то в пещере под морскими водами."
+    },
+    "ebm:xf06/event_message_xf06_050.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_050.ebm",
+      "index": 4,
+      "speaker": "System",
+      "original": "The so-called Treasury at the Sea Bottom,<CR>where the great pirate treasure supposedly still slumbers...",
+      "translation": "Так называемая Сокровищница на морском дне, <CR>, где предположительно до сих пор дремлет великое пиратское сокровище..."
+    },
+    "ebm:xf06/event_message_xf06_060.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_060.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "In reality, time can only move one way.<CR>Like an arrow, it simply shoots forward.",
+      "translation": "На самом деле время может двигаться только в одну сторону.<CR>Как стрела, оно просто устремляется вперёд."
+    },
+    "ebm:xf06/event_message_xf06_060.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_060.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": "But what if a world existed in which that was not the case?<CR>If you could meet your lost past again?",
+      "translation": "Но что, если бы существовал мир, в котором это было не так?<CR>Если бы вы могли снова встретиться со своим потерянным прошлым?"
+    },
+    "ebm:xf06/event_message_xf06_060.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_060.ebm",
+      "index": 2,
+      "speaker": "System",
+      "original": "Joy, anger, sadness, pleasures.<CR>What time of their life would a traveler seek to encounter again?",
+      "translation": "Радость, гнев, печаль, удовольствия.<CR>Какое время своей жизни путешественник хотел бы увидеть снова?"
+    },
+    "ebm:xf06/event_message_xf06_060.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_060.ebm",
+      "index": 3,
+      "speaker": "System",
+      "original": "However, one thing must never be forgotten.<CR>The past is gone. And it can never be changed.",
+      "translation": "Однако никогда нельзя забывать одну вещь.<CR>Прошлое ушло. И это никогда не изменить."
+    },
+    "ebm:xf06/event_message_xf06_060.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_060.ebm",
+      "index": 4,
+      "speaker": "System",
+      "original": "This fickle depiction of time, \"Etel Nepica\".<CR>When faced with the ghosts of the time past, how will you react?",
+      "translation": "Это непостоянное изображение времени, «Этель Непика».<CR>Как вы отреагируете, столкнувшись с призраками прошлого?"
+    },
+    "ebm:xf06/event_message_xf06_070.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_070.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "This is a painting created by someone I love.<CR>Someone who thinks so much of me. A special place.",
+      "translation": "Это картина, созданная человеком, которого я люблю.<CR>Тем, кто так много обо мне думает. Особое место."
+    },
+    "ebm:xf06/event_message_xf06_070.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_070.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": "The floating clouds, and the flower fields swaying in the breeze.<CR>All so lovely, and so wonderful.",
+      "translation": "Плывущие облака и цветочные поля, колышущиеся на ветру.<CR>Все так мило и так чудесно."
+    },
+    "ebm:xf06/event_message_xf06_070.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_070.ebm",
+      "index": 2,
+      "speaker": "System",
+      "original": "But even here, in this fabulous place,<CR>I can still feel a hole left in my heart.",
+      "translation": "Но даже здесь, в этом сказочном месте,<CR>я всё ещё чувствую дыру в своём сердце."
+    },
+    "ebm:xf06/event_message_xf06_070.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_070.ebm",
+      "index": 3,
+      "speaker": "System",
+      "original": "My treasures, the ones capable of filling that hole,<CR>have been gone from my life for too long.",
+      "translation": "Мои сокровища, способные заполнить эту дыру, <CR> слишком надолго исчезли из моей жизни."
+    },
+    "ebm:xf06/event_message_xf06_070.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_070.ebm",
+      "index": 4,
+      "speaker": "System",
+      "original": "I will walk these flower fields again today,<CR>hoping to see even a glimpse of them. Hoping for a miracle.",
+      "translation": "Сегодня я снова пройдусь по этим цветочным полям,<CR>надеюсь увидеть их хотя бы мельком. Надеясь на чудо."
+    },
+    "ebm:xf06/event_message_xf06_070.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_070.ebm",
+      "index": 5,
+      "speaker": "System",
+      "original": "A paradise of clouds and flowers. The \"Heavenly Flower Garden\".<CR>Lydie... Suelle... How are you both?",
+      "translation": "Рай облаков и цветов. «Небесный цветочный сад».<CR>Лиди... Сюэль... Как вы обе?"
+    },
+    "ebm:xf06/event_message_xf06_080.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_080.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "A countless number of shiny star shards rained down on a vast plain.<CR>They were the blessings from the heavens that gave them life.",
+      "translation": "Бесчисленное количество блестящих осколков звезд упало на обширную равнину.<CR>Это были благословения небес, давшие им жизнь."
+    },
+    "ebm:xf06/event_message_xf06_080.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_080.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": "The falling stars plow the land, become part of it,<CR>and cover the fields in a myriad of flowers to match the night sky.",
+      "translation": "Падающие звезды пашут землю, становятся ее частью<CR> и покрывают поля мириадами цветов, гармонирующих с ночным небом."
+    },
+    "ebm:xf06/event_message_xf06_080.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_080.ebm",
+      "index": 2,
+      "speaker": "System",
+      "original": "Every night, the Star Flowers on the ground think of their birthplace above them.",
+      "translation": "Каждую ночь Звездные Цветы на земле думают о месте своего рождения над ними."
+    },
+    "ebm:xf06/event_message_xf06_080.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_080.ebm",
+      "index": 3,
+      "speaker": "System",
+      "original": "They can never go back, but it seems so close, almost reachable,<CR>if only they were to spread their leaves far enough...",
+      "translation": "Они никогда не смогут вернуться назад, но кажется, что это так близко, почти достижимо, <CR>, если бы только они раскинули свои листья достаточно далеко..."
+    },
+    "ebm:xf06/event_message_xf06_080.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_080.ebm",
+      "index": 4,
+      "speaker": "System",
+      "original": "In Starlight Plain, both the land and the sky are full of stars,<CR>and their light illuminates the important things within your heart.",
+      "translation": "На Звездной равнине и земля, и небо полны звезд,<CR>, и их свет освещает важные вещи в вашем сердце."
+    },
+    "ebm:xf06/event_message_xf06_090.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_090.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "Powerful emotions can call on miracles. But, on the opposite side of the coin,<CR>they can also bring out unyielding crookedness.",
+      "translation": "Сильные эмоции могут вызвать чудеса. Но, с другой стороны, <CR> они также могут выявить непреклонную кривость."
+    },
+    "ebm:xf06/event_message_xf06_090.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_090.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": "Here, lies endless darkness.<CR>Here, grieves the world painted over with black.",
+      "translation": "Здесь лежит бесконечная тьма.<CR>Здесь скорбит мир, закрашенный черным."
+    },
+    "ebm:xf06/event_message_xf06_090.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_090.ebm",
+      "index": 2,
+      "speaker": "System",
+      "original": "Even the voice of bitter resentment will eventually dry out,<CR>sinking into nothingness with everything else.",
+      "translation": "Даже голос горькой обиды со временем засохнет, <CR> канет в небытие вместе со всем остальным."
+    },
+    "ebm:xf06/event_message_xf06_090.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_090.ebm",
+      "index": 3,
+      "speaker": "System",
+      "original": "The Black Horizon. This is the conclusion of this Mysterious Painting<CR>of distorted and broken miracles, a world ruled only by black and white.",
+      "translation": "Черный горизонт. Таков вывод этой Таинственной Картины <CR> искаженных и разбитых чудес, мира, которым правят только черное и белое."
+    },
+    "ebm:xf06/event_message_xf06_090.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_090.ebm",
+      "index": 4,
+      "speaker": "System",
+      "original": "Lydie, Suelle... Please, be careful.",
+      "translation": "Лиди, Сюэль... Пожалуйста, будьте осторожны."
+    },
+    "ebm:xf06/event_message_xf06_100.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_100.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "This is a world created by a certain Goddess.<CR>As if painted by the final moments of the setting sun,<CR>this world is covered in darkness and crimson.",
+      "translation": "Это мир, созданный некой Богиней.<CR>Как будто нарисованный последними мгновениями заходящего солнца,<CR>этот мир покрыт тьмой и малиновым цветом."
+    },
+    "ebm:xf06/event_message_xf06_100.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_100.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": "This is a world forged by a certain Goddess.<CR>A world of controversy, which rejects all intruders while craving for their company.",
+      "translation": "Это мир, созданный некой Богиней.<CR>Мир противоречий, который отвергает всех злоумышленников, но жаждет их компании."
+    },
+    "ebm:xf06/event_message_xf06_100.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_100.ebm",
+      "index": 2,
+      "speaker": "System",
+      "original": "A holder of superfluous power,<CR>She wished to be surrounded by solitude, because of that power.",
+      "translation": "Обладательница избыточной силы,<CR>Она хотела быть окруженной одиночеством из-за этой силы."
+    },
+    "ebm:xf06/event_message_xf06_100.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_100.ebm",
+      "index": 3,
+      "speaker": "System",
+      "original": "And yet, that solitude She had wished for,<CR>is now the very thing that suffocates her.",
+      "translation": "И все же то одиночество, которого Она желала, <CR> теперь является именно тем, что душит ее."
+    },
+    "ebm:xf06/event_message_xf06_100.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "xf06/event_message_xf06_100.ebm",
+      "index": 4,
+      "speaker": "System",
+      "original": "The Domain of Despair rejects any connections to the outside world,<CR>to protect the heart of its Crimson Goddess...",
+      "translation": "Области Отчаяния отвергают любые связи с внешним миром, <CR>, чтобы защитить сердце своей Багровой Богини..."
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "source": "pack01_ebm",
+  "block": "xf02",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "ebm:xf02/event_message_xf02_140.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xf02/event_message_xf02_140.ebm",
+      "index": 0,
+      "speaker": "Alt's Passionate Fan",
+      "original": "Ah, you're back! Let the fighting begin again!",
+      "translation": "Ах, ты вернулся! Пусть боевые действия начнутся снова!"
+    },
+    "ebm:xf02/event_message_xf02_150.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xf02/event_message_xf02_150.ebm",
+      "index": 0,
+      "speaker": "Alt's Passionate Fan",
+      "original": "That was fun! Thanks for playing with me! Here's a token of my thanks. Haaaaaaaaaah! Hah!",
+      "translation": "Это было весело! Спасибо, что играете со мной! Вот знак моей благодарности. Хаааааааа! Ха!"
+    },
+    "ebm:xf02/event_message_xf02_150.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "xf02/event_message_xf02_150.ebm",
+      "index": 1,
+      "speaker": "Alt's Passionate Fan",
+      "original": "Right, I'm going to nap for a while. Please do come again.",
+      "translation": "Ладно, я собираюсь немного вздремнуть. Пожалуйста, приходите еще раз."
+    },
+    "ebm:xf02/event_message_xf02_160.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xf02/event_message_xf02_160.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "Dummy",
+      "translation": "Дурачок"
+    },
+    "ebm:xf02/event_message_xf02_190.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xf02/event_message_xf02_190.ebm",
+      "index": 0,
+      "speaker": "Firis",
+      "original": "Hehehe. What do you say about some special training with me?",
+      "translation": "Хе-хе-хе. Что ты скажешь о какой-то специальной тренировке со мной?"
+    },
+    "ebm:xf02/event_message_xf02_190.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "xf02/event_message_xf02_190.ebm",
+      "index": 1,
+      "speaker": "Firis",
+      "original": "Ugh! There's no one but me here! I can't just fight myself!",
+      "translation": "Фу! Здесь нет никого, кроме меня! Я не могу просто бороться с собой!"
+    },
+    "ebm:xf02/event_message_xf02_200.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xf02/event_message_xf02_200.ebm",
+      "index": 0,
+      "speaker": "Firis",
+      "original": "Uwah, I lost? I'll win next time, you'll see!",
+      "translation": "Ух, я проиграл? В следующий раз я выиграю, вот увидишь!"
+    },
+    "ebm:xf02/event_message_xf02_210.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xf02/event_message_xf02_210.ebm",
+      "index": 0,
+      "speaker": "Firis",
+      "original": "Heheh, you've still got a way to go! Come back any time!",
+      "translation": "Хе-хе, тебе еще есть куда идти! Возвращайся в любое время!"
+    },
+    "ebm:xf02/event_message_xf02_230.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xf02/event_message_xf02_230.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "The download of required data has not been completed.",
+      "translation": "Загрузка необходимых данных не завершена."
+    },
+    "ebm:xf02/event_message_xf02_230.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "xf02/event_message_xf02_230.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": "You will not be able to progress the story. Begin the game anyway?",
+      "translation": "Вы не сможете продвигать историю. Все равно начать игру?"
+    },
+    "ebm:xf02/event_message_xf02_230.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "xf02/event_message_xf02_230.ebm",
+      "index": 2,
+      "speaker": "System",
+      "original": "Return to the title screen?",
+      "translation": "Вернуться к титульному экрану?"
+    },
+    "ebm:xf02/event_message_xf02_230.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "xf02/event_message_xf02_230.ebm",
+      "index": 3,
+      "speaker": "System",
+      "original": "The download of the data has been completed. Please enjoy the rest of the story.",
+      "translation": "Загрузка данных завершена. Пожалуйста, наслаждайтесь остальной частью истории."
+    },
+    "ebm:xf02/event_message_xf02_230.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "xf02/event_message_xf02_230.ebm",
+      "index": 4,
+      "speaker": "System",
+      "original": "You will be able to enjoy the rest of the story once the required data has been downloaded.",
+      "translation": "Вы сможете насладиться остальной частью истории после загрузки необходимых данных."
+    },
+    "ebm:xf02/event_message_xf02_240.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xf02/event_message_xf02_240.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "The download of required data has not been completed.",
+      "translation": "Загрузка необходимых данных не завершена."
+    },
+    "ebm:xf02/event_message_xf02_240.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "xf02/event_message_xf02_240.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": "You will not be able to progress the story. Begin the game anyway?",
+      "translation": "Вы не сможете продвигать историю. Все равно начать игру?"
+    },
+    "ebm:xf02/event_message_xf02_240.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "xf02/event_message_xf02_240.ebm",
+      "index": 2,
+      "speaker": "System",
+      "original": "Return to the title screen?",
+      "translation": "Вернуться к титульному экрану?"
+    },
+    "ebm:xf02/event_message_xf02_240.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "xf02/event_message_xf02_240.ebm",
+      "index": 3,
+      "speaker": "System",
+      "original": "The download of the data has been completed. Please enjoy the rest of the story.",
+      "translation": "Загрузка данных завершена. Пожалуйста, наслаждайтесь остальной частью истории."
+    },
+    "ebm:xf02/event_message_xf02_240.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "xf02/event_message_xf02_240.ebm",
+      "index": 4,
+      "speaker": "System",
+      "original": "You will be able to enjoy the rest of the story once the required data has been downloaded.",
+      "translation": "Вы сможете насладиться остальной частью истории после загрузки необходимых данных."
+    }
+  }
+}

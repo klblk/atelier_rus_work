@@ -1,0 +1,946 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_menu_define.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:4194305": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194305",
+      "original": "Change Section",
+      "translation": "Смена раздела"
+    },
+    "pack02:4194306": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194306",
+      "original": "Change Page",
+      "translation": "Смена страницы"
+    },
+    "pack02:4194307": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194307",
+      "original": "Change Character",
+      "translation": "Смена персонажа"
+    },
+    "pack02:4194308": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194308",
+      "original": "Remove",
+      "translation": "Снять"
+    },
+    "pack02:4194310": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194310",
+      "original": "Basket is full.",
+      "translation": "Корзина заполнена."
+    },
+    "pack02:4194311": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194311",
+      "original": "Storage is full.",
+      "translation": "Склад заполнен."
+    },
+    "pack02:4194312": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194312",
+      "original": "Place Atelier",
+      "translation": "Разместить ателье"
+    },
+    "pack02:4194313": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194313",
+      "original": "Fast Travel",
+      "translation": "Перемещение"
+    },
+    "pack02:4194314": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194314",
+      "original": "Change Tab",
+      "translation": "Смена вкладки"
+    },
+    "pack02:4194315": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194315",
+      "original": "Next",
+      "translation": "Далее"
+    },
+    "pack02:4194316": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194316",
+      "original": "Sort",
+      "translation": "Сортировка"
+    },
+    "pack02:4194317": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194317",
+      "original": "Submenu",
+      "translation": "Подменю"
+    },
+    "pack02:4194318": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194318",
+      "original": "OK",
+      "translation": "Закончить"
+    },
+    "pack02:4194319": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194319",
+      "original": "All",
+      "translation": "Все"
+    },
+    "pack02:4194321": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194321",
+      "original": "Total Lv",
+      "translation": "Общий ур."
+    },
+    "pack02:4194322": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194322",
+      "original": "If you remove an item with 0 count from the equipment, it will disappear. Confirm?",
+      "translation": "Предмет с нулевым количеством исчезнет при снятии с экипировки. Подтвердить?"
+    },
+    "pack02:4194324": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194324",
+      "original": "Ability",
+      "translation": "Усиления"
+    },
+    "pack02:4194325": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194325",
+      "original": "Not enough Pt.",
+      "translation": "Недостаточно очков."
+    },
+    "pack02:4194326": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194326",
+      "original": "This will use your Pt to perform an upgrade. Confirm?",
+      "translation": "Потратить очки на улучшение?"
+    },
+    "pack02:4194327": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194327",
+      "original": "Cannot increase level further.",
+      "translation": "Достигнуто максимальное повышение уровня."
+    },
+    "pack02:4194329": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194329",
+      "original": "Use",
+      "translation": "Использовать"
+    },
+    "pack02:4194330": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194330",
+      "original": "Equip",
+      "translation": "Экипировка"
+    },
+    "pack02:4194331": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194331",
+      "original": "Discard",
+      "translation": "Выкинуть"
+    },
+    "pack02:4194332": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194332",
+      "original": "Move",
+      "translation": "Переместить"
+    },
+    "pack02:4194333": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194333",
+      "original": "Open Storage",
+      "translation": "Открыть склад"
+    },
+    "pack02:4194334": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194334",
+      "original": "Open Basket",
+      "translation": "Открыть корзину"
+    },
+    "pack02:4194336": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194336",
+      "original": "Skip",
+      "translation": "Пропуск"
+    },
+    "pack02:4194337": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194337",
+      "original": "Stop",
+      "translation": "Стоп"
+    },
+    "pack02:4194338": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194338",
+      "original": "Run",
+      "translation": "Бег"
+    },
+    "pack02:4194339": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194339",
+      "original": "Jump",
+      "translation": "Прыжок"
+    },
+    "pack02:4194340": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194340",
+      "original": "Move",
+      "translation": "Переместить"
+    },
+    "pack02:4194341": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194341",
+      "original": "Swing",
+      "translation": "Взмах"
+    },
+    "pack02:4194342": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194342",
+      "original": "Run ON",
+      "translation": "Ускорение"
+    },
+    "pack02:4194343": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194343",
+      "original": "Run OFF",
+      "translation": "Замедление"
+    },
+    "pack02:4194344": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194344",
+      "original": "Descend",
+      "translation": "Спуск"
+    },
+    "pack02:4194345": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194345",
+      "original": "Use Broom",
+      "translation": "Метла"
+    },
+    "pack02:4194346": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194346",
+      "original": "Zoom",
+      "translation": "Масштаб"
+    },
+    "pack02:4194347": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194347",
+      "original": "Change Camera",
+      "translation": "Камера"
+    },
+    "pack02:4194348": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194348",
+      "original": "Change Staff",
+      "translation": "Смена посоха"
+    },
+    "pack02:4194349": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194349",
+      "original": "Menu",
+      "translation": "Меню"
+    },
+    "pack02:4194350": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194350",
+      "original": "Shortcuts",
+      "translation": "Быстрое перемещение"
+    },
+    "pack02:4194351": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194351",
+      "original": "Map",
+      "translation": "Карта"
+    },
+    "pack02:4194352": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194352",
+      "original": "Clip",
+      "translation": "Закладки"
+    },
+    "pack02:4194353": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194353",
+      "original": "Log",
+      "translation": "Лог"
+    },
+    "pack02:4194355": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194355",
+      "original": "Check",
+      "translation": "Осмотр"
+    },
+    "pack02:4194356": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194356",
+      "original": "Change Map",
+      "translation": "Смена карты"
+    },
+    "pack02:4194357": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194357",
+      "original": "Talk",
+      "translation": "Разговор"
+    },
+    "pack02:4194358": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194358",
+      "original": "Present",
+      "translation": "Подарок"
+    },
+    "pack02:4194359": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194359",
+      "original": "Synthesis",
+      "translation": "Синтез"
+    },
+    "pack02:4194360": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194360",
+      "original": "Save",
+      "translation": "Сохранение"
+    },
+    "pack02:4194361": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194361",
+      "original": "Take a Rest",
+      "translation": "Отдохнуть"
+    },
+    "pack02:4194362": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194362",
+      "original": "Use Item",
+      "translation": "Предмет"
+    },
+    "pack02:4194364": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194364",
+      "original": "Camera",
+      "translation": "Камера"
+    },
+    "pack02:4194366": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194366",
+      "original": "Select",
+      "translation": "Выбор"
+    },
+    "pack02:4194367": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194367",
+      "original": "Confirm",
+      "translation": "Подтверждение"
+    },
+    "pack02:4194368": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194368",
+      "original": "Back",
+      "translation": "Назад"
+    },
+    "pack02:4194369": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194369",
+      "original": "Next Page",
+      "translation": "Другая страница"
+    },
+    "pack02:4194370": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194370",
+      "original": "Start Selection",
+      "translation": "Выбор"
+    },
+    "pack02:4194371": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194371",
+      "original": "Unique Equipment",
+      "translation": "Уникальная экипировка"
+    },
+    "pack02:4194372": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194372",
+      "original": "Common Equipment",
+      "translation": "Обычная экипировка"
+    },
+    "pack02:4194374": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194374",
+      "original": "The found items will be placed in the storage. Confirm?",
+      "translation": "Найденные предметы будут отправлены на склад. Подтвердить?"
+    },
+    "pack02:4194375": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194375",
+      "original": "Yes",
+      "translation": "Да"
+    },
+    "pack02:4194376": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194376",
+      "original": "No",
+      "translation": "Нет"
+    },
+    "pack02:4194378": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194378",
+      "original": "Obtained items were all discarded.",
+      "translation": "Все найденные предметы выброшены."
+    },
+    "pack02:4194379": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194379",
+      "original": "There is not enough free space in your current Storage. Please remove %d item(s).",
+      "translation": "На складе недостаточно места. Уберите предметов: %d."
+    },
+    "pack02:4194380": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194380",
+      "original": "The items were placed into Storage.",
+      "translation": "Предметы отправлены на склад."
+    },
+    "pack02:4194381": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194381",
+      "original": "When number of an item reaches 99, any additional items of the same type will be discarded.",
+      "translation": "При достижении 99 шт. лишние предметы того же типа будут выброшены."
+    },
+    "pack02:4194382": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194382",
+      "original": "You have failed and lost some of the gathered items.",
+      "translation": "Неудача — часть собранных предметов потеряна."
+    },
+    "pack02:4194383": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194383",
+      "original": "Your LP was depleted and you lost some of the gathered items.",
+      "translation": "ОД исчерпаны — часть собранных предметов потеряна."
+    },
+    "pack02:4194384": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194384",
+      "original": "Synthesize",
+      "translation": "Синтезировать"
+    },
+    "pack02:4194385": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194385",
+      "original": "Quit",
+      "translation": "Назад"
+    },
+    "pack02:4194386": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194386",
+      "original": "Check",
+      "translation": "Осмотр"
+    },
+    "pack02:4194388": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194388",
+      "original": "Change Date",
+      "translation": "Изменить количество дней"
+    },
+    "pack02:4194389": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194389",
+      "original": "Change Time",
+      "translation": "Изменить количество часов"
+    },
+    "pack02:4194390": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194390",
+      "original": "Enter into Water",
+      "translation": "Войти в воду"
+    },
+    "pack02:4194391": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194391",
+      "original": "Return to Land",
+      "translation": "На сушу"
+    },
+    "pack02:4194393": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194393",
+      "original": "Change Equipment",
+      "translation": "Изменить предметы"
+    },
+    "pack02:4194394": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194394",
+      "original": "Synthesize Item",
+      "translation": "Перейти к синтезу"
+    },
+    "pack02:4194396": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194396",
+      "original": "Place",
+      "translation": "Разместить"
+    },
+    "pack02:4194397": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194397",
+      "original": "Swap",
+      "translation": "Поменять"
+    },
+    "pack02:4194398": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194398",
+      "original": "Put on Top",
+      "translation": "Поставить сверху"
+    },
+    "pack02:4194399": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194399",
+      "original": "Put Away",
+      "translation": "Убрать"
+    },
+    "pack02:4194401": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194401",
+      "original": "Rest",
+      "translation": "Отдых"
+    },
+    "pack02:4194402": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194402",
+      "original": "Atelier Making",
+      "translation": "Кастомизация ателье"
+    },
+    "pack02:4194403": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194403",
+      "original": "Cancel",
+      "translation": "Назад"
+    },
+    "pack02:4194405": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194405",
+      "original": "There is not enough free space in your current Storage and you can't put these items away.",
+      "translation": "На складе недостаточно места — нельзя убрать эти предметы."
+    },
+    "pack02:4194406": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194406",
+      "original": "There is not enough free space in your current Storage and you can't swap these items.",
+      "translation": "На складе недостаточно места — нельзя поменять эти предметы."
+    },
+    "pack02:4194408": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194408",
+      "original": "There's a place to put an item.",
+      "translation": "Тут есть место, где можно разместить какой-нибудь предмет."
+    },
+    "pack02:4194409": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194409",
+      "original": "%s item(s) placed.",
+      "translation": "Размещено: %s."
+    },
+    "pack02:4194410": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194410",
+      "original": "Placed %s.",
+      "translation": "Размещено: %s."
+    },
+    "pack02:4194412": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194412",
+      "original": "Add to Party",
+      "translation": "Взять в партию"
+    },
+    "pack02:4194413": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194413",
+      "original": "Remove",
+      "translation": "Снять"
+    },
+    "pack02:4194414": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194414",
+      "original": "Talk",
+      "translation": "Разговор"
+    },
+    "pack02:4194416": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194416",
+      "original": "Lock",
+      "translation": "Отслеживать"
+    },
+    "pack02:4194417": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194417",
+      "original": "Unlock",
+      "translation": "Не отслеживать"
+    },
+    "pack02:4194418": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194418",
+      "original": "Point Lock",
+      "translation": "Отслеживать место"
+    },
+    "pack02:4194419": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194419",
+      "original": "Select Destination",
+      "translation": "Выбор локации"
+    },
+    "pack02:4194421": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194421",
+      "original": "Rest until Exam Day",
+      "translation": "Отдых до экзамена"
+    },
+    "pack02:4194422": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194422",
+      "original": "Do you really want to skip ahead to the exam day?",
+      "translation": "Перейти к дню экзамена?"
+    },
+    "pack02:4194424": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194424",
+      "original": "&lt;NUM1&gt;/&lt;NUM2&gt;",
+      "translation": "&lt;NUM1&gt;/&lt;NUM2&gt;"
+    },
+    "pack02:4194425": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194425",
+      "original": "Play",
+      "translation": "Прослушивание"
+    },
+    "pack02:4194427": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194427",
+      "original": "Select",
+      "translation": "Выбор"
+    },
+    "pack02:4194428": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194428",
+      "original": "Revise",
+      "translation": "Обдумать"
+    },
+    "pack02:4194429": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194429",
+      "original": "Give Up",
+      "translation": "Отказаться"
+    },
+    "pack02:4194430": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194430",
+      "original": "Report",
+      "translation": "Отчёт"
+    },
+    "pack02:4194431": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194431",
+      "original": "Back",
+      "translation": "Назад"
+    },
+    "pack02:4194432": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194432",
+      "original": "Show Reward",
+      "translation": "Награда"
+    },
+    "pack02:4194433": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194433",
+      "original": "Effect",
+      "translation": "Эффекты"
+    },
+    "pack02:4194434": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194434",
+      "original": "Trait",
+      "translation": "Свойство"
+    },
+    "pack02:4194435": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194435",
+      "original": "Reset",
+      "translation": "Сброс"
+    },
+    "pack02:4194436": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194436",
+      "original": "Remove",
+      "translation": "Снять"
+    },
+    "pack02:4194438": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194438",
+      "original": "Choose Location",
+      "translation": "Выбор локации"
+    },
+    "pack02:4194439": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194439",
+      "original": "Choose Character",
+      "translation": "Выбор персонажа"
+    },
+    "pack02:4194440": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194440",
+      "original": "Simplified Change",
+      "translation": "Быстрая смена"
+    },
+    "pack02:4194441": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194441",
+      "original": "Confirm Changes",
+      "translation": "Подтвердить"
+    },
+    "pack02:4194442": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194442",
+      "original": "Go to the Status Screen",
+      "translation": "К статусу"
+    },
+    "pack02:4194443": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194443",
+      "original": "Place at least 1 character.",
+      "translation": "Разместите хотя бы одного персонажа."
+    },
+    "pack02:4194444": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194444",
+      "original": "The team is made up solely of the support members. All of the characters will be switched to the main positions. Do you wish to confirm?",
+      "translation": "В команде только запасные. Все персонажи будут переведены в основной состав. Подтвердить?"
+    },
+    "pack02:4194450": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194450",
+      "original": "Change Display",
+      "translation": "Смена отображения"
+    },
+    "pack02:4194451": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194451",
+      "original": "To-do List",
+      "translation": "Задачи"
+    },
+    "pack02:4194452": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194452",
+      "original": "Change Info",
+      "translation": "Смена информации"
+    },
+    "pack02:4194454": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194454",
+      "original": "Change Members' Status Page",
+      "translation": "Смена страницы статуса"
+    },
+    "pack02:4194456": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194456",
+      "original": "Your Weapon Box is full. Please remove %d items.",
+      "translation": "Ящик оружия заполнен. Уберите предметов: %d."
+    },
+    "pack02:4194457": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194457",
+      "original": "Your Armor Box is full. Please remove %d items.",
+      "translation": "Ящик брони заполнен. Уберите предметов: %d."
+    },
+    "pack02:4194458": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194458",
+      "original": "Your Equipment Box is full. Please remove %d items.",
+      "translation": "Ящик экипировки заполнен. Уберите предметов: %d."
+    },
+    "pack02:4194460": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194460",
+      "original": "Draw Water",
+      "translation": "Набор воды"
+    },
+    "pack02:4194461": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194461",
+      "original": "Catch Insects",
+      "translation": "Ловля насекомых"
+    },
+    "pack02:4194463": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194463",
+      "original": "Change Item Info",
+      "translation": "Смена сведений"
+    },
+    "pack02:4194465": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194465",
+      "original": "Your Storage is full and you wasn't able to receive some of the items.",
+      "translation": "Склад заполнен — часть предметов получить не удалось."
+    },
+    "pack02:4194467": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194467",
+      "original": "Show Manual",
+      "translation": "Инструкция к игре"
+    },
+    "pack02:4194469": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194469",
+      "original": "Consecutive Jumps",
+      "translation": "Серия прыжков"
+    },
+    "pack02:4194471": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194471",
+      "original": "Cannot use because the item effect is still in force.",
+      "translation": "Нельзя использовать: эффект предмета ещё действует."
+    },
+    "pack02:4194472": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194472",
+      "original": "Unable to use because your basket is empty.",
+      "translation": "Корзина пуста — использовать нельзя."
+    },
+    "pack02:4194474": {
+      "source": "pack02_text_en",
+      "file": "str_menu_define.xml",
+      "string_no": "4194474",
+      "original": "Click the link below on your PC or mobile device to view tutorials.",
+      "translation": "Для просмотра инструкции перейдите по ссылке."
+    }
+  }
+}

@@ -1,0 +1,3976 @@
+{
+  "version": 1,
+  "source": "pack01_ebm",
+  "block": "qc03_sop",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 0,
+      "speaker": "Sophie",
+      "original": "Plachta, what about over there?",
+      "translation": "Плахта, а что там?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 1,
+      "speaker": "unknown(name_id=18)",
+      "original": "I'm not seeing any problems. Firis?",
+      "translation": "Я не вижу никаких проблем. Фирис?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 2,
+      "speaker": "Firis",
+      "original": "Looking good over here, too. Nothing suspicious.",
+      "translation": "Здесь тоже хорошо выглядишь. Ничего подозрительного."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Hey, what are you doing? Poking all around the place like that.",
+      "translation": "Эй, что ты делаешь? Тыкаешь повсюду вот так."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 4,
+      "speaker": "Sophie",
+      "original": "Just a regular inspection. This atelier bends space a little, right?",
+      "translation": "Просто обычный осмотр. Это ателье немного искривляет пространство, да?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 5,
+      "speaker": "Sophie",
+      "original": "So we're checking to make sure nothing is going wrong. Things could get nasty.",
+      "translation": "Поэтому мы проверяем, чтобы убедиться, что все в порядке. Все может стать неприятным."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 6,
+      "speaker": "Firis",
+      "original": "Hey, I haven't told you this yet, have I? Miss Sophie was the one who made this atelier.",
+      "translation": "Эй, я еще не говорил тебе этого, не так ли? Мисс Софи была создательницей этого ателье."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "S-She was? I guess I should have guessed, with it bending space and all...",
+      "translation": "Т-Она была? Наверное, я должен был догадаться, ведь он искривляет пространство и все такое…"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 8,
+      "speaker": "Firis",
+      "original": "That's right! My teacher is a master! Having this atelier makes my travels so much easier.",
+      "translation": "Это верно! Мой учитель-мастер! Наличие этого ателье делает мои путешествия намного проще."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 9,
+      "speaker": "Firis",
+      "original": "Heheh! Miss Sophie, Plachta! Let's continue our travels one day soon, okay?",
+      "translation": "Хе-хе! Мисс Софи, Плахта! Давай продолжим наше путешествие как-нибудь в ближайшее время, хорошо?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Hm? All of you traveled together?",
+      "translation": "Хм? Вы все путешествовали вместе?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 11,
+      "speaker": "unknown(name_id=18)",
+      "original": "Yes, originally, we did. Until Firis got separated from us.",
+      "translation": "Да, изначально так и было. Пока Фирис не отделилась от нас."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 12,
+      "speaker": "Firis",
+      "original": "Ugh...",
+      "translation": "Фу..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 13,
+      "speaker": "Sophie",
+      "original": "Hahaha... She does like to go running off after delicious looking things!",
+      "translation": "Ха-ха-ха... Она действительно любит убегать за вкусными вещами!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 14,
+      "speaker": "Sophie",
+      "original": "If we hadn't heard the rumors from that merchant, we would still be separated right now.",
+      "translation": "Если бы мы не услышали слухи от этого торговца, мы бы до сих пор были разлучены."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 15,
+      "speaker": "unknown(name_id=18)",
+      "original": "If you've learnt your lesson, don't go running off into crowds again! Understand?",
+      "translation": "Если вы усвоили урок, не бегайте снова в толпу! Понимать?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 16,
+      "speaker": "Firis",
+      "original": "Yes, teacher!",
+      "translation": "Да, учитель!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "Say, Lydie... It suits Plachta, doesn't it? Scolding someone.",
+      "translation": "Скажи, Лидия... Плахте идет, не так ли? Ругать кого-то."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "Hahaha, you're right. She's a strict teacher... We'd better not let teach hear us, though!",
+      "translation": "Ха-ха-ха, ты прав. Она строгий учитель... Но лучше бы учителя нас не услышали!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 19,
+      "speaker": "unknown(name_id=18)",
+      "original": "I can hear you clearly, girls. Does this mean you wish for a scolding of your own?",
+      "translation": "Девочки, я вас отчетливо слышу. Означает ли это, что вы желаете получить собственный отговор?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 20,
+      "speaker": "unknown(name_id=18)",
+      "original": "I must respond accordingly, if you do. What shall I scold you on today?",
+      "translation": "Я должен ответить соответственно, если вы это сделаете. За что мне сегодня тебя отругать?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "N-No need! We're leaving!",
+      "translation": "Н-Не надо! Мы уходим!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 22,
+      "speaker": "Sue",
+      "original": "Run, run for it!",
+      "translation": "Беги, беги за этим!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 23,
+      "speaker": "unknown(name_id=18)",
+      "original": "Hehe, I was only joking. Those two are so full of energy.",
+      "translation": "Хе-хе, я просто пошутил. Эти двое полны энергии."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_010.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_010.ebm",
+      "index": 24,
+      "speaker": "Sophie",
+      "original": "Yes! They're such good kids, aren't they? Hey, that reminds me...",
+      "translation": "Да! Они такие хорошие дети, не так ли? Эй, это напоминает мне..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_020.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_020.ebm",
+      "index": 0,
+      "speaker": "Sophie",
+      "original": "Plachta. Can I discuss this recipe with you?",
+      "translation": "Плахта. Могу ли я обсудить с вами этот рецепт?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_020.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_020.ebm",
+      "index": 1,
+      "speaker": "unknown(name_id=18)",
+      "original": "Yes, of course. Hmm, I see your problem.",
+      "translation": "Да, конечно. Хм, я вижу твою проблему."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_020.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_020.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Hey. Sophie is Plachta's student, right?",
+      "translation": "Привет. Софи - ученица Плахты, да?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_020.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_020.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "But Sophie looks older than her... Odd, isn't it? I wonder what the story is...",
+      "translation": "Но Софи выглядит старше ее... Странно, не правда ли? Интересно, что это за история..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_020.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_020.ebm",
+      "index": 4,
+      "speaker": "unknown(name_id=18)",
+      "original": "Girls, you should try to gossip more quietly. You do realize we can hear everything?",
+      "translation": "Девочки, вам стоит стараться сплетничать потише. Ты понимаешь, что мы можем слышать все?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_020.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_020.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Uwah, sorry!",
+      "translation": "Увау, извини!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_020.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_020.ebm",
+      "index": 6,
+      "speaker": "Sophie",
+      "original": "Hahaha, I can understand why you want to know about us.",
+      "translation": "Ха-ха-ха, я понимаю, почему ты хочешь знать о нас."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_020.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_020.ebm",
+      "index": 7,
+      "speaker": "unknown(name_id=18)",
+      "original": "We are best friends, yet teacher and student. And family, though we are not blood related.",
+      "translation": "Мы лучшие друзья, но учитель и ученик. И семья, хоть мы и не кровные родственники."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_020.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_020.ebm",
+      "index": 8,
+      "speaker": "Sophie",
+      "original": "I lived with my grandma, but then she suddenly passed away...",
+      "translation": "Я жил с бабушкой, но потом она внезапно умерла..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_020.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_020.ebm",
+      "index": 9,
+      "speaker": "Sophie",
+      "original": "I lived alone for a while after that, and then I met Plachta.",
+      "translation": "После этого я некоторое время жил один, а потом встретил Плахту."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_020.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_020.ebm",
+      "index": 10,
+      "speaker": "unknown(name_id=18)",
+      "original": "There have been twists and turns along the way, but I've been with Sophie ever since.",
+      "translation": "На этом пути были неожиданные повороты, но с тех пор я был с Софи."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_020.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_020.ebm",
+      "index": 11,
+      "speaker": "Sophie",
+      "original": "That makes us a family, nothing less! Do you understand, girls?",
+      "translation": "Это делает нас семьей, не меньше! Вы понимаете, девочки?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_020.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_020.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "Yes! Like what Sue is to me...",
+      "translation": "Да! Например, то, чем для меня является Сью..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_020.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_020.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "And what Lydie is to me. As important as that!",
+      "translation": "И что для меня Лиди. Как это важно!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_020.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_020.ebm",
+      "index": 14,
+      "speaker": "Sophie",
+      "original": "That's right. To me, Plachta is completely irreplaceable.",
+      "translation": "Это верно. Для меня Плахта совершенно незаменима."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_020.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_020.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "Irreplaceable! How lovely!",
+      "translation": "Незаменимый! Как мило!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_020.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_020.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "Hehe, you two have a great friendship! Thanks for sharing that with us.",
+      "translation": "Хе-хе, у вас отличная дружба! Спасибо, что поделились этим с нами."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_020.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_020.ebm",
+      "index": 17,
+      "speaker": "unknown(name_id=18)",
+      "original": "Sophie? It's a bit embarrassing to have you call me \"irreplaceable\" in front of other people.",
+      "translation": "Софи? Мне немного неловко, когда ты называешь меня «незаменимым» перед другими людьми."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_020.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_020.ebm",
+      "index": 18,
+      "speaker": "Sophie",
+      "original": "Why? It's the truth, after all. I don't want to lose you, Plachta!",
+      "translation": "Почему? В конце концов, это правда. Я не хочу тебя терять, Плахта!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_020.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_020.ebm",
+      "index": 19,
+      "speaker": "unknown(name_id=18)",
+      "original": "You're still just a big child, aren't you?",
+      "translation": "Ты еще всего лишь большой ребенок, не так ли?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_020.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_020.ebm",
+      "index": 20,
+      "speaker": "System",
+      "original": "Sophie has acquired the skill <CLEG>\"Wisdom of Alchemy\"<CLNR>.",
+      "translation": "Софи приобрела навык <CLEG> «Мудрость алхимии»<CLNR>."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Sue, Sue! I've got a new request for synthesis!",
+      "translation": "Сью, Сью! У меня новый запрос на синтез!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Ah! Lydie, well done! What is it?",
+      "translation": "Ах! Лидия, молодец! Что это такое?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "We need to deliver ten portions of this medicine. Here's the note.",
+      "translation": "Нам нужно доставить десять порций этого лекарства. Вот заметка."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Hah, that'll be easy... L-L-L-Lydie! Look at this!",
+      "translation": "Ха, это будет легко... Л-Л-Л-Лиди! Посмотрите на это!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "What, what is it? \"100 portions of medicine by tomorrow\"... Hold on? 100?!",
+      "translation": "Что, что это? \"100 порций лекарства к завтрашнему дню\"... Подожди? 100?!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Uwah, you walked into this one, Lydie! There's a penalty if we don't deliver, too!",
+      "translation": "Ух, ты вошла в это, Лиди! Если мы не доставим товар, тоже будет штраф!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Wah, I'm sorry Sue. W-What should we do?",
+      "translation": "Вау, мне жаль, Сью. Ч-что нам делать?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "What do you think?! Do the best we can in the time we have available!",
+      "translation": "Что вы думаете?! Сделайте все, что в наших силах, за то время, которое у нас есть!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 8,
+      "speaker": "Sophie",
+      "original": "Hey girls, I just thought I'd stop by. Have you got some time to talk...",
+      "translation": "Эй, девчонки, я просто подумал зайти. У тебя есть время поговорить..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "S-Sophie!",
+      "translation": "С-Софи!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 10,
+      "speaker": "Sophie",
+      "original": "W-Whatever is the matter? You're paler than a Puni! Tell me, what's going on?",
+      "translation": "Ч-в чем дело? Ты бледнее пуни! Скажи мне, что происходит?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 11,
+      "speaker": "Sophie",
+      "original": "I see. Whoever gave you this job is a bit of a sneaky one...",
+      "translation": "Я понимаю. Кто бы ни дал тебе эту работу, он немного хитрый..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "No, I mean, I should have checked more carefully.",
+      "translation": "Нет, я имею в виду, что мне следовало проверить более тщательно."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "Come on, Lydie! No need for the waterworks! This would have caught me out too, I'm telling you.",
+      "translation": "Давай, Лидия! Водопровод не нужен! Это бы меня тоже застало, говорю вам."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "But... but... ",
+      "translation": "Но... но..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 15,
+      "speaker": "Sophie",
+      "original": "All right. Girls. Will you lend me your cauldron and some materials?",
+      "translation": "Все в порядке. Девушки. Одолжишь мне свой котел и кое-какие материалы?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 16,
+      "speaker": "Sophie",
+      "original": "Materials, materials... This, and this. Mix them together!",
+      "translation": "Материалы, материалы... Это и это. Смешайте их вместе!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 17,
+      "speaker": "Sophie",
+      "original": "Done! Here you go. Now you won't have to pay any penalties at all.",
+      "translation": "Сделанный! Ну вот. Теперь вам вообще не придется платить штрафы."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "What? You're joking! You did all that in an instant?",
+      "translation": "Что? Ты шутишь! Ты сделал все это в одно мгновение?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 19,
+      "speaker": "Sophie",
+      "original": "Yep. There's a hundred there, but you should probably count them, just in case.",
+      "translation": "Ага. Там сотня, но, наверное, стоит их пересчитать, на всякий случай."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 20,
+      "speaker": "Sophie",
+      "original": "Make sure you check the fine print from now on. You've got a delivery to make, anyway! ",
+      "translation": "Обязательно проверяйте мелкий шрифт с этого момента. В любом случае вам нужно сделать доставку!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "T-There's really a 100 of them! Amazing! Sophie is just amazing!",
+      "translation": "Т-их действительно 100! Удивительный! Софи просто потрясающая!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 22,
+      "speaker": "Sue",
+      "original": "How cool was that?! I want to be just like her when I grow up.",
+      "translation": "Как это было круто?! Я хочу быть такой же, как она, когда вырасту."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 23,
+      "speaker": "Sue",
+      "original": "Hey! We need to deliver these, now! Come on, Lydie! Let's go get paid!",
+      "translation": "Привет! Нам нужно доставить это немедленно! Давай, Лидия! Пошли получать зарплату!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_030.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_030.ebm",
+      "index": 24,
+      "speaker": "Lydie",
+      "original": "Hahaha, yes!",
+      "translation": "Ха-ха-ха, да!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_040.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_040.ebm",
+      "index": 0,
+      "speaker": "Sophie",
+      "original": "Right, done! What's the next job?",
+      "translation": "Отлично, готово! Какая следующая работа?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_040.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_040.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Sophie, hello! Wow, you look busy!",
+      "translation": "Софи, здравствуйте! Вау, ты выглядишь занятым!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_040.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_040.ebm",
+      "index": 2,
+      "speaker": "Sophie",
+      "original": "Hahaha. I went and took on too much work again.",
+      "translation": "Ха-ха-ха. Я снова взял на себя слишком много работы."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_040.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_040.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Oh boy! But you can just finish it all in an instant, right? Just like when you helped us.",
+      "translation": "Ох, мальчик! Но ведь можно закончить все это в одно мгновение, верно? Точно так же, как когда ты нам помог."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_040.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_040.ebm",
+      "index": 4,
+      "speaker": "Sophie",
+      "original": "I wish I could! The more I do, the more it seems to pile up!",
+      "translation": "Я бы с удовольствием! Чем больше я делаю, тем больше кажется, что это накапливается!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_040.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_040.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "What! Just how much did you take on?",
+      "translation": "Что! Сколько ты на себя взял?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_040.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_040.ebm",
+      "index": 6,
+      "speaker": "Sophie",
+      "original": "I'm actually not sure. Enough to fill a notebook?",
+      "translation": "Я на самом деле не уверен. Достаточно, чтобы заполнить блокнот?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_040.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_040.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "If it is, I think it's too much. Do you want our help?",
+      "translation": "Если да, то я думаю, что это слишком. Вам нужна наша помощь?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_040.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_040.ebm",
+      "index": 8,
+      "speaker": "Sophie",
+      "original": "No, I'm fine. I took it on, I'll handle... uwah!",
+      "translation": "Нет, я в порядке. Я взялся за это, я справлюсь... ух!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_040.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_040.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "You aren't fine at all! You're wobbling about all over the place.",
+      "translation": "Ты вообще не в порядке! Ты шатаешься повсюду."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_040.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_040.ebm",
+      "index": 10,
+      "speaker": "Sophie",
+      "original": "Hahaha, I haven't slept in three days. Don't end up like me, girls.",
+      "translation": "Ха-ха-ха, я не спал три дня. Не заканчивайте так, как я, девочки."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_040.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_040.ebm",
+      "index": 11,
+      "speaker": "Sophie",
+      "original": "I'm bad enough at cleaning already, and now I don't have any time for it at all!",
+      "translation": "Я и так плохо умею убираться, а теперь у меня совсем нет на это времени!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_040.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_040.ebm",
+      "index": 12,
+      "speaker": "Sophie",
+      "original": "My room is getting messier and messier. Plachta is going to chew me... out again...",
+      "translation": "Моя комната становится все более и более беспорядочной. Плахта меня разжует...опять..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_040.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_040.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "OK, OK! No need to keep talking. Just take a break, Sophie!",
+      "translation": "ОК, ОК! Не нужно продолжать говорить. Просто отдохни, Софи!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_040.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_040.ebm",
+      "index": 14,
+      "speaker": "Sophie",
+      "original": "Haah, grandma... see how grown up I am now? Heheh...",
+      "translation": "Хаа, бабушка... видишь, какой я теперь взрослый? Хехех..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_040.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_040.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "Something's happening, and it doesn't sound good! Sophie! Come back to us! Sophie!",
+      "translation": "Что-то происходит, и это звучит нехорошо! Софи! Вернитесь к нам! Софи!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_050.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_050.ebm",
+      "index": 0,
+      "speaker": "Sophie",
+      "original": "Ah, that's another perspective on it. In which case...",
+      "translation": "Ах, это другой взгляд на это. В каком случае..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_050.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_050.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Uwah, you're studying, Sophie? I just never feel like reading.",
+      "translation": "Увау, ты учишься, Софи? Мне просто никогда не хочется читать."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_050.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_050.ebm",
+      "index": 2,
+      "speaker": "Sophie",
+      "original": "Ah, I can't ignore a comment like that! Reading is very important.",
+      "translation": "Ох, я не могу игнорировать такой комментарий! Чтение очень важно."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_050.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_050.ebm",
+      "index": 3,
+      "speaker": "Sophie",
+      "original": "Knowledge is vital in life and alchemy. You need to study hard, every day.",
+      "translation": "Знания жизненно важны в жизни и алхимии. Вам нужно усердно учиться каждый день."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_050.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_050.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Yes, I know. I just really dislike reading.",
+      "translation": "Да, я знаю. Я просто очень не люблю читать."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_050.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_050.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Sue, you're hopeless. But Sophie, do you really need to study any more?",
+      "translation": "Сью, ты безнадежна. Но Софи, тебе действительно нужно еще учиться?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_050.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_050.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "You're already an incredible alchemist. Don't you know the content of all these books already?",
+      "translation": "Ты уже невероятный алхимик. Разве вы уже не знаете содержание всех этих книг?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_050.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_050.ebm",
+      "index": 7,
+      "speaker": "Sophie",
+      "original": "Hahaha, of course not. I'm not there yet.",
+      "translation": "Ха-ха-ха, конечно нет. Я еще не там."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_050.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_050.ebm",
+      "index": 8,
+      "speaker": "Sophie",
+      "original": "There's no end to the path of alchemy. The only way to carry on is to study more, and harder.",
+      "translation": "Путь алхимии бесконечен. Единственный способ продолжать — учиться больше и усерднее."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_050.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_050.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "Uwah, that's a hardline approach! I wish Sue would take a leaf out of your book!",
+      "translation": "Ух, это жёсткий подход! Мне бы хотелось, чтобы Сью вынула листок из твоей книги!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_050.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_050.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Uwah, even Sophie still has to study? All I ever read is comics!",
+      "translation": "Ух ты, даже Софи еще учиться надо? Все, что я когда-либо читал, это комиксы!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_050.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_050.ebm",
+      "index": 11,
+      "speaker": "Sophie",
+      "original": "Hehe. I didn't like reading either, when I was younger. All those words, dancing before my eyes!",
+      "translation": "Хе-хе. Я тоже не любил читать, когда был моложе. Все эти слова танцевали перед моими глазами!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_050.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_050.ebm",
+      "index": 12,
+      "speaker": "Sophie",
+      "original": "But I started with easier texts, slowly got used to it, and now I'm totally fine with it.",
+      "translation": "Но я начал с более простых текстов, постепенно привык, и теперь меня это вполне устраивает."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_050.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_050.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "Simple books, you say. Like the picture books we read as kids?",
+      "translation": "Простые книги, скажете вы. Нравятся книжки с картинками, которые мы читаем в детстве?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_050.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_050.ebm",
+      "index": 14,
+      "speaker": "Sophie",
+      "original": "Yes, I think that would work. Just do what you can, a little at a time!",
+      "translation": "Да, я думаю, это сработает. Просто делайте то, что можете, понемногу!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_050.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_050.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "Hmm, what would be good? \"Beauty and the Puni\"? \"Cinderpuni\"?",
+      "translation": "Хм, а что было бы хорошо? \"Красавица и Пуни\"? «Чиндерпуни»?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_050.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_050.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "Hahaha, let's take a look once we get home. Thank you, Sophie! We'll see you later!",
+      "translation": "Ха-ха-ха, давай посмотрим, как приедем домой. Спасибо, Софи! Увидимся позже!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_050.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_050.ebm",
+      "index": 17,
+      "speaker": "Sophie",
+      "original": "Hehe.",
+      "translation": "Хе-хе."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_050.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_050.ebm",
+      "index": 18,
+      "speaker": "unknown(name_id=18)",
+      "original": "Sophie, recommending reading to others? She really has grown up.",
+      "translation": "Софи, рекомендуешь прочитать другим? Она действительно выросла."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_050.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_050.ebm",
+      "index": 19,
+      "speaker": "System",
+      "original": "Sophie has acquired the skill <CLEG>\"Tool Expert\"<CLNR>.",
+      "translation": "Софи приобрела навык <CLEG> «Эксперт по инструментам»<CLNR>."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_060.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_060.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Sophie, listen to this! I read a picture book...",
+      "translation": "Софи, послушай это! Я читаю книжку с картинками..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_060.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_060.ebm",
+      "index": 1,
+      "speaker": "Firis",
+      "original": "Miss Sophie! You need to think a bit more about your strengths and weaknesses!",
+      "translation": "Мисс Софи! Вам нужно больше думать о своих сильных и слабых сторонах!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_060.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_060.ebm",
+      "index": 2,
+      "speaker": "unknown(name_id=18)",
+      "original": "Firis is right! Why do you always do this?",
+      "translation": "Фирис права! Почему ты всегда это делаешь?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_060.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_060.ebm",
+      "index": 3,
+      "speaker": "Sophie",
+      "original": "Ugh... What can I say...",
+      "translation": "Ух... Что я могу сказать..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_060.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_060.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "H-Hold on, what's going on here? There's a lot of anger in this room!",
+      "translation": "П-подожди, что здесь происходит? В этой комнате много гнева!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_060.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_060.ebm",
+      "index": 5,
+      "speaker": "unknown(name_id=18)",
+      "original": "We're not angry, just worried! Sophie has taken on far too much work. Again!",
+      "translation": "Мы не злимся, просто волнуемся! Софи взяла на себя слишком много работы. Снова!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_060.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_060.ebm",
+      "index": 6,
+      "speaker": "Firis",
+      "original": "Including stuff that she isn't very good at. I guess that's one of her good qualities, but still...",
+      "translation": "Включая вещи, в которых она не очень хороша. Наверное, это одно из ее хороших качеств, но все же..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_060.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_060.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "I see. In which case, we're here to help out!",
+      "translation": "Я понимаю. В этом случае мы здесь, чтобы помочь!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_060.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_060.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Count me in! Sophie helped us, now we can return the favor!",
+      "translation": "Рассчитывайте на меня! Софи нам помогла, теперь мы можем вернуть долг!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_060.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_060.ebm",
+      "index": 9,
+      "speaker": "Sophie",
+      "original": "Girls! Sorry you have to do this... But that would be a big help.",
+      "translation": "Девушки! Извините, что вам приходится это сделать... Но это будет большой помощью."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_060.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_060.ebm",
+      "index": 10,
+      "speaker": "unknown(name_id=18)",
+      "original": "Dragging children into your mess! Sorry about this, you two.",
+      "translation": "Втягиваем детей в свой беспорядок! Извините за это, вы двое."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_060.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_060.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "We can handle it! What's the job?",
+      "translation": "Мы справимся! Какая работа?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_060.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_060.ebm",
+      "index": 12,
+      "speaker": "Sophie",
+      "original": "You see... It's some... ghost busting?",
+      "translation": "Понимаете... Это какая-то... борьба с привидениями?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_060.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_060.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "What?!",
+      "translation": "Что?!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_060.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_060.ebm",
+      "index": 14,
+      "speaker": "Sophie",
+      "original": "I'm just so scared of ghosts... If you can give me a hand, it would be a real big help.",
+      "translation": "Я так боюсь привидений... Если бы ты мне помог, это была бы очень большая помощь."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_060.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_060.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "Ah, well... Sue?",
+      "translation": "Ах, ну... Сью?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_060.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_060.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "Sophie, I'm sorry... We're going to have to forget that this ever came up.",
+      "translation": "Софи, прости... Нам придется забыть, что это когда-либо всплывало."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_060.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_060.ebm",
+      "index": 17,
+      "speaker": "Lydie",
+      "original": "It's too late for that now! You're coming with me to bust these pesky ghosts!",
+      "translation": "Теперь уже слишком поздно для этого! Ты пойдешь со мной, чтобы поймать этих надоедливых призраков!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_060.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_060.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "No! I hate ghosts too! More than you, I bet! Lydie, don't make me!",
+      "translation": "Нет! Я тоже ненавижу призраков! Бьюсь об заклад, больше, чем ты! Лиди, не заставляй меня!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_060.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_060.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "No! Sophie, we'll see you in a little while.",
+      "translation": "Нет! Софи, увидимся через некоторое время."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_060.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_060.ebm",
+      "index": 20,
+      "speaker": "Sue",
+      "original": "No! I'd rather die than go!",
+      "translation": "Нет! Я лучше умру, чем уйду!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_060.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_060.ebm",
+      "index": 21,
+      "speaker": "Sophie",
+      "original": "Uwah, sorry, Sue. What have I got you wrapped up in?",
+      "translation": "Ух, прости, Сью. Во что я тебя запутал?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_060.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_060.ebm",
+      "index": 22,
+      "speaker": "unknown(name_id=18)",
+      "original": "Reflect well on your actions. How many times have I had to say the same thing to you?",
+      "translation": "Хорошо подумайте о своих действиях. Сколько раз мне приходилось говорить тебе одно и то же?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_060.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_060.ebm",
+      "index": 23,
+      "speaker": "Sophie",
+      "original": "I'm really, really sorry... I'll be more careful, I promise.",
+      "translation": "Мне очень, очень жаль... Я буду осторожнее, обещаю."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_070.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_070.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "There it is! That's the ghost we need to defeat!",
+      "translation": "Вот оно! Это призрак, которого нам нужно победить!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_070.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_070.ebm",
+      "index": 1,
+      "speaker": "Sophie",
+      "original": "No! I'm really afraid of this g-g-g-ghost!",
+      "translation": "Нет! Я правда боюсь этого г-г-призрака!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_070.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_070.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Haah! Evil spirit, be gone! Evil spirit, be gone!",
+      "translation": "Хаа! Злой дух, прочь! Злой дух, прочь!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_070.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_070.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Ah, I think these two are broken. I have to pull everyone's weight this time!",
+      "translation": "Ах, я думаю, что эти двое сломаны. На этот раз мне придется взять на себя ответственность за всех!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_080.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_080.ebm",
+      "index": 0,
+      "speaker": "Sophie",
+      "original": "There it is again! It's kill or be killed!",
+      "translation": "Вот оно снова! Это убить или быть убитым!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_090.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_090.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Uwah, nothing happened? We aren't cursed?",
+      "translation": "Увау, ничего не случилось? Мы не прокляты?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_090.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_090.ebm",
+      "index": 1,
+      "speaker": "Sophie",
+      "original": "I think we're in the clear. Thank you, both of you. That was such a big help.",
+      "translation": "Я думаю, что все в порядке. Спасибо вам обоим. Это была такая большая помощь."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_090.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_090.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "No problem. You really do hate ghosts, though, don't you Sophie!",
+      "translation": "Без проблем. Но ты действительно ненавидишь призраков, не так ли, Софи!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_090.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_090.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "So why did you even take this job?",
+      "translation": "Так почему ты вообще взялся за эту работу?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_090.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_090.ebm",
+      "index": 4,
+      "speaker": "Sophie",
+      "original": "The client really needed some help. I simply can't leave people in distress.",
+      "translation": "Клиенту очень нужна была помощь. Я просто не могу оставить людей в беде."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_090.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_090.ebm",
+      "index": 5,
+      "speaker": "Firis",
+      "original": "I understand that feeling, but you are just too kind!",
+      "translation": "Я понимаю это чувство, но ты слишком добр!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_090.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_090.ebm",
+      "index": 6,
+      "speaker": "Firis",
+      "original": "Next time, you can pass work like this on to me. I can handle this alone, no problem.",
+      "translation": "В следующий раз ты можешь поручить такую работу мне. Я справлюсь с этим один, без проблем."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_090.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_090.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "Hey, we'll help again too. Just let us know if you need us.",
+      "translation": "Эй, мы тоже снова поможем. Просто дайте нам знать, если мы вам нужны."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_090.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_090.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "For anything other than ghost-related work!",
+      "translation": "Для чего угодно, кроме работы, связанной с призраками!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_090.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_090.ebm",
+      "index": 9,
+      "speaker": "Sophie",
+      "original": "Everyone! Thank you, I'll keep that in mind.",
+      "translation": "Каждый! Спасибо, я буду иметь это в виду."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_090.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_090.ebm",
+      "index": 10,
+      "speaker": "Firis",
+      "original": "Let's get out of here, anyway. We wouldn't want the ghost we defeated to curse us!",
+      "translation": "Давай все равно уйдем отсюда. Мы бы не хотели, чтобы призрак, которого мы победили, проклял нас!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_090.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_090.ebm",
+      "index": 11,
+      "speaker": "Sophie",
+      "original": "Cursed? By the ghost we defeated?",
+      "translation": "Проклятый? Призраком, которого мы победили?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_090.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_090.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "Uwah, don't even joke about it! Let's get out of here!",
+      "translation": "Увау, даже не шутите по этому поводу! Давай уйдем отсюда!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_090.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_090.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "Firis! You couldn't help yourself, could you?",
+      "translation": "Фирис! Ты не мог помочь себе, не так ли?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_090.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_090.ebm",
+      "index": 14,
+      "speaker": "Firis",
+      "original": "Hehe, she's too easy. If I don't scare her a little, she'll take the same job again tomorrow.",
+      "translation": "Хе-хе, она слишком легкая. Если я ее немного не напугаю, завтра она снова возьмется за ту же работу."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_090.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_090.ebm",
+      "index": 15,
+      "speaker": "Firis",
+      "original": "Although that side of her is one that I really respect.",
+      "translation": "Хотя эту ее сторону я очень уважаю."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_090.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_090.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "Hehe, me too. She's something special, isn't she!",
+      "translation": "Хе-хе, я тоже. Она особенная, не так ли!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_090.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_090.ebm",
+      "index": 17,
+      "speaker": "Sophie",
+      "original": "Firis, Lydie! Get moving or the ghosts will get you!",
+      "translation": "Фирис, Лиди! Двигайтесь, или призраки схватят вас!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_090.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_090.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "I don't want to get cursed!",
+      "translation": "Я не хочу, чтобы меня проклинали!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_090.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_090.ebm",
+      "index": 19,
+      "speaker": "System",
+      "original": "A new Combination Art for Firis and Sophie <CLEG>\"Alchemy of Happiness\"<CLNR> is unlocked.",
+      "translation": "Разблокировано новое комбинированное искусство для Фирис и Софи <CLEG> «Алхимия счастья» <CLNR>."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Firis! Sophie! Plachta! We're here to see you!",
+      "translation": "Фирис! Софи! Плахта! Мы здесь, чтобы увидеть вас!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Hmm, no reply. Are they out?",
+      "translation": "Хм, нет ответа. Они вышли?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 2,
+      "speaker": "Sophie",
+      "original": "Sorry, I've got my hands full! Just wait a moment!",
+      "translation": "Извините, у меня руки заняты! Просто подожди!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Oh! Hands full, are they? With what, I wonder!",
+      "translation": "Ой! Руки заняты, да? С чем, интересно!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Uwah, Sue, keep your mischief mode in check. We don't want to cause any trouble.",
+      "translation": "Ух, Сью, держите свой режим шалости под контролем. Мы не хотим создавать никаких проблем."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Nope, too late! You can't stop my curiosity. Heheh, charge!",
+      "translation": "Нет, слишком поздно! Ты не сможешь остановить мое любопытство. Хе-хе, зарядка!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Hey, Sue! Don't do that!",
+      "translation": "Привет, Сью! Не делай этого!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Sophie. What are you doing?",
+      "translation": "Софи. Что ты делаешь?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 8,
+      "speaker": "Sophie",
+      "original": "Ah!",
+      "translation": "Ах!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Whaaaaat! What happened to P-Plachta?",
+      "translation": "Чтоооо! Что случилось с П-Плахтой?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "A c-crime of passion? That's what they call this, right? A crime of passion?",
+      "translation": "Преступление на почве страсти? Они так это называют, да? Преступление на почве страсти?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 11,
+      "speaker": "Sophie",
+      "original": "G-Girls, calm down a moment. You've got the wrong idea completely.",
+      "translation": "Девочки, успокойтесь на минутку. У вас совершенно неправильное представление."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 12,
+      "speaker": "unknown(name_id=18)",
+      "original": "She told you to wait out there. The two of you did this to yourselves, honestly.",
+      "translation": "Она сказала тебе подождать там. Честно говоря, вы двое сделали это с собой."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "S-She talked!",
+      "translation": "Т-Она говорила!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "Supernatural phenomena? Plachta is a ghost? Uwaaah, I can't take this!",
+      "translation": "Сверхъестественные явления? Плахта - призрак? Уааа, я не могу это вынести!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 15,
+      "speaker": "Sophie",
+      "original": "So, as you just saw. Plachta has the body of a doll.",
+      "translation": "Итак, как вы только что видели. У Плачты тело куклы."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 16,
+      "speaker": "unknown(name_id=18)",
+      "original": "I need periodic maintenance or I suffer from reduced mobility.",
+      "translation": "Мне необходимо периодическое техническое обслуживание, или я страдаю от ограниченной подвижности."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 17,
+      "speaker": "unknown(name_id=18)",
+      "original": "That's what you walked in on back there. Certainly not a crime of passion.",
+      "translation": "Это то, во что ты вошел там сзади. Конечно, это не преступление на почве страсти."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "S-Sorry about that. It was just so shocking, I got a little carried away.",
+      "translation": "П-извини за это. Это было настолько шокирующе, что я немного увлекся."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "Thank goodness. Thank goodness you're not a ghost.",
+      "translation": "Слава богу. Слава богу, ты не призрак."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 20,
+      "speaker": "Lydie",
+      "original": "So, Plachta. If it's alright to ask, how did you end up with a doll's body?",
+      "translation": "Итак, Плахта. Если можно спросить, как у тебя получилось тело куклы?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 21,
+      "speaker": "unknown(name_id=18)",
+      "original": "Well, long ago, I was human. My original body is long gone by now, of course.",
+      "translation": "Ну, давным-давно я был человеком. Моего первоначального тела, конечно, уже давно нет."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 22,
+      "speaker": "unknown(name_id=18)",
+      "original": "My soul got transferred into a book. Time passed, and I forgot even who I was.",
+      "translation": "Моя душа перенеслась в книгу. Прошло время, и я забыл даже, кто я."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 23,
+      "speaker": "Sophie",
+      "original": "To get her memories back, we transferred her soul into this doll. That's Plachta as you know her now.",
+      "translation": "Чтобы вернуть ей воспоминания, мы перенесли ее душу в эту куклу. Это Плахта, какой вы ее сейчас знаете."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 24,
+      "speaker": "Sue",
+      "original": "Transferring a soul into a doll? That's insane, but if anyone could do it...",
+      "translation": "Перенести душу в куклу? Это безумие, но если бы кто-нибудь мог это сделать..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 25,
+      "speaker": "Lydie",
+      "original": "I think my inferiority complex is coming back. Alchemy really can do anything, can't it?",
+      "translation": "Я думаю, что мой комплекс неполноценности возвращается. Алхимия действительно может все, не так ли?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 26,
+      "speaker": "Sue",
+      "original": "Let's go home, Lydie. I worry that all this insanity is going to boil my brain...",
+      "translation": "Пойдем домой, Лиди. Я боюсь, что все это безумие вскипит мне мозг..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 27,
+      "speaker": "Lydie",
+      "original": "Yeah, me too. Sorry for the intrusion...",
+      "translation": "Да, я тоже. Извините за вторжение..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 28,
+      "speaker": "unknown(name_id=18)",
+      "original": "I think that was a bit of a surprise for them. We've freaked them out a bit, haven't we?",
+      "translation": "Я думаю, это было для них некоторой неожиданностью. Мы их немного напугали, не так ли?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 29,
+      "speaker": "Sophie",
+      "original": "Tell me about it... Hey, Plachta. It won't be much longer, I promise.",
+      "translation": "Расскажи мне об этом... Эй, Плахта. Это не займет много времени, я обещаю."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 30,
+      "speaker": "unknown(name_id=18)",
+      "original": "I know. I'm looking forward to it, Sophie.",
+      "translation": "Я знаю. Я с нетерпением жду этого, Софи."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_100.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_100.ebm",
+      "index": 31,
+      "speaker": "System",
+      "original": "Sophie has acquired the skill <CLEG>\"Following a Dream\"<CLNR>.",
+      "translation": "Софи приобрела навык <CLEG> «Следовать за мечтой»<CLNR>."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_110.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_110.ebm",
+      "index": 0,
+      "speaker": "Sophie",
+      "original": "Hey, girls. Can I ask for your help with some work again?",
+      "translation": "Привет, девочки. Могу ли я снова попросить вас о помощи с какой-нибудь работой?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_110.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_110.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Sure, no problem. What kind of work is it this time?",
+      "translation": "Конечно, нет проблем. Что это за работа на этот раз?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_110.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_110.ebm",
+      "index": 2,
+      "speaker": "Sophie",
+      "original": "I'm trying to make an interesting item at the moment. I need you to get some materials for me.",
+      "translation": "Я сейчас пытаюсь сделать интересную вещь. Мне нужно, чтобы ты добыл для меня кое-какие материалы."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_110.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_110.ebm",
+      "index": 3,
+      "speaker": "Sophie",
+      "original": "It's a pretty difficult synthesis, but I think we'll all learn a lot from it.",
+      "translation": "Это довольно сложный синтез, но я думаю, что мы все многому научимся из него."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_110.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_110.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Roger that! I might not be much of a reader, but give me a job to do and I'll do it!",
+      "translation": "Заметано! Возможно, я не большой читатель, но дайте мне задание, и я его сделаю!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_110.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_110.ebm",
+      "index": 5,
+      "speaker": "Sophie",
+      "original": "Thanks. I know you'll be the greatest in the kingdom in no time! ",
+      "translation": "Спасибо. Я знаю, что ты очень скоро станешь величайшим в королевстве!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_120.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_120.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Here you go, Sophie. We've got the items you asked for!",
+      "translation": "Вот, Софи. У нас есть товары, которые вы просили!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_120.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_120.ebm",
+      "index": 1,
+      "speaker": "Sophie",
+      "original": "Haha, thank you! Yes, this all looks good. I'm glad I asked you.",
+      "translation": "Хаха, спасибо! Да, все это выглядит хорошо. Я рад, что спросил тебя."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_120.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_120.ebm",
+      "index": 2,
+      "speaker": "Sophie",
+      "original": "Now I can make my item that winds back time! Lydie, Sue, thanks.",
+      "translation": "Теперь я могу создать предмет, который возвращает время вспять! Лиди, Сью, спасибо."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_120.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_120.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Excuse me?",
+      "translation": "Прошу прощения?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_120.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_120.ebm",
+      "index": 4,
+      "speaker": "Sophie",
+      "original": "An item that winds back time! I've already made one that stops time, you see.",
+      "translation": "Предмет, который возвращает время вспять! Понимаете, я уже сделал тот, который останавливает время."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_120.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_120.ebm",
+      "index": 5,
+      "speaker": "Sophie",
+      "original": "But controlling the flow of time, that's a lot harder. With this, though, I can do it!",
+      "translation": "Но контролировать течение времени гораздо сложнее. Однако с этим я могу это сделать!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_120.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_120.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Wind back time? Hahaha!",
+      "translation": "Повернуть время вспять? Ха-ха-ха!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_120.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_120.ebm",
+      "index": 7,
+      "speaker": "Sophie",
+      "original": "Hold on, what? Did I say something funny?",
+      "translation": "Подожди, что? Я сказал что-то смешное?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_120.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_120.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "No. You're just too incredible, that's all. I was laughing because we can't hope to compete.",
+      "translation": "Нет. Ты просто невероятен, вот и все. Я смеялся, потому что мы не можем надеяться на конкуренцию."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_120.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_120.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "I'm jealous of you, to be honest. If only we could command such alchemy.",
+      "translation": "Я завидую тебе, если честно. Если бы мы только могли управлять такой алхимией."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_120.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_120.ebm",
+      "index": 10,
+      "speaker": "Sophie",
+      "original": "Not at all. Like I said before, I still have a lot to learn. I can't achieve my dream yet.",
+      "translation": "Нисколько. Как я уже говорил, мне еще предстоит многому научиться. Я пока не могу осуществить свою мечту."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_120.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_120.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "Your dream?",
+      "translation": "Ваша мечта?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_120.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_120.ebm",
+      "index": 12,
+      "speaker": "Sophie",
+      "original": "Not to mention, when I was around your age I couldn't even make simple medicine!",
+      "translation": "Не говоря уже о том, что когда я был примерно в твоем возрасте, я не умел даже делать простые лекарства!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_120.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_120.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "What? You couldn't? I don't believe it!",
+      "translation": "Что? Ты не мог? Я не верю этому!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_120.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_120.ebm",
+      "index": 14,
+      "speaker": "Sophie",
+      "original": "It's all true. You can ask Plachta. I was a real hopeless alchemist, when I was starting out.",
+      "translation": "Это все правда. Вы можете спросить у Плачты. Когда я только начинал, я был настоящим безнадежным алхимиком."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_120.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_120.ebm",
+      "index": 15,
+      "speaker": "Sophie",
+      "original": "Compared to me back then, you two are something else. You'll surpass me in no time, at this rate.",
+      "translation": "По сравнению со мной тогда вы двое — нечто другое. Такими темпами ты превзойдёшь меня в мгновение ока."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_120.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_120.ebm",
+      "index": 16,
+      "speaker": "Sophie",
+      "original": "Girls, you need to keep doing your best, working toward that future. OK?",
+      "translation": "Девочки, вам нужно продолжать делать все возможное, работая над этим будущим. ХОРОШО?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_120.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_120.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "Working toward the future? How about an item that lets us travel there, then?",
+      "translation": "Стремитесь к будущему? А как насчет предмета, который позволит нам путешествовать туда?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_120.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_120.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "That's now what she's talking about. Sue, pay attention!",
+      "translation": "Вот о чем она сейчас говорит. Сью, обратите внимание!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_120.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_120.ebm",
+      "index": 19,
+      "speaker": "Sophie",
+      "original": "Hahaha! A trip into the future? Hmm, that might be worth a try!",
+      "translation": "Ха-ха-ха! Путешествие в будущее? Хм, возможно, стоит попробовать!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_130.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_130.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Hey, one thing has been on my mind. Sophie, you said you have a dream, right?",
+      "translation": "Эй, у меня на уме одна вещь. Софи, ты сказала, что у тебя есть мечта, да?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_130.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_130.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "I've been wanting to ask the same thing. Just what is your dream, Sophie?",
+      "translation": "Я хотел спросить то же самое. О чем твоя мечта, Софи?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_130.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_130.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "With abilities like yours, I bet you can make any dream come true.",
+      "translation": "Могу поспорить, что с такими способностями, как ваши, вы сможете воплотить в жизнь любую мечту."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_130.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_130.ebm",
+      "index": 3,
+      "speaker": "Firis",
+      "original": "Hehehe! I asked her the same thing, once upon a time.",
+      "translation": "Хе-хе-хе! Однажды я спросил ее о том же."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_130.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_130.ebm",
+      "index": 4,
+      "speaker": "Sophie",
+      "original": "Hahaha, I'm not keeping this a secret! I'll tell you whatever you want to know.",
+      "translation": "Ха-ха-ха, я не держу это в секрете! Я расскажу тебе все, что ты хочешь знать."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_130.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_130.ebm",
+      "index": 5,
+      "speaker": "Sophie",
+      "original": "I've got two dreams. The first one is to give Plachta her human body back.",
+      "translation": "У меня есть две мечты. Первый — вернуть Плахте человеческое тело."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_130.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_130.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Ah, right. Plachta was human, originally, wasn't she.",
+      "translation": "Ах да. Плахта изначально была человеком, не так ли?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_130.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_130.ebm",
+      "index": 7,
+      "speaker": "Sophie",
+      "original": "That's right. There are all sorts of differences between human and dolls, after all.",
+      "translation": "Это верно. В конце концов, между человеком и куклой есть масса различий."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_130.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_130.ebm",
+      "index": 8,
+      "speaker": "Sophie",
+      "original": "In order to live together like this, going forward, I want to turn Plachta back into a human.",
+      "translation": "Чтобы так жить вместе, в дальнейшем я хочу превратить Плахту обратно в человека."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_130.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_130.ebm",
+      "index": 9,
+      "speaker": "Sophie",
+      "original": "My other dream, is to use alchemy to make everyone happy.",
+      "translation": "Другая моя мечта — использовать алхимию, чтобы сделать всех счастливыми."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_130.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_130.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Wow! That's quite a dream!",
+      "translation": "Ух ты! Это просто мечта!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_130.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_130.ebm",
+      "index": 11,
+      "speaker": "Sophie",
+      "original": "I know. I started learning alchemy thanks to my grandma, who ran an atelier in my hometown.",
+      "translation": "Я знаю. Я начал изучать алхимию благодаря моей бабушке, которая владела ателье в моем родном городе."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_130.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_130.ebm",
+      "index": 12,
+      "speaker": "Sophie",
+      "original": "Whenever she used her alchemy, she'd always bring smiles to everyone's faces!",
+      "translation": "Всякий раз, когда она использовала свою алхимию, она всегда вызывала улыбки на лицах всех!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_130.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_130.ebm",
+      "index": 13,
+      "speaker": "Sophie",
+      "original": "Seeing that, I wanted to be just like her. So I started wondering if I could use alchemy, too!",
+      "translation": "Видя это, мне хотелось быть такой же, как она. Поэтому я начал задаваться вопросом, могу ли я тоже использовать алхимию!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_130.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_130.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "I see. That's where you get \"using alchemy for everyone\" from?",
+      "translation": "Я понимаю. Вот откуда вы взяли \"алхимию для всех\"?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_130.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_130.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "So cool! I want to do that, too! I want to use alchemy to make everyone happy!",
+      "translation": "Так круто! Я тоже хочу это сделать! Я хочу использовать алхимию, чтобы сделать всех счастливыми!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_130.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_130.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "Me too! It makes me so happy when people appreciate the items we make.",
+      "translation": "Я тоже! Мне очень приятно, когда люди ценят то, что мы делаем."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_130.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_130.ebm",
+      "index": 17,
+      "speaker": "Firis",
+      "original": "I know. You can't help but get sucked into it all, can you.",
+      "translation": "Я знаю. Ты не можешь не втянуться во все это, не так ли?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_130.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_130.ebm",
+      "index": 18,
+      "speaker": "Firis",
+      "original": "My teacher's dream is just so big! So amazing!",
+      "translation": "Мечта моего учителя такая большая! Так потрясающе!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_130.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_130.ebm",
+      "index": 19,
+      "speaker": "Sophie",
+      "original": "Hey, you're embarrassing me. I'll go and m-make some cookies, OK?",
+      "translation": "Эй, ты меня смущаешь. Я пойду и приготовлю печенье, ладно?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_130.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_130.ebm",
+      "index": 20,
+      "speaker": "Firis",
+      "original": "Hahaha, her face was bright red! She's got nothing to be embarrassed about.",
+      "translation": "Ха-ха-ха, ее лицо было ярко-красным! Ей нечего смущаться."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_130.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_130.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "I know. It's a lovely dream, really.",
+      "translation": "Я знаю. Это правда прекрасная мечта."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_130.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_130.ebm",
+      "index": 22,
+      "speaker": "Sue",
+      "original": "Right. That dream is the source of Sophie's power. She really is incredible.",
+      "translation": "Верно. Этот сон — источник силы Софи. Она действительно невероятна."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 0,
+      "speaker": "Sophie",
+      "original": "Uwah!",
+      "translation": "Ува!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "What's up, Sophie? You've been making noises over that thing for a while now?",
+      "translation": "Как дела, Софи? Вы уже какое-то время поднимаете шум из-за этой штуки?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 2,
+      "speaker": "Sophie",
+      "original": "Ah, it's this magazine. There's an article in it that's really bringing back some memories.",
+      "translation": "Ах, это этот журнал. Там есть статья, которая действительно навевает некоторые воспоминания."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "What is it? \"Exploring Kirchen Bell\". Uwah, wall of text! Lydie, you take over.",
+      "translation": "Что это такое? «Исследование Кирхен-Колокола». Ух, стена текста! Лиди, ты возьми дело на себя."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Let's see. \"Church songstress, a revolutionary watch maker, and massive commercial facility.\"",
+      "translation": "Давайте посмотрим. «Церковная певица, революционный часовщик и крупный коммерческий объект»."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "\"An old-timey café, and a cake shop run by a large family...\"",
+      "translation": "\"Старинное кафе и кондитерская, которыми управляет большая семья...\""
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Wow, this looks like a lovely place! Sophie, have you been here before?",
+      "translation": "Вау, это похоже на прекрасное место! Софи, ты бывала здесь раньше?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 7,
+      "speaker": "Sophie",
+      "original": "Been there? This is where I grew up.",
+      "translation": "Были там? Здесь я вырос."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "What! You could have led with that!",
+      "translation": "Что! Вы могли бы вести это!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 9,
+      "speaker": "Sophie",
+      "original": "Sorry! I know everyone mentioned in this article. So reading it brought back lots of memories.",
+      "translation": "Извини! Я знаю всех, упомянутых в этой статье. Поэтому чтение вызвало много воспоминаний."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Haha, that's what all the gasping was about.",
+      "translation": "Хаха, вот из-за чего все задыхались."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 11,
+      "speaker": "Sophie",
+      "original": "Yeah. Since I started my travels to restore Plachta, I haven't been home once.",
+      "translation": "Ага. С тех пор, как я начал свое путешествие по восстановлению Плахты, я ни разу не был дома."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "It's been a while, then. You must be sad.",
+      "translation": "Тогда прошло много времени. Тебе должно быть грустно."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 13,
+      "speaker": "Sophie",
+      "original": "Yeah, of course I am. It's good to see that everyone is doing good, though.",
+      "translation": "Да, конечно. Хотя приятно видеть, что у всех дела идут хорошо."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 14,
+      "speaker": "Sophie",
+      "original": "Right, that settles it! Once Plachta is human again, I'm going to go and show my face back home!",
+      "translation": "Ладно, это решает вопрос! Как только Плахта снова станет человеком, я пойду и покажусь дома!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 15,
+      "speaker": "Sophie",
+      "original": "I don't think it will take much longer, either.",
+      "translation": "Я тоже не думаю, что это займет много времени."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "Really? Does that mean...?",
+      "translation": "Действительно? Означает ли это...?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 17,
+      "speaker": "Sophie",
+      "original": "Yep! I'm close to finding the final item I need to restore Plachta.",
+      "translation": "Ага! Я близок к тому, чтобы найти последний предмет, необходимый для восстановления Плахты."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 18,
+      "speaker": "Sophie",
+      "original": "I'm still working on the recipe, but it just needs one final push.",
+      "translation": "Я все еще работаю над рецептом, но нужен лишь последний штрих."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "Uwah, that's great! We'll need to get something ready, to celebrate!",
+      "translation": "Увау, это здорово! Нам нужно что-то подготовить, чтобы отпраздновать!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 20,
+      "speaker": "Sue",
+      "original": "Yeah, what would be best? A ring, or a pendant? Something you can wear?",
+      "translation": "Да, что было бы лучше? Кольцо или кулон? Что-то, что ты можешь носить?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "No, how about some delicious good? Or maybe a Plachta doll!",
+      "translation": "Нет, как насчет чего-нибудь вкусненького? А может быть кукла Плахта!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 22,
+      "speaker": "Sophie",
+      "original": "Just a little more. A little more!",
+      "translation": "Еще немного. Еще немного!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 23,
+      "speaker": "System",
+      "original": "Sophie has acquired the skill <CLEG>\"Voice of Guidance\"<CLNR>.",
+      "translation": "Софи приобрела навык <CLEG> «Голос руководства»<CLNR>."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_140.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_140.ebm",
+      "index": 24,
+      "speaker": "System",
+      "original": "A new Combination Art for Lydie and Sophie <CLEG>\"Rainbow Codex\"<CLNR> is unlocked.",
+      "translation": "Разблокировано новое комбинированное искусство для Лиди и Софи <CLEG> «Радужный Кодекс» <CLNR>."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_150.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_150.ebm",
+      "index": 0,
+      "speaker": "Firis",
+      "original": "Hmm. So how about we just forcibly make it using alchemy?",
+      "translation": "Хм. Так как насчет того, чтобы просто насильно сделать это с помощью алхимии?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_150.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_150.ebm",
+      "index": 1,
+      "speaker": "Sophie",
+      "original": "I don't think that's the best idea. We need to ensure its stability.",
+      "translation": "Я не думаю, что это лучшая идея. Нам необходимо обеспечить его стабильность."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_150.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_150.ebm",
+      "index": 2,
+      "speaker": "unknown(name_id=18)",
+      "original": "Good point. This is harder than we thought, isn't it...",
+      "translation": "Хорошая мысль. Это сложнее, чем мы думали, не так ли..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_150.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_150.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "You seem to be having an intense discussion. What's going on?",
+      "translation": "Кажется, вы ведете напряженную дискуссию. Что происходит?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_150.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_150.ebm",
+      "index": 4,
+      "speaker": "Sophie",
+      "original": "Ah, Lydie, Sue! Can we ask you something?",
+      "translation": "Ах, Лиди, Сью! Можем ли мы спросить вас кое-что?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_150.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_150.ebm",
+      "index": 5,
+      "speaker": "Sophie",
+      "original": "I've made the recipe for the item to make Plachta human, but the materials we need are pretty tough.",
+      "translation": "Я составил рецепт предмета, который сделает Плахту человеком, но материалы, которые нам нужны, довольно прочные."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_150.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_150.ebm",
+      "index": 6,
+      "speaker": "unknown(name_id=18)",
+      "original": "The quality we need is the problem. It seems unlikely that they exist in this world.",
+      "translation": "Проблема в том, какое качество нам нужно. Кажется маловероятным, что они существуют в этом мире."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_150.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_150.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Huh? What do you mean? If the materials can't exist, you can't synthesize it!",
+      "translation": "Хм? Что ты имеешь в виду? Если материалы не могут существовать, вы не сможете их синтезировать!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_150.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_150.ebm",
+      "index": 8,
+      "speaker": "Firis",
+      "original": "I know. The recipe is perfect, though. There's no holes in it, I'm sure.",
+      "translation": "Я знаю. Хотя рецепт идеален. Я уверен, что там нет дырок."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_150.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_150.ebm",
+      "index": 9,
+      "speaker": "Sophie",
+      "original": "Which means the basic hypothesis is incorrect, and we have to go back to square one.",
+      "translation": "А это значит, что основная гипотеза неверна, и нам придется вернуться к исходной точке."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_150.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_150.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Hold on. If they can't exist in this world, what about inside a painting world?",
+      "translation": "Подожди. Если они не могут существовать в этом мире, то как насчет мира живописи?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_150.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_150.ebm",
+      "index": 11,
+      "speaker": "Firis",
+      "original": "Lydie! Say that again!",
+      "translation": "Лиди! Скажи это еще раз!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_150.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_150.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "Well, I was just thinking, if they can't exist in the real world, maybe inside a painting?",
+      "translation": "Ну, я просто подумал, если они не могут существовать в реальном мире, может быть, внутри картины?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_150.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_150.ebm",
+      "index": 13,
+      "speaker": "Firis",
+      "original": "Miss Sophie... Painting worlds are raw alchemy. It's used to make the very worlds themselves...",
+      "translation": "Мисс Софи... Живописные миры - это грубая алхимия. Он использовался для создания самих миров..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_150.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_150.ebm",
+      "index": 14,
+      "speaker": "unknown(name_id=18)",
+      "original": "And so they are filled with materials that can't exist in the real world.",
+      "translation": "И поэтому они наполнены материалами, которые не могут существовать в реальном мире."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_150.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_150.ebm",
+      "index": 15,
+      "speaker": "unknown(name_id=18)",
+      "original": "Meanwhile, while they are created in their own unique world, they are also very stable.",
+      "translation": "Между тем, хотя они и созданы в своем уникальном мире, они еще и очень стабильны."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_150.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_150.ebm",
+      "index": 16,
+      "speaker": "unknown(name_id=18)",
+      "original": "Yes. That's not a bad idea.",
+      "translation": "Да. Это неплохая идея."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_150.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_150.ebm",
+      "index": 17,
+      "speaker": "Sophie",
+      "original": "I think it's worth betting on that possibility. I don't want to just give up!",
+      "translation": "Думаю, стоит сделать ставку на такую возможность. Я не хочу просто сдаваться!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_150.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_150.ebm",
+      "index": 18,
+      "speaker": "Sophie",
+      "original": "Lydie, Sue. Will you go with me and look for the materials I need?",
+      "translation": "Лиди, Сью. Пойдешь со мной и поищешь нужные мне материалы?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_150.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_150.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "Yes! Of course! Sue and I would love to help you!",
+      "translation": "Да! Конечно! Мы со Сью будем рады помочь тебе!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_150.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_150.ebm",
+      "index": 20,
+      "speaker": "Sophie",
+      "original": "Thanks! Just hold on, Plachta. I'll find everything we need, no problem.",
+      "translation": "Спасибо! Держись, Плахта. Я найду все, что нам нужно, без проблем."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_150.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_150.ebm",
+      "index": 21,
+      "speaker": "unknown(name_id=18)",
+      "original": "OK. Just be careful, and thank you for doing this.",
+      "translation": "ХОРОШО. Просто будьте осторожны, и спасибо вам за это."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_160.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_160.ebm",
+      "index": 0,
+      "speaker": "Firis",
+      "original": "Ah, teacher! I think this material looks like it might work?",
+      "translation": "Ах, учитель! Я думаю, что этот материал может сработать?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_160.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_160.ebm",
+      "index": 1,
+      "speaker": "Sophie",
+      "original": "Yes, you're right! Let's gather some, quickly!",
+      "translation": "Да, ты прав! Давайте соберем немного, быстро!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_160.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_160.ebm",
+      "index": 2,
+      "speaker": "Monster",
+      "original": "Graaoooooow!",
+      "translation": "Граааааааа!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_160.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_160.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Uwah, now we've got a problem!",
+      "translation": "Увау, теперь у нас проблема!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_160.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_160.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "We can't collect the material until we defeat that monster. What do you think, Sophie?",
+      "translation": "Мы не сможем собрать материал, пока не победим этого монстра. Что ты думаешь, Софи?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_160.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_160.ebm",
+      "index": 5,
+      "speaker": "Sophie",
+      "original": "Do you even need to ask? Take it down!",
+      "translation": "Вам вообще нужно спрашивать? Сними это!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_170.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_170.ebm",
+      "index": 0,
+      "speaker": "Sophie",
+      "original": "We won't lose this time. We're taking that material back with us!",
+      "translation": "На этот раз мы не проиграем. Мы забираем этот материал с собой!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_180.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_180.ebm",
+      "index": 0,
+      "speaker": "Sophie",
+      "original": "That takes care of that. Right!",
+      "translation": "Это позаботится об этом. Верно!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_180.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_180.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "What do you think, Sophie?",
+      "translation": "Что ты думаешь, Софи?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_180.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_180.ebm",
+      "index": 2,
+      "speaker": "Sophie",
+      "original": "Yes, this will do the job. I think I can use this for the synthesis.",
+      "translation": "Да, это сработает. Думаю, я смогу использовать это для синтеза."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_180.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_180.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Great! That's one step forward!",
+      "translation": "Большой! Это шаг вперед!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_180.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_180.ebm",
+      "index": 4,
+      "speaker": "Firis",
+      "original": "Great. Hehe, I'm glad to hear it!",
+      "translation": "Большой. Хе-хе, я рад это слышать!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_180.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_180.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Right. The search isn't over yet!",
+      "translation": "Верно. Поиски еще не окончены!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_190.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_190.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Hmm, I'm not seeing anything we can use around here.",
+      "translation": "Хм, я не вижу здесь ничего, что можно было бы использовать."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_190.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_190.ebm",
+      "index": 1,
+      "speaker": "Sophie",
+      "original": "Yeah. Maybe there's nothing here?",
+      "translation": "Ага. Может, здесь ничего нет?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_190.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_190.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Maybe not. Let's just look a little longer...",
+      "translation": "Может быть, нет. Давайте просто посмотрим еще немного..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_190.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_190.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Ah, hello. Would you consider just running off without doing...",
+      "translation": "Ах, привет. Не могли бы вы подумать о том, чтобы просто сбежать, не сделав..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_190.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_190.ebm",
+      "index": 4,
+      "speaker": "Monster",
+      "original": "Graaaaaaaaaah!",
+      "translation": "Граааааааа!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_190.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_190.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "I thought not!",
+      "translation": "Я думал нет!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_200.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_200.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Gyaaah, it's that monster again!",
+      "translation": "Дааа, это снова тот монстр!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_210.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_210.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Phew. Why did it have to just pop up like that? Hey!",
+      "translation": "Уф. Почему это должно было просто так всплывать? Привет!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_210.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_210.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "What's this? That monster dropped it?",
+      "translation": "Что это? Этот монстр уронил его?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_210.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_210.ebm",
+      "index": 2,
+      "speaker": "Sophie",
+      "original": "Hey! That's it. One of the materials I've been after!",
+      "translation": "Привет! Вот и все. Один из материалов, который мне нужен!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_210.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_210.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Wow, it is? That's a stroke of luck, Sophie!",
+      "translation": "Вау, это так? Это удача, Софи!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_210.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_210.ebm",
+      "index": 4,
+      "speaker": "Sophie",
+      "original": "Tell me about it! It was worth defeating that monster after all!",
+      "translation": "Расскажи мне об этом! В конце концов, стоило победить этого монстра!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_210.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_210.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "I guess so. Let's carry on with the search in the other worlds, then!",
+      "translation": "Полагаю, что так. Тогда продолжим поиски в других мирах!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_220.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_220.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Uwah, there's a monster there. I don't want to have to fight it. Let's just sneak by.",
+      "translation": "Ух, там монстр. Я не хочу с этим бороться. Давайте просто проскользнем мимо."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_220.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_220.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Good idea... hold on. I think there's something there, by the monster?",
+      "translation": "Хорошая идея... подожди. Думаю, там что-то есть, возле монстра?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_220.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_220.ebm",
+      "index": 2,
+      "speaker": "Sophie",
+      "original": "Ah! That's one of the materials I need!",
+      "translation": "Ах! Это один из материалов, которые мне нужны!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_220.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_220.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "No! That monster is about to squish it!",
+      "translation": "Нет! Этот монстр собирается его раздавить!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_220.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_220.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "We need to defeat that monster, before that happens! Let's go!",
+      "translation": "Нам нужно победить этого монстра, прежде чем это произойдет! Пойдем!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_230.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_230.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Phew. It looks like the material is still there. But we need to defeat that monster, quick!",
+      "translation": "Уф. Похоже, материал все еще там. Но нам нужно быстро победить этого монстра!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_240.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_240.ebm",
+      "index": 0,
+      "speaker": "Firis",
+      "original": "Yes, we got it! The material is safe, too!",
+      "translation": "Да, мы поняли! Материал также безопасен!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_240.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_240.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Great. Let's grab some before other monsters turn up.",
+      "translation": "Большой. Давайте захватим немного, пока не появились другие монстры."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_240.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_240.ebm",
+      "index": 2,
+      "speaker": "Sophie",
+      "original": "Yes, I can use this! Phew, I'm glad it didn't get mushed!",
+      "translation": "Да, я могу это использовать! Уф, я рад, что не развалилось!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_240.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_240.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Me too. So glad we got it safely.",
+      "translation": "Я тоже. Я так рад, что мы получили его благополучно."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_240.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_240.ebm",
+      "index": 4,
+      "speaker": "Firis",
+      "original": "Right, let's search the other worlds too! I bet we'll find more materials in no time!",
+      "translation": "Хорошо, давайте обыскаем и другие миры! Могу поспорить, что мы скоро найдем больше материалов!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_250.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_250.ebm",
+      "index": 0,
+      "speaker": "Sophie",
+      "original": "Yes. Thank you, everyone! I've got everything I need.",
+      "translation": "Да. Спасибо всем! У меня есть все, что мне нужно."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_250.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_250.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Really? That's great! This was such a good idea, Lydie!",
+      "translation": "Действительно? Замечательно! Это была такая хорошая идея, Лиди!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_250.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_250.ebm",
+      "index": 2,
+      "speaker": "Firis",
+      "original": "Sue's right! You worked out where we could find these items!",
+      "translation": "Сью права! Вы придумали, где мы можем найти эти предметы!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_250.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_250.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Heheh, you think? I'm just happy to have helped out!",
+      "translation": "Хе-хе, думаешь? Я просто рад, что помог!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_250.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_250.ebm",
+      "index": 4,
+      "speaker": "Sophie",
+      "original": "Thanks again. Now I should be able to turn Plachta back into a human!",
+      "translation": "Еще раз спасибо. Теперь я смогу снова превратить Плахту в человека!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_250.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_250.ebm",
+      "index": 5,
+      "speaker": "Sophie",
+      "original": "Everyone, back to the atelier! I need to start synthesizing right away!",
+      "translation": "Все, обратно в ателье! Мне нужно срочно начать синтезировать!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_260.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_260.ebm",
+      "index": 0,
+      "speaker": "Sophie",
+      "original": "We're back, Plachta! We've got everything we need!",
+      "translation": "Мы вернулись, Плахта! У нас есть все, что нам нужно!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_260.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_260.ebm",
+      "index": 1,
+      "speaker": "unknown(name_id=18)",
+      "original": "You have? Thank you so much!",
+      "translation": "У вас есть? Большое спасибо!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_260.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_260.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "It's no problem. Sophie, to work!",
+      "translation": "Это не проблема. Софи, на работу!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_260.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_260.ebm",
+      "index": 3,
+      "speaker": "Sophie",
+      "original": "Yes, it's time to start synthesizing. I can't afford to fail. I need to concentrate!",
+      "translation": "Да, пришло время начать синтезировать. Я не могу позволить себе потерпеть неудачу. Мне нужно сконцентрироваться!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_260.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_260.ebm",
+      "index": 4,
+      "speaker": "Firis",
+      "original": "I'll help, too! That will be more effective than working alone!",
+      "translation": "Я тоже помогу! Это будет эффективнее, чем работать в одиночку!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_260.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_260.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Good idea. We'll help too!",
+      "translation": "Хорошая идея. Мы тоже поможем!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_260.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_260.ebm",
+      "index": 6,
+      "speaker": "Sophie",
+      "original": "No, I'm sorry. Thanks for the offer, but I need to do this alone.",
+      "translation": "Нет, мне очень жаль. Спасибо за предложение, но мне нужно сделать это одному."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_260.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_260.ebm",
+      "index": 7,
+      "speaker": "Sophie",
+      "original": "This synthesis has to be done by me.",
+      "translation": "Этот синтез должен быть сделан мной."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_260.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_260.ebm",
+      "index": 8,
+      "speaker": "Firis",
+      "original": "Miss Sophie...",
+      "translation": "Мисс Софи..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_260.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_260.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Very well. In which case, you'll provide support from the sidelines! You can do it!",
+      "translation": "Очень хорошо. В таком случае вам окажут поддержку со стороны! Вы можете это сделать!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_260.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_260.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Do it, do it, Sophie!",
+      "translation": "Сделай это, сделай это, Софи!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_260.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_260.ebm",
+      "index": 11,
+      "speaker": "Sophie",
+      "original": "Hehe, thanks! You've just given me a big boost of confidence!",
+      "translation": "Хе-хе, спасибо! Вы только что придали мне большую уверенность в себе!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_260.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_260.ebm",
+      "index": 12,
+      "speaker": "Sophie",
+      "original": "I'll call you once it's finished. I want you to see Plachta turn into a human!",
+      "translation": "Я позвоню тебе, как только все закончится. Я хочу, чтобы ты увидел, как Плахта превратилась в человека!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_260.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_260.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "Heheh, we're looking forward to it. Good luck, Sophie! You can do it.",
+      "translation": "Хе-хе, мы с нетерпением этого ждем. Удачи, Софи! Вы можете это сделать."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_260.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_260.ebm",
+      "index": 14,
+      "speaker": "unknown(name_id=18)",
+      "original": "Are you sure about this? Couldn't you use the help?",
+      "translation": "Вы уверены в этом? Не могли бы вы воспользоваться помощью?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_260.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_260.ebm",
+      "index": 15,
+      "speaker": "Sophie",
+      "original": "I'm sure. Call it my pride as an alchemist, perhaps.",
+      "translation": "Я уверен. Назовите это, пожалуй, моей гордостью как алхимика."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_260.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_260.ebm",
+      "index": 16,
+      "speaker": "Sophie",
+      "original": "I'll be fine. I'm not going to screw this up, I promise.",
+      "translation": "Я буду в порядке. Я не собираюсь облажаться, обещаю."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_260.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_260.ebm",
+      "index": 17,
+      "speaker": "Firis",
+      "original": "We know! There's no way you can fail.",
+      "translation": "Мы знаем! У вас нет шансов потерпеть неудачу."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_260.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_260.ebm",
+      "index": 18,
+      "speaker": "Sophie",
+      "original": "Thanks. This is it, then. The final stage of the mission to make Plachta human! Let's go!",
+      "translation": "Спасибо. Вот и все. Финальный этап миссии по превращению Плачты в человека! Пойдем!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_270.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_270.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Sophie. How's the synthesis going?",
+      "translation": "Софи. Как проходит синтез?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_270.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_270.ebm",
+      "index": 1,
+      "speaker": "Sophie",
+      "original": "Good, cauldron temp is perfect. Now just wait a little longer, let them separate...",
+      "translation": "Хорошо, температура в котле идеальная. Теперь подожди еще немного, пусть они разойдутся..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_270.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_270.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "She's totally focused. We'd better not interrupt her.",
+      "translation": "Она полностью сосредоточена. Нам лучше не прерывать ее."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_270.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_270.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Good idea. Good luck, Sophie!",
+      "translation": "Хорошая идея. Удачи, Софи!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 0,
+      "speaker": "Firis",
+      "original": "Lydie, Sue! Big news! This is real big!",
+      "translation": "Лиди, Сью! Большие новости! Это очень важно!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "I think I know what's happening!",
+      "translation": "Кажется, я знаю, что происходит!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 2,
+      "speaker": "Firis",
+      "original": "I should think so! The item to turn Plachta human has been completed!",
+      "translation": "Я должен так думать! Предмет по превращению Плахты в человека выполнен!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 3,
+      "speaker": "Firis",
+      "original": "Come on, let's go and see! Hurry up, hurry up!",
+      "translation": "Давай, пойдем посмотрим! Поторопитесь, поторопитесь!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 4,
+      "speaker": "Sophie",
+      "original": "Heheh! Thank you all for coming!",
+      "translation": "Хе-хе! Спасибо всем, что пришли!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 5,
+      "speaker": "unknown(name_id=18)",
+      "original": "From me, too. All of this trouble just for me.",
+      "translation": "От меня тоже. Все эти неприятности только для меня."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "Not at all! Come on, Sophie, show us what you've made!",
+      "translation": "Нисколько! Давай, Софи, покажи нам, что ты сделала!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 7,
+      "speaker": "Sophie",
+      "original": "Ta-dah! Here it is, the Ribil Tome of Magic!",
+      "translation": "Та-да! Вот он, Книга Магии Рибил!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 8,
+      "speaker": "Sophie",
+      "original": "This item controls the... ah, let's not get into the complex stuff right now.",
+      "translation": "Этот предмет управляет... ах, давайте не будем сейчас вдаваться в сложные вещи."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 9,
+      "speaker": "Sophie",
+      "original": "In any case, if this goes according to plan, we should be able to turn Plachta human!",
+      "translation": "В любом случае, если все пойдет по плану, мы сможем превратить Плахту в человека!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Wow! My heart is pounding!",
+      "translation": "Ух ты! Мое сердце бьется!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Me too. To be present at a moment like this!",
+      "translation": "Я тоже. Присутствовать в такой момент!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 12,
+      "speaker": "Firis",
+      "original": "Miss Sophie, it's time.",
+      "translation": "Мисс Софи, пора."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 13,
+      "speaker": "Sophie",
+      "original": "OK. Plachta, are you ready?",
+      "translation": "ХОРОШО. Плахта, ты готова?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 14,
+      "speaker": "unknown(name_id=18)",
+      "original": "Yes. Whenever you are, Sophie.",
+      "translation": "Да. Когда бы ты ни была, Софи."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 15,
+      "speaker": "unknown(name_id=18)",
+      "original": "Having all these people here reminds me of the time when I moved from the book to the doll.",
+      "translation": "Присутствие всех этих людей здесь напоминает мне о времени, когда я перешел от книги к кукле."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 16,
+      "speaker": "Sophie",
+      "original": "Ahaha, yes! Just like that time, I'll succeed this time too!",
+      "translation": "Ахаха, да! Как и в тот раз, у меня все получится и в этот раз!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 17,
+      "speaker": "Sophie",
+      "original": "Here I go! We're all counting on you, Ribil Tome of Magic!",
+      "translation": "Вот и я! Мы все рассчитываем на тебя, Рибил Фолиант Магии!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 18,
+      "speaker": "Sophie",
+      "original": "Soul, to its rightful home! Lead Plachta to a human body!",
+      "translation": "Душа в свой законный дом! Приведите Плачта к человеческому телу!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "What happened! Did it work?",
+      "translation": "Что случилось! Это сработало?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 20,
+      "speaker": "Sophie",
+      "original": "Plachta!",
+      "translation": "Плахта!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 21,
+      "speaker": "Plachta",
+      "original": "Yes. What is it?",
+      "translation": "Да. Что это такое?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 22,
+      "speaker": "Sophie",
+      "original": "Ah! Plachta! Plachta!",
+      "translation": "Ах! Плахта! Плахта!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 23,
+      "speaker": "Sophie",
+      "original": "Are you alright? Is anything wrong? Can you move?",
+      "translation": "Ты в порядке? Что-то не так? Можете ли вы двигаться?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 24,
+      "speaker": "Plachta",
+      "original": "I'm fine, thank you. Hehe, Sophie!",
+      "translation": "Я в порядке, спасибо. Хе-хе, Софи!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 25,
+      "speaker": "Sophie",
+      "original": "What is it? You don't hurt, do you?",
+      "translation": "Что это такое? Тебе не больно, да?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 26,
+      "speaker": "Plachta",
+      "original": "So this is your warmth. We've been together a long time, but I've finally got to experience it.",
+      "translation": "Итак, это ваше тепло. Мы были вместе долгое время, но мне наконец-то удалось это испытать."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 27,
+      "speaker": "Plachta",
+      "original": "You're so warm. So warm, Sophie!",
+      "translation": "Ты такой теплый. Так тепло, Софи!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 28,
+      "speaker": "Sophie",
+      "original": "Plachta! I'm so sorry for keeping you waiting so long. Finally, I've turned you back into a human!",
+      "translation": "Плахта! Мне очень жаль, что я заставил вас ждать так долго. Наконец-то я превратил тебя обратно в человека!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 29,
+      "speaker": "Sophie",
+      "original": "Uwaaah! Thank goodness! Finally!",
+      "translation": "Увааа! Слава богу! Окончательно!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 30,
+      "speaker": "Sophie",
+      "original": "It feels like you all saw something incredibly embarrassing back there.",
+      "translation": "Такое ощущение, что вы все увидели там что-то невероятно смущающее."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 31,
+      "speaker": "Plachta",
+      "original": "Me too. Crying so openly in front of other people.",
+      "translation": "Я тоже. Так открыто плакала перед другими людьми."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:32": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 32,
+      "speaker": "Sue",
+      "original": "Don't worry about it. I teared up as well, just watching you.",
+      "translation": "Не беспокойтесь об этом. Я тоже прослезилась, просто наблюдая за тобой."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:33": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 33,
+      "speaker": "Firis",
+      "original": "That's right! Cry all you like! You've finally achieved your dream of all these years!",
+      "translation": "Это верно! Плачьте сколько хотите! Вы наконец-то осуществили свою мечту всех этих лет!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:34": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 34,
+      "speaker": "Lydie",
+      "original": "Heheh, Sophie, Plachta. Congratulations!",
+      "translation": "Хе-хе, Софи, Плахта. Поздравляем!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:35": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 35,
+      "speaker": "Sophie",
+      "original": "Everyone! Thank you so much for all of your help!",
+      "translation": "Каждый! Огромное спасибо за вашу помощь!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:36": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 36,
+      "speaker": "Plachta",
+      "original": "Allow me to share my gratitude, too. It's thanks to all of you that I've become human again.",
+      "translation": "Позвольте и мне поделиться своей благодарностью. Благодаря всем вам я снова стал человеком."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:37": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 37,
+      "speaker": "Plachta",
+      "original": "Sophie and I will repay this great debt, I swear. Look forward to it.",
+      "translation": "Мы с Софи вернем этот великий долг, клянусь. С нетерпением ждем этого."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:38": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 38,
+      "speaker": "Sue",
+      "original": "Hehe, that sounds promising! We'd better be going, anyway.",
+      "translation": "Хе-хе, это звучит многообещающе! В любом случае, нам лучше идти."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:39": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 39,
+      "speaker": "Sue",
+      "original": "I'm sure they've got a lot to talk about, Lydie.",
+      "translation": "Я уверен, что им есть о чём поговорить, Лиди."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:40": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 40,
+      "speaker": "Lydie",
+      "original": "Yeah. We'll just get out of your hair! See you later!",
+      "translation": "Ага. Мы просто выберемся из твоих волос! Увидимся позже!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:41": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 41,
+      "speaker": "Firis",
+      "original": "I think I'll go for a walk, too. Just relax and get to know each other again, you two!",
+      "translation": "Я думаю, я тоже пойду прогуляться. Просто расслабьтесь и познакомьтесь снова, вы двое!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:42": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 42,
+      "speaker": "Sophie",
+      "original": "H-Hey, hold it! I think you're getting the wrong idea!",
+      "translation": "Х-Эй, подожди! Я думаю, что вы неправильно поняли!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:43": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 43,
+      "speaker": "Plachta",
+      "original": "Right! W-What are we going to talk about, suddenly being left alone?",
+      "translation": "Верно! О-о чем мы будем говорить, внезапно оставшись одни?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:44": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 44,
+      "speaker": "Sophie",
+      "original": "We'll find something. We've got plenty of time, now.",
+      "translation": "Мы что-нибудь найдём. Теперь у нас полно времени."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:45": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 45,
+      "speaker": "Plachta",
+      "original": "You're right. Let's just enjoy some idle chatter.",
+      "translation": "Ты прав. Давайте просто насладимся пустой болтовней."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_280.ebm:46": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_280.ebm",
+      "index": 46,
+      "speaker": "Sophie",
+      "original": "Hey, I know. I've got something...",
+      "translation": "Эй, я знаю. У меня есть кое-что..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_290.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_290.ebm",
+      "index": 0,
+      "speaker": "Sophie",
+      "original": "Hey, Lydie, Sue! Perfect timing!",
+      "translation": "Привет, Лиди, Сью! Идеальное время!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_290.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_290.ebm",
+      "index": 1,
+      "speaker": "Sophie",
+      "original": "As it turns out, I have a favor I need to ask of you.",
+      "translation": "Оказывается, мне нужно попросить тебя об услуге."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_290.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_290.ebm",
+      "index": 2,
+      "speaker": "Plachta",
+      "original": "Sophie, can I...",
+      "translation": "Софи, могу я..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_290.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_290.ebm",
+      "index": 3,
+      "speaker": "Sophie",
+      "original": "Hah!",
+      "translation": "Ха!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_290.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_290.ebm",
+      "index": 4,
+      "speaker": "Plachta",
+      "original": "Ugh... Never mind...",
+      "translation": "Ух... Неважно..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_290.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_290.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Hahaha, you two are still fighting?",
+      "translation": "Ха-ха-ха, вы все еще ссоритесь?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_290.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_290.ebm",
+      "index": 6,
+      "speaker": "Sophie",
+      "original": "That was completely Plachta's fault, after all! She just suddenly came out with that!",
+      "translation": "Ведь это целиком и полностью вина Плахты! Она просто внезапно высказала это!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_290.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_290.ebm",
+      "index": 7,
+      "speaker": "Sophie",
+      "original": "Anyway, putting that aside from a moment. I want you to go and fetch some soil potatoes.",
+      "translation": "В любом случае, отложим это на минутку. Я хочу, чтобы ты пошел и принес немного земляного картофеля."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_290.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_290.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "What, soil potatoes? You're going to use them for synthesis?",
+      "translation": "Что, земляной картофель? Вы собираетесь использовать их для синтеза?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_290.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_290.ebm",
+      "index": 9,
+      "speaker": "Sophie",
+      "original": "What I'm going to use them for is a secret. Get some really delicious looking ones, though!",
+      "translation": "Для чего я собираюсь их использовать — секрет. Но приобретите действительно вкусные!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_290.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_290.ebm",
+      "index": 10,
+      "speaker": "Sophie",
+      "original": "Ah, and don't tell anyone about this! Especially not Plachta!",
+      "translation": "Ах, и никому об этом не говорите! Особенно не Плахта!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_290.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_290.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Hahaha, very well. We accept this secret mission, Lady Sophie!",
+      "translation": "Ха-ха-ха, очень хорошо. Мы принимаем эту секретную миссию, леди Софи!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_290.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_290.ebm",
+      "index": 12,
+      "speaker": "Sophie",
+      "original": "Good. Lydie, Sue! I'm counting on you!",
+      "translation": "Хороший. Лиди, Сью! Я рассчитываю на тебя!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_290.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_290.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "Hey, Sue. These soil potatoes...",
+      "translation": "Привет, Сью. Этот земляной картофель..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_290.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_290.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "Yeah. I know what she's going to use them for. In which case...",
+      "translation": "Ага. Я знаю, для чего она собирается их использовать. В каком случае..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_290.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_290.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "Of course! We need to get the very highest quality soil potatoes!",
+      "translation": "Конечно! Нам необходимо получить почвенный картофель самого высокого качества!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 0,
+      "speaker": "Sophie",
+      "original": "Uwah, what delicious looking soil potatoes! This will do the trick!",
+      "translation": "Ух какой вкусный земляной картофель! Это сделает свое дело!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Yes! I'm sure you'll make up with Plachta!",
+      "translation": "Да! Я уверена, ты помиришься с Плахтой!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 2,
+      "speaker": "Sophie",
+      "original": "What? You knew what I was planning?",
+      "translation": "Что? Ты знал, что я планировал?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Of course. You're pretty easy to read, Sophie, in many ways.",
+      "translation": "Конечно. Тебя довольно легко читать, Софи, во многих отношениях."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 4,
+      "speaker": "Sophie",
+      "original": "Uwah! You're not the first to say it. Ahem!",
+      "translation": "Ува! Вы не первый, кто это говорит. Кхм!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 5,
+      "speaker": "Sophie",
+      "original": "As you seem to have guessed, I'm going to make Plachta's favorite soil potato stew.",
+      "translation": "Как вы, кажется, догадались, я собираюсь приготовить любимое у Плахты рагу из земляного картофеля."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 6,
+      "speaker": "Sophie",
+      "original": "How about you join us? It'll be even better if we share it with you, too.",
+      "translation": "Как насчет того, чтобы присоединиться к нам? Будет еще лучше, если мы поделимся этим и с вами."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "That sounds great! I'll help you make the stew, as well!",
+      "translation": "Это звучит великолепно! Я тебе тоже помогу приготовить рагу!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "I'll lay the table, then! I'm all about the eating, rather than the making!",
+      "translation": "Тогда я накрою на стол! Я больше о еде, чем о приготовлении!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 9,
+      "speaker": "Sophie",
+      "original": "Hahaha! It's the great Make Up Using Delicious Stew Operation! Let's do this!",
+      "translation": "Ха-ха-ха! Это великолепный макияж с использованием вкуснейшего тушения! Давайте сделаем это!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 11,
+      "speaker": "Sophie",
+      "original": "Plachta.",
+      "translation": "Плахта."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 12,
+      "speaker": "Plachta",
+      "original": "Sophie?",
+      "translation": "Софи?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 13,
+      "speaker": "Sophie",
+      "original": "Hehe. We've made some delicious soil potato stew. Care to join us, Plachta?",
+      "translation": "Хе-хе. Мы приготовили вкуснейшее рагу из земляного картофеля. Не хочешь присоединиться к нам, Плахта?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 14,
+      "speaker": "Plachta",
+      "original": "Yes! I'd love to!",
+      "translation": "Да! С удовольствием!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 15,
+      "speaker": "Plachta",
+      "original": "Wow! This is delicious!",
+      "translation": "Ух ты! Это вкусно!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "Hahaha, Plachta sure does love this.",
+      "translation": "Ха-ха-ха, Плахте это определенно нравится."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 17,
+      "speaker": "Plachta",
+      "original": "You bet I do. I've eaten a lot of different things since I became human...",
+      "translation": "Держу пари, что да. С тех пор, как я стал человеком, я ел много разного..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 18,
+      "speaker": "Plachta",
+      "original": "But I can easily state that Sophie's cooking is the very best!",
+      "translation": "Но я с легкостью могу заявить, что готовка Софи самая лучшая!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 19,
+      "speaker": "Sophie",
+      "original": "Hah, that's very kind of you. I'd better get some of this too, then! Oh yes, it's good!",
+      "translation": "Ха, это очень любезно с твоей стороны. Тогда мне тоже лучше взять что-нибудь из этого! О да, это хорошо!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 20,
+      "speaker": "Plachta",
+      "original": "You see? You see why I can't stop? Ugwah!",
+      "translation": "Понимаете? Видишь, почему я не могу остановиться? Угу!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "Uwah, you're turning blue! Here, drink some water.",
+      "translation": "Увау, ты синеешь! Вот, выпейте воды."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 22,
+      "speaker": "Plachta",
+      "original": "Uwah, thanks. I thought I was done for, and just after becoming human again!",
+      "translation": "Ува, спасибо. Я думал, что мне конец, и сразу после того, как я снова стал человеком!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 23,
+      "speaker": "Sophie",
+      "original": "No need to hurry. The food isn't going anywhere.",
+      "translation": "Не нужно спешить. Еда никуда не денется."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 24,
+      "speaker": "Sophie",
+      "original": "I can make this stew any time, as well. So long as you're willing to stick with me.",
+      "translation": "Я тоже могу приготовить это рагу в любое время. Пока ты готов остаться со мной."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 25,
+      "speaker": "Plachta",
+      "original": "Hah. I can't beat you, can I Sophie. Very well. I take back everything I said.",
+      "translation": "Ха. Я не могу победить тебя, не так ли, Софи? Очень хорошо. Я беру назад все, что сказал."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 26,
+      "speaker": "Plachta",
+      "original": "It would be a shame to go without such delicious food.",
+      "translation": "Было бы жаль обойтись без такой вкусной еды."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 27,
+      "speaker": "Sophie",
+      "original": "That's your reason? Not being apart from me, but my food?",
+      "translation": "Это твоя причина? Не быть отдельно от меня, а моей еды?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 28,
+      "speaker": "Together",
+      "original": "Hahahaha!",
+      "translation": "Ха-ха-ха!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 29,
+      "speaker": "System",
+      "original": "Hahahaha!",
+      "translation": "Ха-ха-ха!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 30,
+      "speaker": "Lydie",
+      "original": "We'd better be heading off, anyway!",
+      "translation": "В любом случае, нам лучше отправиться в путь!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 31,
+      "speaker": "Sue",
+      "original": "Thank you for the stew! We'll come again soon!",
+      "translation": "Спасибо за тушенку! Мы скоро приедем снова!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:32": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 32,
+      "speaker": "Sophie",
+      "original": "Hey, Plachta. That stuff you said, about getting in the way of my happiness?",
+      "translation": "Привет, Плахта. То, что ты сказал, о том, что ты мешаешь моему счастью?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:33": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 33,
+      "speaker": "Sophie",
+      "original": "That's not a thing. Like, not at all.",
+      "translation": "Это не так. Мол, совсем нет."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:34": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 34,
+      "speaker": "Plachta",
+      "original": "Sophie.",
+      "translation": "Софи."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:35": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 35,
+      "speaker": "Sophie",
+      "original": "I became this good at alchemy because I met you, Plachta.",
+      "translation": "Я так хорошо разбираюсь в алхимии, потому что встретил тебя, Плахта."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:36": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 36,
+      "speaker": "Sophie",
+      "original": "I met loads of other new people because I met you, Plachta.",
+      "translation": "Я встретил много других новых людей, потому что встретил тебя, Плахта."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:37": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 37,
+      "speaker": "Sophie",
+      "original": "I'm so happy, Plachta, because I met you.",
+      "translation": "Я так рада, Плахта, что встретила тебя."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:38": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 38,
+      "speaker": "Sophie",
+      "original": "You don't get in the way of my happiness. You're the one who's made me happy, Plachta.",
+      "translation": "Ты не помешаешь моему счастью. Ты та, кто сделал меня счастливой, Плахта."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:39": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 39,
+      "speaker": "Sophie",
+      "original": "So I don't want to lose you now. I want to be with you forever.",
+      "translation": "Поэтому я не хочу потерять тебя сейчас. Я хочу быть с тобой навсегда."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:40": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 40,
+      "speaker": "Sophie",
+      "original": "Until I'm an old granny! Until I die! That's what would really make me happy.",
+      "translation": "Пока я не стану старой бабушкой! Пока я не умру! Вот что действительно сделало бы меня счастливым."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:41": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 41,
+      "speaker": "Sophie",
+      "original": "Of course, if that's OK with you. Plachta, what do you think?",
+      "translation": "Конечно, если вас это устраивает. Плахта, что ты думаешь?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:42": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 42,
+      "speaker": "Plachta",
+      "original": "Hehe. When have our feelings never been in alignment?",
+      "translation": "Хе-хе. Когда наши чувства никогда не были в гармонии?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:43": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 43,
+      "speaker": "Sophie",
+      "original": "Ah!",
+      "translation": "Ах!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:44": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 44,
+      "speaker": "Plachta",
+      "original": "I also wish to walk the same path as you, Sophie. Those are my true feelings on this matter.",
+      "translation": "Я тоже хочу пройти тот же путь, что и ты, Софи. Вот мои истинные чувства по этому поводу."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:45": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 45,
+      "speaker": "Plachta",
+      "original": "I now have a limited lifespan myself. I don't know how long we will be together...",
+      "translation": "Теперь у меня самого ограниченный срок жизни. Я не знаю, как долго мы будем вместе..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:46": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 46,
+      "speaker": "Plachta",
+      "original": "But I promise again that I will spend that life with you.",
+      "translation": "Но я еще раз обещаю, что проведу эту жизнь с тобой."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:47": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 47,
+      "speaker": "Sophie",
+      "original": "I promise the same. That's my promise to you, Plachta.",
+      "translation": "Я обещаю то же самое. Это я тебе обещаю, Плахта."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_300.ebm:48": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_300.ebm",
+      "index": 48,
+      "speaker": "System",
+      "original": "<CLEG>\"Spirit Fire\"<CLNR> received.",
+      "translation": "<CLEG>\"Духовный огонь\"<CLNR> получен."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 0,
+      "speaker": "Sophie",
+      "original": "Aah...",
+      "translation": "Ааа..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "S-Sophie! You look completely drained!",
+      "translation": "С-Софи! Ты выглядишь совершенно истощенным!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 2,
+      "speaker": "Plachta",
+      "original": "Come on, pick yourself up. These two have taken the time to come and see us.",
+      "translation": "Давай, соберись. Эти двое нашли время прийти и навестить нас."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 3,
+      "speaker": "Sophie",
+      "original": "Hahaha, it just feels like I need to take a break, you know? So much has happened.",
+      "translation": "Ха-ха-ха, такое ощущение, что мне нужно сделать перерыв, понимаешь? Столько всего произошло."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 4,
+      "speaker": "Firis",
+      "original": "You've been like this for a while. I guess it can't be helped, things have been crazy.",
+      "translation": "Ты был таким какое-то время. Я думаю, ничего не поделаешь, все просто безумие."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "True. You finally fulfilled one of your longest held wishes, after all!",
+      "translation": "Истинный. В конце концов, вы наконец-то исполнили одно из своих самых давних желаний!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "I guess that's true. What are you going to do next, Sophie?",
+      "translation": "Я думаю, это правда. Что ты собираешься делать дальше, Софи?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 7,
+      "speaker": "Sophie",
+      "original": "Next? You know, I haven't really thought about it.",
+      "translation": "Следующий? Знаешь, я особо об этом не думал."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 8,
+      "speaker": "Sophie",
+      "original": "Even after I've seen you two rise to the top and run the greatest atelier, I'll probably stay here for a while.",
+      "translation": "Даже после того, как я увижу, как вы двое поднялись на вершину и управляете величайшим ателье, я, вероятно, останусь здесь на какое-то время."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 9,
+      "speaker": "Sophie",
+      "original": "After that, I'll head back to visit Kirchen Bell. And then, well...",
+      "translation": "После этого я вернусь, чтобы посетить Кирхен-Белл. А потом, ну..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 10,
+      "speaker": "Plachta",
+      "original": "I know what you are planning. Travel around again.",
+      "translation": "Я знаю, что ты планируешь. Путешествуйте снова."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Ah, I know why! To use alchemy to make everyone happy, right?",
+      "translation": "Ах, я знаю почему! Использовать алхимию, чтобы сделать всех счастливыми, верно?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 12,
+      "speaker": "Sophie",
+      "original": "That's right! You're on the ball today, Sue!",
+      "translation": "Это верно! Ты сегодня на высоте, Сью!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "Hehe, I'm the same as you! Every day, I like to think about how we can bring more happiness to others!",
+      "translation": "Хе-хе, я такой же, как ты! Каждый день мне нравится думать о том, как мы можем принести больше счастья другим!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "True, but the only ideas you ever come up with are about money!",
+      "translation": "Это правда, но единственные идеи, которые вам приходят в голову, касаются денег!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "Ah, because that's the easiest way! If you have money then you're happy, I'm sure!",
+      "translation": "Ах, потому что это самый простой способ! Если у тебя есть деньги, то ты счастлив, я уверен!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 16,
+      "speaker": "Firis",
+      "original": "Hahaha, that's just like you, Sue.",
+      "translation": "Ха-ха-ха, это так же, как ты, Сью."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 17,
+      "speaker": "Lydie",
+      "original": "I think you need to dream a bit bigger! Like, how about being surrounded by bears?",
+      "translation": "Я думаю, тебе нужно мечтать о большем! Например, как насчет того, чтобы оказаться в окружении медведей?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "Stuffed bears? Because if you mean real ones, that's a nightmare, not a dream!",
+      "translation": "Чучела медведей? Потому что если вы имеете в виду настоящих, то это кошмар, а не сон!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 19,
+      "speaker": "Plachta",
+      "original": "Hehe. Free thinking is the way to go. There's no right answer to this question, anyway.",
+      "translation": "Хе-хе. Свободное мышление – это путь. В любом случае на этот вопрос нет правильного ответа."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 20,
+      "speaker": "Sophie",
+      "original": "That's right. We don't know the answer, either. We just have to do what we can, and see where it leads us.",
+      "translation": "Это верно. Мы тоже не знаем ответа. Нам просто нужно делать то, что мы можем, и посмотреть, куда это нас приведет."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 21,
+      "speaker": "Sophie",
+      "original": "Lydie, Sue. The road we take may diverge...",
+      "translation": "Лиди, Сью. Дорога, по которой мы идем, может разойтись..."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 22,
+      "speaker": "Sophie",
+      "original": "But one day, we'll all make people very happy, won't we!",
+      "translation": "Но однажды мы все сделаем людей очень счастливыми, не так ли!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 23,
+      "speaker": "Together",
+      "original": "Yes!",
+      "translation": "Да!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 24,
+      "speaker": "System",
+      "original": "Yes!",
+      "translation": "Да!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 25,
+      "speaker": "Plachta",
+      "original": "To do that, you need to study more alchemy. I've been myself, recently.",
+      "translation": "Для этого вам нужно больше изучать алхимию. Недавно я был самим собой."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 26,
+      "speaker": "Plachta",
+      "original": "Do you want to try the \"Alchemy 20 Days Training in Hell\" that Ilmeria and I came up with?",
+      "translation": "Хотите попробовать «20-дневное обучение алхимии в аду», которое мы с Илмерией придумали?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 27,
+      "speaker": "Sue",
+      "original": "In hell? I-I don't think I'm ready to go quite that far!",
+      "translation": "В аду? Я-я не думаю, что готов зайти так далеко!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 28,
+      "speaker": "Lydie",
+      "original": "M-Me either! S-See you later!",
+      "translation": "М-я тоже! П-Увидимся позже!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 29,
+      "speaker": "Plachta",
+      "original": "Cowards, running away. No matter. Firis, you will participate, correct?",
+      "translation": "Трусы, убегают. Независимо от того. Фирис, ты будешь участвовать, верно?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 30,
+      "speaker": "Firis",
+      "original": "What? Girls, wait for me!",
+      "translation": "Что? Девочки, ждите меня!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 31,
+      "speaker": "Plachta",
+      "original": "No running away! Who will be test subject... I mean, course participants now?",
+      "translation": "Никакого побега! Кто будет испытуемым... Я имею в виду сейчас участников курса?"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:32": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 32,
+      "speaker": "Sophie",
+      "original": "Hahaha! You'd better get running, everyone!",
+      "translation": "Ха-ха-ха! Всем лучше бежать!"
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:33": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 33,
+      "speaker": "Sophie",
+      "original": "Haha. All this energy, and all this laughter. I have so many good friends all around me.",
+      "translation": "Хаха. Вся эта энергия и весь этот смех. Вокруг меня так много хороших друзей."
+    },
+    "ebm:qc03_sop/event_message_qc03_sop_310.ebm:34": {
+      "source": "pack01_ebm",
+      "path": "qc03_sop/event_message_qc03_sop_310.ebm",
+      "index": 34,
+      "speaker": "Sophie",
+      "original": "Grandma. I'll still really happy.",
+      "translation": "Бабушка. Я все равно буду очень счастлив."
+    }
+  }
+}

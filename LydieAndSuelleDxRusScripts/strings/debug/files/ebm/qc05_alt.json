@@ -1,0 +1,4008 @@
+{
+  "version": 1,
+  "source": "pack01_ebm",
+  "block": "qc05_alt",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "ebm:qc05_alt/event_message_qc05_alt_010.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_010.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Alt! We've come to take a look around your atelier!",
+      "translation": "Альт! Мы пришли осмотреть ваше ателье!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_010.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_010.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Alt?",
+      "translation": "Альт?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_010.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_010.ebm",
+      "index": 3,
+      "speaker": "Alt",
+      "original": "Huh? Ah, you want me?",
+      "translation": "Хм? Ах, ты хочешь меня?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_010.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_010.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Is there anyone else here? We just want to take a look around...",
+      "translation": "Здесь есть еще кто-нибудь? Мы просто хотим осмотреться..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_010.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_010.ebm",
+      "index": 5,
+      "speaker": "Alt",
+      "original": "I don't mind. I'm busy with research, though, so I'm not giving you a tour.",
+      "translation": "Я не против. Однако я занят исследованиями, поэтому не буду проводить вам экскурсию."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_010.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_010.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "That's fine. We'll just take a look for ourselves. What kind of things might we find?",
+      "translation": "Это нормально. Мы просто посмотрим сами. Какие вещи мы можем найти?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_010.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_010.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Well, that was even more bizarre than I was expecting. So much weird stuff!",
+      "translation": "Что ж, это было даже более странно, чем я ожидал. Столько странных вещей!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_010.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_010.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Yeah, but they look like powerful items, too. You really are incredible, Alt!",
+      "translation": "Да, но они тоже выглядят как мощные предметы. Ты действительно невероятен, Альт!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_010.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_010.ebm",
+      "index": 9,
+      "speaker": "Alt",
+      "original": "I'm honored that you think so. None of these are especially impressive pieces, though.",
+      "translation": "Для меня большая честь, что вы так думаете. Однако ни одно из этих произведений не является особенно впечатляющим."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_010.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_010.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "They're not? What about this potion, then? What does it do?",
+      "translation": "Это не так? А что насчет этого зелья? Что он делает?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_010.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_010.ebm",
+      "index": 11,
+      "speaker": "Alt",
+      "original": "Ah... That turns people into horses.",
+      "translation": "Ах... Это превращает людей в лошадей."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_010.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_010.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "Wah! What about this bomb, then?",
+      "translation": "Вау! А что насчет этой бомбы?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_010.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_010.ebm",
+      "index": 13,
+      "speaker": "Alt",
+      "original": "Haha, that's just a normal bomb. A moderate blast to level everything in the immediate vicinity.",
+      "translation": "Хаха, это обычная бомба. Умеренный взрыв, чтобы сравнять с землей все, что находится в непосредственной близости."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_010.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_010.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "That sounds a little more powerful than \"normal\"! Is all of this stuff as dangerous as that?",
+      "translation": "Это звучит немного более мощно, чем «нормально»! Неужели все это настолько опасно?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_010.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_010.ebm",
+      "index": 15,
+      "speaker": "Alt",
+      "original": "It seems you've worked out my secret. All of this stuff is super dangerous, hahaha!",
+      "translation": "Кажется, ты раскрыл мой секрет. Все это очень опасно, ха-ха-ха!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_010.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_010.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "I don't think that's a laughing matter... I'm suddenly feeling very unsafe in here...",
+      "translation": "Я не думаю, что это шутка... Я вдруг почувствовала себя здесь очень небезопасно..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_010.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_010.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "Alt is totally terrifying... Let's make sure never to get on his bad side.",
+      "translation": "Альт просто ужасен... Давайте позаботимся о том, чтобы никогда не попасть на его плохую сторону."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_020.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_020.ebm",
+      "index": 0,
+      "speaker": "Immoral Alchemist",
+      "original": "This is your lucky day! This alchemy potion I have here will cure your joint pain right away!",
+      "translation": "Это твой счастливый день! Это алхимическое зелье, которое у меня есть, мгновенно вылечит вашу боль в суставах!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_020.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_020.ebm",
+      "index": 1,
+      "speaker": "Old Man",
+      "original": "Oh, is that so? Then I really want it!",
+      "translation": "О, это так? Тогда я очень этого хочу!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_020.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_020.ebm",
+      "index": 2,
+      "speaker": "Immoral Alchemist",
+      "original": "Would I lie to you? At the special price, then, of just 5000 Coll!",
+      "translation": "Стал бы я лгать тебе? По специальной цене всего 5000 колл!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_020.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_020.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Hey... That shouldn't cost 5000 Coll. That's one of the first things an alchemist learns to make!",
+      "translation": "Эй... Это не должно стоить 5000 коллов. Это одна из первых вещей, которые учится делать алхимик!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_020.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_020.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Yeah. We need to step in...",
+      "translation": "Ага. Нам нужно вмешаться..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_020.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_020.ebm",
+      "index": 5,
+      "speaker": "Alt",
+      "original": "Hey. You there. The one pretending to be an alchemist.",
+      "translation": "Привет. Вы там. Тот, кто притворяется алхимиком."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_020.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_020.ebm",
+      "index": 6,
+      "speaker": "Immoral Alchemist",
+      "original": "What? I'm not pretending to do anything! Who are you, anyway?",
+      "translation": "Что? Я ничего не притворяюсь! Кто ты вообще?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_020.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_020.ebm",
+      "index": 7,
+      "speaker": "Alt",
+      "original": "Who I am doesn't matter. Stop selling your fake potions.",
+      "translation": "Кто я, не имеет значения. Прекратите продавать свои поддельные зелья."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_020.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_020.ebm",
+      "index": 8,
+      "speaker": "Alt",
+      "original": "Grass from the side of the road and some pond water? Even alchemy can't make anything from that!",
+      "translation": "Трава с обочины дороги и немного воды из пруда? Даже алхимия ничего из этого не сможет сделать!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_020.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_020.ebm",
+      "index": 9,
+      "speaker": "Alt",
+      "original": "And you're trying to sell it for 5000 Coll? If you don't like \"pretend\", how about \"fraud\"?",
+      "translation": "И ты пытаешься продать его за 5000 коллов? Если тебе не нравится «притворяться», как насчет «мошенничества»?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_020.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_020.ebm",
+      "index": 10,
+      "speaker": "Immoral Alchemist",
+      "original": "Ugah! The jig is up! I'll remember this!",
+      "translation": "Уга! Джиг поднялся! Я запомню это!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_020.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_020.ebm",
+      "index": 11,
+      "speaker": "unknown(name_id=36)",
+      "original": "Hey, well done, young'un!",
+      "translation": "Эй, молодец, молодой человек!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_020.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_020.ebm",
+      "index": 12,
+      "speaker": "Mathi...as?",
+      "original": "That was great! So cool!",
+      "translation": "Это было здорово! Так круто!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_020.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_020.ebm",
+      "index": 13,
+      "speaker": "Alt",
+      "original": "Huh.",
+      "translation": "Хм."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_020.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_020.ebm",
+      "index": 14,
+      "speaker": "Old Man",
+      "original": "W-What's going on here? I was being tricked?",
+      "translation": "Ч-что здесь происходит? Меня обманули?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_020.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_020.ebm",
+      "index": 15,
+      "speaker": "Alt",
+      "original": "Rub this on your joints. They should get a lot better.",
+      "translation": "Втирайте это в суставы. Они должны стать намного лучше."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_020.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_020.ebm",
+      "index": 16,
+      "speaker": "Old Man",
+      "original": "Ah, thank you. I don't know what more I can say!",
+      "translation": "Ах, спасибо. Я не знаю, что еще я могу сказать!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_020.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_020.ebm",
+      "index": 17,
+      "speaker": "Alt",
+      "original": "Don't mind me. I just hated seeing that imposter acting like a real alchemist.",
+      "translation": "Не обращайте на меня внимания. Мне просто не хотелось видеть, как этот самозванец ведет себя как настоящий алхимик."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_020.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_020.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "Uwah! Alt is so cool. Fighting for justice!",
+      "translation": "Ува! Альт такой крутой. Борьба за справедливость!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_020.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_020.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "Yeah! Haha, all that talk about taking over the world was just a joke after all.",
+      "translation": "Ага! Ха-ха, все эти разговоры о захвате мира были всего лишь шуткой."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_030.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_030.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Alt! We've come to look around again...",
+      "translation": "Альт! Мы снова пришли осмотреться..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_030.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_030.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "A-Alt?!",
+      "translation": "А-Альт?!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_030.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_030.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "...he's dead.",
+      "translation": "...он мертв."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_030.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_030.ebm",
+      "index": 4,
+      "speaker": "Alt",
+      "original": "No I am not.",
+      "translation": "Нет, это не так."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_030.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_030.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Uwah, he talked! Are you alright?!",
+      "translation": "Ух, он говорил! Ты в порядке?!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_030.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_030.ebm",
+      "index": 6,
+      "speaker": "Alt",
+      "original": "I'm... hungry...",
+      "translation": "Я голоден..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_030.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_030.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Huh?",
+      "translation": "Хм?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_030.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_030.ebm",
+      "index": 8,
+      "speaker": "Alt",
+      "original": "Phew. Thank you for that. I was so involved in synthesizing, I totally forgot to eat.",
+      "translation": "Уф. Спасибо вам за это. Я так увлекся синтезом, что совершенно забыл поесть."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_030.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_030.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "You need to take better care of yourself. Not that we're the ones to talk...",
+      "translation": "Вам нужно лучше заботиться о себе. Не то, чтобы мы разговаривали..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_030.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_030.ebm",
+      "index": 10,
+      "speaker": "Alt",
+      "original": "I'll take better care in the future. I've got to get used to this body again.",
+      "translation": "В будущем я буду лучше заботиться. Мне нужно снова привыкнуть к этому телу."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_030.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_030.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Again? What does that mean?",
+      "translation": "Снова? Что это значит?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_030.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_030.ebm",
+      "index": 12,
+      "speaker": "Alt",
+      "original": "I had a different body before. Then, I hardly ever needed to eat anything.",
+      "translation": "Раньше у меня было другое тело. Тогда мне почти никогда не приходилось ничего есть."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_030.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_030.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "Hmm, interesting... So tell us, Alt. What do you normally eat?",
+      "translation": "Хм, интересно... Так расскажи нам, Альт. Что ты обычно ешь?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_030.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_030.ebm",
+      "index": 14,
+      "speaker": "Alt",
+      "original": "Whatever I find lying around. Mushrooms, grass, tree roots.",
+      "translation": "Что бы я ни нашел, валяющееся вокруг. Грибы, трава, корни деревьев."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_030.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_030.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "What?! You're joking, surely? You can't live like that! Are you some sort of survivalist?",
+      "translation": "Что?! Ты шутишь, верно? Ты не можешь так жить! Вы что-то вроде выживальщика?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_030.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_030.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "Very well. I'll bring you a delicious meal the next time we come over.",
+      "translation": "Очень хорошо. Я принесу тебе вкусную еду в следующий раз, когда мы приедем."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_030.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_030.ebm",
+      "index": 17,
+      "speaker": "Alt",
+      "original": "You don't have to bother. So long as I don't collapse, it doesn't matter what I eat.",
+      "translation": "Вам не о чем беспокоиться. Пока я не упаду в обморок, не имеет значения, что я ем."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_030.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_030.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "I'm bringing you something!",
+      "translation": "Я принесу тебе кое-что!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_030.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_030.ebm",
+      "index": 19,
+      "speaker": "Alt",
+      "original": "B-but...",
+      "translation": "Н-но..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_030.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_030.ebm",
+      "index": 20,
+      "speaker": "Sue",
+      "original": "Alt, give it up. Once she goes into stubborn mode there's no reasoning with Lydie.",
+      "translation": "Альт, сдавайся. Как только она переходит в упрямый режим, с Лиди уже нечего спорить."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_030.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_030.ebm",
+      "index": 21,
+      "speaker": "Alt",
+      "original": "Very well. If that is the case, I'll look forward to it.",
+      "translation": "Очень хорошо. Если это так, я буду с нетерпением этого ждать."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_030.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_030.ebm",
+      "index": 22,
+      "speaker": "Lydie",
+      "original": "Yes! Hehe, what would be good? I'll give you the best meal of your life!",
+      "translation": "Да! Хе-хе, что было бы хорошо? Я подарю тебе лучшую еду в твоей жизни!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_030.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_030.ebm",
+      "index": 23,
+      "speaker": "Alt",
+      "original": "Sue... It can't be easy having her as a sister.",
+      "translation": "Сью... Нелегко иметь ее как сестру."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_030.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_030.ebm",
+      "index": 24,
+      "speaker": "Sue",
+      "original": "Not all the time, no... Ha... haha...",
+      "translation": "Не всегда, нет... Ха... хаха..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_040.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_040.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Alt! We've got some delicious food for you!",
+      "translation": "Альт! У нас есть для вас вкусняшка!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_040.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_040.ebm",
+      "index": 1,
+      "speaker": "Alt",
+      "original": "Hi. This does look good. Is this really all right?",
+      "translation": "Привет. Это выглядит хорошо. Это действительно все в порядке?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_040.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_040.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Of course. Eat until you're stuffed, please.",
+      "translation": "Конечно. Ешь, пока не насытишься, пожалуйста."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_040.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_040.ebm",
+      "index": 3,
+      "speaker": "Alt",
+      "original": "Thank you. That really was delicious.",
+      "translation": "Спасибо. Это действительно было восхитительно."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_040.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_040.ebm",
+      "index": 4,
+      "speaker": "Alt",
+      "original": "How long has it been, I wonder, since I last ate this well?",
+      "translation": "Интересно, сколько времени прошло с тех пор, как я в последний раз так хорошо ел?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_040.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_040.ebm",
+      "index": 5,
+      "speaker": "Alt",
+      "original": "Three years? No, longer than that.",
+      "translation": "Три года? Нет, дольше."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_040.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_040.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "T-That long? You really don't care what you eat, do you?",
+      "translation": "Т-так долго? Тебе действительно все равно, что ты ешь, не так ли?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_040.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_040.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "That's no good, Alt! Food is where your energy comes from. You need to eat more!",
+      "translation": "Это бесполезно, Альт! Еда – это источник вашей энергии. Вам нужно есть больше!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_040.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_040.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "When we've been short on money, we've had to go without proper food as well, sometimes... It wasn't easy.",
+      "translation": "Когда у нас было мало денег, нам приходилось иногда обходиться и без нормальной еды... Это было непросто."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_040.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_040.ebm",
+      "index": 9,
+      "speaker": "Alt",
+      "original": "I understand. I'll pay a bit more attention in the future. You are very kind, though...",
+      "translation": "Я понимаю. В будущем буду уделять немного больше внимания. Хотя ты очень добрый..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_040.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_040.ebm",
+      "index": 10,
+      "speaker": "Alt",
+      "original": "Helping out someone you don't even know, simply because he just moved here.",
+      "translation": "Помогать тому, кого ты даже не знаешь, просто потому, что он только что переехал сюда."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_040.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_040.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "I'm not sure about that... We just can't let you starve, anyway, Alt.",
+      "translation": "Я в этом не уверен... В любом случае мы просто не можем позволить тебе умереть с голоду, Альт."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_040.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_040.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "Yeah, you said it. You've clearly got no idea how to take care of yourself!",
+      "translation": "Да, ты это сказал. Вы явно понятия не имеете, как о себе позаботиться!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_040.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_040.ebm",
+      "index": 13,
+      "speaker": "Alt",
+      "original": "What? That's not true. Not really. I can at least do housework.",
+      "translation": "Что? Это неправда. Не совсем. По крайней мере, я могу делать работу по дому."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_040.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_040.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "No need to get defensive! If you need our help with anything, just let us know!",
+      "translation": "Не нужно защищаться! Если вам понадобится наша помощь в чем-либо, просто дайте нам знать!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_040.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_040.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "Cooking, washing, cleaning, anything! Lydie will handle it all!",
+      "translation": "Готовить, стирать, убирать, да что угодно! Лидия со всем этим справится!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_040.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_040.ebm",
+      "index": 16,
+      "speaker": "Alt",
+      "original": "Haha, that's good to hear. I may well take you up on that offer.",
+      "translation": "Хаха, приятно это слышать. Я вполне могу принять ваше предложение."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_040.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_040.ebm",
+      "index": 17,
+      "speaker": "Alt",
+      "original": "Anyway, I need to get back to my research. You take this and off you go.",
+      "translation": "В любом случае, мне нужно вернуться к своим исследованиям. Ты возьми это и уходи."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_040.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_040.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "Are you sure about this? All we did was bring you some food!",
+      "translation": "Вы уверены в этом? Все, что мы сделали, это принесли вам немного еды!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_040.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_040.ebm",
+      "index": 19,
+      "speaker": "Alt",
+      "original": "It's fine. You fed me well, so I want to thank you.",
+      "translation": "Все в порядке. Ты меня хорошо накормил, поэтому я хочу тебя поблагодарить."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_040.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_040.ebm",
+      "index": 20,
+      "speaker": "Sue",
+      "original": "In which case, thanks very much! We'll see you again soon, Alt!",
+      "translation": "В таком случае большое спасибо! Скоро увидимся, Альт!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_040.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_040.ebm",
+      "index": 21,
+      "speaker": "Alt",
+      "original": "That readiness to help others... You two will make great alchemists, no doubt about it.",
+      "translation": "Эта готовность помогать другим... Из вас двоих, без сомнения, получится великий алхимик."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_040.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_040.ebm",
+      "index": 22,
+      "speaker": "System",
+      "original": "<CLEG>\"Ornament Catalogue\"<CLNR> received.",
+      "translation": "<CLEG>\"Каталог орнаментов\"<CLNR> получен."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_040.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_040.ebm",
+      "index": 23,
+      "speaker": "System",
+      "original": "Alt has acquired the skill <CLEG>\"Unbridled Curiosity\"<CLNR>.",
+      "translation": "Альт приобрел навык <CLEG> «Необузданное любопытство» <CLNR>."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 0,
+      "speaker": "Woman A",
+      "original": "Come on! Let's just go inside?",
+      "translation": "Ну давай же! Давай просто зайдем внутрь?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 1,
+      "speaker": "Woman B",
+      "original": "I couldn't! I simply couldn't! Just give me a little longer...",
+      "translation": "Я не мог! Я просто не мог! Просто дай мне еще немного..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "What's up with them? Those girls, looking at Alt's Atelier?",
+      "translation": "Что с ними? Эти девчонки смотрят на Ателье Альта?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "I wonder. Maybe he knows?",
+      "translation": "Я думаю. Может быть, он знает?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 4,
+      "speaker": "Alt",
+      "original": "Ah! Phew, it's only you two...",
+      "translation": "Ах! Уф, вы только двое..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Alt, hello. Why do you look so exhausted?",
+      "translation": "Альт, здравствуйте. Почему ты выглядишь таким измученным?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "You're not hungry again, are you?! That's no good! I'll make you something right away!",
+      "translation": "Ты снова не голоден, да?! Это нехорошо! Я тебе сейчас что-нибудь приготовлю!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 7,
+      "speaker": "Alt",
+      "original": "I'm tired, yes, but I'm not hungry. I've been inundated with work recently, that's all.",
+      "translation": "Да, я устал, но я не голоден. В последнее время меня завалило работой, вот и все."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Wow, I'm jealous! What have you done to attract it all?",
+      "translation": "Вау, я завидую! Что вы сделали, чтобы привлечь все это?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 9,
+      "speaker": "Alt",
+      "original": "Jealous?! There's nothing to be jealous of, I assure you. You see...",
+      "translation": "Ревнивый?! Завидовать нечему, уверяю вас. Понимаете..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 10,
+      "speaker": "Woman A",
+      "original": "Alt, baby! Ah! He's really here!",
+      "translation": "Альт, детка! Ах! Он действительно здесь!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 11,
+      "speaker": "Woman B",
+      "original": "Incredible! He's as hot as everyone said! You'll do whatever work we want, right?",
+      "translation": "Невероятный! Он такой горячий, как все говорили! Ты будешь делать любую работу, которую мы захотим, верно?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 12,
+      "speaker": "Alt",
+      "original": "N-No, I can't! I'm too busy to take any more...",
+      "translation": "Н-нет, я не могу! Я слишком занят, чтобы продолжать..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 13,
+      "speaker": "Woman B",
+      "original": "Come on, do this favor for me! Here's the request! I'll be counting on you!",
+      "translation": "Давай, сделай мне эту услугу! Вот просьба! Я буду рассчитывать на тебя!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 14,
+      "speaker": "Woman A",
+      "original": "Ah, I'll leave mine here for you too. Bye-bye!",
+      "translation": "Ах, я оставлю свой здесь и для тебя. Пока-пока!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "T-That was one sided! Is that...",
+      "translation": "Т-это было однобоко! Это..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 16,
+      "speaker": "Alt",
+      "original": "Yes, that's why I'm getting so much work. Look at this.",
+      "translation": "Да, именно поэтому у меня так много работы. Посмотрите на это."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 17,
+      "speaker": "Lydie",
+      "original": "What? A newspaper? Let me have a look...",
+      "translation": "Что? Газета? Дай мне взглянуть..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "\"Alt, the handsome young alchemist who's the talk of the harbor. A special on this cool and...\"",
+      "translation": "«Альт, красивый молодой алхимик, о котором говорят в гавани. Специально для этого крутого и...»"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "That's enough of that. So it's an article on you, and it even says where your atelier is.",
+      "translation": "Хватит этого. Итак, это статья о вас, и там даже написано, где находится ваше ателье."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 20,
+      "speaker": "Alt",
+      "original": "I don't know who wrote it, but I've been swamped with women every day since.",
+      "translation": "Я не знаю, кто это написал, но с тех пор меня каждый день заваливают женщинами."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "Huh. Good for you, Alt. Spending every day surrounded by girls.",
+      "translation": "Хм. Молодец, Альт. Провожу каждый день в окружении девушек."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 22,
+      "speaker": "Alt",
+      "original": "It's not good at all! You try getting this much work! It's soul crushing!",
+      "translation": "Это совсем не хорошо! Вы попробуйте получить столько работы! Это душераздирающе!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 23,
+      "speaker": "Alt",
+      "original": "What's more, I hate this kind of attention. I just want to be left alone.",
+      "translation": "Более того, я ненавижу такое внимание. Я просто хочу, чтобы меня оставили в покое."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 24,
+      "speaker": "Sue",
+      "original": "I can see you're having a problem, but I don't think there's much we can do to help.",
+      "translation": "Я вижу, что у вас проблемы, но не думаю, что мы можем чем-то помочь."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 25,
+      "speaker": "Lydie",
+      "original": "Yeah, I was thinking the same thing. Maybe you'll just get used to it, with a little more time?",
+      "translation": "Да, я думал о том же. Может быть, ты просто привыкнешь, пройдя немного больше времени?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_050.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_050.ebm",
+      "index": 26,
+      "speaker": "Alt",
+      "original": "Uwah, this is absurd! What did I do to deserve this?",
+      "translation": "Увау, это абсурд! Чем я заслужил это?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Sue, Sue! I've found something really great!",
+      "translation": "Сью, Сью! Я нашел что-то действительно великолепное!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Uwah! That's pretty old! The first item we ever made!",
+      "translation": "Ува! Это довольно старо! Первая вещь, которую мы сделали!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "I know! Remember how much mom praised us when we made this?",
+      "translation": "Я знаю! Помните, как мама нас хвалила, когда мы это делали?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "I know. It's not much to look at anymore, but it's got some great memories attached.",
+      "translation": "Я знаю. Смотреть уже особо не на что, но с ним связано несколько прекрасных воспоминаний."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 4,
+      "speaker": "Alt",
+      "original": "Lydie! Sue! Save me!",
+      "translation": "Лиди! Сью! Спаси меня!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Alt? What's going on?",
+      "translation": "Альт? Что происходит?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 6,
+      "speaker": "Alt",
+      "original": "My atelier has been taken over by women. I'm sorry, but can I hide here for a while?",
+      "translation": "Мое ателье захватили женщины. Простите, но могу я спрятаться здесь на некоторое время?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "Huh. It must be nice, being so popular. I'm so jealous.",
+      "translation": "Хм. Должно быть, приятно быть таким популярным. Я так ревную."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "What's going on? Lydie, why are you being so odd? Ah, Alt, that's fine, you can hide here...",
+      "translation": "Что происходит? Лиди, почему ты ведешь себя так странно? Ах, Альт, все в порядке, можешь спрятаться здесь..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 9,
+      "speaker": "Alt",
+      "original": "That's great, thank you. What's that barely holding together item, by the way?",
+      "translation": "Это здорово, спасибо. Кстати, что это за еле держащийся предмет?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Ah, this... It's the first item we ever made using alchemy.",
+      "translation": "Ах, это... Это первый предмет, который мы сделали с помощью алхимии."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 11,
+      "speaker": "Alt",
+      "original": "I see. That's why it's so poorly made?",
+      "translation": "Я понимаю. Вот почему он так плохо сделан?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "What was the first thing you made, Alt? I bet it was perfect, of course, even your very first time.",
+      "translation": "Что ты сделал первым, Альт? Могу поспорить, конечно, это было идеально, даже в самый первый раз."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 13,
+      "speaker": "Alt",
+      "original": "The first thing I made? I don't remember.",
+      "translation": "Первое, что я сделал? Я не помню."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "That's a lie! That was definitely a lie!",
+      "translation": "Это ложь! Это определенно была ложь!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 15,
+      "speaker": "Alt",
+      "original": "No, it's true. Forget that, anyway. Do you really think your abilities have grown?",
+      "translation": "Нет, это правда. В любом случае, забудьте об этом. Вы действительно думаете, что ваши способности выросли?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "What? What do you mean by that?",
+      "translation": "Что? Что ты имеешь в виду?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 17,
+      "speaker": "Alt",
+      "original": "Exactly what I said. Do you think you've improved since the time you made this item?",
+      "translation": "Именно то, что я сказал. Как вы думаете, вы улучшились с тех пор, как создали этот предмет?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "Gah! He's really mocking us now, Lydie!",
+      "translation": "Га! Он сейчас действительно издевается над нами, Лиди!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "I know! Don't underestimate us, Alt! We're getting better and better with every day that passes!",
+      "translation": "Я знаю! Не недооценивай нас, Альт! С каждым днем мы становимся все лучше и лучше!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 20,
+      "speaker": "Alt",
+      "original": "Are you now... Then prove it. Make this item again, and show it to me.",
+      "translation": "Ты сейчас... Тогда докажи это. Сделайте этот предмет еще раз и покажите его мне."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 21,
+      "speaker": "Alt",
+      "original": "From how it turns out, I'll let you know exactly what progress you've made.",
+      "translation": "Судя по тому, как это получится, я сообщу вам, какого именно прогресса вы достигли."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 22,
+      "speaker": "Lydie",
+      "original": "You're on! We're not going to lose to a womanizer like you, Alt!",
+      "translation": "Вы в эфире! Мы не проиграем такому бабнику, как ты, Альт!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 23,
+      "speaker": "Alt",
+      "original": "I'm not a womanizer. Ahem. I'll be looking forward to the results of your efforts.",
+      "translation": "Я не бабник. Кхм. Я буду с нетерпением ждать результатов ваших усилий."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 24,
+      "speaker": "Sue",
+      "original": "Ohh... I see why you're upset with him, now.",
+      "translation": "Ох... Теперь я понимаю, почему ты на него злишься."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 25,
+      "speaker": "Lydie",
+      "original": "Right! When I think that Alt has been drooling over all these women as well, gah!",
+      "translation": "Верно! Когда я думаю, что Альт тоже пускает слюни на всех этих женщин, ух!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 26,
+      "speaker": "Alt",
+      "original": "I'm not drooling over anyone!",
+      "translation": "Я ни на кого не пускаю слюни!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 27,
+      "speaker": "Lydie",
+      "original": "Hey, Alt! Didn't you just go home?",
+      "translation": "Привет, Альт! Разве ты не только что пошел домой?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 28,
+      "speaker": "Alt",
+      "original": "I completely forgot why I came. I asked you to hide me, didn't I?",
+      "translation": "Я совершенно забыл, зачем пришел. Я просил тебя спрятать меня, не так ли?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 29,
+      "speaker": "Alt",
+      "original": "So, can I stay here a little longer?",
+      "translation": "Итак, могу я остаться здесь еще немного?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_060.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_060.ebm",
+      "index": 30,
+      "speaker": "Sue",
+      "original": "Hahaha... Sure, make yourself at home.",
+      "translation": "Ха-ха-ха... Конечно, чувствуйте себя как дома."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_070.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_070.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "What do you think, Alt? Is this proof enough of how much we've grown?",
+      "translation": "Что думаешь, Альт? Это достаточное доказательство того, насколько мы выросли?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_070.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_070.ebm",
+      "index": 1,
+      "speaker": "Alt",
+      "original": "Yes, you've definitely made some strides. At amazing speed, as well. Very impressive.",
+      "translation": "Да, вы определенно добились определенных успехов. Причём с потрясающей скоростью. Очень впечатляет."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_070.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_070.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Wow, that's high praise from you, Alt! I guess we really do have some skills!",
+      "translation": "Ого, это высокая похвала с твоей стороны, Альт! Я думаю, у нас действительно есть некоторые навыки!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_070.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_070.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Yeah, we just might! We've become better alchemists in a very short space of time, after all!",
+      "translation": "Да, мы просто можем! В конце концов, мы стали лучшими алхимиками за очень короткий промежуток времени!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_070.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_070.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Haha, this alchemy gig is easy! We'll be amazing alchemists in no time, at this rate!",
+      "translation": "Ха-ха, этот алхимический концерт прост! Такими темпами мы очень скоро станем потрясающими алхимиками!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_070.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_070.ebm",
+      "index": 5,
+      "speaker": "Alt",
+      "original": "Hold your horses. I think you're getting a bit carried away.",
+      "translation": "Придержите лошадей. Я думаю, ты немного увлекаешься."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_070.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_070.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "Eh?",
+      "translation": "Э?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_070.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_070.ebm",
+      "index": 7,
+      "speaker": "Alt",
+      "original": "You've grown, I admit that. But overconfidence in your abilities isn't a good thing.",
+      "translation": "Ты вырос, я признаю это. Но чрезмерная уверенность в своих силах – это нехорошо."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_070.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_070.ebm",
+      "index": 8,
+      "speaker": "Alt",
+      "original": "Alchemy is far more dangerous than you assume. It's a power that can swallow you whole!",
+      "translation": "Алхимия гораздо опаснее, чем вы думаете. Это сила, которая может поглотить тебя целиком!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_070.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_070.ebm",
+      "index": 9,
+      "speaker": "Alt",
+      "original": "Even I...",
+      "translation": "Даже я..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_070.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_070.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Alt?",
+      "translation": "Альт?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_070.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_070.ebm",
+      "index": 11,
+      "speaker": "Alt",
+      "original": "Ah, no matter. That's no concern of yours. In any case, keep your confidence in check.",
+      "translation": "Ах, неважно. Это не твоя забота. В любом случае, держите свою уверенность под контролем."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_070.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_070.ebm",
+      "index": 12,
+      "speaker": "Alt",
+      "original": "I don't want your rare and special talents to wither before they can bloom.",
+      "translation": "Я не хочу, чтобы твои редкие и особые таланты увяли, не успев расцвести."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_070.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_070.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "Uwah. You're right, Alt. Thank you for the warning.",
+      "translation": "Ува. Ты прав, Альт. Спасибо за предупреждение."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_070.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_070.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "We got totally carried away for a moment there. Sorry about that.",
+      "translation": "Мы на мгновение полностью увлеклись. Извините за это."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_070.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_070.ebm",
+      "index": 15,
+      "speaker": "Alt",
+      "original": "That's good, girls. Allow me to reward you.",
+      "translation": "Это хорошо, девочки. Позвольте мне наградить вас."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_070.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_070.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "Are you sure about this? After the way we were just acting?",
+      "translation": "Вы уверены в этом? После того, как мы вели себя?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_070.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_070.ebm",
+      "index": 17,
+      "speaker": "Alt",
+      "original": "Of course. You responded to my challenge, so you deserve to be rewarded.",
+      "translation": "Конечно. Вы ответили на мой вызов, поэтому заслуживаете награды."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_070.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_070.ebm",
+      "index": 18,
+      "speaker": "Alt",
+      "original": "I'm expecting great things from you. Don't let me down.",
+      "translation": "Я ожидаю от тебя многого. Не подведи меня."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_070.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_070.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "Alt! We'll do our best to meet your expectations!",
+      "translation": "Альт! Мы сделаем все возможное, чтобы оправдать ваши ожидания!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_070.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_070.ebm",
+      "index": 20,
+      "speaker": "System",
+      "original": "<CLEG>Large Egg<CLNR> and <CLEG>Big Beast Bone<CLNR> received.",
+      "translation": "<CLEG>Большое яйцо<CLNR> и <CLEG>Большая кость зверя<CLNR> получены."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_070.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_070.ebm",
+      "index": 21,
+      "speaker": "System",
+      "original": "Alt has acquired the skill <CLEG>\"Secret Justice\"<CLNR>.",
+      "translation": "Альт приобрел навык <CLEG> «Тайное правосудие»<CLNR>."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 0,
+      "speaker": "Alt",
+      "original": "Yes, please wrap that for me. Thank you.",
+      "translation": "Да, пожалуйста, заверните это для меня. Спасибо."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Alt! Are you doing some shopping?",
+      "translation": "Альт! Вы делаете покупки?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 2,
+      "speaker": "Alt",
+      "original": "Yes, that's right. There are plenty of bargains to be found along here.",
+      "translation": "Да, это так. Здесь можно найти множество выгодных сделок."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Of course there are. This is the biggest street in Merveille!",
+      "translation": "Конечно, есть. Это самая большая улица Мервейля!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "So many sellers, so many buyers! You know...",
+      "translation": "Столько продавцов, столько покупателей! Ты знаешь..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 5,
+      "speaker": "Mother",
+      "original": "Oh, what am I going to do? It's too much! But if I can't buy it, my son...",
+      "translation": "Ох, что мне делать? Это слишком! Но если я не смогу купить это, мой сын..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 6,
+      "speaker": "Alt",
+      "original": "Lydie, Sue. Keep that woman here, will you?",
+      "translation": "Лиди, Сью. Оставьте эту женщину здесь, ладно?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Alt? What's got into him, all of a sudden?",
+      "translation": "Альт? Что на него вдруг нашло?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "I don't think we have any choice, but to do as he asked. Hello? Excuse me?",
+      "translation": "Я не думаю, что у нас есть другой выбор, кроме как сделать так, как он просил. Привет? Прошу прощения?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 9,
+      "speaker": "Mother",
+      "original": "Yes? Can I help you?",
+      "translation": "Да? Я могу вам помочь?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Well, maybe we can help you? It seems you're in trouble.",
+      "translation": "Ну, может быть, мы сможем вам помочь? Кажется, у тебя проблемы."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 11,
+      "speaker": "Mother",
+      "original": "Well, my boy has caught a cold. I came to get some medicine, but it's more expensive than I thought.",
+      "translation": "Ну, мой мальчик простудился. Я пришел за лекарством, но оно дороже, чем я думал."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "Hmm, I see. Even with all the new alchemists, medicine is still expensive.",
+      "translation": "Хм, я вижу. Даже несмотря на появление новых алхимиков, медицина по-прежнему дорогая."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "Looks like it. Sounds like we've got some synthesis to...",
+      "translation": "Похоже на это. Похоже, у нас есть некий синтез, который нужно..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 14,
+      "speaker": "Alt",
+      "original": "No need for that. Here, give this to your child.",
+      "translation": "В этом нет необходимости. Вот, дайте это своему ребенку."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 15,
+      "speaker": "Mother",
+      "original": "What? I'm sorry, I can't pay you for this...",
+      "translation": "Что? Извините, я не могу вам за это заплатить..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 16,
+      "speaker": "Alt",
+      "original": "I don't need any money. Your child is suffering, correct?",
+      "translation": "Мне не нужны деньги. Ваш ребенок страдает, верно?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 17,
+      "speaker": "Alt",
+      "original": "Give him this in water three times a day, after eating. He'll soon be better.",
+      "translation": "Давайте ему это с водой три раза в день после еды. Ему скоро станет лучше."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 18,
+      "speaker": "Mother",
+      "original": "Ah! Thank you! Thank you so much!",
+      "translation": "Ах! Спасибо! Большое спасибо!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "Hey. How did you know her child had a cold?",
+      "translation": "Привет. Как вы узнали, что ее ребенок простудился?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 20,
+      "speaker": "Alt",
+      "original": "From the things she said, and the medicine she was looking at, it was obvious.",
+      "translation": "Судя по тому, что она сказала, и по лекарству, на которое она смотрела, это было очевидно."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "Not to me, it wasn't!",
+      "translation": "Не для меня, это не так!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 22,
+      "speaker": "Alt",
+      "original": "That's just experience, I guess. You'll get there eventually.",
+      "translation": "Я думаю, это просто опыт. В конце концов ты доберешься туда."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 23,
+      "speaker": "Sue",
+      "original": "You know, I'm starting to think Alt might be even more of a softy than we are!",
+      "translation": "Знаешь, я начинаю думать, что Альт может быть даже более мягким человеком, чем мы!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_080.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_080.ebm",
+      "index": 24,
+      "speaker": "Lydie",
+      "original": "Yeah. Alt was really something back there. I wonder if I'll really ever be able to do that...",
+      "translation": "Ага. Альт был действительно чем-то там. Интересно, смогу ли я когда-нибудь это сделать..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_090.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_090.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Alt! Let me read some of your alchemy books!",
+      "translation": "Альт! Позвольте мне прочитать несколько ваших книг по алхимии!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_090.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_090.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "I hate to read, so teach me something!",
+      "translation": "Я ненавижу читать, так научи меня чему-нибудь!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_090.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_090.ebm",
+      "index": 2,
+      "speaker": "Alt",
+      "original": "What's up with you two? You seem pretty enthusiastic today?",
+      "translation": "Что с вами двумя? Ты выглядишь сегодня полным энтузиазма?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_090.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_090.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Hehe. We want to become alchemists just like you, Alt!",
+      "translation": "Хе-хе. Мы хотим стать такими же алхимиками, как ты, Альт!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_090.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_090.ebm",
+      "index": 4,
+      "speaker": "Alt",
+      "original": "Alchemists like me? I'm not sure that's a good idea.",
+      "translation": "Алхимики вроде меня? Я не уверен, что это хорошая идея."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_090.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_090.ebm",
+      "index": 5,
+      "speaker": "Alt",
+      "original": "You need to aim a lot higher than me, surely.",
+      "translation": "Конечно, тебе нужно ставить перед собой гораздо более высокие цели, чем мне."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_090.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_090.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "Higher?",
+      "translation": "Выше?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_090.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_090.ebm",
+      "index": 7,
+      "speaker": "Alt",
+      "original": "Yes. I'm too low of a goal for you. You need to be ready to master the alchemy!",
+      "translation": "Да. Я слишком низкая цель для тебя. Вы должны быть готовы овладеть алхимией!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_090.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_090.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Master it!",
+      "translation": "Овладейте этим!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_090.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_090.ebm",
+      "index": 9,
+      "speaker": "Alt",
+      "original": "You have that potential. You could create an entire new age of alchemy.",
+      "translation": "У вас есть этот потенциал. Вы могли бы создать совершенно новую эпоху алхимии."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_090.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_090.ebm",
+      "index": 10,
+      "speaker": "Alt",
+      "original": "That's why I want you to become alchemists that surpass me by far. I know you can do it.",
+      "translation": "Вот почему я хочу, чтобы вы стали алхимиками, намного превосходящими меня. Я знаю, что ты можешь это сделать."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_090.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_090.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "Alt! Very well. It won't be easy, but we promise to overtake you!",
+      "translation": "Альт! Очень хорошо. Это будет непросто, но мы обещаем вас обогнать!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_090.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_090.ebm",
+      "index": 12,
+      "speaker": "Alt",
+      "original": "Hehe. That's the way.",
+      "translation": "Хе-хе. Вот так."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_090.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_090.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "For that reason too, then! Please teach us alchemy!",
+      "translation": "Значит, и по этой причине! Пожалуйста, научите нас алхимии!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_090.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_090.ebm",
+      "index": 14,
+      "speaker": "Alt",
+      "original": "Haha, seems I can't talk myself out of giving you a lesson. Very well, I'll do what I can.",
+      "translation": "Ха-ха, кажется, я не могу отговорить себя от преподавания тебе урока. Очень хорошо, я сделаю все, что смогу."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_090.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_090.ebm",
+      "index": 15,
+      "speaker": "Alt",
+      "original": "But you might find my methods pretty boring! There are no shortcuts in alchemy.",
+      "translation": "Но мои методы могут показаться вам довольно скучными! В алхимии нет ярлыков."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_090.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_090.ebm",
+      "index": 16,
+      "speaker": "Alt",
+      "original": "I just repeat the basics and then apply them. No frills here! Can you accept that?",
+      "translation": "Я просто повторяю основы, а затем применяю их. Здесь нет излишеств! Можете ли вы принять это?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_090.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_090.ebm",
+      "index": 17,
+      "speaker": "Lydie",
+      "original": "Of course! We'll definitely get better with you teaching us, Alt!",
+      "translation": "Конечно! Мы обязательно станем лучше, если ты нас научишь, Альт!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_090.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_090.ebm",
+      "index": 18,
+      "speaker": "Alt",
+      "original": "Very well. Let's get started. No taking this back once we're underway, though? Understand?",
+      "translation": "Очень хорошо. Давайте начнем. И ты не заберешь это обратно, когда мы начнем? Понимать?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_090.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_090.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "A-Alt? That smile is a little terrifying...",
+      "translation": "А-Альт? Эта улыбка немного пугает..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_090.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_090.ebm",
+      "index": 20,
+      "speaker": "Lydie",
+      "original": "I can't take any more!",
+      "translation": "Я больше не могу!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_090.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_090.ebm",
+      "index": 21,
+      "speaker": "Sue",
+      "original": "First Ilmeria, and now Alt... Why do all alchemists have to be so hardcore?",
+      "translation": "Сначала Илмерия, а теперь Альт... Почему все алхимики должны быть такими хардкорными?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_090.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_090.ebm",
+      "index": 22,
+      "speaker": "Alt",
+      "original": "Hmm, did I overdo it a little? This is the path all alchemists have to walk! Hahaha!",
+      "translation": "Хм, я немного переборщил? Это путь, по которому должны идти все алхимики! Ха-ха-ха!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_090.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_090.ebm",
+      "index": 23,
+      "speaker": "System",
+      "original": "Alt has acquired the skill <CLEG>\"Leader of Prophecy\"<CLNR>.",
+      "translation": "Альт приобрел навык <CLEG> «Лидер пророчества»<CLNR>."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 0,
+      "speaker": "Alt",
+      "original": "Hmm...",
+      "translation": "Хм..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Uwah, Alt... You've got a terrible scowl on your face!",
+      "translation": "Ува, Альт... У тебя жуткая хмурость на лице!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Uwah, you're right! If the wind changes you'll be left like that.",
+      "translation": "Ува, ты прав! Если ветер переменится, ты так и останешься."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 3,
+      "speaker": "Alt",
+      "original": "This is just what my face does when I'm thinking. I've been called out on it before, believe me.",
+      "translation": "Именно это делает мое лицо, когда я думаю. Меня уже звали на это, поверьте мне."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "I do. So what where you thinking about this time?",
+      "translation": "Я делаю. Так о чем ты думаешь на этот раз?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 5,
+      "speaker": "Alt",
+      "original": "Mysterious Paintings, actually...",
+      "translation": "На самом деле загадочные картины..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "Ah, I've got it! You're thinking of trying to make one, aren't you?",
+      "translation": "Ах, я понял! Вы подумываете о том, чтобы попытаться сделать это, не так ли?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 7,
+      "speaker": "Alt",
+      "original": "Are you trying to traumatize me? That very suggestion brings up some bad memories.",
+      "translation": "Ты пытаешься меня травмировать? Само это предложение вызывает неприятные воспоминания."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 8,
+      "speaker": "Alt",
+      "original": "Memories I can never forget. The day I painted a picture, and the tragedy that occurred afterward.",
+      "translation": "Воспоминания, которые я никогда не смогу забыть. День, когда я нарисовал картину, и трагедия, которая произошла потом."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "A tragedy? Gulp! Do I want to know about it?",
+      "translation": "Трагедия? Глоток! Хочу ли я об этом знать?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 10,
+      "speaker": "Alt",
+      "original": "I was laughed at...",
+      "translation": "надо мной смеялись..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Eh?",
+      "translation": "Э?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 12,
+      "speaker": "Alt",
+      "original": "Someone I was working with said \"You really can't paint for toffee\", and they laughed at me!",
+      "translation": "Кто-то, с кем я работал, сказал: «Нельзя рисовать ради ириски», и они надо мной посмеялись!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 13,
+      "speaker": "Alt",
+      "original": "It's not like they could do any better! But it broke my spirit, and the plan collapsed!",
+      "translation": "Не похоже, что они могли бы сделать что-то лучше! Но это сломило мой дух, и план рухнул!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 14,
+      "speaker": "Alt",
+      "original": "Gah, just thinking of it now makes me angry! What's a toffee got to do with anything, anyway?!",
+      "translation": "Гах, одна мысль об этом сейчас меня злит! Да причем здесь ириска?!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "C-Calm down! Calm yourself, Alt! I don't think I've ever seen you so worked up before.",
+      "translation": "С-успокойся! Успокойся, Альт! Мне кажется, я никогда раньше не видел тебя таким взволнованным."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 16,
+      "speaker": "Alt",
+      "original": "Ah. Please, forgive me. I just got a bit carried away.",
+      "translation": "Ах. Пожалуйста, прости меня. Я просто немного увлекся."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 17,
+      "speaker": "Lydie",
+      "original": "Hahaha. So what were you actually thinking about?",
+      "translation": "Ха-ха-ха. Так о чем ты на самом деле думал?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 18,
+      "speaker": "Alt",
+      "original": "The irregular nature of the materials found inside the paintings.",
+      "translation": "Нестандартный характер материалов, найденных внутри картин."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 19,
+      "speaker": "Alt",
+      "original": "Many of those materials have similar but different properties to those from the real world.",
+      "translation": "Многие из этих материалов имеют свойства, схожие с материалами из реального мира, но отличающиеся от них."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 20,
+      "speaker": "Alt",
+      "original": "All of them are effective for use in alchemy, too. The perfect theme for some alchemy research.",
+      "translation": "Все они эффективны и для использования в алхимии. Идеальная тема для некоторых алхимических исследований."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 21,
+      "speaker": "Sue",
+      "original": "I see. Yes, you make a good point. Using materials from inside paintings gives alchemy a real boost.",
+      "translation": "Я понимаю. Да, вы делаете хорошее замечание. Использование материалов из картин дает алхимии настоящий импульс."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 22,
+      "speaker": "Alt",
+      "original": "There's one I want to look at in particular. It's called a \"Trice Flower,\" from Etel Nepica.",
+      "translation": "Есть один, на который я хочу обратить особое внимание. Он называется «Цветок тройки» от Этель Непика."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 23,
+      "speaker": "Lydie",
+      "original": "A Trice Flower? I don't think I've ever seen or heard of one of those.",
+      "translation": "Трехцветный цветок? Не думаю, что я когда-либо видел или слышал об одном из них."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 24,
+      "speaker": "Alt",
+      "original": "Other alchemists have found them, but the number of reports is still very small.",
+      "translation": "Их нашли и другие алхимики, но количество сообщений пока очень мало."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 25,
+      "speaker": "Alt",
+      "original": "If possible, I'd like your help in looking for one?",
+      "translation": "Если возможно, мне бы хотелось, чтобы вы помогли его найти?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 26,
+      "speaker": "Lydie",
+      "original": "Sure thing! If we're looking for rare materials, let's get Sophie and Firis to help too!",
+      "translation": "Конечно! Если нам нужны редкие материалы, давайте попросим Софи и Фирис помочь!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 27,
+      "speaker": "Alt",
+      "original": "What?",
+      "translation": "Что?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 28,
+      "speaker": "Lydie",
+      "original": "Hey, you don't look happy about that suggestion... You don't like them?",
+      "translation": "Эй, ты не выглядишь довольным этим предложением... Они тебе не нравятся?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 29,
+      "speaker": "Alt",
+      "original": "No, that's not it, but... gah, I guess there's no reason to refuse more help.",
+      "translation": "Нет, дело не в этом, но... хах, думаю, нет причин отказываться от помощи."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_100.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_100.ebm",
+      "index": 30,
+      "speaker": "Sue",
+      "original": "Yeah, no reason at all! Come on. We'll find one of these flowers in a trice, you'll see!",
+      "translation": "Да вообще без причины! Ну давай же. Мы в мгновение ока найдем один из этих цветов, вот увидите!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 0,
+      "speaker": "Firis",
+      "original": "Trice Flower! Trice Flower! Where are you hiding, my pretty?",
+      "translation": "Трижды Цветок! Трижды Цветок! Где ты прячешься, моя красавица?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 1,
+      "speaker": "Sophie",
+      "original": "Hmm, I don't see any likely blossoms at the moment. Maybe we should split up?",
+      "translation": "Хм, на данный момент я не вижу никаких вероятных цветений. Может, нам стоит расстаться?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 2,
+      "speaker": "Alt",
+      "original": "Good idea. You two, go that way.",
+      "translation": "Хорошая идея. Вы двое, идите туда."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 3,
+      "speaker": "Alt",
+      "original": "I'll go with the twins, that way. Good luck.",
+      "translation": "Я пойду туда с близнецами. Удачи."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 4,
+      "speaker": "Firis",
+      "original": "Thanks! Let's go!",
+      "translation": "Спасибо! Пойдем!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Alt. You separated off from them on purpose, didn't you?",
+      "translation": "Альт. Вы намеренно отделились от них, не так ли?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 6,
+      "speaker": "Alt",
+      "original": "I have no idea what you are talking about.",
+      "translation": "Я понятия не имею, о чем вы говорите."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "That wasn't very believable... Hah, I guess it doesn't matter.",
+      "translation": "Это было не очень правдоподобно... Ха, я думаю, это не имеет значения."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Hmm, I'm not seeing anything. Hold on! There, that's someone's past again!",
+      "translation": "Хм, я ничего не вижу. Подожди! Вот это опять чье-то прошлое!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 9,
+      "speaker": "Alt",
+      "original": "...ugh!",
+      "translation": "...фу!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 10,
+      "speaker": "???",
+      "original": "How many times do I have to say it? Your alchemy wastes the power of nature!",
+      "translation": "Сколько раз мне придется это сказать? Ваша алхимия растрачивает силу природы!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 11,
+      "speaker": "???",
+      "original": "You have to see what this all is going to lead to!",
+      "translation": "Вы должны увидеть, к чему все это приведет!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 12,
+      "speaker": "???",
+      "original": "Your persistence is beginning to annoy me. I could never give up such incredible strength!",
+      "translation": "Ваша настойчивость начинает меня раздражать. Я никогда не мог отказаться от такой невероятной силы!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 13,
+      "speaker": "???",
+      "original": "I don't care about the future. The most important thing is the moment we live in, right now!",
+      "translation": "Меня не волнует будущее. Самое главное – момент, в котором мы живём, прямо сейчас!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 14,
+      "speaker": "???",
+      "original": "You are wrong. The most important thing is to connect hope into the future.",
+      "translation": "Вы неправы. Самое главное – соединить надежду с будущим."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 15,
+      "speaker": "???",
+      "original": "I cannot allow this to continue any longer. Here and now, I will defeat you!",
+      "translation": "Я не могу позволить этому продолжаться дальше. Здесь и сейчас я победю тебя!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 16,
+      "speaker": "???",
+      "original": "I see. You think that will work? You can't hope to defeat me.",
+      "translation": "Я понимаю. Думаешь, это сработает? Ты не можешь надеяться победить меня."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 17,
+      "speaker": "???",
+      "original": "Guwah! ...Luard! You'll pay for this...",
+      "translation": "Гува! ...Луард! Ты заплатишь за это..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 18,
+      "speaker": "Ilmeria",
+      "original": "If that's the best you can do, then you deserve to die. Farewell, Plachta.",
+      "translation": "Если это лучшее, что ты можешь сделать, то ты заслуживаешь смерти. Прощай, Плахта."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "W-What was all that!? It looked like two people fighting?",
+      "translation": "Ч-что это было!? Это было похоже на драку двух человек?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 20,
+      "speaker": "Sue",
+      "original": "One of them said \"Plachta\", but she isn't even here...",
+      "translation": "Одна из них сказала «Плахта», но ее здесь даже нет..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "Which means, it had to be...",
+      "translation": "А это значит, что это должно было быть..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 23,
+      "speaker": "Sophie",
+      "original": "Hey, everyone! We found a Trice Flower!",
+      "translation": "Привет всем! Мы нашли Трехцветный Цветок!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 24,
+      "speaker": "Firis",
+      "original": "Hold on! You all look real grumpy? What's going on?",
+      "translation": "Подожди! Вы все выглядите очень сварливыми? Что происходит?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 25,
+      "speaker": "Alt",
+      "original": "Nothing. We're finished here, let's go.",
+      "translation": "Ничего. На этом мы закончили, поехали."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_110.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_110.ebm",
+      "index": 26,
+      "speaker": "Lydie",
+      "original": "Alt...",
+      "translation": "Альт..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_120.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_120.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Alt. About what we...",
+      "translation": "Альт. О том, что мы..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_120.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_120.ebm",
+      "index": 1,
+      "speaker": "Alt",
+      "original": "I'm sorry. Please leave.",
+      "translation": "Мне жаль. Пожалуйста, уходите."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_120.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_120.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "...okay.",
+      "translation": "...хорошо."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_130.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_130.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Hey, Sue... About that stuff we saw in Etel Nepica...",
+      "translation": "Привет, Сью... Насчет того, что мы видели в Этель Непика..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_130.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_130.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "When we were in there with Alt. I've been thinking about it too. Who's past was that?",
+      "translation": "Когда мы были там с Альт. Я тоже об этом думал. Чье это было прошлое?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_130.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_130.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "It was only me, you, and Alt there. So it has to be...",
+      "translation": "Там были только я, ты и Альт. Так что должно быть..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_130.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_130.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Alt's past, right? There's no other explanation...",
+      "translation": "Альт в прошлом, да? Другого объяснения нет..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_130.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_130.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Right, but the man we saw wasn't called Alt, was he? She called him \"Luard\".",
+      "translation": "Верно, но человека, которого мы видели, звали не Альт, не так ли? Она называла его «Луард»."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_130.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_130.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "I know. Alt and Luard... Hmm, I wonder what it all means?",
+      "translation": "Я знаю. Альт и Луард... Хм, интересно, что все это значит?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_130.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_130.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "I've no idea. But we do have one lead.",
+      "translation": "Я понятия не имею. Но у нас есть одна зацепка."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_130.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_130.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "The woman who was fighting Luard... He called her \"Plachta\", didn't he?",
+      "translation": "Женщина, которая сражалась с Луардом... Он называл ее \"Плахта\", не так ли?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_130.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_130.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Yeah, you're right! Could it be the Plachta we know?",
+      "translation": "Да, ты прав! Может быть, это та Плахта, которую мы знаем?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_130.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_130.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "I think it could... How often do you think parents call their kid \"Plachta\"?",
+      "translation": "Я думаю, что могло бы... Как вы думаете, часто ли родители называют своего ребенка Плахтой?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_130.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_130.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Come on, then! We won't get anywhere sitting around thinking about it. Let's go see Plachta!",
+      "translation": "Тогда давай! Мы не добьемся успеха, сидя и думая об этом. Поехали смотреть Плахту!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_130.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_130.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "Count me in. I want to know about Alt's past, too.",
+      "translation": "Присоединяйтесь ко мне. Я тоже хочу знать о прошлом Альта."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Plachta, I'm sorry if this doesn't mean anything to you, but do you know anyone called \"Luard\"?",
+      "translation": "Плахта, извини, если для тебя это ничего не значит, но ты знаешь кого-нибудь по имени «Луард»?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 2,
+      "speaker": "Plachta",
+      "original": "Girls... Where did you hear that name?",
+      "translation": "Девочки... Где вы услышали это имя?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 3,
+      "speaker": "Sophie",
+      "original": "I see. When we were all in there with Alt... Which means...",
+      "translation": "Я понимаю. Когда мы все были там с Альтом... Что значит..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 4,
+      "speaker": "Plachta",
+      "original": "Yes. I don't think there can be any mistaking it now.",
+      "translation": "Да. Я не думаю, что сейчас можно ошибиться."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Hold on, hold on, we haven't caught up yet! Will someone please tell us what is going on?",
+      "translation": "Подожди, подожди, мы еще не догнали! Кто-нибудь, пожалуйста, расскажет нам, что происходит?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 6,
+      "speaker": "Sophie",
+      "original": "Ah, sorry, girls. The past you saw is definitely Alt's, I think that much is clear.",
+      "translation": "Эх, простите, девочки. Прошлое, которое вы видели, определенно принадлежит Альту, думаю, многое понятно."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 7,
+      "speaker": "Plachta",
+      "original": "Alt is an assumed name. His real name is \"Luard\".",
+      "translation": "Альт — вымышленное имя. Его настоящее имя - «Луард»."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 8,
+      "speaker": "Plachta",
+      "original": "An alchemist from 500 years ago, who researched alchemy alongside me.",
+      "translation": "Алхимик, живший 500 лет назад, который вместе со мной исследовал алхимию."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "500 years?! He doesn't look it at all!",
+      "translation": "500 лет?! Он вообще не выглядит!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 10,
+      "speaker": "Plachta",
+      "original": "I'm over 500 myself, but I don't look like an old granny, do I?",
+      "translation": "Мне самому за 500, но я не похожа на старую бабушку, не так ли?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "I guess not... So who is this Luard?",
+      "translation": "Думаю, нет... Так кто такой этот Луард?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 12,
+      "speaker": "Plachta",
+      "original": "He was a skilled and passionate scholar... kind and gentle. A very great friend of mine.",
+      "translation": "Он был опытным и страстным учёным... добрым и нежным. Мой очень большой друг."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "What? I mean, in the past that we saw, it looked like the two of you were fighting...",
+      "translation": "Что? Я имею в виду, что в прошлом, которое мы видели, казалось, что вы двое ссорились..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 14,
+      "speaker": "Plachta",
+      "original": "Ah, that... That was just an argument.",
+      "translation": "Ах, это... Это был просто аргумент."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "An argument?! It was a bit bloody to just be an argument!",
+      "translation": "Аргумент?! Было немного кроваво просто спорить!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 16,
+      "speaker": "Plachta",
+      "original": "An argument is an argument. He is one of my best friends, then and now.",
+      "translation": "Аргумент есть аргумент. Он один из моих лучших друзей тогда и сейчас."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 17,
+      "speaker": "Sophie",
+      "original": "Hohoho...",
+      "translation": "Хо-хо-хо..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "Uwah, this isn't helping me understand all this at all...",
+      "translation": "Увау, это совсем не помогает мне понять все это..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 19,
+      "speaker": "Plachta",
+      "original": "Really? Then why not ask him about it all?",
+      "translation": "Действительно? Тогда почему бы не спросить его обо всем этом?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 20,
+      "speaker": "Sophie",
+      "original": "Hahaha, good point. That's probably the fastest way.",
+      "translation": "Ха-ха-ха, хороший момент. Это, наверное, самый быстрый способ."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 21,
+      "speaker": "Sue",
+      "original": "What? Are you sure? He really doesn't seem to want to talk about any of that stuff...",
+      "translation": "Что? Вы уверены? Кажется, он вообще не хочет говорить об этом..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 22,
+      "speaker": "Plachta",
+      "original": "Hehe... He can be a bit stubborn, that's all. Inside, I think he wants to tell you the truth.",
+      "translation": "Хе-хе... Он может быть немного упрямым, вот и все. Внутри, я думаю, он хочет сказать тебе правду."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 23,
+      "speaker": "Sophie",
+      "original": "He seems to have opened up to you. If you want to know, go ahead and ask him.",
+      "translation": "Кажется, он открылся тебе. Если хочешь знать, спроси его."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 24,
+      "speaker": "Sue",
+      "original": "That's not a bad idea... What do you think, Lydie?",
+      "translation": "Это неплохая идея... Что ты думаешь, Лиди?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 25,
+      "speaker": "Lydie",
+      "original": "Let's go. I want to hear it from Alt himself.",
+      "translation": "Пойдем. Я хочу услышать это от самого Альта."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 26,
+      "speaker": "Sue",
+      "original": "No time like the present, then. Thank you for telling us all this!",
+      "translation": "Тогда нет времени лучше настоящего. Спасибо, что рассказали нам все это!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 27,
+      "speaker": "Sophie",
+      "original": "Hehehe!",
+      "translation": "Хе-хе-хе!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 28,
+      "speaker": "Plachta",
+      "original": "What is it, Sophie? Why are you smiling like that?",
+      "translation": "Что такое, Софи? Почему ты так улыбаешься?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 29,
+      "speaker": "Sophie",
+      "original": "Like this? Hahaha! No reason!",
+      "translation": "Так? Ха-ха-ха! Нет причин!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 30,
+      "speaker": "Plachta",
+      "original": "Huh. Some things, I will never understand...",
+      "translation": "Хм. Некоторые вещи я никогда не пойму..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 31,
+      "speaker": "Lydie",
+      "original": "Plachta, I'm sorry if this doesn't mean anything to you, but do you know anyone called \"Luard\"?",
+      "translation": "Плахта, извини, если для тебя это ничего не значит, но ты знаешь кого-нибудь по имени «Луард»?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:33": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 33,
+      "speaker": "unknown(name_id=18)",
+      "original": "Girls... Where did you hear that name?",
+      "translation": "Девочки... Где вы услышали это имя?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:34": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 34,
+      "speaker": "Sophie",
+      "original": "I see. When we were all in there with Alt... Which means...",
+      "translation": "Я понимаю. Когда мы все были там с Альтом... Что значит..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:35": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 35,
+      "speaker": "unknown(name_id=18)",
+      "original": "Yes. I don't think there can be any mistaking it now.",
+      "translation": "Да. Я не думаю, что сейчас можно ошибиться."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:36": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 36,
+      "speaker": "Sue",
+      "original": "Hold on, hold on, we haven't caught up yet! Will someone please tell us what is going on?",
+      "translation": "Подожди, подожди, мы еще не догнали! Кто-нибудь, пожалуйста, расскажет нам, что происходит?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:37": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 37,
+      "speaker": "Sophie",
+      "original": "Ah, sorry, girls. The past you saw is definitely Alt's, I think that much is clear.",
+      "translation": "Эх, простите, девочки. Прошлое, которое вы видели, определенно принадлежит Альту, думаю, многое понятно."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:38": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 38,
+      "speaker": "unknown(name_id=18)",
+      "original": "Alt is an assumed name. His real name is \"Luard\".",
+      "translation": "Альт — вымышленное имя. Его настоящее имя - «Луард»."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:39": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 39,
+      "speaker": "unknown(name_id=18)",
+      "original": "An alchemist from 500 years ago, who researched alchemy alongside me.",
+      "translation": "Алхимик, живший 500 лет назад, который вместе со мной исследовал алхимию."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:40": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 40,
+      "speaker": "Sue",
+      "original": "500 years?! He doesn't look it at all!",
+      "translation": "500 лет?! Он вообще не выглядит!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:41": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 41,
+      "speaker": "unknown(name_id=18)",
+      "original": "I'm over 500 myself, but I don't look like an old granny, do I?",
+      "translation": "Мне самому за 500, но я не похожа на старую бабушку, не так ли?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:42": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 42,
+      "speaker": "Lydie",
+      "original": "I guess not... So who is this Luard?",
+      "translation": "Думаю, нет... Так кто такой этот Луард?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:43": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 43,
+      "speaker": "unknown(name_id=18)",
+      "original": "He was a skilled and passionate scholar... kind and gentle. A very great friend of mine.",
+      "translation": "Он был опытным и страстным учёным... добрым и нежным. Мой очень большой друг."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:44": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 44,
+      "speaker": "Sue",
+      "original": "What? I mean, in the past that we saw, it looked like the two of you were fighting...",
+      "translation": "Что? Я имею в виду, что в прошлом, которое мы видели, казалось, что вы двое ссорились..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:45": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 45,
+      "speaker": "unknown(name_id=18)",
+      "original": "Ah, that... That was just an argument.",
+      "translation": "Ах, это... Это был просто аргумент."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:46": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 46,
+      "speaker": "Lydie",
+      "original": "An argument?! It was a bit bloody to just be an argument!",
+      "translation": "Аргумент?! Было немного кроваво просто спорить!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:47": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 47,
+      "speaker": "unknown(name_id=18)",
+      "original": "An argument is an argument. He is one of my best friends, then and now.",
+      "translation": "Аргумент есть аргумент. Он один из моих лучших друзей тогда и сейчас."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:48": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 48,
+      "speaker": "Sophie",
+      "original": "Hohoho...",
+      "translation": "Хо-хо-хо..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:49": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 49,
+      "speaker": "Sue",
+      "original": "Uwah, this isn't helping me understand all this at all...",
+      "translation": "Увау, это совсем не помогает мне понять все это..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:50": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 50,
+      "speaker": "unknown(name_id=18)",
+      "original": "Really? Then why not ask him about it all?",
+      "translation": "Действительно? Тогда почему бы не спросить его обо всем этом?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:51": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 51,
+      "speaker": "Sophie",
+      "original": "Hahaha, good point. That's probably the fastest way.",
+      "translation": "Ха-ха-ха, хороший момент. Это, наверное, самый быстрый способ."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:52": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 52,
+      "speaker": "Sue",
+      "original": "What? Are you sure? He really doesn't seem to want to talk about any of that stuff...",
+      "translation": "Что? Вы уверены? Кажется, он вообще не хочет говорить об этом..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:53": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 53,
+      "speaker": "unknown(name_id=18)",
+      "original": "Hehe... He can be a bit stubborn, that's all. Inside, I think he wants to tell you the truth.",
+      "translation": "Хе-хе... Он может быть немного упрямым, вот и все. Внутри, я думаю, он хочет сказать тебе правду."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:54": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 54,
+      "speaker": "Sophie",
+      "original": "He seems to have opened up to you. If you want to know, go ahead and ask him.",
+      "translation": "Кажется, он открылся тебе. Если хочешь знать, спроси его."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:55": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 55,
+      "speaker": "Sue",
+      "original": "That's not a bad idea... What do you think, Lydie?",
+      "translation": "Это неплохая идея... Что ты думаешь, Лиди?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:56": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 56,
+      "speaker": "Lydie",
+      "original": "Let's go. I want to hear it from Alt himself.",
+      "translation": "Пойдем. Я хочу услышать это от самого Альта."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:57": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 57,
+      "speaker": "Sue",
+      "original": "No time like the present, then. Thank you for telling us all this!",
+      "translation": "Тогда нет времени лучше настоящего. Спасибо, что рассказали нам все это!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:58": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 58,
+      "speaker": "Sophie",
+      "original": "Hehehe!",
+      "translation": "Хе-хе-хе!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:59": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 59,
+      "speaker": "unknown(name_id=18)",
+      "original": "What is it, Sophie? Why are you smiling like that?",
+      "translation": "Что такое, Софи? Почему ты так улыбаешься?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:60": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 60,
+      "speaker": "Sophie",
+      "original": "Like this? Hahaha! No reason!",
+      "translation": "Так? Ха-ха-ха! Нет причин!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_140.ebm:61": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_140.ebm",
+      "index": 61,
+      "speaker": "unknown(name_id=18)",
+      "original": "Huh. Some things, I will never understand...",
+      "translation": "Хм. Некоторые вещи я никогда не пойму..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_150.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_150.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Alt... Plachta told us about you.",
+      "translation": "Альт... О тебе Плахта нам рассказала."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_150.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_150.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "I'm sorry. We just really wanted to know. I... we want to know more about you, Alt.",
+      "translation": "Мне жаль. Мы просто очень хотели это знать. Я... мы хотим узнать о тебе больше, Альт."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_150.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_150.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Please. Will you tell us about your past?",
+      "translation": "Пожалуйста. Расскажешь нам о своем прошлом?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_150.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_150.ebm",
+      "index": 4,
+      "speaker": "Alt",
+      "original": "If Plachta already told you, that's everything.",
+      "translation": "Если Плахта вам уже сказала, то это все."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_150.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_150.ebm",
+      "index": 5,
+      "speaker": "Alt",
+      "original": "I am Luard, an alchemist from 500 years ago. I took the name Alt from a friend of mine.",
+      "translation": "Я Луард, алхимик, живший 500 лет назад. Имя Альт я взял у своего друга."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_150.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_150.ebm",
+      "index": 6,
+      "speaker": "Alt",
+      "original": "Overcome by the power of alchemy, I was consumed by it, betraying even my friends. I'm a monster.",
+      "translation": "Побеждённый силой алхимии, я был поглощен ею, предав даже своих друзей. Я монстр."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_150.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_150.ebm",
+      "index": 7,
+      "speaker": "Alt",
+      "original": "That's the truth about me. Well? I guess I won't be seeing you around here any more.",
+      "translation": "Это правда обо мне. Хорошо? Думаю, я больше не увижу тебя здесь."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_150.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_150.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "What?",
+      "translation": "Что?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_150.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_150.ebm",
+      "index": 9,
+      "speaker": "Alt",
+      "original": "That's your reaction? I don't even know how to react to that.",
+      "translation": "Это твоя реакция? Я даже не знаю, как на это реагировать."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_150.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_150.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "I mean, that's totally different from what Plachta told us.",
+      "translation": "Я имею в виду, это совершенно отличается от того, что сказала нам Плахта."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_150.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_150.ebm",
+      "index": 11,
+      "speaker": "Alt",
+      "original": "It can't be! What did she say?",
+      "translation": "Этого не может быть! Что она сказала?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_150.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_150.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "That you were kind, and reliable, and a great friend.",
+      "translation": "Что ты был добрым, надежным и отличным другом."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_150.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_150.ebm",
+      "index": 13,
+      "speaker": "Alt",
+      "original": "She did? Hahahaha!",
+      "translation": "Она сделала? Ха-ха-ха!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_150.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_150.ebm",
+      "index": 14,
+      "speaker": "Alt",
+      "original": "So she's moved on. Looking forward, rather than back. She's surpassed me again.",
+      "translation": "Итак, она пошла дальше. Смотрим вперед, а не назад. Она снова превзошла меня."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_150.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_150.ebm",
+      "index": 15,
+      "speaker": "Alt",
+      "original": "Me, who spends every day looking backward! Do I have to live, bound by the past like this?",
+      "translation": "Я, который каждый день проводит, оглядываясь назад! Должен ли я вот так жить, связанный прошлым?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_150.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_150.ebm",
+      "index": 16,
+      "speaker": "Alt",
+      "original": "No. The future is what's important. Isn't that right, Plachta?",
+      "translation": "Нет. Будущее – вот что важно. Не так ли, Плахта?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_150.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_150.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "Alt?",
+      "translation": "Альт?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_150.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_150.ebm",
+      "index": 18,
+      "speaker": "Alt",
+      "original": "Lydie. Sue. I have a request.",
+      "translation": "Лиди. Сью. У меня есть просьба."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_150.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_150.ebm",
+      "index": 19,
+      "speaker": "Alt",
+      "original": "Will you come with me, deep into Etel Nepica? There's something I want to do in there.",
+      "translation": "Ты пойдешь со мной вглубь Этель Непика? Я хочу кое-что там сделать."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_150.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_150.ebm",
+      "index": 20,
+      "speaker": "Alt",
+      "original": "You've done so much to help me already, but can I ask for your aid one more time?",
+      "translation": "Ты уже так много сделал, чтобы помочь мне, но могу ли я попросить тебя о помощи еще раз?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_150.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_150.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "Of course, you can count on us! We'll do whatever you need!",
+      "translation": "Конечно, вы можете на нас рассчитывать! Мы сделаем все, что вам нужно!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_150.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_150.ebm",
+      "index": 22,
+      "speaker": "Sue",
+      "original": "That's right! No need to hold back now!",
+      "translation": "Это верно! Теперь не нужно сдерживаться!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_150.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_150.ebm",
+      "index": 23,
+      "speaker": "Alt",
+      "original": "Thank you, both of you. I'll be counting on you.",
+      "translation": "Спасибо вам обоим. Я буду рассчитывать на тебя."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_150.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_150.ebm",
+      "index": 24,
+      "speaker": "Alt",
+      "original": "It's time to face down my past.",
+      "translation": "Пришло время взглянуть в лицо моему прошлому."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_160.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_160.ebm",
+      "index": 0,
+      "speaker": "Alt",
+      "original": "It started when we saved our hometown from a drought. Our lives became focused around alchemy after that.",
+      "translation": "Все началось с того, что мы спасли наш родной город от засухи. После этого наша жизнь сосредоточилась вокруг алхимии."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_160.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_160.ebm",
+      "index": 1,
+      "speaker": "Alt",
+      "original": "We'd work morning to night, then sleep like logs. Back then, alchemy was just pure fun.",
+      "translation": "Мы работали с утра до ночи, а потом спали как убитые. Тогда алхимия была просто развлечением."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_160.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_160.ebm",
+      "index": 2,
+      "speaker": "Alt",
+      "original": "Helping people using items I had made. There was nothing better! That's how I felt.",
+      "translation": "Помогаю людям использовать предметы, которые я сделал. Не было ничего лучше! Вот что я чувствовал."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_160.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_160.ebm",
+      "index": 3,
+      "speaker": "Alt",
+      "original": "Pushing to compete with my friend, honing my skills with every passing day. That's all I saw ahead of me.",
+      "translation": "Стремлюсь соревноваться с другом, оттачиваю свои навыки с каждым днём. Это все, что я видел впереди себя."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_160.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_160.ebm",
+      "index": 4,
+      "speaker": "Alt",
+      "original": "I believed it, truly. But it wasn't to be.",
+      "translation": "Я верил в это, правда. Но этого не произошло."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_170.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_170.ebm",
+      "index": 0,
+      "speaker": "Alt",
+      "original": "One day, I realized something. A realization I never wanted to make.",
+      "translation": "Однажды я кое-что понял. Осознание, которого я никогда не хотел делать."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_170.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_170.ebm",
+      "index": 1,
+      "speaker": "Alt",
+      "original": "She was better than me, and not in a way that would be easy to overcome. Each day I fell behind.",
+      "translation": "Она была лучше меня, и не в том смысле, чтобы ее было легко преодолеть. Каждый день я отставал."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_170.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_170.ebm",
+      "index": 2,
+      "speaker": "Alt",
+      "original": "I wanted to keep pace, but I couldn't. Panic slowly started to overtake me.",
+      "translation": "Я хотел идти в ногу со временем, но не смог. Меня постепенно начала охватывать паника."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_170.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_170.ebm",
+      "index": 3,
+      "speaker": "Alt",
+      "original": "Then, one day, I found it. Forbidden alchemy, completely unlike anything I'd seen before.",
+      "translation": "И вот однажды я нашел его. Запретная алхимия, совершенно не похожая ни на что, что я видел раньше."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_170.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_170.ebm",
+      "index": 4,
+      "speaker": "Alt",
+      "original": "Alchemy that twists nature, sacrificing the future to obtain ultimate power. Eradication Alchemy.",
+      "translation": "Алхимия, которая искажает природу, жертвуя будущим ради обретения абсолютной силы. Искореняющая алхимия."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_170.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_170.ebm",
+      "index": 5,
+      "speaker": "Alt",
+      "original": "I knew the risks of it. Of course I did. But I simply couldn't resist it.",
+      "translation": "Я знал, чем это грозит. Конечно, я это сделал. Но я просто не мог этому сопротивляться."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_170.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_170.ebm",
+      "index": 6,
+      "speaker": "Alt",
+      "original": "I tried it once, then again, and again. As I synthesized more, the power started to swallow me.",
+      "translation": "Я попробовал один раз, потом еще и еще. По мере того, как я синтезировал больше, сила начала поглощать меня."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_170.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_170.ebm",
+      "index": 7,
+      "speaker": "Alt",
+      "original": "I soon forgot my original purpose, and just started to pursue Eradication Alchemy.",
+      "translation": "Вскоре я забыл свою первоначальную цель и просто начал заниматься алхимией искоренения."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_170.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_170.ebm",
+      "index": 8,
+      "speaker": "Alt",
+      "original": "Turning away from my friend, and getting drunk on power. The results were inevitable.",
+      "translation": "Отвернулся от друга и опьянел от власти. Результаты были неизбежны."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_180.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_180.ebm",
+      "index": 0,
+      "speaker": "Alt",
+      "original": "Right, this should do it.",
+      "translation": "Хорошо, это должно сработать."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_180.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_180.ebm",
+      "index": 1,
+      "speaker": "Sophie",
+      "original": "...Luard?!",
+      "translation": "...Луард?!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_180.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_180.ebm",
+      "index": 2,
+      "speaker": "Alt",
+      "original": "Using the Trice Flower we found here, I made an item that can materialize the past.",
+      "translation": "Используя найденный здесь Цветок Трехцветия, я создал предмет, способный материализовать прошлое."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_180.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_180.ebm",
+      "index": 3,
+      "speaker": "Alt",
+      "original": "Girls, take a good look. That's me, from the past.",
+      "translation": "Девочки, присмотритесь. Это я из прошлого."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_180.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_180.ebm",
+      "index": 4,
+      "speaker": "Alt",
+      "original": "A foolish monster, losing sight of everything around him, swallowed by raw power.",
+      "translation": "Глупый монстр, теряющий из виду все вокруг, поглощенный грубой силой."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_180.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_180.ebm",
+      "index": 5,
+      "speaker": "Alt",
+      "original": "A pathetic alchemist, who injured the friend he was meant to be protecting.",
+      "translation": "Жалкий алхимик, ранивший друга, которого он должен был защищать."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_180.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_180.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "So that's... the Alt from the past...",
+      "translation": "Так вот... Альт из прошлого..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_180.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_180.ebm",
+      "index": 7,
+      "speaker": "Alt",
+      "original": "I have a request. Please, so I can continue into the future, and chase my old dream again...",
+      "translation": "У меня есть просьба. Пожалуйста, чтобы я мог продолжить путь в будущее и снова осуществить свою старую мечту..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_180.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_180.ebm",
+      "index": 8,
+      "speaker": "Alt",
+      "original": "Will you join me and defeat him?",
+      "translation": "Присоединишься ли ты ко мне и победишь его?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_180.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_180.ebm",
+      "index": 9,
+      "speaker": "Sophie",
+      "original": "Yes, of course!",
+      "translation": "Да, конечно!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_180.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_180.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Me too, me too! I'm going to totally destroy the old you, Alt!",
+      "translation": "Я тоже, я тоже! Я собираюсь полностью уничтожить прежнего тебя, Альт!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_180.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_180.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "That's right. If your past is stopping you from moving on, defeat it and forget it!",
+      "translation": "Это верно. Если ваше прошлое мешает вам двигаться дальше, победите его и забудьте!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_180.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_180.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "Come on, Alt!",
+      "translation": "Давай, Альт!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_180.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_180.ebm",
+      "index": 13,
+      "speaker": "Alt",
+      "original": "Yes! Let's do this, Lydie!",
+      "translation": "Да! Давай сделаем это, Лиди!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_190.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_190.ebm",
+      "index": 0,
+      "speaker": "Alt",
+      "original": "I'm not finished yet! I will defeat you, and carry on into the future!",
+      "translation": "Я еще не закончил! Я победю тебя и продолжу путь в будущее!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_200.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_200.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Alt, congratulations! You defeated your past self!",
+      "translation": "Альт, поздравляю! Ты победил себя прошлого!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_200.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_200.ebm",
+      "index": 1,
+      "speaker": "Alt",
+      "original": "Ah! Hahahah! Hahahaha!",
+      "translation": "Ах! Ха-ха-ха! Ха-ха-ха!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_200.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_200.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "A-Alt? What's wrong? Did you get hit in the head?",
+      "translation": "А-Альт? В чем дело? Тебя ударили по голове?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_200.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_200.ebm",
+      "index": 3,
+      "speaker": "Alt",
+      "original": "No, I just think it's amusing. I never suspected that my past self was so weak!",
+      "translation": "Нет, я просто думаю, что это забавно. Я никогда не подозревал, что мое прошлое «я» было таким слабым!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_200.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_200.ebm",
+      "index": 4,
+      "speaker": "Alt",
+      "original": "Alchemy is the power of wishes. A heart that desires a wish to come true gives potent strength.",
+      "translation": "Алхимия – это сила желаний. Сердце, желающее исполнения желаний, дает огромную силу."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_200.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_200.ebm",
+      "index": 5,
+      "speaker": "Alt",
+      "original": "So wishing for the future is going to be stronger! Of course it is! I should have known that!",
+      "translation": "Так что желание будущего будет сильнее! Конечно, это так! Я должен был это знать!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_200.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_200.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Hehe...",
+      "translation": "Хе-хе..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_200.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_200.ebm",
+      "index": 7,
+      "speaker": "Alt",
+      "original": "It took me long enough, but now I can finally head out into the future.",
+      "translation": "Это заняло у меня достаточно много времени, но теперь я наконец могу отправиться в будущее."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_200.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_200.ebm",
+      "index": 8,
+      "speaker": "Alt",
+      "original": "Thank you, all of you. Let's go home.",
+      "translation": "Спасибо вам всем. Пойдем домой."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_200.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_200.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "Yes!",
+      "translation": "Да!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_200.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_200.ebm",
+      "index": 10,
+      "speaker": "Sophie",
+      "original": "Hehe. I'm glad, \"Alt\".",
+      "translation": "Хе-хе. Я рад, «Альт»."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_200.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_200.ebm",
+      "index": 11,
+      "speaker": "System",
+      "original": "Alt has acquired the skill <CLEG>\"Stoic's Pride\"<CLNR>.",
+      "translation": "Альт приобрел навык <CLEG> «Гордость стоика»<CLNR>."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_200.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_200.ebm",
+      "index": 12,
+      "speaker": "System",
+      "original": "A new Combination Art for Lydie and Alt <CLEG>\"Sanctuaire of Demise\"<CLNR> is unlocked.<CR>",
+      "translation": "Разблокировано новое комбинированное искусство для Лиди и Альта <CLEG> «Святилище гибели»<CLNR>.<CR>"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_210.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_210.ebm",
+      "index": 0,
+      "speaker": "Alt",
+      "original": "Hey, I thought I'd just drop in.",
+      "translation": "Эй, я думал, что просто загляну."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_210.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_210.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Hey, Alt! Welcome!",
+      "translation": "Привет, Альт! Добро пожаловать!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_210.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_210.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Hehe! Did you at least bring some snacks?",
+      "translation": "Хе-хе! Ты хотя бы взял с собой что-нибудь перекусить?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_210.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_210.ebm",
+      "index": 3,
+      "speaker": "Alt",
+      "original": "Sorry, you know that's not how I'm wired. I just had to flee my atelier again.",
+      "translation": "Извините, вы знаете, я не так устроен. Мне просто пришлось снова бежать из ателье."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_210.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_210.ebm",
+      "index": 4,
+      "speaker": "Alt",
+      "original": "Even more women have been crowding the place recently. I can't get a thing done!",
+      "translation": "В последнее время здесь стало еще больше женщин. Я ничего не могу сделать!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_210.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_210.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Huh. You're a real ladies' man, aren't you?",
+      "translation": "Хм. Ты настоящий ловелас, не так ли?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_210.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_210.ebm",
+      "index": 6,
+      "speaker": "Alt",
+      "original": "Haha, you've got me, Lydie... It's not like I want any of this.",
+      "translation": "Ха-ха, ты поймала меня, Лиди... Не то чтобы я этого хотел."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_210.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_210.ebm",
+      "index": 7,
+      "speaker": "Alt",
+      "original": "Well, enough about that. I also have something I want to ask you.",
+      "translation": "Ну, хватит об этом. У меня также есть кое-что, что я хочу спросить у тебя."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_210.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_210.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Ah, go right ahead! Fight some monsters? Synth up some items? We can handle it!",
+      "translation": "Ах, давай! Сразиться с монстрами? Синтезировать какие-нибудь предметы? Мы справимся!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_210.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_210.ebm",
+      "index": 9,
+      "speaker": "Alt",
+      "original": "Good. I'm looking for some materials today, actually.",
+      "translation": "Хороший. Вообще-то, сегодня я ищу кое-какие материалы."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_210.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_210.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Materials? Is this another bug-hunt, like that Trice Flower?",
+      "translation": "Материалы? Это очередная охота на жуков, как тот Трис Флауэр?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_210.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_210.ebm",
+      "index": 11,
+      "speaker": "Alt",
+      "original": "No, this is easy enough to find. It should be growing pretty much anywhere.",
+      "translation": "Нет, это достаточно легко найти. Он должен расти практически где угодно."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_210.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_210.ebm",
+      "index": 12,
+      "speaker": "Alt",
+      "original": "I'd rather go alone and get it, but I'm still a bit worried...",
+      "translation": "Я бы предпочла пойти одна и забрать это, но я все еще немного волнуюсь..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_210.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_210.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "I bet. With your popularity, who knows what might happen!",
+      "translation": "Могу поспорить. С твоей популярностью, кто знает, что может случиться!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_210.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_210.ebm",
+      "index": 14,
+      "speaker": "Alt",
+      "original": "That's right. I might suddenly be surrounded by women.",
+      "translation": "Это верно. Я могу внезапно оказаться в окружении женщин."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_210.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_210.ebm",
+      "index": 15,
+      "speaker": "Alt",
+      "original": "So, girls, can I count on you?",
+      "translation": "Итак, девочки, могу ли я рассчитывать на вас?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_210.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_210.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "Sure thing. We'll have them back to you before you've even met your next girlfriend.",
+      "translation": "Конечно. Мы вернем их вам еще до того, как вы встретите свою следующую девушку."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_210.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_210.ebm",
+      "index": 17,
+      "speaker": "Alt",
+      "original": "Hahaha, thanks. I'll look forward to it.",
+      "translation": "Ха-ха-ха, спасибо. Я с нетерпением жду этого."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_220.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_220.ebm",
+      "index": 0,
+      "speaker": "Alt",
+      "original": "Ah, the Moisture Grass. Thanks for getting it for me, and delivering it too!",
+      "translation": "Ах, Влажная Трава. Спасибо, что подарили мне это и доставили!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_220.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_220.ebm",
+      "index": 1,
+      "speaker": "Alt",
+      "original": "With this, I can make the item I need. Thank you, both of you.",
+      "translation": "Благодаря этому я могу изготовить нужный мне предмет. Спасибо вам обоим."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_220.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_220.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Not at all. What are you making, though? Something to drive off all your female customers?",
+      "translation": "Нисколько. Хотя что ты делаешь? Что-то, что отпугнет всех ваших клиенток-женщин?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_220.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_220.ebm",
+      "index": 3,
+      "speaker": "Alt",
+      "original": "No, nothing quite that extreme. You'll have to wait to find out.",
+      "translation": "Нет, ничего такого экстремального. Вам придется подождать, чтобы узнать."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_220.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_220.ebm",
+      "index": 4,
+      "speaker": "Woman A",
+      "original": "Alt, baby! I need you to take my request again!",
+      "translation": "Альт, детка! Мне нужно, чтобы вы еще раз приняли мою просьбу!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_220.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_220.ebm",
+      "index": 5,
+      "speaker": "Woman B",
+      "original": "Alt! I've got so much I need you to do!",
+      "translation": "Альт! У меня так много дел, которые мне нужно от тебя!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_220.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_220.ebm",
+      "index": 6,
+      "speaker": "Alt",
+      "original": "Uwah! Hold on, hold on! Calm down! Save me, girls!",
+      "translation": "Ува! Держись, держись! Успокоиться! Спасите меня, девочки!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_220.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_220.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "Haha, you're as popular as ever, Alt... We'll leave you to it!",
+      "translation": "Ха-ха, ты популярен как всегда, Альт... Мы оставим тебя наедине!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_220.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_220.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Hold on, Lydie! Gah, okay, good luck with this Alt!",
+      "translation": "Держись, Лиди! Га, окей, удачи с этим альтом!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_220.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_220.ebm",
+      "index": 9,
+      "speaker": "Alt",
+      "original": "Hey, wait!",
+      "translation": "Эй, подожди!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_220.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_220.ebm",
+      "index": 10,
+      "speaker": "Woman B",
+      "original": "Alt! Forget those little girls and look over here. I've got lots of work for you! Come on!",
+      "translation": "Альт! Забудь об этих маленьких девочках и посмотри сюда. У меня для тебя много работы! Ну давай же!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_220.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_220.ebm",
+      "index": 11,
+      "speaker": "Alt",
+      "original": "Gah, stop pulling on me! Those heartless twins!",
+      "translation": "Га, хватит меня тянуть! Эти бессердечные близнецы!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 0,
+      "speaker": "Alt",
+      "original": "Ah, the heartless sisters. What do you need in my atelier, I wonder?",
+      "translation": "Ах, бессердечные сестры. Интересно, что вам нужно в моем ателье?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Uwah. Alt, are you angry?",
+      "translation": "Ува. Альт, ты злишься?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "I g-guess we shouldn't have left you like that. I'm really sorry!",
+      "translation": "Я думаю, нам не следовало оставлять тебя в таком состоянии. Мне очень жаль!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 3,
+      "speaker": "Alt",
+      "original": "Hahaha, I'm joking. I was just having some fun, I'm not that angry.",
+      "translation": "Ха-ха-ха, я шучу. Я просто немного повеселился, я не так уж и зол."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 4,
+      "speaker": "Alt",
+      "original": "It's fun teasing you, though. I understand how Mathias feels.",
+      "translation": "Хотя забавно тебя дразнить. Я понимаю, что чувствует Матиас."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Ooh, Alt, you're mean!",
+      "translation": "Ох, Альт, ты злой!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 6,
+      "speaker": "Alt",
+      "original": "I'm sorry. Here, take a look at this.",
+      "translation": "Мне жаль. Вот, взгляните на это."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "What is that? A nutrient?",
+      "translation": "Что это такое? Питательное вещество?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 8,
+      "speaker": "Alt",
+      "original": "Yeah. I made this with that Moisture Grass. This, you see, is the first item I ever made.",
+      "translation": "Ага. Я сделал это из влажной травы. Видите ли, это первая вещь, которую я когда-либо сделал."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "Wow, it is? Then it must be really amazing!",
+      "translation": "Вау, это так? Тогда это должно быть действительно потрясающе!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 10,
+      "speaker": "Alt",
+      "original": "Regrettably, it has almost no effect. A very poor example of alchemy, I'm afraid.",
+      "translation": "К сожалению, это почти не дает никакого эффекта. Боюсь, это очень плохой пример алхимии."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 11,
+      "speaker": "Alt",
+      "original": "But it's still a good memory for me. This is where I got my start.",
+      "translation": "Но для меня это все еще хорошее воспоминание. Здесь я начал."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "So this is where you started... I can feel the warmth from it, Alt. ",
+      "translation": "Так вот с чего ты начал... Я чувствую тепло от этого, Альт."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 13,
+      "speaker": "Alt",
+      "original": "Thank you. I made this with Plachta.",
+      "translation": "Спасибо. Я сделал это с Плахтой."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 14,
+      "speaker": "Alt",
+      "original": "I'd like to go and show this to her, but I'm a bit embarrassed to go myself.",
+      "translation": "Я бы хотел пойти и показать это ей, но мне немного неловко идти самому."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "Very well. We'll go with you, just this once. We'd be worried to send you out there on your own.",
+      "translation": "Очень хорошо. Мы пойдем с тобой, только в этот раз. Мы бы волновались, отправляя вас туда одного."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 16,
+      "speaker": "Alt",
+      "original": "Hahaha, you really do have me pinned. Let's go right away, then.",
+      "translation": "Ха-ха-ха, ты действительно меня зацепил. Тогда пойдем прямо сейчас."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 17,
+      "speaker": "Alt",
+      "original": "Plachta.",
+      "translation": "Плахта."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 18,
+      "speaker": "Plachta",
+      "original": "Luard? What is wrong?",
+      "translation": "Луард? Что не так?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 19,
+      "speaker": "Alt",
+      "original": "I wanted to show you this.",
+      "translation": "Я хотел показать тебе это."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 20,
+      "speaker": "unknown(name_id=18)",
+      "original": "This! Did you make this?",
+      "translation": "Этот! Ты сделал это?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 21,
+      "speaker": "Alt",
+      "original": "Yes. I finally remembered. Those times when we started out together.",
+      "translation": "Да. Я наконец вспомнил. Те времена, когда мы начинали вместе."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 22,
+      "speaker": "unknown(name_id=18)",
+      "original": "Hahaha, it took you long enough! About 500 years too long!",
+      "translation": "Ха-ха-ха, это заняло у тебя достаточно времени! Около 500 лет слишком долго!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 23,
+      "speaker": "Alt",
+      "original": "I'm sorry about that. I've made up my mind to proceed, looking forward.",
+      "translation": "Я сожалею об этом. Я решил продолжить и с нетерпением жду."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 24,
+      "speaker": "Alt",
+      "original": "So I want you to have this.",
+      "translation": "Поэтому я хочу, чтобы у вас было это."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 25,
+      "speaker": "unknown(name_id=18)",
+      "original": "Me?",
+      "translation": "Мне?"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 26,
+      "speaker": "Alt",
+      "original": "Yes. On this item I swear. I will never lose my way again.",
+      "translation": "Да. В этом пункте я клянусь. Я никогда больше не собьюсь с пути."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 27,
+      "speaker": "Alt",
+      "original": "As proof of that vow, I want you to have it.",
+      "translation": "В доказательство этой клятвы я хочу, чтобы она была у вас."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 28,
+      "speaker": "unknown(name_id=18)",
+      "original": "Very well. It's a request from you, after all.",
+      "translation": "Очень хорошо. В конце концов, это ваша просьба."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 29,
+      "speaker": "Alt",
+      "original": "Thank you. I'm going back to basics, in order to realize my dream.",
+      "translation": "Спасибо. Я возвращаюсь к основам, чтобы осуществить свою мечту."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 30,
+      "speaker": "Alt",
+      "original": "To use alchemy to make people happy. The dream I had back when I was a child.",
+      "translation": "Использовать алхимию, чтобы сделать людей счастливыми. Мечта, которая приснилась мне еще в детстве."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 31,
+      "speaker": "Alt",
+      "original": "So, you know... I'll do my best, Plachta.",
+      "translation": "Так что, знаешь... Я постараюсь, Плахта."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:32": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 32,
+      "speaker": "unknown(name_id=18)",
+      "original": "Hehe.",
+      "translation": "Хе-хе."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:33": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 33,
+      "speaker": "Alt",
+      "original": "Hahaha, I think that was a bit corny.",
+      "translation": "Ха-ха-ха, я думаю, это было немного банально."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:34": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 34,
+      "speaker": "unknown(name_id=18)",
+      "original": "Yes, it was. Very corny. You really turned the clock back on that one.",
+      "translation": "Да, это было. Очень банально. Вы действительно повернули время вспять."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:35": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 35,
+      "speaker": "unknown(name_id=18)",
+      "original": "We are aiming for the same thing, after all. Let's work together, Luard.",
+      "translation": "В конце концов, мы стремимся к одному и тому же. Давай работать вместе, Луард."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_230.ebm:36": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_230.ebm",
+      "index": 36,
+      "speaker": "Alt",
+      "original": "...Sure.",
+      "translation": "...Конечно."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_240.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_240.ebm",
+      "index": 0,
+      "speaker": "Alt",
+      "original": "Hey, girls. I wanted to give you this.",
+      "translation": "Привет, девочки. Я хотел подарить тебе это."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_240.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_240.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "A textbook? It looks pretty old, too...",
+      "translation": "Учебник? Он тоже выглядит довольно старым..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_240.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_240.ebm",
+      "index": 2,
+      "speaker": "Alt",
+      "original": "That's an old textbook of mine. I bet you can learn a lot from it.",
+      "translation": "Это мой старый учебник. Могу поспорить, что вы можете многому научиться из этого."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_240.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_240.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Hahaha, thank you! Uwah, it's heavy!",
+      "translation": "Ха-ха-ха, спасибо! Увау, это тяжело!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_240.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_240.ebm",
+      "index": 4,
+      "speaker": "Alt",
+      "original": "Hehe. Spending time with you, I've learned something.",
+      "translation": "Хе-хе. Проводя время с тобой, я кое-чему научился."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_240.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_240.ebm",
+      "index": 5,
+      "speaker": "Alt",
+      "original": "Alchemy is a wonderful power, like a dream. It can even restore lost connections from the past.",
+      "translation": "Алхимия – чудесная сила, подобная сну. Он даже может восстановить утраченные связи из прошлого."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_240.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_240.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Yes. I think so too.",
+      "translation": "Да. Я тоже так думаю."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_240.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_240.ebm",
+      "index": 7,
+      "speaker": "Alt",
+      "original": "However, that power is still developing. The path of alchemy continues, without end.",
+      "translation": "Однако эта сила все еще развивается. Путь алхимии продолжается и не имеет конца."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_240.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_240.ebm",
+      "index": 8,
+      "speaker": "Alt",
+      "original": "So I want you to further develop this power, girls. The power of the future!",
+      "translation": "Поэтому я хочу, чтобы вы и дальше развивали эту силу, девочки. Сила будущего!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_240.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_240.ebm",
+      "index": 9,
+      "speaker": "Alt",
+      "original": "You need to surpass me, Plachta, Sophie and Firis, and reach a height no one has ever reached!",
+      "translation": "Вам нужно превзойти меня, Плахту, Софи и Фирис, и достичь высоты, которой еще никто не достиг!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_240.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_240.ebm",
+      "index": 10,
+      "speaker": "Alt",
+      "original": "I believe in you. I know you can do it.",
+      "translation": "Я верю в тебя. Я знаю, что ты можешь это сделать."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_240.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_240.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Very well. A little at a time, in order to not get swallowed. We'll remember your teachings, Alt!",
+      "translation": "Очень хорошо. Понемногу, чтобы не проглотить. Мы будем помнить твои учения, Альт!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_240.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_240.ebm",
+      "index": 12,
+      "speaker": "Alt",
+      "original": "Haha. Keep on working hard every day.",
+      "translation": "Хаха. Продолжайте усердно работать каждый день."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_240.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_240.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "Hahaha. Alt, try to avoid those hordes of women, too!",
+      "translation": "Ха-ха-ха. Альтернативно, постарайтесь также избегать этих орд женщин!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_240.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_240.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "Otherwise we really will overtake you, in a flash!",
+      "translation": "Иначе мы вас действительно обгоним, в мгновение ока!"
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_240.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_240.ebm",
+      "index": 15,
+      "speaker": "Alt",
+      "original": "I know, I know. I'll be careful. See you later.",
+      "translation": "Я знаю, я знаю. Я буду осторожен. Увидимся позже."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_240.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_240.ebm",
+      "index": 16,
+      "speaker": "Alt",
+      "original": "After more than 500 years, I've suffered, and I've hated.",
+      "translation": "Спустя более 500 лет я страдал и ненавидел."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_240.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_240.ebm",
+      "index": 17,
+      "speaker": "Alt",
+      "original": "But in the end, that led me to Sophie, and Firis, and both of you special girls.",
+      "translation": "Но в конце концов это привело меня к Софи, Фирис и вам обоим, особенным девочкам."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_240.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_240.ebm",
+      "index": 18,
+      "speaker": "Alt",
+      "original": "This is the start of a new era. An era in which alchemy will be used to save people.",
+      "translation": "Это начало новой эры. Эпоха, в которой алхимия будет использоваться для спасения людей."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_240.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_240.ebm",
+      "index": 19,
+      "speaker": "Alt",
+      "original": "If I can make the smallest contribution to that. If I can see just a little of it for myself...",
+      "translation": "Если я смогу внести в это хоть малейший вклад. Если бы я смог увидеть хоть немного этого сам..."
+    },
+    "ebm:qc05_alt/event_message_qc05_alt_240.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc05_alt/event_message_qc05_alt_240.ebm",
+      "index": 20,
+      "speaker": "Alt",
+      "original": "Then all these long years of life will have been worth it.",
+      "translation": "Тогда все эти долгие годы жизни окупятся."
+    }
+  }
+}

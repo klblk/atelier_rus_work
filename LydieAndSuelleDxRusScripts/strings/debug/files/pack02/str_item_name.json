@@ -1,0 +1,4026 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_item_name.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:6750209": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750209",
+      "original": "Taun",
+      "translation": "Тоон"
+    },
+    "pack02:6750210": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750210",
+      "original": "Tall Taun",
+      "translation": "Высокий Тоон"
+    },
+    "pack02:6750211": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750211",
+      "original": "Triple Taun",
+      "translation": "Тройной Тоон"
+    },
+    "pack02:6750212": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750212",
+      "original": "Mystic Herb",
+      "translation": "Мистическая трава"
+    },
+    "pack02:6750213": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750213",
+      "original": "Cobalt Grass",
+      "translation": "Кобальтовая трава"
+    },
+    "pack02:6750214": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750214",
+      "original": "Winged Plant",
+      "translation": "Крылатое растение"
+    },
+    "pack02:6750215": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750215",
+      "original": "Golden Tree Leaf",
+      "translation": "Листок золотого дерева"
+    },
+    "pack02:6750216": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750216",
+      "original": "Uni",
+      "translation": "Уни"
+    },
+    "pack02:6750217": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750217",
+      "original": "Weiss Wheat",
+      "translation": "Вайс-пшеница"
+    },
+    "pack02:6750218": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750218",
+      "original": "Moisture Grass",
+      "translation": "Увлажняющая трава"
+    },
+    "pack02:6750219": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750219",
+      "original": "Wild Cotton",
+      "translation": "Дикий хлопок"
+    },
+    "pack02:6750220": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750220",
+      "original": "Princess Grass",
+      "translation": "Принцесса травы"
+    },
+    "pack02:6750221": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750221",
+      "original": "Red Flower",
+      "translation": "Красный цветок"
+    },
+    "pack02:6750222": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750222",
+      "original": "Blue Flower",
+      "translation": "Синий цветок"
+    },
+    "pack02:6750223": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750223",
+      "original": "Green Flower",
+      "translation": "Зелёный цветок"
+    },
+    "pack02:6750224": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750224",
+      "original": "Yellow Flower",
+      "translation": "Жёлтый цветок"
+    },
+    "pack02:6750225": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750225",
+      "original": "Purple Flower",
+      "translation": "Фиолетовый цветок"
+    },
+    "pack02:6750226": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750226",
+      "original": "Merveille Rouge",
+      "translation": "Мервейль Руж"
+    },
+    "pack02:6750227": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750227",
+      "original": "Dunkelheit",
+      "translation": "Дункельхайт"
+    },
+    "pack02:6750228": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750228",
+      "original": "Star Flower",
+      "translation": "Звёздный цветок"
+    },
+    "pack02:6750229": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750229",
+      "original": "Beehive",
+      "translation": "Улей"
+    },
+    "pack02:6750230": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750230",
+      "original": "Silver Beehive",
+      "translation": "Серебряный улей"
+    },
+    "pack02:6750231": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750231",
+      "original": "Golden Beehive",
+      "translation": "Золотой улей"
+    },
+    "pack02:6750232": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750232",
+      "original": "Candy Beehive",
+      "translation": "Конфетный улей"
+    },
+    "pack02:6750233": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750233",
+      "original": "Nectar Fruit",
+      "translation": "Нектарный фрукт"
+    },
+    "pack02:6750234": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750234",
+      "original": "Starfruit",
+      "translation": "Звёздный фрукт"
+    },
+    "pack02:6750235": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750235",
+      "original": "Blackberry",
+      "translation": "Ежевика"
+    },
+    "pack02:6750236": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750236",
+      "original": "Snow Queen",
+      "translation": "Снежная королева"
+    },
+    "pack02:6750237": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750237",
+      "original": "Slime Mushroom",
+      "translation": "Слизегриб"
+    },
+    "pack02:6750238": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750238",
+      "original": "Fairy Parasol",
+      "translation": "Зонтик фей"
+    },
+    "pack02:6750239": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750239",
+      "original": "Darkshroom",
+      "translation": "Мрачногриб"
+    },
+    "pack02:6750240": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750240",
+      "original": "Smoke Fungus",
+      "translation": "Дымногриб"
+    },
+    "pack02:6750241": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750241",
+      "original": "Soil Potato",
+      "translation": "Земляной картофель"
+    },
+    "pack02:6750242": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750242",
+      "original": "Milk",
+      "translation": "Молоко"
+    },
+    "pack02:6750243": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750243",
+      "original": "Fresh Meat",
+      "translation": "Сочное мясо"
+    },
+    "pack02:6750244": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750244",
+      "original": "Beast Meat",
+      "translation": "Мясо животного"
+    },
+    "pack02:6750245": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750245",
+      "original": "Unknown Egg",
+      "translation": "Неизвестное яйцо"
+    },
+    "pack02:6750246": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750246",
+      "original": "Large Egg",
+      "translation": "Большое яйцо"
+    },
+    "pack02:6750247": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750247",
+      "original": "Wool",
+      "translation": "Шерсть"
+    },
+    "pack02:6750248": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750248",
+      "original": "Monster Bird Feather",
+      "translation": "Перо чудо-птицы"
+    },
+    "pack02:6750249": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750249",
+      "original": "Griffon Feather",
+      "translation": "Перо Грифона"
+    },
+    "pack02:6750250": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750250",
+      "original": "Bat Wing",
+      "translation": "Крыло летучей мыши"
+    },
+    "pack02:6750251": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750251",
+      "original": "Turtle Claw",
+      "translation": "Коготь черепахи"
+    },
+    "pack02:6750252": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750252",
+      "original": "Animal Hide",
+      "translation": "Шкура животного"
+    },
+    "pack02:6750253": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750253",
+      "original": "Tough Bone",
+      "translation": "Прочная кость"
+    },
+    "pack02:6750254": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750254",
+      "original": "Horn",
+      "translation": "Рог"
+    },
+    "pack02:6750255": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750255",
+      "original": "Big Beast Bone",
+      "translation": "Кость большого зверя"
+    },
+    "pack02:6750256": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750256",
+      "original": "Wicked Fang",
+      "translation": "Грешный клык"
+    },
+    "pack02:6750257": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750257",
+      "original": "Jelly Gem",
+      "translation": "Желейный самоцвет"
+    },
+    "pack02:6750258": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750258",
+      "original": "Rabbit Fur",
+      "translation": "Кроличий мех"
+    },
+    "pack02:6750259": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750259",
+      "original": "Big Scale",
+      "translation": "Большая чешуя"
+    },
+    "pack02:6750260": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750260",
+      "original": "Wicked Bone",
+      "translation": "Странная кость"
+    },
+    "pack02:6750261": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750261",
+      "original": "Lady Bug",
+      "translation": "Божья коровка"
+    },
+    "pack02:6750262": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750262",
+      "original": "Big Horned Beetle",
+      "translation": "Большой рогатый жук"
+    },
+    "pack02:6750263": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750263",
+      "original": "Baby Wilm",
+      "translation": "Малыш Вилм"
+    },
+    "pack02:6750264": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750264",
+      "original": "Ingot Bug",
+      "translation": "Жук-слиток"
+    },
+    "pack02:6750265": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750265",
+      "original": "Leiden Dragonfly",
+      "translation": "Лейденская стрекоза"
+    },
+    "pack02:6750266": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750266",
+      "original": "Comet Butterfly",
+      "translation": "Кометная бабочка"
+    },
+    "pack02:6750267": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750267",
+      "original": "Chestnut Weevil",
+      "translation": "Долгоносик уни"
+    },
+    "pack02:6750268": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750268",
+      "original": "Helmeted Grasshopper",
+      "translation": "Шлемоносный кузнечик"
+    },
+    "pack02:6750269": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750269",
+      "original": "Killer Bee",
+      "translation": "Пчела-убийца"
+    },
+    "pack02:6750270": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750270",
+      "original": "Gem Fly",
+      "translation": "Самоцветная муха"
+    },
+    "pack02:6750271": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750271",
+      "original": "Pretty Shells",
+      "translation": "Красивые раковины"
+    },
+    "pack02:6750272": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750272",
+      "original": "Wascher",
+      "translation": "Вашер"
+    },
+    "pack02:6750273": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750273",
+      "original": "Butterfly Fish",
+      "translation": "Рыба-бабочка"
+    },
+    "pack02:6750274": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750274",
+      "original": "Camber",
+      "translation": "Камбер"
+    },
+    "pack02:6750275": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750275",
+      "original": "Sea Snail",
+      "translation": "Морская улитка"
+    },
+    "pack02:6750276": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750276",
+      "original": "Crab",
+      "translation": "Краб"
+    },
+    "pack02:6750277": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750277",
+      "original": "Lobster",
+      "translation": "Омар"
+    },
+    "pack02:6750278": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750278",
+      "original": "Balloon Fish",
+      "translation": "Рыба-шар"
+    },
+    "pack02:6750279": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750279",
+      "original": "Sea Horse",
+      "translation": "Морской конёк"
+    },
+    "pack02:6750280": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750280",
+      "original": "Old Master",
+      "translation": "Владыка"
+    },
+    "pack02:6750281": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750281",
+      "original": "Master of Ice",
+      "translation": "Ледяной владыка"
+    },
+    "pack02:6750282": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750282",
+      "original": "Master of Fire",
+      "translation": "Огненный владыка"
+    },
+    "pack02:6750283": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750283",
+      "original": "Rapier Fish",
+      "translation": "Рыба-рапира"
+    },
+    "pack02:6750284": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750284",
+      "original": "Mace Fish",
+      "translation": "Рыба-булава"
+    },
+    "pack02:6750285": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750285",
+      "original": "Blue Puniballs",
+      "translation": "Синие пуниболы"
+    },
+    "pack02:6750286": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750286",
+      "original": "Green Puniballs",
+      "translation": "Зелёные пуниболы"
+    },
+    "pack02:6750287": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750287",
+      "original": "Red Puniballs",
+      "translation": "Красные пуниболы"
+    },
+    "pack02:6750288": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750288",
+      "original": "Gold Puniballs",
+      "translation": "Золотые пуниболы"
+    },
+    "pack02:6750289": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750289",
+      "original": "Dragon Scale",
+      "translation": "Чешуя дракона"
+    },
+    "pack02:6750290": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750290",
+      "original": "Dragon Core",
+      "translation": "Драконье ядро"
+    },
+    "pack02:6750291": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750291",
+      "original": "Dragon Bloodstone",
+      "translation": "Драконий кровекристалл"
+    },
+    "pack02:6750292": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750292",
+      "original": "Great Tail",
+      "translation": "Великий хвост"
+    },
+    "pack02:6750293": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750293",
+      "original": "Drinking Water",
+      "translation": "Питьевая вода"
+    },
+    "pack02:6750294": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750294",
+      "original": "Well Water",
+      "translation": "Колодезная вода"
+    },
+    "pack02:6750295": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750295",
+      "original": "Crackling Water",
+      "translation": "Газированная вода"
+    },
+    "pack02:6750296": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750296",
+      "original": "Zapping Water",
+      "translation": "Электровода"
+    },
+    "pack02:6750297": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750297",
+      "original": "Lakebottom Water",
+      "translation": "Рекадонная вода"
+    },
+    "pack02:6750298": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750298",
+      "original": "Suspicious Liquid",
+      "translation": "Странная жидкость"
+    },
+    "pack02:6750299": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750299",
+      "original": "Puni Liquid",
+      "translation": "Жидкость пуни"
+    },
+    "pack02:6750300": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750300",
+      "original": "Star Powder Water",
+      "translation": "Звёздная порошковая вода"
+    },
+    "pack02:6750301": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750301",
+      "original": "Holy Water",
+      "translation": "Святая вода"
+    },
+    "pack02:6750302": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750302",
+      "original": "Eternal Ice",
+      "translation": "Вечный лёд"
+    },
+    "pack02:6750303": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750303",
+      "original": "Paper Scraps",
+      "translation": "Обрывки бумаги"
+    },
+    "pack02:6750304": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750304",
+      "original": "Church Talisman",
+      "translation": "Церковный талисман"
+    },
+    "pack02:6750305": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750305",
+      "original": "High Class Talisman",
+      "translation": "Высококлассный талисман"
+    },
+    "pack02:6750306": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750306",
+      "original": "Pious Talisman",
+      "translation": "Талисман набожного"
+    },
+    "pack02:6750307": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750307",
+      "original": "Backen's Bromide",
+      "translation": "Бромид Бакена"
+    },
+    "pack02:6750308": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750308",
+      "original": "Plant Oil",
+      "translation": "Растительное масло"
+    },
+    "pack02:6750309": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750309",
+      "original": "Oil Tree Fruit",
+      "translation": "Фрукт масляного дерева"
+    },
+    "pack02:6750310": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750310",
+      "original": "Mineral Oil",
+      "translation": "Масляный минерал"
+    },
+    "pack02:6750311": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750311",
+      "original": "Kifa",
+      "translation": "Кифа"
+    },
+    "pack02:6750312": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750312",
+      "original": "Raven Wood",
+      "translation": "Древесина ворона"
+    },
+    "pack02:6750313": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750313",
+      "original": "Aroma Holts",
+      "translation": "Арома-хольтс"
+    },
+    "pack02:6750314": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750314",
+      "original": "Silver Web",
+      "translation": "Серебряная паутина"
+    },
+    "pack02:6750315": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750315",
+      "original": "Golden Threads",
+      "translation": "Золотые нити"
+    },
+    "pack02:6750316": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750316",
+      "original": "Natural Fertilizer",
+      "translation": "Натуральное удобрение"
+    },
+    "pack02:6750317": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750317",
+      "original": "Red Sand",
+      "translation": "Красный песок"
+    },
+    "pack02:6750318": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750318",
+      "original": "Black Sand",
+      "translation": "Чёрный песок"
+    },
+    "pack02:6750319": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750319",
+      "original": "White Sand",
+      "translation": "Белый песок"
+    },
+    "pack02:6750320": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750320",
+      "original": "Sand Crystals",
+      "translation": "Песчаные кристаллы"
+    },
+    "pack02:6750321": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750321",
+      "original": "White Ash Stone",
+      "translation": "Белозольный камень"
+    },
+    "pack02:6750322": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750322",
+      "original": "Golden Rock",
+      "translation": "Златокамень"
+    },
+    "pack02:6750323": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750323",
+      "original": "Broken Rock",
+      "translation": "Разбитый камень"
+    },
+    "pack02:6750324": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750324",
+      "original": "Gravistone",
+      "translation": "Гравикамень"
+    },
+    "pack02:6750325": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750325",
+      "original": "Ertona Crystal",
+      "translation": "Эртонский кристалл"
+    },
+    "pack02:6750326": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750326",
+      "original": "Eisen Ore",
+      "translation": "Айзен-руда"
+    },
+    "pack02:6750327": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750327",
+      "original": "Leiden Ore",
+      "translation": "Лейден-руда"
+    },
+    "pack02:6750328": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750328",
+      "original": "Kupfer Ore",
+      "translation": "Купфер-руда"
+    },
+    "pack02:6750329": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750329",
+      "original": "Kaen Stone",
+      "translation": "Каенский камень"
+    },
+    "pack02:6750330": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750330",
+      "original": "Hakurei Stone",
+      "translation": "Хакурейский камень"
+    },
+    "pack02:6750331": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750331",
+      "original": "Steel Balls",
+      "translation": "Камень тамахагане"
+    },
+    "pack02:6750332": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750332",
+      "original": "Black Tree Stone",
+      "translation": "Древесный камень"
+    },
+    "pack02:6750333": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750333",
+      "original": "Soul Stone",
+      "translation": "Камень души"
+    },
+    "pack02:6750334": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750334",
+      "original": "Ripple Stone",
+      "translation": "Рябый камень"
+    },
+    "pack02:6750335": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750335",
+      "original": "Magnet Stone",
+      "translation": "Магнитный камень"
+    },
+    "pack02:6750336": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750336",
+      "original": "Kimberlite",
+      "translation": "Кимберлит"
+    },
+    "pack02:6750337": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750337",
+      "original": "Black Star Stone",
+      "translation": "Чёрнозвёздный камень"
+    },
+    "pack02:6750338": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750338",
+      "original": "Spirit Rock",
+      "translation": "Кристалл духа"
+    },
+    "pack02:6750339": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750339",
+      "original": "Rainbow Corundum",
+      "translation": "Радужная корунда"
+    },
+    "pack02:6750340": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750340",
+      "original": "Crystal Shards",
+      "translation": "Кристальные осколки"
+    },
+    "pack02:6750341": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750341",
+      "original": "Blue Crystal",
+      "translation": "Лазурный кристалл"
+    },
+    "pack02:6750342": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750342",
+      "original": "Deep Core",
+      "translation": "Ядро монстра"
+    },
+    "pack02:6750343": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750343",
+      "original": "Small Statue of Hagel",
+      "translation": "Маленькая статуя Хагеля"
+    },
+    "pack02:6750344": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750344",
+      "original": "Pendant Rock",
+      "translation": "Подвесной камень"
+    },
+    "pack02:6750345": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750345",
+      "original": "Water Crystal",
+      "translation": "Водяной кристалл"
+    },
+    "pack02:6750346": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750346",
+      "original": "Marble Salt",
+      "translation": "Мраморная соль"
+    },
+    "pack02:6750347": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750347",
+      "original": "Lotus",
+      "translation": "Лотос"
+    },
+    "pack02:6750348": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750348",
+      "original": "Lava Ore",
+      "translation": "Лавовая руда"
+    },
+    "pack02:6750349": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750349",
+      "original": "Alberich",
+      "translation": "Альберих"
+    },
+    "pack02:6750350": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750350",
+      "original": "Purple Needles",
+      "translation": "Фиолетовые иглы"
+    },
+    "pack02:6750351": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750351",
+      "original": "Shining Powder",
+      "translation": "Сияющий порошок"
+    },
+    "pack02:6750352": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750352",
+      "original": "Old Stone",
+      "translation": "Древний камень"
+    },
+    "pack02:6750353": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750353",
+      "original": "Incluse Amber",
+      "translation": "Янтарь с включениями"
+    },
+    "pack02:6750354": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750354",
+      "original": "Tears of Heaven",
+      "translation": "Слёзы небес"
+    },
+    "pack02:6750355": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750355",
+      "original": "Time Guard Flower",
+      "translation": "Цветок-хранитель времени"
+    },
+    "pack02:6750356": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750356",
+      "original": "Ancient Water",
+      "translation": "Древняя вода"
+    },
+    "pack02:6750357": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750357",
+      "original": "Dragon Eye",
+      "translation": "Драконий глаз"
+    },
+    "pack02:6750358": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750358",
+      "original": "Archeus Anima",
+      "translation": "Аркеус-анима"
+    },
+    "pack02:6750359": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750359",
+      "original": "Chaotic Dirt",
+      "translation": "Хаотичная грязь"
+    },
+    "pack02:6750360": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750360",
+      "original": "Judgement Calling Stone",
+      "translation": "Камень зова суда"
+    },
+    "pack02:6750361": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750361",
+      "original": "Terminus Leaf",
+      "translation": "Терминус-лист"
+    },
+    "pack02:6750367": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750367",
+      "original": "Chariot Milk",
+      "translation": "Шарио-молоко"
+    },
+    "pack02:6750368": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750368",
+      "original": "Carrot",
+      "translation": "Морковь"
+    },
+    "pack02:6750369": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750369",
+      "original": "Junk",
+      "translation": "Хлам"
+    },
+    "pack02:6750370": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750370",
+      "original": "Mandragora Root",
+      "translation": "Корень мандрагоры"
+    },
+    "pack02:6750388": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750388",
+      "original": "Uni Bag",
+      "translation": "Мешочек с Уни"
+    },
+    "pack02:6750389": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750389",
+      "original": "Bomb",
+      "translation": "Бомба"
+    },
+    "pack02:6750390": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750390",
+      "original": "Ice Bomb",
+      "translation": "Ледобомба"
+    },
+    "pack02:6750391": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750391",
+      "original": "Lightning Bomb",
+      "translation": "Молниевая бомба"
+    },
+    "pack02:6750392": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750392",
+      "original": "Craft",
+      "translation": "Шипобомба"
+    },
+    "pack02:6750393": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750393",
+      "original": "Luft",
+      "translation": "Луфт"
+    },
+    "pack02:6750395": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750395",
+      "original": "Ori Bomb",
+      "translation": "Ори бомба"
+    },
+    "pack02:6750396": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750396",
+      "original": "Stahl Ice Bomb",
+      "translation": "Шталевая ледобомба"
+    },
+    "pack02:6750397": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750397",
+      "original": "Lightning Crystal",
+      "translation": "Молникристалл"
+    },
+    "pack02:6750398": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750398",
+      "original": "Eisen Luft",
+      "translation": "Люфт-айзен"
+    },
+    "pack02:6750399": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750399",
+      "original": "Wandering Globe",
+      "translation": "Блуждающий глобус"
+    },
+    "pack02:6750400": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750400",
+      "original": "God's Gift",
+      "translation": "Подарок бога"
+    },
+    "pack02:6750401": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750401",
+      "original": "Bursting Gift",
+      "translation": "Взрывной подарок"
+    },
+    "pack02:6750402": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750402",
+      "original": "Heaven's Cleanser",
+      "translation": "Чистильщик небес"
+    },
+    "pack02:6750403": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750403",
+      "original": "N/A",
+      "translation": "Н/д"
+    },
+    "pack02:6750404": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750404",
+      "original": "Flame of Origin",
+      "translation": "Пламя начала"
+    },
+    "pack02:6750405": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750405",
+      "original": "Flame of the End",
+      "translation": "Пламя конца"
+    },
+    "pack02:6750406": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750406",
+      "original": "Seal Canvas",
+      "translation": "Запечатывающий холст"
+    },
+    "pack02:6750407": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750407",
+      "original": "Spirit-driven Ball",
+      "translation": "Духовной метеобол"
+    },
+    "pack02:6750408": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750408",
+      "original": "Heiter Sturm",
+      "translation": "Хайтер-штурм"
+    },
+    "pack02:6750409": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750409",
+      "original": "Schnee Sturm",
+      "translation": "Шнее-штурм"
+    },
+    "pack02:6750410": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750410",
+      "original": "Merry Toy Box",
+      "translation": "Весёлый ящик с игрушками"
+    },
+    "pack02:6750421": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750421",
+      "original": "Healing Pads",
+      "translation": "Лечебные пластыри"
+    },
+    "pack02:6750422": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750422",
+      "original": "Simple Cookies",
+      "translation": "Простое печенье"
+    },
+    "pack02:6750423": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750423",
+      "original": "Puni Jelly",
+      "translation": "Пуни-желе"
+    },
+    "pack02:6750424": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750424",
+      "original": "Healing Elixir",
+      "translation": "Лечебный эликсир"
+    },
+    "pack02:6750425": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750425",
+      "original": "Strength Meat",
+      "translation": "Сытное мясо"
+    },
+    "pack02:6750426": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750426",
+      "original": "Fruit Tea",
+      "translation": "Фруктовый чай"
+    },
+    "pack02:6750427": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750427",
+      "original": "Breezy Aroma",
+      "translation": "Освежающая свеча"
+    },
+    "pack02:6750428": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750428",
+      "original": "Honey Syrup",
+      "translation": "Медовый сироп"
+    },
+    "pack02:6750429": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750429",
+      "original": "Nectar of Life",
+      "translation": "Нектар жизни"
+    },
+    "pack02:6750430": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750430",
+      "original": "Elixir of Laawe",
+      "translation": "Эликсир лаавэ"
+    },
+    "pack02:6750431": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750431",
+      "original": "Mystery Elixir",
+      "translation": "Чудодейственный эликсир"
+    },
+    "pack02:6750432": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750432",
+      "original": "Deluxe Pancakes",
+      "translation": "Панкейки делюкс"
+    },
+    "pack02:6750433": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750433",
+      "original": "Sweet Tea",
+      "translation": "Чай сластён"
+    },
+    "pack02:6750434": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750434",
+      "original": "Red Puni Jelly",
+      "translation": "Красное пуни-желе"
+    },
+    "pack02:6750435": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750435",
+      "original": "Reviving Dew",
+      "translation": "Роса возрождения"
+    },
+    "pack02:6750446": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750446",
+      "original": "Imp's Mischief",
+      "translation": "Проклятие беса"
+    },
+    "pack02:6750447": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750447",
+      "original": "Pure Aroma",
+      "translation": "Чистая свеча"
+    },
+    "pack02:6750448": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750448",
+      "original": "Acid Fog",
+      "translation": "Кислотный туман"
+    },
+    "pack02:6750449": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750449",
+      "original": "Medea's Poison",
+      "translation": "Яд Медеи"
+    },
+    "pack02:6750450": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750450",
+      "original": "Dark Water",
+      "translation": "Тёмная вода"
+    },
+    "pack02:6750451": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750451",
+      "original": "Warding Incense",
+      "translation": "Защитные благовония"
+    },
+    "pack02:6750452": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750452",
+      "original": "Spirit Weave Cloth",
+      "translation": "Духовнопряженная ткань"
+    },
+    "pack02:6750453": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750453",
+      "original": "Hero's Medicine",
+      "translation": "Снадобье героя"
+    },
+    "pack02:6750454": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750454",
+      "original": "Triton's Trumpet",
+      "translation": "Раковина Тритона"
+    },
+    "pack02:6750455": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750455",
+      "original": "Himmelle Relief",
+      "translation": "Химмеле-рельеф"
+    },
+    "pack02:6750456": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750456",
+      "original": "Colorful Powder",
+      "translation": "Красочный порошок"
+    },
+    "pack02:6750457": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750457",
+      "original": "Thousand Bookmarks",
+      "translation": "Тысяча закладок"
+    },
+    "pack02:6750458": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750458",
+      "original": "Prism Crystal",
+      "translation": "Призмокристалл"
+    },
+    "pack02:6750459": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750459",
+      "original": "Anfelite",
+      "translation": "Анфелит"
+    },
+    "pack02:6750460": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750460",
+      "original": "Ice Fog Stick",
+      "translation": "Посох ледяного тумана"
+    },
+    "pack02:6750461": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750461",
+      "original": "Broken Coin",
+      "translation": "Сломанная монета"
+    },
+    "pack02:6750462": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750462",
+      "original": "Spiral Clock",
+      "translation": "Спиральные часы"
+    },
+    "pack02:6750463": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750463",
+      "original": "Star Sprinkler",
+      "translation": "Звёздный распылитель"
+    },
+    "pack02:6750464": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750464",
+      "original": "Black and White Tarot",
+      "translation": "Чёрно-белое таро"
+    },
+    "pack02:6750465": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750465",
+      "original": "Pigeon Blood Oil",
+      "translation": "Масло голубиной крови"
+    },
+    "pack02:6750476": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750476",
+      "original": "Fishing Rod",
+      "translation": "Удочка"
+    },
+    "pack02:6750477": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750477",
+      "original": "High Grade Rod",
+      "translation": "Качественная удочка"
+    },
+    "pack02:6750478": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750478",
+      "original": "Liebel Crown God Rod",
+      "translation": "Божественный посох Либель Краун"
+    },
+    "pack02:6750479": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750479",
+      "original": "Insect Net",
+      "translation": "Сачок"
+    },
+    "pack02:6750480": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750480",
+      "original": "Light Insect Net",
+      "translation": "Лёгкий сачок"
+    },
+    "pack02:6750481": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750481",
+      "original": "Water Bag",
+      "translation": "Водяной мешок"
+    },
+    "pack02:6750484": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750484",
+      "original": "Special Nutrient",
+      "translation": "Особое питание"
+    },
+    "pack02:6750485": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750485",
+      "original": "Fairy Dust Bag",
+      "translation": "Мешочек с феей-пылью"
+    },
+    "pack02:6750486": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750486",
+      "original": "Wind God's Bag",
+      "translation": "Мешочек с ветром"
+    },
+    "pack02:6750487": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750487",
+      "original": "Special Backpack",
+      "translation": "Особый рюкзак"
+    },
+    "pack02:6750488": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750488",
+      "original": "Gathering Gloves",
+      "translation": "Рабочие перчатки"
+    },
+    "pack02:6750489": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750489",
+      "original": "Mining Bomb",
+      "translation": "Шахтёрская бомба"
+    },
+    "pack02:6750490": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750490",
+      "original": "Super-explosive Bomb",
+      "translation": "Сверхвзрывная бомба"
+    },
+    "pack02:6750498": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750498",
+      "original": "Red Neutralizer",
+      "translation": "Красный нейтрализатор"
+    },
+    "pack02:6750499": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750499",
+      "original": "Blue Neutralizer",
+      "translation": "Синий нейтрализатор"
+    },
+    "pack02:6750500": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750500",
+      "original": "Yellow Neutralizer",
+      "translation": "Жёлтый нейтрализатор"
+    },
+    "pack02:6750501": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750501",
+      "original": "Green Neutralizer",
+      "translation": "Зелёный нейтрализатор"
+    },
+    "pack02:6750502": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750502",
+      "original": "Purple Neutralizer",
+      "translation": "Фиолетовый нейтрализатор"
+    },
+    "pack02:6750503": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750503",
+      "original": "Rainbow Neutralizer",
+      "translation": "Радужный нейтрализатор"
+    },
+    "pack02:6750504": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750504",
+      "original": "Distilled Water",
+      "translation": "Очищенная вода"
+    },
+    "pack02:6750505": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750505",
+      "original": "Honey",
+      "translation": "Мёд"
+    },
+    "pack02:6750506": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750506",
+      "original": "Wheat Flour",
+      "translation": "Пшеничная мука"
+    },
+    "pack02:6750507": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750507",
+      "original": "Apcol",
+      "translation": "Апкол"
+    },
+    "pack02:6750508": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750508",
+      "original": "Pure Oil",
+      "translation": "Чистое масло"
+    },
+    "pack02:6750509": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750509",
+      "original": "Zettel",
+      "translation": "Зеттель"
+    },
+    "pack02:6750510": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750510",
+      "original": "Tanning Fluid",
+      "translation": "Жидкость для дубления"
+    },
+    "pack02:6750511": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750511",
+      "original": "Leather",
+      "translation": "Дублёная кожа"
+    },
+    "pack02:6750512": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750512",
+      "original": "Multicolor Dye",
+      "translation": "Многоцветный краситель"
+    },
+    "pack02:6750513": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750513",
+      "original": "Polish",
+      "translation": "Полиш"
+    },
+    "pack02:6750514": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750514",
+      "original": "Alchemic Clay",
+      "translation": "Алхимическая глина"
+    },
+    "pack02:6750515": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750515",
+      "original": "Ashes of Origin",
+      "translation": "Пепел начала"
+    },
+    "pack02:6750516": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750516",
+      "original": "Globe Ball",
+      "translation": "Шар глобуса"
+    },
+    "pack02:6750517": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750517",
+      "original": "Tasty Looking Bait",
+      "translation": "Вкусная наживка"
+    },
+    "pack02:6750518": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750518",
+      "original": "Ingot",
+      "translation": "Слиток"
+    },
+    "pack02:6750519": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750519",
+      "original": "Silvalia",
+      "translation": "Серебрия"
+    },
+    "pack02:6750520": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750520",
+      "original": "Gold Eisen",
+      "translation": "Гольт-айзен"
+    },
+    "pack02:6750521": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750521",
+      "original": "Harmonium",
+      "translation": "Гармониум"
+    },
+    "pack02:6750522": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750522",
+      "original": "Cloth",
+      "translation": "Обычная ткань"
+    },
+    "pack02:6750523": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750523",
+      "original": "Moffcloth",
+      "translation": "Мофф-ткань"
+    },
+    "pack02:6750524": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750524",
+      "original": "Flugel",
+      "translation": "Флюгель"
+    },
+    "pack02:6750525": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750525",
+      "original": "Velvetis",
+      "translation": "Бархатис"
+    },
+    "pack02:6750526": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750526",
+      "original": "Raw Jet",
+      "translation": "Сырой обсидиан"
+    },
+    "pack02:6750527": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750527",
+      "original": "Raw Granate",
+      "translation": "Сырой гранат"
+    },
+    "pack02:6750528": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750528",
+      "original": "Raw Smaragd",
+      "translation": "Сырой смарагд"
+    },
+    "pack02:6750529": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750529",
+      "original": "Raw Sapphire",
+      "translation": "Сырой сапфир"
+    },
+    "pack02:6750530": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750530",
+      "original": "Raw Ruby",
+      "translation": "Сырой рубин"
+    },
+    "pack02:6750531": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750531",
+      "original": "Raw Diamonds",
+      "translation": "Сырой алмаз"
+    },
+    "pack02:6750532": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750532",
+      "original": "Jet",
+      "translation": "Джет"
+    },
+    "pack02:6750533": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750533",
+      "original": "Granate",
+      "translation": "Гранат"
+    },
+    "pack02:6750534": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750534",
+      "original": "Smaragd",
+      "translation": "Смарагд"
+    },
+    "pack02:6750535": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750535",
+      "original": "Sapphire",
+      "translation": "Сапфир"
+    },
+    "pack02:6750536": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750536",
+      "original": "Ruby",
+      "translation": "Рубин"
+    },
+    "pack02:6750537": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750537",
+      "original": "Diamonds",
+      "translation": "Алмазы"
+    },
+    "pack02:6750538": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750538",
+      "original": "Malmore Comet",
+      "translation": "Кометный мальмор"
+    },
+    "pack02:6750539": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750539",
+      "original": "Crimson Stone",
+      "translation": "Багровый камень"
+    },
+    "pack02:6750540": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750540",
+      "original": "Philosopher's Stones",
+      "translation": "Философские камни"
+    },
+    "pack02:6750541": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750541",
+      "original": "Cute Philosopher's Stones",
+      "translation": "Милые философские камни"
+    },
+    "pack02:6750542": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750542",
+      "original": "Activator",
+      "translation": "Активатор"
+    },
+    "pack02:6750543": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750543",
+      "original": "Wahrheit",
+      "translation": "Вархайт"
+    },
+    "pack02:6750544": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750544",
+      "original": "Liquid Gold",
+      "translation": "Жидкое золото"
+    },
+    "pack02:6750545": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750545",
+      "original": "Heating Pottery Stone",
+      "translation": "Нагревательный керамический камень"
+    },
+    "pack02:6750546": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750546",
+      "original": "Reaction Fats and Oils",
+      "translation": "Переактивные жиры и масла"
+    },
+    "pack02:6750547": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750547",
+      "original": "Comet Crest Stone",
+      "translation": "Камень кометного герба"
+    },
+    "pack02:6750548": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750548",
+      "original": "Holy Acid",
+      "translation": "Святая кислота"
+    },
+    "pack02:6750549": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750549",
+      "original": "Dragon Acid",
+      "translation": "Драконья кислота"
+    },
+    "pack02:6750550": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750550",
+      "original": "Deep Blue Stone",
+      "translation": "Глубокий синий камень"
+    },
+    "pack02:6750551": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750551",
+      "original": "Dream Paintbrushes",
+      "translation": "Кисти снов"
+    },
+    "pack02:6750552": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750552",
+      "original": "Dream Paintbrushes?",
+      "translation": "Кисти снов?"
+    },
+    "pack02:6750553": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750553",
+      "original": "Paint of Proud Heart",
+      "translation": "Краска гордого сердца"
+    },
+    "pack02:6750554": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750554",
+      "original": "Paint of High-minded Waters",
+      "translation": "Краска благородных вод"
+    },
+    "pack02:6750555": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750555",
+      "original": "Paint of Frozen Phantom",
+      "translation": "Краска замёрзшего фантома"
+    },
+    "pack02:6750556": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750556",
+      "original": "Paint of Wandering on the Edge",
+      "translation": "Краска скитаний на краю"
+    },
+    "pack02:6750557": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750557",
+      "original": "Paint of Eternal Celestial Land",
+      "translation": "Краска вечной небесной земли"
+    },
+    "pack02:6750558": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750558",
+      "original": "Paint of Dreaming Night Sky",
+      "translation": "Краска мечтательного ночного неба"
+    },
+    "pack02:6750559": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750559",
+      "original": "Paint of Sinking Evil Darkness",
+      "translation": "Краска погружающейся злой тьмы"
+    },
+    "pack02:6750560": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750560",
+      "original": "Neverending Diary",
+      "translation": "Бесконечный дневник"
+    },
+    "pack02:6750561": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750561",
+      "original": "Paint of the Two",
+      "translation": "Краска двоих"
+    },
+    "pack02:6750562": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750562",
+      "original": "Pastels of Unity",
+      "translation": "Пастель единства"
+    },
+    "pack02:6750563": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750563",
+      "original": "Glittering Pneuma",
+      "translation": "Мерцающая пнеума"
+    },
+    "pack02:6750564": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750564",
+      "original": "Relentless Flame",
+      "translation": "Неугасимое пламя"
+    },
+    "pack02:6750565": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750565",
+      "original": "Teardrops of Harmony",
+      "translation": "Слёзы гармонии"
+    },
+    "pack02:6750566": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750566",
+      "original": "Strong Reaction Cauldron",
+      "translation": "Котёл сильной реакции"
+    },
+    "pack02:6750567": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750567",
+      "original": "Samsara Compass",
+      "translation": "Компас самсары"
+    },
+    "pack02:6750568": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750568",
+      "original": "Commutation",
+      "translation": "Коммутация"
+    },
+    "pack02:6750569": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750569",
+      "original": "Rose Crown of Adalet",
+      "translation": "Розовая корона Адалет"
+    },
+    "pack02:6750570": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750570",
+      "original": "Ice Box",
+      "translation": "Ледяной ящик"
+    },
+    "pack02:6750571": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750571",
+      "original": "Lightning Finder",
+      "translation": "Искатель молний"
+    },
+    "pack02:6750572": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750572",
+      "original": "Cold Wind Engine",
+      "translation": "Двигатель холодного ветра"
+    },
+    "pack02:6750573": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750573",
+      "original": "Goblet",
+      "translation": "Кубок"
+    },
+    "pack02:6750574": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750574",
+      "original": "Silverware Set",
+      "translation": "Серебряный столовый набор"
+    },
+    "pack02:6750575": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750575",
+      "original": "Stomach-ache Medicine",
+      "translation": "Лекарство от боли в животе"
+    },
+    "pack02:6750576": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750576",
+      "original": "Strong Cold Medicine",
+      "translation": "Сильное лекарство от простуды"
+    },
+    "pack02:6750577": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750577",
+      "original": "Liquefaction Solution",
+      "translation": "Раствор сжижения"
+    },
+    "pack02:6750578": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750578",
+      "original": "Energy Alliance",
+      "translation": "Союз энергии"
+    },
+    "pack02:6750579": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750579",
+      "original": "Bravery Alliance",
+      "translation": "Союз храбрости"
+    },
+    "pack02:6750580": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750580",
+      "original": "Blason of Ferocity",
+      "translation": "Блазон свирепости"
+    },
+    "pack02:6750581": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750581",
+      "original": "Blason of Divine Power",
+      "translation": "Блазон божественной силы"
+    },
+    "pack02:6750582": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750582",
+      "original": "Orb of Speed of Light",
+      "translation": "Сфера световой скорости"
+    },
+    "pack02:6750583": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750583",
+      "original": "Orb of Divine Speed",
+      "translation": "Сфера божественной скорости"
+    },
+    "pack02:6750584": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750584",
+      "original": "Emblem of Gordian Knot",
+      "translation": "Эмблема гордиева узла"
+    },
+    "pack02:6750585": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750585",
+      "original": "Jet Gear",
+      "translation": "Джет-механизм"
+    },
+    "pack02:6750586": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750586",
+      "original": "Smaragd Pommel",
+      "translation": "Смарагд-навершие"
+    },
+    "pack02:6750587": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750587",
+      "original": "Sapphire Pommel",
+      "translation": "Сапфирная навершие"
+    },
+    "pack02:6750588": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750588",
+      "original": "Ruby Pommel",
+      "translation": "Рубиновая навершие"
+    },
+    "pack02:6750589": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750589",
+      "original": "Marble Gear",
+      "translation": "Мраморный механизм"
+    },
+    "pack02:6750590": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750590",
+      "original": "Diamond Rune Stone",
+      "translation": "Алмазный рунический камень"
+    },
+    "pack02:6750591": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750591",
+      "original": "Herculean Gear",
+      "translation": "Механизм геркулеса"
+    },
+    "pack02:6750592": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750592",
+      "original": "Great Warrior Orden",
+      "translation": "Орден великого воина"
+    },
+    "pack02:6750593": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750593",
+      "original": "Bond of Wisdom",
+      "translation": "Узы мудрости"
+    },
+    "pack02:6750594": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750594",
+      "original": "Quartz Gear",
+      "translation": "Кварцевый механизм"
+    },
+    "pack02:6750595": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750595",
+      "original": "Cabochon Gear",
+      "translation": "Кабошон-механизм"
+    },
+    "pack02:6750597": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750597",
+      "original": "Sp. Plant Nutrient",
+      "translation": "Спец. растительное питание"
+    },
+    "pack02:6750602": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750602",
+      "original": "Ravatite Light",
+      "translation": "Свет раватита"
+    },
+    "pack02:6750603": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750603",
+      "original": "Blizzard Weave",
+      "translation": "Снежное плетение"
+    },
+    "pack02:6750604": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750604",
+      "original": "Concussion Canon",
+      "translation": "Конкуссион-пушка"
+    },
+    "pack02:6750605": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750605",
+      "original": "Tempest Blade",
+      "translation": "Темпест-клинок"
+    },
+    "pack02:6750606": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750606",
+      "original": "Immortal Essence",
+      "translation": "Бессмертная эссенция"
+    },
+    "pack02:6750607": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750607",
+      "original": "Herb Fragrance",
+      "translation": "Травяной аромат"
+    },
+    "pack02:6750608": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750608",
+      "original": "Hammer of Peaceful Sleep",
+      "translation": "Молот мирного сна"
+    },
+    "pack02:6750609": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750609",
+      "original": "Primal Aqua",
+      "translation": "Изначальная вода"
+    },
+    "pack02:6750610": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750610",
+      "original": "Curtain of Darkness",
+      "translation": "Занавес тьмы"
+    },
+    "pack02:6750611": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750611",
+      "original": "Pendulum of Experience",
+      "translation": "Маятник опыта"
+    },
+    "pack02:6750612": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750612",
+      "original": "Quadruple Shield",
+      "translation": "Четверной щит"
+    },
+    "pack02:6750613": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750613",
+      "original": "Super-speed Wind-up Key",
+      "translation": "Сверхскоростная заводная пружина"
+    },
+    "pack02:6750614": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750614",
+      "original": "Light-beam Prism",
+      "translation": "Призма светового луча"
+    },
+    "pack02:6750615": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750615",
+      "original": "Hammer of Eternal Sleep",
+      "translation": "Молот вечного сна"
+    },
+    "pack02:6750616": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750616",
+      "original": "Flame Meteor",
+      "translation": "Огненный метеор"
+    },
+    "pack02:6750617": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750617",
+      "original": "Gjallarhorn",
+      "translation": "Гьяллархорн"
+    },
+    "pack02:6750618": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750618",
+      "original": "Emergency Smoke Bomb",
+      "translation": "Аварийная дымовая бомба"
+    },
+    "pack02:6750619": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750619",
+      "original": "All-In Super-Bomb",
+      "translation": "Супербомба «всё или ничего»"
+    },
+    "pack02:6750620": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750620",
+      "original": "Very Deadly Poison",
+      "translation": "Смертоносный яд"
+    },
+    "pack02:6750621": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750621",
+      "original": "Linking Chain",
+      "translation": "Соединительная цепь"
+    },
+    "pack02:6750622": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750622",
+      "original": "Cosmo Bomb",
+      "translation": "Космо-бомба"
+    },
+    "pack02:6750623": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750623",
+      "original": "Lightning Flash",
+      "translation": "Молниевая вспышка"
+    },
+    "pack02:6750624": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750624",
+      "original": "Crystal Ice Bomb",
+      "translation": "Кристальная ледобомба"
+    },
+    "pack02:6750625": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750625",
+      "original": "Air Compressor",
+      "translation": "Люфт-компрессор"
+    },
+    "pack02:6750626": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750626",
+      "original": "Piercing Uni",
+      "translation": "Пронзающий уни"
+    },
+    "pack02:6750627": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750627",
+      "original": "Energy Cookie",
+      "translation": "Энергетическое печенье"
+    },
+    "pack02:6750628": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750628",
+      "original": "Wandering Earth",
+      "translation": "Блуждающая земля"
+    },
+    "pack02:6750629": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750629",
+      "original": "Cutie Tea",
+      "translation": "Чай милушка"
+    },
+    "pack02:6750630": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750630",
+      "original": "Peaceful Aroma",
+      "translation": "Мирная свеча"
+    },
+    "pack02:6750631": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750631",
+      "original": "The Darkness",
+      "translation": "Тьма"
+    },
+    "pack02:6750632": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750632",
+      "original": "Velvety Cake",
+      "translation": "Бархатный торт"
+    },
+    "pack02:6750633": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750633",
+      "original": "Chunk of Soy Meat",
+      "translation": "Кусок соевого мяса"
+    },
+    "pack02:6750634": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750634",
+      "original": "Big Bang Bomb",
+      "translation": "Бомба большого взрыва"
+    },
+    "pack02:6750635": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750635",
+      "original": "Absolute Zero",
+      "translation": "Абсолютный ноль"
+    },
+    "pack02:6750636": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750636",
+      "original": "Lightning Strike",
+      "translation": "Электрическая атака"
+    },
+    "pack02:6750637": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750637",
+      "original": "Final Lofter",
+      "translation": "Финальный лофтер"
+    },
+    "pack02:6750638": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750638",
+      "original": "King Puni Jelly",
+      "translation": "Желе короля пуни"
+    },
+    "pack02:6750639": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750639",
+      "original": "Rainbow Veil",
+      "translation": "Радужная вуаль"
+    },
+    "pack02:6750640": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750640",
+      "original": "Breath of Life",
+      "translation": "Дыхание жизни"
+    },
+    "pack02:6750641": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750641",
+      "original": "N/A type Σ",
+      "translation": "Н/д тип Σ"
+    },
+    "pack02:6750652": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750652",
+      "original": "Beginner's Staff",
+      "translation": "Посох новичка"
+    },
+    "pack02:6750653": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750653",
+      "original": "Whisper Rod",
+      "translation": "Жезл шёпота"
+    },
+    "pack02:6750654": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750654",
+      "original": "Misty Mirage",
+      "translation": "Туманный мираж"
+    },
+    "pack02:6750655": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750655",
+      "original": "Revere Heart",
+      "translation": "Почтительное сердце"
+    },
+    "pack02:6750656": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750656",
+      "original": "Bloom Spiral",
+      "translation": "Цветочная спираль"
+    },
+    "pack02:6750657": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750657",
+      "original": "Light Glitter",
+      "translation": "Световые искры"
+    },
+    "pack02:6750658": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750658",
+      "original": "Pirate Flare",
+      "translation": "Пиратская вспышка"
+    },
+    "pack02:6750659": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750659",
+      "original": "Accel Keeper",
+      "translation": "Аксель-кипер"
+    },
+    "pack02:6750660": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750660",
+      "original": "Liberated Soul",
+      "translation": "Освобождённая душа"
+    },
+    "pack02:6750661": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750661",
+      "original": "Star Suelle",
+      "translation": "Звёздная Сюэль"
+    },
+    "pack02:6750662": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750662",
+      "original": "Hawkeye Bow",
+      "translation": "Соколиный лук"
+    },
+    "pack02:6750663": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750663",
+      "original": "Surf Bow",
+      "translation": "Прибойный лук"
+    },
+    "pack02:6750664": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750664",
+      "original": "Shooting Star",
+      "translation": "Падающая звезда"
+    },
+    "pack02:6750665": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750665",
+      "original": "Celestial Bow",
+      "translation": "Небесный лук"
+    },
+    "pack02:6750666": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750666",
+      "original": "Leitzelstein",
+      "translation": "Лейцельштейн"
+    },
+    "pack02:6750667": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750667",
+      "original": "Blessing Staff",
+      "translation": "Посох благословения"
+    },
+    "pack02:6750668": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750668",
+      "original": "Binary Star",
+      "translation": "Двойная звезда"
+    },
+    "pack02:6750669": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750669",
+      "original": "Blue Wings Mistletoe",
+      "translation": "Омела синих крыльев"
+    },
+    "pack02:6750670": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750670",
+      "original": "Magic Lantern of Wisdom",
+      "translation": "Волшебный фонарь мудрости"
+    },
+    "pack02:6750671": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750671",
+      "original": "Staff of Time and Universe",
+      "translation": "Посох времени и вселенной"
+    },
+    "pack02:6750672": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750672",
+      "original": "Oracle Blade",
+      "translation": "Клинок оракула"
+    },
+    "pack02:6750673": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750673",
+      "original": "Klinge Mähne",
+      "translation": "Клингe-Мэне"
+    },
+    "pack02:6750674": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750674",
+      "original": "Chevalier Rouge",
+      "translation": "Шевалье Руж"
+    },
+    "pack02:6750675": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750675",
+      "original": "Boar Fang",
+      "translation": "Клык вепря"
+    },
+    "pack02:6750676": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750676",
+      "original": "Victory's Favor",
+      "translation": "Виктор-фейвор"
+    },
+    "pack02:6750677": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750677",
+      "original": "&quot;Summary of Arts&quot;",
+      "translation": "&quot;Свод искусств&quot;"
+    },
+    "pack02:6750678": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750678",
+      "original": "&quot;Silver Book of Idea&quot;",
+      "translation": "&quot;Серебряная книга идей&quot;"
+    },
+    "pack02:6750679": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750679",
+      "original": "&quot;Praeteritum&quot;",
+      "translation": "&quot;Праэтеритум&quot;"
+    },
+    "pack02:6750680": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750680",
+      "original": "&quot;Book of Secret Arts Lectalion&quot;",
+      "translation": "&quot;Тайная книга искусств Лекталион&quot;"
+    },
+    "pack02:6750681": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750681",
+      "original": "&quot;Book of Darkness Adagies&quot;",
+      "translation": "&quot;Единая тёмная книга Адагиес&quot;"
+    },
+    "pack02:6750682": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750682",
+      "original": "Noble Parasol",
+      "translation": "Благородный зонтик"
+    },
+    "pack02:6750683": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750683",
+      "original": "Belle Corolla",
+      "translation": "Белль-королла"
+    },
+    "pack02:6750684": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750684",
+      "original": "Merk Parasol",
+      "translation": "Зонтик Мерка"
+    },
+    "pack02:6750685": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750685",
+      "original": "Lady of Tendresse",
+      "translation": "Дама нежности"
+    },
+    "pack02:6750686": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750686",
+      "original": "Super Powerful Luciabrella",
+      "translation": "Сверхмощная люсьябрелла"
+    },
+    "pack02:6750687": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750687",
+      "original": "Fire Ring Staff",
+      "translation": "Посох огненного кольца"
+    },
+    "pack02:6750688": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750688",
+      "original": "Spinel Blessing",
+      "translation": "Спинель-бресс"
+    },
+    "pack02:6750689": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750689",
+      "original": "Genius Circle",
+      "translation": "Круг гения"
+    },
+    "pack02:6750690": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750690",
+      "original": "Gale Tempester",
+      "translation": "Гейл-темпестер"
+    },
+    "pack02:6750691": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750691",
+      "original": "Leinweber's Jeweled Cane",
+      "translation": "Драгоценная трость Лейнвебера"
+    },
+    "pack02:6750702": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750702",
+      "original": "Thick Cloth Armor",
+      "translation": "Толстая тканевая броня"
+    },
+    "pack02:6750703": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750703",
+      "original": "Cotton Armor",
+      "translation": "Хлопковая броня"
+    },
+    "pack02:6750704": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750704",
+      "original": "Colorful Robes",
+      "translation": "Красочная мантия"
+    },
+    "pack02:6750705": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750705",
+      "original": "Silver Thread Armor",
+      "translation": "Серебрянонитяная броня"
+    },
+    "pack02:6750706": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750706",
+      "original": "Nightshade",
+      "translation": "Паслён"
+    },
+    "pack02:6750707": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750707",
+      "original": "Leather Armor",
+      "translation": "Кожаная броня"
+    },
+    "pack02:6750708": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750708",
+      "original": "Yarn Coat",
+      "translation": "Шерстяной плащ"
+    },
+    "pack02:6750709": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750709",
+      "original": "Riveted Leather Armor",
+      "translation": "Кожаная броня"
+    },
+    "pack02:6750710": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750710",
+      "original": "Hard Robes",
+      "translation": "Твёрдая мантия"
+    },
+    "pack02:6750711": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750711",
+      "original": "Bone Mail",
+      "translation": "Костяной жилет"
+    },
+    "pack02:6750712": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750712",
+      "original": "Metal and Leather Mail",
+      "translation": "Кольчуга из металла и кожи"
+    },
+    "pack02:6750713": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750713",
+      "original": "Scale Armor",
+      "translation": "Чешуйчатая броня"
+    },
+    "pack02:6750714": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750714",
+      "original": "Alchemic Mail",
+      "translation": "Алхимическая кольчуга"
+    },
+    "pack02:6750715": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750715",
+      "original": "Breast Plate",
+      "translation": "Нагрудник"
+    },
+    "pack02:6750716": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750716",
+      "original": "Dragoon Mail",
+      "translation": "Драгунская броня"
+    },
+    "pack02:6750727": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750727",
+      "original": "Gnade Ring",
+      "translation": "Гнаде-кольцо"
+    },
+    "pack02:6750728": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750728",
+      "original": "Angel Ribbon",
+      "translation": "Ленточка ангела"
+    },
+    "pack02:6750729": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750729",
+      "original": "Firesoul Talisman",
+      "translation": "Талисман души огня"
+    },
+    "pack02:6750730": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750730",
+      "original": "Windspirit Talisman",
+      "translation": "Талисман духа ветра"
+    },
+    "pack02:6750731": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750731",
+      "original": "Icedream Talisman",
+      "translation": "Талисман воли льда"
+    },
+    "pack02:6750732": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750732",
+      "original": "Lightningphantom Talisman",
+      "translation": "Талисман молниеносного фантома"
+    },
+    "pack02:6750733": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750733",
+      "original": "Magic Stone Chain",
+      "translation": "Цепочка с магич. камнями"
+    },
+    "pack02:6750734": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750734",
+      "original": "Knuckle Guard",
+      "translation": "Боевые перчатки"
+    },
+    "pack02:6750735": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750735",
+      "original": "Lucky Coin",
+      "translation": "Счастливая монета"
+    },
+    "pack02:6750736": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750736",
+      "original": "Ange Parure",
+      "translation": "Анж-парюр"
+    },
+    "pack02:6750737": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750737",
+      "original": "Liberte Ring",
+      "translation": "Кольцо Либерте"
+    },
+    "pack02:6750738": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750738",
+      "original": "Sauveur Ring",
+      "translation": "Кольцо Совёра"
+    },
+    "pack02:6750739": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750739",
+      "original": "Dragon Scale Necklace",
+      "translation": "Ожерелье из драконьей чешуи"
+    },
+    "pack02:6750740": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750740",
+      "original": "Battle Amulet",
+      "translation": "Боевой амулет"
+    },
+    "pack02:6750741": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750741",
+      "original": "Long Boots",
+      "translation": "Сапоги"
+    },
+    "pack02:6750742": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750742",
+      "original": "Gold Long Boots",
+      "translation": "Золотые сапоги"
+    },
+    "pack02:6750753": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750753",
+      "original": "New Dream Paintbrushes",
+      "translation": "Новые кисти снов"
+    },
+    "pack02:6750754": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750754",
+      "original": "Torn Teddy Bear",
+      "translation": "Порванный плюшевый мишка"
+    },
+    "pack02:6750755": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750755",
+      "original": "Teddy Bear",
+      "translation": "Плюшевый мишка"
+    },
+    "pack02:6750756": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750756",
+      "original": "Broken Palette",
+      "translation": "Сломанная палитра"
+    },
+    "pack02:6750757": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750757",
+      "original": "Rainbow Palette",
+      "translation": "Радужная палитра"
+    },
+    "pack02:6750758": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750758",
+      "original": "Air Drop",
+      "translation": "Капля воздуха"
+    },
+    "pack02:6750759": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750759",
+      "original": "Bag of Air Drops",
+      "translation": "Мешочек с каплями воздуха"
+    },
+    "pack02:6750760": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750760",
+      "original": "Backen's Broken Key",
+      "translation": "Сломанный ключ Бакена"
+    },
+    "pack02:6750761": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750761",
+      "original": "Backen's Key",
+      "translation": "Ключ Бакена"
+    },
+    "pack02:6750762": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750762",
+      "original": "Colorful Garden Fragments",
+      "translation": "Осколки красочного сада"
+    },
+    "pack02:6750763": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750763",
+      "original": "Leaf Pattern Fragments",
+      "translation": "Осколки листового узора"
+    },
+    "pack02:6750764": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750764",
+      "original": "Shiny Crystal Fragments",
+      "translation": "Осколки сияющего кристалла"
+    },
+    "pack02:6750765": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750765",
+      "original": "Surging Hell Fire Fragments",
+      "translation": "Осколки бушующего адского пламени"
+    },
+    "pack02:6750766": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750766",
+      "original": "Ancient Frost Fragments",
+      "translation": "Осколки вечного мороза"
+    },
+    "pack02:6750767": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750767",
+      "original": "Coin Pattern Fragments",
+      "translation": "Осколки с монетным узором"
+    },
+    "pack02:6750768": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750768",
+      "original": "Spiral Fragments",
+      "translation": "Спиральные осколки"
+    },
+    "pack02:6750769": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750769",
+      "original": "Falling Star Fragments",
+      "translation": "Осколки падающей звезды"
+    },
+    "pack02:6750770": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750770",
+      "original": "Jet Black Tile Fragments",
+      "translation": "Осколки чёрной плитки"
+    },
+    "pack02:6750771": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750771",
+      "original": "Bloodstained Fragments",
+      "translation": "Окровавленные осколки"
+    },
+    "pack02:6750772": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750772",
+      "original": "Sophie's Reference",
+      "translation": "Рекомендательное письмо Софи"
+    },
+    "pack02:6750773": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750773",
+      "original": "Ilmeria's Reference",
+      "translation": "Рекомендательное письмо Ильмерии"
+    },
+    "pack02:6750774": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750774",
+      "original": "Roger's Reference",
+      "translation": "Рекомендательное письмо Роджера"
+    },
+    "pack02:6750775": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750775",
+      "original": "Firis' Reference",
+      "translation": "Рекомендательное письмо Фирис"
+    },
+    "pack02:6750777": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750777",
+      "original": "Painting World Scrap",
+      "translation": "Осколок мира картин"
+    },
+    "pack02:6750783": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750783",
+      "original": "Backen's Poem",
+      "translation": "Поэма Бакена"
+    },
+    "pack02:6750784": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750784",
+      "original": "&quot;Decorations&quot;",
+      "translation": "&quot;Украшения&quot;"
+    },
+    "pack02:6750785": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750785",
+      "original": "&quot;First Creation&quot;",
+      "translation": "&quot;Первая работа&quot;"
+    },
+    "pack02:6750786": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750786",
+      "original": "&quot;Ore Processing Text&quot;",
+      "translation": "&quot;Трактат по обработке руды&quot;"
+    },
+    "pack02:6750787": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750787",
+      "original": "&quot;Encyclopedia of Gems Vol.1&quot;",
+      "translation": "&quot;Энциклопедия самоцветов. Том 1&quot;"
+    },
+    "pack02:6750788": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750788",
+      "original": "&quot;Encyclopedia of Gems Vol.2&quot;",
+      "translation": "&quot;Энциклопедия самоцветов. Том 2&quot;"
+    },
+    "pack02:6750789": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750789",
+      "original": "&quot;Application of Ornaments&quot;",
+      "translation": "&quot;Практика украшений&quot;"
+    },
+    "pack02:6750790": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750790",
+      "original": "&quot;Polishing Glamour&quot;",
+      "translation": "&quot;Полировка очарования&quot;"
+    },
+    "pack02:6750791": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750791",
+      "original": "&quot;Protecting the World&quot;",
+      "translation": "&quot;Защита мира&quot;"
+    },
+    "pack02:6750792": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750792",
+      "original": "&quot;Releasing Hidden Power&quot;",
+      "translation": "&quot;Высвобождение скрытой силы&quot;"
+    },
+    "pack02:6750793": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750793",
+      "original": "&quot;Legendary Materials&quot;",
+      "translation": "&quot;Легендарные материалы&quot;"
+    },
+    "pack02:6750794": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750794",
+      "original": "&quot;Book of Dragon Divination&quot;",
+      "translation": "&quot;Книга драконьего гадания&quot;"
+    },
+    "pack02:6750795": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750795",
+      "original": "E Rank Test Problem",
+      "translation": "Задание экзамена ранга E"
+    },
+    "pack02:6750796": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750796",
+      "original": "Creating Air Drops",
+      "translation": "Создание капель воздуха"
+    },
+    "pack02:6750797": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750797",
+      "original": "B Rank Test Problem",
+      "translation": "Задание экзамена ранга B"
+    },
+    "pack02:6750798": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750798",
+      "original": "Recipe of Hope",
+      "translation": "Рецепт надежды"
+    },
+    "pack02:6750799": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750799",
+      "original": "Plachta's Recipe",
+      "translation": "Рецепт Плахты"
+    },
+    "pack02:6750800": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750800",
+      "original": "Ilmeria's Recipe",
+      "translation": "Рецепт Ильмерии"
+    },
+    "pack02:6750801": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750801",
+      "original": "Alt's Recipe",
+      "translation": "Рецепт Альта"
+    },
+    "pack02:6750802": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750802",
+      "original": "Firis' Recipe",
+      "translation": "Рецепт Фирис"
+    },
+    "pack02:6750803": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750803",
+      "original": "Sophie's Recipe",
+      "translation": "Рецепт Софи"
+    },
+    "pack02:6750804": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750804",
+      "original": "Ornament Catalogue",
+      "translation": "Каталог украшений"
+    },
+    "pack02:6750805": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750805",
+      "original": "Roger's Idea Note",
+      "translation": "Записи озарений Роджера"
+    },
+    "pack02:6750806": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750806",
+      "original": "Roger's Forbidden Book",
+      "translation": "Запретная книга Роджера"
+    },
+    "pack02:6750807": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750807",
+      "original": "Mother's Recipe Notes",
+      "translation": "Кулинарные заметки мамы"
+    },
+    "pack02:6750808": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750808",
+      "original": "Ilmeria's Homework",
+      "translation": "Домашнее задание Ильмерии"
+    },
+    "pack02:6750809": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750809",
+      "original": "&quot;Book of Firis' Recipes&quot;",
+      "translation": "&quot;Кулинарная книга Фирис&quot;"
+    },
+    "pack02:6750810": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750810",
+      "original": "&quot;Basic Guidebook&quot;",
+      "translation": "&quot;Книга расшифровки начала&quot;"
+    },
+    "pack02:6750811": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750811",
+      "original": "&quot;Spirit Fire&quot;",
+      "translation": "&quot;Духовный огонь&quot;"
+    },
+    "pack02:6750812": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750812",
+      "original": "&quot;My Way of Life&quot;",
+      "translation": "&quot;Мой образ жизни&quot;"
+    },
+    "pack02:6750813": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750813",
+      "original": "Handmade Puppet",
+      "translation": "Ручная кукла"
+    },
+    "pack02:6750814": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750814",
+      "original": "Chick Stuffed Toy",
+      "translation": "Плюшевый цыплёнок"
+    },
+    "pack02:6750815": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750815",
+      "original": "Cute Stuffed Toy",
+      "translation": "Плюшевая милашка"
+    },
+    "pack02:6750816": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750816",
+      "original": "Lucia's Request",
+      "translation": "Просьба Люсии"
+    },
+    "pack02:6750817": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750817",
+      "original": "Travel Gate",
+      "translation": "Тревел-гейт"
+    },
+    "pack02:6750818": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750818",
+      "original": "Growth Medicine",
+      "translation": "Лекарство роста"
+    },
+    "pack02:6750819": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750819",
+      "original": "Portable Tent",
+      "translation": "Походная палатка"
+    },
+    "pack02:6750820": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750820",
+      "original": "Business License",
+      "translation": "Лицензия на ведение бизнеса"
+    },
+    "pack02:6750821": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750821",
+      "original": "Crokenbuffe",
+      "translation": "Крокембуш"
+    },
+    "pack02:6750822": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750822",
+      "original": "Simple Cookies",
+      "translation": "Простое печенье"
+    },
+    "pack02:6750823": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750823",
+      "original": "Marriage Registration Form",
+      "translation": "Брачное свидетельство"
+    },
+    "pack02:6750824": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750824",
+      "original": "List",
+      "translation": "Список"
+    },
+    "pack02:6750825": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750825",
+      "original": "Ugly Plushy",
+      "translation": "Уродливая плюшка"
+    },
+    "pack02:6750826": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750826",
+      "original": "Card Game",
+      "translation": "Карточная игра"
+    },
+    "pack02:6750827": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750827",
+      "original": "Beckoner of Luck",
+      "translation": "Призыватель удачи"
+    },
+    "pack02:6750833": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750833",
+      "original": "Experimental Nutrients",
+      "translation": "Экспериментальные питательные вещества"
+    },
+    "pack02:6750834": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750834",
+      "original": "Gold Tree",
+      "translation": "Золотое дерево"
+    },
+    "pack02:6750835": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750835",
+      "original": "Music Box",
+      "translation": "Музыкальная шкатулка"
+    },
+    "pack02:6750838": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750838",
+      "original": "Alt's Textbook",
+      "translation": "Справочник Альта"
+    },
+    "pack02:6750840": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750840",
+      "original": "Rock Cookie",
+      "translation": "Твёрдое печенье"
+    },
+    "pack02:6750841": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750841",
+      "original": "Flyer",
+      "translation": "Листовка"
+    },
+    "pack02:6750842": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750842",
+      "original": "Ticket",
+      "translation": "Путевой билет"
+    },
+    "pack02:6750843": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750843",
+      "original": "Roasted Rabbit",
+      "translation": "Жареный кролик"
+    },
+    "pack02:6750863": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750863",
+      "original": "Blitz Core: Fire",
+      "translation": "Огненное блиц-ядро"
+    },
+    "pack02:6750864": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750864",
+      "original": "Blitz Core: Ice",
+      "translation": "Ледяное блиц-ядро"
+    },
+    "pack02:6750865": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750865",
+      "original": "Blitz Core: Thunder",
+      "translation": "Грозовое блиц-ядро"
+    },
+    "pack02:6750866": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750866",
+      "original": "Blitz Core: Wind",
+      "translation": "Ветреное блиц-ядро"
+    },
+    "pack02:6750867": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750867",
+      "original": "Manly Pickle Stone",
+      "translation": "Камень мужских солений"
+    },
+    "pack02:6750868": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750868",
+      "original": "Dimension Bomb",
+      "translation": "Бомба измерения"
+    },
+    "pack02:6750869": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750869",
+      "original": "Omega Craft",
+      "translation": "Омега-шипобомба"
+    },
+    "pack02:6750873": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750873",
+      "original": "Apple Tart",
+      "translation": "Яблочный тарт"
+    },
+    "pack02:6750874": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750874",
+      "original": "Mushroom Stew",
+      "translation": "Грибной суп"
+    },
+    "pack02:6750878": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750878",
+      "original": "Tonic Powder",
+      "translation": "Укрепляющий порошок"
+    },
+    "pack02:6750879": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750879",
+      "original": "Spark Mallet",
+      "translation": "Искрящийся молот"
+    },
+    "pack02:6750883": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750883",
+      "original": "Spiked Boots",
+      "translation": "Шипованные сапоги"
+    },
+    "pack02:6750884": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750884",
+      "original": "Special Elixir Nutrients",
+      "translation": "Особый питательный эликсир"
+    },
+    "pack02:6750885": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750885",
+      "original": "Secret Bag",
+      "translation": "Секретный мешок"
+    },
+    "pack02:6750893": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750893",
+      "original": "Blason of Genesis",
+      "translation": "Блазон генезиса"
+    },
+    "pack02:6750894": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750894",
+      "original": "Parasim of Courage",
+      "translation": "Парасим отваги"
+    },
+    "pack02:6750895": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750895",
+      "original": "Sphere of Wisdom",
+      "translation": "Сфера мудрости"
+    },
+    "pack02:6750896": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750896",
+      "original": "Bond of Royalty",
+      "translation": "Узы королевской крови"
+    },
+    "pack02:6750897": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750897",
+      "original": "Argento of Harmony",
+      "translation": "Аргенто гармонии"
+    },
+    "pack02:6750903": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750903",
+      "original": "Vetur Caput",
+      "translation": "Ветур-капут"
+    },
+    "pack02:6750904": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750904",
+      "original": "Sumar Caput",
+      "translation": "Сумар-капут"
+    },
+    "pack02:6750905": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750905",
+      "original": "Force Regen",
+      "translation": "Форс-реген"
+    },
+    "pack02:6750906": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750906",
+      "original": "Absorption Caput",
+      "translation": "Абсорб-капут"
+    },
+    "pack02:6750907": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750907",
+      "original": "Lion's Might",
+      "translation": "Львиная мощь"
+    },
+    "pack02:6750913": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750913",
+      "original": "Triple Bomb",
+      "translation": "Тройная бомба"
+    },
+    "pack02:6750914": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750914",
+      "original": "Wind Amber",
+      "translation": "Винд-янтарь"
+    },
+    "pack02:6750915": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750915",
+      "original": "Adamantine Friction",
+      "translation": "Адамантиновое трение"
+    },
+    "pack02:6750916": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750916",
+      "original": "Battle Impulse Incense",
+      "translation": "Благовоние боевого порыва"
+    },
+    "pack02:6750917": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750917",
+      "original": "First Aid Kit",
+      "translation": "Аптечка"
+    },
+    "pack02:6750923": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750923",
+      "original": "Miracle Box",
+      "translation": "Коробка чудес"
+    },
+    "pack02:6750924": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750924",
+      "original": "Nemesis Canvas",
+      "translation": "Холст Немезиды"
+    },
+    "pack02:6750925": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750925",
+      "original": "Super Deadly Ball",
+      "translation": "Сверхсмертельный метеобол"
+    },
+    "pack02:6750926": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750926",
+      "original": "Blessed Goblet",
+      "translation": "Благословенная чаша"
+    },
+    "pack02:6750927": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750927",
+      "original": "Advent Relief",
+      "translation": "Адвент-рельеф"
+    },
+    "pack02:6750933": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750933",
+      "original": "White-Hot Headband",
+      "translation": "Раскалённая повязка"
+    },
+    "pack02:6750934": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750934",
+      "original": "Spirit Earrings",
+      "translation": "Серьги духа"
+    },
+    "pack02:6750935": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750935",
+      "original": "Monochrome Glasses",
+      "translation": "Монохромные очки"
+    },
+    "pack02:6750936": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750936",
+      "original": "Time Control Hourglass",
+      "translation": "Песочные часы управления временем"
+    },
+    "pack02:6750937": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750937",
+      "original": "Radiant Talisman",
+      "translation": "Сияющий талисман"
+    },
+    "pack02:6750938": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750938",
+      "original": "Moonshine Talisman",
+      "translation": "Талисман лунного сияния"
+    },
+    "pack02:6750939": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750939",
+      "original": "Phoenix Bracelet",
+      "translation": "Браслет феникса"
+    },
+    "pack02:6750940": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750940",
+      "original": "Treasure Grimoire",
+      "translation": "Сокровищный гримуар"
+    },
+    "pack02:6750941": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750941",
+      "original": "Camo Cloak",
+      "translation": "Камуфляжный плащ"
+    },
+    "pack02:6750943": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750943",
+      "original": "Belladonna",
+      "translation": "Белладонна"
+    },
+    "pack02:6750944": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750944",
+      "original": "Night Crown",
+      "translation": "Ночная корона"
+    },
+    "pack02:6750945": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750945",
+      "original": "Bloody Spear",
+      "translation": "Окровавленное копьё"
+    },
+    "pack02:6750953": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750953",
+      "original": "Blue Ring",
+      "translation": "Синее кольцо"
+    },
+    "pack02:6750954": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750954",
+      "original": "Purple Ring",
+      "translation": "Фиолетовое кольцо"
+    },
+    "pack02:6750955": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750955",
+      "original": "Yellow Ring",
+      "translation": "Жёлтое кольцо"
+    },
+    "pack02:6750956": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750956",
+      "original": "Floating Orbs",
+      "translation": "Парящие сферы"
+    },
+    "pack02:6750957": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750957",
+      "original": "Fragrant Powder",
+      "translation": "Ароматный порошок"
+    },
+    "pack02:6750958": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750958",
+      "original": "Ensnaring Root",
+      "translation": "Связывающий корень"
+    },
+    "pack02:6750959": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750959",
+      "original": "Blue Sap",
+      "translation": "Голубой сок"
+    },
+    "pack02:6750960": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750960",
+      "original": "Chipped Crystal",
+      "translation": "Треснувший кристалл"
+    },
+    "pack02:6750961": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750961",
+      "original": "Spirit of Service",
+      "translation": "Сердце служения"
+    },
+    "pack02:6750962": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750962",
+      "original": "Ostracon Shell",
+      "translation": "Остраконовая раковина"
+    },
+    "pack02:6750963": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750963",
+      "original": "Blue Sky Tear",
+      "translation": "Слеза синего неба"
+    },
+    "pack02:6750964": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750964",
+      "original": "Cannon Fruit",
+      "translation": "Пушка-фрукт"
+    },
+    "pack02:6750965": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750965",
+      "original": "Wind Rider Feather",
+      "translation": "Перо ветрокрылой птицы"
+    },
+    "pack02:6750966": {
+      "source": "pack02_text_en",
+      "file": "str_item_name.xml",
+      "string_no": "6750966",
+      "original": "Nectar Springwater",
+      "translation": "Нектарный родник"
+    }
+  }
+}

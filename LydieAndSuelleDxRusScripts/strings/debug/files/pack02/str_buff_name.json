@@ -1,0 +1,603 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_buff_name.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:20381699": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381699",
+      "original": "Sleep",
+      "translation": "Сон"
+    },
+    "pack02:20381700": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381700",
+      "original": "Poison",
+      "translation": "Яд"
+    },
+    "pack02:20381701": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381701",
+      "original": "Slowness",
+      "translation": "Медлительность"
+    },
+    "pack02:20381702": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381702",
+      "original": "Curse",
+      "translation": "Проклинать"
+    },
+    "pack02:20381703": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381703",
+      "original": "Blindness",
+      "translation": "Слепота"
+    },
+    "pack02:20381704": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381704",
+      "original": "Weakness",
+      "translation": "Слабость"
+    },
+    "pack02:20381705": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381705",
+      "original": "Healing Block",
+      "translation": "Запрет лечения"
+    },
+    "pack02:20381706": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381706",
+      "original": "Seal",
+      "translation": "Тюлень"
+    },
+    "pack02:20381707": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381707",
+      "original": "Burns",
+      "translation": "Бернс"
+    },
+    "pack02:20381709": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381709",
+      "original": "Crimson Spell",
+      "translation": "Багровое заклинание"
+    },
+    "pack02:20381710": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381710",
+      "original": "Azure Spell",
+      "translation": "Лазурное заклинание"
+    },
+    "pack02:20381711": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381711",
+      "original": "Yellow Spell",
+      "translation": "Желтое заклинание"
+    },
+    "pack02:20381712": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381712",
+      "original": "Jade Spell",
+      "translation": "Нефритовое заклинание"
+    },
+    "pack02:20381714": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381714",
+      "original": "Void Area Effect",
+      "translation": "Обнуление эффектов локации"
+    },
+    "pack02:20381720": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381720",
+      "original": "Increase Level ",
+      "translation": "Повышение уровня"
+    },
+    "pack02:20381721": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381721",
+      "original": "Increase ATK",
+      "translation": "Увеличение АТК"
+    },
+    "pack02:20381722": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381722",
+      "original": "Increase DEF",
+      "translation": "Увеличение защиты"
+    },
+    "pack02:20381723": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381723",
+      "original": "Increase SPD",
+      "translation": "Увеличение СПД"
+    },
+    "pack02:20381724": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381724",
+      "original": "Increase Ailment Rate ",
+      "translation": "Увеличение уровня недугов"
+    },
+    "pack02:20381725": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381725",
+      "original": "Increase Max Life",
+      "translation": "Увеличение максимального количества жизни"
+    },
+    "pack02:20381726": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381726",
+      "original": "Critical Bonus",
+      "translation": "Бонус к критическому урону"
+    },
+    "pack02:20381727": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381727",
+      "original": "Hit Rate Up",
+      "translation": "Точность ↑"
+    },
+    "pack02:20381728": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381728",
+      "original": "Increase Evasion",
+      "translation": "Увеличение уклонения"
+    },
+    "pack02:20381729": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381729",
+      "original": "Reduce Bad Statuses",
+      "translation": "Уменьшите количество плохих статусов"
+    },
+    "pack02:20381730": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381730",
+      "original": "Reduce DMG",
+      "translation": "Уменьшить урон"
+    },
+    "pack02:20381731": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381731",
+      "original": "Increase Critical Power",
+      "translation": "Увеличение критической силы"
+    },
+    "pack02:20381732": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381732",
+      "original": "Time Enhancement",
+      "translation": "Улучшение времени"
+    },
+    "pack02:20381733": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381733",
+      "original": "Enhance Stun Resistance",
+      "translation": "Повышение сопротивления оглушению"
+    },
+    "pack02:20381734": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381734",
+      "original": "Enhance Recovery",
+      "translation": "Усиленное восстановление"
+    },
+    "pack02:20381735": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381735",
+      "original": "Enhance on Stun",
+      "translation": "Усиление при оглушении"
+    },
+    "pack02:20381736": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381736",
+      "original": "Enhance Variation",
+      "translation": "Различные усиления"
+    },
+    "pack02:20381737": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381737",
+      "original": "Mirror Image",
+      "translation": "Отзеркаливание"
+    },
+    "pack02:20381743": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381743",
+      "original": "Decrease Level",
+      "translation": "Понизить уровень"
+    },
+    "pack02:20381744": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381744",
+      "original": "Decrease ATK",
+      "translation": "Уменьшение АТК"
+    },
+    "pack02:20381745": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381745",
+      "original": "Decrease DEF",
+      "translation": "Уменьшение защиты"
+    },
+    "pack02:20381746": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381746",
+      "original": "Decrease SPD",
+      "translation": "Уменьшить СПД"
+    },
+    "pack02:20381747": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381747",
+      "original": "Decrease Ailment Rate",
+      "translation": "Снижение уровня заболеваемости"
+    },
+    "pack02:20381748": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381748",
+      "original": "Decrease Max Life",
+      "translation": "Уменьшить максимальное количество жизни"
+    },
+    "pack02:20381749": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381749",
+      "original": "Increase Cost",
+      "translation": "Увеличение стоимости"
+    },
+    "pack02:20381750": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381750",
+      "original": "Increase Skill Damage",
+      "translation": "Увеличение урона от навыков"
+    },
+    "pack02:20381751": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381751",
+      "original": "Increase Item Damage",
+      "translation": "Увеличение урона предмета"
+    },
+    "pack02:20381752": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381752",
+      "original": "Consume HP Proportionate to WT Each Turn",
+      "translation": "Потребляйте HP пропорционально WT каждый ход."
+    },
+    "pack02:20381753": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381753",
+      "original": "Consume MP Proportionate to WT Each Turn",
+      "translation": "Потребляйте MP пропорционально WT каждый ход."
+    },
+    "pack02:20381754": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381754",
+      "original": "Increase Item Use WT",
+      "translation": "Увеличить вес использования предметов"
+    },
+    "pack02:20381755": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381755",
+      "original": "Decrease Item Use Power",
+      "translation": "Уменьшение мощности использования предмета"
+    },
+    "pack02:20381756": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381756",
+      "original": "Continuous HP Damage",
+      "translation": "Непрерывный урон HP"
+    },
+    "pack02:20381757": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381757",
+      "original": "Increment Continuous HP Damage",
+      "translation": "Увеличение непрерывного урона HP"
+    },
+    "pack02:20381758": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381758",
+      "original": "Monster Burst Suppression",
+      "translation": "Подавление взрывов монстров"
+    },
+    "pack02:20381759": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381759",
+      "original": "Change Resist Level",
+      "translation": "Изменение уровня сопротивления"
+    },
+    "pack02:20381765": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381765",
+      "original": "Level Drain↑",
+      "translation": "Слив уровня↑"
+    },
+    "pack02:20381766": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381766",
+      "original": "Attack Drain↑",
+      "translation": "Поглощение атаки↑"
+    },
+    "pack02:20381767": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381767",
+      "original": "Defense Drain↑",
+      "translation": "Утечка защиты↑"
+    },
+    "pack02:20381768": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381768",
+      "original": "Speed Drain↑",
+      "translation": "Скорость Слива↑"
+    },
+    "pack02:20381769": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381769",
+      "original": "Level Drain↓",
+      "translation": "Слив уровня↓"
+    },
+    "pack02:20381770": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381770",
+      "original": "Attack Drain↓",
+      "translation": "Поглощение атаки↓"
+    },
+    "pack02:20381771": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381771",
+      "original": "Defense Drain↓",
+      "translation": "Утечка защиты↓"
+    },
+    "pack02:20381772": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381772",
+      "original": "Speed Drain↓",
+      "translation": "Скорость Слива↓"
+    },
+    "pack02:20381778": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381778",
+      "original": "Auto Revive - KO",
+      "translation": "Авто возрождение - нокаут"
+    },
+    "pack02:20381779": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381779",
+      "original": "Continuous HP Recovery",
+      "translation": "Повторное восстановление ОЗ"
+    },
+    "pack02:20381780": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381780",
+      "original": "Continuous MP Recovery",
+      "translation": "Непрерывное восстановление MP"
+    },
+    "pack02:20381781": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381781",
+      "original": "MP Proportional HP Recovery",
+      "translation": "MP Пропорциональное восстановление HP"
+    },
+    "pack02:20381782": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381782",
+      "original": "Avoid KO",
+      "translation": "Уклонение от нокаута"
+    },
+    "pack02:20381783": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381783",
+      "original": "Turn Count Up",
+      "translation": "Кол-во ходов ↑"
+    },
+    "pack02:20381784": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381784",
+      "original": "WT Reduction",
+      "translation": "Снижение веса"
+    },
+    "pack02:20381785": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381785",
+      "original": "Shorter Turn Time Chance",
+      "translation": "Шанс сокращения времени хода"
+    },
+    "pack02:20381786": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381786",
+      "original": "Reduce Count DMG",
+      "translation": "Снижение урона от счётчика"
+    },
+    "pack02:20381787": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381787",
+      "original": "Auto Heal Ailment",
+      "translation": "Автоисцеление недуга"
+    },
+    "pack02:20381788": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381788",
+      "original": "Add Chain Attack Chance",
+      "translation": "Добавить шанс цепной атаки"
+    },
+    "pack02:20381789": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381789",
+      "original": "Enhance Stun Power",
+      "translation": "Увеличьте оглушающую силу"
+    },
+    "pack02:20381790": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381790",
+      "original": "Resistance Change",
+      "translation": "Изменение сопротивления"
+    },
+    "pack02:20381796": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381796",
+      "original": "Lock-On Status",
+      "translation": "Статус блокировки"
+    },
+    "pack02:20381802": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381802",
+      "original": "Skill Power Up",
+      "translation": "Усиление навыков"
+    },
+    "pack02:20381803": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381803",
+      "original": "Stacking Slip Damage",
+      "translation": "Наложение урона от скольжения"
+    },
+    "pack02:20381804": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381804",
+      "original": "Weaken",
+      "translation": "ослабить"
+    },
+    "pack02:20381805": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381805",
+      "original": "Stacking HP Recovery",
+      "translation": "Объединение восстановления HP"
+    },
+    "pack02:20381806": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381806",
+      "original": "After Turn Death",
+      "translation": "После поворота смерти"
+    },
+    "pack02:20381807": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381807",
+      "original": "Enhancement Ban",
+      "translation": "Запрет улучшения"
+    },
+    "pack02:20381808": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381808",
+      "original": "Revive Ban",
+      "translation": "Возродить запрет"
+    },
+    "pack02:20381809": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381809",
+      "original": "Recovery Ban",
+      "translation": "Запрет на восстановление"
+    },
+    "pack02:20381814": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381814",
+      "original": "Accel Guard",
+      "translation": "Ускоренная защита"
+    },
+    "pack02:20381815": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381815",
+      "original": "Beast Mode",
+      "translation": "Звериный режим"
+    },
+    "pack02:20381816": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381816",
+      "original": "Equip Effect Up",
+      "translation": "Улучшение эффекта экипировки"
+    },
+    "pack02:20381817": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381817",
+      "original": "Mortal Poison",
+      "translation": "Смертельный яд"
+    },
+    "pack02:20381819": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381819",
+      "original": "Final Form",
+      "translation": "Окончательная форма"
+    },
+    "pack02:20381820": {
+      "source": "pack02_text_en",
+      "file": "str_buff_name.xml",
+      "string_no": "20381820",
+      "original": "Equip Effect Down",
+      "translation": "Снижение эффекта экипировки"
+    }
+  }
+}

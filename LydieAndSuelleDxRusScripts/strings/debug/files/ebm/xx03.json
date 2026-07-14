@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "source": "pack01_ebm",
+  "block": "xx03",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "ebm:xx03/event_message_xx03_060.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx03/event_message_xx03_060.ebm",
+      "index": 0,
+      "speaker": "Sophie",
+      "original": "Hey, listen. Do you want to try fighting me?",
+      "translation": "Эй, послушай. Хочешь попробовать сразиться со мной?"
+    },
+    "ebm:xx03/event_message_xx03_060.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "xx03/event_message_xx03_060.ebm",
+      "index": 1,
+      "speaker": "Sophie",
+      "original": "Eh? Hmmm... <CR>Fighting against myself is a little...",
+      "translation": "Э? Хммм... <CR>Борьба с самим собой - это немного..."
+    },
+    "ebm:xx03/event_message_xx03_070.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx03/event_message_xx03_070.ebm",
+      "index": 0,
+      "speaker": "Sophie",
+      "original": "Haha, you've all grown so strong... I'll have to train harder myself...",
+      "translation": "Ха-ха, вы все стали такими сильными... Мне самому придется тренироваться усерднее..."
+    },
+    "ebm:xx03/event_message_xx03_080.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx03/event_message_xx03_080.ebm",
+      "index": 0,
+      "speaker": "Sophie",
+      "original": "Okay, looks like I win. I'm happy to accept a rematch any time you like!",
+      "translation": "Ладно, похоже, я выиграл. Я рад принять матч-реванш в любое удобное для вас время!"
+    },
+    "ebm:xx03/event_message_xx03_100.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx03/event_message_xx03_100.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "A new music pack, <CLGR>\"Nights of Azure 2: Bride of the New Moon BGM Pack\"<CLNR>, has been unlocked!",
+      "translation": "Разблокирован новый музыкальный пакет <CLGR> «Nights of Azure 2: Bride of the New Moon BGM Pack»<CLNR>!"
+    },
+    "ebm:xx03/event_message_xx03_110.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx03/event_message_xx03_110.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "A new music pack, <CLGR>\"BLUE REFLECTION BGM Pack\"<CLNR>, has been unlocked!",
+      "translation": "Разблокирован новый музыкальный пакет <CLGR>\"BLUE REFLECTION BGM Pack\"<CLNR>!"
+    },
+    "ebm:xx03/event_message_xx03_140.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx03/event_message_xx03_140.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "Lucia has acquired the skill <CLEG>\"Borthayre's Master\"<CLNR>.",
+      "translation": "Люсия приобрела навык <CLEG> «Мастер Бортера» <CLNR>."
+    },
+    "ebm:xx03/event_message_xx03_140.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "xx03/event_message_xx03_140.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": "A new Combination Art for Sue and Lucia <CLEG>\"Rules of Chaos\"<CLNR> is unlocked.",
+      "translation": "Разблокировано новое комбинированное искусство для Сью и Люсии <CLEG> «Правила хаоса» <CLNR>."
+    },
+    "ebm:xx03/event_message_xx03_150.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx03/event_message_xx03_150.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "Lucia has acquired the skill <CLEG>\"Unattainable Object?\"<CLNR>.",
+      "translation": "Люсия приобрела навык <CLEG> «Недосягаемый объект?»<CLNR>."
+    },
+    "ebm:xx03/event_message_xx03_150.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "xx03/event_message_xx03_150.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": "A new Combination Art for Lydie and Lucia <CLEG>\"Avars Order\"<CLNR> is unlocked.",
+      "translation": "Разблокировано новое комбинированное искусство для Лиди и Люсии <CLEG> «Аварский Орден»<CLNR>."
+    },
+    "ebm:xx03/event_message_xx03_160.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx03/event_message_xx03_160.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "Lucia has acquired the skill <CLEG>\"Hidden Talents\"<CLNR>.",
+      "translation": "Люсия приобрела навык <CLEG> «Скрытые таланты» <CLNR>."
+    },
+    "ebm:xx03/event_message_xx03_170.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx03/event_message_xx03_170.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "Lucia has acquired the skill <CLEG>\"Elder Sister's Pride\"<CLNR>.",
+      "translation": "Люсия приобрела навык <CLEG> «Гордость старшей сестры» <CLNR>."
+    },
+    "ebm:xx03/event_message_xx03_180.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx03/event_message_xx03_180.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "Ilmeria has acquired the skill <CLEG>\"Hard Work's Reward\"<CLNR>.",
+      "translation": "Илмерия приобрела навык <CLEG> «Награда за тяжёлый труд»<CLNR>."
+    },
+    "ebm:xx03/event_message_xx03_180.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "xx03/event_message_xx03_180.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": "A new Combination Art for Firis and Ilmeria <CLEG>\"Crimson Treasures\"<CLNR> is unlocked.",
+      "translation": "Разблокировано новое комбинированное искусство для Фирис и Илмерии <CLEG> «Багровые сокровища» <CLNR>."
+    },
+    "ebm:xx03/event_message_xx03_190.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx03/event_message_xx03_190.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "Ilmeria has acquired the skill <CLEG>\"Bursting with Pride\"<CLNR>.",
+      "translation": "Илмерия приобрела навык <CLEG> «Гордость» <CLNR>."
+    },
+    "ebm:xx03/event_message_xx03_200.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx03/event_message_xx03_200.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "Ilmeria has acquired the skill <CLEG>\"Outstanding Genius Alchemist\"<CLNR>.",
+      "translation": "Ильмерия приобрела навык <CLEG> «Выдающийся гениальный алхимик» <CLNR>."
+    },
+    "ebm:xx03/event_message_xx03_210.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx03/event_message_xx03_210.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "Ilmeria has acquired the skill <CLEG>\"Leader's Guidance\"<CLNR>.",
+      "translation": "Илмерия приобрела навык <CLEG> «Руководство лидера» <CLNR>."
+    },
+    "ebm:xx03/event_message_xx03_210.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "xx03/event_message_xx03_210.ebm",
+      "index": 1,
+      "speaker": "System",
+      "original": "A new Combination Art for Alt and Ilmeria <CLEG>\"Four Pillars of Heaven Judgment\"<CLNR> is unlocked.",
+      "translation": "Разблокировано новое комбинированное искусство для Альта и Илмерии <CLEG> «Четыре столпа Небесного суда» <CLNR>."
+    },
+    "ebm:xx03/event_message_xx03_240.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xx03/event_message_xx03_240.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "New <CLGR>\"Everybody's Golf\" Collaboration Costumes<CLNR> for Lydie and Suelle are available now!",
+      "translation": "Новые совместные костюмы <CLGR> «Everybody’s Golf»<CLNR> для Лиди и Сюэль уже доступны!"
+    }
+  }
+}

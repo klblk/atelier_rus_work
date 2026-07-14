@@ -1,0 +1,2584 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_fm_tweet.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:131073": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131073",
+      "original": "Hehe. I’ve got a feeling something good’s about to happen!",
+      "translation": "Хе-хе. Я чувствую, что сейчас произойдет что-то хорошее!"
+    },
+    "pack02:131074": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131074",
+      "original": "Oh, where’s my notebook? I’ve got to write down what I see!",
+      "translation": "Ой, где мой блокнот? Я должен записать то, что вижу!"
+    },
+    "pack02:131075": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131075",
+      "original": "Okay, let’s go! I’ll take the lead!",
+      "translation": "Хорошо, поехали! Я возьму на себя инициативу!"
+    },
+    "pack02:131076": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131076",
+      "original": "Hehe... I wonder if there’s anything valuable around...",
+      "translation": "Хе-хе... Интересно, есть ли вокруг что-нибудь ценное..."
+    },
+    "pack02:131077": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131077",
+      "original": "I just love searching for things - what an adventure! Off we go!",
+      "translation": "Я просто обожаю искать вещи – какое приключение! Поехали!"
+    },
+    "pack02:131078": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131078",
+      "original": "Don’t go too fast. Let’s take our time and look at the scenery.",
+      "translation": "Не идите слишком быстро. Давайте не торопимся и посмотрим на пейзаж."
+    },
+    "pack02:131079": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131079",
+      "original": "Shall we get started? If I spot anything, I’ll let you know!",
+      "translation": "Начнем? Если что-нибудь замечу, сообщу!"
+    },
+    "pack02:131080": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131080",
+      "original": "...I see. This looks like a place filled with hidden treasures!",
+      "translation": "...Я понимаю. Это похоже на место, наполненное спрятанными сокровищами!"
+    },
+    "pack02:131081": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131081",
+      "original": "Clear on the right! Clear on the left! And I’m looking as handsome as ever!",
+      "translation": "Ясно справа! Ясно слева! И я выгляжу так же красиво, как и всегда!"
+    },
+    "pack02:131082": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131082",
+      "original": "Please... Please... Let there be no scary monsters...",
+      "translation": "Пожалуйста... Пожалуйста... Пусть не будет страшных монстров..."
+    },
+    "pack02:131083": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131083",
+      "original": "There’s no time to waste. Life is fleeting.",
+      "translation": "Нельзя терять время. Жизнь быстротечна."
+    },
+    "pack02:131084": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131084",
+      "original": "The point is to collect as much as possible. An alchemist should be greedy.",
+      "translation": "Задача — собрать как можно больше. Алхимик должен быть жадным."
+    },
+    "pack02:131085": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131085",
+      "original": "Come on, you two! Follow me and you’ll be fine!",
+      "translation": "Давай, вы двое! Следуй за мной и все будет хорошо!"
+    },
+    "pack02:131086": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131086",
+      "original": "Hmm, let’s see... Anything muddy I’ll leave to you.",
+      "translation": "Хм, посмотрим... Все мутное я оставлю тебе."
+    },
+    "pack02:131087": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131087",
+      "original": "Look at all these lovely flowers! I’d love to use them to decorate the atelier.",
+      "translation": "Посмотрите на все эти прекрасные цветы! Я бы с удовольствием использовала их для украшения ателье."
+    },
+    "pack02:131088": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131088",
+      "original": "It’s just such a beautiful place... It’s hard to believe Dad painted it.",
+      "translation": "Это просто такое красивое место... Трудно поверить, что это нарисовал папа."
+    },
+    "pack02:131089": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131089",
+      "original": "Fluffy, bouncy, high in the sky... I wish I could eat the clouds like cotton candy!",
+      "translation": "Пушистый, прыгучий, высоко в небе... Вот бы облака съесть, как сладкую вату!"
+    },
+    "pack02:131090": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131090",
+      "original": "I wonder if heaven’s like this. What do you say, Grandma...?",
+      "translation": "Интересно, такой ли рай? Что ты скажешь, бабушка...?"
+    },
+    "pack02:131091": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131091",
+      "original": "The beauty of this place is overwhelming... Roger is a remarkable artist.",
+      "translation": "Красота этого места ошеломляет... Роджер замечательный художник."
+    },
+    "pack02:131092": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131092",
+      "original": "An expression of regret and longing for what he has lost... I understand that.",
+      "translation": "Выражение сожаления и тоски по утраченному... Я это понимаю."
+    },
+    "pack02:131093": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131093",
+      "original": "If he’s this good an artist, I should get him to paint my portrait, hehe...",
+      "translation": "Если он такой хороший художник, я должен заставить его написать мой портрет, хе-хе..."
+    },
+    "pack02:131094": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131094",
+      "original": "Sue... It’s hard to walk with you clinging that closely to me...",
+      "translation": "Сью... Мне тяжело идти, когда ты так крепко прижалась ко мне..."
+    },
+    "pack02:131095": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131095",
+      "original": "I can’t do it! I can’t do it! It’s just too scary! I’m going home!",
+      "translation": "Я не могу этого сделать! Я не могу этого сделать! Это просто слишком страшно! Я иду домой!"
+    },
+    "pack02:131096": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131096",
+      "original": "Look out, you creepy ghosts. I’ll sprinkle holy water on you!",
+      "translation": "Берегитесь, жуткие призраки. Я окроплю тебя святой водой!"
+    },
+    "pack02:131097": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131097",
+      "original": "Argh! Wh-What was that?! Did you just hear something?!",
+      "translation": "Ааа! Ч-что это было?! Ты только что что-то услышал?!"
+    },
+    "pack02:131098": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131098",
+      "original": "I’m not afraid of ghosts... My sister’s a hundred times scarier.",
+      "translation": "Я не боюсь привидений... Моя сестра во сто крат страшнее."
+    },
+    "pack02:131099": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131099",
+      "original": "Faint whisperings in the darkness... I find this somehow relaxing.",
+      "translation": "Слабый шепот в темноте... Я нахожу это каким-то образом расслабляющим."
+    },
+    "pack02:131100": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131100",
+      "original": "Who would draw such a terrifying place?! I’d like to see who the artist was!",
+      "translation": "Кто бы мог нарисовать такое ужасное место?! Я хотел бы увидеть, кто был художником!"
+    },
+    "pack02:131101": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131101",
+      "original": "It’s so very, very cold! Oh, I hope I don’t get sick...",
+      "translation": "Очень-очень холодно! Ох, надеюсь, я не заболею..."
+    },
+    "pack02:131102": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131102",
+      "original": "...Ah-choo! ...Ah-choo! ...Urgh, no laughing!",
+      "translation": "...Ах-чух! ...Ах-чух! ...Ух, не смеяться!"
+    },
+    "pack02:131103": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131103",
+      "original": "Mind you don’t get frostbite from the ice crystals! ...Ah-choo!",
+      "translation": "Помните, что кристаллы льда не обморожены! ...Ах-чух!"
+    },
+    "pack02:131104": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131104",
+      "original": "I’d love to soak in a warm bath... Maybe I should make a portable hot spring...",
+      "translation": "Я бы с удовольствием принял теплую ванну... Может, мне стоит сделать переносной горячий источник..."
+    },
+    "pack02:131105": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131105",
+      "original": "I-I have poor circulation...! Can’t you do something with alchemy?!",
+      "translation": "У меня-у меня плохое кровообращение...! Неужели нельзя сделать что-нибудь с помощью алхимии?!"
+    },
+    "pack02:131106": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131106",
+      "original": "The ice is crystallized...?! This place is so slippery...",
+      "translation": "Лед кристаллизовался...?! Это место такое скользкое..."
+    },
+    "pack02:131107": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131107",
+      "original": "Ooh, this brings back bad memories... I don’t want to be made into an ice statue again.",
+      "translation": "Ох, это навевает плохие воспоминания... Я не хочу снова превратиться в ледяную статую."
+    },
+    "pack02:131108": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131108",
+      "original": "Hehe... Hehe... That’s odd. I can see two Sues...",
+      "translation": "Хе-хе... хе-хе... Это странно. Я вижу двух Сью..."
+    },
+    "pack02:131109": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131109",
+      "original": "It’s so hot! I can’t take it! I've got to take off some of these clothes! Don’t try to stop me!",
+      "translation": "Это так жарко! Я не могу это принять! Мне нужно снять часть этой одежды! Не пытайся меня остановить!"
+    },
+    "pack02:131110": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131110",
+      "original": "It’s so hot, so very hot... I can’t even think of a song to sing!",
+      "translation": "Так жарко, так жарко... Даже не могу придумать, какую песню спеть!"
+    },
+    "pack02:131111": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131111",
+      "original": "I’m melting... I’ll be a puddle at this rate...",
+      "translation": "Я таю... такими темпами я буду лужей..."
+    },
+    "pack02:131112": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131112",
+      "original": "Ouch! This is some serious heat! I could fry an egg on my armor!",
+      "translation": "Ой! Это серьезная жара! Я мог бы поджарить яйцо на своих доспехах!"
+    },
+    "pack02:131113": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131113",
+      "original": "Hehe, I have made preparations to guard against the cold... Huh? ...I must have forgotten them.",
+      "translation": "Хе-хе, я приготовился защититься от холода... А? ...Я, должно быть, забыл их."
+    },
+    "pack02:131114": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131114",
+      "original": "Ooh, I’m drenched in sweat. My makeup’s going to run...",
+      "translation": "Ох, я весь в поту. Мой макияж потечет..."
+    },
+    "pack02:131115": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131115",
+      "original": "Look how vast this palace is... I’d love to live here someday.",
+      "translation": "Посмотрите, какой огромный этот дворец... Я бы хотел когда-нибудь здесь жить."
+    },
+    "pack02:131116": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131116",
+      "original": "This place is just so massive. Our house would fit in here so many times over...",
+      "translation": "Это место просто огромное. Наш дом столько раз поместился бы здесь..."
+    },
+    "pack02:131117": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131117",
+      "original": "This palace is freezing. I’m going to catch a cold... *Sniff*",
+      "translation": "Этот дворец замерзает. Я простудюсь... *Фыркает*"
+    },
+    "pack02:131118": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131118",
+      "original": "Alone here, in such a colossal palace. What a lonely existence...",
+      "translation": "Один здесь, в таком огромном дворце. Какое одинокое существование..."
+    },
+    "pack02:131119": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131119",
+      "original": "This is an opulent palace indeed. It’s no match for mine, though.",
+      "translation": "Это действительно роскошный дворец. Хотя это не для меня."
+    },
+    "pack02:131120": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131120",
+      "original": "Living on even in death... I identify with that.",
+      "translation": "Жить даже после смерти... Я отождествляю себя с этим."
+    },
+    "pack02:131121": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131121",
+      "original": "This place is nice. I like it. How much would it cost to buy a room?",
+      "translation": "Это место хорошее. Мне это нравится. Сколько будет стоить купить комнату?"
+    },
+    "pack02:131122": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131122",
+      "original": "I’m going to make myself a pirate hat from a piece of cloth!",
+      "translation": "Я сделаю себе пиратскую шляпу из куска ткани!"
+    },
+    "pack02:131123": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131123",
+      "original": "Ahoy, me hearties! Make way for the graceful pirate Sue!",
+      "translation": "Эй, мои сердечные! Уступите дорогу изящной пиратке Сью!"
+    },
+    "pack02:131124": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131124",
+      "original": "Fifteen men on a dead man’s chest, Yo-ho-ho and a bottle of rum!",
+      "translation": "Пятнадцать человек на сундуке мертвеца, Йо-хо-хо и бутылка рома!"
+    },
+    "pack02:131125": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131125",
+      "original": "I love the smell of the sea air...! I could live without the wharf roaches, though...",
+      "translation": "Обожаю запах морского воздуха...! Хотя я мог бы прожить и без портовых тараканов..."
+    },
+    "pack02:131126": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131126",
+      "original": "Captain Mathias! Hahaha, that feels pretty good!",
+      "translation": "Капитан Матиас! Ха-ха-ха, это очень приятно!"
+    },
+    "pack02:131127": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131127",
+      "original": "Every boy wants to grow up to be a pirate. Even boys who have already grown up.",
+      "translation": "Каждый мальчик мечтает вырасти пиратом. Даже мальчики, которые уже выросли."
+    },
+    "pack02:131128": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131128",
+      "original": "I can’t seem to spot any hidden treasure...",
+      "translation": "Я не могу найти никакого спрятанного сокровища..."
+    },
+    "pack02:131129": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131129",
+      "original": "If there’s a way to see the past in a painting, then is there also a way to see the future?",
+      "translation": "Если есть способ увидеть прошлое в картине, то есть ли способ увидеть и будущее?"
+    },
+    "pack02:131130": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131130",
+      "original": "The past... Please don’t let anyone see me doing anything embarrassing...",
+      "translation": "Прошлое... Пожалуйста, не позволяй никому видеть, как я делаю что-то неловкое..."
+    },
+    "pack02:131131": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131131",
+      "original": "We are all sensitive to our pasts. Take care when you take a look.",
+      "translation": "Мы все чувствительны к нашему прошлому. Будьте осторожны, когда смотрите."
+    },
+    "pack02:131132": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131132",
+      "original": "Um, let’s see... Huh? ...Uh, no, I’m not looking for anything.",
+      "translation": "Эм, посмотрим... А? ...Э-э, нет, я ничего не ищу."
+    },
+    "pack02:131133": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131133",
+      "original": "I don’t want to see any more of my traumatic past with my sister...",
+      "translation": "Я не хочу больше видеть свое травмирующее прошлое с сестрой..."
+    },
+    "pack02:131134": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131134",
+      "original": "...The past...",
+      "translation": "...Прошлое..."
+    },
+    "pack02:131135": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131135",
+      "original": "The past matters not, only the future! Hehe! I think that’s a pretty good philosophy!",
+      "translation": "Прошлое не имеет значения, только будущее! Хе-хе! Я думаю, это очень хорошая философия!"
+    },
+    "pack02:131136": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131136",
+      "original": "Look at the beautiful night sky...! I’d love to gaze up at it with someone special...",
+      "translation": "Посмотрите на красивое ночное небо...! Мне бы хотелось посмотреть на это с кем-то особенным..."
+    },
+    "pack02:131137": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131137",
+      "original": "Ah, a shooting star! I wish for riches, fame, and fortune!",
+      "translation": "Ах, падающая звезда! Желаю богатства, славы и удачи!"
+    },
+    "pack02:131138": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131138",
+      "original": "Look down before you look up, or else you’ll trip and find yourself up there with the stars.",
+      "translation": "Прежде чем посмотреть вверх, посмотрите вниз, иначе вы споткнетесь и окажетесь там, среди звезд."
+    },
+    "pack02:131139": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131139",
+      "original": "Haha, this is some night sky... I’d love to show it to Plachta.",
+      "translation": "Ха-ха, это какое-то ночное небо... Я бы с удовольствием показал его Плахте."
+    },
+    "pack02:131140": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131140",
+      "original": "This is an excellent place for a proposal. Then after that... Hehe, perfect!",
+      "translation": "Это отличное место для предложения. Потом после этого... Хе-хе, отлично!"
+    },
+    "pack02:131141": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131141",
+      "original": "Hehe, I love the stars. It’s nice to think about the heavens.",
+      "translation": "Хе-хе, я люблю звезды. Приятно думать о небесах."
+    },
+    "pack02:131142": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131142",
+      "original": "It’s so romantic... It really draws out the dreamer in me...!",
+      "translation": "Это так романтично... Это действительно пробуждает во мне мечтателя...!"
+    },
+    "pack02:131143": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131143",
+      "original": "Who would paint a picture black? It’s an insult to the artist!",
+      "translation": "Кто покрасит картину в черный цвет? Это оскорбление художника!"
+    },
+    "pack02:131144": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131144",
+      "original": "What a depressing world... I’d never paint a picture like this!",
+      "translation": "Какой унылый мир... Никогда бы я не нарисовал такую картину!"
+    },
+    "pack02:131145": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131145",
+      "original": "What a waste. I’m sure this world used to be a pretty one...",
+      "translation": "Какая трата. Я уверен, что раньше этот мир был прекрасен..."
+    },
+    "pack02:131146": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131146",
+      "original": "...Urgh! Such a negative aura to this place... It’s making me feel sick...",
+      "translation": "...Ура! Такая негативная аура у этого места... Меня тошнит..."
+    },
+    "pack02:131147": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131147",
+      "original": "Augh, this place is so dark, dank and depressing! Alchemists! Do something about it!",
+      "translation": "Ох, это место такое тёмное, сырое и угнетающее! Алхимики! Сделайте что-нибудь с этим!"
+    },
+    "pack02:131148": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131148",
+      "original": "White and black... Order and chaos...? Or just a bottomless void...?",
+      "translation": "Белое и черное... Порядок и хаос...? Или просто бездонная пустота...?"
+    },
+    "pack02:131149": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131149",
+      "original": "...This place is so sad and empty. I cannot sense any human desires at all.",
+      "translation": "...Это место такое грустное и пустое. Я вообще не чувствую никаких человеческих желаний."
+    },
+    "pack02:131150": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131150",
+      "original": "Ooh, this place gives me the creeps... That red stuff’s not blood, right?",
+      "translation": "Ох, от этого места у меня мурашки по коже... Эта красная штука не кровь, верно?"
+    },
+    "pack02:131151": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131151",
+      "original": "Urgh, I can hardly breathe... Imagine if a ghost came out here...",
+      "translation": "Ух, я едва могу дышать... Представьте, если бы сюда привидение вылезло..."
+    },
+    "pack02:131152": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131152",
+      "original": "The flames of passion, burning crimson... Actually, those lyrics don’t work at all.",
+      "translation": "Пламя страсти, пылающий багрянец... На самом деле, эти тексты совершенно не работают."
+    },
+    "pack02:131153": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131153",
+      "original": "Umm, I can’t really explain it, but this place feels so different to the other worlds...",
+      "translation": "Хм, я не могу это объяснить, но это место настолько отличается от других миров..."
+    },
+    "pack02:131154": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131154",
+      "original": "Urgh, this hurts my eyes! It’s just so red - so blindingly red!",
+      "translation": "Ух, у меня глаза болят! Он такой красный, такой ослепительно красный!"
+    },
+    "pack02:131155": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131155",
+      "original": "Aha, this strength... Hehe, how fascinating.",
+      "translation": "Ага, эта сила... Хе-хе, как увлекательно."
+    },
+    "pack02:131156": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131156",
+      "original": "I like the color red as a general rule, but everything in moderation!",
+      "translation": "Красный цвет мне вообще нравится, но всего в меру!"
+    },
+    "pack02:131157": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131157",
+      "original": "Hehe, what a lovely breeze... It makes me want to go for a leisurely stroll.",
+      "translation": "Хе-хе, какой чудесный ветерок... Мне хочется неторопливо прогуляться."
+    },
+    "pack02:131158": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131158",
+      "original": "Hiking, hiking...! Pack your lunch and off you go!",
+      "translation": "Поход, поход...! Собирайте обед и вперед!"
+    },
+    "pack02:131159": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131159",
+      "original": "Hehe, the foliage smells so delightful... Urgh! A bug flew up my nose!",
+      "translation": "Хе-хе, листва так восхитительно пахнет... Ух! Жук залетел мне в нос!"
+    },
+    "pack02:131160": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131160",
+      "original": "Haha, look at all these plants! ...It reminds me of Oskar.",
+      "translation": "Ха-ха, посмотрите на все эти растения! ...Это напоминает мне Оскара."
+    },
+    "pack02:131161": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131161",
+      "original": "Okay, I’m taking a nap! Right here in the sunshine!",
+      "translation": "Ладно, я посплю! Прямо здесь, на солнышке!"
+    },
+    "pack02:131162": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131162",
+      "original": "Oops, I think I just stepped in something sticky... Maybe it’ll bring me luck - or not...",
+      "translation": "Упс, кажется, я просто наступил во что-то липкое... Может, это принесет мне удачу - или нет..."
+    },
+    "pack02:131163": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131163",
+      "original": "How lovely and pastoral... I’d love to live someplace like this in the future.",
+      "translation": "Как мило и пасторально... Мне бы хотелось жить где-нибудь в таком месте в будущем."
+    },
+    "pack02:131164": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131164",
+      "original": "Hehe, what a lovely breeze... It makes me want to go for a leisurely stroll.",
+      "translation": "Хе-хе, какой чудесный ветерок... Мне хочется неторопливо прогуляться."
+    },
+    "pack02:131165": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131165",
+      "original": "Hiking, hiking...! Pack your lunch and off you go!",
+      "translation": "Поход, поход...! Собирайте обед и вперед!"
+    },
+    "pack02:131166": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131166",
+      "original": "Hehe, the foliage smells so delightful... Urgh! A bug flew up my nose!",
+      "translation": "Хе-хе, листва так восхитительно пахнет... Ух! Жук залетел мне в нос!"
+    },
+    "pack02:131167": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131167",
+      "original": "Haha, look at all these plants! ...It reminds me of Oskar.",
+      "translation": "Ха-ха, посмотрите на все эти растения! ...Это напоминает мне Оскара."
+    },
+    "pack02:131168": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131168",
+      "original": "Okay, I’m taking a nap! Right here in the sunshine!",
+      "translation": "Ладно, я посплю! Прямо здесь, на солнышке!"
+    },
+    "pack02:131169": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131169",
+      "original": "Oops, I think I just stepped in something sticky... Maybe it’ll bring me luck - or not...",
+      "translation": "Упс, кажется, я просто наступил во что-то липкое... Может, это принесет мне удачу - или нет..."
+    },
+    "pack02:131170": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131170",
+      "original": "How lovely and pastoral... I’d love to live someplace like this in the future.",
+      "translation": "Как мило и пасторально... Мне бы хотелось жить где-нибудь в таком месте в будущем."
+    },
+    "pack02:131171": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131171",
+      "original": "I can feel the breath of nature... The forest is just so relaxing...",
+      "translation": "Я чувствую дыхание природы... Лес так расслабляет..."
+    },
+    "pack02:131172": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131172",
+      "original": "Aaaarghhh! A bug! A bug! This is why I hate the forest!",
+      "translation": "Ааааа! Ошибка! Ошибка! Вот почему я ненавижу лес!"
+    },
+    "pack02:131173": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131173",
+      "original": "Are there any big trees around? Ones that’d be fun to climb?",
+      "translation": "Есть ли вокруг большие деревья? Те, на которые было бы интересно лазить?"
+    },
+    "pack02:131174": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131174",
+      "original": "The air’s just so fresh...! It feels so healthy to breathe!",
+      "translation": "Воздух такой свежий...! Как здорово дышать!"
+    },
+    "pack02:131175": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131175",
+      "original": "Oh, there’s a couple of good trees. I could string up a hammock and take a nap.",
+      "translation": "О, есть пара хороших деревьев. Я мог бы натянуть гамак и вздремнуть."
+    },
+    "pack02:131176": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131176",
+      "original": "The forest is home to so many creatures. Truly the lap of Mother Nature.",
+      "translation": "Лес является домом для многих существ. Действительно колени матери-природы."
+    },
+    "pack02:131177": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131177",
+      "original": "I’m glad I used bug spray. Sue’s face... she was so shocked...!",
+      "translation": "Я рад, что использовал спрей от насекомых. Лицо Сью... она была так потрясена...!"
+    },
+    "pack02:131178": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131178",
+      "original": "I can feel the breath of nature... The forest is just so relaxing...",
+      "translation": "Я чувствую дыхание природы... Лес так расслабляет..."
+    },
+    "pack02:131179": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131179",
+      "original": "Aaaarghhh! A bug! A bug! This is why I hate the forest!",
+      "translation": "Ааааа! Ошибка! Ошибка! Вот почему я ненавижу лес!"
+    },
+    "pack02:131180": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131180",
+      "original": "Are there any big trees around? Ones that’d be fun to climb?",
+      "translation": "Есть ли вокруг большие деревья? Те, на которые было бы интересно лазить?"
+    },
+    "pack02:131181": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131181",
+      "original": "The air’s just so fresh...! It feels so healthy to breathe!",
+      "translation": "Воздух такой свежий...! Как здорово дышать!"
+    },
+    "pack02:131182": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131182",
+      "original": "Oh, there’s a couple of good trees. I could string up a hammock and take a nap.",
+      "translation": "О, есть пара хороших деревьев. Я мог бы натянуть гамак и вздремнуть."
+    },
+    "pack02:131183": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131183",
+      "original": "The forest is home to so many creatures. Truly the lap of Mother Nature.",
+      "translation": "Лес является домом для многих существ. Действительно колени матери-природы."
+    },
+    "pack02:131184": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131184",
+      "original": "I’m glad I used bug spray. Sue’s face... she was so shocked...!",
+      "translation": "Я рад, что использовал спрей от насекомых. Лицо Сью... она была так потрясена...!"
+    },
+    "pack02:131185": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131185",
+      "original": "Oh, I almost fell over there! This is a tricky place to walk...",
+      "translation": "Ой, я чуть не упал там! Это трудное место для прогулок..."
+    },
+    "pack02:131186": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131186",
+      "original": "Augh, it’s so dry... I can already feel my skin being parched...",
+      "translation": "Ох, как сухо... Я уже чувствую, как пересыхает моя кожа..."
+    },
+    "pack02:131187": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131187",
+      "original": "Leave the wilderness to me! I come from a place just like this.",
+      "translation": "Оставьте пустыню мне! Я родом из такого места."
+    },
+    "pack02:131188": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131188",
+      "original": "Sometimes the most interesting things can be found in the most unlikely places.",
+      "translation": "Иногда самое интересное можно найти в самых неожиданных местах."
+    },
+    "pack02:131189": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131189",
+      "original": "What a desolate wasteland... All it has is monsters...",
+      "translation": "Какая пустынная пустошь... Там только монстры..."
+    },
+    "pack02:131190": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131190",
+      "original": "The earth here is utterly barren. All traces of nature’s power have dried up. An all-too-real future.",
+      "translation": "Земля здесь совершенно бесплодна. Все следы силы природы высохли. Слишком реальное будущее."
+    },
+    "pack02:131191": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131191",
+      "original": "Hehe, I found a pretty ore! I-I’m not giving it to anyone!",
+      "translation": "Хе-хе, я нашел симпатичную руду! Я-я никому его не отдам!"
+    },
+    "pack02:131192": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131192",
+      "original": "Ooh, it’s so cold... Hold me close, Sue...",
+      "translation": "Ох, как холодно... Обними меня, Сью..."
+    },
+    "pack02:131193": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131193",
+      "original": "What do you think? Mom taught me how to make an adorable Puni Snowman!",
+      "translation": "Что вы думаете? Мама научила меня слепить очаровательного снеговика Пуни!"
+    },
+    "pack02:131194": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131194",
+      "original": "Hear that sound? It’s like... Huh?! I-I’m stuck! Someone help me!",
+      "translation": "Слышите этот звук? Это как... А?! Я-я застрял! Кто-нибудь, помогите мне!"
+    },
+    "pack02:131195": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131195",
+      "original": "I feel like having a snowball fight. Sneak up behind, and... there!",
+      "translation": "Мне хочется поиграть в снежки. Подкрадитесь сзади, и... вот!"
+    },
+    "pack02:131196": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131196",
+      "original": "Ah-choooo! ...You were talking about me, weren’t you?",
+      "translation": "Ах-чуууу! ...Вы говорили обо мне, не так ли?"
+    },
+    "pack02:131197": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131197",
+      "original": "...Let’s get out of here before we freeze. I detest the cold.",
+      "translation": "...Давайте уйдем отсюда, пока мы не замерзли. Я ненавижу холод."
+    },
+    "pack02:131198": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131198",
+      "original": "Ouch! What is that, a snowball?! Who threw that?! Who’s attacking?!",
+      "translation": "Ой! Это что, снежок?! Кто это бросил?! Кто нападает?!"
+    },
+    "pack02:131201": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131201",
+      "original": "Hehe, what a lovely morning! Come on, Sue, rise and shine!",
+      "translation": "Хе-хе, какое чудесное утро! Давай, Сью, встань и сияй!"
+    },
+    "pack02:131202": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131202",
+      "original": "...Hm? What? What am I doing here...?",
+      "translation": "...Хм? Что? Что я здесь делаю...?"
+    },
+    "pack02:131203": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131203",
+      "original": "Come on, everyone! The early bird catches the worm!",
+      "translation": "Давайте все! Ранняя пташка ловит червяка!"
+    },
+    "pack02:131204": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131204",
+      "original": "Morning has broken! Let’s make the most of the day!",
+      "translation": "Утро наступило! Давайте проведем день с пользой!"
+    },
+    "pack02:131205": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131205",
+      "original": "A new day has dawned. What fair maiden will I meet today? Hehe...",
+      "translation": "Наступил новый день. Какую прекрасную девушку я встречу сегодня? Хе-хе..."
+    },
+    "pack02:131206": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131206",
+      "original": "Morning makes or breaks the day. What are our plans?",
+      "translation": "Утро создает или разрушает день. Каковы наши планы?"
+    },
+    "pack02:131207": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131207",
+      "original": "*Yawn*... I’m so sleepy... Can’t I sleep a little longer?",
+      "translation": "*Зевает*... Мне так хочется спать... Можно я еще немного посплю?"
+    },
+    "pack02:131208": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131208",
+      "original": "Ah, my stomach’s rumbling... Who wants to join me for lunch?",
+      "translation": "Ах, у меня в животе урчит... Кто хочет со мной пообедать?"
+    },
+    "pack02:131209": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131209",
+      "original": "Wow, what a loud noise! You must be really hungry, Lydie!",
+      "translation": "Ух ты, какой громкий шум! Ты, должно быть, очень голодна, Лидия!"
+    },
+    "pack02:131210": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131210",
+      "original": "Lunch time, lunch time! I’m so hungry!",
+      "translation": "Время обеда, время обеда! Я так голоден!"
+    },
+    "pack02:131211": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131211",
+      "original": "Lunch time! Okay! Leave the food to me!",
+      "translation": "Время обеда! Хорошо! Оставьте еду мне!"
+    },
+    "pack02:131212": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131212",
+      "original": "Hey, time for a break. I’m kinda hungry.",
+      "translation": "Эй, пора сделать перерыв. Я немного голоден."
+    },
+    "pack02:131213": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131213",
+      "original": "Hm, was that the growl of some monster?! ...Oh, it was just Lydie’s stomach...",
+      "translation": "Хм, это было рычание какого-то монстра?! ...О, это был всего лишь желудок Лидия..."
+    },
+    "pack02:131214": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131214",
+      "original": "Hey, I’m really hungry here! How much longer until lunch?",
+      "translation": "Эй, я здесь очень голоден! Сколько еще до обеда?"
+    },
+    "pack02:131215": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131215",
+      "original": "Ooh, it’s so dark... I have to make sure not to drop anything...",
+      "translation": "Ох, как темно... Надо постараться, чтобы ничего не уронить..."
+    },
+    "pack02:131216": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131216",
+      "original": "I-It’s night time... Th-There are no ghosts around here, right...?",
+      "translation": "Я-сейчас ночь... Т-здесь нет призраков, да...?"
+    },
+    "pack02:131217": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131217",
+      "original": "Night falls, and my lids grow heavy... Zzz...",
+      "translation": "Наступает ночь, и мои веки тяжелеют... Ззз..."
+    },
+    "pack02:131218": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131218",
+      "original": "Waarghh! ...Oh, it was just my imagination...",
+      "translation": "Ваааа! ...О, это было всего лишь мое воображение..."
+    },
+    "pack02:131219": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131219",
+      "original": "The enemy could come from anywhere. I want to go home right now.",
+      "translation": "Враг мог прийти откуда угодно. Я хочу пойти домой прямо сейчас."
+    },
+    "pack02:131220": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131220",
+      "original": "We must be more vigilant at night. The inhuman element is on the move.",
+      "translation": "Нам следует быть более бдительными ночью. Бесчеловечный элемент находится в движении."
+    },
+    "pack02:131221": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131221",
+      "original": "Hehe... Night is for grown ups. You two children hurry off to bed.",
+      "translation": "Хе-хе... Ночь – для взрослых. Вы двое, дети, спешите спать."
+    },
+    "pack02:131222": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131222",
+      "original": "Uh-oh, it’s clouded over... Please don’t let it rain...",
+      "translation": "Ой-ой, тучи затянулись... Пожалуйста, не допусти дождя..."
+    },
+    "pack02:131223": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131223",
+      "original": "Ooh, when the weather’s bad like this, it really affects my mood...",
+      "translation": "Ох, когда такая плохая погода, это очень влияет на мое настроение..."
+    },
+    "pack02:131224": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131224",
+      "original": "The sun’s hiding away... It must be angry.",
+      "translation": "Солнце прячется... Должно быть, оно злится."
+    },
+    "pack02:131225": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131225",
+      "original": "I don’t like the look of those clouds. Let’s hurry on.",
+      "translation": "Мне не нравится вид этих облаков. Давайте поспешим."
+    },
+    "pack02:131226": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131226",
+      "original": "The sky’s clouded right over. Seems like a bad omen.",
+      "translation": "Небо заволокло тучами. Похоже на плохое предзнаменование."
+    },
+    "pack02:131227": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131227",
+      "original": "I don’t dislike cloudy skies... They remind me of the human heart.",
+      "translation": "Я не люблю пасмурное небо... Они напоминают мне человеческое сердце."
+    },
+    "pack02:131228": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131228",
+      "original": "*Sigh* What dull weather. It had better not rain, that’s all I say.",
+      "translation": "*Вздох* Какая пасмурная погода. Лучше бы не было дождя, вот и все, что я говорю."
+    },
+    "pack02:131229": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131229",
+      "original": "Ooh, it’s so cold... I hate the rain...",
+      "translation": "Ох, так холодно... Я ненавижу дождь..."
+    },
+    "pack02:131230": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131230",
+      "original": "Be careful, Lydie! Don’t get wet and catch a cold!",
+      "translation": "Будь осторожна, Лидия! Не промокните и не простудитесь!"
+    },
+    "pack02:131231": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131231",
+      "original": "Rain, rain, here to stay, come and wash our fears away!",
+      "translation": "Дождь, дождь, он останется, приди и смой наши страхи!"
+    },
+    "pack02:131232": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131232",
+      "original": "Ah, it’s pouring down... My clothes are drenched...",
+      "translation": "Ах, льет... Моя одежда промокла..."
+    },
+    "pack02:131233": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131233",
+      "original": "Hah, when I’m wet, I just look more handsome than ev-... Hey! Who pinched me?!",
+      "translation": "Ха, когда я мокрый, я выгляжу красивее, чем когда-либо... Эй! Кто меня ущипнул?!"
+    },
+    "pack02:131234": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131234",
+      "original": "I didn’t expect rain... The books I brought will get wet...",
+      "translation": "Я не ждала дождя... Книги, которые я принесла, намокнут..."
+    },
+    "pack02:131235": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131235",
+      "original": "Uwah, rain?! This is the worst!",
+      "translation": "Ух, дождь?! Это худшее!"
+    },
+    "pack02:131236": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131236",
+      "original": "Argh, lightning! I have to hide!",
+      "translation": "Ааа, молния! Я должен спрятаться!"
+    },
+    "pack02:131237": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131237",
+      "original": "Kya! How dare you frighten me like that, you cheeky thunder?!",
+      "translation": "Кья! Как ты смеешь меня так пугать, нахальный гром?!"
+    },
+    "pack02:131238": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131238",
+      "original": "Wow, that’s some serious lightning... This is kind of exciting...!",
+      "translation": "Ух ты, это серьезная молния... Это очень интересно...!"
+    },
+    "pack02:131239": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131239",
+      "original": "Lightning... Ooh, go away... Keep away from me...",
+      "translation": "Молния... Ох, уходи... Держись от меня подальше..."
+    },
+    "pack02:131240": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131240",
+      "original": "Uh-oh, armor in a thunderstorm... This can’t be good!",
+      "translation": "Э-э-э, броня в грозу... Это не может быть хорошо!"
+    },
+    "pack02:131241": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131241",
+      "original": "I love the sight of lightning crackling across the sky - it’s like natural art!",
+      "translation": "Обожаю вид молнии, сверкающей в небе – это словно природное искусство!"
+    },
+    "pack02:131242": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131242",
+      "original": "Uwah! No! I just hope lightning doesn’t strike my umbrella!",
+      "translation": "Ува! Нет! Я просто надеюсь, что молния не ударит в мой зонтик!"
+    },
+    "pack02:131243": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131243",
+      "original": "The sun’s shining, yet it’s raining...! Hehe, how fun!",
+      "translation": "Солнце светит, а дождь идёт...! Хе-хе, как весело!"
+    },
+    "pack02:131244": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131244",
+      "original": "Oh, a sunshower. You know what they say - a Puni must be getting married somewhere.",
+      "translation": "О, солнечный душ. Знаете, как говорят: пуни должен где-то жениться."
+    },
+    "pack02:131245": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131245",
+      "original": "Sun and rain... It’s a special treat to be able to enjoy two kinds of weather at once!",
+      "translation": "Солнце и дождь... Это особое удовольствие – наслаждаться двумя видами погоды одновременно!"
+    },
+    "pack02:131246": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131246",
+      "original": "Wow, a sunshower! What a rare treat!",
+      "translation": "Ух ты, солнечный душ! Какое редкое удовольствие!"
+    },
+    "pack02:131247": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131247",
+      "original": "Hey, make up your mind! Rain if it’s raining, shine if it’s sunny!",
+      "translation": "Эй, решайся! Дождь, если идет дождь, свети, если солнечно!"
+    },
+    "pack02:131248": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131248",
+      "original": "A sunshower... Many cultures have superstitions relating it to some wedding... I wonder why.",
+      "translation": "Солнечный душ... Во многих культурах существуют суеверия, связанные с какой-то свадьбой... Интересно, почему."
+    },
+    "pack02:131249": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131249",
+      "original": "The sky is clear, yet the rain falls. It’s a very odd occurrence, really...",
+      "translation": "Небо ясное, но идет дождь. Это очень странное явление, на самом деле..."
+    },
+    "pack02:131250": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131250",
+      "original": "It’s snowing! It’s snowing! It’s so pretty, floating down!",
+      "translation": "Идет снег! Идет снег! Это так красиво, плывущее вниз!"
+    },
+    "pack02:131251": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131251",
+      "original": "...Snow, huh? If I pack it tightly enough, could I use it as ammunition...? No?",
+      "translation": "...Снег, да? Если я упакую его достаточно плотно, смогу ли я использовать его как боеприпасы...? Нет?"
+    },
+    "pack02:131252": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131252",
+      "original": "It’s snowing...! Come on, everyone! Let’s build a snowman together!",
+      "translation": "Идет снег...! Давайте все! Давайте вместе слепим снеговика!"
+    },
+    "pack02:131253": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131253",
+      "original": "Snow... There’s nothing better than a quiet drink while you watch the snow fall...",
+      "translation": "Снег... Нет ничего лучше, чем тихо выпить, наблюдая, как падает снег..."
+    },
+    "pack02:131254": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131254",
+      "original": "Hmm, snow... I’ve never actually played in the snow...",
+      "translation": "Хм, снег... Я вообще-то никогда не играл в снегу..."
+    },
+    "pack02:131255": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131255",
+      "original": "Snowflakes dancing... I remember once someone said they looked like falling petals...",
+      "translation": "Танцующие снежинки... Помню, однажды кто-то сказал, что они похожи на падающие лепестки..."
+    },
+    "pack02:131256": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131256",
+      "original": "I wonder what snow tastes like. Let’s give it a try... Or perhaps not...",
+      "translation": "Интересно, какой на вкус снег? Давайте попробуем... А может и нет..."
+    },
+    "pack02:131259": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131259",
+      "original": "...Hmph. Come on, everyone.",
+      "translation": "...Хмф. Давайте все."
+    },
+    "pack02:131260": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131260",
+      "original": "...Let’s get this done. It really is annoying...",
+      "translation": "...Давайте сделаем это. Это действительно раздражает..."
+    },
+    "pack02:131261": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131261",
+      "original": "Don’t worry about us! Let’s take down the Thunder God!",
+      "translation": "Не беспокойтесь о нас! Давайте победим Бога Грома!"
+    },
+    "pack02:131262": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131262",
+      "original": "Come on out, Falgior! Sue’s gonna take care of you!",
+      "translation": "Выходи, Фальгиор! Сью позаботится о тебе!"
+    },
+    "pack02:131263": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131263",
+      "original": "...We’ll win this time. Isn’t that right, Sue?!",
+      "translation": "...На этот раз мы победим. Не так ли, Сью?!"
+    },
+    "pack02:131264": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131264",
+      "original": "Of course! For everyone... We just can’t afford to lose!",
+      "translation": "Конечно! Для всех... Мы просто не можем позволить себе проиграть!"
+    },
+    "pack02:131265": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131265",
+      "original": "Wait, Mom...! We’re on our way...!",
+      "translation": "Подожди, мама...! Мы уже в пути...!"
+    },
+    "pack02:131266": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131266",
+      "original": "I... I believe! I believe we’ll see Mom again!",
+      "translation": "Я... я верю! Я верю, что мы еще увидим маму!"
+    },
+    "pack02:131267": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131267",
+      "original": "Just a little longer...! Just a little longer, then...!",
+      "translation": "Ещё немного...! Тогда еще немного...!"
+    },
+    "pack02:131268": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131268",
+      "original": "Yeah...! We’ll finally reach Mom...!",
+      "translation": "Ага...! Мы наконец-то доберемся до мамы...!"
+    },
+    "pack02:131269": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131269",
+      "original": "Stay safe, Mom...! I promise we’ll rescue you!",
+      "translation": "Берегите себя, мама...! Обещаю, мы тебя спасем!"
+    },
+    "pack02:131270": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131270",
+      "original": "How did this happen...?! Let’s hurry, Lydie!",
+      "translation": "Как это произошло...?! Давай поторопимся, Лидия!"
+    },
+    "pack02:131271": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131271",
+      "original": "If we can destroy the core, Mom will be...! Right, Lydie?!",
+      "translation": "Если мы сможем уничтожить ядро, мама будет...! Верно, Лидия?!"
+    },
+    "pack02:131272": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131272",
+      "original": "Yes, Sue! Let’s just hurry on for now!",
+      "translation": "Да, Сью! Давайте пока поторопимся!"
+    },
+    "pack02:131275": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131275",
+      "original": "Ah, this looks useful! I hope we can make something good!",
+      "translation": "Ах, это выглядит полезным! Я надеюсь, что мы сможем сделать что-то хорошее!"
+    },
+    "pack02:131276": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131276",
+      "original": "This looks like something we could use for our alchemy. Hehe, so many possibilities.",
+      "translation": "Похоже, это что-то, что мы могли бы использовать для нашей алхимии. Хе-хе, столько возможностей."
+    },
+    "pack02:131277": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131277",
+      "original": "Oh, look what I’ve found. This should help with our alchemy.",
+      "translation": "О, посмотрите, что я нашел. Это должно помочь в нашей алхимии."
+    },
+    "pack02:131278": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131278",
+      "original": "Hehe, now then. What will I cook up with these ingredients...?",
+      "translation": "Хе-хе, вот тогда. Что я приготовлю из этих ингредиентов...?"
+    },
+    "pack02:131279": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131279",
+      "original": "The most fundamental building block of alchemy... the humble plant!",
+      "translation": "Самый фундаментальный строительный блок алхимии... скромное растение!"
+    },
+    "pack02:131280": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131280",
+      "original": "Oh, I’ve found a plant! What’s this called again, Lydie?",
+      "translation": "О, я нашел растение! Как это называется, Лидия?"
+    },
+    "pack02:131281": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131281",
+      "original": "That’s Magic Grass... This one seems somehow extra magical!",
+      "translation": "Это Волшебная трава... Эта кажется какой-то особенно волшебной!"
+    },
+    "pack02:131282": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131282",
+      "original": "I sense incredible magic from this grass...! Not that I really know what I’m talking about...",
+      "translation": "Я чувствую невероятную магию этой травы...! Не то чтобы я точно знаю, о чем говорю..."
+    },
+    "pack02:131283": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131283",
+      "original": "Sorry, Mister Bee! I have to take your home.",
+      "translation": "Простите, мистер Би! Я должен отвезти тебя домой."
+    },
+    "pack02:131284": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131284",
+      "original": "No, I can’t! I can’t touch a beehive! Those hexagons creep me out!",
+      "translation": "Нет, я не могу! Я не могу прикоснуться к улью! Меня бесят эти шестиугольники!"
+    },
+    "pack02:131285": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131285",
+      "original": "Oh, look at this juicy-looking fruit... It’d cost a fortune in the stores.",
+      "translation": "Ох, посмотрите на этот сочный на вид фрукт... В магазине он стоил целое состояние."
+    },
+    "pack02:131286": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131286",
+      "original": "I’ve found some fruit! Hehe... I just want to bite into it right now...",
+      "translation": "Я нашла фрукты! Хе-хе... Я просто хочу откусить это прямо сейчас..."
+    },
+    "pack02:131287": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131287",
+      "original": "...Is this mushroom poisonous? I should check the encyclopedia...",
+      "translation": "...Этот гриб ядовит? Мне надо заглянуть в энциклопедию..."
+    },
+    "pack02:131288": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131288",
+      "original": "Mushrooms are dangerous! I ate one from our garden once, and it was a nightmare!",
+      "translation": "Грибы опасны! Однажды я съел один из нашего сада, и это был кошмар!"
+    },
+    "pack02:131289": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131289",
+      "original": "Ah, that looks delicious. Let’s all try it later on.",
+      "translation": "Ах, это выглядит вкусно. Давайте все попробуем позже."
+    },
+    "pack02:131290": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131290",
+      "original": "Okay, let’s have a little taste... Hahaha... I’m kidding, Lydie, I’m kidding...",
+      "translation": "Ладно, давай попробуем... Ха-ха-ха... Шучу, Лидия, шучу..."
+    },
+    "pack02:131291": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131291",
+      "original": "Animal materials... I’m sorry. I have to make use of them.",
+      "translation": "Животные материалы... Извините. Я должен ими воспользоваться."
+    },
+    "pack02:131292": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131292",
+      "original": "Animal materials are really useful... I promise not to waste a thing.",
+      "translation": "Материалы животного происхождения действительно полезны... Обещаю не тратить зря."
+    },
+    "pack02:131293": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131293",
+      "original": "This flower smells delightful...! Maybe I’ll put it on display until I use it.",
+      "translation": "Этот цветок пахнет восхитительно...! Возможно, я выставлю его на обозрение, пока не воспользуюсь."
+    },
+    "pack02:131294": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131294",
+      "original": "Hehehe... I’ve found a flower that’s almost as beautiful as me!",
+      "translation": "Хе-хе-хе... Я нашла цветок, который почти так же красив, как и я!"
+    },
+    "pack02:131295": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131295",
+      "original": "Okay, got it! The key to catching insects is to remain calm, and move quickly.",
+      "translation": "Хорошо, понял! Ключ к ловле насекомых — сохранять спокойствие и двигаться быстро."
+    },
+    "pack02:131296": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131296",
+      "original": "Yaaaarghh! A bug! A bug! I touched it! I touched it!",
+      "translation": "Даааа! Ошибка! Ошибка! Я коснулся этого! Я коснулся этого!"
+    },
+    "pack02:131297": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131297",
+      "original": "Oh, this is some delicious seafood, but I need it for synthesis...",
+      "translation": "О, это вкусные морепродукты, но они нужны мне для синтеза..."
+    },
+    "pack02:131298": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131298",
+      "original": "Steamed, grilled, raw... However it’s served, seafood makes me drool...",
+      "translation": "На пару, на гриле, сырые... Как бы их ни подали, от морепродуктов у меня текут слюни..."
+    },
+    "pack02:131299": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131299",
+      "original": "Punipuni... Hehe. They have such a unique feel.",
+      "translation": "Пунипуни... Хе-хе. У них такое уникальное чувство."
+    },
+    "pack02:131300": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131300",
+      "original": "Puniballs... There’s a theory they’re alive. That’s kind of frightening...",
+      "translation": "Пуниболы... Есть теория, что они живы. Это как-то пугает..."
+    },
+    "pack02:131301": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131301",
+      "original": "Oh, I saw this in the encyclopedia...! It’s a super rare dragon material!",
+      "translation": "Ой, я видела это в энциклопедии...! Это суперредкий материал дракона!"
+    },
+    "pack02:131302": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131302",
+      "original": "Oh, a dragon material! ...Huh? Does that mean a dragon’s nearby?!",
+      "translation": "О, материал дракона! ...Хм? Означает ли это, что дракон рядом?!"
+    },
+    "pack02:131303": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131303",
+      "original": "Woah, what a strange scent... *Sniff, sniff”... *Sniff, sniff, sniff*...",
+      "translation": "Ого, какой странный аромат... *Нюх, Нюх»... *Нюх, Нюх, Нюх*..."
+    },
+    "pack02:131304": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131304",
+      "original": "Urgh, what a powerful smell... I think my nose is paralyzed...",
+      "translation": "Ух, какой сильный запах... Кажется, у меня нос парализовал..."
+    },
+    "pack02:131305": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131305",
+      "original": "Huh... Water’s surprisingly heavy.",
+      "translation": "Ха... Вода на удивление тяжелая."
+    },
+    "pack02:131306": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131306",
+      "original": "You can’t drink any water you find. You need to boil it first!",
+      "translation": "Вы не можете пить воду, которую найдете. Его нужно сначала отварить!"
+    },
+    "pack02:131307": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131307",
+      "original": "Hmm, it’s making a noise! Liquid’s kind of cute when it jumps like that.",
+      "translation": "Хм, он шумит! Ликвид такой милый, когда он так прыгает."
+    },
+    "pack02:131308": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131308",
+      "original": "I’ve got some liquid...! Argh! I spilled it all over myself!",
+      "translation": "У меня есть немного жидкости...! Ааа! Я пролил все это на себя!"
+    },
+    "pack02:131309": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131309",
+      "original": "Uh-oh, I’ve got oil on my clothes. This’ll be hard to wash out...",
+      "translation": "Ой-ой, у меня одежда в масле. Это будет сложно отмыть..."
+    },
+    "pack02:131310": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131310",
+      "original": "Urgh, it’s all slimy and smelly... Well, I guess it is oil...",
+      "translation": "Ух, оно все склизкое и вонючее... Ну, наверное, это масло..."
+    },
+    "pack02:131311": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131311",
+      "original": "Here we go. I’d better seal it properly to make sure no gas escapes...",
+      "translation": "Вот так. Лучше загерметизирую как следует, чтобы газ не выходил..."
+    },
+    "pack02:131312": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131312",
+      "original": "Okay, I’ve got myself some gas! ...At least, I think I have!",
+      "translation": "Хорошо, у меня есть немного бензина! ...По крайней мере, я так думаю!"
+    },
+    "pack02:131313": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131313",
+      "original": "Paper... I could use this to practice drawing.",
+      "translation": "Бумага... Я мог бы использовать ее, чтобы попрактиковаться в рисовании."
+    },
+    "pack02:131314": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131314",
+      "original": "This is pretty clearly paper, just like I used to draw on when I was a kid.",
+      "translation": "Это явно бумага, такая же, как я рисовал, когда был ребенком."
+    },
+    "pack02:131315": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131315",
+      "original": "*Shiver*... This makes me nervous... Keep it away from open flames...",
+      "translation": "*Вздрагивает*... Это заставляет меня нервничать... Берегите его от открытого огня..."
+    },
+    "pack02:131316": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131316",
+      "original": "Fuel. It’s expensive to buy, so we should store some up for winter.",
+      "translation": "Топливо. Покупать его дорого, поэтому надо запастись на зиму."
+    },
+    "pack02:131317": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131317",
+      "original": "Gunpowder... I have to make sure I don’t confuse it with some sort of spice later...",
+      "translation": "Порох... Надо убедиться, что потом не перепутаю его с какой-нибудь пряностью..."
+    },
+    "pack02:131318": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131318",
+      "original": "Oh, gunpowder! I can use this to make ammunition!",
+      "translation": "О, порох! Я могу использовать это для изготовления боеприпасов!"
+    },
+    "pack02:131319": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131319",
+      "original": "We could use this as timber, but it’s just so heavy!",
+      "translation": "Мы могли бы использовать его как древесину, но он такой тяжелый!"
+    },
+    "pack02:131320": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131320",
+      "original": "There are sometimes bugs living in wood... Aarghh! I knew it!",
+      "translation": "В лесу иногда живут жуки... Аааа! Я знал это!"
+    },
+    "pack02:131321": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131321",
+      "original": "We can use this to make thread. Maybe I can sew up our clothes.",
+      "translation": "Мы можем использовать это для создания нити. Может быть, я смогу сшить нашу одежду."
+    },
+    "pack02:131322": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131322",
+      "original": "I’ve found some thread... But it’s all horribly entangled!",
+      "translation": "Я нашел какую-то нить... Но она вся ужасно запуталась!"
+    },
+    "pack02:131323": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131323",
+      "original": "Ah, I’ve found some cloth. Maybe I’ll get Sue to make me a stuffed toy.",
+      "translation": "Ах, я нашел ткань. Может быть, я попрошу Сью сделать мне мягкую игрушку."
+    },
+    "pack02:131324": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131324",
+      "original": "This is cloth. If I get enough small pieces, I could make a patchwork quilt.",
+      "translation": "Это ткань. Если у меня будет достаточно маленьких кусочков, я смогу сделать лоскутное одеяло."
+    },
+    "pack02:131325": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131325",
+      "original": "I think this is clay... Hehe. What shall I mold it into?",
+      "translation": "Я думаю, это глина... Хе-хе. Во что мне его слепить?"
+    },
+    "pack02:131326": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131326",
+      "original": "I’ve made a clay Lydie! ...Hey, why would you destroy it?!",
+      "translation": "Я слепила Лидию из глины! ...Эй, зачем тебе его уничтожать?!"
+    },
+    "pack02:131327": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131327",
+      "original": "Hey, hey, come back! Sand just flies away on the wind...",
+      "translation": "Эй, эй, вернись! Песок просто улетает по ветру..."
+    },
+    "pack02:131328": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131328",
+      "original": "This sand is so lovely and fine! Scrape it together, and... ah-choo!",
+      "translation": "Этот песок такой красивый и мелкий! Собираем все вместе, и... ах-чух!"
+    },
+    "pack02:131329": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131329",
+      "original": "Oh, I’ve found some ore. It’s prettier than in the encyclopedia!",
+      "translation": "О, я нашел немного руды. Это красивее, чем в энциклопедии!"
+    },
+    "pack02:131330": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131330",
+      "original": "Ore... I hope we can extract some sort of mineral from it...",
+      "translation": "Руда... Надеюсь, нам удастся извлечь из нее какой-нибудь минерал..."
+    },
+    "pack02:131331": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131331",
+      "original": "Wow, a gemstone! It’s so gorgeous...",
+      "translation": "Ух ты, драгоценный камень! Это так великолепно..."
+    },
+    "pack02:131332": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131332",
+      "original": "A gem! Every girl understands the allure of jewels...!",
+      "translation": "Жемчужина! Каждая девушка понимает очарование драгоценностей...!"
+    },
+    "pack02:131333": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131333",
+      "original": "I think this is metal. Hehe, it’s so cold to the touch.",
+      "translation": "Я думаю, что это металл. Хе-хе, он такой холодный на ощупь."
+    },
+    "pack02:131334": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131334",
+      "original": "I’ve found some metal. It’s useful, but it’s awfully heavy to carry back home.",
+      "translation": "Я нашел металл. Это полезно, но его ужасно тяжело нести домой."
+    },
+    "pack02:131335": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131335",
+      "original": "I think we could use this to make medicine... I hate medicine, though. It’s so bitter.",
+      "translation": "Я думаю, мы могли бы использовать это для изготовления лекарств... Хотя я ненавижу медицину. Это так горько."
+    },
+    "pack02:131336": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131336",
+      "original": "Medicine materials... Hmm... I really don’t want to have to swallow any.",
+      "translation": "Лекарственные материалы... Хм... Мне правда не хочется их глотать."
+    },
+    "pack02:131337": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131337",
+      "original": "Oh, look out! This is poison! We need to be careful!",
+      "translation": "О, берегись! Это яд! Нам нужно быть осторожными!"
+    },
+    "pack02:131338": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131338",
+      "original": "Uwah, this is poison! My life was in danger...",
+      "translation": "Увау, это яд! Моя жизнь была в опасности..."
+    },
+    "pack02:131339": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131339",
+      "original": "I don’t know why, but I’m drawn to this... This material has a strange attraction.",
+      "translation": "Не знаю почему, но меня к этому тянет... У этого материала странная притягательность."
+    },
+    "pack02:131340": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131340",
+      "original": "I can sense a mystical power...! I’m going to make this my treasure!",
+      "translation": "Я чувствую мистическую силу...! Я сделаю это своим сокровищем!"
+    },
+    "pack02:131341": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131341",
+      "original": "Whoa... This could be that...!",
+      "translation": "Ого... Это может быть то...!"
+    },
+    "pack02:131342": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131342",
+      "original": "Is this...?! That incredible stuff...?!",
+      "translation": "Это...?! Эта невероятная вещь...?!"
+    },
+    "pack02:131343": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131343",
+      "original": "This material helps in synthesis. Hehe, how should I use it?",
+      "translation": "Этот материал помогает в синтезе. Хе-хе, как мне это использовать?"
+    },
+    "pack02:131344": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131344",
+      "original": "Ah, it’s that stuff you can use for synthesis. What’s it called again...? Entrancer...?",
+      "translation": "А, это то, что можно использовать для синтеза. Как это называется еще раз...? Входивший...?"
+    },
+    "pack02:131347": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131347",
+      "original": "Firis, umm... Would you teach me how to sing?",
+      "translation": "Фирис, эмм... Ты научишь меня петь?"
+    },
+    "pack02:131348": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131348",
+      "original": "Huh, you really want me to...? Okay, then. Let’s sing together!",
+      "translation": "Ха, ты действительно хочешь, чтобы я...? Хорошо, тогда. Давайте петь вместе!"
+    },
+    "pack02:131349": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131349",
+      "original": "Lydie... Hehe... What is the gospel of sleeping nature like?",
+      "translation": "Лидия... Хе-хе... На что похоже Евангелие спящей природы?"
+    },
+    "pack02:131350": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131350",
+      "original": "...What? Firis, did you hit your head or something...?",
+      "translation": "...Что? Фирис, ты ударилась головой или что-то...?"
+    },
+    "pack02:131351": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131351",
+      "original": "Firis, can you tell us a secret about Ilmeria? Something good!",
+      "translation": "Фирис, можешь ли ты рассказать нам секрет об Илмерии? Что-то хорошее!"
+    },
+    "pack02:131352": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131352",
+      "original": "Huh, a secret about Ilmeria...? I don’t know if I can think of anything...",
+      "translation": "А, секрет об Илмерии...? Я не знаю, смогу ли я что-нибудь придумать..."
+    },
+    "pack02:131353": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131353",
+      "original": "...Hmm. Looking at you, Sue, reminds me of a young Ilmeria.",
+      "translation": "...Хм. Глядя на тебя, Сью, я вспоминаю юную Илмерию."
+    },
+    "pack02:131354": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131354",
+      "original": "That’s so nice. What specifically...? Please tell me it’s not my height!",
+      "translation": "Это так приятно. Что конкретно...? Пожалуйста, скажите мне, что это не мой рост!"
+    },
+    "pack02:131355": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131355",
+      "original": "Sophie... Ah! I’m sorry, it’s nothing!",
+      "translation": "Софи... Ах! Извините, это ничего!"
+    },
+    "pack02:131356": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131356",
+      "original": "Haha, don’t worry. Feel free to ask me anything.",
+      "translation": "Хаха, не волнуйся. Не стесняйтесь спрашивать меня о чем угодно."
+    },
+    "pack02:131357": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131357",
+      "original": "Ah, Lydie. Your hair’s sticking up weirdly.",
+      "translation": "Ах, Лидия. У тебя странно торчат волосы."
+    },
+    "pack02:131358": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131358",
+      "original": "Oh, thank you, I... Uh, Sophie, yours is sticking up even more!",
+      "translation": "Ой, спасибо, я... Ох, Софи, твоя еще больше торчит!"
+    },
+    "pack02:131359": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131359",
+      "original": "Sophie! What’s the true secret of alchemy?",
+      "translation": "Софи! В чем истинный секрет алхимии?"
+    },
+    "pack02:131360": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131360",
+      "original": "The secret...? Hmm... Trial and error, I’d say.",
+      "translation": "Секрет...? Хм... Метод проб и ошибок, я бы сказал."
+    },
+    "pack02:131361": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131361",
+      "original": "Hehe. I wish I had a little sister just like you, Sue.",
+      "translation": "Хе-хе. Я бы хотел иметь такую же сестренку, как ты, Сью."
+    },
+    "pack02:131362": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131362",
+      "original": "That’s so nice! Then just for today, how about I be your sister, Sophie?",
+      "translation": "Это так приятно! Тогда только сегодня, как насчет того, чтобы я стала твоей сестрой, Софи?"
+    },
+    "pack02:131363": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131363",
+      "original": "Mathias. How come you’re not wearing your mask anymore?",
+      "translation": "Матиас. Почему ты больше не носишь маску?"
+    },
+    "pack02:131364": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131364",
+      "original": "I can’t wear that. You two tease me too much!",
+      "translation": "Я не могу это носить. Вы двое слишком сильно меня дразните!"
+    },
+    "pack02:131365": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131365",
+      "original": "Isn’t that heavy, Lydie? I’ll help you carry it, if you like.",
+      "translation": "Разве это не тяжело, Лидия? Я помогу тебе нести его, если хочешь."
+    },
+    "pack02:131366": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131366",
+      "original": "*Sigh*... Mathias, you’re always saying things like that to girls...",
+      "translation": "*Вздох*... Матиас, ты всегда такое говоришь девчонкам..."
+    },
+    "pack02:131367": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131367",
+      "original": "You’re so rich and handsome, Mathias, it’s a real pity about your personality...",
+      "translation": "Ты такой богатый и красивый, Матиас, очень жаль твою личность..."
+    },
+    "pack02:131368": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131368",
+      "original": "Hey! You can’t just say that to my face!",
+      "translation": "Привет! Ты не можешь просто сказать это мне в лицо!"
+    },
+    "pack02:131369": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131369",
+      "original": "You know what, if you and I were a couple, people could call us Mathiasue!",
+      "translation": "Знаешь что, если бы мы с тобой были парой, люди могли бы звать нас Матиасу!"
+    },
+    "pack02:131370": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131370",
+      "original": "Ah, that’s terrible. You should be ashamed of yourself.",
+      "translation": "Ах, это ужасно. Вам должно быть стыдно за себя."
+    },
+    "pack02:131371": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131371",
+      "original": "...You act kind of like an old man, sometimes, don’t you, Alt?",
+      "translation": "...Иногда ты ведешь себя как старик, не так ли, Альт?"
+    },
+    "pack02:131372": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131372",
+      "original": "Hey, what do you mean?! Tell me, Lydie!",
+      "translation": "Эй, что ты имеешь в виду?! Скажи мне, Лидия!"
+    },
+    "pack02:131373": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131373",
+      "original": "Hehe, this week’s edition of “Weekly Bomb” was so great...!",
+      "translation": "Хе-хе, выпуск «Еженедельной бомбы» на этой неделе был таким замечательным…!"
+    },
+    "pack02:131374": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131374",
+      "original": "You read comic books, Alt? That’s so unexpected...",
+      "translation": "Ты читаешь комиксы, Альт? Это так неожиданно..."
+    },
+    "pack02:131375": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131375",
+      "original": "Alt, look at this. I found it.",
+      "translation": "Альт, посмотри на это. Я нашел это."
+    },
+    "pack02:131376": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131376",
+      "original": "Oh, that’s a rare specimen. I recommend you hold on to that.",
+      "translation": "Ох, это редкий экземпляр. Я рекомендую вам придерживаться этого."
+    },
+    "pack02:131377": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131377",
+      "original": "Come to think of it, you’re not good with bugs, are you, Sue? That’s a little surprising.",
+      "translation": "Если подумать, ты плохо разбираешься в жуках, да, Сью? Это немного удивительно."
+    },
+    "pack02:131378": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131378",
+      "original": "Really...? I think it’s-... Argh! Wh-What’s that you have in your hand?!",
+      "translation": "Действительно...? Я думаю, это... Ааа! Ч-что это у тебя в руке?!"
+    },
+    "pack02:131379": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131379",
+      "original": "Here’s some water for you, Lucia. I hope you don’t mind I already drank some.",
+      "translation": "Вот тебе немного воды, Лючия. Надеюсь, ты не против, что я уже немного выпил."
+    },
+    "pack02:131380": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131380",
+      "original": "Oh, thank you, I... Huh? Is this some sort of indirect kiss...?",
+      "translation": "О, спасибо, я... А? Это какой-то непрямой поцелуй...?"
+    },
+    "pack02:131381": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131381",
+      "original": "Are you hungry, Lydie? I’ll give you some feed if you’d like.",
+      "translation": "Ты голодна, Лидия? Если хочешь, я дам тебе немного еды."
+    },
+    "pack02:131382": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131382",
+      "original": "...I’m not an animal, but thank you! I’ll accept your offer anyway, Lucia!",
+      "translation": "...Я не животное, но спасибо! Я все равно приму твое предложение, Люсия!"
+    },
+    "pack02:131383": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131383",
+      "original": "Let’s have a staring contest, Lucia! Ready, start...!",
+      "translation": "Люсия, давай устроим соревнование в пристальных взглядах! Готовы, начните...!"
+    },
+    "pack02:131384": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131384",
+      "original": "Bfwahaha! That’s cheating! No fair! I can do a funnier face than that, anyway!",
+      "translation": "Бфвахаха! Это обман! Нет честности! В любом случае, я могу сделать рожу еще смешнее!"
+    },
+    "pack02:131385": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131385",
+      "original": "You never seem to grow up, Sue, no matter how old you get...",
+      "translation": "Кажется, ты никогда не повзрослеешь, Сью, сколько бы лет тебе ни исполнилось..."
+    },
+    "pack02:131386": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131386",
+      "original": "It’s kind of a shock to be told that by you, Lucia...!",
+      "translation": "Это своего рода шок, когда ты говоришь это, Лючия...!"
+    },
+    "pack02:131389": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131389",
+      "original": "I’ve found an incredible place here...! I need to write down the details!",
+      "translation": "Я нашел здесь невероятное место...! Мне нужно записать подробности!"
+    },
+    "pack02:131390": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131390",
+      "original": "I never knew there was a place like this...! ...But I won’t forget it now.",
+      "translation": "Я никогда не знал, что есть такое место...! ...Но теперь я этого не забуду."
+    },
+    "pack02:131391": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131391",
+      "original": "Ah, I’ve found an interesting-looking place! I’m going in for a closer look!",
+      "translation": "О, я нашел интересное место! Захожу посмотреть поближе!"
+    },
+    "pack02:131392": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131392",
+      "original": "Oh, this place looks interesting! Maybe I should sketch it.",
+      "translation": "О, это место выглядит интересным! Возможно, мне стоит это набросать."
+    },
+    "pack02:131393": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131393",
+      "original": "What a gorgeous shrine...! But I wonder what it’s here for...",
+      "translation": "Какой великолепный храм...! Но мне интересно, для чего это здесь..."
+    },
+    "pack02:131394": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131394",
+      "original": "Is this a shrine...? I wonder why Dad painted this...",
+      "translation": "Это храм...? Интересно, почему папа это нарисовал?"
+    },
+    "pack02:131395": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131395",
+      "original": "Wow, mushrooms everywhere! ...I wonder if they’re edible.",
+      "translation": "Ого, грибы повсюду! ...Интересно, съедобны ли они?"
+    },
+    "pack02:131396": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131396",
+      "original": "Glowing mushrooms all about! I should take them home and use them as lights.",
+      "translation": "Повсюду светящиеся грибы! Мне следует отнести их домой и использовать как фонари."
+    },
+    "pack02:131397": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131397",
+      "original": "Wow, a tree made of ice crystals! Haha, it’s too weird for words.",
+      "translation": "Ух ты, дерево из кристаллов льда! Хаха, это слишком странно для слов."
+    },
+    "pack02:131398": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131398",
+      "original": "Oh, look at these beautiful leaves... I wonder how much I could sell them for.",
+      "translation": "Ох, посмотрите на эти красивые листья... Интересно, за сколько я смогу их продать?"
+    },
+    "pack02:131399": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131399",
+      "original": "Huh, a lava fountain... Whoa! I just got sprayed by magma!",
+      "translation": "Ха, фонтан лавы... Ого! Меня только что облило магмой!"
+    },
+    "pack02:131400": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131400",
+      "original": "Look at the size of this waterfall...! Except I guess it’s a lavafall...",
+      "translation": "Посмотрите на размер этого водопада...! Только я думаю, что это лавопад..."
+    },
+    "pack02:131401": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131401",
+      "original": "We could hold an extravagant ball here! Imagine dancing in this place.",
+      "translation": "Мы могли бы провести здесь экстравагантный бал! Представьте, что вы танцуете в этом месте."
+    },
+    "pack02:131402": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131402",
+      "original": "This clock... it’s stopped. Would it start again if I hit it?",
+      "translation": "Эти часы... они остановились. Если я ударю его, начнется ли оно снова?"
+    },
+    "pack02:131403": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131403",
+      "original": "Wow, a pirate ship! Hard a’ port! Hard a’ starboard!",
+      "translation": "Ого, пиратский корабль! Жесткий портвейн! Круто по правому борту!"
+    },
+    "pack02:131404": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131404",
+      "original": "This is the captain’s ship, then...! It really is pretty cool...!",
+      "translation": "Значит, это капитанский корабль...! Это действительно очень круто...!"
+    },
+    "pack02:131405": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131405",
+      "original": "Is this... a clock hand? ...For some giant’s clock?",
+      "translation": "Это... стрелка часов? ...Для часов какого-то гиганта?"
+    },
+    "pack02:131406": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131406",
+      "original": "This clock hand... It looks more effective than most weapons.",
+      "translation": "Эта стрелка часов... Она выглядит эффективнее большинства видов оружия."
+    },
+    "pack02:131407": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131407",
+      "original": "Wow, I can see stars reflected in the water! The underwater night sky...!",
+      "translation": "Ого, я вижу, как звезды отражаются в воде! Подводное ночное небо...!"
+    },
+    "pack02:131408": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131408",
+      "original": "The stars are reflecting off the river... It looks like the Milky Way!",
+      "translation": "Звезды отражаются в реке... Похоже на Млечный Путь!"
+    },
+    "pack02:131409": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131409",
+      "original": "Pitch black everywhere... As far as the horizon, black, black, black...",
+      "translation": "Повсюду кромешная тьма... До самого горизонта - черно, черно, черно..."
+    },
+    "pack02:131410": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131410",
+      "original": "Hmm, it really is black everywhere... I feel like my very soul could be dyed black.",
+      "translation": "Хм, действительно везде черно... Мне кажется, что всю мою душу можно покрасить в черный цвет."
+    },
+    "pack02:131411": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131411",
+      "original": "Wahh, this swamp is terrifying! It’s pretty, but so creepy!",
+      "translation": "Вау, это болото ужасно! Это красиво, но так жутко!"
+    },
+    "pack02:131412": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131412",
+      "original": "Ooh, this swamp is nasty... It makes me feel so uneasy...",
+      "translation": "Ох, противно это болото... Мне так не по себе..."
+    },
+    "pack02:131414": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131414",
+      "original": "Listen closely, Lydie and Sue. The first step in gathering materials is to identify their properties...",
+      "translation": "Слушайте внимательно, Лидия и Сью. Первым шагом в сборе материалов является определение их свойств..."
+    },
+    "pack02:131415": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131415",
+      "original": "Time to go! Leave everything to the genius - me!",
+      "translation": "Пора идти! Оставьте все гению - мне!"
+    },
+    "pack02:131416": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131416",
+      "original": "What stunning beauty... Just gazing upon it brings peace to my heart...",
+      "translation": "Какая потрясающая красота... Один только взгляд на нее наполняет мое сердце покоем..."
+    },
+    "pack02:131417": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131417",
+      "original": "Ah, wahh, c-calm down! Take it easy! Sue, you need to relax!",
+      "translation": "Ах, вау, успокойся! Не принимайте близко к сердцу! Сью, тебе нужно расслабиться!"
+    },
+    "pack02:131418": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131418",
+      "original": "It's s-s-so c-c-cold... Both of you, come and keep me warm, now!",
+      "translation": "Здесь о-о-о-холодно... Вы оба, подойдите и согрейте меня, сейчас же!"
+    },
+    "pack02:131419": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131419",
+      "original": "It's so hot...! Lydie, Sue - do something about it!",
+      "translation": "Это так жарко...! Лидия, Сью, сделайте что-нибудь!"
+    },
+    "pack02:131420": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131420",
+      "original": "Huh, what a splendid place... It reminds me a little of home.",
+      "translation": "Ха, какое великолепное место... Оно немного напоминает мне дом."
+    },
+    "pack02:131421": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131421",
+      "original": "I-I have no desire to become a pirate! ...I mean it!",
+      "translation": "У-у меня нет желания становиться пиратом! ...Я серьезно!"
+    },
+    "pack02:131422": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131422",
+      "original": "Our past is what makes our present what it is. That goes for me as well as you.",
+      "translation": "Наше прошлое – это то, что делает наше настоящее таким, какое оно есть. Это касается и меня, и вас."
+    },
+    "pack02:131423": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131423",
+      "original": "Wow, what a stunning night sky! Ah, Firis! A shooting star!",
+      "translation": "Ух ты, какое потрясающее ночное небо! Ах, Фирис! Падающая звезда!"
+    },
+    "pack02:131424": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131424",
+      "original": "Ugh, the sense of oppression is palpable... We will have to be totally focused...",
+      "translation": "Ух, ощущение угнетения ощутимо... Нам придется полностью сосредоточиться..."
+    },
+    "pack02:131425": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131425",
+      "original": "Wargh, this place is almost unbearable... Bright red no matter where you look...",
+      "translation": "Варг, это место почти невыносимо... Ярко-красное, куда ни посмотри..."
+    },
+    "pack02:131426": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131426",
+      "original": "Hehe, what a relaxing place. You may both feel free to head off and play.",
+      "translation": "Хе-хе, какое расслабляющее место. Вы оба можете смело отправляться играть."
+    },
+    "pack02:131427": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131427",
+      "original": "Hehe, what a relaxing place. You may both feel free to head off and play.",
+      "translation": "Хе-хе, какое расслабляющее место. Вы оба можете смело отправляться играть."
+    },
+    "pack02:131428": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131428",
+      "original": "The forest is absolutely filled with materials. Time to get scavenging!",
+      "translation": "Лес абсолютно наполнен материалами. Время заняться мусором!"
+    },
+    "pack02:131429": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131429",
+      "original": "The forest is absolutely filled with materials. Time to get scavenging!",
+      "translation": "Лес абсолютно наполнен материалами. Время заняться мусором!"
+    },
+    "pack02:131430": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131430",
+      "original": "Urgh, sand everywhere... My hair's all gritty...",
+      "translation": "Ух, везде песок... У меня все волосы грязные..."
+    },
+    "pack02:131431": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131431",
+      "original": "Sue! How did you manage to make one so cute?! Teach me at once!",
+      "translation": "Сью! Как тебе удалось сделать такую милую?! Научите меня немедленно!"
+    },
+    "pack02:131432": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131432",
+      "original": "Mnnngghh... *Yawn*... Good morning... *Snore*...",
+      "translation": "Мммммхх... *Зеваю*... Доброе утро... *Храп*..."
+    },
+    "pack02:131433": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131433",
+      "original": "Lunch time! Let's all eat together!",
+      "translation": "Время обеда! Давайте поедим все вместе!"
+    },
+    "pack02:131434": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131434",
+      "original": "Be careful in the dark! D-Don't look at me! Look in front of you!",
+      "translation": "Будьте осторожны в темноте! Д-Не смотри на меня! Посмотрите перед собой!"
+    },
+    "pack02:131435": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131435",
+      "original": "I hate it when the weather's so dull and overcast... Maybe I should blow the clouds away with a bomb...",
+      "translation": "Ненавижу, когда погода такая унылая и пасмурная... Может, стоит разогнать тучи бомбой..."
+    },
+    "pack02:131436": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131436",
+      "original": "Argh! Rain?! My clothes will be drenched...!",
+      "translation": "Ааа! Дождь?! Моя одежда промокнет...!"
+    },
+    "pack02:131437": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131437",
+      "original": "Kya! Thunder! ...Hey, don't mock me! I'm allowed to be surprised every now and then...",
+      "translation": "Кья! Гром! ...Эй, не издевайся надо мной! Мне позволено время от времени удивляться..."
+    },
+    "pack02:131438": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131438",
+      "original": "A sun shower... They say that means someone's getting married... Weddings... Brides... F-Firis... Uh, nothing, nothing!",
+      "translation": "Солнечный душ... Говорят, это значит, что кто-то женится... Свадьбы... Невесты... Ф-Фирис... Э-э, ничего, ничего!"
+    },
+    "pack02:131439": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131439",
+      "original": "Snow...! I'm going to make myself a snow rabbit later on!",
+      "translation": "Снег...! Позже я сделаю себе снежного кролика!"
+    },
+    "pack02:131440": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131440",
+      "original": "Excuse me, teacher, do you mind if I ask you about this material's properties...?",
+      "translation": "Простите, учитель, вы не возражаете, если я спрошу вас о свойствах этого материала...?"
+    },
+    "pack02:131441": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131441",
+      "original": "Oh, you've identified a key point there. Let's see now, what you're looking at is...",
+      "translation": "О, вы определили здесь ключевой момент. Давайте теперь посмотрим, то, на что вы смотрите..."
+    },
+    "pack02:131442": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131442",
+      "original": "Lydie. Are you sure you're not... cold, dressed like that?",
+      "translation": "Лидия. Ты уверен, что тебе не... холодно, и ты так одет?"
+    },
+    "pack02:131443": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131443",
+      "original": "Huh? Uh, no, I'm fine. Thank you for the concern, though.",
+      "translation": "Хм? Э, нет, я в порядке. Но спасибо за беспокойство."
+    },
+    "pack02:131444": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131444",
+      "original": "*Stare* Hmm... Your ribbon is so adorable...",
+      "translation": "*Смотрит* Хм... Твоя лента такая очаровательная..."
+    },
+    "pack02:131445": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131445",
+      "original": "Oh, I see you have an eye for these things. Hehe, why not try wearing one yourself?",
+      "translation": "О, я вижу, ты разбираешься в этих вещах. Хе-хе, почему бы не попробовать надеть его самому?"
+    },
+    "pack02:131446": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131446",
+      "original": "You need to be more calm and composed, Sue. You'll overlook some good materials.",
+      "translation": "Тебе нужно быть более спокойной и собранной, Сью. Вы упустите из виду некоторые хорошие материалы."
+    },
+    "pack02:131447": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131447",
+      "original": "Oh, I've been told off... Hey! Look at that! A rare material! I'd better hurry!",
+      "translation": "О, меня отругали... Эй! Посмотрите на это! Редкий материал! Мне лучше поторопиться!"
+    },
+    "pack02:131448": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131448",
+      "original": "Hahaha, being together like this takes me back to the old days...",
+      "translation": "Ха-ха-ха, то, что мы вместе, возвращает меня в былые времена..."
+    },
+    "pack02:131449": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131449",
+      "original": "Yes, certainly. You used to cause me so much trouble!",
+      "translation": "Да, конечно. Раньше ты доставлял мне столько хлопот!"
+    },
+    "pack02:131450": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131450",
+      "original": "Here you go, Firis. You wanted this material, right?",
+      "translation": "Вот, Фирис. Вы хотели этот материал, верно?"
+    },
+    "pack02:131451": {
+      "source": "pack02_text_en",
+      "file": "str_fm_tweet.xml",
+      "string_no": "131451",
+      "original": "Oh, thank you! Please, take this as a token of my gratitude!",
+      "translation": "О, спасибо! Пожалуйста, примите это в знак моей благодарности!"
+    }
+  }
+}

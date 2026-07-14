@@ -1,0 +1,442 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_npc_s32_mess.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:33882113": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882113",
+      "original": "Hehe, the villagers have all returned! This is all thanks to you!",
+      "translation": "Хехе, все жители деревни вернулись! Всё благодаря вам!"
+    },
+    "pack02:33882114": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882114",
+      "original": "...Hm? Did something happen? You both look very stern.",
+      "translation": "...Хм? Что-то случилось? Вы обе выглядите очень серьёзно."
+    },
+    "pack02:33882115": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882115",
+      "original": "Welcome to the village of Rugotto! Hehe, this is where we live. Make yourselves at home!",
+      "translation": "Добро пожаловать в деревню Руготто! Хехе, мы здесь живём. Чувствуйте себя как дома!"
+    },
+    "pack02:33882116": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882116",
+      "original": "We’re talking about building a statue of you both! ...What, you don’t want us to?",
+      "translation": "Мы как раз обсуждаем, как поставить вам обеим статую! ...Что, не хотите?"
+    },
+    "pack02:33882117": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882117",
+      "original": "Um...? Lydie? Sue? You seem... a bit grumpy...",
+      "translation": "Эм...? Лидия? Сью? Вы какие-то... недовольные..."
+    },
+    "pack02:33882118": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882118",
+      "original": "You both seem as cheerful as the sunshine! Did something good happen?",
+      "translation": "Вы обе сияете, как солнышко! Случилось что-нибудь хорошее?"
+    },
+    "pack02:33882119": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882119",
+      "original": "Are you okay? Is there anything I can do to help? I want to be helpful to you somehow...",
+      "translation": "С вами всё в порядке? Могу чем-нибудь помочь? Хочу быть вам полезной..."
+    },
+    "pack02:33882120": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882120",
+      "original": "I sense something... Something powerful from you both... Strength and conviction. I’m behind you all the way!",
+      "translation": "Я чувствую... Что-то мощное исходит от вас обеих... Силу и решимость. Я на вашей стороне!"
+    },
+    "pack02:33882121": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882121",
+      "original": "Fuoco was so brave! Because she didn’t run away, the village was saved!",
+      "translation": "Фуоко была такой смелой! Потому что она не убежала, деревня спаслась!"
+    },
+    "pack02:33882122": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882122",
+      "original": "That’s true. But being her, it is possible that she just didn’t get around to fleeing though.",
+      "translation": "Это правда. Но зная её, возможно, она просто не успела сбежать."
+    },
+    "pack02:33882123": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882123",
+      "original": "What do you want to do today, Kuoko? Some lava-bathing?",
+      "translation": "Что хочешь сегодня делать, Куоко? Покупаться в лаве?"
+    },
+    "pack02:33882124": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882124",
+      "original": "Don’t tease our saviors. You know full well that even we would die if we set foot in the lava.",
+      "translation": "Не дразни наших спасителей. Ты же знаешь, что даже мы погибнем, если ступим в лаву."
+    },
+    "pack02:33882125": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882125",
+      "original": "I could have beaten the Fire Dragon by myself, actually. But I felt sorry for it, so I let it go!",
+      "translation": "Я бы, кстати, одолел Огненного дракона в одиночку. Но мне его жалко, поэтому я его отпустил!"
+    },
+    "pack02:33882126": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882126",
+      "original": "Stop telling silly lies. You know only Fuoco’s weaker than you in the whole village.",
+      "translation": "Хватит нести чушь. Ты же знаешь, что только Фуоко слабее тебя во всей деревне."
+    },
+    "pack02:33882127": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882127",
+      "original": "I used alchemy to make myself a faster runner! It’s true!",
+      "translation": "Я с помощью алхимии стал быстрее бегать! Это правда!"
+    },
+    "pack02:33882128": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882128",
+      "original": "That’s not what alchemy does, you know. It’s used for making lots of different useful items.",
+      "translation": "Алхимия не для этого, знаешь ли. С её помощью делают массу разных полезных вещей."
+    },
+    "pack02:33882129": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882129",
+      "original": "The Fire Dragon’s back! It’s so scary! It’ll destroy the village for sure this time!",
+      "translation": "Огненный дракон вернулся! Так страшно! На этот раз он точно разрушит деревню!"
+    },
+    "pack02:33882130": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882130",
+      "original": "That’s enough tall tales, Uoko... What? You’re not lying? You mean we’re in real trouble?!",
+      "translation": "Хватит сказок, Уоко... Что? Ты не врёшь? Значит, нам и правда грозит беда?!"
+    },
+    "pack02:33882131": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882131",
+      "original": "Fuoco and the Fire Dragon are friends! They’re always playing together!",
+      "translation": "Фуоко и Огненный дракон — друзья! Они постоянно играют вместе!"
+    },
+    "pack02:33882132": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882132",
+      "original": "That’s true. And the dragon helps out around the village too. It’s a real boon for us.",
+      "translation": "Это правда. И дракон помогает по деревне. Для нас это настоящее благословение."
+    },
+    "pack02:33882133": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882133",
+      "original": "Oh, it’s our saviors! You’re my heroes!",
+      "translation": "О, наши спасители! Вы — мои герои!"
+    },
+    "pack02:33882134": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882134",
+      "original": "How can I become as strong as you two? Do I have to eat a lot?",
+      "translation": "Как мне стать таким же сильным, как вы? Надо много есть?"
+    },
+    "pack02:33882135": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882135",
+      "original": "I’ve been training a lot recently! I eat so much every day I feel like I’m gonna explode!",
+      "translation": "В последнее время я много тренируюсь! Ем так много каждый день, что кажется — сейчас лопну!"
+    },
+    "pack02:33882136": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882136",
+      "original": "I think all my training’s paying off - I feel like I’ve grown a lot! ...Huh, what do you mean I’m just getting fatter?",
+      "translation": "Думаю, тренировки дают результат — я будто вырос! ...А? Что значит — я просто толстею?"
+    },
+    "pack02:33882137": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882137",
+      "original": "I-I-I-It’s back! Th-Th-The Fire Dragon! N-N-N-Now’s the time to show the effects of my training... It’s no good! I’m too scared!",
+      "translation": "О-о-он в-вернулся! О-О-Огненный дракон! С-С-Сейчас покажу, чему научился на тренировках... Не выходит! Слишком страшно!"
+    },
+    "pack02:33882138": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882138",
+      "original": "I wanted the Fire Dragon to train with me, but when I ate the dragon’s food, Fuoco punched me really hard!",
+      "translation": "Я хотел, чтобы Огненный дракон тренировался со мной, но когда я съел его еду, Фуоко сильно меня ударила!"
+    },
+    "pack02:33882139": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882139",
+      "original": "The Fire Dragon’s gone! Haha, this is a glorious victory for Rugotto!",
+      "translation": "Огненный дракон ушёл! Ха-ха, это славная победа Руготто!"
+    },
+    "pack02:33882140": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882140",
+      "original": "I am a proud warrior of Rugotto! But the Fire Dragon was far too strong for me...",
+      "translation": "Я — гордый воин Руготто! Но Огненный дракон оказался слишком силён для меня..."
+    },
+    "pack02:33882141": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882141",
+      "original": "My flames are all-powerful! Any who get in their way... Will have their hair curled! Hahaha!",
+      "translation": "Мои пламена всесильны! Кто встанет на их пути... получит завитки! Хахаха!"
+    },
+    "pack02:33882142": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882142",
+      "original": "I train hard each and every day! But today I’m resting! Sometimes I just feel like that!",
+      "translation": "Я усердно тренируюсь каждый день! Но сегодня отдыхаю! Иногда просто хочется!"
+    },
+    "pack02:33882143": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882143",
+      "original": "The Fire Dragon is back! Hmm, we have to do something!",
+      "translation": "Огненный дракон вернулся! Хм, надо что-то делать!"
+    },
+    "pack02:33882144": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882144",
+      "original": "The Fire Dragon and Fuoco have become friends! Hehe, it’s kind of nice to see them together!",
+      "translation": "Огненный дракон и Фуоко подружились! Хехе, приятно видеть их вместе!"
+    },
+    "pack02:33882145": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882145",
+      "original": "Why did the Fire Dragon come here all of a sudden? Was there some reason for its actions?",
+      "translation": "Почему Огненный дракон вдруг пришёл сюда? Была ли какая-то причина для его поступков?"
+    },
+    "pack02:33882146": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882146",
+      "original": "I don’t think so. I think it just came here on a whim.",
+      "translation": "Не думаю. Мне кажется, он просто пришёл сюда по прихоти."
+    },
+    "pack02:33882147": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882147",
+      "original": "Why do we get hungry? What happens to the food we’ve eaten?",
+      "translation": "Почему мы хотим есть? Что происходит с едой, которую мы съели?"
+    },
+    "pack02:33882148": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882148",
+      "original": "I believe there are creatures living in our bellies. They must eat up all the food, I’d say.",
+      "translation": "Думаю, в наших животах живут существа. Они, должно быть, съедают всю еду."
+    },
+    "pack02:33882149": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882149",
+      "original": "Why do we have wings? If we try hard enough, do you think we can fly?",
+      "translation": "Почему у нас есть крылья? Если постараться, думаешь, сможем летать?"
+    },
+    "pack02:33882150": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882150",
+      "original": "We’re born with these wings, so I don’t think they mean anything. I don’t believe we can fly, no matter how hard we try.",
+      "translation": "Нас рождают с этими крыльями, так что, думаю, они ни о чём не говорят. Не верю, что мы можем летать, как ни старайся."
+    },
+    "pack02:33882151": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882151",
+      "original": "Where did our saviors come from? Why are they dressed so strangely?",
+      "translation": "Откуда пришли наши спасители? Почему они так странно одеты?"
+    },
+    "pack02:33882152": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882152",
+      "original": "I don’t know... I imagine it would be quicker to ask them directly.",
+      "translation": "Не знаю... Думаю, быстрее будет спросить у них напрямую."
+    },
+    "pack02:33882153": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882153",
+      "original": "Why has the Fire Dragon come back? Do you think it’s fallen in love with someone?",
+      "translation": "Почему Огненный дракон вернулся? Думаешь, он в кого-то влюбился?"
+    },
+    "pack02:33882154": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882154",
+      "original": "No, I believe it is merely another whim. I do not believe Fire Dragons know love.",
+      "translation": "Нет, думаю, это просто очередная прихоть. Не верю, что Огненные драконы знают любовь."
+    },
+    "pack02:33882155": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882155",
+      "original": "Why did the Fire Dragon fall in love with Fuoco? Can the rest of us fall in love too?",
+      "translation": "Почему Огненный дракон влюбился в Фуоко? Можем ли и мы тоже влюбиться?"
+    },
+    "pack02:33882156": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882156",
+      "original": "There is no logic in love. Just as I love y-... Never mind.",
+      "translation": "В любви нет логики. Как я люблю т-... Неважно."
+    },
+    "pack02:33882157": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882157",
+      "original": "This is the village of Rugotto... And here are our saviors.",
+      "translation": "Это деревня Руготто... А вот и наши спасители."
+    },
+    "pack02:33882158": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882158",
+      "original": "I’ve been away for a while, but I’m relieved to see the village has not suffered too greatly.",
+      "translation": "Я какое-то время отсутствовала, но рада видеть, что деревня не пострадала слишком сильно."
+    },
+    "pack02:33882159": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882159",
+      "original": "Fuoco has grown up so much recently. I can only imagine this is due to your influence.",
+      "translation": "Фуоко за последнее время так выросла. Наверное, это благодаря вашему влиянию."
+    },
+    "pack02:33882160": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882160",
+      "original": "Fuoco talks of alchemy so often that the children everywhere are playing^00games where they pretend to be alchemists.",
+      "translation": "Фуоко так часто говорит об алхимии, что дети повсюду играют^00в игры, где притворяются алхимиками."
+    },
+    "pack02:33882161": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882161",
+      "original": "The Fire Dragon has returned... But we will not flee this time.",
+      "translation": "Огненный дракон вернулся... Но на этот раз мы не будем бежать."
+    },
+    "pack02:33882162": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882162",
+      "original": "The Fire Dragon and Fuoco have become inseparable. If the Fire Dragon causes us no harm, then we have no reason to fight it.",
+      "translation": "Огненный дракон и Фуоко стали неразлучны. Если дракон нам не вредит, нам нет причин с ним сражаться."
+    },
+    "pack02:33882163": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882163",
+      "original": "Hello there. I understand you have looked out for my sister. Hehe. I am the older sister of Fuoco.",
+      "translation": "Здравствуйте. Я знаю, вы присмотрели за моей сестрой. Хехе. Я — старшая сестра Фуоко."
+    },
+    "pack02:33882164": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882164",
+      "original": "Fuoco seems to have taken a real shine to you. She speaks of you constantly, hehe...",
+      "translation": "Фуоко, кажется, к вам очень привязалась. Она постоянно о вас говорит, хехе..."
+    },
+    "pack02:33882165": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882165",
+      "original": "I was so worried when Fuoco failed to escape with the rest of us. She only survived thanks to you...",
+      "translation": "Я так волновалась, когда Фуоко не успела сбежать вместе со всеми. Она выжила только благодаря вам..."
+    },
+    "pack02:33882166": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882166",
+      "original": "The truth of the matter is that she houses more powerful fire strength than anyone else in the village... Not that that means much.",
+      "translation": "На самом деле в ней сильнее огненная сила, чем у кого-либо в деревне... Хотя это мало что значит."
+    },
+    "pack02:33882167": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882167",
+      "original": "...The Fire Dragon has returned. We are all so worried...",
+      "translation": "...Огненный дракон вернулся. Мы все так волнуемся..."
+    },
+    "pack02:33882168": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882168",
+      "original": "Hehe, perhaps all the dragon ever really wanted was someone to play with. Now Fuoco and the dragon are firm friends.",
+      "translation": "Хехе, возможно, дракону всего-навсего хотелось с кем-нибудь поиграть. Теперь Фуоко и дракон — верные друзья."
+    },
+    "pack02:33882169": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882169",
+      "original": "The Fire Dragon was terrifying. I’m so glad it’s gone.",
+      "translation": "Огненный дракон был ужасен. Как же хорошо, что он ушёл."
+    },
+    "pack02:33882170": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882170",
+      "original": "I was attacked by the Fire Dragon. Its fiery breath singed the hairs on my head.",
+      "translation": "На меня напал Огненный дракон. Его огненное дыхание опалило волосы на моей голове."
+    },
+    "pack02:33882171": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882171",
+      "original": "Our saviors all look different. Why is that, when we all look the same?",
+      "translation": "Наши спасители все выглядят по-разному. Почему так, если мы все одинаковые?"
+    },
+    "pack02:33882172": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882172",
+      "original": "Savior, I hear you gave Fuoco something known as “sweets.” I would like some too. May I?",
+      "translation": "Спасительница, я слышала, вы дали Фуоко что-то под названием «сладости». Можно и мне?"
+    },
+    "pack02:33882173": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882173",
+      "original": "The Fire Dragon’s back. We must prepare to run again.",
+      "translation": "Огненный дракон вернулся. Нужно готовиться снова бежать."
+    },
+    "pack02:33882174": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s32_mess.xml",
+      "string_no": "33882174",
+      "original": "The Fire Dragon is Fuoco’s friend now. It won’t attack us again. We don’t have to flee.",
+      "translation": "Огненный дракон теперь друг Фуоко. Он больше нас не атакует. Бежать не нужно."
+    }
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_btl_define.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:20447233": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447233",
+      "original": "Attack",
+      "translation": "Атака"
+    },
+    "pack02:20447234": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447234",
+      "original": "Item",
+      "translation": "Элемент"
+    },
+    "pack02:20447235": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447235",
+      "original": "Skill",
+      "translation": "Навык"
+    },
+    "pack02:20447236": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447236",
+      "original": "Defense",
+      "translation": "Защита"
+    },
+    "pack02:20447237": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447237",
+      "original": "Change",
+      "translation": "Смена"
+    },
+    "pack02:20447238": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447238",
+      "original": "Flee",
+      "translation": "Пикирование"
+    },
+    "pack02:20447241": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447241",
+      "original": "&lt;CLGR&gt;%s&lt;CLNR&gt; fled!",
+      "translation": "&lt;CLGR&gt;%s&lt;CLNR&gt; сбежали!"
+    },
+    "pack02:20447242": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447242",
+      "original": "Gathered &lt;CLGR&gt;%s&lt;CLNR&gt;!",
+      "translation": "Собрано &lt;CLGR&gt;%s&lt;CLNR&gt;!"
+    },
+    "pack02:20447243": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447243",
+      "original": "Obtained &lt;CLGR&gt;%s&lt;CLNR&gt;!",
+      "translation": "Получено &lt;CLGR&gt;%s&lt;CLNR&gt;!"
+    },
+    "pack02:20447245": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447245",
+      "original": "Camera",
+      "translation": "Камера"
+    },
+    "pack02:20447246": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447246",
+      "original": "Next",
+      "translation": "Далее"
+    },
+    "pack02:20447248": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447248",
+      "original": "Fast ON",
+      "translation": "Ускорение ВКЛ"
+    },
+    "pack02:20447249": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447249",
+      "original": "Fast OFF",
+      "translation": "Ускорение ВЫКЛ"
+    },
+    "pack02:20447251": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447251",
+      "original": "&lt;IM00&gt;",
+      "translation": "&lt;IM00&gt;"
+    },
+    "pack02:20447252": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447252",
+      "original": "&lt;IM02&gt;",
+      "translation": "&lt;IM02&gt;"
+    },
+    "pack02:20447253": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447253",
+      "original": "&lt;IM04&gt;",
+      "translation": "&lt;IM04&gt;"
+    },
+    "pack02:20447254": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447254",
+      "original": "&lt;IM06&gt;",
+      "translation": "&lt;IM06&gt;"
+    },
+    "pack02:20447256": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447256",
+      "original": "Be careful!",
+      "translation": "Будь осторожен!"
+    },
+    "pack02:20447257": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447257",
+      "original": "Leave this to me!",
+      "translation": "Оставьте это мне!"
+    },
+    "pack02:20447258": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447258",
+      "original": "I’ll take over from here!",
+      "translation": "Я возьму на себя управление отсюда!"
+    },
+    "pack02:20447259": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447259",
+      "original": "Stand back!",
+      "translation": "Отойди!"
+    },
+    "pack02:20447260": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447260",
+      "original": "I suppose it can’t be helped!",
+      "translation": "Думаю, ничего не поделаешь!"
+    },
+    "pack02:20447261": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447261",
+      "original": "I won't allow it!",
+      "translation": "Я не позволю этого!"
+    },
+    "pack02:20447278": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447278",
+      "original": "Show Details",
+      "translation": "Показать детали"
+    },
+    "pack02:20447279": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447279",
+      "original": "Toggle Description",
+      "translation": "Переключить описание"
+    },
+    "pack02:20447280": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447280",
+      "original": "Extra effect activated!",
+      "translation": "Дополнительный эффект в действии!"
+    },
+    "pack02:20447281": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447281",
+      "original": "Change Page",
+      "translation": "Смена страницы"
+    },
+    "pack02:20447282": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447282",
+      "original": "Check Follow-up Skills",
+      "translation": "Проверьте навыки последующего наблюдения"
+    },
+    "pack02:20447284": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447284",
+      "original": "Battle Mix",
+      "translation": "Боевой синтез"
+    },
+    "pack02:20447285": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447285",
+      "original": "Extra Mix",
+      "translation": "Экстра Микс"
+    },
+    "pack02:20447286": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447286",
+      "original": "Follow-up Skills",
+      "translation": "Последующие навыки"
+    },
+    "pack02:20447288": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447288",
+      "original": "Do you want to cancel the Battle Mix?",
+      "translation": "Вы хотите отменить Летучая мышьtle Mix?"
+    },
+    "pack02:20447289": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447289",
+      "original": "Confirm?",
+      "translation": "Подтверждать?"
+    },
+    "pack02:20447291": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447291",
+      "original": "Battle Mix - &lt;STR1&gt; Synthesis",
+      "translation": "Боевой микс — синтез &lt;STR1&gt;"
+    },
+    "pack02:20447292": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447292",
+      "original": "Extra Mix - Enhance &lt;STR1&gt;",
+      "translation": "Дополнительный микс — улучшение &lt;STR1&gt;"
+    },
+    "pack02:20447293": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447293",
+      "original": "Synthesise an item on the spot.",
+      "translation": "Синтезируйте предмет на месте."
+    },
+    "pack02:20447296": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447296",
+      "original": "Hide Follow-up Skills",
+      "translation": "Скрыть последующие навыки"
+    },
+    "pack02:20447297": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447297",
+      "original": "Show Follow-up Skills",
+      "translation": "Показать последующие навыки"
+    },
+    "pack02:20447298": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447298",
+      "original": "Show Supporters",
+      "translation": "Показать сторонников"
+    },
+    "pack02:20447299": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447299",
+      "original": "Hide Supporters",
+      "translation": "Скрыть сторонников"
+    },
+    "pack02:20447300": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447300",
+      "original": "Change Display",
+      "translation": "Смена отображения"
+    },
+    "pack02:20447313": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447313",
+      "original": "Combination Arts!",
+      "translation": "Комбинированные искусства!"
+    },
+    "pack02:20447314": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447314",
+      "original": "Combination Arts!",
+      "translation": "Комбинированные искусства!"
+    },
+    "pack02:20447315": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447315",
+      "original": "Combination Arts!",
+      "translation": "Комбинированные искусства!"
+    },
+    "pack02:20447316": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447316",
+      "original": "Combination Arts!",
+      "translation": "Комбинированные искусства!"
+    },
+    "pack02:20447317": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447317",
+      "original": "Combination Arts!",
+      "translation": "Комбинированные искусства!"
+    },
+    "pack02:20447318": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447318",
+      "original": "Combination Arts!",
+      "translation": "Комбинированные искусства!"
+    },
+    "pack02:20447319": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447319",
+      "original": "Combination Arts!",
+      "translation": "Комбинированные искусства!"
+    },
+    "pack02:20447320": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447320",
+      "original": "Combination Arts!",
+      "translation": "Комбинированные искусства!"
+    },
+    "pack02:20447328": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447328",
+      "original": "SPEED UP(×1.0)",
+      "translation": "УВЕЛИЧЕНИЕ СКОРОСТИ (×1,0)"
+    },
+    "pack02:20447329": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447329",
+      "original": "SPEED UP(×1.5)",
+      "translation": "УВЕЛИЧЕНИЕ СКОРОСТИ (×1,5)"
+    },
+    "pack02:20447330": {
+      "source": "pack02_text_en",
+      "file": "str_btl_define.xml",
+      "string_no": "20447330",
+      "original": "SPEED UP(×2.0)",
+      "translation": "УВЕЛИЧЕНИЕ СКОРОСТИ (×2,0)"
+    }
+  }
+}

@@ -1,0 +1,1492 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_npc_s01_mess.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:33423361": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423361",
+      "original": "Oh, I’ve got a great idea! Hehe, this’ll work for sure!",
+      "translation": "О, у меня отличная идея! Хехе, это точно сработает!"
+    },
+    "pack02:33423362": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423362",
+      "original": "Hey, you two. I found some fantastic paintbrushes on sale... Do you mind if I buy some?",
+      "translation": "Эй, вы двое. Я нашёл потрясающие кисти по скидке... Не возражаете, если я их куплю?"
+    },
+    "pack02:33423363": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423363",
+      "original": "Atelier rankings...? Hm? Oh, don’t look at me. It’s got nothing to do with me...",
+      "translation": "Ранги ателье...? Хм? О, не смотрите на меня. Это меня не касается..."
+    },
+    "pack02:33423364": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423364",
+      "original": "I don’t see why you have to go. Leave it to someone else.",
+      "translation": "Не понимаю, зачем вам идти. Оставьте это кому-нибудь другому."
+    },
+    "pack02:33423365": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423365",
+      "original": "Wait for us, Honnete... I’m coming, together with Lydie and Sue. The three of us are on our way!",
+      "translation": "Подожди нас, Оннет... Я иду вместе с Лидией и Сью. Мы уже в пути — втроём!"
+    },
+    "pack02:33423366": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423366",
+      "original": "Hahahaha! Our goal is to become the finest atelier in the land! We can do it if we all work together!",
+      "translation": "Хахахаха! Наша цель — стать лучшим ателье в стране! Мы справимся, если все будем работать вместе!"
+    },
+    "pack02:33423367": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423367",
+      "original": "Everyone fights sometimes, but don’t let it fester...",
+      "translation": "Все иногда ссорятся, но не давайте обидам копиться..."
+    },
+    "pack02:33423368": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423368",
+      "original": "Oh, good! Now Honnete will talk to me! Come on, we’re off to see her!",
+      "translation": "О, отлично! Теперь Оннет со мной заговорит! Ну же, идём к ней!"
+    },
+    "pack02:33423369": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423369",
+      "original": "...I’m sorry I can’t go with you. But I know you’ll be fine!",
+      "translation": "...Простите, что не могу пойти с вами. Но я знаю — у вас всё получится!"
+    },
+    "pack02:33423370": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423370",
+      "original": "Just a step to go, before we’re the finest in the land! The promise I made to Honnete... It’s time to honor it!",
+      "translation": "Остался всего шаг — и мы станем лучшими в стране! Обещание, данное Оннет... Пора его сдержать!"
+    },
+    "pack02:33423371": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423371",
+      "original": "You two... You really are amazing! You’re the most talented, adorable, precious daughters anyone could have!",
+      "translation": "Вы двое... Вы правда потрясающие! Самые талантливые, милые и дорогие дочери на свете!"
+    },
+    "pack02:33423372": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423372",
+      "original": "Hehe. Are the paints ready?",
+      "translation": "Хехе. Краски готовы?"
+    },
+    "pack02:33423373": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423373",
+      "original": "Leave the restoration to me. You two concentrate on making the paints.",
+      "translation": "Восстановление оставьте мне. А вы двое сосредоточьтесь на изготовлении красок."
+    },
+    "pack02:33423374": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423374",
+      "original": "Haha, bring me the materials I need! Then I’ll do what I need to, to transform our storage containers!",
+      "translation": "Ха-ха, принесите мне нужные материалы! Тогда я сделаю всё, чтобы преобразить наши контейнеры на складе!"
+    },
+    "pack02:33423375": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423375",
+      "original": "You do want a tree that grows Coll, right? Hm? Then you know what it is you have to do.",
+      "translation": "Вам же нужно дерево, на котором растёт Колл, верно? Хм? Тогда вы знаете, что нужно делать."
+    },
+    "pack02:33423376": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423376",
+      "original": "I’ve come up with an idea for a tool to weaken enemy monsters - it should help you both out. Don’t turn your back on your father’s love!",
+      "translation": "Я придумал инструмент, чтобы ослаблять вражеских монстров — он поможет вам обеим. Не отвергайте любовь отца!"
+    },
+    "pack02:33423377": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423377",
+      "original": "Corneria’s always helping you out, right? Then why not repay that debt with a medicine to help her grow taller?",
+      "translation": "Корнерия ведь всегда вам помогает, да? Тогда почему бы не отплатить ей лекарством, чтобы она выросла повыше?"
+    },
+    "pack02:33423378": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423378",
+      "original": "I’m counting on you both for the materials I need for my super-mega-hyper-powered invincible destructive bomb! Hahahahahaha!",
+      "translation": "Рассчитываю на вас обеих с материалами для моей супер-мега-гипер-мощной непобедимой разрушительной бомбы! Хахахахаха!"
+    },
+    "pack02:33423379": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423379",
+      "original": "He just came in and took over my atelier... Oh, I feel so pathetic for losing so easily...",
+      "translation": "Он просто вошёл и захватил моё ателье... Ох, как жалко проиграть так легко..."
+    },
+    "pack02:33423380": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423380",
+      "original": "Let’s see - first I have to buy groceries, then do the cleaning... Ah, I’m so busy. I feel like I’m being overworked.",
+      "translation": "Так, сначала надо купить продукты, потом убраться... Ах, какая занятость. Чувствую, что меня перегружают работой."
+    },
+    "pack02:33423381": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423381",
+      "original": "Okay - another day, another trial!",
+      "translation": "Ладно — новый день, новое испытание!"
+    },
+    "pack02:33423382": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423382",
+      "original": "There’s no point worrying about Dad. I should just focus on my alchemy.",
+      "translation": "Бесполезно беспокоиться о папе. Мне стоит просто сосредоточиться на алхимии."
+    },
+    "pack02:33423383": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423383",
+      "original": "*Yawn*... I’m tired, but I just need to do a little more... I have to go deliver what we’ve made.",
+      "translation": "*Зевает*... Я устала, но нужно ещё немного... Надо отнести то, что мы сделали."
+    },
+    "pack02:33423384": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423384",
+      "original": "Hmm, if only we had a little more money, we wouldn’t have to worry so much.",
+      "translation": "Хм, если бы у нас было чуть больше денег, можно было бы не так сильно переживать."
+    },
+    "pack02:33423385": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423385",
+      "original": "I won’t encourage you to go down to the basement, but I won’t stop you either.",
+      "translation": "Я не буду вас поощрять спускаться в подвал, но и останавливать не стану."
+    },
+    "pack02:33423386": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423386",
+      "original": "Sue! Let’s do some synthesis with the materials we found in the painting!",
+      "translation": "Сью! Давай проведём синтез с материалами, что нашли в картине!"
+    },
+    "pack02:33423387": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423387",
+      "original": "Dad really is hopeless... We have no choice. Let’s go find some work.",
+      "translation": "Папа и правда безнадёжен... Выбора нет. Пойдём поищем работу."
+    },
+    "pack02:33423388": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423388",
+      "original": "The Atelier Ranking System might be our chance to become the finest atelier in the land! Let’s go register at the castle, Sue!",
+      "translation": "Система рангов ателье может стать нашим шансом стать лучшим ателье в стране! Пойдём зарегистрируемся в замке, Сью!"
+    },
+    "pack02:33423389": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423389",
+      "original": "“Dream Paintbrushes”... That sounds really difficult...",
+      "translation": "«Кисти снов»... Звучит очень сложно..."
+    },
+    "pack02:33423390": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423390",
+      "original": "I-I’m not really confident, but maybe we should go and show Mireille our “Dream Paintbrushes”...",
+      "translation": "Я-я не очень уверена, но, может, стоит показать Мирей наши «Кисти снов»..."
+    },
+    "pack02:33423391": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423391",
+      "original": "Let’s go to Ilmeria’s atelier! We have to let her know how determined we are!",
+      "translation": "Пойдём в ателье Ильмерии! Надо показать ей, как мы настроены решительно!"
+    },
+    "pack02:33423392": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423392",
+      "original": "Hmm, we have to come up with some recipes...? Do we just wait for a moment of inspiration?",
+      "translation": "Хм, нам нужно придумать рецепты...? Просто ждать озарения?"
+    },
+    "pack02:33423393": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423393",
+      "original": "Hehe, we have quite a few new recipes now! Ilmeria is sure to be impressed!",
+      "translation": "Хехе, у нас уже довольно много новых рецептов! Ильмерия точно будет впечатлена!"
+    },
+    "pack02:33423394": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423394",
+      "original": "“Dream Paintbrushes” this time... But... hehe. Now I know we have what it takes!",
+      "translation": "На этот раз — «Кисти снов»... Но... хехе. Теперь я знаю, что у нас всё получится!"
+    },
+    "pack02:33423395": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423395",
+      "original": "I think we’ve managed to make the “Dream Paintbrushes”! Come on, Sue! Let’s go show Ilmeria!",
+      "translation": "Кажется, нам удалось сделать «Кисти снов»! Ну же, Сью! Пойдём покажем Ильмерии!"
+    },
+    "pack02:33423396": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423396",
+      "original": "With our teacher with us, we can’t fail! This time, we’ll pass the test for sure!",
+      "translation": "С нашей учительницей мы не проиграем! В этот раз мы точно сдадим экзамен!"
+    },
+    "pack02:33423397": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423397",
+      "original": "Raising our rank... How are we supposed to do that?",
+      "translation": "Повысить наш ранг... Как нам это сделать?"
+    },
+    "pack02:33423398": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423398",
+      "original": "Come on, let’s go fight some monsters! But remember to prepare properly!",
+      "translation": "Ну же, пойдём сразимся с монстрами! Только не забудьте как следует подготовиться!"
+    },
+    "pack02:33423399": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423399",
+      "original": "If Ilmeria hadn’t helped us... Ooh... I guess we’d better go and report to Mireille...",
+      "translation": "Если бы не Ильмерия... Ух... Наверное, лучше пойти и доложить Мирей..."
+    },
+    "pack02:33423400": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423400",
+      "original": "The Ambitions Journal... Haha, it’s exactly the kind of naming I’d expect from you, Sue!",
+      "translation": "Журнал амбиций... Ха-ха, именно такое название я от тебя и ожидала, Сью!"
+    },
+    "pack02:33423401": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423401",
+      "original": "The reputation of our atelier is rising. Hehe, and we’re getting a lot more little gifts from people in the streets!",
+      "translation": "Репутация нашего ателье растёт. Хехе, и на улицах нам всё чаще дарят маленькие подарки!"
+    },
+    "pack02:33423402": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423402",
+      "original": "Collecting eggs...? My favorites are fried eggs and omelet.",
+      "translation": "Собирать яйца...? Больше всего люблю яичницу и омлет."
+    },
+    "pack02:33423403": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423403",
+      "original": "Mathias is handsome, but I don’t like playboys...",
+      "translation": "Матиас красив, но плейбоев я не люблю..."
+    },
+    "pack02:33423404": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423404",
+      "original": "“The Spooky Forest” sounds nothing like the world of the painting in the basement...! I’m so excited!",
+      "translation": "«Жуткий лес» совсем не похож на мир картины в подвале...! Как же я взволнована!"
+    },
+    "pack02:33423405": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423405",
+      "original": "I can’t believe we’ve been cursed... If we don’t remove the curse soon, we may be haunted for the rest of our lives.",
+      "translation": "Не верится, что нас прокляли... Если скоро не снимем проклятие, можем быть преследуемы всю жизнь."
+    },
+    "pack02:33423406": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423406",
+      "original": "Let’s go to the castle and find out what the next test involves... Let’s see. No bed hair today... We have to look the part.",
+      "translation": "Пойдём в замок и узнаем, в чём будет следующий экзамен... Так. Сегодня без растрёпанных волос... Надо выглядеть достойно."
+    },
+    "pack02:33423407": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423407",
+      "original": "Ah-choo! No, I’m fine. Just a little chilly.",
+      "translation": "Апчхи! Нет, я в порядке. Просто немного прохладно."
+    },
+    "pack02:33423408": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423408",
+      "original": "Next up will be the F Rank. I wonder what the test will involve.",
+      "translation": "Дальше будет ранг F. Интересно, в чём будет экзамен."
+    },
+    "pack02:33423409": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423409",
+      "original": "Getting rid of monsters... I don’t like fighting, but for the people of the city, I have to do what I can!",
+      "translation": "Избавиться от монстров... Я не люблю сражаться, но ради жителей города сделаю всё, что смогу!"
+    },
+    "pack02:33423410": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423410",
+      "original": "To be able to defeat such huge monsters all by herself... Just who is Firis?",
+      "translation": "Справиться с такими огромными монстрами в одиночку... Кто же такая Фирис?"
+    },
+    "pack02:33423411": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423411",
+      "original": "Her atelier’s a tent...! Alchemy is capable of anything, it seems...!",
+      "translation": "Её ателье — палатка...! Похоже, алхимия способна на всё...!"
+    },
+    "pack02:33423412": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423412",
+      "original": "Hmm, how come there are so many monsters about? You don’t suppose they’re fleeing from something even more frightening...?",
+      "translation": "Хм, откуда столько монстров? Неужели они бегут от чего-то ещё более страшного...?"
+    },
+    "pack02:33423413": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423413",
+      "original": "Hehe, we’ve been promoted to the F Rank! I wonder what the next Mysterious Painting will be!",
+      "translation": "Хехе, нас повысили до ранга F! Интересно, какой будет следующая таинственная картина!"
+    },
+    "pack02:33423414": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423414",
+      "original": "Some Mysterious Paintings need Restoration. They may be &quot;mysterious,&quot; but they’re still paintings, after all.",
+      "translation": "Некоторые таинственные картины требуют восстановления. Они, может, и &quot;таинственные,&quot; но ведь всё равно картины."
+    },
+    "pack02:33423415": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423415",
+      "original": "Our teacher looked really busy... I don’t know whether to be jealous or relieved.",
+      "translation": "Наша учительница выглядела очень занятой... Не знаю, радоваться мне или вздохнуть с облегчением."
+    },
+    "pack02:33423416": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423416",
+      "original": "We’ve prepared the tools we need for the Restoration. I’m excited to see what the process involves...!",
+      "translation": "Мы подготовили инструменты, нужные для восстановления. С нетерпением жду, как это будет происходить...!"
+    },
+    "pack02:33423417": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423417",
+      "original": "What’s going to happen to the paintings once they’re restored? Come on, Sue! Let’s do this, quick!",
+      "translation": "Что будет с картинами после восстановления? Ну же, Сью! Давай сделаем это — быстрее!"
+    },
+    "pack02:33423418": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423418",
+      "original": "“The Luminous Ice Grotto” is pretty, but it’s kind of cold... Maybe I should take a hot water bottle.",
+      "translation": "«Светящийся ледяной грот» красив, но как-то холодно... Может, взять грелку."
+    },
+    "pack02:33423419": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423419",
+      "original": "It’s all our fault that Lucia’s been frozen! We have to melt the ice somehow...!",
+      "translation": "Это из-за нас Люсия замёрзла! Надо как-то растопить лёд...!"
+    },
+    "pack02:33423420": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423420",
+      "original": "Let’s continue our investigation of “The Luminous Ice Grotto”! ...But we need to take care not to catch cold.",
+      "translation": "Продолжим исследование «Светящегося ледяного грота»! ...Но нужно беречься, чтобы не простудиться."
+    },
+    "pack02:33423421": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423421",
+      "original": "Sue, do you mind if I shoot...? Actually, never mind. I’d probably fall over if I tried.",
+      "translation": "Сью, не возражаешь, если я выстрелю...? Впрочем, ладно. Я бы, наверное, упала, если бы попыталась."
+    },
+    "pack02:33423422": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423422",
+      "original": "Rank E is swanky... Ah! I didn’t mean to make that rhyme - I swear!",
+      "translation": "Ранг E — это шик... А! Я не хотела рифмовать — честное слово!"
+    },
+    "pack02:33423423": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423423",
+      "original": "A device to measure lightning power...? Hmm, lightning...",
+      "translation": "Устройство для измерения силы молнии...? Хм, молния..."
+    },
+    "pack02:33423424": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423424",
+      "original": "What was with that person...? And what did those words mean...?",
+      "translation": "Что это был за человек...? И что означали те слова...?"
+    },
+    "pack02:33423425": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423425",
+      "original": "Someone who’s brought in a Mysterious Painting... I wonder where they found it.",
+      "translation": "Кто-то принёс таинственную картину... Интересно, где он её нашёл."
+    },
+    "pack02:33423426": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423426",
+      "original": "I can’t believe we managed to get the painting so easily... We won’t get a bill in the mail, or anything...?",
+      "translation": "Не верится, что нам так легко досталась картина... Нам же не пришлют счёт по почте или что-то вроде того...?"
+    },
+    "pack02:33423427": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423427",
+      "original": "Alt’s waiting for us, so let’s get to work Restoring the painting we were given.",
+      "translation": "Альт нас ждёт, так что давайте займёмся восстановлением картины, которую нам дали."
+    },
+    "pack02:33423428": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423428",
+      "original": "“The Great Cascades of Anfel” is so hot... One painting’s cold, the next hot... It’s so extreme.",
+      "translation": "В «Великих каскадах Анфела» так жарко... Одна картина холодная, следующая — жаркая... Какая крайность."
+    },
+    "pack02:33423429": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423429",
+      "original": "For Fuoco as well, we have to go further into “The Great Cascades of Anfel.” When we do, everything may become clear!",
+      "translation": "Ради Фуоко тоже нам нужно пройти дальше в «Великие каскады Анфела». Когда сделаем это, всё может проясниться!"
+    },
+    "pack02:33423430": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423430",
+      "original": "We have to think of some way to deal with the Fire Dragon. I don’t think we can beat it in a straight fight.",
+      "translation": "Надо придумать, как справиться с Огненным драконом. В лоб, кажется, мы его не одолеем."
+    },
+    "pack02:33423431": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423431",
+      "original": "Oh, what a terrible thunderstorm... Hm? Thunderstorm...? Thunder...? No, I’m overthinking it...",
+      "translation": "Ох, какая ужасная гроза... Хм? Гроза...? Гром...? Нет, я слишком много думаю..."
+    },
+    "pack02:33423432": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423432",
+      "original": "The goal of alchemy...? Fame, fortune...? No. That’s not it...",
+      "translation": "Цель алхимии...? Слава, богатство...? Нет. Это не то..."
+    },
+    "pack02:33423433": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423433",
+      "original": "Recently we’ve been able to perform difficult syntheses that we couldn’t in the past. Hehe, I guess that means we’re getting better!",
+      "translation": "В последнее время мы можем проводить сложный синтез, который раньше не получался. Хехе, значит, мы становимся лучше!"
+    },
+    "pack02:33423434": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423434",
+      "original": "If we pass the next test, we’ll reach the D Rank! I guess this might make us one of the top ateliers around!",
+      "translation": "Если сдадим следующий экзамен, достигнем ранга D! Наверное, это сделает нас одним из лучших ателье в округе!"
+    },
+    "pack02:33423435": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423435",
+      "original": "I hate to see flowers wilting like that, so let’s give them as many nutrients as we can, Sue!",
+      "translation": "Не люблю видеть, как вянут цветы, так что давай дадим им как можно больше питательных веществ, Сью!"
+    },
+    "pack02:33423436": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423436",
+      "original": "Falgior...! No matter how strong he may be, I know we can stop him!",
+      "translation": "Фальгиор...! Каким бы сильным он ни был, я знаю — мы сможем его остановить!"
+    },
+    "pack02:33423437": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423437",
+      "original": "The key to defeating Falgior... Please let us find something in the next painting!",
+      "translation": "Ключ к победе над Фальгиором... Пожалуйста, пусть мы найдём что-нибудь в следующей картине!"
+    },
+    "pack02:33423438": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423438",
+      "original": "I hope Sophie and the others are okay...",
+      "translation": "Надеюсь, с Софи и остальными всё в порядке..."
+    },
+    "pack02:33423439": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423439",
+      "original": "With the “Rainbow Palette,” we should even be able to overcome Falgior...!",
+      "translation": "С «Радужной палитрой» мы сможем одолеть даже Фальгиора...!"
+    },
+    "pack02:33423440": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423440",
+      "original": "Sue! This time... We have to beat Falgior!",
+      "translation": "Сью! На этот раз... Мы должны победить Фальгиора!"
+    },
+    "pack02:33423441": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423441",
+      "original": "Dad, please...! You have to stop wasting our money!",
+      "translation": "Папа, прошу...! Хватит тратить наши деньги!"
+    },
+    "pack02:33423442": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423442",
+      "original": "She’s come to us for help. We have to do what Sophie has asked us to!",
+      "translation": "Она пришла к нам за помощью. Мы должны сделать то, о чём просила Софи!"
+    },
+    "pack02:33423443": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423443",
+      "original": "Vacation, vacation! What a treat to be able to go on holiday in a painting.",
+      "translation": "Отпуск, отпуск! Какое счастье — отдыхать в картине."
+    },
+    "pack02:33423444": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423444",
+      "original": "Don’t give up, Sue! Let’s make some Air Drops and make the most of our vacation!",
+      "translation": "Не сдавайся, Сью! Давай сделаем капли воздуха и получим от отпуска всё, что можно!"
+    },
+    "pack02:33423445": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423445",
+      "original": "It was so wonderful under the sea...! Hehe, this is going to be a lovely vacation.",
+      "translation": "Под водой было так чудесно...! Хехе, отпуск будет замечательным."
+    },
+    "pack02:33423446": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423446",
+      "original": "I am Captain Lydie! All who resist will be... sent to bed without supper! Gwahahaha!",
+      "translation": "Я — капитан Лидия! Всех, кто сопротивляется... отправлю спать без ужина! Гвахахаха!"
+    },
+    "pack02:33423447": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423447",
+      "original": "I wonder where Dad’s gone... I hope he’s not hungry...",
+      "translation": "Интересно, куда делся папа... Надеюсь, он не голоден..."
+    },
+    "pack02:33423448": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423448",
+      "original": "...Huh? Oh, yeah. Next up is rank C, yes!",
+      "translation": "...А? А, да. Дальше ранг C, верно!"
+    },
+    "pack02:33423449": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423449",
+      "original": "Black monsters... We often see them in the paintings. What are they? ...Some kind of Puni?",
+      "translation": "Чёрные монстры... Мы часто видим их в картинах. Что это? ...Какой-то Пуни?"
+    },
+    "pack02:33423450": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423450",
+      "original": "We’ve made it to rank C. Hehe, I wonder what world awaits us in the next painting...!",
+      "translation": "Мы дошли до ранга C. Хехе, интересно, какой мир ждёт нас в следующей картине...!"
+    },
+    "pack02:33423451": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423451",
+      "original": "A painting which exposes the past... I just hope there are no scenes of me binge-eating or doing anything embarrassing...",
+      "translation": "Картина, которая показывает прошлое... Только бы там не было сцен, где я объедаюсь или делаю что-то нелепое..."
+    },
+    "pack02:33423452": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423452",
+      "original": "I can’t believe the past could appear so clearly...! The Mysterious Paintings really are amazing!",
+      "translation": "Не верится, что прошлое может быть таким отчётливым...! Таинственные картины и правда удивительны!"
+    },
+    "pack02:33423453": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423453",
+      "original": "Our parents’ past... We have to find out the truth!",
+      "translation": "Прошлое наших родителей... Мы должны узнать правду!"
+    },
+    "pack02:33423454": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423454",
+      "original": "Dad, what are you doing...?! How come you never came home before now...?",
+      "translation": "Папа, что ты делаешь...?! Почему ты раньше не приходил домой...?"
+    },
+    "pack02:33423455": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423455",
+      "original": "We can’t afford to be beaten by Dad. Let’s give this all we have, Sue.",
+      "translation": "Мы не можем проиграть папе. Давай выложимся по полной, Сью."
+    },
+    "pack02:33423456": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423456",
+      "original": "Let’s go visit Mom’s grave. We have to hear Dad’s story.",
+      "translation": "Пойдём к могиле мамы. Нам нужно услышать историю папы."
+    },
+    "pack02:33423457": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423457",
+      "original": "Let’s go wait for Dad in the basement. Mom must be inside that painting...!",
+      "translation": "Пойдём подождём папу в подвале. Мама наверняка внутри той картины...!"
+    },
+    "pack02:33423458": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423458",
+      "original": "Let’s get Dad the best paint we can make! Hehe, this is a family project, I guess!",
+      "translation": "Давай сделаем для папы лучшую краску, какую только можем! Хехе, вроде как семейный проект!"
+    },
+    "pack02:33423459": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423459",
+      "original": "Looks like the painting has been restored. Hehe, Dad looked so happy.",
+      "translation": "Похоже, картину восстановили. Хехе, папа выглядел таким счастливым."
+    },
+    "pack02:33423460": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423460",
+      "original": "Mom...! Just a little longer!",
+      "translation": "Мама...! Ещё чуть-чуть!"
+    },
+    "pack02:33423461": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423461",
+      "original": "Now that Dad’s got his focus back, It’s time for the Malen family to work together again!",
+      "translation": "Теперь, когда папа снова собрался с мыслями, пора семье Мален снова работать вместе!"
+    },
+    "pack02:33423462": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423462",
+      "original": "Rank A... Finally, rank A... Ooh, I think I’m a little nervous...",
+      "translation": "Ранг A... Наконец-то ранг A... Ох, кажется, я немного нервничаю..."
+    },
+    "pack02:33423463": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423463",
+      "original": "Letters of recommendation... We have to think carefully about who to get them from...",
+      "translation": "Рекомендательные письма... Надо хорошенько подумать, у кого их попросить..."
+    },
+    "pack02:33423464": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423464",
+      "original": "Only one away from the ultimate S Rank... *Gulp* But before that, let’s enjoy this new Mysterious Painting!",
+      "translation": "Остался всего один шаг до высшего ранга S... *Сглатывает* Но перед этим давай насладимся новой таинственной картиной!"
+    },
+    "pack02:33423465": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423465",
+      "original": "The final Mysterious Painting... What a shame... But I’m going to make sure we enjoy this last investigation fully!",
+      "translation": "Последняя таинственная картина... Как жаль... Но я сделаю всё, чтобы мы в полной мере насладились этим последним исследованием!"
+    },
+    "pack02:33423466": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423466",
+      "original": "...Hmph.",
+      "translation": "...Хмф."
+    },
+    "pack02:33423467": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423467",
+      "original": "I’m sorry, Sue. It’s just not the same unless you and I are together! Let’s make sure we stay that way!",
+      "translation": "Прости, Сью. Без тебя всё не то! Давай сделаем так, чтобы мы всегда были вместе!"
+    },
+    "pack02:33423468": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423468",
+      "original": "Let’s go tell Mom that we’ve made up! Let’s hold hands as we go!",
+      "translation": "Пойдём скажем маме, что мы помирились! Давай пойдём, взявшись за руки!"
+    },
+    "pack02:33423469": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423469",
+      "original": "Dad...! Be safe!",
+      "translation": "Папа...! Береги себя!"
+    },
+    "pack02:33423470": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423470",
+      "original": "Black monsters from the basement... What’s in the other basement...?",
+      "translation": "Чёрные монстры из подвала... Что же в другом подвале...?"
+    },
+    "pack02:33423471": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423471",
+      "original": "I’m sure Neige knows something about that painting. Let’s hurry, Sue!",
+      "translation": "Уверена, Нейдж что-то знает об этой картине. Поторопимся, Сью!"
+    },
+    "pack02:33423472": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423472",
+      "original": "Remplir...! So that’s what’s hurting Mom... I just know there’s a way to stop it, somewhere...!",
+      "translation": "Ремплир...! Значит, он причиняет боль маме... Я просто знаю — где-то есть способ его остановить...!"
+    },
+    "pack02:33423473": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423473",
+      "original": "It’s okay - I know everyone’s with us. Let’s go, Sue! It’s time to rescue Mom!",
+      "translation": "Всё в порядке — я знаю, все с нами. Пойдём, Сью! Пора спасать маму!"
+    },
+    "pack02:33423474": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423474",
+      "original": "We’ve come so far, and there’s only a little to go. Let’s give it our all to become the finest atelier in the land!",
+      "translation": "Мы прошли такой долгий путь, осталось совсем немного. Выложимся по полной, чтобы стать лучшим ателье в стране!"
+    },
+    "pack02:33423475": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423475",
+      "original": "*Gulp* The final test...! I bet it’s really difficult... But I know we can overcome it.",
+      "translation": "*Сглатывает* Финальный экзамен...! Наверняка он очень сложный... Но я знаю — мы справимся."
+    },
+    "pack02:33423476": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423476",
+      "original": "Everything we’ve experienced, everything we’ve felt... We need to somehow express all of that in the finest item we can make, and give it to Mireille!",
+      "translation": "Всё, что мы пережили, всё, что чувствовали... Нужно как-то выразить это в лучшем предмете, какой мы можем сделать, и отдать Мирей!"
+    },
+    "pack02:33423477": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423477",
+      "original": "Hmm, not bad at all! I’m looking as adorable as ever!",
+      "translation": "Хм, совсем неплохо! Я выгляжу очаровательной, как всегда!"
+    },
+    "pack02:33423478": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423478",
+      "original": "Curse that foolish father of ours... He’ll pay when he gets back!",
+      "translation": "Будь проклят наш глупый отец... Он поплатится, когда вернется!"
+    },
+    "pack02:33423479": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423479",
+      "original": "I’m so sleepy... But we have to deliver the goods, or we won’t get paid...",
+      "translation": "Так хочется спать... Но надо доставить товар, иначе нам не заплатят..."
+    },
+    "pack02:33423480": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423480",
+      "original": "Let’s go take a look at the notice board and see if there are any jobs. I refuse to have any more uni soup!",
+      "translation": "Пойдём глянем доску объявлений — вдруг есть работа. Я больше не хочу есть одну только лапшу быстрого приготовления!"
+    },
+    "pack02:33423481": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423481",
+      "original": "Hehe, I’m off to the basement, Lydie! We’ll find out what that silly old man’s up to!",
+      "translation": "Хехе, я в подвал, Лиди! Узнаем, чем занят этот старый дурачок!"
+    },
+    "pack02:33423482": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423482",
+      "original": "If we use the materials we found in the painting, we might be able to make something incredible! Come on, Lydie! Let’s give it a try!",
+      "translation": "Если использовать материалы, что нашли в картине, может получиться что-то невероятное! Ну же, Лиди! Давай попробуем!"
+    },
+    "pack02:33423483": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423483",
+      "original": "Oh, why does Dad have to be so stupid?! *Sigh*... I hope there’s some work somewhere...",
+      "translation": "Ох, почему папа такой тупой?! *Вздыхает*... Надеюсь, где-нибудь найдётся работа..."
+    },
+    "pack02:33423484": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423484",
+      "original": "The Atelier Ranking System is the key to fulfilling our dream! Let’s go register! Come on, quick!",
+      "translation": "Система рангов ателье — ключ к исполнению нашей мечты! Пойдём регистрироваться! Ну же, быстрее!"
+    },
+    "pack02:33423485": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423485",
+      "original": "Synthesize “Dream Paintbrushes”... This’ll be easy for us!",
+      "translation": "Синтезировать «Кисти снов»... Для нас это проще простого!"
+    },
+    "pack02:33423486": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423486",
+      "original": "...Uh-oh, looks like we made “Nightmare Paintbrushes” instead. Never mind. Let’s go show them to Mireille anyway.",
+      "translation": "...Ой-ой, похоже, вместо них получились «Кисти кошмаров». Неважно. Всё равно пойдём покажем их Мирей."
+    },
+    "pack02:33423487": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423487",
+      "original": "Let’s go to Ilmeria’s atelier! We need to tell her how we feel, and convince her to be our official teacher!",
+      "translation": "Пойдём в ателье Ильмерии! Нужно рассказать ей, что мы чувствуем, и убедить стать нашей официальной учительницей!"
+    },
+    "pack02:33423488": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423488",
+      "original": "There’s so much to do to come up with recipes... What shall we start with? Taking on requests? Searching the area?",
+      "translation": "Столько всего нужно сделать, чтобы придумать рецепты... С чего начать? Взять заказы? Обыскать окрестности?"
+    },
+    "pack02:33423489": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423489",
+      "original": "I can’t believe we’ve come up with so many recipes. We might be geniuses, you know! Hehe, hehehe!",
+      "translation": "Не верится, что мы придумали столько рецептов. Мы, наверное, гении, знаешь! Хехе, хехехе!"
+    },
+    "pack02:33423490": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423490",
+      "original": "“Dream Paintbrushes”...! This time, we’ll get the job done right!",
+      "translation": "«Кисти снов»...! На этот раз мы сделаем всё как надо!"
+    },
+    "pack02:33423491": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423491",
+      "original": "Okay, it seems to have worked this time! I bet Ilmeria will be stunned by these “Dream Paintbrushes”!",
+      "translation": "Ладно, в этот раз, кажется, получилось! Ставлю, Ильмерия будет поражена этими «Кистями снов»!"
+    },
+    "pack02:33423492": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423492",
+      "original": "Just you wait, Mireille! With our teacher on our side, we’ll pass the test this time!",
+      "translation": "Только подожди, Мирей! С нашей учительницей на нашей стороне мы в этот раз точно сдадим экзамен!"
+    },
+    "pack02:33423493": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423493",
+      "original": "Hmm, how should be go about raising our rank...? Perhaps we should just ask Mireille.",
+      "translation": "Хм, как нам повысить ранг...? Может, просто спросить у Мирей."
+    },
+    "pack02:33423494": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423494",
+      "original": "All right, let’s knock off these monsters, and prove to Mireille just what we’re capable of!",
+      "translation": "Ладно, давай разберёмся с этими монстрами и докажем Мирей, на что мы способны!"
+    },
+    "pack02:33423495": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423495",
+      "original": "We might have got a little carried away there... If it weren’t for Ilmeria...",
+      "translation": "Мы, кажется, немного увлеклись... Если бы не Ильмерия..."
+    },
+    "pack02:33423496": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423496",
+      "original": "I’ve made it - the Ambitions Journal! With this to guide us, the atelier’s reputation will only keep rising!",
+      "translation": "Готово — Журнал амбиций! С ним в качестве ориентира репутация ателье будет только расти!"
+    },
+    "pack02:33423497": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423497",
+      "original": "Our atelier seems to be getting more famous all the time. I’ve been stopped in the streets and complimented by housewives!",
+      "translation": "Наше ателье, кажется, становится всё известнее. На улицах меня останавливают и хвалят домохозяйки!"
+    },
+    "pack02:33423498": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423498",
+      "original": "It would be disastrous if we ran out of eggs! Their cheap price is part of their appeal!",
+      "translation": "Будет катастрофа, если у нас закончатся яйца! Их низкая цена — часть их прелести!"
+    },
+    "pack02:33423499": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423499",
+      "original": "That weird Puni-mask is supposed to be our guide...? Well, he is Mireille’s brother, so I guess we have to trust him.",
+      "translation": "Этот странный Пуни в маске должен быть нашим проводником...? Ну, он же брат Мирей, так что, наверное, придётся ему доверять."
+    },
+    "pack02:33423500": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423500",
+      "original": "“The Spooky Forest”... I’m frightened already. I bet there are ghosts everywhere.",
+      "translation": "«Жуткий лес»... Мне уже страшно. Ставлю, там повсюду призраки."
+    },
+    "pack02:33423501": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423501",
+      "original": "It’s over... I can’t believe we were cursed... What did we do to deserve that...?",
+      "translation": "Всё кончено... Не верится, что нас прокляли... За что нам такое...?"
+    },
+    "pack02:33423502": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423502",
+      "original": "Let’s go to the castle and find out the details of the test! Come on - we don’t have all day!",
+      "translation": "Пойдём в замок и узнаем подробности экзамена! Ну же — у нас нет целого дня!"
+    },
+    "pack02:33423503": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423503",
+      "original": "Okay - my hair looks good! The secret to my beauty is a strict daily hair-care regimen!",
+      "translation": "Ладно — причёска в порядке! Секрет моей красоты — строгий ежедневный уход за волосами!"
+    },
+    "pack02:33423504": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423504",
+      "original": "Rank F... What number rank is F again...?",
+      "translation": "Ранг F... F — это какой по счёту ранг, опять...?"
+    },
+    "pack02:33423505": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423505",
+      "original": "Our task is to get rid of some monsters. We can’t afford any more humiliations like when we had to be rescued by our teacher...!",
+      "translation": "Наша задача — избавиться от монстров. Нам нельзя снова опозориться, как тогда, когда нас спасала учительница...!"
+    },
+    "pack02:33423506": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423506",
+      "original": "Firis is amazing! She’s an alchemist, yet she can defeat such powerful monsters!",
+      "translation": "Фирис потрясающая! Она алхимик, а может побеждать таких сильных монстров!"
+    },
+    "pack02:33423507": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423507",
+      "original": "Let’s go see Mireille, and get the next task. Keep it together, Lucia...",
+      "translation": "Пойдём к Мирей и получим следующее задание. Держись, Люсия..."
+    },
+    "pack02:33423508": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423508",
+      "original": "More monsters... There’s been far too many around recently. Maybe they all want to live in Merveille.",
+      "translation": "Снова монстры... В последнее время их слишком много. Может, все хотят жить в Мервейле."
+    },
+    "pack02:33423509": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423509",
+      "original": "We’ve made it to rank F! Hehe... And now, it’s the time we’ve been looking forward to - we get to investigate the Mysterious Paintings!",
+      "translation": "Мы дошли до ранга F! Хехе... И вот наконец то, чего мы ждали — можно исследовать таинственные картины!"
+    },
+    "pack02:33423510": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423510",
+      "original": "Hmm, restoration... I guess our teacher or someone took care of “The Spooky Forest” for us...",
+      "translation": "Хм, восстановление... Наверное, нашу учительницу или кто-то другой уже позаботился о «Жутком лесе» за нас..."
+    },
+    "pack02:33423511": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423511",
+      "original": "Our teacher looked so busy... This is our chance to lighten her load, and make the necessary tools for her!",
+      "translation": "Наша учительница выглядела такой занятой... Это наш шанс разгрузить её и сделать нужные инструменты!"
+    },
+    "pack02:33423512": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423512",
+      "original": "“Neige’s Paints” are complete! At first glance they don’t seem any different to ordinary paints, but maybe we’ll notice when we use them.",
+      "translation": "«Краски Нейдж» готовы! На первый взгляд они ничем не отличаются от обычных красок, но, может, заметим, когда начнём ими пользоваться."
+    },
+    "pack02:33423513": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423513",
+      "original": "Come on, Lydie! Let’s try some restoration in the gallery!",
+      "translation": "Ну же, Лиди! Давай попробуем восстановление в галерее!"
+    },
+    "pack02:33423514": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423514",
+      "original": "Ah-choo! Ah-choo! *Sniff*... I think I caught a cold in “The Luminous Ice Grotto”...",
+      "translation": "Апчхи! Апчхи! *Сопит*... Кажется, я простудилась в «Светящемся ледяном гроте»..."
+    },
+    "pack02:33423515": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423515",
+      "original": "Farewell, Lucia, and thanks for everything...! ...I’m kidding! We could never leave you behind.",
+      "translation": "Прощай, Люсия, и спасибо за всё...! ...Шучу! Мы бы никогда тебя не бросили."
+    },
+    "pack02:33423516": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423516",
+      "original": "Now, let’s get back to our investigation of “The Luminous Ice Grotto”! But first, where did Dad keep that stomach warmer...?",
+      "translation": "Теперь вернёмся к исследованию «Светящегося ледяного грота»! Но сначала — где папа держал ту грелку для живота...?"
+    },
+    "pack02:33423517": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423517",
+      "original": "I’ve always thought this, and been meaning to ask... Isn’t it hard to get those clothes on, Lydie?",
+      "translation": "Я давно об этом думала и хотела спросить... Тебе ведь трудно надевать эту одежду, Лиди?"
+    },
+    "pack02:33423518": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423518",
+      "original": "Next is rank E, right? They should make the rank names more intuitive. Like, the Blue Puni rank, or something.",
+      "translation": "Дальше ранг E, верно? Названия рангов стоило бы сделать понятнее. Например, ранг Синего Пуни или что-то вроде того."
+    },
+    "pack02:33423519": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423519",
+      "original": "A device to measure lightning power... It has to be strong enough to absorb a lightning strike, so we’d better make it well, or it’ll just break.",
+      "translation": "Устройство для измерения силы молнии... Оно должно быть достаточно прочным, чтобы выдержать удар молнии, так что лучше сделать его как следует — иначе просто сломается."
+    },
+    "pack02:33423520": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423520",
+      "original": "We came across some mysterious stranger, but we’ll ignore that. Come on, we need to go report to Mireille.",
+      "translation": "Мы встретили какого-то загадочного незнакомца, но проигнорируем это. Ну же, надо идти докладывать Мирей."
+    },
+    "pack02:33423521": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423521",
+      "original": "If we can find whoever has the Mysterious Painting, it’ll be time for your negotiating magic... Hehehe...",
+      "translation": "Если найдём того, у кого таинственная картина, придёт время твоей переговорной магии... Хехехе..."
+    },
+    "pack02:33423522": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423522",
+      "original": "I can’t believe we managed to get the painting with so little fuss. We should really count ourselves lucky.",
+      "translation": "Не верится, что нам так легко досталась картина. Нам и правда повезло."
+    },
+    "pack02:33423523": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423523",
+      "original": "Let’s restore “The Great Cascades of Anfel” as quickly as possible! Alt’ll complain if we don’t.",
+      "translation": "Давайте восстановим «Великие каскады Анфела» как можно быстрее! Альт будет жаловаться, если не сделаем."
+    },
+    "pack02:33423524": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423524",
+      "original": "Oh, I’ve had about all I can take of the heat of “The Great Cascades of Anfel”... Is there any way we could cool that place down?",
+      "translation": "Ох, я уже не выдерживаю жару «Великих каскадов Анфела»... Нельзя ли как-нибудь охладить то место?"
+    },
+    "pack02:33423525": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423525",
+      "original": "Fuoco’s so adorable! I just get a warm and fuzzy feeling every time I look at her.",
+      "translation": "Фуоко такая милая! Каждый раз, когда на неё смотрю, на душе становится тепло и уютно."
+    },
+    "pack02:33423526": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423526",
+      "original": "For Fuoco’s sake, we have to do something about the Fire Dragon. I really think the quickest way would be to defeat it in battle.",
+      "translation": "Ради Фуоко нам нужно что-то сделать с Огненным драконом. Думаю, быстрее всего — победить его в бою."
+    },
+    "pack02:33423527": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423527",
+      "original": "Wow, look at that rain! When it rains this hard, it actually makes me feel excited!",
+      "translation": "Ого, смотри, какой дождь! Когда льёт так сильно, меня это даже волнует!"
+    },
+    "pack02:33423528": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423528",
+      "original": "I’ve never thought about what the goal of alchemy might be. Um, for me... For me... It’s no good. I’m just getting confused.",
+      "translation": "Я никогда не думала о том, какова может быть цель алхимии. Эм, для меня... Для меня... Нет, я только путаюсь."
+    },
+    "pack02:33423529": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423529",
+      "original": "We can synthesize most items pretty simply by now. Hah, this is just how much we’ve grown!",
+      "translation": "Теперь мы можем синтезировать большинство предметов довольно просто. Ха, вот насколько мы выросли!"
+    },
+    "pack02:33423530": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423530",
+      "original": "The next rank up is D... right? And after that, it’s B! ...Hang on, did I leave something out?",
+      "translation": "Следующий ранг — D... верно? А после него — B! ...Погоди, я что-то пропустила?"
+    },
+    "pack02:33423531": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423531",
+      "original": "Merveille’s famous for its flowers! And they’re tied in to the memories of my mother... I won’t let them just wilt and die!",
+      "translation": "Мервейль славится своими цветами! И они связаны с воспоминаниями о моей матери... Я не позволю им просто завянуть!"
+    },
+    "pack02:33423532": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423532",
+      "original": "Hmph! We’ll crush Falgior like he’s nothing more than a Puni!",
+      "translation": "Хм! Мы раздавим Фальгиора, как будто он не больше чем Пуни!"
+    },
+    "pack02:33423533": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423533",
+      "original": "If we look inside the Mysterious Paintings, then I know we can find some clue as to how to defeat Falgior!",
+      "translation": "Если заглянуть внутрь таинственных картин, я уверена — мы найдём подсказку, как победить Фальгиора!"
+    },
+    "pack02:33423534": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423534",
+      "original": "...Let’s hurry, Lydie. We can’t keep Sophie and the others waiting.",
+      "translation": "...Поторопимся, Лиди. Нельзя заставлять Софи и остальных ждать."
+    },
+    "pack02:33423535": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423535",
+      "original": "The “Rainbow Palette”...! We should be grateful to Neige!",
+      "translation": "«Радужная палитра»...! Надо быть благодарными Нейдж!"
+    },
+    "pack02:33423536": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423536",
+      "original": "Let’s go, Lydie! It’s time... to slay Falgior!",
+      "translation": "Пойдём, Лиди! Пора... убить Фальгиора!"
+    },
+    "pack02:33423537": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423537",
+      "original": "The Atelier Ranking System, gone...? But what about our vision for the future?",
+      "translation": "Система рангов ателье исчезла...? А как же наше видение будущего?"
+    },
+    "pack02:33423538": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423538",
+      "original": "I can’t believe Sophie’s actually bringing us work... She’s just so generous.",
+      "translation": "Не верится, что Софи и правда приносит нам работу... Она такая щедрая."
+    },
+    "pack02:33423539": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423539",
+      "original": "Yay, vacation time! Well, we have been working pretty hard. It’s time to let our hair down!",
+      "translation": "Ура, отпуск! Мы ведь и правда много работали. Пора расслабиться!"
+    },
+    "pack02:33423540": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423540",
+      "original": "Woah... When we were thrown into the sea like that, I really thought we might drown...",
+      "translation": "Ого... Когда нас так бросили в море, я правда думала, что можем утонуть..."
+    },
+    "pack02:33423541": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423541",
+      "original": "The Air Drops worked beautifully. Now it’s time to get back to enjoying our holiday!",
+      "translation": "Капли воздуха сработали превосходно. Теперь снова пора наслаждаться отпуском!"
+    },
+    "pack02:33423542": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423542",
+      "original": "Here she is, the fabulous lady pirate, Suelle! Come, pay your respects! Hand over your treasure!",
+      "translation": "Вот она, великолепная пиратка Сюэль! Преклоните колени! Отдайте сокровища!"
+    },
+    "pack02:33423543": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423543",
+      "original": "Dad... This is the longest he’s ever been away. I’m starting to get a little worried...",
+      "translation": "Папа... Он никогда так долго не отсутствовал. Я начинаю немного волноваться..."
+    },
+    "pack02:33423544": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423544",
+      "original": "...Next is the C Rank. Don’t worry. I’m sure Dad will return while we’re taking the test.",
+      "translation": "...Дальше ранг C. Не волнуйся. Уверена, папа вернётся, пока мы сдаём экзамен."
+    },
+    "pack02:33423545": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423545",
+      "original": "Eliminating the black monsters... They may look cute at first glance, but those things are decidedly not-cute once you get to know them.",
+      "translation": "Уничтожить чёрных монстров... С виду они милые, но когда узнаешь их поближе — совсем не милые."
+    },
+    "pack02:33423546": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423546",
+      "original": "Okay, we’ve passed the exam... But Dad still hasn’t come home. I really am worried about what’s happened to him.",
+      "translation": "Ладно, мы сдали экзамен... Но папа всё ещё не вернулся. Я правда волнуюсь, что с ним случилось."
+    },
+    "pack02:33423547": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423547",
+      "original": "Visions of the past...! I just want to see something embarrassing about someone else. Hehehe...",
+      "translation": "Видения прошлого...! Хочу увидеть что-нибудь неловкое про кого-нибудь другого. Хехехе..."
+    },
+    "pack02:33423548": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423548",
+      "original": "Hey, how come the very first thing we see is my own humiliating past?! It’s not fair! It’s just not!",
+      "translation": "Эй, почему первое, что мы видим — моё собственное унизительное прошлое?! Несправедливо! Просто несправедливо!"
+    },
+    "pack02:33423549": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423549",
+      "original": "Mom and Dad’s past...! We have to find out what happened to them...!",
+      "translation": "Прошлое мамы и папы...! Мы должны узнать, что с ними случилось...!"
+    },
+    "pack02:33423550": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423550",
+      "original": "Taking over Lucia’s atelier...! Dad really is crazy! He’s totally crazy!",
+      "translation": "Захватить ателье Люсии...! Папа и правда безумен! Совершенно безумен!"
+    },
+    "pack02:33423551": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423551",
+      "original": "You understand, right, Lydie? ...We have to win.",
+      "translation": "Ты понимаешь, Лиди? ...Мы должны победить."
+    },
+    "pack02:33423552": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423552",
+      "original": "We have to go to Mom’s graveside, to hear all about Dad. I know now we’ll find out everything.",
+      "translation": "Нам нужно пойти к могиле мамы и услышать всё о папе. Теперь я знаю — мы узнаем всё."
+    },
+    "pack02:33423553": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423553",
+      "original": "Let’s wait in the basement for Dad to come back. I’m sure he needs to come to terms with things himself.",
+      "translation": "Давай подождём папу в подвале. Уверена, ему нужно самому во всём разобраться."
+    },
+    "pack02:33423554": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423554",
+      "original": "We’ve made the best paint we can make. Time to deliver it to Dad! And when we do, that painting will be...!",
+      "translation": "Мы сделали лучшую краску, какую только могли. Пора отнести её папе! И когда сделаем это, та картина будет...!"
+    },
+    "pack02:33423555": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423555",
+      "original": "The painting Dad restored... I wonder how pretty it looks now! Hehe, I’m so excited...!",
+      "translation": "Картина, которую восстановил папа... Интересно, какая она теперь красивая! Хехе, так взволнована...!"
+    },
+    "pack02:33423556": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423556",
+      "original": "Wait for us, Mom! We’re on our way...!",
+      "translation": "Подожди нас, мама! Мы уже в пути...!"
+    },
+    "pack02:33423557": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423557",
+      "original": "Okay, now that Dad’s with us... We’ll make this the finest atelier in the land, with the whole family together!",
+      "translation": "Ладно, теперь, когда папа с нами... Сделаем из этого лучшее ателье в стране — всей семьёй вместе!"
+    },
+    "pack02:33423558": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423558",
+      "original": "We’ve finally made it to the door of the A Rank... We’ve been through so many hardships, but now they’re all fond memories...",
+      "translation": "Мы наконец дошли до порога ранга A... Столько испытаний позади, но теперь все они — тёплые воспоминания..."
+    },
+    "pack02:33423559": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423559",
+      "original": "Letters of Recommendation... You just know Dad won’t write one for us without getting us to do something first...",
+      "translation": "Рекомендательные письма... Ты же знаешь — папа не напишет нам их, не заставив сначала что-нибудь сделать..."
+    },
+    "pack02:33423560": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423560",
+      "original": "We’ve done it! Promotion to rank A! “A” feels kind of cool - like it’s the very best! ...Even though it isn’t.",
+      "translation": "Мы сделали это! Повышение до ранга A! «A» звучит круто — как самое лучшее! ...Хотя это ещё не предел."
+    },
+    "pack02:33423561": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423561",
+      "original": "It’s a real shame this will be the last painting... But since it is, let’s explore it to its very deepest corners, Lydie!",
+      "translation": "Как жаль, что это будет последняя картина... Но раз уж так, давай исследуем её до самых глубин, Лиди!"
+    },
+    "pack02:33423562": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423562",
+      "original": "...Hmph!",
+      "translation": "...Хм!"
+    },
+    "pack02:33423563": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423563",
+      "original": "Lydie, I’m so sorry! Without you, I’m just not myself. Hehe...",
+      "translation": "Лиди, мне так жаль! Без тебя я — не я. Хехе..."
+    },
+    "pack02:33423564": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423564",
+      "original": "Hehe, you’re such a worrier, Mom. Come on, Lydie, let’s do this together! Let’s show them the strength of the bond between us!",
+      "translation": "Хехе, ты такая тревожница, мама. Ну же, Лиди, сделаем это вместе! Покажем им силу нашей связи!"
+    },
+    "pack02:33423565": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423565",
+      "original": "Mom...! We’re on our way!",
+      "translation": "Мама...! Мы уже в пути!"
+    },
+    "pack02:33423566": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423566",
+      "original": "Be careful, Lydie. We don’t know what’s waiting in the basement.",
+      "translation": "Будь осторожна, Лиди. Не знаем, что ждёт в подвале."
+    },
+    "pack02:33423567": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423567",
+      "original": "Please, Neige! Please know something about that painting! Or else our mother...!",
+      "translation": "Пожалуйста, Нейдж! Пожалуйста, знай что-нибудь об этой картине! Иначе наша мама...!"
+    },
+    "pack02:33423568": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423568",
+      "original": "To save Mom, we have to do something to that Remplir! We need to look everywhere to find out what we can do!",
+      "translation": "Чтобы спасти маму, нам нужно что-то сделать с этим Ремплиром! Надо обыскать всё, чтобы узнать, что мы можем!"
+    },
+    "pack02:33423569": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423569",
+      "original": "Come on, Lydie, let’s go! To save Mom... We need to go into the painting!",
+      "translation": "Ну же, Лиди, пойдём! Чтобы спасти маму... Нам нужно войти в картину!"
+    },
+    "pack02:33423570": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423570",
+      "original": "We’re just a step away from becoming the finest atelier in the land. One more step until we fulfill our promise to Mom, Lydie...!",
+      "translation": "Мы в шаге от того, чтобы стать лучшим ателье в стране. Ещё один шаг — и мы сдержим обещание маме, Лиди...!"
+    },
+    "pack02:33423571": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423571",
+      "original": "The final test... I don’t know what it will be... But whatever it is, I know we can handle it!",
+      "translation": "Финальный экзамен... Не знаю, что это будет... Но что бы ни случилось, я знаю — мы справимся!"
+    },
+    "pack02:33423572": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s01_mess.xml",
+      "string_no": "33423572",
+      "original": "It’s time to show what our alchemy is capable of. With gratitude in our hearts, let’s take Mireille the greatest item we’ve ever created!",
+      "translation": "Пора показать, на что способна наша алхимия. С благодарностью в сердцах отнесём Мирей лучший предмет, какой мы когда-либо создавали!"
+    }
+  }
+}

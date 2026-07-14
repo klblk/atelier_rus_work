@@ -1,0 +1,3400 @@
+{
+  "version": 1,
+  "source": "pack01_ebm",
+  "block": "qc10_gra",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "ebm:qc10_gra/event_message_qc10_gra_010.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_010.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Sister Grace, hello!",
+      "translation": "Сестра Грейс, здравствуйте!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_010.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_010.ebm",
+      "index": 1,
+      "speaker": "Grace",
+      "original": "Ah, welcome, welcome. You're here to pray, of course!",
+      "translation": "Ах, добро пожаловать, добро пожаловать. Конечно, вы здесь, чтобы молиться!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_010.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_010.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Hahaha! Of course not!",
+      "translation": "Ха-ха-ха! Конечно, нет!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_010.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_010.ebm",
+      "index": 3,
+      "speaker": "Grace",
+      "original": "Haah. No harm in trying. Even though our lord is saddened by your lack of faith, I'm sure.",
+      "translation": "Хаа. Нет ничего плохого в том, чтобы попытаться. Хотя наш господин опечален вашим недостатком веры, я уверен."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_010.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_010.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "T-Tell him we're sorry about that. I don't mind a bit of prayer, but Sue...",
+      "translation": "С-скажи ему, что мы сожалеем об этом. Я не против молитвы, но Сью..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_010.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_010.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Hey, don't blame me! You said praying was boring too, Lydie!",
+      "translation": "Эй, не вини меня! Ты сказала, что молиться тоже скучно, Лиди!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_010.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_010.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Uwah, don't say that! That's not true, Sister Grace!",
+      "translation": "Увау, не говори так! Это неправда, Сестра Грейс!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_010.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_010.ebm",
+      "index": 7,
+      "speaker": "Grace",
+      "original": "Hehe, it's all right. All children dislike prayer.",
+      "translation": "Хе-хе, все в порядке. Все дети не любят молитву."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_010.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_010.ebm",
+      "index": 8,
+      "speaker": "Grace",
+      "original": "If you aren't here to pray, are you here to play? What's it going to be today? Tag? Playing house?",
+      "translation": "Если вы здесь не для того, чтобы молиться, вы здесь для того, чтобы играть? Что будет сегодня? Ярлык? Играя в дом?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_010.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_010.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Sister Grace, please! We're not babies anymore...",
+      "translation": "Сестра Грейс, пожалуйста! Мы уже не дети..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_010.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_010.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "We're adults now. We've grown out of those childish games.",
+      "translation": "Мы теперь взрослые. Мы выросли из этих детских игр."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_010.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_010.ebm",
+      "index": 11,
+      "speaker": "Grace",
+      "original": "Ah, of course you have. I'm sorry. I've known you since you were small, so it's easy to forget.",
+      "translation": "Ах, конечно, да. Мне жаль. Я знаю тебя с тех пор, как ты был маленьким, так что тебя легко забыть."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_010.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_010.ebm",
+      "index": 12,
+      "speaker": "Grace",
+      "original": "Very well. If you are adults, then you are here to pray. Correct?",
+      "translation": "Очень хорошо. Если вы взрослые, то вы здесь, чтобы молиться. Правильный?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_010.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_010.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "What! No, well... Sue! You know what, I think we are still children after all!",
+      "translation": "Что! Нет, ну... Сью! Знаешь что, я думаю, что мы все-таки дети!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_010.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_010.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "Hahaha! You know what, I think you're right! Come on, Sister Grace! Let's have some fun!",
+      "translation": "Ха-ха-ха! Знаешь что, я думаю, ты прав! Давай, Сестра Грейс! Давайте повеселимся!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_010.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_010.ebm",
+      "index": 15,
+      "speaker": "Grace",
+      "original": "Honestly! Haha... I have a board game here that someone gave me, hold on.",
+      "translation": "Честно! Ха-ха... У меня есть настольная игра, которую мне кто-то подарил, подожди."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_010.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_010.ebm",
+      "index": 16,
+      "speaker": "Ines",
+      "original": "Head Sister, I'm sorry. We have an emergency missive here from the Head...",
+      "translation": "Старшая сестра, мне очень жаль. У нас есть экстренное сообщение от Главы..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_010.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_010.ebm",
+      "index": 17,
+      "speaker": "Grace",
+      "original": "Very well, I will be there at once. I'm sorry, Lydie, Sue.",
+      "translation": "Очень хорошо, я сейчас буду там. Мне очень жаль, Лиди, Сью."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_010.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_010.ebm",
+      "index": 18,
+      "speaker": "Grace",
+      "original": "It looks like I've got some work to do, so we'll have to play again next time. I'm very sorry.",
+      "translation": "Похоже, у меня есть работа, так что в следующий раз нам придется сыграть еще раз. Мне очень жаль."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_010.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_010.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "Ah, she's gone. It looks like she's very busy again today.",
+      "translation": "Ах, она ушла. Похоже, она сегодня снова очень занята."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_010.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_010.ebm",
+      "index": 20,
+      "speaker": "Sue",
+      "original": "Yeah. It can't be helped, she's important. Let's just come again another time.",
+      "translation": "Ага. Ничего не поделаешь, она важна. Давай просто придем еще раз."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_010.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_010.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "Alright... I really wanted to play that game, though.",
+      "translation": "Ладно... Хотя мне очень хотелось поиграть в эту игру."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_020.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_020.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Sister Grace! Let's finally play some...",
+      "translation": "Сестра Грейс! Давайте, наконец, поиграем..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_020.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_020.ebm",
+      "index": 1,
+      "speaker": "Chloe",
+      "original": "Shhh! Wait a moment, please. The Head Sister is talking with someone else at the moment.",
+      "translation": "Тсс! Подождите минутку, пожалуйста. Старшая сестра в данный момент разговаривает с кем-то еще."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_020.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_020.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Talking?",
+      "translation": "Говоришь?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_020.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_020.ebm",
+      "index": 3,
+      "speaker": "Mother",
+      "original": "My daughter is so rebellious! She won't listen to a thing I say.",
+      "translation": "Моя дочь такая бунтующая! Она не слушает ничего, что я говорю."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_020.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_020.ebm",
+      "index": 4,
+      "speaker": "Mother",
+      "original": "Sister, please. What should I do? How can I get through to her?",
+      "translation": "Сестра, пожалуйста. Что я должен делать? Как мне до нее достучаться?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_020.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_020.ebm",
+      "index": 5,
+      "speaker": "Grace",
+      "original": "Sometimes, I think you need to try and see things from her perspective.",
+      "translation": "Иногда я думаю, что нужно попытаться увидеть вещи с ее точки зрения."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_020.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_020.ebm",
+      "index": 6,
+      "speaker": "Grace",
+      "original": "In order to create a common topic to talk about, how about trying something that she likes?",
+      "translation": "Чтобы создать общую тему для разговора, как насчет того, чтобы попробовать что-то, что ей нравится?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_020.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_020.ebm",
+      "index": 7,
+      "speaker": "Mother",
+      "original": "Like what?",
+      "translation": "Как что?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_020.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_020.ebm",
+      "index": 8,
+      "speaker": "Mother",
+      "original": "I'm sorry, I've got no idea what it is the kids are into these days.",
+      "translation": "Извините, я понятия не имею, чем сейчас увлекаются дети."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_020.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_020.ebm",
+      "index": 9,
+      "speaker": "Grace",
+      "original": "Young girls currently love a romance series called \"Created Eyes\".",
+      "translation": "Молодые девушки в настоящее время обожают романтический сериал под названием «Сотворенные глаза»."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_020.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_020.ebm",
+      "index": 10,
+      "speaker": "Grace",
+      "original": "For clothing, the brand \"Lumoniel\" is popular, and for food, a cake called the \"Shucool\".",
+      "translation": "Из одежды популярна марка «Лумониэль», а из еды — торт под названием «Шукул»."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_020.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_020.ebm",
+      "index": 11,
+      "speaker": "Mother",
+      "original": "R-Really? You know so much, Sister Grace...",
+      "translation": "Р-Правда? Ты так много знаешь, Сестра Грейс..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_020.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_020.ebm",
+      "index": 12,
+      "speaker": "Grace",
+      "original": "I do my homework. May you and your daughter find the blessings of god.",
+      "translation": "Я делаю домашнее задание. Пусть вы и ваша дочь обретете благословение Божие."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_020.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_020.ebm",
+      "index": 13,
+      "speaker": "Mother",
+      "original": "Thank you! Thank you so much!",
+      "translation": "Спасибо! Большое спасибо!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_020.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_020.ebm",
+      "index": 14,
+      "speaker": "Chloe",
+      "original": "She's in touch with the youth, that's for sure. I can't believe she's in her fifties!",
+      "translation": "Она общается с молодежью, это точно. Не могу поверить, что ей за пятьдесят!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_020.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_020.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "Me neither. She looks only about twenty, too!",
+      "translation": "И я нет. На вид ей тоже всего около двадцати!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_020.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_020.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "H-Hold on! She's not a vampire, is she? Sucking blood in the shadows?",
+      "translation": "Х-Держись! Она не вампир, не так ли? Сосет кровь в тени?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_020.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_020.ebm",
+      "index": 17,
+      "speaker": "Grace",
+      "original": "Hey there, Suelle. Watch who you accuse of being a blood sucker.",
+      "translation": "Привет, Сюэль. Следите за тем, кого вы обвиняете в том, что он кровосос."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_020.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_020.ebm",
+      "index": 18,
+      "speaker": "Grace",
+      "original": "Knowing the trends of the world is a way to help others. As for my appearance...",
+      "translation": "Знание мировых тенденций – это способ помочь другим. Что касается моей внешности..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_020.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_020.ebm",
+      "index": 19,
+      "speaker": "Lydie",
+      "original": "Yes? What's the secret?",
+      "translation": "Да? В чем секрет?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_020.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_020.ebm",
+      "index": 20,
+      "speaker": "Grace",
+      "original": "... I was born with it.",
+      "translation": "... Я родился с этим."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_020.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_020.ebm",
+      "index": 21,
+      "speaker": "Chloe",
+      "original": "... Right. Back to work.",
+      "translation": "... Верно. Вернемся к работе."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_020.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_020.ebm",
+      "index": 22,
+      "speaker": "Grace",
+      "original": "Hold it right there, young lady. God would at least allow you to crack a smile!",
+      "translation": "Держите это здесь, юная леди. Бог, по крайней мере, позволил бы тебе улыбнуться!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_020.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_020.ebm",
+      "index": 23,
+      "speaker": "Lydie",
+      "original": "Hahaha, she really is young at heart, isn't she?",
+      "translation": "Ха-ха-ха, она действительно молода душой, не так ли?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_030.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_030.ebm",
+      "index": 0,
+      "speaker": "Grace",
+      "original": "Right, that sorts out the drinks. Next, some sweets...",
+      "translation": "Ладно, с напитками дело обстоит. Дальше сладости..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_030.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_030.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Sister Grace, what are you doing? You seem even busier than usual!",
+      "translation": "Сестра Грейс, что ты делаешь? Ты выглядишь еще более занятым, чем обычно!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_030.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_030.ebm",
+      "index": 2,
+      "speaker": "Grace",
+      "original": "Well, I'm getting ready for a church gathering. We have some new participants as well. I'm very busy!",
+      "translation": "Ну, я готовлюсь к церковному собранию. У нас также есть новые участники. Я очень занят!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_030.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_030.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Hey, that sounds lovely! We've just been too busy ourselves to take part recently.",
+      "translation": "Эй, это звучит прекрасно! Мы просто были слишком заняты в последнее время, чтобы принять участие."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_030.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_030.ebm",
+      "index": 4,
+      "speaker": "Ines",
+      "original": "Hey. What's this \"church gathering\" she's talking about?",
+      "translation": "Привет. Что это за «церковное собрание», о котором она говорит?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_030.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_030.ebm",
+      "index": 5,
+      "speaker": "Chloe",
+      "original": "You've been helping without knowing that? It's an open church event held by the Head Sister.",
+      "translation": "Ты помогал, не зная об этом? Это открытое церковное мероприятие, проводимое Старшей сестрой."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_030.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_030.ebm",
+      "index": 6,
+      "speaker": "Chloe",
+      "original": "Anyone is free to come and we do all sorts of things like games and readings.",
+      "translation": "Любой желающий может прийти, и мы проводим разные мероприятия, например, игры и чтения."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_030.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_030.ebm",
+      "index": 7,
+      "speaker": "Ines",
+      "original": "Wow, that sounds great!",
+      "translation": "Вау, это звучит великолепно!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_030.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_030.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Hey, Sister Grace. What are you going to be doing this time?",
+      "translation": "Привет, Сестра Грейс. Что ты собираешься делать на этот раз?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_030.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_030.ebm",
+      "index": 9,
+      "speaker": "Grace",
+      "original": "An origami class, actually. I'll be teaching the class, so I've been brushing up myself!",
+      "translation": "Вообще-то, урок оригами. Я буду вести урок, так что я привожу себя в порядок!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_030.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_030.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Uwah! There are all sorts of techniques in here! A rabbit, a crab, even a puni!",
+      "translation": "Ува! Здесь есть все виды техники! Кролик, краб, даже пуни!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_030.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_030.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Wow! That's some serious folding you've got planned, Sister Grace!",
+      "translation": "Ух ты! У тебя серьезные планы, Сестра Грейс!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_030.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_030.ebm",
+      "index": 12,
+      "speaker": "Grace",
+      "original": "Of course. I'm responsible for making sure everyone has fun, after all.",
+      "translation": "Конечно. В конце концов, я отвечаю за то, чтобы всем было весело."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_030.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_030.ebm",
+      "index": 13,
+      "speaker": "Grace",
+      "original": "However, there is one issue... I'm having trouble getting enough paper together.",
+      "translation": "Однако есть одна проблема... Мне трудно собрать достаточно бумаги."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_030.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_030.ebm",
+      "index": 14,
+      "speaker": "Chloe",
+      "original": "Or, to put it another way, someone completely forgot to order any paper at all!",
+      "translation": "Или, говоря по-другому, кто-то вообще забыл заказать бумагу!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_030.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_030.ebm",
+      "index": 15,
+      "speaker": "Ines",
+      "original": "Uwah, I said I'm sorry!",
+      "translation": "Увау, я сказал, что мне очень жаль!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_030.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_030.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "I think I see what happened. Hahah, Sister Grace! You can leave that part to us!",
+      "translation": "Кажется, я понимаю, что произошло. Ха-ха, Сестра Грейс! Вы можете оставить эту часть нам!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_030.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_030.ebm",
+      "index": 17,
+      "speaker": "Lydie",
+      "original": "Hey, good idea! We can synthesize as much paper as you need!",
+      "translation": "Эй, хорошая идея! Мы можем синтезировать столько бумаги, сколько Вам нужно!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_030.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_030.ebm",
+      "index": 18,
+      "speaker": "Grace",
+      "original": "That would be great, but are you sure? This is for origami, so it needs to be good quality paper.",
+      "translation": "Это было бы здорово, но вы уверены? Это для оригами, поэтому бумага должна быть хорошего качества."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_030.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_030.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "Hey, what is this? You don't think we can do it? Our alchemy skills are getting better every day!",
+      "translation": "Эй, что это? Вы не думаете, что мы сможем это сделать? Наши навыки алхимии улучшаются с каждым днем!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_030.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_030.ebm",
+      "index": 20,
+      "speaker": "Lydie",
+      "original": "That's right! We'll show you exactly what we can do, Sister Grace!",
+      "translation": "Это верно! Мы покажем тебе, на что мы способны, Сестра Грейс!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_030.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_030.ebm",
+      "index": 21,
+      "speaker": "Grace",
+      "original": "Hehe, if you're willing to go that far, very well. I will leave this in your hands.",
+      "translation": "Хе-хе, если ты готов зайти так далеко, то очень хорошо. Я оставлю это в твоих руках."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_030.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_030.ebm",
+      "index": 22,
+      "speaker": "Grace",
+      "original": "Bring as much of the most beautiful paper you can make. Thank you!",
+      "translation": "Возьмите с собой как можно больше самой красивой бумаги, которую только сможете сделать. Спасибо!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_040.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_040.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Here you are, Sister Grace. This is the paper you asked for!",
+      "translation": "Вот и вы, Сестра Грейс. Это бумага, которую вы просили!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_040.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_040.ebm",
+      "index": 1,
+      "speaker": "Grace",
+      "original": "Thank you so much. The quality is quite remarkable, too! Did you really make all this?",
+      "translation": "Большое спасибо. Качество тоже весьма примечательное! Ты действительно все это сделал?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_040.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_040.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Yep, we sure did! We made it together!",
+      "translation": "Да, мы уверены, что сделали! Мы сделали это вместе!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_040.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_040.ebm",
+      "index": 3,
+      "speaker": "Grace",
+      "original": "Then I'm very impressed. This is a massive step up from that watery medicine you used to make...",
+      "translation": "Тогда я очень впечатлен. Это огромный шаг вперед по сравнению с тем водянистым лекарством, которое вы готовили..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_040.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_040.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Talk about conflicting feelings! It's like we're being praised, but also learning something very unflattering...",
+      "translation": "Поговорим о противоречивых чувствах! Нас как будто хвалят, но и учат чему-то очень нелестному..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_040.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_040.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Hahaha... Was it really that bad? Anyway, I guess you can hold the church gathering now!",
+      "translation": "Ха-ха-ха... Неужели всё было так плохо? В любом случае, я думаю, ты можешь провести церковное собрание прямо сейчас!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_040.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_040.ebm",
+      "index": 6,
+      "speaker": "Grace",
+      "original": "Yes. That's everything we need. Now I have to do my part!",
+      "translation": "Да. Это все, что нам нужно. Теперь я должен внести свой вклад!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_040.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_040.ebm",
+      "index": 7,
+      "speaker": "Grace",
+      "original": "More people coming each time is great, but it also means I have to step up my game!",
+      "translation": "Каждый раз приходит больше людей – это здорово, но это также означает, что мне нужно активизировать свою игру!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_040.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_040.ebm",
+      "index": 8,
+      "speaker": "Grace",
+      "original": "Just how much fun can I help everyone have? As the organizer of the event, that's where I need to show my skills!",
+      "translation": "Насколько весело я могу помочь всем? Мне, как организатору мероприятия, именно здесь и нужно проявить свое мастерство!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_040.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_040.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Ah, you're on fire! A true entertainer!",
+      "translation": "Ах, ты горишь! Настоящий артист!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_040.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_040.ebm",
+      "index": 10,
+      "speaker": "Chloe",
+      "original": "No, she's a nun...",
+      "translation": "Нет, она монахиня..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_040.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_040.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "Which reminds me... I thought the idea of the church gatherings was to bring in more worshippers?",
+      "translation": "Это напомнило мне... Я думал, что идея церковных собраний заключалась в том, чтобы привлечь больше прихожан?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_040.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_040.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "Yes, I think she mentioned something like that. A while ago now, though... Has she forgotten?",
+      "translation": "Да, я думаю, она упомянула что-то подобное. Хотя недавно... Она забыла?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_040.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_040.ebm",
+      "index": 13,
+      "speaker": "Chloe",
+      "original": "Hmm. Everyone taking part may have started to just see the church as a place to have some fun...",
+      "translation": "Хм. Возможно, каждый из участников начал рассматривать церковь просто как место, где можно развлечься..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_040.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_040.ebm",
+      "index": 14,
+      "speaker": "Ines",
+      "original": "Do we maybe need to rethink our priorities a little?",
+      "translation": "Может быть, нам стоит немного переосмыслить наши приоритеты?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_040.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_040.ebm",
+      "index": 15,
+      "speaker": "Grace",
+      "original": "Uwah! No, not at all! The church is open to all.",
+      "translation": "Ува! Нет, совсем нет! Церковь открыта для всех."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_040.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_040.ebm",
+      "index": 16,
+      "speaker": "Grace",
+      "original": "If it is bringing joy to many people, I am sure god is happy with that.",
+      "translation": "Если это приносит радость многим людям, я уверен, что Бог доволен этим."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_040.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_040.ebm",
+      "index": 17,
+      "speaker": "Lydie",
+      "original": "Wow, nice recovery.",
+      "translation": "Вау, хорошее выздоровление."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_040.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_040.ebm",
+      "index": 18,
+      "speaker": "Ines",
+      "original": "I am impressed.",
+      "translation": "Я впечатлен."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_040.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_040.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "Flawless dodge, as always.",
+      "translation": "Безупречный уклон, как всегда."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_040.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_040.ebm",
+      "index": 20,
+      "speaker": "Grace",
+      "original": "Hohoho! I have preparations to make, farewell.",
+      "translation": "Хо-хо-хо! Мне нужно подготовиться, прощайте."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_040.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_040.ebm",
+      "index": 21,
+      "speaker": "Sue",
+      "original": "Hmm... Sister Grace can be a little strange, but that's why I love her!",
+      "translation": "Хм... Сестра Грейс может быть немного странной, но именно за это я ее люблю!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_040.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_040.ebm",
+      "index": 22,
+      "speaker": "Lydie",
+      "original": "Me too!",
+      "translation": "Я тоже!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 0,
+      "speaker": "Grace",
+      "original": "Ah, almighty lord~!<CR>I give you thanks again today~!",
+      "translation": "Ах, всемогущий господин~!<CR>Сегодня я ещё раз благодарю тебя~!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Hahah! Why the singing, Sister Grace? Did something good happen?",
+      "translation": "Ха-ха! Почему пение, Сестра Грейс? Произошло ли что-то хорошее?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 2,
+      "speaker": "Grace",
+      "original": "Hehe... The church gathering was a great success! I'm still all excited about that, I suppose!",
+      "translation": "Хе-хе... Церковное собрание прошло с большим успехом! Полагаю, я до сих пор в восторге от этого!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 3,
+      "speaker": "Grace",
+      "original": "You making all that paper was a big part of it, too. Thank you so much.",
+      "translation": "То, что ты делал всю эту бумагу, тоже было большой частью этого. Большое спасибо."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Hold on? It's over?",
+      "translation": "Подожди? Все кончено?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 5,
+      "speaker": "Grace",
+      "original": "Yes, a while ago... Ah!",
+      "translation": "Да, недавно... Ах!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Sister Grace! That's not fair! You didn't invite us!",
+      "translation": "Сестра Грейс! Это не справедливо! Вы нас не приглашали!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "That's right. We helped to get it ready and everything! I was looking forward to that!",
+      "translation": "Это верно. Мы помогли его подготовить и все! Я с нетерпением ждал этого!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 8,
+      "speaker": "Grace",
+      "original": "A-Ahem... I need to get back to work!",
+      "translation": "А-кхм... Мне нужно вернуться к работе!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "You can't run from this! You'd better get another one set up, pronto!",
+      "translation": "От этого не убежишь! Тебе лучше срочно настроить еще один!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "And this time, we're getting an invitation!",
+      "translation": "И на этот раз мы получаем приглашение!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 11,
+      "speaker": "Grace",
+      "original": "I understand, I understand! I am truly sorry!",
+      "translation": "Я понимаю, я понимаю! Мне искренне жаль!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 12,
+      "speaker": "Grace",
+      "original": "Next time I will make sure to let you now. I'm already making my plans.",
+      "translation": "В следующий раз я обязательно позволю тебе это сделать. Я уже строю планы."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "Ooh! What's it going to be next time?",
+      "translation": "Ох! Что будет в следующий раз?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 14,
+      "speaker": "Grace",
+      "original": "Hehe, a puppet show! I'm going to use some handmade puppets to put on a performance!",
+      "translation": "Хе-хе, кукольный спектакль! Я собираюсь использовать куклы ручной работы, чтобы устроить спектакль!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "Wow! That sounds like fun too!",
+      "translation": "Ух ты! Это тоже звучит весело!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "Sister Grace! We'll help you again, with whatever you need!",
+      "translation": "Сестра Грейс! Мы снова поможем вам со всем, что вам нужно!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "We'll help you so much, you'll have to invite us!",
+      "translation": "Мы вам так поможем, вам придется нас пригласить!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 18,
+      "speaker": "Grace",
+      "original": "Y-You don't need to go quite that far, girls... I'm going to invite you this time, don't worry!",
+      "translation": "Д-вам не нужно заходить так далеко, девочки... На этот раз я вас приглашу, не волнуйтесь!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "Hahaha, I was just kidding. We'll help you either way, don't worry.",
+      "translation": "Ха-ха-ха, я просто пошутил. Мы поможем вам в любом случае, не волнуйтесь."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 20,
+      "speaker": "Lydie",
+      "original": "It must be hard getting all of that ready on your own. Just let us know what you need.",
+      "translation": "Наверное, сложно все это подготовить самостоятельно. Просто дайте нам знать, что вам нужно."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 21,
+      "speaker": "Grace",
+      "original": "Thank you. In which case, can you find me some of the cloth I need to make the puppets?",
+      "translation": "Спасибо. В таком случае, не могли бы вы найти мне ткань, необходимую для изготовления кукол?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 22,
+      "speaker": "Lydie",
+      "original": "Cloth? What kind of cloth do you need?",
+      "translation": "Ткань? Какая ткань вам нужна?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 23,
+      "speaker": "Grace",
+      "original": "Well, it should stand out! Be really eye-catching! Aside from that, I have no requests.",
+      "translation": "Ну, это должно выделяться! Будьте действительно привлекательными! Кроме этого у меня нет никаких запросов."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 24,
+      "speaker": "Sue",
+      "original": "Very well! Just you wait and see, Sister Grace! We'll bring the best cloth we can find!",
+      "translation": "Очень хорошо! Просто подожди и увидишь, Сестра Грейс! Мы привезем лучшую ткань, которую сможем найти!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_050.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_050.ebm",
+      "index": 25,
+      "speaker": "Grace",
+      "original": "Good, thank you. This brings the next church gathering one step closer!",
+      "translation": "Хорошо, спасибо. Это приближает следующее церковное собрание на один шаг!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_060.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_060.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Sister Grace. We've got the cloth here for you to make the puppets.",
+      "translation": "Сестра Грейс. У нас есть ткань для изготовления кукол."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_060.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_060.ebm",
+      "index": 1,
+      "speaker": "Grace",
+      "original": "Thank you. Ah, it's just as high quality as your paper! Wonderful!",
+      "translation": "Спасибо. Ах, это так же качественно, как и ваша бумага! Замечательный!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_060.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_060.ebm",
+      "index": 2,
+      "speaker": "Grace",
+      "original": "I'll be able to make some wonderful puppets with this.",
+      "translation": "Из этого я смогу сделать несколько замечательных кукол."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_060.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_060.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Can I ask something? Can you even sew?",
+      "translation": "Могу я кое-что спросить? Ты вообще умеешь шить?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_060.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_060.ebm",
+      "index": 4,
+      "speaker": "Grace",
+      "original": "Well, I have some confidence in my needlework, yes. Maybe I could sew your mouth shut?",
+      "translation": "Ну, я немного уверен в своем рукоделии, да. Может, я мог бы зашить тебе рот?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_060.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_060.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Uwah! I was just wondering! Sorry!",
+      "translation": "Ува! Мне просто интересно! Извини!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_060.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_060.ebm",
+      "index": 6,
+      "speaker": "Grace",
+      "original": "Anyway. Look forward to the show, girls.",
+      "translation": "В любом случае. С нетерпением ждем шоу, девочки."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_060.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_060.ebm",
+      "index": 7,
+      "speaker": "Grace",
+      "original": "I have some experience with puppetry. You will see some wonderful puppets and a wonderful story!",
+      "translation": "Имею некоторый опыт работы в кукольном театре. Вы увидите замечательных кукол и чудесную историю!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_060.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_060.ebm",
+      "index": 8,
+      "speaker": "Grace",
+      "original": "I can promise you an experience like no other performer can provide! Hahaha!",
+      "translation": "Я могу обещать вам впечатления, которые не сможет предоставить ни один другой исполнитель! Ха-ха-ха!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_060.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_060.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "Alright, alright, just make sure you invite us this time!",
+      "translation": "Хорошо, хорошо, только не забудьте на этот раз пригласить нас!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_060.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_060.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "That's right, you'd better not forget again! Never again!",
+      "translation": "Правильно, лучше не забывать лишний раз! Никогда больше!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_060.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_060.ebm",
+      "index": 11,
+      "speaker": "Grace",
+      "original": "You're really not going to forgive me for that, are you? Don't worry, just be a little more patient!",
+      "translation": "Ты правда не собираешься простить меня за это, не так ли? Не волнуйтесь, просто будьте немного терпеливее!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 0,
+      "speaker": "Chloe",
+      "original": "Hello, Lydie, Sue. The Head Sister is calling for you!",
+      "translation": "Здравствуйте, Лиди, Сью. Старшая сестра зовёт тебя!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Ah! I know what that means!",
+      "translation": "Ах! Я знаю, что это значит!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 2,
+      "speaker": "Chloe",
+      "original": "That's right! It's time for the church gathering!",
+      "translation": "Это верно! Пришло время церковного собрания!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Uwah, there's lots of people here!",
+      "translation": "Ух, здесь много людей!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Hey, it's Sister Grace. I think it's about to start! This is exciting!",
+      "translation": "Привет, это Сестра Грейс. Думаю, вот-вот начнется! Это захватывающе!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 5,
+      "speaker": "Grace",
+      "original": "All of you good little boys and girls! Hello!",
+      "translation": "Все вы, хорошие мальчики и девочки! Привет!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 6,
+      "speaker": "Everyone",
+      "original": "Hello!",
+      "translation": "Привет!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 7,
+      "speaker": "System",
+      "original": "Hello!",
+      "translation": "Привет!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "...Eh?",
+      "translation": "...Э?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 9,
+      "speaker": "Grace",
+      "original": "You seem really happy! I'm happy too, kids! What have I got to show you today? This!",
+      "translation": "Ты выглядишь очень счастливым! Я тоже рада, детки! Что мне показать тебе сегодня? Этот!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 10,
+      "speaker": "Grace",
+      "original": "It's a play by me... and me! I hope you enjoy every last second of it!",
+      "translation": "Это пьеса меня... и меня! Надеюсь, вам понравится каждая последняя секунда!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "S-sister?! W-W-What's going on here?",
+      "translation": "С-Сестра?! Ч-ч-что здесь происходит?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 12,
+      "speaker": "Grace",
+      "original": "Let's do this! \"Carefree Palul and Easygoing Polul\"!",
+      "translation": "Давайте сделаем это! «Беззаботный Полул и беспечный Полул»!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 13,
+      "speaker": "Boy",
+      "original": "Hahaha! The puppets were so funny!",
+      "translation": "Ха-ха-ха! Куклы были такими забавными!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 14,
+      "speaker": "Girl",
+      "original": "Yeah! I want to see it again!",
+      "translation": "Ага! Я хочу увидеть это снова!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "Uwah! Palul! I'm so happy Polul finally saw your point of view!",
+      "translation": "Ува! Палул! Я так рада, что Полул наконец увидел вашу точку зрения!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "Me too. That was great. Really moving.",
+      "translation": "Я тоже. Это было здорово. Действительно трогательно."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 17,
+      "speaker": "Grace",
+      "original": "Hehe. It looks like you enjoyed yourselves?",
+      "translation": "Хе-хе. Похоже, вам понравилось?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "Sister Grace! That was amazing! Palul is my new hero! I can't stop crying!",
+      "translation": "Сестра Грейс! Это было потрясающе! Палул — мой новый герой! Я не могу перестать плакать!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 19,
+      "speaker": "Grace",
+      "original": "Like I told you. My puppet shows are something special.",
+      "translation": "Как я вам говорил. Мои кукольные спектакли – это нечто особенное."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 20,
+      "speaker": "Lydie",
+      "original": "You're right. It was totally different from anything I've seen before... The show, and you too...",
+      "translation": "Ты прав. Это совершенно отличалось от всего, что я видел раньше... Шоу, и ты тоже..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 21,
+      "speaker": "Sue",
+      "original": "Did you get a personality transplant or something? You were charged with energy!",
+      "translation": "Тебе сделали трансплантацию личности или что-то в этом роде? Вы зарядились энергией!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 22,
+      "speaker": "Grace",
+      "original": "Ah... That reminds me, I need to go and tidy up.",
+      "translation": "Ах... Это напомнило мне, что мне нужно пойти и прибраться."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 23,
+      "speaker": "Lydie",
+      "original": "You can't run from this line of questioning! We will get to the bottom of this!",
+      "translation": "Вы не можете убежать от этой линии допроса! Мы докопаемся до сути!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 24,
+      "speaker": "Grace",
+      "original": "V-Very well. I actually love puppets and puppet shows.",
+      "translation": "В-Очень хорошо. Я вообще люблю кукол и кукольные спектакли."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 25,
+      "speaker": "Grace",
+      "original": "I have loads of them in my room that I've made. I was just so happy to put on that show...",
+      "translation": "У меня в комнате их полно, которые я сделал. Я был так счастлив устроить это шоу..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 26,
+      "speaker": "Sue",
+      "original": "That your emotions got the best of you. I see.",
+      "translation": "Что твои эмоции взяли над тобой верх. Я понимаю."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 27,
+      "speaker": "Grace",
+      "original": "Now I'm all embarrassed about it... It feels like my face is on fire!",
+      "translation": "Теперь мне всего этого неловко... Такое ощущение, что у меня лицо горит!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 28,
+      "speaker": "Lydie",
+      "original": "Hahaha, don't worry about it! You were lovely, Sister Grace!",
+      "translation": "Ха-ха-ха, не волнуйся об этом! Вы были прекрасны, Сестра Грейс!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 29,
+      "speaker": "Sue",
+      "original": "That's right. The show was a big success, too. I'm looking forward to the next one already.",
+      "translation": "Это верно. Шоу также имело большой успех. Я уже с нетерпением жду следующего."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_070.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_070.ebm",
+      "index": 30,
+      "speaker": "Grace",
+      "original": "Hehe, I'll give it some thought. Thank you for coming today, anyway!",
+      "translation": "Хе-хе, я подумаю. В любом случае, спасибо, что пришли сегодня!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_080.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_080.ebm",
+      "index": 0,
+      "speaker": "Grace",
+      "original": "Hmm~! Our lord above, what should I do for the next church gathering?",
+      "translation": "Хм~! Господь наш, что мне делать на следующем церковном собрании?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_080.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_080.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "...You ask God that?",
+      "translation": "...Вы спрашиваете об этом у Бога?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_080.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_080.ebm",
+      "index": 2,
+      "speaker": "Grace",
+      "original": "Ugh?! G-Girls, when did you get here?",
+      "translation": "Фу?! Девочки, когда вы сюда приехали?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_080.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_080.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Heheh... The doors of the church are always open to little lost lambs.",
+      "translation": "Хе-хех... Двери церкви всегда открыты для маленьких заблудших ягнят."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_080.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_080.ebm",
+      "index": 4,
+      "speaker": "Grace",
+      "original": "That's true, that's true! I completely let my guard down!",
+      "translation": "Это правда, это правда! Я полностью потерял бдительность!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_080.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_080.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Hehehe... So you're already thinking about the next church gathering?",
+      "translation": "Хе-хе-хе... Так ты уже думаешь о следующем церковном собрании?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_080.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_080.ebm",
+      "index": 6,
+      "speaker": "Grace",
+      "original": "Yes. Planning in plenty of time lets me prepare and make it a better event all round.",
+      "translation": "Да. Заблаговременное планирование позволяет мне подготовиться и сделать мероприятие лучше со всех сторон."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_080.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_080.ebm",
+      "index": 7,
+      "speaker": "Grace",
+      "original": "I'm always thinking, somewhere in the back of my head, about how best to make everyone happy.",
+      "translation": "Где-то в глубине души я всегда думаю о том, как лучше всего сделать всех счастливыми."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_080.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_080.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "You're so busy, but always thinking about other people. That's what I respect about you, Sister Grace!",
+      "translation": "Ты так занят, но всегда думаешь о других людях. Вот что я уважаю в тебе, Сестра Грейс!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_080.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_080.ebm",
+      "index": 9,
+      "speaker": "Grace",
+      "original": "Please. I'm not worthy of your respect. In fact, this might all be considered atonement.",
+      "translation": "Пожалуйста. Я не достоин твоего уважения. Фактически, все это можно считать искуплением."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_080.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_080.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Whatever for?",
+      "translation": "Для чего?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_080.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_080.ebm",
+      "index": 11,
+      "speaker": "Grace",
+      "original": "Once, long ago, I made people close to me suffer due to my own selfishness.",
+      "translation": "Когда-то, очень давно, из-за собственного эгоизма я заставил страдать близких мне людей."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_080.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_080.ebm",
+      "index": 12,
+      "speaker": "Grace",
+      "original": "If I'd just thought a little more, and acted more carefully, it wouldn't have come to this...",
+      "translation": "Если бы я еще немного подумал и действовал осторожнее, до этого бы не дошло..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_080.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_080.ebm",
+      "index": 13,
+      "speaker": "Grace",
+      "original": "That's why I want to make as many people happy as I can. To make it up, maybe, to the ones I hurt.",
+      "translation": "Вот почему я хочу сделать счастливыми как можно больше людей. Возможно, чтобы компенсировать это тем, кому я причинил боль."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_080.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_080.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "Sister Grace...",
+      "translation": "Сестра Грейс..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_080.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_080.ebm",
+      "index": 15,
+      "speaker": "Grace",
+      "original": "I'm sorry, I got all depressing for a moment there.",
+      "translation": "Извините, меня на мгновение охватило депрессивное состояние."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_080.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_080.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "I do have one question, if that's alright? Aren't you happy, at the moment?",
+      "translation": "У меня есть один вопрос, можно ли? Разве ты не счастлив в данный момент?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_080.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_080.ebm",
+      "index": 17,
+      "speaker": "Grace",
+      "original": "Oh, I'm happy! I've got you, and Sue, and Chloe and Ines, and everyone in the city.",
+      "translation": "О, я счастлив! У меня есть ты, и Сью, и Хлоя, и Инес, и все в городе."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_080.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_080.ebm",
+      "index": 18,
+      "speaker": "Grace",
+      "original": "Every day is such fun! How could I not be happy?",
+      "translation": "Каждый день такой веселый! Как я мог не быть счастливым?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_080.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_080.ebm",
+      "index": 19,
+      "speaker": "Grace",
+      "original": "There's no need to worry about me. Otherwise I won't call you to the next church gathering!",
+      "translation": "Обо мне не стоит беспокоиться. Иначе я не позову тебя на следующее церковное собрание!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_080.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_080.ebm",
+      "index": 20,
+      "speaker": "Sue",
+      "original": "Hey, not fair! We're not worried! Not worried about you at all!",
+      "translation": "Эй, это несправедливо! Мы не волнуемся! Совсем не волнуюсь за тебя!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_080.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_080.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "You know, that doesn't sound quite right either...",
+      "translation": "Знаете, это тоже звучит не совсем правильно..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_080.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_080.ebm",
+      "index": 22,
+      "speaker": "Grace",
+      "original": "Hehe. Seeing you so full of energy does soothe my heart.",
+      "translation": "Хе-хе. Видеть тебя таким полным энергии успокаивает мое сердце."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_080.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_080.ebm",
+      "index": 23,
+      "speaker": "Grace",
+      "original": "I just hope they are as happy, wherever they are...",
+      "translation": "Я просто надеюсь, что они будут так же счастливы, где бы они ни были..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_090.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_090.ebm",
+      "index": 0,
+      "speaker": "Grace",
+      "original": "Girls, you're just on time. I need your opinion on something.",
+      "translation": "Девочки, вы как раз вовремя. Мне нужно твое мнение о чем-то."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_090.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_090.ebm",
+      "index": 1,
+      "speaker": "Grace",
+      "original": "Do you have any requests for the next church gathering?",
+      "translation": "Есть ли у вас какие-либо пожелания относительно следующего церковного собрания?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_090.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_090.ebm",
+      "index": 2,
+      "speaker": "Together",
+      "original": "A puppet show!",
+      "translation": "Кукольный спектакль!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_090.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_090.ebm",
+      "index": 3,
+      "speaker": "System",
+      "original": "A puppet show!",
+      "translation": "Кукольный спектакль!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_090.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_090.ebm",
+      "index": 4,
+      "speaker": "Grace",
+      "original": "B-Both of you... You liked it that much, did you?",
+      "translation": "Н-вы оба... Вам так понравилось, да?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_090.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_090.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Yes, it was great. That last puppet show was so moving!",
+      "translation": "Да, это было здорово. Последний кукольный спектакль был таким трогательным!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_090.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_090.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "Same here! I want to see more!",
+      "translation": "То же самое! Я хочу увидеть больше!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_090.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_090.ebm",
+      "index": 7,
+      "speaker": "Grace",
+      "original": "In that case... Maybe we should invite an actual performer in to help us out...",
+      "translation": "В таком случае... Может быть, нам стоит пригласить настоящего исполнителя, чтобы он помог нам..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_090.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_090.ebm",
+      "index": 8,
+      "speaker": "Pamela",
+      "original": "Haha, that sounds like my que! I heard what you just said, and you can leave this to me!",
+      "translation": "Хаха, это похоже на мою очередь! Я слышал, что ты только что сказал, и можешь оставить это мне!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_090.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_090.ebm",
+      "index": 9,
+      "speaker": "Grace",
+      "original": "Huh? What do you mean?",
+      "translation": "Хм? Что ты имеешь в виду?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_090.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_090.ebm",
+      "index": 10,
+      "speaker": "Pamela",
+      "original": "I've made friends with a really skilled puppeteer. I'm sure he'll come and put on a show for us.",
+      "translation": "Я подружился с очень опытным кукольником. Я уверен, что он приедет и устроит для нас представление."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_090.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_090.ebm",
+      "index": 11,
+      "speaker": "Pamela",
+      "original": "I think we can expect a discount, too. How about I ask him and see what he says?",
+      "translation": "Я думаю, мы тоже можем рассчитывать на скидку. Как насчет того, чтобы спросить его и посмотреть, что он скажет?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_090.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_090.ebm",
+      "index": 12,
+      "speaker": "Grace",
+      "original": "Yes, that sounds like a good idea.",
+      "translation": "Да, это звучит как хорошая идея."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_090.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_090.ebm",
+      "index": 13,
+      "speaker": "Grace",
+      "original": "One thing, though, Pamela, just so you know. I'm very particular about my puppet theatre!",
+      "translation": "Но кое-что, Памела, просто чтобы ты знала. Я очень трепетно отношусь к своему кукольному театру!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_090.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_090.ebm",
+      "index": 14,
+      "speaker": "Grace",
+      "original": "Before I was a nun, I was a professional puppeteer, after all.",
+      "translation": "В конце концов, до того, как стать монахиней, я была профессиональным кукольником."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_090.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_090.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "What?! Really?!",
+      "translation": "Что?! Действительно?!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_090.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_090.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "That's why your puppet show was so good! Finally, it all makes sense!",
+      "translation": "Вот почему ваш кукольный спектакль был так хорош! Наконец-то все имеет смысл!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_090.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_090.ebm",
+      "index": 17,
+      "speaker": "Pamela",
+      "original": "Hahaha, it'll be fine. I'm sure they'll more than satisfy you.",
+      "translation": "Ха-ха-ха, все будет хорошо. Я уверен, что они вас более чем удовлетворят."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_090.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_090.ebm",
+      "index": 18,
+      "speaker": "Grace",
+      "original": "Very well. Let's give them a try, shall we?",
+      "translation": "Очень хорошо. Давайте дадим им шанс, ладно?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_090.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_090.ebm",
+      "index": 19,
+      "speaker": "Pamela",
+      "original": "Okay! I'll go and make the arrangements!",
+      "translation": "Хорошо! Я пойду и сделаю приготовления!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_090.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_090.ebm",
+      "index": 20,
+      "speaker": "Grace",
+      "original": "They must be good, to win Pamela over... I wonder what they are like?",
+      "translation": "Они должны быть хорошими, чтобы расположить к себе Памелу... Интересно, какие они?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_090.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_090.ebm",
+      "index": 21,
+      "speaker": "Grace",
+      "original": "I can't wait to find out! Let's see if they can move and stir my soul! Hahaha!",
+      "translation": "Не могу дождаться, чтобы узнать! Посмотрим, смогут ли они тронуть и взволновать мою душу! Ха-ха-ха!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_090.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_090.ebm",
+      "index": 22,
+      "speaker": "Lydie",
+      "original": "S-Sister Grace? You're acting all weird in a different way now...",
+      "translation": "С-Сестра Грейс? Теперь ты ведешь себя странно, по-другому..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_090.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_090.ebm",
+      "index": 23,
+      "speaker": "Sue",
+      "original": "I guess her puppeteer blood is getting all fired up! Hahaha, if that's a thing.",
+      "translation": "Полагаю, у нее бурлит кровь кукольника! Ха-ха-ха, если это что-то."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_100.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_100.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Sister Grace! Is it time for the next church gathering yet?",
+      "translation": "Сестра Грейс! Пришло ли уже время для следующего церковного собрания?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_100.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_100.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "I can't sleep, I'm so excited for it! Hurry up! Hurry up and hold it!",
+      "translation": "Я не могу спать, я так рада этому! Торопиться! Спешите и держите его!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_100.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_100.ebm",
+      "index": 2,
+      "speaker": "Grace",
+      "original": "Calm down, girls. I am almost ready, don't worry.",
+      "translation": "Успокойтесь, девочки. Я почти готов, не волнуйся."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_100.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_100.ebm",
+      "index": 3,
+      "speaker": "Grace",
+      "original": "Pamela has made the request, too. Now we're just waiting for the puppeteer to be ready.",
+      "translation": "Памела тоже обратилась с просьбой. Теперь просто ждем, когда кукольник будет готов."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_100.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_100.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Uwah! I'm getting all excited waiting for this!",
+      "translation": "Ува! Я с нетерпением жду этого!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_100.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_100.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Please! Just don't forget to let us know!",
+      "translation": "Пожалуйста! Только не забудьте сообщить нам!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_100.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_100.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "I'll cry my eyes out this time, if you do! I'll bawl them out, right here in front of you!",
+      "translation": "На этот раз я буду плакать до слез, если ты это сделаешь! Я выругаю их прямо здесь, перед тобой!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_100.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_100.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "M-Me too! We'll flood you out with our tears!",
+      "translation": "М-я тоже! Мы зальем тебя своими слезами!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_100.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_100.ebm",
+      "index": 8,
+      "speaker": "Grace",
+      "original": "That sounds quite terrible... Hehe, don't worry. I'll call you when the day comes, just like before.",
+      "translation": "Это звучит довольно ужасно... Хе-хе, не волнуйся. Я позвоню тебе, когда придет день, как и прежде."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_100.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_100.ebm",
+      "index": 9,
+      "speaker": "Grace",
+      "original": "Just wait until then, please. All right?",
+      "translation": "Просто подожди до тех пор, пожалуйста. Все в порядке?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_100.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_100.ebm",
+      "index": 10,
+      "speaker": "Together",
+      "original": "Yes...",
+      "translation": "Да..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_100.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_100.ebm",
+      "index": 11,
+      "speaker": "System",
+      "original": "Yes...",
+      "translation": "Да..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 0,
+      "speaker": "Ines",
+      "original": "Hello, girls! It's time for the next church gathering!",
+      "translation": "Здравствуйте, девочки! Пришло время следующего церковного собрания!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Hey, great! We'll be right there!",
+      "translation": "Эй, отлично! Мы будем тут же!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Sister Grace!",
+      "translation": "Сестра Грейс!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 3,
+      "speaker": "Grace",
+      "original": "I've been waiting for you, girls! Welcome to our Open Air Theater!",
+      "translation": "Я ждал вас, девочки! Добро пожаловать в наш Театр под открытым небом!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Open air? So it's going to be outside this time?",
+      "translation": "Под открытым небом? Так на этот раз это будет снаружи?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 5,
+      "speaker": "Grace",
+      "original": "That's right. Sometimes a change of pace can be nice. I think the puppeteer will be here soon...",
+      "translation": "Это верно. Иногда смена темпа может быть полезной. Думаю, кукольник скоро будет здесь..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 6,
+      "speaker": "Pamela",
+      "original": "Ah, here they come! We're over here, Fritz! Drossel!",
+      "translation": "Ах, вот они! Мы здесь, Фриц! Дроссель!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 8,
+      "speaker": "Fritz",
+      "original": "Sorry for taking so long to get here. We don't come this way much.",
+      "translation": "Извините, что так долго добирался сюда. Мы не часто сюда заходим."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 9,
+      "speaker": "Drossel",
+      "original": "You always chew others out for getting lost, Dad! So you shouldn't be doing it yourself!",
+      "translation": "Папа, ты всегда ругаешь других за то, что они заблудились! Так что не стоит делать это самостоятельно!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 10,
+      "speaker": "Fritz",
+      "original": "Hey, even I get lost sometimes! Ahem, anyway, we shouldn't be doing this in front of the client.",
+      "translation": "Эй, даже я иногда теряюсь! Кхм, в любом случае, нам не следует делать это на глазах у клиента."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 11,
+      "speaker": "Pamela",
+      "original": "Hehehe, let me introduce you. This is the host of our event today, Sister Grace!",
+      "translation": "Хе-хе-хе, позвольте мне вас представить. Это ведущая нашего сегодняшнего мероприятия, Сестра Грейс!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 14,
+      "speaker": "Grace",
+      "original": "It's been... a while.",
+      "translation": "Прошло... некоторое время."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "What's this? You all know each other?",
+      "translation": "Что это? Вы все друг друга знаете?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 16,
+      "speaker": "Fritz",
+      "original": "Yes... She's my wife.",
+      "translation": "Да... Она моя жена."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 17,
+      "speaker": "Lydie",
+      "original": "Whaaaaaat?! Which means...",
+      "translation": "Чтоаааа?! Что означает..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 18,
+      "speaker": "Drossel",
+      "original": "That's right... And my mom.",
+      "translation": "Верно... И моя мама."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 19,
+      "speaker": "Grace",
+      "original": "I'm sorry, but can you please get ready? It's almost time for us to be starting.",
+      "translation": "Извините, но не могли бы вы подготовиться? Нам почти пора начинать."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 20,
+      "speaker": "Fritz",
+      "original": "S-Sure.",
+      "translation": "С-Конечно."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 21,
+      "speaker": "Lydie",
+      "original": "Sister?...",
+      "translation": "Сестра?..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 23,
+      "speaker": "Pamela",
+      "original": "Thank you so much! That's the end of our performance for today!",
+      "translation": "Большое спасибо! Вот и закончилось наше выступление на сегодня!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 24,
+      "speaker": "Lydie",
+      "original": "Ugh... The long awaited puppet show, and I couldn't focus at all!",
+      "translation": "Ух... Долгожданный кукольный спектакль, а я вообще не могла сосредоточиться!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 25,
+      "speaker": "Sue",
+      "original": "Me neither... This revelation about Sister Grace is just too shocking...",
+      "translation": "Я тоже... Это откровение о Сестре Грейс слишком шокирует..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 26,
+      "speaker": "Grace",
+      "original": "Sorry, Pamela. Can you handle the rest of this?",
+      "translation": "Прости, Памела. Сможешь ли ты справиться с остальным?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 27,
+      "speaker": "Pamela",
+      "original": "...No problem.",
+      "translation": "...Без проблем."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 28,
+      "speaker": "Lydie",
+      "original": "Mr. Fritz, can we ask... is Sister Grace really your wife?",
+      "translation": "Мистер Фриц, можем ли мы спросить... Сестра Грейс действительно ваша жена?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 29,
+      "speaker": "Drossel",
+      "original": "Yes, she is. The mother who left us... well, no, that's not fair. We drove her away...",
+      "translation": "Да она. Мать, которая нас бросила... ну нет, это несправедливо. Мы ее прогнали..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 30,
+      "speaker": "Sue",
+      "original": "That doesn't sound like you!",
+      "translation": "Это не похоже на тебя!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 31,
+      "speaker": "Fritz",
+      "original": "Well, it's true. We were so wrapped up in our puppets, we ignored her.",
+      "translation": "Что ж, это правда. Мы были настолько поглощены своими марионетками, что игнорировали ее."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:32": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 32,
+      "speaker": "Fritz",
+      "original": "We've been working to perfect the ultimate puppet show in order to explain our feelings to her...",
+      "translation": "Мы работали над совершенствованием идеального кукольного спектакля, чтобы объяснить ей наши чувства..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:33": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 33,
+      "speaker": "Drossel",
+      "original": "But having seen her again, I'm not sure we can... She's living a pretty full life, now, isn't she?",
+      "translation": "Но, увидев ее снова, я не уверен, что мы сможем... Она теперь живет довольно полноценной жизнью, не так ли?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:34": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 34,
+      "speaker": "Fritz",
+      "original": "Yes... She might be happier if we just leave her alone.",
+      "translation": "Да... Возможно, она будет счастливее, если мы оставим ее в покое."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:35": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 35,
+      "speaker": "Pamela",
+      "original": "Ah! Your payment! You've forgotten your payment!",
+      "translation": "Ах! Ваша оплата! Вы забыли свой платеж!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_110.ebm:36": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_110.ebm",
+      "index": 36,
+      "speaker": "Lydie",
+      "original": "Oh, Mr. Fritz! Drossel! Are you really sure about that?",
+      "translation": "О, мистер Фриц! Дроссель! Вы действительно в этом уверены?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_120.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_120.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Sister Grace... I'm not sure how to say this...",
+      "translation": "Сестра Грейс... Я не знаю, как это сказать..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_120.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_120.ebm",
+      "index": 1,
+      "speaker": "Grace",
+      "original": "It's about Fritz and Drossel, correct? You girls really are so kind. ",
+      "translation": "Речь идет о Фрице и Дросселе, верно? Вы, девочки, действительно такие добрые."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_120.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_120.ebm",
+      "index": 2,
+      "speaker": "Grace",
+      "original": "Fritz is my husband, and Drossel is my daughter. That is true.",
+      "translation": "Фриц — мой муж, а Дроссель — моя дочь. Это правда."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_120.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_120.ebm",
+      "index": 3,
+      "speaker": "Grace",
+      "original": "And I'm the one who made them unhappy... That's a fact, too.",
+      "translation": "И это я их сделала несчастными... Это тоже факт."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_120.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_120.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Unhappy? You mentioned something like that before. But what do you mean?",
+      "translation": "Несчастный? Вы уже упоминали нечто подобное. Но что вы имеете в виду?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_120.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_120.ebm",
+      "index": 5,
+      "speaker": "Grace",
+      "original": "The two of them have suffered so much, all because I left them.",
+      "translation": "Они двое так сильно пострадали, и все потому, что я оставил их."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_120.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_120.ebm",
+      "index": 6,
+      "speaker": "Grace",
+      "original": "Fritz and Drossel always looked so happy, talking about their puppets, with me on the sidelines.",
+      "translation": "Фриц и Дроссель всегда выглядели такими счастливыми, разговаривая о своих марионетках, а я был в стороне."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_120.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_120.ebm",
+      "index": 7,
+      "speaker": "Grace",
+      "original": "That made me so lonely, and so sad, that I just couldn't bear it anymore...",
+      "translation": "Это сделало меня таким одиноким и таким грустным, что я просто не мог больше этого выносить..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_120.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_120.ebm",
+      "index": 8,
+      "speaker": "Grace",
+      "original": "Honestly, thinking back on it now, I was just being bitter...",
+      "translation": "Честно говоря, вспоминая об этом сейчас, мне было просто горько..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_120.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_120.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "Oh, Sister Grace...",
+      "translation": "О, Сестра Грейс..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_120.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_120.ebm",
+      "index": 10,
+      "speaker": "Grace",
+      "original": "I'm glad to see them looking so happy now, though. That's all I can ask for. Praise God!",
+      "translation": "Однако я рад видеть, что они сейчас выглядят такими счастливыми. Это все, о чем я могу просить. Слава Богу!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_120.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_120.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Hold on! Aren't you going to try and reconcile with them?",
+      "translation": "Подожди! Не собираешься ли ты попытаться помириться с ними?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_120.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_120.ebm",
+      "index": 12,
+      "speaker": "Grace",
+      "original": "After all this time? Impossible. I wouldn't even know what to say to them.",
+      "translation": "После всего этого времени? Невозможный. Я даже не знал, что им сказать."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_120.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_120.ebm",
+      "index": 13,
+      "speaker": "Grace",
+      "original": "Will you please give them both a message from me? Tell them to be happy.",
+      "translation": "Не могли бы вы передать им обоим мое сообщение? Скажите им, чтобы они были счастливы."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_130.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_130.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Hey, Sue... What do you think about Sister Grace and her situation?",
+      "translation": "Привет, Сью... Что ты думаешь о Сестре Грейс и ее ситуации?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_130.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_130.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "It annoys me! Makes me mad, to be honest! Why can't she just be honest about her feelings?",
+      "translation": "Меня это раздражает! Меня бесит, если честно! Почему она не может просто честно рассказать о своих чувствах?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_130.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_130.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Mr. Fritz, and Drossel, and Sister Grace too! They're all thinking of each other!",
+      "translation": "Мистер Фриц, и Дроссель, и Сестра Грейс тоже! Они все думают друг о друге!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_130.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_130.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "I know. They want to make up! But they can't get past all of that history...",
+      "translation": "Я знаю. Они хотят помириться! Но они не могут пройти мимо всей этой истории..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_130.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_130.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "It seems like they haven't seen each other for a long time. They don't know what to do.",
+      "translation": "Кажется, они давно не виделись. Они не знают, что делать."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_130.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_130.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "But it's so simple! All they need to do is say \"I'm sorry\"! Share their feelings!",
+      "translation": "Но это так просто! Все, что им нужно сделать, это сказать «Мне очень жаль»! Поделитесь своими чувствами!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_130.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_130.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Yep, that's all. They just need something to trigger the whole thing.",
+      "translation": "Да, это все. Им просто нужно что-то, что спровоцирует все это."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_130.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_130.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Hmm, a trigger... I think there's only one possible choice, right?",
+      "translation": "Хм, спусковой крючок... Думаю, есть только один вариант, верно?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_130.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_130.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "I bet we're thinking the same thing! The only thing that can possibly bring them back together!",
+      "translation": "Могу поспорить, мы думаем об одном и том же! Единственное, что может вернуть их вместе!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_130.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_130.ebm",
+      "index": 9,
+      "speaker": "Together",
+      "original": "A puppet show!",
+      "translation": "Кукольный спектакль!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_130.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_130.ebm",
+      "index": 10,
+      "speaker": "System",
+      "original": "A puppet show!",
+      "translation": "Кукольный спектакль!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_130.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_130.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "It'll probably be faster to persuade Mr. Fritz. He was hoping to use the show to win her back, after all.",
+      "translation": "Вероятно, так будет быстрее убедить мистера Фрица. В конце концов, он надеялся использовать шоу, чтобы вернуть ее."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_130.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_130.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "Yeah, I think that's the best approach. Let's go and see what he says!",
+      "translation": "Да, я думаю, что это лучший подход. Пойдем посмотрим, что он скажет!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Mr. Fritz! Drossel!",
+      "translation": "Мистер Фриц! Дроссель!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 1,
+      "speaker": "Drossel",
+      "original": "What's up? What's the panic?",
+      "translation": "Как дела? Какая паника?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 2,
+      "speaker": "Fritz",
+      "original": "Don't tell me! Monsters are attacking?",
+      "translation": "Не говорите мне! Монстры нападают?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Nothing like that! Let's put on a puppet show!",
+      "translation": "Ничего подобного! Давайте устроим кукольный спектакль!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 4,
+      "speaker": "Drossel",
+      "original": "What? Where's this coming from?",
+      "translation": "Что? Откуда это?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "You need to put on a puppet show. To help you get back together with Sister Grace!",
+      "translation": "Вам нужно поставить кукольный спектакль. Чтобы помочь вам снова быть вместе с Сестрой Грейс!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 6,
+      "speaker": "Fritz",
+      "original": "Look, I appreciate the idea...",
+      "translation": "Слушай, я ценю эту идею..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 7,
+      "speaker": "Fritz",
+      "original": "But, like I said, she's living a full and rich life.",
+      "translation": "Но, как я уже сказал, она живет полноценной и насыщенной жизнью."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 8,
+      "speaker": "Drossel",
+      "original": "That's right. We don't have the right to damage the happiness she has made for herself.",
+      "translation": "Это верно. Мы не имеем права портить то счастье, которое она себе создала."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 9,
+      "speaker": "Drossel",
+      "original": "So, I'm sorry, but we can't. Sorry if you thought up any ideas.",
+      "translation": "Так что извини, но мы не можем. Извините, если у вас возникли какие-либо идеи."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 10,
+      "speaker": "Lydie",
+      "original": "Sister Grace told us that she made you unhappy by leaving.",
+      "translation": "Сестра Грейс сказала нам, что она расстроила тебя своим уходом."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 11,
+      "speaker": "Fritz",
+      "original": "What? She said that?",
+      "translation": "Что? Она это сказала?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 12,
+      "speaker": "Sue",
+      "original": "And you two said that Sister Grace leaving you was your own fault, right?",
+      "translation": "И вы двое сказали, что Сестра Грейс оставила вас по своей вине, верно?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "Both sides think it was their fault... You actually want to apologize, don't you?",
+      "translation": "Обе стороны думают, что это их вина... Ты ведь хочешь извиниться, не так ли?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "Deep down, you all want to make up and live together again, don't you?",
+      "translation": "В глубине души вы все хотите помириться и снова жить вместе, не так ли?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "You don't know how long your family will be around. Eventually, a true parting will come...",
+      "translation": "Вы не знаете, как долго ваша семья будет рядом. В конце концов, наступит настоящее расставание..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "That's why I think, if you can be together, you should! While you can!",
+      "translation": "Вот почему я думаю, если вы можете быть вместе, то вам следует! Пока можешь!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 17,
+      "speaker": "Lydie",
+      "original": "Mr. Fritz! Drossel! You've finally, finally met up with Sister Grace again!",
+      "translation": "Мистер Фриц! Дроссель! Наконец-то вы снова встретились с Сестрой Грейс!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "In which case, don't think about it too much! Just try and make up!",
+      "translation": "В этом случае не думайте об этом слишком много! Просто попробуй помириться!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 19,
+      "speaker": "Fritz",
+      "original": "Lydie... Sue...",
+      "translation": "Лиди... Сью..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 20,
+      "speaker": "Drossel",
+      "original": "Of course... Because of your mother...",
+      "translation": "Конечно... Из-за твоей матери..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 21,
+      "speaker": "Drossel",
+      "original": "Dad... I don't think we can win this one.",
+      "translation": "Папа... Я не думаю, что мы сможем победить."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 22,
+      "speaker": "Fritz",
+      "original": "Yeah, this isn't like us. Hahaha! We need to use the greatest puppet show here...",
+      "translation": "Да, это не похоже на нас. Ха-ха-ха! Здесь нужно использовать величайший кукольный спектакль..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 23,
+      "speaker": "Drossel",
+      "original": "And make up with mom! Thank you, girls. You've given us the wake-up call we needed.",
+      "translation": "И помириться с мамой! Спасибо, девочки. Вы дали нам тревожный сигнал, который нам был нужен."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 24,
+      "speaker": "Sue",
+      "original": "Great!",
+      "translation": "Большой!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 25,
+      "speaker": "Lydie",
+      "original": "Let's prepare, then, without letting Sister Grace notice... We need to surprise her!",
+      "translation": "Тогда давайте подготовимся, не позволяя Сестре Грейс заметить... Нам нужно ее удивить!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 26,
+      "speaker": "Drossel",
+      "original": "Hahaha, a big surprise! In which case, we need to start work on the script and the puppets!",
+      "translation": "Ха-ха-ха, большой сюрприз! В таком случае надо начинать работу над сценарием и куклами!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 27,
+      "speaker": "Fritz",
+      "original": "Ah... Girls, could you arrange a venue for us?",
+      "translation": "Эх... Девочки, а не могли бы вы организовать для нас место?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 28,
+      "speaker": "Sue",
+      "original": "Leave it to us! I'm sure Pamela can help us sort something out.",
+      "translation": "Оставьте это нам! Я уверен, что Памела поможет нам во всем разобраться."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 29,
+      "speaker": "Lydie",
+      "original": "Hmm. In which case, let's make this reuniting show a success!",
+      "translation": "Хм. В таком случае, давайте сделаем это шоу воссоединения успешным!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 30,
+      "speaker": "Together",
+      "original": "OK!",
+      "translation": "ХОРОШО!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_140.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_140.ebm",
+      "index": 31,
+      "speaker": "System",
+      "original": "Sure!",
+      "translation": "Конечно!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Pamela! There's something we'd like to discuss, if you have a moment?",
+      "translation": "Памела! Мы хотели бы кое-что обсудить, если у вас есть минутка?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 1,
+      "speaker": "Pamela",
+      "original": "Yes, what is it? Some mischief? A surprise attack? Hehe, I can't wait!",
+      "translation": "Да, что это такое? Какая-то шалость? Внезапное нападение? Хе-хе, я не могу дождаться!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Hehehe, you're almost right...",
+      "translation": "Хе-хе-хе, ты почти прав..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 3,
+      "speaker": "Pamela",
+      "original": "I see. I'll help however I can, then!",
+      "translation": "Я понимаю. Тогда я помогу, чем смогу!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Great! Thank you, Pamela! Now we need to think up an actual plan!",
+      "translation": "Большой! Спасибо, Памела! Теперь нам нужно придумать реальный план!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 5,
+      "speaker": "Pamela",
+      "original": "Right. How about we dress it up like a normal church gathering?",
+      "translation": "Верно. Как насчет того, чтобы оформить это как обычное церковное собрание?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Hey, that's a good idea... We'll tell her that we want to organize one ourselves!",
+      "translation": "Эй, это хорошая идея... Мы скажем ей, что хотим организовать такое сами!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 7,
+      "speaker": "Lydie",
+      "original": "So we'll pretend it's just a church gathering, and then bring out the surprise puppet show!",
+      "translation": "Итак, мы притворимся, что это просто церковное собрание, а затем устроим кукольный спектакль-сюрприз!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "Great! This will knock her socks off!",
+      "translation": "Большой! Это сбивает ее с толку!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 9,
+      "speaker": "Grace",
+      "original": "Knock who's socks off? Mine? Sue, are you planning something?",
+      "translation": "Сбить кого с ума? Мой? Сью, ты что-то планируешь?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Kyaaah! S-S-Sister Grace! I'm not planning anything!",
+      "translation": "Кьяаа! С-С-Сестра Грейс! Я ничего не планирую!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 11,
+      "speaker": "Pamela",
+      "original": "Girls, it's do or die! Just follow my lead here.",
+      "translation": "Девочки, сделай или умри! Просто следуйте моему примеру."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 12,
+      "speaker": "Pamela",
+      "original": "It can't be helped, if you've overheard us. The twins want to hold a church gathering.",
+      "translation": "Ничего не поделаешь, если ты нас подслушал. Близнецы хотят провести церковное собрание."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 13,
+      "speaker": "Lydie",
+      "original": "Ah, that's right! You always work so hard on them...",
+      "translation": "Ах, это правда! Ты всегда так усердно работаешь над ними..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "So we wanted to give you a break and let you enjoy yourself once in a while.",
+      "translation": "Поэтому мы хотели дать вам передышку и позволить вам время от времени развлекаться."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 15,
+      "speaker": "Grace",
+      "original": "Is that so? Well, there's no need to keep that a secret!",
+      "translation": "Это так? Ну, не надо держать это в секрете!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 16,
+      "speaker": "Grace",
+      "original": "Very well. I accept your proposal to hold your own gathering.",
+      "translation": "Очень хорошо. Я принимаю ваше предложение провести собственное собрание."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 17,
+      "speaker": "Lydie",
+      "original": "Great! Thank you, Sister Grace!",
+      "translation": "Большой! Спасибо, Сестра Грейс!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 18,
+      "speaker": "Grace",
+      "original": "Not at all. I'm looking forward to it already.",
+      "translation": "Нисколько. Я уже с нетерпением жду этого."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "Good, good. Now we've secured the venue.",
+      "translation": "Хорошо, хорошо. Теперь мы обеспечили место проведения."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 20,
+      "speaker": "Lydie",
+      "original": "Nice. Now we just have to wait for Mr. Fritz to be ready.",
+      "translation": "Хороший. Теперь нам остается только ждать, пока мистер Фриц будет готов."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 21,
+      "speaker": "Grace",
+      "original": "One thing, twins... Have you decided what it is you want to do?",
+      "translation": "Еще одно, близнецы... Вы уже решили, чем хотите заниматься?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 22,
+      "speaker": "Lydie",
+      "original": "Do? You mean, at the gathering?",
+      "translation": "Делать? В смысле, на собрании?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 23,
+      "speaker": "Pamela",
+      "original": "Ready for this? They're going to do a comedy routine!",
+      "translation": "Готовы к этому? Они собираются показать комедийный номер!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 24,
+      "speaker": "Grace",
+      "original": "Oh, that sounds hilarious! I can't wait to see it.",
+      "translation": "О, это звучит забавно! Не могу дождаться, чтобы увидеть это."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 25,
+      "speaker": "Sue",
+      "original": "Y-Yeah, that's right. \"Young lady, is this the Soleil Street?\"",
+      "translation": "Д-да, это правда. «Юная леди, это Улица Солей?»"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 26,
+      "speaker": "Lydie",
+      "original": "\"On my soul it is!\" Hahaha!",
+      "translation": "«На душе это так!» Ха-ха-ха!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 27,
+      "speaker": "Grace",
+      "original": "Hahaha! That's funny! I can't wait to see more!",
+      "translation": "Ха-ха-ха! Забавно! Не могу дождаться, чтобы увидеть больше!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 28,
+      "speaker": "Sue",
+      "original": "Phew, it worked somehow... Thank you so much, Pamela.",
+      "translation": "Уф, как-то сработало... Огромное спасибо, Памела."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 29,
+      "speaker": "Pamela",
+      "original": "Hehe, no problem. One thing, though...",
+      "translation": "Хе-хе, без проблем. Однако одно..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 30,
+      "speaker": "Pamela",
+      "original": "You're going to need to work on your joke material.",
+      "translation": "Вам нужно будет поработать над шуточным материалом."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_150.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_150.ebm",
+      "index": 31,
+      "speaker": "Lydie",
+      "original": "Uwah, no need to rub it in... I'm really embarrassed already!",
+      "translation": "Ух, не надо втирать... Мне уже очень неловко!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 0,
+      "speaker": "Drossel",
+      "original": "Hello, girls!",
+      "translation": "Здравствуйте, девочки!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 1,
+      "speaker": "Fritz",
+      "original": "Hahaha! We've made the ultimate puppets, and the ultimate script!",
+      "translation": "Ха-ха-ха! Мы создали идеальных марионеток и лучший сценарий!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Really? Great! We've got the venue ready.",
+      "translation": "Действительно? Большой! Мы подготовили площадку."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "It might be a bit sudden, then, but let's do the show tomorrow! The sooner the better!",
+      "translation": "Тогда это может быть немного неожиданно, но давайте устроим шоу завтра! Чем скорее, тем лучше!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 4,
+      "speaker": "Drossel",
+      "original": "Well said. Tomorrow it is!",
+      "translation": "Хорошо сказано. Завтра это будет!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 5,
+      "speaker": "Fritz",
+      "original": "You should be looking forward to it as well, girls. Part of it is based on you!",
+      "translation": "Вам тоже стоит этого ждать, девочки. Частично это зависит от вас!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 6,
+      "speaker": "Drossel",
+      "original": "Hehe. See you later!",
+      "translation": "Хе-хе. Увидимся позже!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Right. We have to let Sister Grace know!",
+      "translation": "Верно. Мы должны сообщить Сестре Грейс!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Yeah!",
+      "translation": "Ага!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "Right, Sue. Are you ready?",
+      "translation": "Верно, Сью. Вы готовы?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Perfect! Off we go!",
+      "translation": "Идеальный! Поехали!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 11,
+      "speaker": "Grace",
+      "original": "Ah, hello girls. I've been waiting for you.",
+      "translation": "Ой, здравствуйте, девочки. Я ждал тебя."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "Ah, Sister Grace. Sorry for all the rush.",
+      "translation": "Ах, Сестра Грейс. Извините за спешку."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 13,
+      "speaker": "Grace",
+      "original": "Oh, I don't mind at all. This is your gathering, after all.",
+      "translation": "О, я совсем не против. В конце концов, это ваше собрание."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 14,
+      "speaker": "Pamela",
+      "original": "Hehehe! Good luck with your comedy routine!",
+      "translation": "Хе-хе-хе! Удачи вам в ваших комедийных программах!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "Thanks! Ah, it looks like it's time to start. We'll see you later!",
+      "translation": "Спасибо! Ох, похоже, пора начинать. Увидимся позже!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "Gentlemen and girls! Boys and ladies! Welcome, everyone!",
+      "translation": "Господа и девушки! Мальчики и дамы! Добро пожаловать всем!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "Calm down... ahem! We're here to thrill you with our comedy, but first!",
+      "translation": "Успокойся... хм! Мы здесь, чтобы порадовать вас нашей комедией, но сначала!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 18,
+      "speaker": "Sue",
+      "original": "We've called in two special guests! Here we go!",
+      "translation": "Мы пригласили двух специальных гостей! Вот так!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 19,
+      "speaker": "Drossel",
+      "original": "It is an honor to have been invited here today. We are Fritz and Drossel, puppeteers!",
+      "translation": "Для меня большая честь быть приглашенным сюда сегодня. Мы Фриц и Дроссель, кукловоды!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 20,
+      "speaker": "Grace",
+      "original": "What's this!",
+      "translation": "Что это!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 21,
+      "speaker": "Fritz",
+      "original": "We've been called in by our hosts to put on a show for you today!",
+      "translation": "Ведущие пригласили нас устроить сегодня для вас шоу!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 22,
+      "speaker": "Fritz",
+      "original": "For the most important person in our lives!",
+      "translation": "Для самого важного человека в нашей жизни!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 24,
+      "speaker": "Sue",
+      "original": "Without further ado, then, let's get started! Take it away!",
+      "translation": "Итак, без лишних слов, приступим! Уберите это!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 25,
+      "speaker": "Drossel",
+      "original": "Listen now, to our story of the friendship between four alchemists.",
+      "translation": "Послушайте нашу историю о дружбе четырех алхимиков."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 26,
+      "speaker": "Drossel",
+      "original": "One is a kind girl who met a living book. Another, a lively girl who dreamed of the outside world.",
+      "translation": "Одна — добрая девочка, встретившая живую книгу. Другая, бойкая девочка, мечтавшая о внешнем мире."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 27,
+      "speaker": "Drossel",
+      "original": "And then, two twins, living together as they keep their promises to their departed mother.",
+      "translation": "А затем два близнеца, живущие вместе и выполняющие свои обещания, данные ушедшей матери."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 28,
+      "speaker": "Drossel",
+      "original": "The footsteps of home, in which they tread. The endless dream, for which they aim!",
+      "translation": "Следы дома, по которым они идут. Бесконечная мечта, к которой они стремятся!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 29,
+      "speaker": "Drossel",
+      "original": "Do not blink, for fear of what you'll miss! This is our ultimate tale. Its name-",
+      "translation": "Не моргайте, боясь того, что вы пропустите! Это наша последняя история. Его название-"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 30,
+      "speaker": "Drossel",
+      "original": "\"The Mysterious, Mysterious Story\"!",
+      "translation": "«Таинственная, загадочная история»!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 31,
+      "speaker": "Sue",
+      "original": "Ah! I'm exhausted! We had to do our comedy routine in the end, too!",
+      "translation": "Ах! Я изможден! В конце концов, нам тоже пришлось сыграть нашу комедийную программу!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:32": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 32,
+      "speaker": "Lydie",
+      "original": "That was unexpected, but the audience loved it, so that's what really matters.",
+      "translation": "Это было неожиданно, но зрителям это понравилось, и это действительно важно."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:33": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 33,
+      "speaker": "Grace",
+      "original": "It was good, I'll admit, but you did make one mistake!",
+      "translation": "Это было хорошо, я признаю, но ты допустил одну ошибку!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:34": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 34,
+      "speaker": "Fritz",
+      "original": "What! I didn't think anyone would notice. I can't believe you saw that!",
+      "translation": "Что! Я не думал, что кто-то заметит. Я не могу поверить, что ты это видел!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:35": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 35,
+      "speaker": "Drossel",
+      "original": "I saw it too, actually, although I just covered for it.",
+      "translation": "Я тоже это видел, хотя просто прикрыл это."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:36": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 36,
+      "speaker": "Grace",
+      "original": "Haha, you're still not quite there yet. Your adlibbing was so obvious!",
+      "translation": "Хаха, ты еще не совсем там. Ваша импровизация была настолько очевидна!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:37": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 37,
+      "speaker": "Drossel",
+      "original": "Gah! As strict as ever, Mom...",
+      "translation": "Га! Как всегда строгая, мама..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:38": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 38,
+      "speaker": "Grace",
+      "original": "Only because my love of puppet theater is as strong as your own!",
+      "translation": "Только потому, что моя любовь к кукольному театру такая же сильная, как и ваша!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:39": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 39,
+      "speaker": "Lydie",
+      "original": "Hehe. Come on, Sue.",
+      "translation": "Хе-хе. Давай, Сью."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:40": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 40,
+      "speaker": "Sue",
+      "original": "Yeah. We need to go and practice our routine!",
+      "translation": "Ага. Нам нужно пойти и попрактиковаться в нашей рутине!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_160.ebm:41": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_160.ebm",
+      "index": 41,
+      "speaker": "Lydie",
+      "original": "It's too late for that now! Hahaha!",
+      "translation": "Теперь уже слишком поздно для этого! Ха-ха-ха!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_170.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_170.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Hey, look...",
+      "translation": "Эй, смотри..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_170.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_170.ebm",
+      "index": 1,
+      "speaker": "Drossel",
+      "original": "Come on, Mom! Where shall we go next?",
+      "translation": "Давай, мама! Куда мы пойдем дальше?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_170.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_170.ebm",
+      "index": 2,
+      "speaker": "Grace",
+      "original": "Hmm, let me think... There's a delicious cake place nearby!",
+      "translation": "Хм, дай подумать... Рядом вкусная кондитерская!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_170.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_170.ebm",
+      "index": 3,
+      "speaker": "Fritz",
+      "original": "Cake? I'm getting a bit too old for sweet things.",
+      "translation": "Торт? Я уже слишком стар для сладкого."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_170.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_170.ebm",
+      "index": 4,
+      "speaker": "Drossel",
+      "original": "Ah, don't worry! I'll eat your piece, Dad!",
+      "translation": "Ах, не волнуйтесь! Я съем твой кусок, пап!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_170.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_170.ebm",
+      "index": 5,
+      "speaker": "Grace",
+      "original": "Hold on, what about me? You can just pay, darling!",
+      "translation": "Подожди, а что насчет меня? Ты можешь просто заплатить, дорогая!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_170.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_170.ebm",
+      "index": 6,
+      "speaker": "Fritz",
+      "original": "W-What! You leave me no choice but to eat it, then!",
+      "translation": "Ч-что! Тогда ты не оставляешь мне другого выбора, кроме как съесть это!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_170.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_170.ebm",
+      "index": 7,
+      "speaker": "Drossel",
+      "original": "Hahaha! Grin and bear it, Dad! Come on, to the cake shop!",
+      "translation": "Ха-ха-ха! Улыбнись и терпи, папа! Пойдем в кондитерскую!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_170.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_170.ebm",
+      "index": 8,
+      "speaker": "Fritz",
+      "original": "Hey! Don't go running off on your own! You'll just get lost. Hey!",
+      "translation": "Привет! Не убегайте в одиночку! Вы просто потеряетесь. Привет!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_170.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_170.ebm",
+      "index": 9,
+      "speaker": "Grace",
+      "original": "Oh dear. She still can't tell where she is going, can she? Don't leave me behind, please!",
+      "translation": "О, Боже. Она до сих пор не может сказать, куда идет, не так ли? Не оставляй меня, пожалуйста!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_170.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_170.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "Hahaha! It looks like the three of them have completely made up.",
+      "translation": "Ха-ха-ха! Похоже, все трое полностью помирились."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_170.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_170.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "Yeah! They look so happy, I'm glad.",
+      "translation": "Ага! Они выглядят такими счастливыми, я рад."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Sister Grace, hello! Sorry, but we saw you!",
+      "translation": "Сестра Грейс, здравствуйте! Извините, но мы вас видели!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "You were out with your family, and looked really happy!",
+      "translation": "Вы были с семьей и выглядели очень счастливыми!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 2,
+      "speaker": "Grace",
+      "original": "Girls, you should have said something!",
+      "translation": "Девочки, надо было что-нибудь сказать!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Hehe, I don't think I've ever seen you look so happy.",
+      "translation": "Хе-хе, мне кажется, я никогда не видел тебя таким счастливым."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "It was more fun to just watch, than to speak up and ruin the moment.",
+      "translation": "Было веселее просто смотреть, чем высказаться и испортить момент."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 5,
+      "speaker": "Grace",
+      "original": "Hehe. I think you need some punishment for your sneakiness. A spanking, perhaps?",
+      "translation": "Хе-хе. Я думаю, тебе нужно какое-то наказание за твою подлость. Может быть, порка?"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "What?! No, I was just joking. We just didn't want to disturb you! I'm too old for a spanking!",
+      "translation": "Что?! Нет, я просто пошутил. Мы просто не хотели вас беспокоить! Я слишком стар для порки!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 7,
+      "speaker": "Grace",
+      "original": "Hehe, I'll forgive you just this once. I got back something very special to me, thanks to you.",
+      "translation": "Хе-хе, я прощу тебя только один раз. Благодаря тебе я получил нечто особенное для меня."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 8,
+      "speaker": "Grace",
+      "original": "After that, we talked a lot. About the past, and about the future...",
+      "translation": "После этого мы много разговаривали. О прошлом и о будущем..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 9,
+      "speaker": "Grace",
+      "original": "I haven't spent time like that in more than a decade. It was so satisfying!",
+      "translation": "Я не проводил время так уже больше десяти лет. Это было так приятно!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 10,
+      "speaker": "Grace",
+      "original": "Lydie, and Sue... Thank you so much for bringing us back together!",
+      "translation": "Лиди и Сью... Огромное спасибо, что снова собрали нас вместе!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "I'm so happy for you, Sister Grace.",
+      "translation": "Я так рада за тебя, Сестра Грейс."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 12,
+      "speaker": "Grace",
+      "original": "Thank you! Me too!",
+      "translation": "Спасибо! Я тоже!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "I'm sad, too, though... Now we won't be able to call you \"Sister\" any more!",
+      "translation": "Хотя мне тоже грустно... Теперь мы больше не сможем называть тебя «Сестричка»!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "Right, of course... You'll be living as Grace the puppeteer now, won't you...",
+      "translation": "Верно, конечно... Ты теперь будешь жить как кукольница Грейс, не так ли..."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 15,
+      "speaker": "Grace",
+      "original": "No? I'm going to carry on living here as a nun.",
+      "translation": "Нет? Я собираюсь продолжать жить здесь как монахиня."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 16,
+      "speaker": "Grace",
+      "original": "I've been doing this for a long time, after all. I can't go back to that life now.",
+      "translation": "В конце концов, я занимаюсь этим уже давно. Я не могу сейчас вернуться к той жизни."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 17,
+      "speaker": "Lydie",
+      "original": "Uwah! So you'll still be Sister Grace! But I wanted to see your puppet show again!",
+      "translation": "Ува! Значит, ты все равно останешься Сестрой Грейс! Но мне хотелось еще раз посмотреть ваш кукольный спектакль!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 18,
+      "speaker": "Grace",
+      "original": "Don't worry about that. I'll put one on during the next church gathering.",
+      "translation": "Не беспокойтесь об этом. Я надену один на следующем церковном собрании."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "Great! Haha! What will it be this time? Romance? Tragedy? I can't wait!",
+      "translation": "Большой! Хаха! Что будет на этот раз? Романтика? Трагедия? Я не могу дождаться!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 20,
+      "speaker": "Chloe",
+      "original": "I'm sorry, Head Sister! Ines has upset someone who came for confession!",
+      "translation": "Мне очень жаль, старшая сестра! Инес расстроила пришедшего на исповедь!"
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 21,
+      "speaker": "Ines",
+      "original": "I-I'm sorry. I said a bit too much.",
+      "translation": "Я-мне жаль. Я сказал слишком много."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 22,
+      "speaker": "Grace",
+      "original": "What are you doing, dear? Honestly. I'm coming, I'm coming.",
+      "translation": "Что ты делаешь, дорогой? Честно. Я иду, я иду."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 23,
+      "speaker": "Grace",
+      "original": "You heard them, girls. My mediation skills are needed. I will see you later.",
+      "translation": "Вы их слышали, девочки. Мои посреднические навыки необходимы. Увидимся позже."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 24,
+      "speaker": "Grace",
+      "original": "May the blessings of god be with you.",
+      "translation": "Да пребудет с вами благословение Божие."
+    },
+    "ebm:qc10_gra/event_message_qc10_gra_180.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "qc10_gra/event_message_qc10_gra_180.ebm",
+      "index": 25,
+      "speaker": "Lydie",
+      "original": "Hehe, and with you too, Sister Grace. And with you too!",
+      "translation": "Хе-хе, и с тобой тоже, Сестра Грейс. И с тобой тоже!"
+    }
+  }
+}

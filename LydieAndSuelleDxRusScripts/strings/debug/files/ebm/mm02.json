@@ -1,0 +1,2320 @@
+{
+  "version": 1,
+  "source": "pack01_ebm",
+  "block": "mm02",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "ebm:mm02/event_message_mm02_010.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_010.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "It worked, but it's just not the same. If only we could use those painting materials...",
+      "translation": "Это сработало, но это совсем не то же самое. Если бы мы только могли использовать эти материалы из картины..."
+    },
+    "ebm:mm02/event_message_mm02_010.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_010.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "I know, but I don't think we have a choice. We just have to improve gradually.",
+      "translation": "Я знаю, но не думаю, что у нас есть выбор. Нам просто нужно постепенно совершенствоваться."
+    },
+    "ebm:mm02/event_message_mm02_010.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_010.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "How's that working out for us so far? There's a limit to what we can teach ourselves.",
+      "translation": "И как у нас это получается пока что? Есть предел тому, чему мы можем научиться сами."
+    },
+    "ebm:mm02/event_message_mm02_010.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_010.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "I think we already reached it, too. Dad isn't much help. We need a proper teacher. A master.",
+      "translation": "Я думаю, мы тоже уже достигли этого. Папа особо не поможет. Нам нужен хороший учитель. Мастер."
+    },
+    "ebm:mm02/event_message_mm02_010.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_010.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "A master? In this city? Anyway, all that work has made me hungry.",
+      "translation": "Мастер? В этом городе? В любом случае, вся эта работа заставила меня проголодаться."
+    },
+    "ebm:mm02/event_message_mm02_010.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_010.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Hehe, very well. I'll get something ready... ah, sorry, we're all out of food!",
+      "translation": "Хе-хе, очень хорошо. Я приготовлю что-нибудь... ах, извини, у нас закончилась еда!"
+    },
+    "ebm:mm02/event_message_mm02_010.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_010.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "We'll just have to go shopping. We've got the money from those jobs, so no problem.",
+      "translation": "Нам просто нужно сходить за покупками. У нас есть деньги от этих заданий, так что нет проблем."
+    },
+    "ebm:mm02/event_message_mm02_010.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_010.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Hold it!",
+      "translation": "Подожди!"
+    },
+    "ebm:mm02/event_message_mm02_010.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_010.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "What? What's going on? All the money is gone!",
+      "translation": "Что? Что происходит? Все деньги пропали!"
+    },
+    "ebm:mm02/event_message_mm02_010.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_010.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "N-No way! Have we been robbed?",
+      "translation": "Не может быть! Нас что, ограбили?"
+    },
+    "ebm:mm02/event_message_mm02_010.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_010.ebm",
+      "index": 10,
+      "speaker": "Roger",
+      "original": "Ah!",
+      "translation": "Ах!"
+    },
+    "ebm:mm02/event_message_mm02_010.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_010.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "Hey, Dad. Did you use our money by any chance?",
+      "translation": "Привет, папа. Ты случайно не использовал наши деньги?"
+    },
+    "ebm:mm02/event_message_mm02_010.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_010.ebm",
+      "index": 12,
+      "speaker": "Roger",
+      "original": "I wonder. I can't quite recall? I did see some nice looking paints, but did I buy them? Hmm...",
+      "translation": "Интересно. Я точно не помню? Я видел несколько симпатичных красок, но купил ли я их? Хм..."
+    },
+    "ebm:mm02/event_message_mm02_010.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_010.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "Raaaagh!",
+      "translation": "Раааа!"
+    },
+    "ebm:mm02/event_message_mm02_010.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_010.ebm",
+      "index": 14,
+      "speaker": "Roger",
+      "original": "Guwah!",
+      "translation": "Ой!"
+    },
+    "ebm:mm02/event_message_mm02_010.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_010.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "What now? We don't even have enough money to buy food now. We need to make some Coll, quickly.",
+      "translation": "Что теперь? У нас сейчас нет денег даже на еду. Нам нужно быстро найти деньги."
+    },
+    "ebm:mm02/event_message_mm02_010.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_010.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "You said it. Forget dummy-daddy and let's go look at the Plaza.",
+      "translation": "Ты права. Забудь о дураке-папочке и пойдем посмотрим Плазу."
+    },
+    "ebm:mm02/event_message_mm02_010.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_010.ebm",
+      "index": 17,
+      "speaker": "Roger",
+      "original": "Girls! Ah, my bad! I'll synthesize some old shoes or something and get you some food, just give me a moment!",
+      "translation": "Девочки! Ах, извините! Я сейчас синтезирую какие-нибудь старые туфли или что-нибудь подобное и принесу вам еды, подождите минутку!"
+    },
+    "ebm:mm02/event_message_mm02_010.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_010.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "Dad. Just be quiet, please.",
+      "translation": "Папа. Пожалуйста, помолчи."
+    },
+    "ebm:mm02/event_message_mm02_010.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_010.ebm",
+      "index": 19,
+      "speaker": "Roger",
+      "original": "Of course. I'm sorry.",
+      "translation": "Конечно. Мне жаль."
+    },
+    "ebm:mm02/event_message_mm02_010.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_010.ebm",
+      "index": 20,
+      "speaker": "System",
+      "original": "<CLEG>[Tutorial] ~The Town Map~<CLNR>",
+      "translation": "<CLEG>[Учебное пособие] ~Карта города~<CLNR>"
+    },
+    "ebm:mm02/event_message_mm02_010.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_010.ebm",
+      "index": 21,
+      "speaker": "System",
+      "original": "You can press <IM20> to open the <CLEG>Town Map<CLNR>.",
+      "translation": "Вы можете нажать <IM20>, чтобы открыть <CLEG>Карту города<CLNR>."
+    },
+    "ebm:mm02/event_message_mm02_010.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_010.ebm",
+      "index": 22,
+      "speaker": "System",
+      "original": "The Town Map allows you to move around Merveille.",
+      "translation": "Карта города позволяет вам перемещаться по Мервейлю."
+    },
+    "ebm:mm02/event_message_mm02_010.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_010.ebm",
+      "index": 23,
+      "speaker": "System",
+      "original": "<CLR1>While time will pass as you travel, it's still very convenient! Use the Town Map to explore!<CLNR>",
+      "translation": "<CLR1>Хотя время идет, пока вы путешествуете, это все равно очень удобно! Используйте карту города для исследования!<CLNR>"
+    },
+    "ebm:mm02/event_message_mm02_020.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_020.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "There are lots of people out again today. Has a Notice been posted?",
+      "translation": "Сегодня снова много людей. Опубликовано ли уведомление?"
+    },
+    "ebm:mm02/event_message_mm02_020.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_020.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "I hope not. I hope it doesn't mean another hike in taxes.",
+      "translation": "Надеюсь, нет. Надеюсь, это не означает очередного повышения налогов."
+    },
+    "ebm:mm02/event_message_mm02_020.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_020.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Right, let's see what we've got today. \"Alchemists Wanted\"?",
+      "translation": "Хорошо, давайте посмотрим, что у нас есть сегодня. «Требуются алхимики»?"
+    },
+    "ebm:mm02/event_message_mm02_020.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_020.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "The Kingdom of Adalet has decided to proactively attract more alchemists to work here.",
+      "translation": "Королевство Адалет решило активно привлечь для работы здесь больше алхимиков."
+    },
+    "ebm:mm02/event_message_mm02_020.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_020.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "We are therefore happy to announce the implementing of the new Atelier Ranking System.",
+      "translation": "Поэтому мы рады объявить о внедрении новой системы рейтинга ателье."
+    },
+    "ebm:mm02/event_message_mm02_020.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_020.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Ateliers will receive financial aid and a variety of other privileges depending on their rank.",
+      "translation": "Ателье получат финансовую помощь и ряд других привилегий в зависимости от ранга."
+    },
+    "ebm:mm02/event_message_mm02_020.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_020.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "The rank will be determined via examinations.",
+      "translation": "Звание будет определяться на экзаменах."
+    },
+    "ebm:mm02/event_message_mm02_020.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_020.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "All who wish to take part and register their atelier should apply at the Castle.",
+      "translation": "Всем желающим принять участие и зарегистрировать свое ателье необходимо подать заявку в Замке."
+    },
+    "ebm:mm02/event_message_mm02_020.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_020.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Sue! Do you know what this means?",
+      "translation": "Сью! Знаете ли вы, что это значит?"
+    },
+    "ebm:mm02/event_message_mm02_020.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_020.ebm",
+      "index": 9,
+      "speaker": "Sue",
+      "original": "Yes! This system is incredible! If we increase our rank...",
+      "translation": "Да! Эта система невероятна! Если мы повысим свой ранг..."
+    },
+    "ebm:mm02/event_message_mm02_020.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_020.ebm",
+      "index": 10,
+      "speaker": "Together",
+      "original": "We'll make lots of money!<CR>We'll officially have the best atelier in the kingdom!",
+      "translation": "Мы заработаем много денег!<CR>У нас официально будет лучшее ателье в королевстве!"
+    },
+    "ebm:mm02/event_message_mm02_020.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_020.ebm",
+      "index": 11,
+      "speaker": "System",
+      "original": "We'll officially have the best atelier in the kingdom!",
+      "translation": "У нас официально будет лучшее ателье королевства!"
+    },
+    "ebm:mm02/event_message_mm02_020.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_020.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "Hold on. Did you just say \"the best atelier in the kingdom?\"",
+      "translation": "Подожди. Ты только что сказал \"лучшее ателье в королевстве\"?"
+    },
+    "ebm:mm02/event_message_mm02_020.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_020.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "Yep! Surely you've noticed that hardly any customers come to our atelier?",
+      "translation": "Ага! Наверняка вы замечали, что в наше ателье почти не приходят клиенты?"
+    },
+    "ebm:mm02/event_message_mm02_020.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_020.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "Of course. They all go to Borthayre.",
+      "translation": "Конечно. Они все отправляются в Бортайр."
+    },
+    "ebm:mm02/event_message_mm02_020.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_020.ebm",
+      "index": 15,
+      "speaker": "Sue",
+      "original": "I know! But it's the exams that matter in this system. Actual ability, not customer numbers.",
+      "translation": "Я знаю! Но в этой системе главное — экзамены. Реальные возможности, а не количество клиентов."
+    },
+    "ebm:mm02/event_message_mm02_020.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_020.ebm",
+      "index": 16,
+      "speaker": "Lydie",
+      "original": "I see what you mean. We can win on rank, even if we aren't popular?",
+      "translation": "Я понимаю, что вы имеете в виду. Мы можем победить в рейтинге, даже если мы не популярны?"
+    },
+    "ebm:mm02/event_message_mm02_020.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_020.ebm",
+      "index": 17,
+      "speaker": "Sue",
+      "original": "Exactly. If we reach the highest rank, we'll become the greatest in the kingdom, no doubt!",
+      "translation": "Точно. Если мы достигнем самого высокого ранга, мы, без сомнения, станем величайшими в королевстве!"
+    },
+    "ebm:mm02/event_message_mm02_020.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_020.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "I see! Amazing! Come on then, Sue. Let's go and sign up right away!",
+      "translation": "Я понимаю! Удивительный! Тогда давай, Сью. Пойдем и запишемся прямо сейчас!"
+    },
+    "ebm:mm02/event_message_mm02_020.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_020.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "You don't have to tell me twice! To the castle! We'll be the greatest before you know!",
+      "translation": "Тебе не придется повторять мне дважды! В замок! Мы станем величайшими, прежде чем вы узнаете!"
+    },
+    "ebm:mm02/event_message_mm02_030.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_030.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "We have to get to the castle and sign up for the Atelier Ranking System.",
+      "translation": "Нам нужно добраться до замка и зарегистрироваться в системе рейтинга ателье."
+    },
+    "ebm:mm02/event_message_mm02_030.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_030.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "We need to go to the castle and sign up for the Atelier Ranking System!",
+      "translation": "Нам нужно пойти в замок и зарегистрироваться в системе рейтинга ателье!"
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 0,
+      "speaker": "???",
+      "original": "Oh my. If it isn't Lydie and Suelle. Just what are you doing here?",
+      "translation": "О боже. Если это не Лиди и Сюэль. Что ты здесь делаешь?"
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Hey, Lucia. We're here to register for the Atelier Ranking System.",
+      "translation": "Привет, Люсия. Мы здесь, чтобы зарегистрироваться в системе рейтинга ателье."
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 2,
+      "speaker": "Lucia",
+      "original": "I see. I thought you'd probably come, just lagging behind me again! Ohohoho!",
+      "translation": "Я понимаю. Я думал, ты, наверное, придешь, просто опять от меня отстаешь! Ого-хо-хо!"
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 3,
+      "speaker": "Lucia",
+      "original": "I think this will be a bit much for you two. You need to pass an exam just to sign up.",
+      "translation": "Я думаю, это будет слишком много для вас двоих. Чтобы зарегистрироваться, вам нужно сдать экзамен."
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "Is that so? Are you here to take it too, Lucia?",
+      "translation": "Это так? Ты тоже здесь, чтобы принять это, Люсия?"
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 5,
+      "speaker": "Lucia",
+      "original": "Of course not! The glorious Atelier Borthayre is exempt from such petty examinations!",
+      "translation": "Конечно, нет! Славное Ателье Бортайр освобождено от таких мелких проверок!"
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 6,
+      "speaker": "???",
+      "original": "We had you create the exam, after all. There's no point in you doing it.",
+      "translation": "В конце концов, мы попросили вас создать экзамен. Нет смысла тебе это делать."
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Heh. What was that about the glorious Atelier Borthayre again? Eh, Lucia?",
+      "translation": "Хех. Что там еще было о славном Ателье Бортайр? Э, Люсия?"
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 8,
+      "speaker": "Lucia",
+      "original": "Mireille! You didn't need to tell them that! Hah! I'll see you later!",
+      "translation": "Мирей! Не нужно было им этого говорить! Ха! Увидимся позже!"
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "Hahaha, Lucia's always good for a laugh. So, what do we have to do first?",
+      "translation": "Ха-ха-ха, Люсия всегда любит посмеяться. Итак, что нам нужно сделать в первую очередь?"
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 10,
+      "speaker": "Mireille",
+      "original": "Before signing up, can you introduce yourselves? I'm Mireille, by the way.",
+      "translation": "Прежде чем зарегистрироваться, можете ли вы представиться? Кстати, я Мирей."
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 11,
+      "speaker": "Mireille",
+      "original": "I handle all general affairs for the kingdom. That includes our new Atelier Ranking System.",
+      "translation": "Я занимаюсь всеми общими делами королевства. Это включает в себя нашу новую систему рейтинга ателье."
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "Amazing! You handle all of them? Really? Ah, sorry, I mean... I am called Lydie.",
+      "translation": "Удивительный! Ты справляешься со всеми из них? Действительно? Ах, извини, я имею в виду... Меня зовут Лиди."
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "I'm Suelle! It's nice to meet you, Mireille!",
+      "translation": "Я Сюэль! Приятно познакомиться, Мирей!"
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 14,
+      "speaker": "Mireille",
+      "original": "Very well. Nice to meet you. Twins, aren't you? Lucia already told me a bit about you actually.",
+      "translation": "Очень хорошо. Рад встрече. Близнецы, не так ли? Люсия уже рассказала мне кое-что о тебе."
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 15,
+      "speaker": "Mireille",
+      "original": "Hehe. It sounds like the three of you are good friends?",
+      "translation": "Хе-хе. Похоже, вы трое хорошие друзья?"
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "Hmm, we're not exactly close friends? I mean, we've known her since we were kids...",
+      "translation": "Хм, мы не совсем близкие друзья? Я имею в виду, мы знали ее с детства..."
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 17,
+      "speaker": "Mireille",
+      "original": "I'm quite jealous of that. I don't have any friends who I grew up with.",
+      "translation": "Я очень завидую этому. У меня нет друзей, с которыми я вырос."
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 18,
+      "speaker": "Mireille",
+      "original": "Anyway. Shall we get down to business?",
+      "translation": "В любом случае. Приступим к делу?"
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 19,
+      "speaker": "Mireille",
+      "original": "As Lucia already mentioned, you need to take an exam before you can register for the system.",
+      "translation": "Как уже упоминала Люсия, вам необходимо сдать экзамен, прежде чем вы сможете зарегистрироваться в системе."
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 20,
+      "speaker": "Lydie",
+      "original": "We heard that part. Just what kind of exam is it?",
+      "translation": "Мы слышали эту часть. Только что это за экзамен?"
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 21,
+      "speaker": "Mireille",
+      "original": "Aren't you in a hurry! I'll tell you now, don't worry. Here it is!",
+      "translation": "Ты не торопишься! Я тебе сейчас скажу, не волнуйся. Вот!"
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 22,
+      "speaker": "Sue",
+      "original": "To synthesize Dream Paintbrushes? We just have to make this item?",
+      "translation": "Синтезировать кисти мечты? Нам просто нужно сделать этот предмет?"
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 23,
+      "speaker": "Mireille",
+      "original": "Yes. That's all. A nice and simple test. Here's the recipe for the Dream Paintbrushes.",
+      "translation": "Да. Вот и все. Хороший и простой тест. Вот рецепт Кистей Мечты."
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 24,
+      "speaker": "Lydie",
+      "original": "Hmm, it looks fairly tough. I hope we can handle it.",
+      "translation": "Хм, выглядит довольно жестко. Надеюсь, мы справимся."
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 25,
+      "speaker": "Mireille",
+      "original": "If you want to get a rank, you need to prove yourselves.",
+      "translation": "Если вы хотите получить звание, вам нужно проявить себя."
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 26,
+      "speaker": "Mireille",
+      "original": "You can adjust the recipe however you like. Just bring that item back here to me, OK?",
+      "translation": "Вы можете корректировать рецепт по своему усмотрению. Просто принеси мне этот предмет, ладно?"
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 27,
+      "speaker": "Sue",
+      "original": "Sure thing! We'll give it a try! Back to the atelier at once, Lydie!",
+      "translation": "Конечно! Мы попробуем! Немедленно возвращайся в ателье, Лиди!"
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 28,
+      "speaker": "Lydie",
+      "original": "I'm with you! We have to see if we can make it. We'll see you later!",
+      "translation": "Я с тобой! Нам нужно посмотреть, сможем ли мы это сделать. Увидимся позже!"
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 29,
+      "speaker": "Mireille",
+      "original": "Hehehe. Let's see how it'll turn out...",
+      "translation": "Хе-хе-хе. Посмотрим, как получится..."
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 30,
+      "speaker": "System",
+      "original": "<CLEG>[Tutorial] ~Promotion Tests~<CLNR>",
+      "translation": "<CLEG>[Учебное пособие] ~Промо-тесты~<CLNR>"
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 31,
+      "speaker": "System",
+      "original": "You can report to Mireille in the castle concerning Promotion Tests.",
+      "translation": "Вы можете сообщить Мирей в замке об испытаниях на повышение."
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:32": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 32,
+      "speaker": "System",
+      "original": "If you talk to Mireille you can also reconfirm the content of the current exam.",
+      "translation": "Если вы поговорите с Мирей, вы также сможете подтвердить содержание текущего экзамена."
+    },
+    "ebm:mm02/event_message_mm02_040.ebm:33": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_040.ebm",
+      "index": 33,
+      "speaker": "System",
+      "original": "<CLR1>Mireille will handle all your Promotion Test needs! If you don't understand something, just ask her!<CLNR>",
+      "translation": "<CLR1>Мирей позаботится обо всех ваших тестах на повышение! Если вы чего-то не понимаете, просто спросите ее!<CLNR>"
+    },
+    "ebm:mm02/event_message_mm02_050.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_050.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Let's head straight back to the atelier.",
+      "translation": "Давайте сразу вернемся в ателье."
+    },
+    "ebm:mm02/event_message_mm02_050.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_050.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Let's just go right back to the atelier.",
+      "translation": "Давайте просто вернемся в ателье."
+    },
+    "ebm:mm02/event_message_mm02_060.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_060.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Hmm. This looks pretty tough. I guess we have to give Lucia credit for this one.",
+      "translation": "Хм. Это выглядит довольно жестко. Я думаю, мы должны отдать должное Люсии за это."
+    },
+    "ebm:mm02/event_message_mm02_060.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_060.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Lucia is a great alchemist, sure, but I still think we can do this.",
+      "translation": "Люсия, конечно, великий алхимик, но я все равно думаю, что мы справимся."
+    },
+    "ebm:mm02/event_message_mm02_060.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_060.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "Me too. We just need the materials. Should we head out and try to find them right away?",
+      "translation": "Я тоже. Нам нужны только материалы. Должны ли мы отправиться и попытаться найти их прямо сейчас?"
+    },
+    "ebm:mm02/event_message_mm02_060.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_060.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Sounds like a plan. We'd better make sure to take some medicine with us.",
+      "translation": "Звучит как план. Нам лучше обязательно взять с собой лекарства."
+    },
+    "ebm:mm02/event_message_mm02_060.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_060.ebm",
+      "index": 4,
+      "speaker": "System",
+      "original": "<CLEG>[Tutorial] ~Outskirts Map~<CLNR>",
+      "translation": "<CLEG>[Учебное пособие] ~Карта окрестностей~<CLNR>"
+    },
+    "ebm:mm02/event_message_mm02_060.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_060.ebm",
+      "index": 5,
+      "speaker": "System",
+      "original": "Now you can open the <CLEG>Outskirts Map<CLNR>.",
+      "translation": "Теперь вы можете открыть <CLEG>Карту окраин <CLNR>."
+    },
+    "ebm:mm02/event_message_mm02_060.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_060.ebm",
+      "index": 6,
+      "speaker": "System",
+      "original": "Press <IM11> with the Town Map open to switch to the Outskirts Map.",
+      "translation": "Нажмите <IM11> при открытой карте города, чтобы переключиться на карту окраин."
+    },
+    "ebm:mm02/event_message_mm02_060.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_060.ebm",
+      "index": 7,
+      "speaker": "System",
+      "original": "The Outskirts Map allows you to head to areas for gathering materials close to the city.",
+      "translation": "Карта окраин позволяет вам отправиться в места сбора материалов недалеко от города."
+    },
+    "ebm:mm02/event_message_mm02_060.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_060.ebm",
+      "index": 8,
+      "speaker": "System",
+      "original": "<CLR1>Visit a variety of different areas and collect a variety of different materials!<CLNR>",
+      "translation": "<CLR1>Посещайте различные локации и собирайте самые разные материалы!<CLNR>"
+    },
+    "ebm:mm02/event_message_mm02_060.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_060.ebm",
+      "index": 9,
+      "speaker": "System",
+      "original": "You can now go to <CLEG>Spring-green Odahlia<CLNR> and <CLEG>Nearby Forest<CLNR>!",
+      "translation": "Теперь вы можете отправиться в <CLEG>Весенне-зеленая Одалия<CLNR> и <CLEG>Близлежащий лес<CLNR>!"
+    },
+    "ebm:mm02/event_message_mm02_070.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_070.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Phew... we made it back... somehow. We really took a licking, didn't we?",
+      "translation": "Уф... мы вернулись... каким-то образом. Мы действительно облажались, не так ли?"
+    },
+    "ebm:mm02/event_message_mm02_070.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_070.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "We sure did. I totally let my guard down. We need to take a bit more care!",
+      "translation": "Мы уверены, что сделали. Я полностью потерял бдительность. Нам нужно быть немного более осторожными!"
+    },
+    "ebm:mm02/event_message_mm02_070.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_070.ebm",
+      "index": 2,
+      "speaker": "System",
+      "original": "<CLEG>[Tutorial] ~Defeat~<CLNR>",
+      "translation": "<CLEG>[Учебное пособие] ~Поражение~<CLNR>"
+    },
+    "ebm:mm02/event_message_mm02_070.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_070.ebm",
+      "index": 3,
+      "speaker": "System",
+      "original": "Upon defeat in battle you will be returned to the atelier and lose random items from your basket.",
+      "translation": "При поражении в бою вы вернетесь в ателье и потеряете случайные предметы из корзины."
+    },
+    "ebm:mm02/event_message_mm02_070.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_070.ebm",
+      "index": 4,
+      "speaker": "System",
+      "original": "<CLR1>You don't want to lose those precious materials! Retreat is always an option!<CLNR>",
+      "translation": "<CLR1>Вы не хотите потерять эти драгоценные материалы! Отступление всегда возможно!<CLNR>"
+    },
+    "ebm:mm02/event_message_mm02_080.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_080.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "We made one, but do you think this will let us pass the exam?",
+      "translation": "Мы его сделали, но как вы думаете, это позволит нам сдать экзамен?"
+    },
+    "ebm:mm02/event_message_mm02_080.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_080.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "I'm really not sure. They kinda look more like Nightmare Paintbrushes to me...",
+      "translation": "Я правда не уверен. Мне они больше напоминают Кошмарные кисти..."
+    },
+    "ebm:mm02/event_message_mm02_080.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_080.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "We followed the recipe, though. Let's show it to Mireille.",
+      "translation": "Хотя мы следовали рецепту. Давай покажем это Мирей."
+    },
+    "ebm:mm02/event_message_mm02_080.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_080.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Why not? This might even be what she wants, although I'm really not sure about that...",
+      "translation": "Почему нет? Возможно, она даже этого хочет, хотя я правда в этом не уверен..."
+    },
+    "ebm:mm02/event_message_mm02_090.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_090.ebm",
+      "index": 0,
+      "speaker": "Mireille",
+      "original": "Hmm. Sorry. I can't give you a pass for this.",
+      "translation": "Хм. Извини. Я не могу дать тебе пропуск на это."
+    },
+    "ebm:mm02/event_message_mm02_090.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_090.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Hahaha. Yes, we didn't think so.",
+      "translation": "Ха-ха-ха. Да, мы так не думали."
+    },
+    "ebm:mm02/event_message_mm02_090.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_090.ebm",
+      "index": 2,
+      "speaker": "Mireille",
+      "original": "You're on the right track here, but you need to make it a little bit more of your own.",
+      "translation": "Здесь вы на правильном пути, но вам нужно сделать его немного более собственным."
+    },
+    "ebm:mm02/event_message_mm02_090.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_090.ebm",
+      "index": 3,
+      "speaker": "Mireille",
+      "original": "You can take the exam as many times as you like. Try again and come show me what you make!",
+      "translation": "Вы можете сдавать экзамен столько раз, сколько захотите. Попробуйте еще раз и покажите мне, что у вас получается!"
+    },
+    "ebm:mm02/event_message_mm02_090.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_090.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Very well. So we have to put our own spin on it?",
+      "translation": "Очень хорошо. Значит, нам придется внести свой вклад в это?"
+    },
+    "ebm:mm02/event_message_mm02_090.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_090.ebm",
+      "index": 5,
+      "speaker": "???",
+      "original": "...umm... damp... it... Su... here.",
+      "translation": "...ммм... сыро... это... Су... здесь."
+    },
+    "ebm:mm02/event_message_mm02_090.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_090.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "What's going on?",
+      "translation": "Что происходит?"
+    },
+    "ebm:mm02/event_message_mm02_090.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_090.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Lydie, we're leaving. We need to give making these brushes some more thought.",
+      "translation": "Лиди, мы уходим. Нам нужно еще немного подумать над созданием этих кистей."
+    },
+    "ebm:mm02/event_message_mm02_090.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_090.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Yes, I'm coming! I guess I really am just imagining things...",
+      "translation": "Да, я иду! Наверное, я действительно просто воображаю вещи..."
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Make it our own, she said. That's not giving me any ideas. Maybe we just can't do this?",
+      "translation": "«Сделаем это своим», — сказала она. Это не дает мне никаких идей. Может быть, мы просто не можем этого сделать?"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 1,
+      "speaker": "???",
+      "original": "Say there, you two. Can you help me?",
+      "translation": "Скажем, вы двое. Вы можете помочь мне?"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "You might be right. If only we had a master!",
+      "translation": "Возможно, вы правы. Если бы у нас был хозяин!"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "I agree, but there aren't many alchemists in Merveille, let alone ones who could become...",
+      "translation": "Согласен, но в Мервейле не так уж много алхимиков, не говоря уже о тех, кто мог бы стать..."
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 4,
+      "speaker": "???",
+      "original": "You two! Listen! I'm talking to you!",
+      "translation": "Вы двое! Слушать! Я говорю с тобой!"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "What! Ah, sorry! What can we help you with?",
+      "translation": "Что! Ах, извини! Чем мы можем вам помочь?"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 6,
+      "speaker": "???",
+      "original": "I just want some directions. Is this the way to the castle?",
+      "translation": "Мне просто нужны некоторые указания. Это путь к замку?"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Yes, this is the way. Are you going to see the sights?",
+      "translation": "Да, это путь. Собираетесь осмотреть достопримечательности?"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 8,
+      "speaker": "???",
+      "original": "No. I've been summoned by the king, actually.",
+      "translation": "Нет. Вообще-то меня вызвал король."
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "Whaaaaat! From the king himself? Just who are you?",
+      "translation": "Чтоооо! От самого короля? Кто ты?"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 10,
+      "speaker": "Ilmeria",
+      "original": "I am Ilmeria Von Leinweber. Nothing less than a genius level alchemist!",
+      "translation": "Я Илмерия фон Лайнвебер. Не что иное, как алхимик гениального уровня!"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 11,
+      "speaker": "Sue",
+      "original": "What? Is that true? You're dazzling me! Dazzling! My head is spinning!",
+      "translation": "Что? Это правда? Ты меня ослепляешь! Ослепительно! У меня кружится голова!"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 12,
+      "speaker": "Lydie",
+      "original": "Sue? Are you OK? Ah, it's happening to me too! I'm overwhelmed!",
+      "translation": "Сью? Ты в порядке? Ах, это происходит и со мной! Я ошеломлен!"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 13,
+      "speaker": "Ilmeria",
+      "original": "Hey, you two! Are you OK? Speak to me!",
+      "translation": "Эй, вы двое! Ты в порядке? Поговори со мной!"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 14,
+      "speaker": "Together",
+      "original": "Thanks for the food!",
+      "translation": "Спасибо за еду!"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 15,
+      "speaker": "System",
+      "original": "Thanks for the food!",
+      "translation": "Спасибо за еду!"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 16,
+      "speaker": "Ilmeria",
+      "original": "How did it come to this?",
+      "translation": "Как до этого дошло?"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 17,
+      "speaker": "Ilmeria",
+      "original": "Getting waylaid by these sisters on the way to the castle, and ending up having to feed them?",
+      "translation": "Вас подстерегают эти сестры по дороге в замок, и в итоге вам приходится их кормить?"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "Sorry about all that. You really are amazing, though, aren't you Ilmeria!",
+      "translation": "Извините за все это. Но ты действительно потрясающая, не так ли, Илмерия!"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "Becoming a certified alchemist at your age, and invited by the king to start an atelier!",
+      "translation": "Стать сертифицированным алхимиком в своем возрасте и получить приглашение от короля открыть ателье!"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 20,
+      "speaker": "Lydie",
+      "original": "The exam to get certified is super hard, isn't it? I wish we could be like you!",
+      "translation": "Экзамен на получение сертификата очень сложен, не так ли? Я бы хотел, чтобы мы были такими, как вы!"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 21,
+      "speaker": "Ilmeria",
+      "original": "Hah, don't make too much of it. I'm more surprised to hear that you two are alchemists.",
+      "translation": "Ха, не придавай этому слишком большого значения. Я еще больше удивлен, узнав, что вы двое алхимики."
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 22,
+      "speaker": "Lydie",
+      "original": "Hahaha, we can't compare to you, Ilmeria. We just failed our exam.",
+      "translation": "Ха-ха-ха, мы не можем сравниться с тобой, Илмерия. Мы только что провалили экзамен."
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 23,
+      "speaker": "Ilmeria",
+      "original": "You have exams here too, do you? Can I have a look at it?",
+      "translation": "У вас здесь тоже экзамены, да? Могу ли я взглянуть на это?"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:24": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 24,
+      "speaker": "Ilmeria",
+      "original": "Huh. That's a nasty little test. Whoever put that hole in the recipe knows their stuff.",
+      "translation": "Хм. Это неприятное маленькое испытание. Тот, кто проделал эту дыру в рецепте, знает свое дело."
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:25": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 25,
+      "speaker": "Ilmeria",
+      "original": "Free to adjust it? You won't make much of anything if you don't adjust this one!",
+      "translation": "Бесплатно настроить? Вы ничего не добьетесь, если не отрегулируете это!"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:26": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 26,
+      "speaker": "Sue",
+      "original": "What? Really? So we've been tricked?",
+      "translation": "Что? Действительно? Значит, нас обманули?"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:27": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 27,
+      "speaker": "Lydie",
+      "original": "Incredible, Ilmeria! You saw through the trick in an instant!",
+      "translation": "Невероятно, Илмерия! Вы разгадали фокус в одно мгновение!"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:28": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 28,
+      "speaker": "Ilmeria",
+      "original": "Of course I did. I haven't been an alchemist all this time for nothing.",
+      "translation": "Конечно, я это сделал. Я не зря все это время был алхимиком."
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:29": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 29,
+      "speaker": "Lydie",
+      "original": "You're so cool! Hey, Sue, you know what...",
+      "translation": "Ты такой классный! Эй, Сью, знаешь что..."
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:30": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 30,
+      "speaker": "Sue",
+      "original": "I think I do. Pretty sure we just had the same idea, Sis. Ilmeria, can we ask you...",
+      "translation": "Думаю, да. Я уверен, что у нас была одна и та же идея, сестренка. Илмерия, можем ли мы спросить тебя..."
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:31": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 31,
+      "speaker": "Together",
+      "original": "Please become our alchemy teacher!<CR>Please become our alchemy teacher!",
+      "translation": "Пожалуйста, станьте нашим учителем алхимии!<CR>Пожалуйста, станьте нашим учителем алхимии!"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:32": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 32,
+      "speaker": "System",
+      "original": "Please become our alchemy teacher!",
+      "translation": "Пожалуйста, станьте нашим учителем алхимии!"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:33": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 33,
+      "speaker": "Ilmeria",
+      "original": "What?! What are you talking about?",
+      "translation": "Что?! О чем ты говоришь?"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:34": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 34,
+      "speaker": "Lydie",
+      "original": "We've been looking for a teacher. A master alchemist. Teaching ourselves isn't getting us anywhere...",
+      "translation": "Мы искали учителя. Мастер-алхимик. Самообучение ни к чему не приведет..."
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:35": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 35,
+      "speaker": "Sue",
+      "original": "We have to become better alchemists, no matter what!",
+      "translation": "Мы должны стать лучшими алхимиками, несмотря ни на что!"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:36": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 36,
+      "speaker": "Sue",
+      "original": "We have to become the greatest in the kingdom! That's our promise with our mom!",
+      "translation": "Мы должны стать величайшими в королевстве! Это наше обещание с нашей мамой!"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:37": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 37,
+      "speaker": "Lydie",
+      "original": "But there was no one we could ask... until now! Please, teach us how to be better alchemists!",
+      "translation": "Но нам не у кого было спросить... до сих пор! Пожалуйста, научите нас, как стать лучшими алхимиками!"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:38": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 38,
+      "speaker": "Ilmeria",
+      "original": "I see. I think I understand the situation. I thought you were mocking me, for a moment.",
+      "translation": "Я понимаю. Думаю, я понимаю ситуацию. Я на мгновение подумал, что ты издеваешься надо мной."
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:39": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 39,
+      "speaker": "Ilmeria",
+      "original": "Very well. I'll teach you, if you're sure. But take another night to think it over.",
+      "translation": "Очень хорошо. Я научу тебя, если ты уверен. Но потратьте еще одну ночь, чтобы все обдумать."
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:40": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 40,
+      "speaker": "Ilmeria",
+      "original": "If you still feel this way tomorrow, come and see me again. Understand?",
+      "translation": "Если завтра ты все еще будешь чувствовать то же самое, приходи ко мне снова. Понимать?"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:41": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 41,
+      "speaker": "Sue",
+      "original": "Yes! We'll see you tomorrow, teach!",
+      "translation": "Да! Увидимся завтра, учим!"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:42": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 42,
+      "speaker": "Ilmeria",
+      "original": "Too soon to call me that! Get out of here, anyway! You are literally making me keep the king waiting!",
+      "translation": "Слишком рано называть меня так! Хоть уходи отсюда! Ты буквально заставляешь меня заставлять короля ждать!"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:43": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 43,
+      "speaker": "Lydie",
+      "original": "Sure thing. We'll just head back home. See you again tomorrow, Ilmeria!",
+      "translation": "Конечно. Мы просто вернемся домой. Увидимся завтра, Илмерия!"
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:44": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 44,
+      "speaker": "Ilmeria",
+      "original": "Talk about double trouble. That look in their eyes, though... I've seen that before.",
+      "translation": "Разговор о двойной проблеме. Однако этот взгляд в их глазах... Я видел это раньше."
+    },
+    "ebm:mm02/event_message_mm02_100.ebm:45": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_100.ebm",
+      "index": 45,
+      "speaker": "Ilmeria",
+      "original": "Teach, is it? You know, I think I can live with that.",
+      "translation": "Научить, что ли? Знаешь, я думаю, что смогу с этим жить."
+    },
+    "ebm:mm02/event_message_mm02_110.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_110.ebm",
+      "index": 0,
+      "speaker": "Roger",
+      "original": "You're back! Hahaha, rejoice! I sold off some old painting gear and bought some food!",
+      "translation": "Ты вернулся! Ха-ха-ха, радуйтесь! Я продал старое оборудование для рисования и купил немного еды!"
+    },
+    "ebm:mm02/event_message_mm02_110.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_110.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "You did? Don't worry about it. Someone treated us to a great meal.",
+      "translation": "Вы сделали? Не беспокойтесь об этом. Кто-то угостил нас вкусной едой."
+    },
+    "ebm:mm02/event_message_mm02_110.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_110.ebm",
+      "index": 2,
+      "speaker": "Roger",
+      "original": "What?",
+      "translation": "Что?"
+    },
+    "ebm:mm02/event_message_mm02_110.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_110.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Hahaha. Sorry, Dad. We'll eat that tomorrow. Goodnight!",
+      "translation": "Ха-ха-ха. Прости, папа. Мы съедим это завтра. Спокойной ночи!"
+    },
+    "ebm:mm02/event_message_mm02_110.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_110.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "Ilmeria said to think it over, but we aren't going to change our minds.",
+      "translation": "Илмерия сказала подумать, но мы не собираемся менять свое решение."
+    },
+    "ebm:mm02/event_message_mm02_110.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_110.ebm",
+      "index": 5,
+      "speaker": "Lydie",
+      "original": "Of course not! She seems really kind. I'm sure she'll teach us all sorts of things.",
+      "translation": "Конечно, нет! Она кажется очень доброй. Я уверен, что она научит нас многому."
+    },
+    "ebm:mm02/event_message_mm02_110.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_110.ebm",
+      "index": 6,
+      "speaker": "Sue",
+      "original": "Me too! This will bring us that much closer to becoming the greatest alchemists! I can't wait!",
+      "translation": "Я тоже! Это приблизит нас к тому, чтобы стать величайшими алхимиками! Я не могу дождаться!"
+    },
+    "ebm:mm02/event_message_mm02_110.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_110.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Thanks for the breakfast. We're off, Dad!",
+      "translation": "Спасибо за завтрак. Мы уходим, пап!"
+    },
+    "ebm:mm02/event_message_mm02_110.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_110.ebm",
+      "index": 8,
+      "speaker": "Roger",
+      "original": "What? Where are you headed?",
+      "translation": "Что? Куда вы направляетесь?"
+    },
+    "ebm:mm02/event_message_mm02_110.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_110.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "It's a secret! See you later!",
+      "translation": "Это секрет! Увидимся позже!"
+    },
+    "ebm:mm02/event_message_mm02_120.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_120.ebm",
+      "index": 0,
+      "speaker": "Ilmeria",
+      "original": "You came back. I guess this means you haven't changed your minds?",
+      "translation": "Вы вернулись. Я так понимаю, это значит, что ты не передумал?"
+    },
+    "ebm:mm02/event_message_mm02_120.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_120.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "We haven't! We want to learn alchemy from you, Ilmeria.",
+      "translation": "У нас нет! Мы хотим научиться у тебя алхимии, Илмерия."
+    },
+    "ebm:mm02/event_message_mm02_120.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_120.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Please! Master, teach us all about alchemy!",
+      "translation": "Пожалуйста! Мастер, научите нас всех алхимии!"
+    },
+    "ebm:mm02/event_message_mm02_120.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_120.ebm",
+      "index": 3,
+      "speaker": "Ilmeria",
+      "original": "OK. I'm not going to hold back, though. Get ready for this!",
+      "translation": "ХОРОШО. Однако я не собираюсь сдерживаться. Будьте готовы к этому!"
+    },
+    "ebm:mm02/event_message_mm02_120.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_120.ebm",
+      "index": 4,
+      "speaker": "Together",
+      "original": "We're ready!",
+      "translation": "Мы готовы!"
+    },
+    "ebm:mm02/event_message_mm02_120.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_120.ebm",
+      "index": 5,
+      "speaker": "System",
+      "original": "We're ready!",
+      "translation": "Мы готовы!"
+    },
+    "ebm:mm02/event_message_mm02_120.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_120.ebm",
+      "index": 6,
+      "speaker": "Ilmeria",
+      "original": "You sound it. Let's start your lessons at once.",
+      "translation": "Вы это озвучиваете. Давайте начнем ваши уроки немедленно."
+    },
+    "ebm:mm02/event_message_mm02_120.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_120.ebm",
+      "index": 7,
+      "speaker": "Ilmeria",
+      "original": "Tell me, then, my students. Just what is alchemy?",
+      "translation": "Скажите же мне, мои ученики. Что такое алхимия?"
+    },
+    "ebm:mm02/event_message_mm02_120.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_120.ebm",
+      "index": 8,
+      "speaker": "Sue",
+      "original": "What do you mean? Mixing materials in a cauldron to make something, right?",
+      "translation": "Что ты имеешь в виду? Смешивать материалы в котле, чтобы что-нибудь сделать, верно?"
+    },
+    "ebm:mm02/event_message_mm02_120.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_120.ebm",
+      "index": 9,
+      "speaker": "Ilmeria",
+      "original": "That's not a bad overview, perhaps, but it isn't entirely accurate.",
+      "translation": "Возможно, это неплохой обзор, но он не совсем точен."
+    },
+    "ebm:mm02/event_message_mm02_120.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_120.ebm",
+      "index": 10,
+      "speaker": "Ilmeria",
+      "original": "Alchemy means listening to the voice of materials and then using natural power to transform them.",
+      "translation": "Алхимия означает прислушиваться к голосу материалов, а затем использовать природную силу для их преобразования."
+    },
+    "ebm:mm02/event_message_mm02_120.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_120.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "The voice of materials? They can talk?",
+      "translation": "Голос материалов? Они могут говорить?"
+    },
+    "ebm:mm02/event_message_mm02_120.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_120.ebm",
+      "index": 12,
+      "speaker": "Ilmeria",
+      "original": "Yes. Only the very best alchemists can hear them. Most alchemists will never...",
+      "translation": "Да. Их могут услышать только самые лучшие алхимики. Большинство алхимиков никогда..."
+    },
+    "ebm:mm02/event_message_mm02_120.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_120.ebm",
+      "index": 13,
+      "speaker": "Sue",
+      "original": "Zzzzz... no more soup... I want some cake...",
+      "translation": "Ззззз... супа больше нет... Я хочу тортика..."
+    },
+    "ebm:mm02/event_message_mm02_120.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_120.ebm",
+      "index": 14,
+      "speaker": "Lydie",
+      "original": "Aaah! S-Sue, wake up! Teach, I'm sorry!",
+      "translation": "Ааа! С-Сью, просыпайся! Научите, простите!"
+    },
+    "ebm:mm02/event_message_mm02_120.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_120.ebm",
+      "index": 15,
+      "speaker": "Ilmeria",
+      "original": "Hehe. A lecture is too boring for Sue? No problem. You'll need more than lectures to improve, anyway.",
+      "translation": "Хе-хе. Лекция слишком скучна для Сью? Без проблем. В любом случае, чтобы совершенствоваться, вам понадобится нечто большее, чем просто лекции."
+    },
+    "ebm:mm02/event_message_mm02_120.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_120.ebm",
+      "index": 16,
+      "speaker": "Ilmeria",
+      "original": "Years of lectures can be trumped by one year of experience. That's how alchemy works.",
+      "translation": "Годы лекций могут быть заменены одним годом опыта. Вот как работает алхимия."
+    },
+    "ebm:mm02/event_message_mm02_120.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_120.ebm",
+      "index": 17,
+      "speaker": "Ilmeria",
+      "original": "Both of you, come over to the cauldron. I'll teach you some high quality synthesizing.",
+      "translation": "Вы оба, подойдите к котлу. Я научу вас качественному синтезу."
+    },
+    "ebm:mm02/event_message_mm02_130.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_130.ebm",
+      "index": 0,
+      "speaker": "Ilmeria",
+      "original": "Hey! My lesson isn't finished yet!",
+      "translation": "Привет! Мой урок еще не окончен!"
+    },
+    "ebm:mm02/event_message_mm02_140.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_140.ebm",
+      "index": 0,
+      "speaker": "Ilmeria",
+      "original": "This is more than just mixing materials. The order you add them, cauldron temperature, all are important.",
+      "translation": "Это больше, чем просто смешивание материалов. Порядок их добавления, температура котла — все это важно."
+    },
+    "ebm:mm02/event_message_mm02_150.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_150.ebm",
+      "index": 0,
+      "speaker": "Ilmeria",
+      "original": "Yes, that's the way. You pick things up quickly.",
+      "translation": "Да, именно так. Вы быстро схватываете вещи."
+    },
+    "ebm:mm02/event_message_mm02_150.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_150.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "Sue. Look at that!",
+      "translation": "Сью. Посмотрите на это!"
+    },
+    "ebm:mm02/event_message_mm02_150.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_150.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Yes. It's totally different! Like when we used materials from inside the painting.",
+      "translation": "Да. Это совершенно другое! Например, когда мы использовали материалы изнутри картины."
+    },
+    "ebm:mm02/event_message_mm02_150.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_150.ebm",
+      "index": 3,
+      "speaker": "Ilmeria",
+      "original": "From inside where? Ah, no matter. These are the basics of synthesis. Remember them well.",
+      "translation": "Откуда изнутри? Ах, неважно. Это основы синтеза. Запомните их хорошенько."
+    },
+    "ebm:mm02/event_message_mm02_150.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_150.ebm",
+      "index": 4,
+      "speaker": "Sue",
+      "original": "We will! At this rate, we'll have the greatest atelier in the kingdom before we know it!",
+      "translation": "Мы будем! Такими темпами у нас будет величайшее ателье в королевстве, даже не заметив этого!"
+    },
+    "ebm:mm02/event_message_mm02_150.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_150.ebm",
+      "index": 5,
+      "speaker": "Ilmeria",
+      "original": "No you won't. Alchemy is about more than just synthesis.",
+      "translation": "Нет, ты не будешь. Алхимия – это нечто большее, чем просто синтез."
+    },
+    "ebm:mm02/event_message_mm02_150.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_150.ebm",
+      "index": 6,
+      "speaker": "Ilmeria",
+      "original": "Alchemy is about creation. Creativity and imagination are as important as synthesis skill.",
+      "translation": "Алхимия – это творчество. Креативность и воображение так же важны, как и умение синтезировать."
+    },
+    "ebm:mm02/event_message_mm02_150.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_150.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "Imagination? Creativity?",
+      "translation": "Воображение? Креативность?"
+    },
+    "ebm:mm02/event_message_mm02_150.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_150.ebm",
+      "index": 8,
+      "speaker": "Ilmeria",
+      "original": "Yes. The ability to imagine new recipes, for example. It isn't something I can teach, either.",
+      "translation": "Да. Например, способность придумывать новые рецепты. Я тоже не могу этому научить."
+    },
+    "ebm:mm02/event_message_mm02_150.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_150.ebm",
+      "index": 9,
+      "speaker": "Ilmeria",
+      "original": "Thinking flexibly and experiencing many different things. That's the key to discovering recipes.",
+      "translation": "Мыслить гибко и испытывать много разных вещей. Это ключ к открытию рецептов."
+    },
+    "ebm:mm02/event_message_mm02_150.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_150.ebm",
+      "index": 10,
+      "speaker": "Ilmeria",
+      "original": "It's time for me to test you a little. I want both of you to come up with some new recipes.",
+      "translation": "Пришло время мне немного тебя проверить. Я хочу, чтобы вы оба придумали несколько новых рецептов."
+    },
+    "ebm:mm02/event_message_mm02_150.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_150.ebm",
+      "index": 11,
+      "speaker": "Lydie",
+      "original": "What? Isn't that a little sudden? We have to think of some new recipes already?",
+      "translation": "Что? Не правда ли, это немного неожиданно? Нам уже нужно придумать какие-нибудь новые рецепты?"
+    },
+    "ebm:mm02/event_message_mm02_150.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_150.ebm",
+      "index": 12,
+      "speaker": "Ilmeria",
+      "original": "You'll be fine. I have a friend who can think up two or three recipes in a single night.",
+      "translation": "С тобой все будет в порядке. У меня есть друг, который может придумать два или три рецепта за одну ночь."
+    },
+    "ebm:mm02/event_message_mm02_150.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_150.ebm",
+      "index": 13,
+      "speaker": "Ilmeria",
+      "original": "Just go and try lots of different things! Off you go, and do your best!",
+      "translation": "Просто идите и попробуйте много разных вещей! Идите и делайте все, что в ваших силах!"
+    },
+    "ebm:mm02/event_message_mm02_150.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_150.ebm",
+      "index": 14,
+      "speaker": "Sue",
+      "original": "Phew! She practically kicked us out. Ilmeria might be tougher than I thought...",
+      "translation": "Уф! Она нас практически выгнала. Илмерия может оказаться крепче, чем я думал..."
+    },
+    "ebm:mm02/event_message_mm02_150.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_150.ebm",
+      "index": 15,
+      "speaker": "Lydie",
+      "original": "Hahaha, you might be right. She explained things really well though, didn't she!",
+      "translation": "Ха-ха-ха, возможно, ты прав. Хотя она очень хорошо все объяснила, не так ли!"
+    },
+    "ebm:mm02/event_message_mm02_150.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_150.ebm",
+      "index": 16,
+      "speaker": "Sue",
+      "original": "I was sleeping for half of it, but she did seem pretty good at it!",
+      "translation": "Половину времени я спал, но, похоже, у нее это неплохо получалось!"
+    },
+    "ebm:mm02/event_message_mm02_150.ebm:17": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_150.ebm",
+      "index": 17,
+      "speaker": "Lydie",
+      "original": "If we follow her lead, we can become great alchemists! We need to do what she told us.",
+      "translation": "Если мы последуем ее примеру, мы сможем стать великими алхимиками! Нам нужно сделать то, что она нам сказала."
+    },
+    "ebm:mm02/event_message_mm02_150.ebm:18": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_150.ebm",
+      "index": 18,
+      "speaker": "Lydie",
+      "original": "Get hints from experiencing various things. How about taking on some quests, then?",
+      "translation": "Получайте подсказки, испытывая различные вещи. Как насчет того, чтобы выполнить несколько квестов?"
+    },
+    "ebm:mm02/event_message_mm02_150.ebm:19": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_150.ebm",
+      "index": 19,
+      "speaker": "Sue",
+      "original": "Make some money, and earn some experience? That sounds like two birds with one stone!",
+      "translation": "Заработать немного денег и получить опыт? Это звучит как два зайца одним выстрелом!"
+    },
+    "ebm:mm02/event_message_mm02_150.ebm:20": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_150.ebm",
+      "index": 20,
+      "speaker": "Lydie",
+      "original": "That settles it! Let's head over to the Plaza right away!",
+      "translation": "Это решает вопрос! Давайте немедленно отправимся в Плазу!"
+    },
+    "ebm:mm02/event_message_mm02_150.ebm:21": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_150.ebm",
+      "index": 21,
+      "speaker": "System",
+      "original": "<CLEG>[Tutorial] ~Recipe Ideas~<CLNR>",
+      "translation": "<CLEG>[Урок] ~Идеи рецептов~<CLNR>"
+    },
+    "ebm:mm02/event_message_mm02_150.ebm:22": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_150.ebm",
+      "index": 22,
+      "speaker": "System",
+      "original": "Meeting certain conditions by fighting, gathering, and synthesizing can lead you to discovering new recipes.",
+      "translation": "Выполнение определенных условий путем борьбы, сбора и синтеза может привести вас к открытию новых рецептов."
+    },
+    "ebm:mm02/event_message_mm02_150.ebm:23": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_150.ebm",
+      "index": 23,
+      "speaker": "System",
+      "original": "You can find hints for new ideas in <CLEG>Recipe Book<CLNR> in the Main Menu.",
+      "translation": "Вы можете найти подсказки для новых идей в <CLEG>Книге рецептов<CLNR> в главном меню."
+    },
+    "ebm:mm02/event_message_mm02_160.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_160.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Right! What kind of quest would be best? We can't really afford to be picky, though.",
+      "translation": "Верно! Какой квест подойдет лучше всего? Однако мы не можем позволить себе быть придирчивыми."
+    },
+    "ebm:mm02/event_message_mm02_160.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_160.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Humm. I guess it's to be expected, but a lot of them involve leaving the city.",
+      "translation": "Хм. Думаю, этого и следовало ожидать, но многие из них предполагают выезд из города."
+    },
+    "ebm:mm02/event_message_mm02_160.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_160.ebm",
+      "index": 2,
+      "speaker": "Lydie",
+      "original": "There are monsters out there, so we'll have to prepare well. Make some items, and...",
+      "translation": "Там есть монстры, так что нам придется хорошо подготовиться. Сделайте несколько предметов и..."
+    },
+    "ebm:mm02/event_message_mm02_160.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_160.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Get some weapons and armor, too. We can find both of those at Hagel's place.",
+      "translation": "Также возьмите немного оружия и доспехов. Мы можем найти их обоих дома у Хагеля."
+    },
+    "ebm:mm02/event_message_mm02_160.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_160.ebm",
+      "index": 4,
+      "speaker": "Lydie",
+      "original": "We'd better go and see him. Although we can't buy anything without money.",
+      "translation": "Нам лучше пойти и увидеться с ним. Хотя без денег мы ничего не купим."
+    },
+    "ebm:mm02/event_message_mm02_160.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_160.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "Ah, I completely forgot about that problem!",
+      "translation": "Ах, я совсем забыл об этой проблеме!"
+    },
+    "ebm:mm02/event_message_mm02_160.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_160.ebm",
+      "index": 6,
+      "speaker": "System",
+      "original": "<CLEG>[Tutorial] ~Quests~<CLNR>",
+      "translation": "<CLEG>[Обучение] ~Квесты~<CLNR>"
+    },
+    "ebm:mm02/event_message_mm02_160.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_160.ebm",
+      "index": 7,
+      "speaker": "System",
+      "original": "Take a look at the Notice Board in the Castle Plaza to accept <CLEG>quests<CLNR>.",
+      "translation": "Взгляните на доску объявлений на Замковой площади, чтобы принять <CLEG>квестов<CLNR>."
+    },
+    "ebm:mm02/event_message_mm02_160.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_160.ebm",
+      "index": 8,
+      "speaker": "System",
+      "original": "Talk to the <CLEG>Receptionist Lady<CLNR> next to the Notice Board to complete or cancel quests.",
+      "translation": "Поговорите с <CLEG>Администратором<CLNR> рядом с доской объявлений, чтобы выполнить или отменить квесты."
+    },
+    "ebm:mm02/event_message_mm02_160.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_160.ebm",
+      "index": 9,
+      "speaker": "System",
+      "original": "<CLR1>Completing requests will earn rewards like money and items! Take on as many as you can!<CLNR>",
+      "translation": "<CLR1>Выполнение запросов принесет награды в виде денег и предметов! Возьмите на себя столько, сколько сможете!<CLNR>"
+    },
+    "ebm:mm02/event_message_mm02_170.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_170.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Hey, Hagel! You sell weapons and armor here, don't you?",
+      "translation": "Привет, Хагель! Вы продаете здесь оружие и доспехи, не так ли?"
+    },
+    "ebm:mm02/event_message_mm02_170.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_170.ebm",
+      "index": 1,
+      "speaker": "Hagel",
+      "original": "That's how I make my living! Off to fight some monsters?",
+      "translation": "Вот как я зарабатываю на жизнь! Собираетесь сражаться с монстрами?"
+    },
+    "ebm:mm02/event_message_mm02_170.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_170.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "That's right! We're going to beat up every single monster we can find!",
+      "translation": "Это верно! Мы собираемся победить каждого монстра, которого сможем найти!"
+    },
+    "ebm:mm02/event_message_mm02_170.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_170.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Don't get carried away! We just need to be ready to leave the city for some requests, that's all.",
+      "translation": "Не увлекайтесь! Нам просто нужно быть готовыми покинуть город по каким-то просьбам, вот и все."
+    },
+    "ebm:mm02/event_message_mm02_170.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_170.ebm",
+      "index": 4,
+      "speaker": "Hagel",
+      "original": "I see. In which case, you're in the right place.",
+      "translation": "Я понимаю. В этом случае вы находитесь в правильном месте."
+    },
+    "ebm:mm02/event_message_mm02_170.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_170.ebm",
+      "index": 5,
+      "speaker": "Hagel",
+      "original": "Swords, guns, armor, I've got it all. Standard gear and special orders, all the best quality!",
+      "translation": "Мечи, ружья, доспехи — все это у меня есть. Стандартное снаряжение и специальные заказы, все самого лучшего качества!"
+    },
+    "ebm:mm02/event_message_mm02_170.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_170.ebm",
+      "index": 6,
+      "speaker": "Hagel",
+      "original": "Hahaha! I'm a master blacksmith! Take a look around!",
+      "translation": "Ха-ха-ха! Я мастер-кузнец! Посмотрите вокруг!"
+    },
+    "ebm:mm02/event_message_mm02_180.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_180.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Heh, we've thought up quite a few new recipes. Ilmeria was right, it was worth giving it a try!",
+      "translation": "Хех, мы придумали немало новых рецептов. Илмерия была права, попробовать стоило!"
+    },
+    "ebm:mm02/event_message_mm02_180.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_180.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Looks like it. This should be more than enough. Let's go and show her what we've come up with!",
+      "translation": "Похоже на это. Этого должно быть более чем достаточно. Пойдем и покажем ей, что мы придумали!"
+    },
+    "ebm:mm02/event_message_mm02_190.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_190.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Ilmeria! We've come up with all sorts of recipes!",
+      "translation": "Ильмерия! Мы придумали самые разные рецепты!"
+    },
+    "ebm:mm02/event_message_mm02_190.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_190.ebm",
+      "index": 1,
+      "speaker": "Ilmeria",
+      "original": "Good, you sound confident! Let me take a look.",
+      "translation": "Отлично, ты говоришь уверенно! Позвольте мне взглянуть."
+    },
+    "ebm:mm02/event_message_mm02_190.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_190.ebm",
+      "index": 2,
+      "speaker": "Ilmeria",
+      "original": "Good. This is a pass! I thought it when watching you synthesize, and this confirms your potential.",
+      "translation": "Хороший. Это пропуск! Я подумал об этом, когда смотрел, как ты синтезируешь, и это подтверждает твой потенциал."
+    },
+    "ebm:mm02/event_message_mm02_190.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_190.ebm",
+      "index": 3,
+      "speaker": "Sue",
+      "original": "Really? Go on, you can praise us some more!",
+      "translation": "Действительно? Продолжайте, вы можете похвалить нас еще раз!"
+    },
+    "ebm:mm02/event_message_mm02_190.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_190.ebm",
+      "index": 4,
+      "speaker": "Ilmeria",
+      "original": "Don't get carried away. This doesn't change your lack of experience.",
+      "translation": "Не увлекайтесь. Это не меняет вашего отсутствия опыта."
+    },
+    "ebm:mm02/event_message_mm02_190.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_190.ebm",
+      "index": 5,
+      "speaker": "Ilmeria",
+      "original": "You're ready to go to the next step, though. You remember the Dream Paintbrushes, I take it?",
+      "translation": "Однако вы готовы перейти к следующему шагу. Вы помните «Кисти мечты», я так понимаю?"
+    },
+    "ebm:mm02/event_message_mm02_190.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_190.ebm",
+      "index": 6,
+      "speaker": "Lydie",
+      "original": "Yes, of course.",
+      "translation": "Да, конечно."
+    },
+    "ebm:mm02/event_message_mm02_190.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_190.ebm",
+      "index": 7,
+      "speaker": "Ilmeria",
+      "original": "I think the two of you are ready, to come up with the correct recipe and synthesize it.",
+      "translation": "Я думаю, вы двое готовы придумать правильный рецепт и синтезировать его."
+    },
+    "ebm:mm02/event_message_mm02_190.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_190.ebm",
+      "index": 8,
+      "speaker": "Ilmeria",
+      "original": "Which leads us to my next test. Make some Dream Paintbrushes and bring them to me!",
+      "translation": "Это подводит нас к следующему тесту. Сделайте несколько кистей мечты и принесите их мне!"
+    },
+    "ebm:mm02/event_message_mm02_190.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_190.ebm",
+      "index": 9,
+      "speaker": "Ilmeria",
+      "original": "You're my students now. You can't back out of this!",
+      "translation": "Вы теперь мои ученики. Вы не можете отступить от этого!"
+    },
+    "ebm:mm02/event_message_mm02_190.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_190.ebm",
+      "index": 10,
+      "speaker": "Sue",
+      "original": "We're not going to! We'll bring you the greatest brushes you've ever seen!",
+      "translation": "Мы не собираемся! Мы подарим вам самые лучшие кисти, которые вы когда-либо видели!"
+    },
+    "ebm:mm02/event_message_mm02_190.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_190.ebm",
+      "index": 11,
+      "speaker": "Ilmeria",
+      "original": "Good. I'll be waiting right here. If you need any help, though, come and ask me.",
+      "translation": "Хороший. Я буду ждать прямо здесь. Но если тебе понадобится помощь, приходи и спроси меня."
+    },
+    "ebm:mm02/event_message_mm02_190.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_190.ebm",
+      "index": 12,
+      "speaker": "Ilmeria",
+      "original": "So, go get to work. I know you can do it.",
+      "translation": "Итак, иди за работу. Я знаю, что ты можешь это сделать."
+    },
+    "ebm:mm02/event_message_mm02_200.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_200.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "That's it! I'm sure this recipe can create the perfect Dream Paintbrushes!",
+      "translation": "Вот и все! Я уверен, что с помощью этого рецепта можно создать идеальные кисти мечты!"
+    },
+    "ebm:mm02/event_message_mm02_200.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_200.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Me too! We just have to keep our cool!",
+      "translation": "Я тоже! Нам просто нужно сохранять хладнокровие!"
+    },
+    "ebm:mm02/event_message_mm02_210.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_210.ebm",
+      "index": 0,
+      "speaker": "Sue",
+      "original": "Great! Now these are Dream Paintbrushes! They're overflowing with dreams this time!",
+      "translation": "Большой! Теперь это кисти мечты! На этот раз они переполнены мечтами!"
+    },
+    "ebm:mm02/event_message_mm02_210.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_210.ebm",
+      "index": 1,
+      "speaker": "Lydie",
+      "original": "I bet Ilmeria will praise us again. Sue, let's go and show this to her!",
+      "translation": "Могу поспорить, что Илмерия еще раз нас похвалит. Сью, пойдем и покажем ей это!"
+    },
+    "ebm:mm02/event_message_mm02_220.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_220.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Ilmeria! We've made the Dream Paintbrushes!",
+      "translation": "Ильмерия! Мы создали кисти мечты!"
+    },
+    "ebm:mm02/event_message_mm02_220.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_220.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "Tad-dah! We've got total confidence in these. Check them out!",
+      "translation": "Тад-да! Мы полностью уверены в них. Проверьте их!"
+    },
+    "ebm:mm02/event_message_mm02_220.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_220.ebm",
+      "index": 2,
+      "speaker": "Ilmeria",
+      "original": "You should. I've got nothing bad to say about this! Well done, both of you!",
+      "translation": "Вам следует. Я не могу сказать по этому поводу ничего плохого! Молодцы вы оба!"
+    },
+    "ebm:mm02/event_message_mm02_220.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_220.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Really? Yes! All that hard work paid off!",
+      "translation": "Действительно? Да! Вся эта тяжелая работа окупилась!"
+    },
+    "ebm:mm02/event_message_mm02_220.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_220.ebm",
+      "index": 4,
+      "speaker": "Ilmeria",
+      "original": "I bet you'll pass the test with this. How about taking it to the castle right away?",
+      "translation": "Могу поспорить, что с этим ты пройдешь тест. Как насчет того, чтобы сразу отнести его в замок?"
+    },
+    "ebm:mm02/event_message_mm02_220.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_220.ebm",
+      "index": 5,
+      "speaker": "Sue",
+      "original": "I guess we could try. Having failed once, though, I'm a bit worried about trying again.",
+      "translation": "Думаю, мы могли бы попробовать. Однако, потерпев однажды неудачу, я немного беспокоюсь о повторной попытке."
+    },
+    "ebm:mm02/event_message_mm02_220.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_220.ebm",
+      "index": 6,
+      "speaker": "Ilmeria",
+      "original": "No need. I'm telling you it will work out. Should I go with you?",
+      "translation": "Незачем. Я говорю вам, что все получится. Мне пойти с тобой?"
+    },
+    "ebm:mm02/event_message_mm02_220.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_220.ebm",
+      "index": 7,
+      "speaker": "Ilmeria",
+      "original": "If they have a problem with your brushes, they'll answer to me. Does that work for you?",
+      "translation": "Если у них возникнут проблемы с вашими кистями, они мне ответят. Это работает для вас?"
+    },
+    "ebm:mm02/event_message_mm02_220.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_220.ebm",
+      "index": 8,
+      "speaker": "Lydie",
+      "original": "Yes! With you along we've got nothing to fear, Ilmeria! Please, come with us!",
+      "translation": "Да! С тобой нам нечего бояться, Илмерия! Пожалуйста, пойдем с нами!"
+    },
+    "ebm:mm02/event_message_mm02_220.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_220.ebm",
+      "index": 9,
+      "speaker": "Ilmeria",
+      "original": "Very well. Give me a moment to get ready.",
+      "translation": "Очень хорошо. Дай мне минутку, чтобы подготовиться."
+    },
+    "ebm:mm02/event_message_mm02_230.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_230.ebm",
+      "index": 0,
+      "speaker": "Lydie",
+      "original": "Mireille. We're ready to take the exam again!",
+      "translation": "Мирей. Мы готовы снова сдавать экзамен!"
+    },
+    "ebm:mm02/event_message_mm02_230.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_230.ebm",
+      "index": 1,
+      "speaker": "Sue",
+      "original": "We're going to pass this time! Take a look!",
+      "translation": "На этот раз мы пройдем мимо! Взгляните!"
+    },
+    "ebm:mm02/event_message_mm02_230.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_230.ebm",
+      "index": 2,
+      "speaker": "Mireille",
+      "original": "Heh, looks like you've had a big boost in confidence. Is this thanks to you?",
+      "translation": "Хех, похоже, твоя уверенность в себе значительно возросла. Это благодаря тебе?"
+    },
+    "ebm:mm02/event_message_mm02_230.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_230.ebm",
+      "index": 3,
+      "speaker": "Ilmeria",
+      "original": "Maybe. I think you'll find they've made some significant progress.",
+      "translation": "Может быть. Я думаю, вы обнаружите, что они добились значительного прогресса."
+    },
+    "ebm:mm02/event_message_mm02_235.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_235.ebm",
+      "index": 0,
+      "speaker": "Mireille",
+      "original": "It's time to announce my evaluation!",
+      "translation": "Пришло время огласить мою оценку!"
+    },
+    "ebm:mm02/event_message_mm02_235.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_235.ebm",
+      "index": 1,
+      "speaker": "Mireille",
+      "original": "Well done. Most impressive, in fact! I can't fault this at all!",
+      "translation": "Отличная работа. На самом деле, самое впечатляющее! Я вообще не могу в этом винить!"
+    },
+    "ebm:mm02/event_message_mm02_235.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_235.ebm",
+      "index": 2,
+      "speaker": "Mireille",
+      "original": "Yes, that's pretty good. You pass!",
+      "translation": "Да, это очень хорошо. Вы проходите!"
+    },
+    "ebm:mm02/event_message_mm02_235.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_235.ebm",
+      "index": 3,
+      "speaker": "Mireille",
+      "original": "That's barely a pass. You just scraped over the line. You'll need to try harder next time!",
+      "translation": "Это едва ли проходной балл. Вы просто перешли черту. В следующий раз вам придется постараться больше!"
+    },
+    "ebm:mm02/event_message_mm02_235.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_235.ebm",
+      "index": 4,
+      "speaker": "Mireille",
+      "original": "Sorry, this is no good. I can't let you pass based on this.",
+      "translation": "Извините, это бесполезно. Я не могу позволить тебе пройти из-за этого."
+    },
+    "ebm:mm02/event_message_mm02_240.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_240.ebm",
+      "index": 0,
+      "speaker": "Mireille",
+      "original": "Wow. I'm impressed with your progress, and in such a short period of time...",
+      "translation": "Ух ты. Я впечатлен вашим прогрессом, и за такой короткий период времени..."
+    },
+    "ebm:mm02/event_message_mm02_240.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_240.ebm",
+      "index": 1,
+      "speaker": "Mireille",
+      "original": "Both of you, you've passed! Welcome to the Atelier Ranking System!",
+      "translation": "Вы оба, вы прошли! Добро пожаловать в систему рейтинга ателье!"
+    },
+    "ebm:mm02/event_message_mm02_240.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_240.ebm",
+      "index": 2,
+      "speaker": "Sue",
+      "original": "Yes! We did it, Lydie!",
+      "translation": "Да! Мы сделали это, Лиди!"
+    },
+    "ebm:mm02/event_message_mm02_240.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_240.ebm",
+      "index": 3,
+      "speaker": "Lydie",
+      "original": "Awesome! V for victory! This is all thanks to you, Ilmeria!",
+      "translation": "Потрясающий! V за победу! И все это благодаря тебе, Илмерия!"
+    },
+    "ebm:mm02/event_message_mm02_240.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_240.ebm",
+      "index": 4,
+      "speaker": "Ilmeria",
+      "original": "I wouldn't say that. This is thanks to your hard work. You can be proud of this.",
+      "translation": "Я бы так не сказал. Это благодаря вашему упорному труду. Вы можете этим гордиться."
+    },
+    "ebm:mm02/event_message_mm02_240.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_240.ebm",
+      "index": 5,
+      "speaker": "Mireille",
+      "original": "I'm impressed, Ilmeria. You're already getting involved with teaching.",
+      "translation": "Я впечатлен, Илмерия. Вы уже занимаетесь преподаванием."
+    },
+    "ebm:mm02/event_message_mm02_240.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_240.ebm",
+      "index": 6,
+      "speaker": "Mireille",
+      "original": "Inviting you here to join us as an alchemist of C Rank was definitely the right move.",
+      "translation": "Пригласить вас присоединиться к нам в качестве алхимика ранга C было определенно правильным шагом."
+    },
+    "ebm:mm02/event_message_mm02_240.ebm:7": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_240.ebm",
+      "index": 7,
+      "speaker": "Sue",
+      "original": "C Rank? What does that mean? What are we right now?",
+      "translation": "ранг С? Что это значит? Что мы сейчас имеем?"
+    },
+    "ebm:mm02/event_message_mm02_240.ebm:8": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_240.ebm",
+      "index": 8,
+      "speaker": "Mireille",
+      "original": "You two are the lowest, \"Unranked\". We have S, A through G, and then the Unranked, for a total of 9 ranks.",
+      "translation": "Вы двое самые низкие, «без рейтинга». У нас есть S, A–G, а затем рейтинг без рейтинга, всего 9 рангов."
+    },
+    "ebm:mm02/event_message_mm02_240.ebm:9": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_240.ebm",
+      "index": 9,
+      "speaker": "Lydie",
+      "original": "Which means C rank is... fourth from the top? But didn't the Ranking System only just start?",
+      "translation": "Это значит, что ранг C... четвёртый сверху? Но разве система рангов не зародилась только сейчас?"
+    },
+    "ebm:mm02/event_message_mm02_240.ebm:10": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_240.ebm",
+      "index": 10,
+      "speaker": "Mireille",
+      "original": "Indeed it did. That's how good Ilmeria is. You've found a good mentor, girls.",
+      "translation": "Действительно, так оно и было. Вот насколько хороша Илмерия. Девочки, вы нашли хорошего наставника."
+    },
+    "ebm:mm02/event_message_mm02_240.ebm:11": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_240.ebm",
+      "index": 11,
+      "speaker": "Ilmeria",
+      "original": "Hehe! It goes without saying that I'm something special, but this pair shows promise too.",
+      "translation": "Хе-хе! Само собой разумеется, что я особенный, но эта пара тоже многообещающая."
+    },
+    "ebm:mm02/event_message_mm02_240.ebm:12": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_240.ebm",
+      "index": 12,
+      "speaker": "Ilmeria",
+      "original": "After all, they are going to run the greatest atelier in the kingdom one day!",
+      "translation": "В конце концов, однажды им предстоит управлять величайшим ателье королевства!"
+    },
+    "ebm:mm02/event_message_mm02_240.ebm:13": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_240.ebm",
+      "index": 13,
+      "speaker": "Ilmeria",
+      "original": "Right, girls?",
+      "translation": "Верно, девочки?"
+    },
+    "ebm:mm02/event_message_mm02_240.ebm:14": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_240.ebm",
+      "index": 14,
+      "speaker": "Together",
+      "original": "That's right!",
+      "translation": "Это верно!"
+    },
+    "ebm:mm02/event_message_mm02_240.ebm:15": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_240.ebm",
+      "index": 15,
+      "speaker": "System",
+      "original": "That's right!",
+      "translation": "Это верно!"
+    },
+    "ebm:mm02/event_message_mm02_240.ebm:16": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_240.ebm",
+      "index": 16,
+      "speaker": "Mireille",
+      "original": "The greatest atelier in the kingdom? Show me, then, that this is more than just talk.",
+      "translation": "Лучшее ателье королевства? Покажите мне тогда, что это больше, чем просто разговоры."
+    },
+    "ebm:mm02/event_message_mm02_250.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_250.ebm",
+      "index": 0,
+      "speaker": "???",
+      "original": "Thank you so much! I'll do my very best!",
+      "translation": "Большое спасибо! Я сделаю все возможное!"
+    },
+    "ebm:mm02/event_message_mm02_250.ebm:1": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_250.ebm",
+      "index": 1,
+      "speaker": "???",
+      "original": "Uwah, that surprised me! Do you think all this is really going to work?",
+      "translation": "Увау, это меня удивило! Как вы думаете, все это действительно сработает?"
+    },
+    "ebm:mm02/event_message_mm02_250.ebm:2": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_250.ebm",
+      "index": 2,
+      "speaker": "Mireille",
+      "original": "Who knows? It's all going well so far, though! The system is gathering lots of powerful alchemists.",
+      "translation": "Кто знает? Хотя пока все идет хорошо! Система собирает множество могущественных алхимиков."
+    },
+    "ebm:mm02/event_message_mm02_250.ebm:3": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_250.ebm",
+      "index": 3,
+      "speaker": "Mireille",
+      "original": "Those twins, too. They are going to grow fast, now that they've got Ilmeria on their side.",
+      "translation": "Те близнецы тоже. Теперь, когда на их стороне Илмерия, они будут быстро расти."
+    },
+    "ebm:mm02/event_message_mm02_250.ebm:4": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_250.ebm",
+      "index": 4,
+      "speaker": "Mireille",
+      "original": "We need to keep up, just like this. At least it's better than doing nothing.",
+      "translation": "Нам нужно идти в ногу со временем. По крайней мере, это лучше, чем ничего не делать."
+    },
+    "ebm:mm02/event_message_mm02_250.ebm:5": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_250.ebm",
+      "index": 5,
+      "speaker": "???",
+      "original": "You said it. Did I mention making that face makes you look really evil, though?",
+      "translation": "Ты сказал это. Я уже упоминал, что из-за такого лица ты выглядишь по-настоящему злым?"
+    },
+    "ebm:mm02/event_message_mm02_250.ebm:6": {
+      "source": "pack01_ebm",
+      "path": "mm02/event_message_mm02_250.ebm",
+      "index": 6,
+      "speaker": "Mireille",
+      "original": "Shut it.",
+      "translation": "Заткнись."
+    }
+  }
+}

@@ -1,0 +1,2612 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_library_esp.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:3604481": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604481",
+      "original": "Slightly decreases selling and purchase prices.",
+      "translation": "Небольшое снижение цен продажи и покупки."
+    },
+    "pack02:3604482": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604482",
+      "original": "Moderately decreases selling and purchase prices.",
+      "translation": "Умеренное снижение цен продажи и покупки."
+    },
+    "pack02:3604483": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604483",
+      "original": "Considerably decreases selling and purchase prices.",
+      "translation": "Значительное снижение цен продажи и покупки."
+    },
+    "pack02:3604484": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604484",
+      "original": "&lt;CLGR&gt;Low Price x Low Price +&lt;CLNR&gt;^00Considerably decreases selling and purchase prices.",
+      "translation": "&lt;CLGR&gt;Низкая цена x Низкая цена +&lt;CLNR&gt;^00Значительно снижает цены продажи и покупки."
+    },
+    "pack02:3604485": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604485",
+      "original": "&lt;CLGR&gt;Low Price + x Low Price ++&lt;CLNR&gt;^00Greatly decreases selling and purchase prices.",
+      "translation": "&lt;CLGR&gt;Низкая цена + x Низкая цена ++&lt;CLNR&gt;^00Сильно снижает цены продажи и покупки."
+    },
+    "pack02:3604486": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604486",
+      "original": "&lt;CLGR&gt;Common Item x Mass Produced&lt;CLNR&gt;^00Decreases selling and purchase prices massively.",
+      "translation": "&lt;CLGR&gt;Доступный предмет x Легкодоступный предмет&lt;CLNR&gt;^00Очень сильно снижает цены продажи и покупки."
+    },
+    "pack02:3604487": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604487",
+      "original": "Slightly increases selling prices at shops.",
+      "translation": "Небольшое повышение цен продажи в магазинах."
+    },
+    "pack02:3604488": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604488",
+      "original": "Fairly increases selling prices at shops a fair amount.",
+      "translation": "Умеренное повышение цен продажи в магазинах."
+    },
+    "pack02:3604489": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604489",
+      "original": "Greatly increases selling prices at shops a lot.",
+      "translation": "Сильное повышение цен продажи в магазинах."
+    },
+    "pack02:3604490": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604490",
+      "original": "&lt;CLGR&gt;High Price x High Price +&lt;CLNR&gt;^00Considerably increases selling prices at shops.",
+      "translation": "&lt;CLGR&gt;Высокая цена x Высокая цена +&lt;CLNR&gt;^00Значительно повышает цены продажи в магазинах."
+    },
+    "pack02:3604491": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604491",
+      "original": "&lt;CLGR&gt;High Price + x High Price ++&lt;CLNR&gt;^00Massively increases selling prices at shops.",
+      "translation": "&lt;CLGR&gt;Высокая цена + x Высокая цена ++&lt;CLNR&gt;^00Очень сильно повышает цены продажи в магазинах."
+    },
+    "pack02:3604492": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604492",
+      "original": "&lt;CLGR&gt;High Class x Rare Item&lt;CLNR&gt;^00Insanely increases selling prices at shops.",
+      "translation": "&lt;CLGR&gt;Роскошный предмет x Редкий предмет&lt;CLNR&gt;^00Безумно повышает цены продажи в магазинах."
+    },
+    "pack02:3604493": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604493",
+      "original": "Increases item quality by 10% when carried over.",
+      "translation": "Повышение качества предмета на 10% при переносе."
+    },
+    "pack02:3604494": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604494",
+      "original": "Increases item quality by 15% when carried over.",
+      "translation": "Повышение качества предмета на 15% при переносе."
+    },
+    "pack02:3604495": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604495",
+      "original": "Increases item quality by 25% when carried over.",
+      "translation": "Повышение качества предмета на 25% при переносе."
+    },
+    "pack02:3604496": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604496",
+      "original": "&lt;CLGR&gt;Quality Up x Quality Up +&lt;CLNR&gt;^00Increases item quality by 20% when carried over.",
+      "translation": "&lt;CLGR&gt;Качество ↑ x Качество ↑ +&lt;CLNR&gt;^00Повышение качества предмета на 20% при переносе."
+    },
+    "pack02:3604497": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604497",
+      "original": "&lt;CLGR&gt;Quality Up + x Quality Up ++&lt;CLNR&gt;^00Increases item quality by 35% when carried over.",
+      "translation": "&lt;CLGR&gt;Качество ↑ + x Качество ↑ ++&lt;CLNR&gt;^00Повышение качества предмета на 35% при переносе."
+    },
+    "pack02:3604498": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604498",
+      "original": "&lt;CLGR&gt;Well Made x Pro Perfection&lt;CLNR&gt;^00Increases item quality by 50% when carried over.",
+      "translation": "&lt;CLGR&gt;Отличный предмет x Совершенный предмет&lt;CLNR&gt;^00Повышение качества предмета на 50% при переносе."
+    },
+    "pack02:3604499": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604499",
+      "original": "Increases the effect of attack items by 10%.",
+      "translation": "Повышение эффекта атакующих предметов на 10%."
+    },
+    "pack02:3604500": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604500",
+      "original": "Increases the effect of attack items by 15%.",
+      "translation": "Повышение эффекта атакующих предметов на 15%."
+    },
+    "pack02:3604501": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604501",
+      "original": "Increases the effect of attack items by 18%.",
+      "translation": "Повышение эффекта атакующих предметов на 18%."
+    },
+    "pack02:3604502": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604502",
+      "original": "&lt;CLGR&gt;Destruction Up x Destruction Up +&lt;CLNR&gt;^00Increases the effect of attack items by 20%.",
+      "translation": "&lt;CLGR&gt;Разрушение ↑ x Разрушение ↑ +&lt;CLNR&gt;^00Повышение эффекта атакующих предметов на 20%."
+    },
+    "pack02:3604503": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604503",
+      "original": "&lt;CLGR&gt;Destruction Up + x Destruction Up ++&lt;CLNR&gt;^00Increases the effect of attack items by 25%.",
+      "translation": "&lt;CLGR&gt;Разрушение ↑ + x Разрушение ↑ ++&lt;CLNR&gt;^00Повышение эффекта атакующих предметов на 25%."
+    },
+    "pack02:3604504": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604504",
+      "original": "&lt;CLGR&gt;Big Destruction x Intense Destruction&lt;CLNR&gt;^00Increases the effect of attack items by 30%.",
+      "translation": "&lt;CLGR&gt;Сильное разрушение x Интенсивное разрушение&lt;CLNR&gt;^00Повышение эффекта атакующих предметов на 30%."
+    },
+    "pack02:3604505": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604505",
+      "original": "Increases the effect of attack items by 40%.",
+      "translation": "Повышение эффекта атакующих предметов на 40%."
+    },
+    "pack02:3604506": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604506",
+      "original": "Increases attack item power slightly by a fixed value. The weaker the power, the stronger the effect.",
+      "translation": "Слабое повышение силы атакующих предметов на фиксированное значение. Чем слабее базовая сила, тем сильнее эффект."
+    },
+    "pack02:3604507": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604507",
+      "original": "Increases attack item power by a fixed value. The weaker the power, the stronger the effect.",
+      "translation": "Повышение силы атакующих предметов на фиксированное значение. Чем слабее базовая сила, тем сильнее эффект."
+    },
+    "pack02:3604508": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604508",
+      "original": "Increases attack item power greatly by a fixed value. The weaker the power, the stronger the effect.",
+      "translation": "Сильное повышение силы атакующих предметов на фиксированное значение. Чем слабее базовая сила, тем сильнее эффект."
+    },
+    "pack02:3604509": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604509",
+      "original": "&lt;CLGR&gt;Fixed Power x Fixed Power +&lt;CLNR&gt;^00Power is increased by a fixed value. The weaker the power, the stronger the effect.",
+      "translation": "&lt;CLGR&gt;Фиксированная сила x Фиксированная сила +&lt;CLNR&gt;^00Повышение силы на фиксированную величину. Чем слабее сила, тем сильнее эффект."
+    },
+    "pack02:3604510": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604510",
+      "original": "&lt;CLGR&gt;Fixed Power + x Fixed Power ++&lt;CLNR&gt;^00Power is increased considerably by a fixed value. The weaker the power, the stronger the effect.",
+      "translation": "&lt;CLGR&gt;Фиксированная сила + x Фиксированная сила ++&lt;CLNR&gt;^00Значительное повышение силы на фиксированную величину. Чем слабее сила, тем сильнее эффект."
+    },
+    "pack02:3604511": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604511",
+      "original": "&lt;CLGR&gt;Pain in Numbers x Damage in Numbers&lt;CLNR&gt;^00Power is increased greatly by a fixed value. The weaker the power, the stronger the effect.",
+      "translation": "&lt;CLGR&gt;Числовая боль x Числовой урон&lt;CLNR&gt;^00Сильное повышение силы на фиксированную величину. Чем слабее сила, тем сильнее эффект."
+    },
+    "pack02:3604512": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604512",
+      "original": "Increases attack item power massively by a fixed value. However, the increase is inversely proportional to the original value.",
+      "translation": "Огромное повышение силы атакующих предметов на фиксированное значение. Однако прирост обратно пропорционален исходному значению."
+    },
+    "pack02:3604513": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604513",
+      "original": "Adds 15% additional damage when attacking.",
+      "translation": "Добавляет 15% дополнительного урона при атаке."
+    },
+    "pack02:3604514": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604514",
+      "original": "Adds 20% additional damage when attacking.",
+      "translation": "Добавляет 20% дополнительного урона при атаке."
+    },
+    "pack02:3604515": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604515",
+      "original": "Adds 30% additional damage when attacking.",
+      "translation": "Добавляет 30% дополнительного урона при атаке."
+    },
+    "pack02:3604516": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604516",
+      "original": "Increases the effect of recovery items by 10%.",
+      "translation": "Повышение эффекта восстанавливающих предметов на 10%."
+    },
+    "pack02:3604517": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604517",
+      "original": "Increases the effect of recovery items by 15%.",
+      "translation": "Повышение эффекта восстанавливающих предметов на 15%."
+    },
+    "pack02:3604518": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604518",
+      "original": "Increases the effect of recovery items by 18%.",
+      "translation": "Повышение эффекта восстанавливающих предметов на 18%."
+    },
+    "pack02:3604519": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604519",
+      "original": "&lt;CLGR&gt;Recovery Up x Recovery Up +&lt;CLNR&gt;^00Increases the effect of recovery items by 20%.",
+      "translation": "&lt;CLGR&gt;Восстановление ↑ x Восстановление ↑ +&lt;CLNR&gt;^00Повышение эффекта восстановительных предметов на 20%."
+    },
+    "pack02:3604520": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604520",
+      "original": "&lt;CLGR&gt;Recovery Up + x Recovery Up ++&lt;CLNR&gt;^00Increases the effect of recovery items by 25%.",
+      "translation": "&lt;CLGR&gt;Восстановление ↑ + x Восстановление ↑ ++&lt;CLNR&gt;^00Повышение эффекта восстановительных предметов на 25%."
+    },
+    "pack02:3604521": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604521",
+      "original": "&lt;CLGR&gt;Great Recovery x Intense Recovery&lt;CLNR&gt;^00Increases the effect of recovery items by 30%.",
+      "translation": "&lt;CLGR&gt;Большое восстановление x Интенсивное восстановление&lt;CLNR&gt;^00Повышение эффекта восстановительных предметов на 30%."
+    },
+    "pack02:3604522": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604522",
+      "original": "Increases the effect of recovery items by 40%.",
+      "translation": "Повышение эффекта восстанавливающих предметов на 40%."
+    },
+    "pack02:3604523": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604523",
+      "original": "Increases recovery item power slightly by a fixed value. The weaker the power, the stronger the effect.",
+      "translation": "Небольшое повышение силы восстанавливающих предметов на фиксированное значение. Чем слабее исходная сила, тем сильнее эффект."
+    },
+    "pack02:3604524": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604524",
+      "original": "Increases recovery item power somewhat by a fixed value. The weaker the power, the stronger the effect.",
+      "translation": "Умеренное повышение силы восстанавливающих предметов на фиксированное значение. Чем слабее исходная сила, тем сильнее эффект."
+    },
+    "pack02:3604525": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604525",
+      "original": "Increases recovery item power by a fixed value. The weaker the power, the stronger the effect.",
+      "translation": "Повышение силы восстанавливающих предметов на фиксированное значение. Чем слабее исходная сила, тем сильнее эффект."
+    },
+    "pack02:3604526": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604526",
+      "original": "&lt;CLGR&gt;Fixed Recovery x Fixed Recovery +&lt;CLNR&gt;^00Effect is increased slightly by a fixed value. The weaker the effect, the stronger the effect.",
+      "translation": "&lt;CLGR&gt;Фикс-е восст. x Фикс-е восст. +&lt;CLNR&gt;^00Слегка повышает эффект на фиксированную величину. Чем слабее эффект, тем сильнее результат."
+    },
+    "pack02:3604527": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604527",
+      "original": "&lt;CLGR&gt;Fixed Recovery + x Fixed Recovery ++&lt;CLNR&gt;^00Effect is increased by a fixed value. The weaker the effect, the stronger the effect.",
+      "translation": "&lt;CLGR&gt;Фикс-е восст. + x Фикс-е восст. ++&lt;CLNR&gt;^00Повышение эффекта на фиксированную величину. Чем слабее эффект, тем сильнее результат."
+    },
+    "pack02:3604528": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604528",
+      "original": "&lt;CLGR&gt;Enhanced Medicine x Greatly Enhanced Medicine&lt;CLNR&gt;^00Effect is increased considerably by a fixed value. The weaker the effect, the stronger the effect.",
+      "translation": "&lt;CLGR&gt;Улучшенное лекарство x Знач. улучшенное лекарство&lt;CLNR&gt;^00Значительное повышение эффекта на фиксированную величину. Чем слабее эффект, тем сильнее результат."
+    },
+    "pack02:3604529": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604529",
+      "original": "Increases recovery item power massively by a fixed value. However, the increase is inversely proportional to the original value.",
+      "translation": "Значительное повышение силы восстанавливающих предметов на фиксированное значение. Однако прирост обратно пропорционален исходному значению."
+    },
+    "pack02:3604530": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604530",
+      "original": "Gives items a 10% chance to land a critical hit.",
+      "translation": "Даёт предметам 10% шанс на критический удар."
+    },
+    "pack02:3604531": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604531",
+      "original": "Gives items a 20% chance to land a critical hit.",
+      "translation": "Даёт предметам 20% шанс на критический удар."
+    },
+    "pack02:3604532": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604532",
+      "original": "Gives items a 30% chance to land a critical hit.",
+      "translation": "Даёт предметам 30% шанс на критический удар."
+    },
+    "pack02:3604533": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604533",
+      "original": "&lt;CLGR&gt;Critical x Critical +&lt;CLNR&gt;^00Gives items a 25% chance to land a critical hit.",
+      "translation": "&lt;CLGR&gt;Шанс крит. действия x Шанс крит. действия +&lt;CLNR&gt;^00Даёт предметам 25% шанс нанести критический удар."
+    },
+    "pack02:3604534": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604534",
+      "original": "&lt;CLGR&gt;Critical + x Critical ++&lt;CLNR&gt;^00Gives items a 50% chance to land a critical hit.",
+      "translation": "&lt;CLGR&gt;Шанс крит. действия + x Шанс крит. действия ++&lt;CLNR&gt;^00Даёт предметам 50% шанс нанести критический удар."
+    },
+    "pack02:3604535": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604535",
+      "original": "&lt;CLGR&gt;Critical Finish x Half Critical&lt;CLNR&gt;^00Gives a 66% chance of landing a critical hit, and also gives a chance of a KO.",
+      "translation": "&lt;CLGR&gt;Критический триумф x 50% крит. действие&lt;CLNR&gt;^00Даёт 66% шанс нанести критический удар, а также шанс нокаута."
+    },
+    "pack02:3604536": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604536",
+      "original": "Reduces the item’s number variation slightly, making it easier to score higher values.",
+      "translation": "Слегкое снижение разброса значений предмета, облегчающее получение более высоких значений."
+    },
+    "pack02:3604537": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604537",
+      "original": "Reduces the item’s number variation a little, making it easier to score higher values.",
+      "translation": "Небольшое снижение разброса значений предмета, облегчающее получение более высоких значений."
+    },
+    "pack02:3604538": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604538",
+      "original": "Reduces the item’s number variation, making it easier to score higher values.",
+      "translation": "Снижение разброса значений предмета, облегчающее получение более высоких значений."
+    },
+    "pack02:3604539": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604539",
+      "original": "&lt;CLGR&gt;Stable Effect x Stable Effect +&lt;CLNR&gt;^00Reduces the item’s number variation, making it easier to score higher values.",
+      "translation": "&lt;CLGR&gt;Стабильный эффект x Стабильный эффект +&lt;CLNR&gt;^00Снижает вариацию числовых значений предмета, облегчая получение более высоких показателей."
+    },
+    "pack02:3604540": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604540",
+      "original": "&lt;CLGR&gt;Stable Effect + x Stable Effect ++&lt;CLNR&gt;^00Reduces the item’s number variation by half, making it easier to score higher values.",
+      "translation": "&lt;CLGR&gt;Стабильный эффект + x Стабильный эффект ++&lt;CLNR&gt;^00Снижает вариацию числовых значений предмета вдвое, облегчая получение более высоких показателей."
+    },
+    "pack02:3604541": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604541",
+      "original": "&lt;CLGR&gt;Stability Emphasis x Solid Effect&lt;CLNR&gt;^00Stabilizes the item’s number variation, making it very easy to score higher values.",
+      "translation": "&lt;CLGR&gt;Акцент на стабильность x Ожидаемый эффект&lt;CLNR&gt;^00Стабилизирует вариацию числовых значений предмета, делая получение более высоких показателей очень лёгким."
+    },
+    "pack02:3604542": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604542",
+      "original": "Increases the item’s use count by 1. Power drops a little in exchange.",
+      "translation": "Увеличение количества использований предмета на 1. Сила несколько снижается взамен."
+    },
+    "pack02:3604543": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604543",
+      "original": "Increases the item’s use count by 2. Power drops slightly in exchange.",
+      "translation": "Увеличение количества использований предмета на 2. Сила слегка снижается взамен."
+    },
+    "pack02:3604544": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604544",
+      "original": "&lt;CLGR&gt;Use Count +1 x Use Count +2&lt;CLNR&gt;^00Increases the item’s use count by 3.",
+      "translation": "&lt;CLGR&gt;Число использований +1 x Число использований +2&lt;CLNR&gt;^00Повышение числа использований предмета на 3."
+    },
+    "pack02:3604545": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604545",
+      "original": "Reduces the item’s use count by 1. Power increases a little in exchange.",
+      "translation": "Снижение количества использований предмета на 1. Сила несколько повышается взамен."
+    },
+    "pack02:3604546": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604546",
+      "original": "Reduces the item’s use count by 2. Power increases in exchange.",
+      "translation": "Снижение количества использований предмета на 2. Сила повышается взамен."
+    },
+    "pack02:3604547": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604547",
+      "original": "&lt;CLGR&gt;Use Count -1 x Use Count -2&lt;CLNR&gt;^00Reduces the item’s use count by 5. Power increases greatly in exchange.",
+      "translation": "&lt;CLGR&gt;Число использований -1 x Число использований -2&lt;CLNR&gt;^00Снижение числа использований предмета на 5. В обмен — сильное повышение силы."
+    },
+    "pack02:3604548": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604548",
+      "original": "Increases Max HP by 10.",
+      "translation": "Повышение макс. ОЗ на 10."
+    },
+    "pack02:3604549": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604549",
+      "original": "Increases Max HP by 15.",
+      "translation": "Повышение макс. ОЗ на 15."
+    },
+    "pack02:3604550": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604550",
+      "original": "Increases Max HP by 25.",
+      "translation": "Повышение макс. ОЗ на 25."
+    },
+    "pack02:3604551": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604551",
+      "original": "&lt;CLGR&gt;Increase HP x Boost HP&lt;CLNR&gt;^00Increases Max HP by 20.",
+      "translation": "&lt;CLGR&gt;Увеличение ОЗ x Повышение ОЗ&lt;CLNR&gt;^00Повышение макс. ОЗ на 20."
+    },
+    "pack02:3604552": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604552",
+      "original": "&lt;CLGR&gt;Boost HP x Greatly Increase HP&lt;CLNR&gt;^00Increases Max HP by 35.",
+      "translation": "&lt;CLGR&gt;Повышение ОЗ x Значительное увеличение ОЗ&lt;CLNR&gt;^00Повышение макс. ОЗ на 35."
+    },
+    "pack02:3604553": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604553",
+      "original": "&lt;CLGR&gt;Full of Life x Overflowing Life&lt;CLNR&gt;^00Increases Max HP by 50.",
+      "translation": "&lt;CLGR&gt;Полнота жизни x Переполняющая жизнь&lt;CLNR&gt;^00Повышение макс. ОЗ на 50."
+    },
+    "pack02:3604554": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604554",
+      "original": "Increases Max MP by 10.",
+      "translation": "Повышение макс. ОМ на 10."
+    },
+    "pack02:3604555": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604555",
+      "original": "Increases Max MP by 15.",
+      "translation": "Повышение макс. ОМ на 15."
+    },
+    "pack02:3604556": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604556",
+      "original": "Increases Max MP by 25.",
+      "translation": "Повышение макс. ОМ на 25."
+    },
+    "pack02:3604557": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604557",
+      "original": "&lt;CLGR&gt;Increase MP x Boost MP&lt;CLNR&gt;^00Increases Max MP by 20.",
+      "translation": "&lt;CLGR&gt;Увеличение ОМ x Повышение ОМ&lt;CLNR&gt;^00Повышение макс. ОМ на 20."
+    },
+    "pack02:3604558": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604558",
+      "original": "&lt;CLGR&gt;Boost MP x Greatly Increase MP&lt;CLNR&gt;^00Increases Max MP by 35.",
+      "translation": "&lt;CLGR&gt;Повышение ОМ x Значительное увеличение ОМ&lt;CLNR&gt;^00Повышение макс. ОМ на 35."
+    },
+    "pack02:3604559": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604559",
+      "original": "&lt;CLGR&gt;Magician’s Wisdom x Grand Magician's Wisdom&lt;CLNR&gt; ^00Increases Max MP by 50.",
+      "translation": "&lt;CLGR&gt;Мудрость мага x Мудрость великого мага&lt;CLNR&gt; ^00Повышение макс. ОМ на 50."
+    },
+    "pack02:3604560": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604560",
+      "original": "&lt;CLGR&gt;Full of Life x Magician’s Wisdom&lt;CLNR&gt;^00Increases Max HP and MP by 10.",
+      "translation": "&lt;CLGR&gt;Полнота жизни x Мудрость мага&lt;CLNR&gt;^00Повышение макс. ОЗ и ОМ на 10."
+    },
+    "pack02:3604561": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604561",
+      "original": "&lt;CLGR&gt;Overflowing Life x Grand Magician's Wisdom&lt;CLNR&gt;^00Increases Max HP and MP by 20.",
+      "translation": "&lt;CLGR&gt;Переполняющая жизнь x Мудрость великого мага&lt;CLNR&gt;^00Повышение макс. ОЗ и ОМ на 20."
+    },
+    "pack02:3604562": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604562",
+      "original": "&lt;CLGR&gt;Power of Life x Wisdom of the Gods&lt;CLNR&gt;^00Increases Max HP and MP by 35.",
+      "translation": "&lt;CLGR&gt;Сила жизни x Мудрость богов&lt;CLNR&gt;^00Повышение макс. ОЗ и ОМ на 35."
+    },
+    "pack02:3604563": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604563",
+      "original": "All base stats increase by 10%.",
+      "translation": "Повышение базовых характеристик на 10%."
+    },
+    "pack02:3604564": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604564",
+      "original": "All base stats increase by 12%.",
+      "translation": "Повышение базовых характеристик на 12%."
+    },
+    "pack02:3604565": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604565",
+      "original": "All base stats increase by 15%.",
+      "translation": "Повышение базовых характеристик на 15%."
+    },
+    "pack02:3604566": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604566",
+      "original": "&lt;CLGR&gt;Parameters +10% x Parameters +12%&lt;CLNR&gt;^00All base stats increase by 15%.",
+      "translation": "&lt;CLGR&gt;Характеристики +10% x Характеристики +12%&lt;CLNR&gt;^00Повышение базовых характеристик на 15%."
+    },
+    "pack02:3604567": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604567",
+      "original": "&lt;CLGR&gt;Parameters +12% x Parameters +15%&lt;CLNR&gt;^00All base stats increase by 20%.",
+      "translation": "&lt;CLGR&gt;Характеристики +12% x Характеристики +15%&lt;CLNR&gt;^00Повышение базовых характеристик на 20%."
+    },
+    "pack02:3604568": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604568",
+      "original": "&lt;CLGR&gt;Enhance the Body x Draw Out Power&lt;CLNR&gt;^00All base stats increase by 25%.",
+      "translation": "&lt;CLGR&gt;Усиление тела x Концентрация мощи&lt;CLNR&gt;^00Повышение базовых характеристик на 25%."
+    },
+    "pack02:3604569": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604569",
+      "original": "All base stats increase by 30%.",
+      "translation": "Повышение базовых характеристик на 30%."
+    },
+    "pack02:3604570": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604570",
+      "original": "Increases ATK by 3.",
+      "translation": "Повышение АТК на 3."
+    },
+    "pack02:3604571": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604571",
+      "original": "Increases ATK by 7.",
+      "translation": "Повышение АТК на 7."
+    },
+    "pack02:3604572": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604572",
+      "original": "Increases ATK by 12.",
+      "translation": "Повышение АТК на 12."
+    },
+    "pack02:3604573": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604573",
+      "original": "&lt;CLGR&gt;Enhance Attack x Boost Attack&lt;CLNR&gt;^00Increases ATK by 10.",
+      "translation": "&lt;CLGR&gt;Усиление атаки x Повышение атаки&lt;CLNR&gt;^00Повышение АТК на 10."
+    },
+    "pack02:3604574": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604574",
+      "original": "&lt;CLGR&gt;Boost Attack x Enhance Attack Greatly&lt;CLNR&gt;^00Increases ATK by 15.",
+      "translation": "&lt;CLGR&gt;Повышение атаки x Значительное усиление атаки&lt;CLNR&gt;^00Повышение АТК на 15."
+    },
+    "pack02:3604575": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604575",
+      "original": "&lt;CLGR&gt;Power of Beasts x Power of Destruction&lt;CLNR&gt;^00Increases ATK by 20.",
+      "translation": "&lt;CLGR&gt;Сила зверей x Разрушительная сила&lt;CLNR&gt;^00Повышение АТК на 20."
+    },
+    "pack02:3604576": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604576",
+      "original": "Increases DEF by 3.",
+      "translation": "Повышение ЗЩТ на 3."
+    },
+    "pack02:3604577": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604577",
+      "original": "Increases DEF by 7.",
+      "translation": "Повышение ЗЩТ на 7."
+    },
+    "pack02:3604578": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604578",
+      "original": "Increases DEF by 12.",
+      "translation": "Повышение ЗЩТ на 12."
+    },
+    "pack02:3604579": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604579",
+      "original": "&lt;CLGR&gt;Enhance Defense x Boost Defense&lt;CLNR&gt;^00Increases DEF by 10.",
+      "translation": "&lt;CLGR&gt;Усиление защиты x Повышение защиты&lt;CLNR&gt;^00Повышение ЗЩТ на 10."
+    },
+    "pack02:3604580": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604580",
+      "original": "&lt;CLGR&gt;Boost Defense x Super Enhance Defense&lt;CLNR&gt;^00Increases DEF by 15.",
+      "translation": "&lt;CLGR&gt;Повышение защиты x Супер усиление защиты&lt;CLNR&gt;^00Повышение ЗЩТ на 15."
+    },
+    "pack02:3604581": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604581",
+      "original": "&lt;CLGR&gt;Steel Defense x Diamond Defense&lt;CLNR&gt;^00Increases DEF by 20.",
+      "translation": "&lt;CLGR&gt;Стальная защита x Алмазная защита&lt;CLNR&gt;^00Повышение ЗЩТ на 20."
+    },
+    "pack02:3604582": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604582",
+      "original": "Increases SPD by 3.",
+      "translation": "Повышение СКР на 3."
+    },
+    "pack02:3604583": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604583",
+      "original": "Increases SPD by 7.",
+      "translation": "Повышение СКР на 7."
+    },
+    "pack02:3604584": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604584",
+      "original": "Increases SPD by 12.",
+      "translation": "Повышение СКР на 12."
+    },
+    "pack02:3604585": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604585",
+      "original": "&lt;CLGR&gt;Enhance Speed x Boost Speed&lt;CLNR&gt;^00Increases SPD by 10.",
+      "translation": "&lt;CLGR&gt;Усиление скорости x Повышение скорости&lt;CLNR&gt;^00Повышение СКР на 10."
+    },
+    "pack02:3604586": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604586",
+      "original": "&lt;CLGR&gt;Boost Speed x Super Enhance Speed&lt;CLNR&gt;^00Increases SPD by 15.",
+      "translation": "&lt;CLGR&gt;Повышение скорости x Супер усиление скорости&lt;CLNR&gt;^00Повышение СКР на 15."
+    },
+    "pack02:3604587": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604587",
+      "original": "&lt;CLGR&gt;Speed of Skanda x Speed of Gods&lt;CLNR&gt;^00Increases SPD by 20.",
+      "translation": "&lt;CLGR&gt;Скорость Сканды x Скорость богов&lt;CLNR&gt;^00Повышение СКР на 20."
+    },
+    "pack02:3604588": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604588",
+      "original": "Increases Equipment Effect by 1.",
+      "translation": "Повышение эффекта снаряжения на 1."
+    },
+    "pack02:3604589": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604589",
+      "original": "Increases Equipment Effect by 3.",
+      "translation": "Повышение эффекта снаряжения на 3."
+    },
+    "pack02:3604590": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604590",
+      "original": "Increases Equipment Effect by 7.",
+      "translation": "Повышение эффекта снаряжения на 7."
+    },
+    "pack02:3604591": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604591",
+      "original": "&lt;CLGR&gt;Enhance Equipment Effect x Boost Equipment Effect&lt;CLNR&gt;^00Increases Equipment Effect by 5.",
+      "translation": "&lt;CLGR&gt;Усиление эффекта снаряжения x Повышение эффекта снаряжения&lt;CLNR&gt;^00Повышение эффекта снаряжения на 5."
+    },
+    "pack02:3604592": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604592",
+      "original": "&lt;CLGR&gt;Boost Equipment Effect × Greatly Enhance Equip Effect&lt;CLNR&gt; ^00Increases Equipment Effect by 10.",
+      "translation": "&lt;CLGR&gt;Повышение эффекта снаряжения × Значительное усиление эфф. снаряжения&lt;CLNR&gt; ^00Повышение эффекта снаряжения на 10."
+    },
+    "pack02:3604593": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604593",
+      "original": "&lt;CLGR&gt;Brave's Equipment x Hero’s Equipment&lt;CLNR&gt;^00Increases Equipment Effect by 15.",
+      "translation": "&lt;CLGR&gt;Снаряжение храбреца x Снаряжение героя&lt;CLNR&gt;^00Повышение эффекта снаряжения на 15."
+    },
+    "pack02:3604594": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604594",
+      "original": "&lt;CLGR&gt;Enhance Attack x Enhance Defense&lt;CLNR&gt;^00Increases ATK and DEF by 3.",
+      "translation": "&lt;CLGR&gt;Усиление атаки x Усиление защиты&lt;CLNR&gt;^00Повышение АТК и ЗЩТ на 3."
+    },
+    "pack02:3604595": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604595",
+      "original": "&lt;CLGR&gt;Enhance Attack x Enhance Speed&lt;CLNR&gt;^00Increases ATK and SPD by 3.",
+      "translation": "&lt;CLGR&gt;Усиление атаки x Усиление скорости&lt;CLNR&gt;^00Повышение АТК и СКР на 3."
+    },
+    "pack02:3604596": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604596",
+      "original": "&lt;CLGR&gt;Enhance Defense x Enhance Speed&lt;CLNR&gt;^00Increases DEF and SPD by 3.",
+      "translation": "&lt;CLGR&gt;Усиление защиты x Усиление скорости&lt;CLNR&gt;^00Повышение ЗЩТ и СКР на 3."
+    },
+    "pack02:3604597": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604597",
+      "original": "&lt;CLGR&gt;Enhance ATK-DEF x Enhance ATK-SPD&lt;CLNR&gt;^00Increases all stats by 3.",
+      "translation": "&lt;CLGR&gt;Усиление АТК-ЗЩТ x Усиление АТК-СКР&lt;CLNR&gt;^00Повышение всех характеристик на 3."
+    },
+    "pack02:3604598": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604598",
+      "original": "&lt;CLGR&gt;Boost Attack x Boost Defense&lt;CLNR&gt;^00Increases ATK and DEF by 5.",
+      "translation": "&lt;CLGR&gt;Повышение атаки x Повышение защиты&lt;CLNR&gt;^00Повышение АТК и ЗЩТ на 5."
+    },
+    "pack02:3604599": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604599",
+      "original": "&lt;CLGR&gt;Boost Attack x Boost Speed&lt;CLNR&gt;^00Increases ATK and SPD by 5.",
+      "translation": "&lt;CLGR&gt;Повышение атаки x Повышение скорости&lt;CLNR&gt;^00Повышение АТК и СКР на 5."
+    },
+    "pack02:3604600": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604600",
+      "original": "&lt;CLGR&gt;Boost Defense x Boost Speed&lt;CLNR&gt;^00Increases DEF and SPD by 5.",
+      "translation": "&lt;CLGR&gt;Повышение защиты x Повышение скорости&lt;CLNR&gt;^00Повышение ЗЩТ и СКР на 5."
+    },
+    "pack02:3604601": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604601",
+      "original": "&lt;CLGR&gt;Boost ATK-DEF x Boost DEF-SPD&lt;CLNR&gt;^00Increases all stats by 5.",
+      "translation": "&lt;CLGR&gt;Повышение АТК-ЗЩТ x Повышение ЗЩТ-СКР&lt;CLNR&gt;^00Повышение всех характеристик на 5."
+    },
+    "pack02:3604602": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604602",
+      "original": "Increases all stats by 10.",
+      "translation": "Повышение всех характеристик на 10."
+    },
+    "pack02:3604603": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604603",
+      "original": "&lt;CLGR&gt;Boost All Stats x Extra Boost All Stats&lt;CLNR&gt;^00Increases all stats by 15.",
+      "translation": "&lt;CLGR&gt;Все характеристики+ x Все характеристики++&lt;CLNR&gt;^00Повышение всех характеристик на 15."
+    },
+    "pack02:3604604": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604604",
+      "original": "Increases Max HP and MP by 50.",
+      "translation": "Повышение макс. ОЗ и ОМ на 50."
+    },
+    "pack02:3604605": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604605",
+      "original": "Increases DEF by 30, and all base stats increase by 15%.",
+      "translation": "Повышение ЗЩТ на 30, а все базовые характеристики — на 15%."
+    },
+    "pack02:3604606": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604606",
+      "original": "Reduces MP consumption by 10%.",
+      "translation": "Снижение расхода ОМ на 10%."
+    },
+    "pack02:3604607": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604607",
+      "original": "Reduces MP consumption by 15%.",
+      "translation": "Снижение расхода ОМ на 15%."
+    },
+    "pack02:3604608": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604608",
+      "original": "Reduces MP consumption by 20%.",
+      "translation": "Снижение расхода ОМ на 20%."
+    },
+    "pack02:3604609": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604609",
+      "original": "&lt;CLGR&gt;Consumed MP -10% x Consumed MP -15%&lt;CLNR&gt;^00Reduces MP consumption by 20%.",
+      "translation": "&lt;CLGR&gt;Расход ОМ -10% x Расход ОМ -15%&lt;CLNR&gt;^00Снижение расхода ОМ на 20%."
+    },
+    "pack02:3604610": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604610",
+      "original": "&lt;CLGR&gt;Consumed MP -15% x Consumed MP -20%&lt;CLNR&gt;^00Reduces MP consumption by 30%.",
+      "translation": "&lt;CLGR&gt;Расход ОМ -15% x Расход ОМ -20%&lt;CLNR&gt;^00Снижение расхода ОМ на 30%."
+    },
+    "pack02:3604611": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604611",
+      "original": "&lt;CLGR&gt;Cut Consumed MP x Lower Consumed MP&lt;CLNR&gt;^00Reduces MP consumption by 50%.",
+      "translation": "&lt;CLGR&gt;Снижение расхода ОМ x Уменьшение расхода ОМ&lt;CLNR&gt;^00Снижение расхода ОМ на 50%."
+    },
+    "pack02:3604612": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604612",
+      "original": "Increases skill power and MP consumption by 10%.",
+      "translation": "Повышение силы навыков и расхода ОМ на 10%."
+    },
+    "pack02:3604613": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604613",
+      "original": "Increases skill power and MP consumption by 12%.",
+      "translation": "Повышение силы навыков и расхода ОМ на 12%."
+    },
+    "pack02:3604614": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604614",
+      "original": "Increases skill power and MP consumption by 15%.",
+      "translation": "Повышение силы навыков и расхода ОМ на 15%."
+    },
+    "pack02:3604615": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604615",
+      "original": "&lt;CLGR&gt;Skill Power +10% x Skill Power +12%&lt;CLNR&gt;^00Increases power and MP consumption by 15%.",
+      "translation": "&lt;CLGR&gt;Сила навыков +10% x Сила навыков +12%&lt;CLNR&gt;^00Повышение силы и расхода ОМ на 15%."
+    },
+    "pack02:3604616": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604616",
+      "original": "&lt;CLGR&gt;Skill Power +12% x Skill Power +15%&lt;CLNR&gt;^00Increases power and MP consumption by 20%.",
+      "translation": "&lt;CLGR&gt;Сила навыков +12% x Сила навыков +15%&lt;CLNR&gt;^00Повышение силы и расхода ОМ на 20%."
+    },
+    "pack02:3604617": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604617",
+      "original": "&lt;CLGR&gt;Enhance Skill x Boost Skills&lt;CLNR&gt;^00Increases skill power and MP consumption by 30%.",
+      "translation": "&lt;CLGR&gt;Усиление навыка x Повышение навыков&lt;CLNR&gt;^00Повышение силы навыков и расхода ОМ на 30%."
+    },
+    "pack02:3604618": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604618",
+      "original": "&lt;CLGR&gt;Enhance Skill x Cut Consumed MP&lt;CLNR&gt;^00Increases skill power by 7%, and reduces MP consumption by 7%.",
+      "translation": "&lt;CLGR&gt;Усиление навыка x Снижение расхода ОМ&lt;CLNR&gt;^00Повышение силы навыков на 7% и снижение расхода ОМ на 7%."
+    },
+    "pack02:3604619": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604619",
+      "original": "&lt;CLGR&gt;Boost Skills x Lower Consumed MP&lt;CLNR&gt;^00Increases skill power by 10%, and reduces MP consumption by 10%.",
+      "translation": "&lt;CLGR&gt;Повышение навыков x Уменьшение расхода ОМ&lt;CLNR&gt;^00Повышение силы навыков на 10% и снижение расхода ОМ на 10%."
+    },
+    "pack02:3604620": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604620",
+      "original": "&lt;CLGR&gt;Greatly Enhance Skills x Halve Consumed MP&lt;CLNR&gt;^00Increases skill power by 15%, and reduces MP consumption by 15%.",
+      "translation": "&lt;CLGR&gt;Значительное усиление навыков x Половина расхода ОМ&lt;CLNR&gt;^00Повышение силы навыков на 15% и снижение расхода ОМ на 15%."
+    },
+    "pack02:3604621": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604621",
+      "original": "Increases skill power by 25%, and reduces MP consumption by 25%.",
+      "translation": "Повышение силы навыков на 25% и снижение расхода ОМ на 25%."
+    },
+    "pack02:3604622": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604622",
+      "original": "Increases skill power by 35%, and reduces MP consumption by 35%.",
+      "translation": "Повышение силы навыков на 35% и снижение расхода ОМ на 35%."
+    },
+    "pack02:3604623": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604623",
+      "original": "Greatly increases the target's level.",
+      "translation": "Сильное повышение уровня цели."
+    },
+    "pack02:3604624": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604624",
+      "original": "Greatly increases the target’s ATK.",
+      "translation": "Сильное повышение АТК цели."
+    },
+    "pack02:3604625": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604625",
+      "original": "Greatly increases the target’s DEF.",
+      "translation": "Сильное повышение ЗЩТ цели."
+    },
+    "pack02:3604626": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604626",
+      "original": "Greatly increases the target’s SPD.",
+      "translation": "Сильное повышение СКР цели."
+    },
+    "pack02:3604639": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604639",
+      "original": "Chance to inflict Sleep when dealing damage.",
+      "translation": "Шанс наложить сон при нанесении урона."
+    },
+    "pack02:3604640": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604640",
+      "original": "Chance to inflict Poison when dealing damage.",
+      "translation": "Шанс наложить отравление при нанесении урона."
+    },
+    "pack02:3604641": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604641",
+      "original": "Chance to inflict Slowness when dealing damage.",
+      "translation": "Шанс наложить замедление при нанесении урона."
+    },
+    "pack02:3604642": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604642",
+      "original": "Chance to inflict Curse when dealing damage.",
+      "translation": "Шанс наложить проклятие при нанесении урона."
+    },
+    "pack02:3604643": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604643",
+      "original": "Chance to inflict Blindness when dealing damage.",
+      "translation": "Шанс наложить слепоту при нанесении урона."
+    },
+    "pack02:3604644": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604644",
+      "original": "Chance to inflict Burns when dealing damage.",
+      "translation": "Шанс наложить ожог при нанесении урона."
+    },
+    "pack02:3604645": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604645",
+      "original": "Chance to inflict Healing Block when dealing damage.",
+      "translation": "Шанс наложить запрет лечения при нанесении урона."
+    },
+    "pack02:3604646": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604646",
+      "original": "Chance to inflict Seal when dealing damage.",
+      "translation": "Шанс наложить печать при нанесении урона."
+    },
+    "pack02:3604647": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604647",
+      "original": "Reduces the target's level a lot, reducing all stats and damage dealt.",
+      "translation": "Значительное снижение уровня цели, уменьшающее все характеристики и наносимый урон."
+    },
+    "pack02:3604648": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604648",
+      "original": "Greatly reduces the target's ATK.",
+      "translation": "Сильное снижение АТК цели."
+    },
+    "pack02:3604649": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604649",
+      "original": "Greatly reduces the target's DEF.",
+      "translation": "Сильное снижение ЗЩТ цели."
+    },
+    "pack02:3604650": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604650",
+      "original": "Greatly reduces the target's SPD.",
+      "translation": "Сильное снижение СКР цели."
+    },
+    "pack02:3604651": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604651",
+      "original": "Recovers HP equal to 10% of damage dealt with attacks.",
+      "translation": "Восстановление ОЗ в размере 10% от нанесённого атаками урона."
+    },
+    "pack02:3604652": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604652",
+      "original": "Recovers HP equal to 12% of damage dealt with attacks.",
+      "translation": "Восстановление ОЗ в размере 12% от нанесённого атаками урона."
+    },
+    "pack02:3604653": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604653",
+      "original": "Recovers HP equal to 15% of damage dealt with attacks.",
+      "translation": "Восстановление ОЗ в размере 15% от нанесённого атаками урона."
+    },
+    "pack02:3604654": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604654",
+      "original": "&lt;CLGR&gt;Absorb Damage x Absorb Damage +&lt;CLNR&gt;^00Recovers HP equal to 15% of damage dealt with attacks.",
+      "translation": "&lt;CLGR&gt;Поглощение урона x Поглощение урона +&lt;CLNR&gt;^00Восстанавливает ОЗ в количестве, равном 15% урона, нанесённого атаками."
+    },
+    "pack02:3604655": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604655",
+      "original": "&lt;CLGR&gt;Absorb Damage + x Absorb Damage ++&lt;CLNR&gt;^00Recovers HP equal to 20% of damage dealt with attacks.",
+      "translation": "&lt;CLGR&gt;Поглощение урона + x Поглощение урона ++&lt;CLNR&gt;^00Восстанавливает ОЗ в количестве, равном 20% урона, нанесённого атаками."
+    },
+    "pack02:3604656": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604656",
+      "original": "&lt;CLGR&gt;Absorb HP x Steal Life&lt;CLNR&gt;^00Recovers HP equal to 25% of damage dealt with attacks.",
+      "translation": "&lt;CLGR&gt;Поглощение ОЗ x Кража жизни&lt;CLNR&gt;^00Восстанавливает ОЗ в количестве, равном 25% урона, нанесённого атаками."
+    },
+    "pack02:3604657": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604657",
+      "original": "Increases ATK by 10, and recovers HP equal to 15% of damage dealt with attacks.",
+      "translation": "Повышение АТК на 10 и восстановление ОЗ в размере 15% от урона, нанесённого атаками."
+    },
+    "pack02:3604658": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604658",
+      "original": "Attacks against beast type monsters are always critical hits.",
+      "translation": "Атаки по монстрам типа зверёк всегда критические."
+    },
+    "pack02:3604659": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604659",
+      "original": "Attacks against dragon type monsters are always critical hits.",
+      "translation": "Атаки по монстрам типа дракон всегда критические."
+    },
+    "pack02:3604660": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604660",
+      "original": "Attacks against elemental type monsters are always critical hits.",
+      "translation": "Атаки по монстрам типа элементаль всегда критические."
+    },
+    "pack02:3604661": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604661",
+      "original": "Attacks against magical and golem type monsters are always critical hits.",
+      "translation": "Атаки по монстрам типа магическое существо и голем всегда критические."
+    },
+    "pack02:3604662": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604662",
+      "original": "Attacks against plant, mushroom, and rabbit type monsters are always critical hits.",
+      "translation": "Атаки по монстрам типа растение, гриб и кролик всегда критические."
+    },
+    "pack02:3604663": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604663",
+      "original": "Attacks against beast and fairy type monsters are always critical hits.",
+      "translation": "Атаки по монстрам типа зверёк и фея всегда критические."
+    },
+    "pack02:3604664": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604664",
+      "original": "Attacks against puni type monsters are always critical hits.",
+      "translation": "Атаки по монстрам типа пуни всегда критические."
+    },
+    "pack02:3604665": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604665",
+      "original": "Attacks against turtle and jellyfish type monsters are always critical hits.",
+      "translation": "Атаки по монстрам типа черепаха и медуза всегда критические."
+    },
+    "pack02:3604666": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604666",
+      "original": "Attacks against bat and griffon type monsters are always critical hits.",
+      "translation": "Атаки по монстрам типа летучая мышь и грифон всегда критические."
+    },
+    "pack02:3604667": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604667",
+      "original": "Attacks against ghost and gargoyle type monsters are always critical hits.",
+      "translation": "Атаки по монстрам типа призрак и гаргулья всегда критические."
+    },
+    "pack02:3604668": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604668",
+      "original": "Attacks against Remplir are always critical hits.",
+      "translation": "Атаки по Ремплир всегда критические."
+    },
+    "pack02:3604669": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604669",
+      "original": "Attacks against gods are always critical hits.",
+      "translation": "Атаки по богам всегда критические."
+    },
+    "pack02:3604682": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604682",
+      "original": "Increases damage dealt to a stunned target by 15%.",
+      "translation": "Повышение урона по оглушённой цели на 15%."
+    },
+    "pack02:3604683": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604683",
+      "original": "Increases damage dealt to a stunned target by 25%.",
+      "translation": "Повышение урона по оглушённой цели на 25%."
+    },
+    "pack02:3604684": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604684",
+      "original": "Increases damage dealt to a stunned target by 35%.",
+      "translation": "Повышение урона по оглушённой цели на 35%."
+    },
+    "pack02:3604685": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604685",
+      "original": "&lt;CLGR&gt;Enhance Finisher x Enhance Finisher +&lt;CLNR&gt; ^00Increases damage dealt to a stunned target by 30%.",
+      "translation": "&lt;CLGR&gt;Решающий удар x Решающий удар +&lt;CLNR&gt; ^00Повышение урона по оглушённой цели на 30%."
+    },
+    "pack02:3604686": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604686",
+      "original": "&lt;CLGR&gt;Enhance Finisher + x Enhance Finisher ++&lt;CLNR&gt;^00Increases damage dealt to a stunned target by 40%.",
+      "translation": "&lt;CLGR&gt;Решающий удар + x Решающий удар ++&lt;CLNR&gt;^00Повышение урона по оглушённой цели на 40%."
+    },
+    "pack02:3604687": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604687",
+      "original": "&lt;CLGR&gt;Merciless Blow x Relentless Blow&lt;CLNR&gt;^00Increases damage dealt to a stunned target by 60%.",
+      "translation": "&lt;CLGR&gt;Безжалостный удар x Неумолимый удар&lt;CLNR&gt;^00Повышение урона по оглушённой цели на 60%."
+    },
+    "pack02:3604688": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604688",
+      "original": "Increases power by 5% for the number of targets in the effect area.",
+      "translation": "Повышение силы на 5% за каждую цель в зоне действия."
+    },
+    "pack02:3604689": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604689",
+      "original": "Increases power by 7% for the number of targets in the effect area.",
+      "translation": "Повышение силы на 7% за каждую цель в зоне действия."
+    },
+    "pack02:3604690": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604690",
+      "original": "&lt;CLGR&gt;Area Bonus x Area Bonus +&lt;CLNR&gt;^00Increases power by 10% for the number of targets in the effect area.",
+      "translation": "&lt;CLGR&gt;Бонус от радиуса дейст. x Бонус от радиуса дейст.+&lt;CLNR&gt;^00Повышение силы на 10% за каждую цель в зоне действия."
+    },
+    "pack02:3604691": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604691",
+      "original": "Increases power by 12% for the number of targets in the effect area.",
+      "translation": "Повышение силы на 12% за каждую цель в зоне действия."
+    },
+    "pack02:3604692": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604692",
+      "original": "Increases power by 12 ÷ the number of targets in the effect area.",
+      "translation": "Повышение силы на 12 ÷ количество целей в зоне действия."
+    },
+    "pack02:3604693": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604693",
+      "original": "Increases power by 17 ÷ the number of targets in the effect area.",
+      "translation": "Повышение силы на 17 ÷ количество целей в зоне действия."
+    },
+    "pack02:3604694": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604694",
+      "original": "&lt;CLGR&gt;Few Bonus x Few Bonus +&lt;CLNR&gt;^00Increases power by 22 ÷ the number of targets in the effect area.",
+      "translation": "&lt;CLGR&gt;Малый бонус x Малый бонус +&lt;CLNR&gt;^00Повышение силы на 22 ÷ число целей в зоне действия."
+    },
+    "pack02:3604695": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604695",
+      "original": "Increases power by 30 ÷ the number of targets in the effect area.",
+      "translation": "Повышение силы на 30 ÷ количество целей в зоне действия."
+    },
+    "pack02:3604696": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604696",
+      "original": "Increases power by 20 ÷ the number of targets in the effect area + 10% x the number of targets in the effect area.",
+      "translation": "Повышение силы на 20 ÷ количество целей в зоне действия + 10% × количество целей в зоне действия."
+    },
+    "pack02:3604697": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604697",
+      "original": "Increases power by 15% when use count is down to 1.",
+      "translation": "Повышение силы на 15% при оставшемся 1 использовании."
+    },
+    "pack02:3604698": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604698",
+      "original": "Increases power by 20% when use count is down to 1.",
+      "translation": "Повышение силы на 20% при оставшемся 1 использовании."
+    },
+    "pack02:3604699": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604699",
+      "original": "&lt;CLGR&gt;Enhance Last x Enhance Last +&lt;CLNR&gt;^00Increases power by 30% when use count is down to 1.",
+      "translation": "&lt;CLGR&gt;Последний шанс x Последний шанс+&lt;CLNR&gt;^00Повышение силы на 30%, когда число использований равно 1."
+    },
+    "pack02:3604700": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604700",
+      "original": "Increases power by 45% when use count is down to 1.",
+      "translation": "Повышение силы на 45% при оставшемся 1 использовании."
+    },
+    "pack02:3604701": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604701",
+      "original": "In exchange for consuming the item in 1 use, increases power by maximum use count x 3%.",
+      "translation": "В обмен на расход предмета за 1 использование: повышение силы на макс. число использований × 3%."
+    },
+    "pack02:3604702": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604702",
+      "original": "In exchange for consuming the item in 1 use, increases power by maximum use count x 5%.",
+      "translation": "В обмен на расход предмета за 1 использование: повышение силы на макс. число использований × 5%."
+    },
+    "pack02:3604703": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604703",
+      "original": "&lt;CLGR&gt;Compress Count x Compress Count +&lt;CLNR&gt;^00In exchange for consuming the item in 1 use, increases power by maximum use count x 7%.",
+      "translation": "&lt;CLGR&gt;Сжатие использований x Сжатие использований +&lt;CLNR&gt;^00Расход предмета за 1 использование в обмен на повышение силы на макс. число использований × 7%."
+    },
+    "pack02:3604704": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604704",
+      "original": "In exchange for consuming the item in 1 use, increases power by maximum use count x 10%.",
+      "translation": "В обмен на расход предмета за 1 использование: повышение силы на макс. число использований × 10%."
+    },
+    "pack02:3604705": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604705",
+      "original": "Increases item power by max use count x 2%.",
+      "translation": "Повышение силы предмета на макс. количество использований × 2%."
+    },
+    "pack02:3604706": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604706",
+      "original": "Increases item power by max use count x 3%.",
+      "translation": "Повышение силы предмета на макс. количество использований × 3%."
+    },
+    "pack02:3604707": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604707",
+      "original": "&lt;CLGR&gt;Boost Count x Boost Count +&lt;CLNR&gt;^00Increases item power by max use count x 5%.",
+      "translation": "&lt;CLGR&gt;Повышение от числа исп. x Повышение от числа исп. +&lt;CLNR&gt;^00Повышение силы предмета на макс. число использований × 5%."
+    },
+    "pack02:3604708": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604708",
+      "original": "Increases item power by max use count x 7%.",
+      "translation": "Повышение силы предмета на макс. количество использований × 7%."
+    },
+    "pack02:3604709": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604709",
+      "original": "Reduces the wait time after using an item by 10%. In exchange, power drops slightly.",
+      "translation": "Снижение времени ожидания после использования предмета на 10%. Сила слегка снижается взамен."
+    },
+    "pack02:3604710": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604710",
+      "original": "Reduces the wait time after using an item by 20%. In exchange, power drops somewhat.",
+      "translation": "Снижение времени ожидания после использования предмета на 20%. Сила умеренно снижается взамен."
+    },
+    "pack02:3604711": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604711",
+      "original": "&lt;CLGR&gt;Fast Use x Fast Use +&lt;CLNR&gt;^00Reduces the wait time after using an item by 30%, but power drops.",
+      "translation": "&lt;CLGR&gt;Быстрое использование x Быстрое использование +&lt;CLNR&gt;^00Снижение времени ожидания после использования предмета на 30%, но сила снижается."
+    },
+    "pack02:3604712": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604712",
+      "original": "Reduces the wait time after using an item by 50%.",
+      "translation": "Снижение времени ожидания после использования предмета на 50%."
+    },
+    "pack02:3604713": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604713",
+      "original": "Increases the wait time slightly after using an item, but increases the power slightly as well.",
+      "translation": "Небольшое увеличение времени ожидания после использования предмета, но также небольшое повышение силы."
+    },
+    "pack02:3604714": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604714",
+      "original": "Increases the wait time after using an item, but increases the power as well.",
+      "translation": "Увеличение времени ожидания после использования предмета, но также повышение силы."
+    },
+    "pack02:3604715": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604715",
+      "original": "&lt;CLGR&gt;Power Throw x Power Throw +&lt;CLNR&gt;^00Reduces the wait time greatly after using an item, but increases the power greatly as well.",
+      "translation": "&lt;CLGR&gt;Усиление предмета x Усиление предмета +&lt;CLNR&gt;^00Сильное снижение времени ожидания после использования предмета, но также сильное повышение силы."
+    },
+    "pack02:3604716": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604716",
+      "original": "Increases the critical bonus by 15%, and increases attack hit chance by 33%.",
+      "translation": "Повышение бонуса крит. удара на 15% и шанса попадания атак на 33%."
+    },
+    "pack02:3604717": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604717",
+      "original": "Reduces effectiveness of turn delaying effects by half, and increases Stun resistance greatly.",
+      "translation": "Снижение эффективности эффектов, задерживающих ход, вдвое и сильное повышение сопротивления оглушению."
+    },
+    "pack02:3604718": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604718",
+      "original": "Converts a portion of HP damage into MP, and reduces the chance of being afflicted by ailments.",
+      "translation": "Преобразование части урона по ОЗ в ОМ и снижение шанса получения недугов."
+    },
+    "pack02:3604719": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604719",
+      "original": "Increases SPD by 30, and reduces the wait time after using a skill by 10%.",
+      "translation": "Повышение СКР на 30 и снижение времени ожидания после использования навыка на 10%."
+    },
+    "pack02:3604720": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604720",
+      "original": "Heals a lot of HP each turn, and gives a chance of avoiding a KO.",
+      "translation": "Восстанавливает много ОЗ каждый ход и даёт шанс избежать нокаута."
+    },
+    "pack02:3604721": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604721",
+      "original": "Reduces damage taken slightly, and restores MP if HP drops, or restores HP if MP drops.",
+      "translation": "Небольшое снижение получаемого урона и восстановление ОМ при падении ОЗ или восстановление ОЗ при падении ОМ."
+    },
+    "pack02:3604722": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604722",
+      "original": "Increases ATK by 50, but reduces SPD greatly as well.",
+      "translation": "Повышение АТК на 50, но также сильное снижение СКР."
+    },
+    "pack02:3604723": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604723",
+      "original": "Increases all stats by 10, and grants Fire and Ice resistance.",
+      "translation": "Повышение всех характеристик на 10 и дарование сопр. огню и льду."
+    },
+    "pack02:3604724": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604724",
+      "original": "Increases all stats by 10, and grants Thunder and Air resistance.",
+      "translation": "Повышение всех характеристик на 10 и дарование сопр. молнии и воздуху."
+    },
+    "pack02:3604725": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604725",
+      "original": "Switches the values for Max HP and MP, and increases evasion.",
+      "translation": "Переключение значений макс. ОЗ и ОМ и повышение уклонения."
+    },
+    "pack02:3604726": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604726",
+      "original": "Increases the effects of Stand-in Defense and Follow-up Skills, while healing MP each turn.",
+      "translation": "Повышение эффектов защиты подмены и навыков поддержки и восстановление ОМ каждый ход."
+    },
+    "pack02:3604727": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604727",
+      "original": "Increases skill power by 25%, and increases the Stun levels of attacks a lot.",
+      "translation": "Повышение силы навыков на 25% и сильное повышение уровней оглушения атак."
+    },
+    "pack02:3604728": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604728",
+      "original": "Adds additional damage during attacks, and decreases the target’s ATK, DEF, and SPD.",
+      "translation": "Добавляет дополнительный урон при атаках и снижает АТК, ЗЩТ и СКР цели."
+    },
+    "pack02:3604729": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604729",
+      "original": "Increases stats based on the wearer’s level.",
+      "translation": "Повышение характеристик в зависимости от уровня носителя."
+    },
+    "pack02:3604730": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604730",
+      "original": "Increases Max HP by 60, and allows to automatically revive after being KO'ed.",
+      "translation": "Повышение макс. ОЗ на 60 и возможность автоматически восстановиться после нокаута."
+    },
+    "pack02:3604731": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604731",
+      "original": "Increases stats when fighting a powerful enemy.",
+      "translation": "Повышение характеристик при сражении с сильным врагом."
+    },
+    "pack02:3604732": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604732",
+      "original": "Increases Follow-up Skill power and the fill rate of the Combination Gauge.",
+      "translation": "Повышение силы навыков поддержки и скорости заполнения шкалы комбинации."
+    },
+    "pack02:3604733": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604733",
+      "original": "Increases Stun resistance and recovery speed greatly.",
+      "translation": "Сильное повышение сопротивления оглушению и скорости восстановления."
+    },
+    "pack02:3604734": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604734",
+      "original": "Offers a chance to cause additional Physical damage when attacking.",
+      "translation": "Даёт шанс нанести дополнительный физический урон при атаке."
+    },
+    "pack02:3604735": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604735",
+      "original": "Offers a chance to cause additional Magic damage when attacking.",
+      "translation": "Даёт шанс нанести дополнительный магический урон при атаке."
+    },
+    "pack02:3604736": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604736",
+      "original": "Offers a chance to cause additional Magic and Fire damage when attacking.",
+      "translation": "Даёт шанс нанести дополнительный магический и огненный урон при атаке."
+    },
+    "pack02:3604737": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604737",
+      "original": "Offers a chance to cause additional Magic and Ice damage when attacking.",
+      "translation": "Даёт шанс нанести дополнительный магический и ледяной урон при атаке."
+    },
+    "pack02:3604738": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604738",
+      "original": "Offers a chance to cause additional Magic and Lightning damage when attacking.",
+      "translation": "Даёт шанс нанести дополнительный магический и молниевый урон при атаке."
+    },
+    "pack02:3604739": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604739",
+      "original": "Offers a chance to cause additional Magic and Air damage when attacking.",
+      "translation": "Даёт шанс нанести дополнительный магический и воздушный урон при атаке."
+    },
+    "pack02:3604740": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604740",
+      "original": "Offers a chance to increase chance of being targeted by enemy attacks when attacking.",
+      "translation": "Шанс повысить вероятность стать целью атак врагов при атаке."
+    },
+    "pack02:3604741": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604741",
+      "original": "Offers a chance to inflict Poison on the target.",
+      "translation": "Шанс наложить на цель отравление."
+    },
+    "pack02:3604742": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604742",
+      "original": "Offers a chance to inflict Burns on the target.",
+      "translation": "Шанс наложить на цель ожог."
+    },
+    "pack02:3604743": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604743",
+      "original": "Offers a chance to inflict Seal on the target.",
+      "translation": "Шанс наложить на цель печать."
+    },
+    "pack02:3604744": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604744",
+      "original": "Offers a chance to inflict Sleep on the target.",
+      "translation": "Шанс наложить на цель сон."
+    },
+    "pack02:3604745": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604745",
+      "original": "Offers a chance to inflict additional damage during attacks, and HP is recovered based on damage dealt.",
+      "translation": "Шанс нанести дополнительный урон при атаках и восстановление ОЗ в зависимости от нанесённого урона."
+    },
+    "pack02:3604746": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604746",
+      "original": "Offers a chance to reduce the target’s ATK when attacking.",
+      "translation": "Даёт шанс снизить АТК цели при атаке."
+    },
+    "pack02:3604747": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604747",
+      "original": "Offers a chance to reduce the target’s DEF when attacking.",
+      "translation": "Даёт шанс снизить ЗЩТ цели при атаке."
+    },
+    "pack02:3604748": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604748",
+      "original": "Offers a chance to reduce the target’s SPD when attacking.",
+      "translation": "Даёт шанс снизить СКР цели при атаке."
+    },
+    "pack02:3604749": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604749",
+      "original": "Offers a chance to reduce the target’s ATK, and increase your own ATK.",
+      "translation": "Шанс снизить АТК цели и повысить собственную АТК."
+    },
+    "pack02:3604750": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604750",
+      "original": "Offers a chance to reduce the target’s DEF, and increase your own DEF.",
+      "translation": "Шанс снизить ЗЩТ цели и повысить собственную ЗЩТ."
+    },
+    "pack02:3604751": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604751",
+      "original": "Offers a chance to reduce the target’s SPD, and increase your own SPD.",
+      "translation": "Шанс снизить СКР цели и повысить собственную СКР."
+    },
+    "pack02:3604752": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604752",
+      "original": "Gain a big damage reduction effect, but become easily stunned. Reduction effect is negated while stunned.",
+      "translation": "Даёт сильный эффект снижения урона, но повышает уязвимость к оглушению. Эффект снижения урона отменяется при оглушении."
+    },
+    "pack02:3604753": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604753",
+      "original": "Massively increases critical hit chance, but take damage every turn.",
+      "translation": "Значительное повышение шанса крит. удара, но получение урона каждый ход."
+    },
+    "pack02:3604754": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604754",
+      "original": "Consume your own HP to revive the target and complete restore their HP.",
+      "translation": "Расход собственных ОЗ для воскрешения цели и полного восстановления её ОЗ."
+    },
+    "pack02:3604755": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604755",
+      "original": "Gain a powerful HP regeneration effect, but greatly increases wait time after turns.",
+      "translation": "Мощная регенерация ОЗ. Увеличение времени ожидания ходов."
+    },
+    "pack02:3604756": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604756",
+      "original": "Ridiculously increases sale price, but cannot be transferred to other items.",
+      "translation": "Повышение цены для продажи. Свойство непереносимо."
+    },
+    "pack02:3604757": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604757",
+      "original": "Massively increases the rate of chance based effects activating.",
+      "translation": "Очень сильное повышение частоты активации базовых эффектов."
+    },
+    "pack02:3604758": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604758",
+      "original": "Gain physical resistance and auto revive abilities, but Max HP is lowered, and HP is reduced each turn.",
+      "translation": "Даёт физическое сопротивление и автовоскрешение, но снижает макс. ОЗ, и ОЗ уменьшаются каждый ход."
+    },
+    "pack02:3604759": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604759",
+      "original": "Causes fixed additional damage. This damage ignores defense.",
+      "translation": "Дополнительный фиксированный урон, игнорирующий защиту."
+    },
+    "pack02:3604760": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604760",
+      "original": "Gain a super powerful HP regeneration effect, but massively increases wait time after turns.",
+      "translation": "Мощная регенерация ОЗ. Очень сильное увеличение времени ожидания ходов."
+    },
+    "pack02:3604761": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604761",
+      "original": "Increases skill power by 50%, but doubles the MP consumption.",
+      "translation": "Удвоение силы навыков. Повышение расхода ОМ на них."
+    },
+    "pack02:3604762": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604762",
+      "original": "Speeds up the next turn greatly, but wait time after the next turn increases massively.",
+      "translation": "Значительное ускорение следующего хода, но время ожидания после следующего хода резко возрастает."
+    },
+    "pack02:3604763": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604763",
+      "original": "Greatly delays the target's turn, but they can act 1 additional time on their next turn.",
+      "translation": "Заметное увеличение времени ожидания хода взамен на шанс дополнительного хода."
+    },
+    "pack02:3604764": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604764",
+      "original": "Reduces all damage to 1 for one time only, but become afflicted by multiple powerful ailments.",
+      "translation": "Однократное снижение всего урона до 1, но наложение нескольких сильных недугов."
+    },
+    "pack02:3604765": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604765",
+      "original": "Increases ATK massively, but drains HP each turn.",
+      "translation": "Огромное повышение АТК, но расход ОЗ каждый ход."
+    },
+    "pack02:3604766": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604766",
+      "original": "Slowly increases all stats during battle.",
+      "translation": "Медленное повышение всех характеристик в бою."
+    },
+    "pack02:3604767": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604767",
+      "original": "Has a low chance to grant an additional turn immediately.",
+      "translation": "Слабый шанс на дополнительный ход."
+    },
+    "pack02:3604768": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604768",
+      "original": "Increases item power greatly and reduces wait time, but skills are greatly weakened.",
+      "translation": "Сильное повышение силы предмета и снижение времени ожидания, но навыки сильно ослабляются."
+    },
+    "pack02:3604769": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604769",
+      "original": "Cures all ailments, but consumes a large amount of HP, and resets any enhancement effects.",
+      "translation": "Снимает все недуги, но расходует много ОЗ и сбрасывает все усиления."
+    },
+    "pack02:3604770": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604770",
+      "original": "Shortens number of turns that ailments last, but become afflicted by multiple ailments.",
+      "translation": "Снижения времени действия недугов взамен на повышение подверженности другим."
+    },
+    "pack02:3604771": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604771",
+      "original": "Defeats enemy instantly when their HP is 10% or less, but if they don't die, their stats are boosted greatly.",
+      "translation": "Мгновенно побеждает врага, если у него 10% ОЗ или меньше, но если он не погибнет — его характеристики сильно повышаются."
+    },
+    "pack02:3604772": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604772",
+      "original": "Restores HP greatly, but increases the Stun levels greatly as well. The Stun level is split among the targets.",
+      "translation": "Сильное восстановление ОЗ, но также сильное повышение уровней оглушения. Уровень оглушения распределяется между целями."
+    },
+    "pack02:3604773": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604773",
+      "original": "Use an item without consuming it, but massively weakens the effect.",
+      "translation": "Шанс на использование предмета с очень сильно ослабленными эффектами, не тратя его число использования."
+    },
+    "pack02:3604774": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604774",
+      "original": "Adds 14-20% additional damage, and increases skill power by 10%.",
+      "translation": "Добавляет 14-20% дополнительного урона и повышает силу навыков на 10%."
+    },
+    "pack02:3604775": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604775",
+      "original": "Adds 18-25% additional damage, and increases skill power by 20%.",
+      "translation": "Добавляет 18-25% дополнительного урона и повышает силу навыков на 20%."
+    },
+    "pack02:3604776": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604776",
+      "original": "Adds 21-30% additional damage, and increases skill power by 15%.",
+      "translation": "Добавляет 21-30% дополнительного урона и повышает силу навыков на 15%."
+    },
+    "pack02:3604793": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604793",
+      "original": "Increases item power by 25%, effect turns to basic.",
+      "translation": "Повышение силы предмета на 25%; эффект становится базовым."
+    },
+    "pack02:3604794": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604794",
+      "original": "Increases recovery effect greatly, and revives KO’ed status.",
+      "translation": "Сильное усиление эффекта восстановления и снятие статуса нокаута."
+    },
+    "pack02:3604795": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604795",
+      "original": "Reduces the turns ailments last to 3 turns, and cures 2 ailments immediately.",
+      "translation": "Сокращение длительности недугов до 3 ходов и немедленное снятие 2 недугов."
+    },
+    "pack02:3604796": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604796",
+      "original": "Offers a chance of another turn when using an item. However, the chance drops lower each time it succeeds, until it fails.",
+      "translation": "Шанс получить ещё один ход при использовании предмета. Однако шанс уменьшается после каждого успеха, пока не провалится."
+    },
+    "pack02:3604797": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604797",
+      "original": "Restores the target's HP a little, and grants Ice Resistance M.",
+      "translation": "Небольшое восстановление ОЗ цели и дарование сопр. к льду M."
+    },
+    "pack02:3604798": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604798",
+      "original": "Increases evasion rate a little, and recover a slight amount of HP each turn.",
+      "translation": "Слабое повышение шанса уклонения и восстановление небольшого количества ОЗ каждый ход."
+    },
+    "pack02:3604799": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604799",
+      "original": "Increases defense by 6, and increases Stun resistance a little.",
+      "translation": "Повышение ЗЩТ на 6 и слабое повышение сопротивления оглушению."
+    },
+    "pack02:3604800": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604800",
+      "original": "Reduces damage by 5%, and increases critical hit chance by 5%.",
+      "translation": "Снижение получаемого урона на 5% и повышение шанса крит. удара на 5%."
+    },
+    "pack02:3604801": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604801",
+      "original": "Increases DEF by 3, and reduces enemy turn delaying attacks by 25%.",
+      "translation": "Повышение ЗЩТ на 3 и снижение атак врага, задерживающих ход, на 25%."
+    },
+    "pack02:3604802": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604802",
+      "original": "Increases ATK by 15, but drains HP each turn.",
+      "translation": "Повышение АТК на 15, но расход ОЗ каждый ход."
+    },
+    "pack02:3604803": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604803",
+      "original": "Makes it more likely to be targeted by enemy attacks, and increases evasion rate a little.",
+      "translation": "Повышение вероятности стать целью атак врагов и небольшое повышение шанса уклонения."
+    },
+    "pack02:3604804": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604804",
+      "original": "Reduces wait time after use as more targets are in the effect area.",
+      "translation": "Снижение времени ожидания после использования пропорционально количеству целей в зоне действия."
+    },
+    "pack02:3604805": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604805",
+      "original": "Increases DEF temporarily, and grants Ice Resistance M.",
+      "translation": "Временное повышение ЗЩТ и дарование сопр. льду M."
+    },
+    "pack02:3604806": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604806",
+      "original": "Increases ATK temporarily, and grants Fire Resistance M.",
+      "translation": "Временное повышение АТК и дарование сопр. огню M."
+    },
+    "pack02:3604807": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604807",
+      "original": "Increases critical hit chance and damage bonus.",
+      "translation": "Средний повышение шанса на критическую атаку. Средний бонус к урону при ней."
+    },
+    "pack02:3604808": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604808",
+      "original": "Increases skill power and stats when attached to equipment.",
+      "translation": "Повышение силы навыков и характеристик при креплении к снаряжению."
+    },
+    "pack02:3604809": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604809",
+      "original": "Increases stats based on the wearer’s level.",
+      "translation": "Повышение характеристик в зависимости от уровня носителя."
+    },
+    "pack02:3604810": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604810",
+      "original": "Restores HP to the wearer each turn when attached to equipment.",
+      "translation": "Восстановление ОЗ носителю каждый ход при креплении к снаряжению."
+    },
+    "pack02:3604811": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604811",
+      "original": "Reduces the target's SPD, and offers a chance of inflicting Slowness on the target.",
+      "translation": "Снижение СКР цели и шанс наложить на цель замедление."
+    },
+    "pack02:3604812": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604812",
+      "original": "Reduces the wait time after using a skill a little.",
+      "translation": "Небольшое снижение времени ожидания после использования навыка."
+    },
+    "pack02:3604813": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604813",
+      "original": "Increases evasion rate and Stun levels recovery speed a little.",
+      "translation": "Слабое повышение шанса уклонения и скорости восстановления уровней оглушения."
+    },
+    "pack02:3604814": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604814",
+      "original": "Revives from being KO’ed, and restores HP.",
+      "translation": "Воскрешение из нокаута и восстановление ОЗ."
+    },
+    "pack02:3604815": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604815",
+      "original": "Bestows an effect that absorbs a portion of damage dealt when using an item.",
+      "translation": "Дарует эффект поглощения части нанесённого урона при использовании предмета."
+    },
+    "pack02:3604816": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604816",
+      "original": "Bestows an effect that reduces the next damage taken when using an item.",
+      "translation": "Дарует эффект снижения следующего полученного урона при использовании предмета."
+    },
+    "pack02:3604817": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604817",
+      "original": "Restores additional HP and removes 1 status ailment when receiving status ailment or HP recovery effects.",
+      "translation": "Дополнительное восстановление ОЗ и снятие 1 недуга при получении эффектов негативного статуса или восстановления ОЗ."
+    },
+    "pack02:3604818": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604818",
+      "original": "Bestows an effect that adds additional Fire and Ice damage when using an item.",
+      "translation": "Дарует эффект дополнительного урона огнём и льдом при использовании предмета."
+    },
+    "pack02:3604819": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604819",
+      "original": "Increases the fill rate of the Combination Gauge, and increases stats according to level.",
+      "translation": "Повышение скорости заполнения шкалы комбинации и характеристик в зависимости от уровня."
+    },
+    "pack02:3604820": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604820",
+      "original": "Increases ATK by 5 during battle, while adding the effect of other attackers' &quot;Resonance Blades&quot; as well.",
+      "translation": "Повышение АТК на 5 в бою с добавлением эффекта &quot;Резонансных клинков&quot; других атакующих."
+    },
+    "pack02:3604821": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604821",
+      "original": "Increases ATK by 10 during battle, while adding the effect of other attackers' &quot;Resonance Blades&quot; as well.",
+      "translation": "Повышение АТК на 10 в бою с добавлением эффекта &quot;Резонансных клинков&quot; других атакующих."
+    },
+    "pack02:3604822": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604822",
+      "original": "Increases DEF by 5 during battle, while adding the effect of other attackers' &quot;Resonance Shields&quot; as well.",
+      "translation": "Повышение ЗЩТ на 5 в бою с добавлением эффекта &quot;Резонансных щитов&quot; других атакующих."
+    },
+    "pack02:3604823": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604823",
+      "original": "Increases DEF by 10 during battle, while adding the effect of other attackers' &quot;Resonance Shields&quot; as well.",
+      "translation": "Повышение ЗЩТ на 10 в бою с добавлением эффекта &quot;Резонансных щитов&quot; других атакующих."
+    },
+    "pack02:3604824": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604824",
+      "original": "Increases SPD by 5 during battle, while adding the effect of other attackers' &quot;Resonance Arts&quot; as well.",
+      "translation": "Повышение СКР на 5 в бою с добавлением эффекта &quot;Резонансных навыков&quot; других атакующих."
+    },
+    "pack02:3604825": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604825",
+      "original": "Increases SPD by 10 during battle, while adding the effect of other attackers' &quot;Resonance Arts&quot; as well.",
+      "translation": "Повышение СКР на 10 в бою с добавлением эффекта &quot;Резонансных навыков&quot; других атакующих."
+    },
+    "pack02:3604826": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604826",
+      "original": "Increases ATK, DEF and SPD by 3 during battle, while adding the effect of other attackers' &quot;Resonance All&quot; traits as well.",
+      "translation": "Повышение АТК, ЗЩТ и СКР на 3 в бою с добавлением эффекта свойств &quot;Полного резонанса&quot; других атакующих."
+    },
+    "pack02:3604827": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604827",
+      "original": "Increases ATK, DEF and SPD by 5 during battle, while adding the effect of other attackers' &quot;Resonance All&quot; traits as well.",
+      "translation": "Повышение АТК, ЗЩТ и СКР на 5 в бою с добавлением эффекта свойств &quot;Полного резонанса&quot; других атакующих."
+    },
+    "pack02:3604828": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604828",
+      "original": "The red gem’s shine increases ATK, and increases the fill rate of the Combination Gauge a little.",
+      "translation": "Блеск красного камня повышает АТК и слегка увеличивает скорость заполнения шкалы комбинации."
+    },
+    "pack02:3604829": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604829",
+      "original": "The blue gem’s shine increases DEF, and increases the fill rate of the Combination Gauge a little.",
+      "translation": "Блеск синего камня повышает ЗЩТ и слегка увеличивает скорость заполнения шкалы комбинации."
+    },
+    "pack02:3604830": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604830",
+      "original": "The green gem’s shine increases SPD, and increases the fill rate of the Combination Gauge a little.",
+      "translation": "Блеск зелёного камня повышает СКР и слегка увеличивает скорость заполнения шкалы комбинации."
+    },
+    "pack02:3604831": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604831",
+      "original": "The madder gem’s shine increases skill power, and increases the fill rate of the Combination Gauge a little.",
+      "translation": "Блеск красильного камня повышает силу навыков и слегка увеличивает скорость заполнения шкалы комбинации."
+    },
+    "pack02:3604832": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604832",
+      "original": "The black gem’s shine adds a damage absorption effect, and increases the fill rate of the Combination Gauge a little.",
+      "translation": "Блеск чёрного камня добавляет эффект поглощения урона и слегка увеличивает скорость заполнения шкалы комбинации."
+    },
+    "pack02:3604833": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604833",
+      "original": "The white gem’s shine increases all stats, and increases the fill rate of the Combination Gauge a little.",
+      "translation": "Блеск белого камня повышает все характеристики и слегка увеличивает скорость заполнения шкалы комбинации."
+    },
+    "pack02:3604834": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604834",
+      "original": "The crimson gem’s radiance greatly increases ATK, and increases the fill rate of the Combination Gauge.",
+      "translation": "Сияние малинового камня значительно повышает АТК и увеличивает скорость заполнения шкалы комбинации."
+    },
+    "pack02:3604835": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604835",
+      "original": "The azure gem’s radiance greatly increases DEF, and increases the fill rate of the Combination Gauge.",
+      "translation": "Сияние лазурного камня значительно повышает ЗЩТ и увеличивает скорость заполнения шкалы комбинации."
+    },
+    "pack02:3604836": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604836",
+      "original": "The jade gem’s radiance greatly increases SPD, and increases the fill rate of the Combination Gauge.",
+      "translation": "Сияние нефритового камня значительно повышает СКР и увеличивает скорость заполнения шкалы комбинации."
+    },
+    "pack02:3604837": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604837",
+      "original": "The scarlet gem’s radiance greatly increases skill power, and increases the fill rate of the Combination Gauge.",
+      "translation": "Сияние алого камня значительно повышает силу навыков и увеличивает скорость заполнения шкалы комбинации."
+    },
+    "pack02:3604838": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604838",
+      "original": "The dusk gem’s radiance adds a damage absorption effect, and increases the fill rate of the Combination Gauge.",
+      "translation": "Сияние сумеречного камня добавляет эффект поглощения урона и увеличивает скорость заполнения шкалы комбинации."
+    },
+    "pack02:3604839": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604839",
+      "original": "The gold gem’s radiance greatly increases all stats, and increases the fill rate of the Combination Gauge.",
+      "translation": "Сияние золотого камня значительно повышает все характеристики и увеличивает скорость заполнения шкалы комбинации."
+    },
+    "pack02:3604840": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604840",
+      "original": "Massively increase success rate of fleeing from battle, and massively increasing chance of obtaining loot.",
+      "translation": "Очень сильное повышение шанса успешного побега с боя, и такое же повышение шанса выпадения предметов с врагов."
+    },
+    "pack02:3604841": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604841",
+      "original": "Increases experience points and money gained massively.",
+      "translation": "Огромное повышение получаемых очков опыта и денег."
+    },
+    "pack02:3604842": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604842",
+      "original": "Allows you to obtain powerful resonance strength, while adding the effect of other attackers' &quot;Resonance All&quot; traits as well.",
+      "translation": "Позволяет получить мощную резонансную силу, добавляя также эффект свойств &quot;Резонанс: АТК/ЗЩТ/СКР&quot; других атакующих."
+    },
+    "pack02:3604843": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604843",
+      "original": "Gain ultimate stability. Nullifies turn delaying effects by 100%.",
+      "translation": "Дарование абсолютной стабильности, обнуляющей эффекты, задерживающих ход, на 100%."
+    },
+    "pack02:3604844": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604844",
+      "original": "Gain ultimate mobility. Wait time after using skills is reduced by 20%.",
+      "translation": "Дарование абсолютной подвижности, снижающей время ожидания после использования навыков на 20%."
+    },
+    "pack02:3604845": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604845",
+      "original": "Gain ultimate regeneration. Recover 50 HP on every turn.",
+      "translation": "Дарование абсолютной регенерации, восстанавливающей 50 ОЗ каждый ход."
+    },
+    "pack02:3604846": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604846",
+      "original": "Gain ultimate criticality. Increases critical hit rate by 50%.",
+      "translation": "Дарование абсолютной критичности, повышающей шанс на критическую атаку на 50%."
+    },
+    "pack02:3604847": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604847",
+      "original": "Gain ultimate conversion. 20% of damage taken is absorbed into MP and 20% of MP consumed into HP.",
+      "translation": "Дарование абсолютного преобразования. 20% получаемого урона поглощается в ОМ, а 20% расходуемых ОМ восстанавливается как ОЗ."
+    },
+    "pack02:3604848": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604848",
+      "original": "Gain ultimate evolution. Greatly enhances stats of the wearer depending on level.",
+      "translation": "Дарование абсолютной эволюции, заметно повышающей характеристики в зависимости от уровня."
+    },
+    "pack02:3604849": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604849",
+      "original": "Gain ultimate vitality. Increases Max HP by 100.",
+      "translation": "Дарование абсолютной жизненной силы. Повышение макс. ОЗ на 100."
+    },
+    "pack02:3604850": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604850",
+      "original": "Gain ultimate mentality. Increases Max MP by 100.",
+      "translation": "Дарование абсолютного духа. Повышение макс. ОМ на 100."
+    },
+    "pack02:3604851": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604851",
+      "original": "Gain ultimate enhancement. Increases Max HP and MP by 50.",
+      "translation": "Дарование абсолютного усиления. Повышение макс. ОЗ и ОМ на 50."
+    },
+    "pack02:3604852": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604852",
+      "original": "Gain ultimate attack. Increases ATK by 50.",
+      "translation": "Дарование абсолютной атаки. Повышение АТК на 50."
+    },
+    "pack02:3604853": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604853",
+      "original": "Gain ultimate defense. Increases DEF by 50.",
+      "translation": "Дарование абсолютной защиты. Повышение ЗЩТ на 50."
+    },
+    "pack02:3604854": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604854",
+      "original": "Gain ultimate energy. Increases SPD by 50.",
+      "translation": "Дарование абсолютной энергии. Повышение СКР на 50."
+    },
+    "pack02:3604855": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604855",
+      "original": "Gain ultimate Equipment Effect. Increases Equipment Effect by 30.",
+      "translation": "Дарование абсолютного эффекта снаряжения. Повышение эффекта снаряжения на 30."
+    },
+    "pack02:3604856": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604856",
+      "original": "Gain ultimate accuracy. Increases attack hit chance by 50%.",
+      "translation": "Дарование абсолютной точности. Повышение шанса попадания атак на 50%."
+    },
+    "pack02:3604857": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604857",
+      "original": "Gain ultimate evasion. Increases attack evasion chance by 15%.",
+      "translation": "Дарование абсолютного уклонения. Повышение шанса уклонения от атак на 15%."
+    },
+    "pack02:3604858": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604858",
+      "original": "Gain ultimate Fire resistance.",
+      "translation": "Дарование абсолютного сопр. огню."
+    },
+    "pack02:3604859": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604859",
+      "original": "Gain ultimate Ice resistance.",
+      "translation": "Дарование абсолютного сопр. льду."
+    },
+    "pack02:3604860": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604860",
+      "original": "Gain ultimate Lightning resistance.",
+      "translation": "Дарование абсолютного сопр. молнии."
+    },
+    "pack02:3604861": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604861",
+      "original": "Gain ultimate Air resistance.",
+      "translation": "Дарование абсолютного сопр. воздуху."
+    },
+    "pack02:3604862": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604862",
+      "original": "Gain resistance to all ailments.",
+      "translation": "Даёт сопротивление всем недугам."
+    },
+    "pack02:3604863": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604863",
+      "original": "Gain ultimate support. Increases the effects of Stand-in Defense and Follow-up Skill by 15%.",
+      "translation": "Дарование абсолютной поддержки. Повышение эффекта защиты подмены и навыков поддержки на 15%."
+    },
+    "pack02:3604864": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604864",
+      "original": "Gain ultimate compensation. Increases skill power by 30%.",
+      "translation": "Дарование абсолютного мастерства, повышающего силу навыков на 30%."
+    },
+    "pack02:3604865": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604865",
+      "original": "Gain ultimate revival ability, allowing you to automatically revive after being KO'ed.",
+      "translation": "Дарование абсолютной способности воскрешения, позволяющей автоматически восстановиться после нокаута."
+    },
+    "pack02:3604866": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604866",
+      "original": "Gain ultimate turn-around. Increases stats a lot when fighting a strong enemy.",
+      "translation": "Дарование абсолютного перелома. Сильное повышение характеристик при битве с сильным врагом."
+    },
+    "pack02:3604867": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604867",
+      "original": "Gain ultimate mitigation. Reduces all damage by 10%.",
+      "translation": "Дарование абсолютного смягчения. Снижение всего урона на 10%."
+    },
+    "pack02:3604868": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604868",
+      "original": "Gain ultimate stunning force. Increases the Stun levels a lot when attacking.",
+      "translation": "Дарование абсолютной силы оглушения. Сильное повышение уровней оглушения при атаке."
+    },
+    "pack02:3604869": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604869",
+      "original": "Gain divine mobility. Wait time after using skills is reduced by 30%.",
+      "translation": "Дарование божественной подвижности. Снижение времени ожидания после использования навыков на 30%."
+    },
+    "pack02:3604870": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604870",
+      "original": "Gain divine regenerative powers. Recover 100 HP on every turn.",
+      "translation": "Дарование божественных регенеративных сил. Восстановление 100 ОЗ каждый ход."
+    },
+    "pack02:3604871": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604871",
+      "original": "Gain divine conversion powers. 30% of damage taken is absorbed into MP and 30% of MP consumed is recovered as HP.",
+      "translation": "Дарование божественных сил преобразования. 30% получаемого урона поглощается в ОМ, а 30% расходуемых ОМ восстанавливается как ОЗ."
+    },
+    "pack02:3604872": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604872",
+      "original": "Gain divine enhancement. Increases Max HP and MP by 100.",
+      "translation": "Дарование божественного усиления. Повышение макс. ОЗ и ОМ на 100."
+    },
+    "pack02:3604873": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604873",
+      "original": "Gain divine attack. Increases ATK by 100.",
+      "translation": "Дарование божественной атаки. Повышение АТК на 100."
+    },
+    "pack02:3604874": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604874",
+      "original": "Gain divine defense. Increases DEF by 100.",
+      "translation": "Дарование божественной защиты. Повышение ЗЩТ на 100."
+    },
+    "pack02:3604875": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604875",
+      "original": "Gain divine energy. Increases SPD by 100.",
+      "translation": "Дарование божественной энергии. Повышение СКР на 100."
+    },
+    "pack02:3604876": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604876",
+      "original": "Gain divine Equipment Effect. Increases Equipment Effect by 50.",
+      "translation": "Дарование божественного эффекта снаряжения. Повышение эффекта снаряжения на 50."
+    },
+    "pack02:3604877": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604877",
+      "original": "Gain divine support. Increases the effects of Stand-in Defense and Follow-up Skill by 30%.",
+      "translation": "Дарование божественной поддержки. Повышение эффекта защиты подмены и навыков поддержки на 30%."
+    },
+    "pack02:3604878": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604878",
+      "original": "Gain divine turn-around ability. Increases stats significantly when fighting a strong enemy.",
+      "translation": "Дарование божественной способности перелома. Значительное повышение характеристик при битве с сильным врагом."
+    },
+    "pack02:3604879": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604879",
+      "original": "Increases ATK by 20 during battle, while adding the effect of other attackers’ “Resonance Blades” as well.",
+      "translation": "Повышение АТК на 20 в бою с добавлением эффекта «Резонансных клинков» других атакующих."
+    },
+    "pack02:3604880": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604880",
+      "original": "Increases DEF by 20 during battle, while adding the effect of other attackers’ “Resonance Shields” as well.",
+      "translation": "Повышение ЗЩТ на 20 в бою с добавлением эффекта «Резонансных щитов» других атакующих."
+    },
+    "pack02:3604881": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604881",
+      "original": "Increases SPD by 20 during battle, while adding the effect of other attackers’ “Resonance Arts” as well.",
+      "translation": "Повышение СКР на 20 в бою с добавлением эффекта «Резонансных навыков» других атакующих."
+    },
+    "pack02:3604882": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604882",
+      "original": "Increases ATK, DEF and SPD by 10 during battle, while adding the effect of other attackers’ “Resonance All” traits as well.",
+      "translation": "Повышение АТК, ЗЩТ и СКР на 10 в бою с добавлением эффекта свойств «Полного резонанса» других атакующих."
+    },
+    "pack02:3604883": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604883",
+      "original": "Increases the effect of attack items by 60%.",
+      "translation": "Повышение эффекта атакующих предметов на 60%."
+    },
+    "pack02:3604884": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604884",
+      "original": "Increases damage dealt to a stunned target by 80%.",
+      "translation": "Повышение урона по оглушённой цели на 80%."
+    },
+    "pack02:3604885": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604885",
+      "original": "Reduces the wait time after using an item by 60%.",
+      "translation": "Снижение времени ожидания после использования предмета на 60%."
+    },
+    "pack02:3604886": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604886",
+      "original": "Significantly increases the wait time after using an item, but increases power significantly.",
+      "translation": "Значительное увеличение времени ожидания после использования предмета, но значительное повышение силы."
+    },
+    "pack02:3604887": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604887",
+      "original": "Bestows an effect that adds additional Lightning and Wind damage when using an item.",
+      "translation": "Дарует эффект дополнительного урона молнией и ветром при использовании предмета."
+    },
+    "pack02:3604888": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604888",
+      "original": "Increases skill power by 20%, and recovers HP equal to 10% of damage inflicted with attacks.",
+      "translation": "Повышение силы навыков на 20% и восстановление ОЗ в размере 10% от урона, нанесённого атаками."
+    },
+    "pack02:3604889": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604889",
+      "original": "Increases skill power by 20%, and recovers MP each turn.",
+      "translation": "Повышение силы навыков на 20% и восстановление ОМ каждый ход."
+    },
+    "pack02:3604890": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604890",
+      "original": "Increases skill power dramatically, but dramatically weakens item power.",
+      "translation": "Значительное повышение силы навыков, но значительное ослабление силы предметов."
+    },
+    "pack02:3604891": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604891",
+      "original": "Increases the effects of Stand-in Defense and Follow-up Skills, but lowers Max HP.",
+      "translation": "Повышение эффектов защиты подмены и навыков поддержки, но снижение макс. ОЗ."
+    },
+    "pack02:3604892": {
+      "source": "pack02_text_en",
+      "file": "str_library_esp.xml",
+      "string_no": "3604892",
+      "original": "Significantly increases ATK, but makes you more easily stunned.",
+      "translation": "Значительное повышение АТК, но повышение уязвимости к оглушению."
+    }
+  }
+}

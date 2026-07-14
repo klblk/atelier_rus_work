@@ -1,0 +1,1492 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_event_chara_name.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:262145": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262145",
+      "original": "System",
+      "translation": "Туристка"
+    },
+    "pack02:262147": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262147",
+      "original": "Everyone",
+      "translation": "Все"
+    },
+    "pack02:262148": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262148",
+      "original": "Lydie",
+      "translation": "Лидия"
+    },
+    "pack02:262149": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262149",
+      "original": "Sue",
+      "translation": "Сью"
+    },
+    "pack02:262150": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262150",
+      "original": "Firis",
+      "translation": "Фирис"
+    },
+    "pack02:262151": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262151",
+      "original": "Sophie",
+      "translation": "Софи"
+    },
+    "pack02:262152": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262152",
+      "original": "Mathias",
+      "translation": "Матиас"
+    },
+    "pack02:262153": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262153",
+      "original": "Alt",
+      "translation": "Альт"
+    },
+    "pack02:262154": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262154",
+      "original": "Lucia",
+      "translation": "Люсия"
+    },
+    "pack02:262155": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262155",
+      "original": "Roger",
+      "translation": "Роджер"
+    },
+    "pack02:262156": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262156",
+      "original": "Honnete",
+      "translation": "Оннет"
+    },
+    "pack02:262157": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262157",
+      "original": "Mireille",
+      "translation": "Мирей"
+    },
+    "pack02:262158": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262158",
+      "original": "Grace",
+      "translation": "Грейс"
+    },
+    "pack02:262159": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262159",
+      "original": "Hagel",
+      "translation": "Хагель"
+    },
+    "pack02:262160": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262160",
+      "original": "Plachta",
+      "translation": "Плахта"
+    },
+    "pack02:262161": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262161",
+      "original": "Ilmeria",
+      "translation": "Ильмерия"
+    },
+    "pack02:262162": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262162",
+      "original": "Corneria",
+      "translation": "Корнерия"
+    },
+    "pack02:262164": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262164",
+      "original": "Fritz",
+      "translation": "Фриц"
+    },
+    "pack02:262165": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262165",
+      "original": "Pamela",
+      "translation": "Памела"
+    },
+    "pack02:262166": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262166",
+      "original": "Liane",
+      "translation": "Лианэ"
+    },
+    "pack02:262167": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262167",
+      "original": "Drossel",
+      "translation": "Дроссель"
+    },
+    "pack02:262168": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262168",
+      "original": "Fuoco",
+      "translation": "Фуоко"
+    },
+    "pack02:262169": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262169",
+      "original": "Neige",
+      "translation": "Нейдж"
+    },
+    "pack02:262170": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262170",
+      "original": "Backen",
+      "translation": "Бакен"
+    },
+    "pack02:262171": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262171",
+      "original": "Falgior",
+      "translation": "Фальгиор"
+    },
+    "pack02:262172": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262172",
+      "original": "Ines",
+      "translation": "Инес"
+    },
+    "pack02:262173": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262173",
+      "original": "Chloe",
+      "translation": "Хлоя"
+    },
+    "pack02:262174": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262174",
+      "original": "Next-door Neighbor",
+      "translation": "Соседка"
+    },
+    "pack02:262175": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262175",
+      "original": "Nearby Resident",
+      "translation": "Сосед"
+    },
+    "pack02:262177": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262177",
+      "original": "Woman A",
+      "translation": "Девушка А"
+    },
+    "pack02:262178": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262178",
+      "original": "Woman B",
+      "translation": "Девушка Б"
+    },
+    "pack02:262179": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262179",
+      "original": "Old Man",
+      "translation": "Старик"
+    },
+    "pack02:262180": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262180",
+      "original": "Old Woman",
+      "translation": "Старушка"
+    },
+    "pack02:262182": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262182",
+      "original": "Ghost",
+      "translation": "Призрак"
+    },
+    "pack02:262183": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262183",
+      "original": "Wicked Tree A",
+      "translation": "Злое дерево А"
+    },
+    "pack02:262184": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262184",
+      "original": "Wicked Tree B",
+      "translation": "Злое дерево Б"
+    },
+    "pack02:262185": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262185",
+      "original": "Master",
+      "translation": "Мастер"
+    },
+    "pack02:262186": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262186",
+      "original": "Boy",
+      "translation": "Мальчик"
+    },
+    "pack02:262187": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262187",
+      "original": "Girl",
+      "translation": "Девочка"
+    },
+    "pack02:262188": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262188",
+      "original": "Peddler ",
+      "translation": "Странствующий торговец"
+    },
+    "pack02:262189": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262189",
+      "original": "Lady Official",
+      "translation": "Чиновница"
+    },
+    "pack02:262190": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262190",
+      "original": "Lady Merchant",
+      "translation": "Торговка"
+    },
+    "pack02:262191": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262191",
+      "original": "Mother",
+      "translation": "Мама"
+    },
+    "pack02:262192": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262192",
+      "original": "Immoral Alchemist",
+      "translation": "Бесчестный алхимик"
+    },
+    "pack02:262194": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262194",
+      "original": "Journalist",
+      "translation": "Журналист"
+    },
+    "pack02:262195": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262195",
+      "original": "Receptionist",
+      "translation": "Администратор"
+    },
+    "pack02:262196": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262196",
+      "original": "Material Voice A",
+      "translation": "Голос материала А"
+    },
+    "pack02:262197": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262197",
+      "original": "Material Voice B",
+      "translation": "Голос материала Б"
+    },
+    "pack02:262198": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262198",
+      "original": "Material Voice C",
+      "translation": "Голос материала В"
+    },
+    "pack02:262199": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262199",
+      "original": "Material Voice D",
+      "translation": "Голос материала Г"
+    },
+    "pack02:262200": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262200",
+      "original": "Puni",
+      "translation": "Пуни"
+    },
+    "pack02:262201": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262201",
+      "original": "Messenger Puni",
+      "translation": "Пуни-гонец"
+    },
+    "pack02:262202": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262202",
+      "original": "Kame-kichi",
+      "translation": "Каме-кити"
+    },
+    "pack02:262203": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262203",
+      "original": "Spectator",
+      "translation": "Турист"
+    },
+    "pack02:262204": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262204",
+      "original": "Onlookers",
+      "translation": "Зрители"
+    },
+    "pack02:262205": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262205",
+      "original": "Fairy",
+      "translation": "Фея"
+    },
+    "pack02:262206": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262206",
+      "original": "Twin God A",
+      "translation": "Бог-близнец А"
+    },
+    "pack02:262207": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262207",
+      "original": "Twin God B",
+      "translation": "Бог-близнец Б"
+    },
+    "pack02:262208": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262208",
+      "original": "Cow",
+      "translation": "Корова"
+    },
+    "pack02:262209": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262209",
+      "original": "Fire Dragon",
+      "translation": "Огненный дракон"
+    },
+    "pack02:262210": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262210",
+      "original": "Monster",
+      "translation": "Монстр"
+    },
+    "pack02:262211": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262211",
+      "original": "Remplir Core",
+      "translation": "Ядро Ремплир"
+    },
+    "pack02:262212": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262212",
+      "original": "Receptionist Lady",
+      "translation": "Администраторша"
+    },
+    "pack02:262213": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262213",
+      "original": "Shanon",
+      "translation": "Шанон"
+    },
+    "pack02:262214": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262214",
+      "original": "Heintz",
+      "translation": "Хайнц"
+    },
+    "pack02:262215": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262215",
+      "original": "Revy",
+      "translation": "Леви"
+    },
+    "pack02:262216": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262216",
+      "original": "Kald",
+      "translation": "Кальд"
+    },
+    "pack02:262217": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262217",
+      "original": "Angriff",
+      "translation": "Ангриф"
+    },
+    "pack02:262218": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262218",
+      "original": "Oskar",
+      "translation": "Оскар"
+    },
+    "pack02:262220": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262220",
+      "original": "Together",
+      "translation": "Вдвоём"
+    },
+    "pack02:262221": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262221",
+      "original": "Adventurer A",
+      "translation": "Авантюрист А"
+    },
+    "pack02:262222": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262222",
+      "original": "Adventurer B",
+      "translation": "Авантюрист Б"
+    },
+    "pack02:262223": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262223",
+      "original": "Worker A",
+      "translation": "Рабочий А"
+    },
+    "pack02:262224": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262224",
+      "original": "Worker B",
+      "translation": "Рабочий Б"
+    },
+    "pack02:262225": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262225",
+      "original": "Peddler A",
+      "translation": "Торговец А"
+    },
+    "pack02:262226": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262226",
+      "original": "Peddler B",
+      "translation": "Торговец Б"
+    },
+    "pack02:262227": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262227",
+      "original": "Aunty A",
+      "translation": "Тётя А"
+    },
+    "pack02:262228": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262228",
+      "original": "Aunty B",
+      "translation": "Тётя Б"
+    },
+    "pack02:262229": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262229",
+      "original": "Old Woman A",
+      "translation": "Старушка А"
+    },
+    "pack02:262230": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262230",
+      "original": "Old Woman B",
+      "translation": "Старушка Б"
+    },
+    "pack02:262231": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262231",
+      "original": "Boy A",
+      "translation": "Мальчик А"
+    },
+    "pack02:262232": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262232",
+      "original": "Boy B",
+      "translation": "Мальчик Б"
+    },
+    "pack02:262233": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262233",
+      "original": "Girl A",
+      "translation": "Девочка А"
+    },
+    "pack02:262234": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262234",
+      "original": "Girl B",
+      "translation": "Девочка Б"
+    },
+    "pack02:262235": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262235",
+      "original": "Merchant Man A",
+      "translation": "Торговец А"
+    },
+    "pack02:262236": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262236",
+      "original": "Merchant Man B",
+      "translation": "Торговец Б"
+    },
+    "pack02:262237": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262237",
+      "original": "Merchant Woman A",
+      "translation": "Торговка А"
+    },
+    "pack02:262238": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262238",
+      "original": "Merchant Woman B",
+      "translation": "Торговка Б"
+    },
+    "pack02:262239": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262239",
+      "original": "Miner A",
+      "translation": "Шахтёр А"
+    },
+    "pack02:262240": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262240",
+      "original": "Lake Man A",
+      "translation": "Мужчина с порт. городка А"
+    },
+    "pack02:262241": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262241",
+      "original": "Lake Man B",
+      "translation": "Мужчина с порт. городка Б"
+    },
+    "pack02:262242": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262242",
+      "original": "Lake Woman A",
+      "translation": "Девушка с порт. городка А"
+    },
+    "pack02:262243": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262243",
+      "original": "Lake Woman B",
+      "translation": "Девушка с порт. городка Б"
+    },
+    "pack02:262244": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262244",
+      "original": "City Man A",
+      "translation": "Горожанин А"
+    },
+    "pack02:262245": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262245",
+      "original": "City Woman A",
+      "translation": "Горожанка А"
+    },
+    "pack02:262246": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262246",
+      "original": "City Woman B",
+      "translation": "Горожанка Б"
+    },
+    "pack02:262247": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262247",
+      "original": "Cold Zone Man A",
+      "translation": "Мужчина с холодный краёв А"
+    },
+    "pack02:262248": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262248",
+      "original": "Cold Zone Woman A",
+      "translation": "Девушка с холодный краёв А"
+    },
+    "pack02:262249": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262249",
+      "original": "Librarian A",
+      "translation": "Библиотекарь А"
+    },
+    "pack02:262250": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262250",
+      "original": "Librarian B",
+      "translation": "Библиотекарь Б"
+    },
+    "pack02:262251": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262251",
+      "original": "Alchemist A",
+      "translation": "Алхимик А"
+    },
+    "pack02:262252": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262252",
+      "original": "Alchemist B",
+      "translation": "Алхимик Б"
+    },
+    "pack02:262253": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262253",
+      "original": "Palmyra",
+      "translation": "Пальмира"
+    },
+    "pack02:262254": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262254",
+      "original": "Termina",
+      "translation": "Термина"
+    },
+    "pack02:262255": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262255",
+      "original": "Luard",
+      "translation": "Луард"
+    },
+    "pack02:262256": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262256",
+      "original": "Suelle",
+      "translation": "Сюэль"
+    },
+    "pack02:262257": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262257",
+      "original": "Ilmeria",
+      "translation": "Ильмерия"
+    },
+    "pack02:262258": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262258",
+      "original": "Uoko",
+      "translation": "Уоко"
+    },
+    "pack02:262259": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262259",
+      "original": "Kuoko",
+      "translation": "Куоко"
+    },
+    "pack02:262260": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262260",
+      "original": "Suoko",
+      "translation": "Суоко"
+    },
+    "pack02:262261": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262261",
+      "original": "Tsuoko",
+      "translation": "Цуоко"
+    },
+    "pack02:262262": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262262",
+      "original": "Nuoko",
+      "translation": "Нуоко"
+    },
+    "pack02:262263": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262263",
+      "original": "Muoko",
+      "translation": "Муоко"
+    },
+    "pack02:262264": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262264",
+      "original": "Ruoko",
+      "translation": "Руоко"
+    },
+    "pack02:262265": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262265",
+      "original": "Buoko",
+      "translation": "Буоко"
+    },
+    "pack02:262266": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262266",
+      "original": "Zuoko",
+      "translation": "Зуоко"
+    },
+    "pack02:262267": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262267",
+      "original": "Castle Clerk",
+      "translation": "Секретарь замка"
+    },
+    "pack02:262268": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262268",
+      "original": "Authoritative Lady",
+      "translation": "Высокомерная девушка"
+    },
+    "pack02:262271": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262271",
+      "original": "Naive Young Man",
+      "translation": "Простой парень"
+    },
+    "pack02:262272": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262272",
+      "original": "Surveilling Alchemist",
+      "translation": "Алхимик-разведчик"
+    },
+    "pack02:262275": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262275",
+      "original": "Noisy Woman",
+      "translation": "Шумная тётя"
+    },
+    "pack02:262276": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262276",
+      "original": "Official",
+      "translation": "Чиновник"
+    },
+    "pack02:262277": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262277",
+      "original": "Romantic Man",
+      "translation": "Влюбчивый парень"
+    },
+    "pack02:262278": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262278",
+      "original": "Pious Old Woman",
+      "translation": "Благочестивая старушка"
+    },
+    "pack02:262279": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262279",
+      "original": "Playful Girl",
+      "translation": "Игривая девочка"
+    },
+    "pack02:262280": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262280",
+      "original": "Enthusiastic Miner",
+      "translation": "Усердный шахтёр"
+    },
+    "pack02:262281": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262281",
+      "original": "Strange Young Man",
+      "translation": "Странный парень"
+    },
+    "pack02:262282": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262282",
+      "original": "Lady Cook",
+      "translation": "Любительница готовки"
+    },
+    "pack02:262283": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262283",
+      "original": "Coolheaded Madam",
+      "translation": "Спокойная хозяйка"
+    },
+    "pack02:262284": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262284",
+      "original": "Hotheaded Mister",
+      "translation": "Горячий муж"
+    },
+    "pack02:262285": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262285",
+      "original": "Lazy Girl",
+      "translation": "Ленивая девушка"
+    },
+    "pack02:262286": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262286",
+      "original": "Diligent Miner",
+      "translation": "Старательный шахтёр"
+    },
+    "pack02:262287": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262287",
+      "original": "Lazy Merchant",
+      "translation": "Ленивый торговец"
+    },
+    "pack02:262288": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262288",
+      "original": "Enthusiastic Peddler",
+      "translation": "Усердный странствующий торговец"
+    },
+    "pack02:262289": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262289",
+      "original": "Enlightened Boy",
+      "translation": "Просветлённый мальчик"
+    },
+    "pack02:262290": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262290",
+      "original": "Vulgar Merchant",
+      "translation": "Наглый торговец"
+    },
+    "pack02:262291": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262291",
+      "original": "Young Man from the Bar",
+      "translation": "Парень из таверны"
+    },
+    "pack02:262292": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262292",
+      "original": "Sleepy Merchant",
+      "translation": "Сонный торговец"
+    },
+    "pack02:262293": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262293",
+      "original": "Energetic Boy",
+      "translation": "Энергичный мальчик"
+    },
+    "pack02:262294": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262294",
+      "original": "Lively Girl",
+      "translation": "Живая девочка"
+    },
+    "pack02:262296": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262296",
+      "original": "City Lady",
+      "translation": "Городская леди"
+    },
+    "pack02:262299": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262299",
+      "original": "Guard",
+      "translation": "Защита"
+    },
+    "pack02:262300": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262300",
+      "original": "Noble Young Man",
+      "translation": "Благородный молодой человек"
+    },
+    "pack02:262304": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262304",
+      "original": "Ms. Rigrein",
+      "translation": "Госпожа Ригрейн"
+    },
+    "pack02:262305": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262305",
+      "original": "Ms. Cow",
+      "translation": "Коровка"
+    },
+    "pack02:262306": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262306",
+      "original": "Mr. Cow",
+      "translation": "Коровёнок"
+    },
+    "pack02:262307": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262307",
+      "original": "Father?",
+      "translation": "Отец?"
+    },
+    "pack02:262308": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262308",
+      "original": "Scheming Merchant",
+      "translation": "Коварный торговец"
+    },
+    "pack02:262309": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262309",
+      "original": "Unconfident Peddler",
+      "translation": "Неуверенный странствующий торговец"
+    },
+    "pack02:262310": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262310",
+      "original": "Regular Customer",
+      "translation": "Постоянная клиентка"
+    },
+    "pack02:262311": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262311",
+      "original": "Proud Alchemist",
+      "translation": "Самоуверенный алхимик"
+    },
+    "pack02:262312": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262312",
+      "original": "Shopper Lady",
+      "translation": "Покупательница"
+    },
+    "pack02:262313": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262313",
+      "original": "Nervous Man",
+      "translation": "Нервный парень"
+    },
+    "pack02:262314": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262314",
+      "original": "Aspiring Woman",
+      "translation": "Мечтающая девушка"
+    },
+    "pack02:262315": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262315",
+      "original": "Family man ",
+      "translation": "Семьянин"
+    },
+    "pack02:262316": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262316",
+      "original": "Alt's Fervent Fan",
+      "translation": "Пылкий фанат Альта"
+    },
+    "pack02:262317": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262317",
+      "original": "Alt's Passionate Fan",
+      "translation": "Страстный фанат Альта"
+    },
+    "pack02:262318": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262318",
+      "original": "Snow Mountain Man",
+      "translation": "Мужчина с гор"
+    },
+    "pack02:262319": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262319",
+      "original": "Mathi...as?",
+      "translation": "Мати…ас?"
+    },
+    "pack02:262320": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262320",
+      "original": "Palm-sized Puni",
+      "translation": "Пуни на ладони"
+    },
+    "pack02:262321": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262321",
+      "original": "Punyu",
+      "translation": "Пунью"
+    },
+    "pack02:262322": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262322",
+      "original": "Punyu-nyu",
+      "translation": "Пунью-ню"
+    },
+    "pack02:262323": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262323",
+      "original": "Punyu-ball",
+      "translation": "Пунью-мяч"
+    },
+    "pack02:262324": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262324",
+      "original": "Puni-nyu-nyu",
+      "translation": "Пуни-ню-ню"
+    },
+    "pack02:262325": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262325",
+      "original": "Puni Dragon",
+      "translation": "Пуни-дракон"
+    },
+    "pack02:262326": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262326",
+      "original": "Young Man",
+      "translation": "Парень"
+    },
+    "pack02:262327": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262327",
+      "original": "Uncle",
+      "translation": "Дядя"
+    },
+    "pack02:262328": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262328",
+      "original": "Young Woman",
+      "translation": "Девушка"
+    },
+    "pack02:262329": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262329",
+      "original": "Material Voice",
+      "translation": "Голос материала"
+    },
+    "pack02:262330": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262330",
+      "original": "Lucia's Pupil",
+      "translation": "Ученица Люсии"
+    },
+    "pack02:262331": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262331",
+      "original": "Covert Merchant",
+      "translation": "Тайный торговец"
+    },
+    "pack02:262332": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262332",
+      "original": "Enamored Merchant",
+      "translation": "Влюблённая торговка"
+    },
+    "pack02:262333": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262333",
+      "original": "Suspicious Adventurer",
+      "translation": "Подозрительный авантюрист"
+    },
+    "pack02:262334": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262334",
+      "original": "Self-proclaimed Lucia's Pupil",
+      "translation": "Самозванная ученица Люсии"
+    },
+    "pack02:262335": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262335",
+      "original": "Puniboy",
+      "translation": "Пуни-мальчик"
+    },
+    "pack02:262336": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262336",
+      "original": "Troubled Man",
+      "translation": "В отчаянии дядя"
+    },
+    "pack02:262337": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262337",
+      "original": "Wind Lover",
+      "translation": "Любитель ветра"
+    },
+    "pack02:262338": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262338",
+      "original": "Peddler at the Pier",
+      "translation": "Торговец на пристани"
+    },
+    "pack02:262339": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262339",
+      "original": "Kind Young Man",
+      "translation": "Добрый парень"
+    },
+    "pack02:262340": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262340",
+      "original": "Girl in Love",
+      "translation": "Влюблённая девушка"
+    },
+    "pack02:262341": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262341",
+      "original": "Dairy Farmer",
+      "translation": "Фермер с молоком"
+    },
+    "pack02:262342": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262342",
+      "original": "Gossiping Peddler",
+      "translation": "Сплетник-торговец"
+    },
+    "pack02:262343": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262343",
+      "original": "Waiting Professional",
+      "translation": "Ожидающий работник"
+    },
+    "pack02:262344": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262344",
+      "original": "Trend Follower",
+      "translation": "Подражатель моде"
+    },
+    "pack02:262345": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262345",
+      "original": "Experienced Repairman",
+      "translation": "Опытный ремонтник"
+    },
+    "pack02:262346": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262346",
+      "original": "Timid Alchemist",
+      "translation": "Робкий алхимик"
+    },
+    "pack02:262347": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262347",
+      "original": "Resigned Archivist",
+      "translation": "Унылый библиотекарь"
+    },
+    "pack02:262348": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262348",
+      "original": "Rigrein's Sister",
+      "translation": "Сестра Ригрейн"
+    },
+    "pack02:262349": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262349",
+      "original": "Nelke",
+      "translation": "Нельке"
+    },
+    "pack02:262350": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262350",
+      "original": "Helpful Young Lady",
+      "translation": "Любительница показывать дорогу"
+    },
+    "pack02:262351": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262351",
+      "original": "Man with Sweet Tooth",
+      "translation": "Любитель сладкого"
+    },
+    "pack02:262352": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262352",
+      "original": "Discerning Gentleman",
+      "translation": "Знаток"
+    },
+    "pack02:262353": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262353",
+      "original": "Intrigued Woman",
+      "translation": "Любопытная тётя"
+    },
+    "pack02:262354": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262354",
+      "original": "Tree Observer",
+      "translation": "Наблюдатель за деревом"
+    },
+    "pack02:262355": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262355",
+      "original": "Tea Lover",
+      "translation": "Любительница чая"
+    },
+    "pack02:262356": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262356",
+      "original": "Playful Boy",
+      "translation": "Игривый мальчик"
+    },
+    "pack02:262357": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262357",
+      "original": "Well-Informed Man",
+      "translation": "Осведомлённый парень"
+    },
+    "pack02:262358": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262358",
+      "original": "Fascinated Woman",
+      "translation": "Очарованная девушка"
+    },
+    "pack02:262359": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262359",
+      "original": "Conflicted Young Man",
+      "translation": "Растерянный парень"
+    },
+    "pack02:262360": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262360",
+      "original": "Kind Man",
+      "translation": "Добрый дядя"
+    },
+    "pack02:262361": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262361",
+      "original": "Cautious Adventurer",
+      "translation": "Осторожный авантюрист"
+    },
+    "pack02:262362": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262362",
+      "original": "Bold Adventurer",
+      "translation": "Бесстрашный авантюрист"
+    },
+    "pack02:262363": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262363",
+      "original": "Innkeeper's Daughter",
+      "translation": "Дочь хозяина постоялого двора"
+    },
+    "pack02:262364": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262364",
+      "original": "Young Woman Walking",
+      "translation": "Гуляющая девушка"
+    },
+    "pack02:262365": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262365",
+      "original": "Impressed Old Woman",
+      "translation": "Восхищённая старушка"
+    },
+    "pack02:262366": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262366",
+      "original": "Disgusted Boy",
+      "translation": "Ошеломлённый мальчик"
+    },
+    "pack02:262367": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262367",
+      "original": "Wise Old Man",
+      "translation": "Мудрый старик"
+    },
+    "pack02:262368": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262368",
+      "original": "Barrel Custodian",
+      "translation": "Хранитель бочек"
+    },
+    "pack02:262369": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262369",
+      "original": "Carrot Farmer",
+      "translation": "Морковный фермер"
+    },
+    "pack02:262370": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262370",
+      "original": "Proud Girl",
+      "translation": "Гордая девочка"
+    },
+    "pack02:262371": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262371",
+      "original": "Siegel",
+      "translation": "Зигель"
+    },
+    "pack02:262372": {
+      "source": "pack02_text_en",
+      "file": "str_event_chara_name.xml",
+      "string_no": "262372",
+      "original": "Remplir",
+      "translation": "Ремплир"
+    }
+  }
+}

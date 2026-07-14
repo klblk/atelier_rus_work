@@ -1,0 +1,1205 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_ui.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:6619143": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619143",
+      "original": "Speaker:",
+      "translation": "Говорящий:"
+    },
+    "pack02:6619149": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619149",
+      "original": "&lt;IM00&gt;",
+      "translation": "&lt;IM00&gt;"
+    },
+    "pack02:6619152": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619152",
+      "original": "Attack",
+      "translation": "Атака"
+    },
+    "pack02:6619153": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619153",
+      "original": "Use Skill",
+      "translation": "Навык"
+    },
+    "pack02:6619154": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619154",
+      "original": "Items",
+      "translation": "Предметы"
+    },
+    "pack02:6619155": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619155",
+      "original": "Guard",
+      "translation": "Защита"
+    },
+    "pack02:6619156": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619156",
+      "original": "Flee",
+      "translation": "Пикирование"
+    },
+    "pack02:6619163": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619163",
+      "original": "MP",
+      "translation": "ОМ"
+    },
+    "pack02:6619165": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619165",
+      "original": "Target",
+      "translation": "Цель"
+    },
+    "pack02:6619166": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619166",
+      "original": "Area",
+      "translation": "Зона"
+    },
+    "pack02:6619167": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619167",
+      "original": "Effect 1",
+      "translation": "Эффект 1"
+    },
+    "pack02:6619171": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619171",
+      "original": "CHAIN BURST",
+      "translation": "ЦЕПНОЙ ВЗРЫВ"
+    },
+    "pack02:6619172": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619172",
+      "original": "Max",
+      "translation": "Макс."
+    },
+    "pack02:6619173": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619173",
+      "original": "Lv",
+      "translation": "Ур."
+    },
+    "pack02:6619176": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619176",
+      "original": "Exp",
+      "translation": "оо"
+    },
+    "pack02:6619177": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619177",
+      "original": "Next",
+      "translation": "След. ур."
+    },
+    "pack02:6619179": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619179",
+      "original": "Coll Received",
+      "translation": "Колл получено"
+    },
+    "pack02:6619184": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619184",
+      "original": "Obtained",
+      "translation": "Получено"
+    },
+    "pack02:6619186": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619186",
+      "original": "&lt;IM19&gt;",
+      "translation": "&lt;IM19&gt;"
+    },
+    "pack02:6619189": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619189",
+      "original": "Month",
+      "translation": "Мес.:"
+    },
+    "pack02:6619190": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619190",
+      "original": "Day",
+      "translation": "День"
+    },
+    "pack02:6619191": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619191",
+      "original": "day(s) left",
+      "translation": "ост. дн."
+    },
+    "pack02:6619192": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619192",
+      "original": "h",
+      "translation": "ч"
+    },
+    "pack02:6619193": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619193",
+      "original": "Rest",
+      "translation": "Отдых"
+    },
+    "pack02:6619202": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619202",
+      "original": "&lt;IM01&gt;",
+      "translation": "&lt;IM01&gt;"
+    },
+    "pack02:6619203": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619203",
+      "original": "&lt;IM05&gt;",
+      "translation": "&lt;IM05&gt;"
+    },
+    "pack02:6619204": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619204",
+      "original": "HP",
+      "translation": "ОЗ"
+    },
+    "pack02:6619205": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619205",
+      "original": "LP",
+      "translation": "ОД"
+    },
+    "pack02:6619208": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619208",
+      "original": "Get",
+      "translation": "Собрать"
+    },
+    "pack02:6619210": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619210",
+      "original": "X%d",
+      "translation": "X%d"
+    },
+    "pack02:6619213": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619213",
+      "original": "Normal",
+      "translation": "Обычная"
+    },
+    "pack02:6619215": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619215",
+      "original": "Sweet",
+      "translation": "Сладкий"
+    },
+    "pack02:6619216": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619216",
+      "original": "Back",
+      "translation": "Назад"
+    },
+    "pack02:6619218": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619218",
+      "original": "Reached 100% gathering rate!",
+      "translation": "Сбор завершён на 100%!"
+    },
+    "pack02:6619219": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619219",
+      "original": "Information Delivery Note",
+      "translation": "Журнал поставок"
+    },
+    "pack02:6619220": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619220",
+      "original": "Result",
+      "translation": "Итого"
+    },
+    "pack02:6619222": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619222",
+      "original": "★Reached 100% gathering rate!",
+      "translation": "★Сбор завершён на 100%!"
+    },
+    "pack02:6619223": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619223",
+      "original": "Map Info",
+      "translation": "Карта"
+    },
+    "pack02:6619224": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619224",
+      "original": "Item Info",
+      "translation": "Информация о предметах"
+    },
+    "pack02:6619226": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619226",
+      "original": "Filter items",
+      "translation": "Фильтровать"
+    },
+    "pack02:6619227": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619227",
+      "original": "Categories",
+      "translation": "Категории"
+    },
+    "pack02:6619228": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619228",
+      "original": "Color",
+      "translation": "Цвет"
+    },
+    "pack02:6619229": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619229",
+      "original": "Red",
+      "translation": "Красный"
+    },
+    "pack02:6619230": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619230",
+      "original": "Section",
+      "translation": "Раздел"
+    },
+    "pack02:6619232": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619232",
+      "original": "Trait",
+      "translation": "Свойство"
+    },
+    "pack02:6619233": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619233",
+      "original": "Catalyst",
+      "translation": "Катализатор"
+    },
+    "pack02:6619234": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619234",
+      "original": "Catalyst Name",
+      "translation": "Катализатор"
+    },
+    "pack02:6619235": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619235",
+      "original": "No Setting",
+      "translation": "Не задано"
+    },
+    "pack02:6619236": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619236",
+      "original": "Reset",
+      "translation": "Сброс"
+    },
+    "pack02:6619237": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619237",
+      "original": "Save and Exit",
+      "translation": "Сохранить и выйти"
+    },
+    "pack02:6619238": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619238",
+      "original": "(     matching)",
+      "translation": "(     совпад.)"
+    },
+    "pack02:6619239": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619239",
+      "original": "Uni Bag",
+      "translation": "Мешочек с Уни"
+    },
+    "pack02:6619240": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619240",
+      "original": "Total",
+      "translation": "В сумме:"
+    },
+    "pack02:6619242": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619242",
+      "original": "Attack",
+      "translation": "Атака"
+    },
+    "pack02:6619243": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619243",
+      "original": "Damage",
+      "translation": "Урон"
+    },
+    "pack02:6619244": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619244",
+      "original": "Defense",
+      "translation": "Защита"
+    },
+    "pack02:6619245": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619245",
+      "original": "Speed",
+      "translation": "Скорость"
+    },
+    "pack02:6619248": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619248",
+      "original": "Angriff",
+      "translation": "Ангриф"
+    },
+    "pack02:6619250": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619250",
+      "original": "Donkerhein",
+      "translation": "Донкерхайн"
+    },
+    "pack02:6619251": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619251",
+      "original": "In stock",
+      "translation": "В наличии"
+    },
+    "pack02:6619253": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619253",
+      "original": "Held",
+      "translation": "У вас"
+    },
+    "pack02:6619255": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619255",
+      "original": "Effect",
+      "translation": "Эффекты"
+    },
+    "pack02:6619256": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619256",
+      "original": "&quot;This one is yellow. It's precious, there are only three in the whole world.&quot; &quot;This person is lying.&quot; &quot;Everyone is lying.&quot;",
+      "translation": "«Этот — жёлтый. Он драгоценный, в мире их всего три». «Этот человек лжёт». «Все лгут»."
+    },
+    "pack02:6619257": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619257",
+      "original": "All",
+      "translation": "Все"
+    },
+    "pack02:6619258": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619258",
+      "original": "Materials",
+      "translation": "Материалы"
+    },
+    "pack02:6619259": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619259",
+      "original": "Synthesis",
+      "translation": "Синтез"
+    },
+    "pack02:6619260": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619260",
+      "original": "Usable Items",
+      "translation": "Расходники"
+    },
+    "pack02:6619261": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619261",
+      "original": "Gathering",
+      "translation": "Сбор материалов"
+    },
+    "pack02:6619262": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619262",
+      "original": "Ornaments",
+      "translation": "Украшения"
+    },
+    "pack02:6619263": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619263",
+      "original": "Weapons/Armor",
+      "translation": "Оружие/броня"
+    },
+    "pack02:6619264": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619264",
+      "original": "Artwork",
+      "translation": "Объекты"
+    },
+    "pack02:6619265": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619265",
+      "original": "Other",
+      "translation": "Прочее"
+    },
+    "pack02:6619266": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619266",
+      "original": "Filter Items",
+      "translation": "Фильтровать"
+    },
+    "pack02:6619267": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619267",
+      "original": "Lowest Level",
+      "translation": "Мин. ур."
+    },
+    "pack02:6619268": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619268",
+      "original": "Highest Level",
+      "translation": "Макс. ур."
+    },
+    "pack02:6619270": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619270",
+      "original": "Type:",
+      "translation": "Тип:"
+    },
+    "pack02:6619272": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619272",
+      "original": "etc.",
+      "translation": "и др."
+    },
+    "pack02:6619277": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619277",
+      "original": "Type",
+      "translation": "Тип"
+    },
+    "pack02:6619278": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619278",
+      "original": "Base Price",
+      "translation": "Базовая цена"
+    },
+    "pack02:6619280": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619280",
+      "original": "(puniball)",
+      "translation": "(Пунибол)"
+    },
+    "pack02:6619281": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619281",
+      "original": "Wave Breaker Bridge",
+      "translation": "Связующий мост храма"
+    },
+    "pack02:6619283": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619283",
+      "original": "x",
+      "translation": "x"
+    },
+    "pack02:6619284": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619284",
+      "original": "(water)",
+      "translation": "(Жидкость)"
+    },
+    "pack02:6619286": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619286",
+      "original": "(Components  )",
+      "translation": "(Компоненты  )"
+    },
+    "pack02:6619288": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619288",
+      "original": "Lv.",
+      "translation": "Ур."
+    },
+    "pack02:6619292": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619292",
+      "original": "Species",
+      "translation": "Вид"
+    },
+    "pack02:6619294": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619294",
+      "original": "Resistance",
+      "translation": "Сопр."
+    },
+    "pack02:6619295": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619295",
+      "original": "EXP",
+      "translation": "очки опыта"
+    },
+    "pack02:6619296": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619296",
+      "original": "Recipe Ideas",
+      "translation": "Идеи рецептов"
+    },
+    "pack02:6619297": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619297",
+      "original": "Effects &amp; Traits",
+      "translation": "Эффекты/свойства"
+    },
+    "pack02:6619298": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619298",
+      "original": "Monsters",
+      "translation": "Монстры"
+    },
+    "pack02:6619299": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619299",
+      "original": "Areas",
+      "translation": "Локации"
+    },
+    "pack02:6619300": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619300",
+      "original": "Help",
+      "translation": "Помощь"
+    },
+    "pack02:6619304": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619304",
+      "original": "Firis",
+      "translation": "Фирис"
+    },
+    "pack02:6619317": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619317",
+      "original": "(Components  )",
+      "translation": "(Компоненты  )"
+    },
+    "pack02:6619318": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619318",
+      "original": "Alchemy Lv.",
+      "translation": "Ур. алхимии"
+    },
+    "pack02:6619319": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619319",
+      "original": "Exp received",
+      "translation": "Опыт получен"
+    },
+    "pack02:6619320": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619320",
+      "original": "Bonus",
+      "translation": "Бонус"
+    },
+    "pack02:6619321": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619321",
+      "original": "Exp",
+      "translation": "Опыт"
+    },
+    "pack02:6619322": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619322",
+      "original": "Monstrous",
+      "translation": "Огромный"
+    },
+    "pack02:6619324": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619324",
+      "original": "(Category)",
+      "translation": "(Категория)"
+    },
+    "pack02:6619325": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619325",
+      "original": "Overall Quality",
+      "translation": "Общее качество"
+    },
+    "pack02:6619326": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619326",
+      "original": "Over",
+      "translation": "Выше"
+    },
+    "pack02:6619327": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619327",
+      "original": "Below",
+      "translation": "Ниже"
+    },
+    "pack02:6619328": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619328",
+      "original": "Quality +10",
+      "translation": "Качество +10"
+    },
+    "pack02:6619332": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619332",
+      "original": "Alchemy level is too low.",
+      "translation": "Недостаточный ур. алхимии."
+    },
+    "pack02:6619333": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619333",
+      "original": "(Magic Item)",
+      "translation": "(Магич. предмет)"
+    },
+    "pack02:6619334": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619334",
+      "original": "Not enough materials.",
+      "translation": "Недостаточно"
+    },
+    "pack02:6619335": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619335",
+      "original": "Components required:",
+      "translation": "Нужные компоненты:"
+    },
+    "pack02:6619336": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619336",
+      "original": "Synthesis time:",
+      "translation": "Время синтеза:"
+    },
+    "pack02:6619337": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619337",
+      "original": "h",
+      "translation": "ч"
+    },
+    "pack02:6619339": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619339",
+      "original": "Transferrable:",
+      "translation": "Перенос:"
+    },
+    "pack02:6619340": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619340",
+      "original": "Uses:",
+      "translation": "Использований:"
+    },
+    "pack02:6619343": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619343",
+      "original": "Location:",
+      "translation": "Место:"
+    },
+    "pack02:6619345": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619345",
+      "original": "Site:",
+      "translation": "Участок:"
+    },
+    "pack02:6619347": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619347",
+      "original": "Vicinity",
+      "translation": "Рядом"
+    },
+    "pack02:6619348": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619348",
+      "original": "Limit:",
+      "translation": "Срок:"
+    },
+    "pack02:6619349": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619349",
+      "original": "99m 99d",
+      "translation": "99m 99d"
+    },
+    "pack02:6619350": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619350",
+      "original": "Reward:",
+      "translation": "Награда:"
+    },
+    "pack02:6619351": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619351",
+      "original": "Quest details:",
+      "translation": "Детали задания:"
+    },
+    "pack02:6619354": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619354",
+      "original": "Related quests",
+      "translation": "Связанные задания"
+    },
+    "pack02:6619355": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619355",
+      "original": "Chronologically",
+      "translation": "По порядку"
+    },
+    "pack02:6619356": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619356",
+      "original": "By location",
+      "translation": "По локации"
+    },
+    "pack02:6619357": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619357",
+      "original": "By category",
+      "translation": "По категории"
+    },
+    "pack02:6619358": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619358",
+      "original": "pt",
+      "translation": "очк."
+    },
+    "pack02:6619361": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619361",
+      "original": "Learned a new recipe!",
+      "translation": "Новый рецепт!"
+    },
+    "pack02:6619362": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619362",
+      "original": "Price",
+      "translation": "Цена"
+    },
+    "pack02:6619363": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619363",
+      "original": "Buy",
+      "translation": "Купить"
+    },
+    "pack02:6619364": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619364",
+      "original": "Sell",
+      "translation": "Продать"
+    },
+    "pack02:6619365": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619365",
+      "original": "Yes",
+      "translation": "Да"
+    },
+    "pack02:6619366": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619366",
+      "original": "No",
+      "translation": "Нет"
+    },
+    "pack02:6619367": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619367",
+      "original": "How many do you want to buy?",
+      "translation": "Сколько купить?"
+    },
+    "pack02:6619368": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619368",
+      "original": "(  owned)",
+      "translation": "(  в наличии)"
+    },
+    "pack02:6619370": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619370",
+      "original": "Left",
+      "translation": "Остаток"
+    },
+    "pack02:6619371": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619371",
+      "original": "Obtained",
+      "translation": "Получено"
+    },
+    "pack02:6619379": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619379",
+      "original": "BGM",
+      "translation": "Музыка"
+    },
+    "pack02:6619380": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619380",
+      "original": "SE",
+      "translation": "Звуки"
+    },
+    "pack02:6619381": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619381",
+      "original": "VOICE",
+      "translation": "Голоса"
+    },
+    "pack02:6619382": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619382",
+      "original": "MOVIE",
+      "translation": "Видео"
+    },
+    "pack02:6619383": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619383",
+      "original": "Camera Vertical",
+      "translation": "Камера ось Y"
+    },
+    "pack02:6619384": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619384",
+      "original": "Reverse",
+      "translation": "Инвертир."
+    },
+    "pack02:6619385": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619385",
+      "original": "Camera Horizontal",
+      "translation": "Камера ось X"
+    },
+    "pack02:6619386": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619386",
+      "original": "Camera Speed",
+      "translation": "Скорость камеры"
+    },
+    "pack02:6619387": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619387",
+      "original": "Vibration",
+      "translation": "Вибрация"
+    },
+    "pack02:6619388": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619388",
+      "original": "ON",
+      "translation": "ВКЛ"
+    },
+    "pack02:6619389": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619389",
+      "original": "Difficulty",
+      "translation": "Сложность"
+    },
+    "pack02:6619391": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619391",
+      "original": "Dash Move",
+      "translation": "Бег"
+    },
+    "pack02:6619392": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619392",
+      "original": "Map Rotation",
+      "translation": "Вращение карты"
+    },
+    "pack02:6619393": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619393",
+      "original": "Bombs, etc.",
+      "translation": "Бомбы и пр."
+    },
+    "pack02:6619394": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619394",
+      "original": "Written exam",
+      "translation": "Письменный экзамен"
+    },
+    "pack02:6619395": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619395",
+      "original": "Practical exam I",
+      "translation": "Практический экзамен I"
+    },
+    "pack02:6619396": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619396",
+      "original": "Practical exam II",
+      "translation": "Практический экзамен II"
+    },
+    "pack02:6619397": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619397",
+      "original": "Correct answer",
+      "translation": "Верный ответ"
+    },
+    "pack02:6619399": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619399",
+      "original": "points",
+      "translation": "баллов"
+    },
+    "pack02:6619400": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619400",
+      "original": "pts",
+      "translation": "очк."
+    },
+    "pack02:6619402": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619402",
+      "original": "Problem ",
+      "translation": "Вопрос"
+    },
+    "pack02:6619405": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619405",
+      "original": "ver. 1.07",
+      "translation": "ver. 1.07"
+    },
+    "pack02:6619421": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619421",
+      "original": "Target:",
+      "translation": "Цель:"
+    },
+    "pack02:6619422": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619422",
+      "original": "Primary Habitat:",
+      "translation": "Среда обитания:"
+    },
+    "pack02:6619423": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619423",
+      "original": "Delivery item:",
+      "translation": "Предмет для сдачи:"
+    },
+    "pack02:6619424": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619424",
+      "original": "Additional conditions:",
+      "translation": "Доп. условия:"
+    },
+    "pack02:6619425": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619425",
+      "original": "%2d/%2d (%d day(s) left)",
+      "translation": "%2d/%2d (ост. дн.: %d)"
+    },
+    "pack02:6619426": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619426",
+      "original": "Quality: Above &lt;CLGR&gt;%d&lt;CLNR&gt;",
+      "translation": "Качество: &lt;CLGR&gt;%d+&lt;CLNR&gt;"
+    },
+    "pack02:6619427": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619427",
+      "original": "Effects: &lt;CLGR&gt;%s&lt;CLNR&gt;",
+      "translation": "Эффекты: &lt;CLGR&gt;%s&lt;CLNR&gt;"
+    },
+    "pack02:6619428": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619428",
+      "original": "Traits: &lt;CLGR&gt;%s&lt;CLNR&gt;",
+      "translation": "Свойства: &lt;CLGR&gt;%s&lt;CLNR&gt;"
+    },
+    "pack02:6619429": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619429",
+      "original": "Components: &lt;CLGR&gt;%s&lt;CLNR&gt;",
+      "translation": "Компоненты: &lt;CLGR&gt;%s&lt;CLNR&gt;"
+    },
+    "pack02:6619430": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619430",
+      "original": "None",
+      "translation": "Нет"
+    },
+    "pack02:6619431": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619431",
+      "original": "&quot;%s&quot; was added to the summary",
+      "translation": "«%s» добавлено в конспект."
+    },
+    "pack02:6619432": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619432",
+      "original": "&quot;%s&quot; was updated.",
+      "translation": "«%s» обновлено."
+    },
+    "pack02:6619433": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619433",
+      "original": "%d more possible to pick.",
+      "translation": "Ещё можно принять: %d."
+    },
+    "pack02:6619434": {
+      "source": "pack02_text_en",
+      "file": "str_ui.xml",
+      "string_no": "6619434",
+      "original": "Time limit expired.",
+      "translation": "Время вышло."
+    }
+  }
+}

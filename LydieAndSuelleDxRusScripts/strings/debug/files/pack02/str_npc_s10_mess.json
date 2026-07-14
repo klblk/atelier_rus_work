@@ -1,0 +1,694 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_npc_s10_mess.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:33030145": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030145",
+      "original": "Hello. It’s good to see you here.",
+      "translation": "Здравствуйте. Рада видеть вас здесь."
+    },
+    "pack02:33030146": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030146",
+      "original": "Let’s see if you have what I asked for.",
+      "translation": "Посмотрим, принесли ли вы то, о чём я просила."
+    },
+    "pack02:33030147": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030147",
+      "original": "Oh, you mean you’ve forgotten...?",
+      "translation": "О, вы хотите сказать, что забыли...?"
+    },
+    "pack02:33030148": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030148",
+      "original": "Hello, you two. It’s good to see you here.",
+      "translation": "Здравствуйте, вы вдвоём. Рада видеть вас здесь."
+    },
+    "pack02:33030149": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030149",
+      "original": "Take care on your way home.",
+      "translation": "Берегите себя по дороге домой."
+    },
+    "pack02:33030150": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030150",
+      "original": "Hello, you two. Come and pray with me... What? You’d rather not? I see...",
+      "translation": "Здравствуйте, вы вдвоём. Помолитесь со мной... Что? Не хотите? Понимаю..."
+    },
+    "pack02:33030151": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030151",
+      "original": "Lalalala la... O lord, please guide me on my path... ...Ahem. D-Do you need anything?",
+      "translation": "Ля-ля-ля... О господи, направь меня на моём пути... ...Кхм. В-вам что-нибудь нужно?"
+    },
+    "pack02:33030152": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030152",
+      "original": "There are so many alchemists around these days. Many people are asking for charms... I suppose they are faithful in their belief...",
+      "translation": "В последнее время алхимиков так много. Многие просят талисманы... Видимо, вера у них крепкая..."
+    },
+    "pack02:33030153": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030153",
+      "original": "I do feel guilty, relying on such young girls... May God be with you.",
+      "translation": "Мне стыдно полагаться на таких юных девочек... Да пребудет с вами Бог."
+    },
+    "pack02:33030154": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030154",
+      "original": "With the city at peace once more, people are returning to their normal way of life. This is all thanks to you.",
+      "translation": "Город снова в мире, и люди возвращаются к обычной жизни. Это всё благодаря вам."
+    },
+    "pack02:33030155": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030155",
+      "original": "God is watching over you always. You must remember not to act in a way that shames you... Are you listening, Sue?",
+      "translation": "Бог всегда наблюдает за вами. Помните, что не стоит вести себя так, чтобы вам было стыдно... Сью, ты слушаешь?"
+    },
+    "pack02:33030156": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030156",
+      "original": "This is not acceptable. Do you two not realize that when you argue, it brings sorrow to many around you.",
+      "translation": "Так нельзя. Разве вы не понимаете, что ваши ссоры приносят горе многим вокруг?"
+    },
+    "pack02:33030157": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030157",
+      "original": "Hehe, I am so pleased to see that you have made up. I was quite worried, you know.",
+      "translation": "Хехе, я так рада, что вы помирились. Я очень волновалась, знаете ли."
+    },
+    "pack02:33030158": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030158",
+      "original": "What on earth is the matter? You look most upset... Is there anything I can do?",
+      "translation": "Что же случилось? Вы выглядите очень расстроенными... Могу ли я чем-нибудь помочь?"
+    },
+    "pack02:33030159": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030159",
+      "original": "Ahem. In the words of Honnete... “Don’t give up before you even try!” Take care out there.",
+      "translation": "Кхм. Слова Оннет... «Не сдавайтесь, даже не попробовав!» Берегите себя там."
+    },
+    "pack02:33030160": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030160",
+      "original": "You’re but a step away from being the greatest alchemists in the land. I am sure that God has seen all the hard work you have both put in.",
+      "translation": "Вы в шаге от того, чтобы стать величайшими алхимиками в стране. Уверена, Бог видел всю вашу упорную работу."
+    },
+    "pack02:33030161": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030161",
+      "original": "You have always spoken of your dream... And now that dream has come true. That is a truly wonderful thing.",
+      "translation": "Вы всегда говорили о своей мечте... И теперь она сбылась. Это поистине замечательно."
+    },
+    "pack02:33030162": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030162",
+      "original": "There you are. Have you prepared the paper for the origami class?",
+      "translation": "Вот вы где. Вы подготовили бумагу для занятия по оригами?"
+    },
+    "pack02:33030163": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030163",
+      "original": "Nice, smooth paper, if possible. Thank you.",
+      "translation": "Желательно гладкую и ровную. Спасибо."
+    },
+    "pack02:33030164": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030164",
+      "original": "Hehe. Have you prepared the cloth I need to make the puppets?",
+      "translation": "Хехе. Вы подготовили ткань, которая мне нужна для кукол?"
+    },
+    "pack02:33030165": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030165",
+      "original": "I am sorry to burden you like this. But I am counting on you.",
+      "translation": "Простите, что обременяю вас этим. Но я на вас рассчитываю."
+    },
+    "pack02:33030166": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030166",
+      "original": "Are you still working at this hour? You mustn’t overdo things, you know.",
+      "translation": "Вы ещё работаете в такой час? Нельзя переутомляться, знаете ли."
+    },
+    "pack02:33030167": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030167",
+      "original": "I hear you two have registered with this Atelier Ranking System. But don’t go taking on more than you can handle.",
+      "translation": "Слышала, вы вдвоём зарегистрировались в этой системе рангов ателье. Но не берите на себя больше, чем можете."
+    },
+    "pack02:33030168": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030168",
+      "original": "Hoho... The shop is always thronging with customers. I’m just so busy! I have to prepare my stock by morning...",
+      "translation": "Хохо... В лавке всегда полно покупателей. Я так занята! Нужно успеть подготовить товар к утру..."
+    },
+    "pack02:33030169": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030169",
+      "original": "I know you’re probably very worried... But at times like this, the best thing to do is to go home and rest, okay?",
+      "translation": "Знаю, вы, наверное, очень волнуетесь... Но в такие моменты лучше всего пойти домой и отдохнуть, ладно?"
+    },
+    "pack02:33030170": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030170",
+      "original": "The rain and the thunderstorms have eased, and it’s become much more comfortable. But no staying up late, all right?",
+      "translation": "Дождь и грозы утихли, стало гораздо комфортнее. Но не засиживайтесь допоздна, хорошо?"
+    },
+    "pack02:33030171": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030171",
+      "original": "I’ve heard all about your exploits. You seem to be doing very well. But all things in moderation, okay?",
+      "translation": "Я слышала о ваших подвигах. У вас, кажется, всё идёт очень хорошо. Но во всём нужна мера, ладно?"
+    },
+    "pack02:33030172": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030172",
+      "original": "Oh dear, have you had a fight? I find a good night’s sleep tends to make everything better.",
+      "translation": "О боже, вы поссорились? По-моему, хороший ночной сон обычно всё исправляет."
+    },
+    "pack02:33030173": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030173",
+      "original": "Good, good, you’ve made up. Lydie and Sue just don’t work unless they’re together.",
+      "translation": "Хорошо, хорошо, вы помирились. Лидия и Сью просто не могут без друг друга."
+    },
+    "pack02:33030174": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030174",
+      "original": "Has something bad happened...? If I can help in any way, please just let me know.",
+      "translation": "Что-то плохое случилось...? Если я могу чем-нибудь помочь, пожалуйста, скажите."
+    },
+    "pack02:33030175": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030175",
+      "original": "Good luck, you two. I know God is looking down on you and keeping you safe!",
+      "translation": "Удачи вам, девочки. Я знаю, Бог смотрит на вас и оберегает!"
+    },
+    "pack02:33030176": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030176",
+      "original": "I hear you two are among the finest alchemists in the whole city now! Hehe, you really have done splendidly well!",
+      "translation": "Слышала, вы вдвоём — одни из лучших алхимиков во всём городе! Хехе, вы и правда превосходно справились!"
+    },
+    "pack02:33030177": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030177",
+      "original": "Hoho... I’ll have to make plenty of the charms I’ve devised featuring you two!",
+      "translation": "Хохо... Придётся сделать побольше талисманов с вами вдвоих!"
+    },
+    "pack02:33030178": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030178",
+      "original": "Dear lord, may today go smoothly and without incident. Above all, protect me from mistakes that will get me in trouble!",
+      "translation": "Господи, пусть сегодня пройдёт гладко и без происшествий. И прежде всего — убереги меня от ошибок, за которые меня отругают!"
+    },
+    "pack02:33030179": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030179",
+      "original": "The Atelier Ranking System seems to have made everyone happy! Maybe we should make some church rankings...",
+      "translation": "Похоже, система рангов ателье сделала всех счастливыми! Может, нам тоже ввести церковные ранги..."
+    },
+    "pack02:33030180": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030180",
+      "original": "Alchemy seems a lot like cooking. You just throw the ingredients in the pot, and stir!",
+      "translation": "Алхимия очень похожа на готовку. Бросаешь ингредиенты в котёл — и мешаешь!"
+    },
+    "pack02:33030181": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030181",
+      "original": "Oh, I hate thunderstorms! They’re so scary! I have to hide away somewhere!",
+      "translation": "О, я ненавижу грозы! Они такие страшные! Надо спрятаться куда-нибудь!"
+    },
+    "pack02:33030182": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030182",
+      "original": "There won’t be any more thunderstorms? Oh, what a relief...",
+      "translation": "Больше не будет гроз? О, какое облегчение..."
+    },
+    "pack02:33030183": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030183",
+      "original": "Good morning! This month, we’re encouraging people to greet each other more heartily! ...Well, I’m the only one who’s doing it, but still...",
+      "translation": "Доброе утро! В этом месяце мы призываем людей сердечнее друг друга приветствовать! ...Ну, пока это делаю только я, но всё же..."
+    },
+    "pack02:33030184": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030184",
+      "original": "I’ve decided to provide breakfast for those devotees here praying from the morning! That way, I get to eat too!",
+      "translation": "Я решила кормить завтраком тех, кто с утра молится здесь! Так я тоже смогу поесть!"
+    },
+    "pack02:33030185": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030185",
+      "original": "Maybe I should try to reach Rank S for clumsiness... I guess that’s a bad idea. I should be trying to cut down on errors.",
+      "translation": "Может, мне попробовать достичь ранга S в неуклюжести... Наверное, плохая идея. Лучше стараться меньше ошибаться."
+    },
+    "pack02:33030186": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030186",
+      "original": "I broke a plate yesterday, and a cup today... *Sigh*... Why do I have to be so awfully clumsy?",
+      "translation": "Вчера я разбила тарелку, а сегодня — чашку... *Вздох*... Почему я такая ужасно неуклюжая?"
+    },
+    "pack02:33030187": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030187",
+      "original": "I suggested that we introduce the Sister Ranking System, but I got told off instead... They told me I need to do my job right first!",
+      "translation": "Я предложила ввести систему рангов сестёр, но меня вместо этого отругали... Сказали, что сначала надо хорошо делать свою работу!"
+    },
+    "pack02:33030188": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030188",
+      "original": "How about these cookies as a snack? I made them using my ultimate Sister Skills... and the church’s oven.",
+      "translation": "Как насчёт этих печений? Я сделала их, используя свои лучшие сестринские навыки... и церковную печь."
+    },
+    "pack02:33030189": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030189",
+      "original": "Why are there so many people who do bad things...? ...Oh, I suppose Falgior isn’t technically a person.",
+      "translation": "Почему так много людей, которые делают плохие вещи...? ...О, хотя Фальгиор, наверное, не совсем человек."
+    },
+    "pack02:33030190": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030190",
+      "original": "I can’t afford to do anything naughty! God and the other sisters are always watching!",
+      "translation": "Я не могу позволить себе шалить! Бог и другие сёстры всегда наблюдают!"
+    },
+    "pack02:33030191": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030191",
+      "original": "Yesterday, I got sugar and salt mixed up, and today, I confused a raw egg with a boiled one... But how do you tell any of those things apart?",
+      "translation": "Вчера я перепутала сахар и соль, а сегодня — сырое яйцо с варёным... Но как вообще их различить?"
+    },
+    "pack02:33030192": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030192",
+      "original": "As long as I don’t give in, it’ll all work out! I will have faith in God and in myself! That will allow me to endure any number of lectures.",
+      "translation": "Пока я не сдамся, всё наладится! Я буду верить в Бога и в себя! Это поможет мне выдержать любое количество нотаций."
+    },
+    "pack02:33030193": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030193",
+      "original": "Hehe, one of the other sisters praised me! She said I was starting to get used to my job! I’m so happy!",
+      "translation": "Хехе, одна из сестёр меня похвалила! Сказала, что я начинаю привыкать к работе! Я так рада!"
+    },
+    "pack02:33030194": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030194",
+      "original": "I broke so many plates, I’ve been made to stay up and write a letter of penitence. The sisters are so harsh...",
+      "translation": "Я разбила столько тарелок, что меня заставили не спать и писать покаянное письмо. Сёстры такие строгие..."
+    },
+    "pack02:33030195": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030195",
+      "original": "I get in trouble a lot... But I do like living here. Everyone’s so kind and patient...",
+      "translation": "Меня часто ругают... Но мне нравится жить здесь. Все такие добрые и терпеливые..."
+    },
+    "pack02:33030196": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030196",
+      "original": "The food at the church is delicious! Mother Superior’s special stew and the butter rice the sisters make...!",
+      "translation": "Еда в церкви восхитительна! Особое рагу настоятельницы и масляный рис, который готовят сёстры...!"
+    },
+    "pack02:33030197": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030197",
+      "original": "My lord, Father, Mother... Please watch over the people of the city.",
+      "translation": "Господи, Отец, Мать... Пожалуйста, храните жителей города."
+    },
+    "pack02:33030198": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030198",
+      "original": "Now I can take my nighttime strolls without worrying. But it’s still dark out there at night, so you two need to be careful!",
+      "translation": "Теперь я могу гулять по ночам без опасений. Но на улице всё равно темно, так что вы вдвоём будьте осторожны!"
+    },
+    "pack02:33030199": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030199",
+      "original": "Dear lord... Today I accidentally put mustard in the cup of one of the other sisters... It was an accident, I swear!",
+      "translation": "Господи... Сегодня я случайно положила горчицу в чашку одной из сестёр... Это была случайность, клянусь!"
+    },
+    "pack02:33030200": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030200",
+      "original": "It’s best not to think too deeply at nights. I always end up feeling really pessimistic. You have to have a positive attitude!",
+      "translation": "По ночам лучше не думать слишком глубоко. Я всегда начинаю чувствовать себя очень пессимистично. Нужно мыслить позитивно!"
+    },
+    "pack02:33030201": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030201",
+      "original": "Listen, listen! Today I didn’t get told off even once! See, I’m getting better!",
+      "translation": "Слушайте, слушайте! Сегодня меня ни разу не отругали! Видите, я становлюсь лучше!"
+    },
+    "pack02:33030202": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030202",
+      "original": "Lydie, Sue! Congratulations on becoming the finest alchemists in the land! I know Honnete would be so proud!",
+      "translation": "Лидия, Сью! Поздравляю с тем, что вы стали лучшими алхимиками в стране! Знаю, Оннет была бы так горда!"
+    },
+    "pack02:33030203": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030203",
+      "original": "I start every morning with a prayer. Come, why not join me... Our Father, who art...",
+      "translation": "Я начинаю каждое утро с молитвы. Давайте, присоединяйтесь... «Отче наш, Сущий на небесах...»"
+    },
+    "pack02:33030204": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030204",
+      "original": "I make sure to greet God every morning.",
+      "translation": "Я стараюсь приветствовать Бога каждое утро."
+    },
+    "pack02:33030205": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030205",
+      "original": "...I’m praying right now. Come back and talk to me later.",
+      "translation": "...Я сейчас молюсь. Вернитесь и поговорите со мной позже."
+    },
+    "pack02:33030206": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030206",
+      "original": "If you pray to God, He will save you from this crisis. Everything will be fine.",
+      "translation": "Если вы помолитесь Богу, Он спасёт вас от этого кризиса. Всё будет хорошо."
+    },
+    "pack02:33030207": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030207",
+      "original": "Ah, thank you so much for saving us, o Lord.",
+      "translation": "Ах, большое спасибо, что спасли нас, господи."
+    },
+    "pack02:33030208": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030208",
+      "original": "Time to pray. I am thankful for this opportunity to be thankful.",
+      "translation": "Время молиться. Я благодарна за эту возможность быть благодарной."
+    },
+    "pack02:33030209": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030209",
+      "original": "No matter what happens, I will always come and worship.",
+      "translation": "Что бы ни случилось, я всегда буду приходить сюда молиться."
+    },
+    "pack02:33030210": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030210",
+      "original": "You should pray too. It doesn’t matter about procedure. It’s your intent that matters.",
+      "translation": "Вам тоже стоит молиться. Процедура не важна. Важны ваши намерения."
+    },
+    "pack02:33030211": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030211",
+      "original": "This is an old and venerable church. It’s been here ever since the town of Merveille was founded.",
+      "translation": "Это древняя и почтенная церковь. Она стоит здесь с тех пор, как был основан город Мервейль."
+    },
+    "pack02:33030212": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030212",
+      "original": "Atelier rankings? I have no interest in that... Faith is the most important thing to me.",
+      "translation": "Ранги ателье? Меня это не интересует... Для меня важнее всего вера."
+    },
+    "pack02:33030213": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030213",
+      "original": "Young people these days don’t like to worship. I suppose it’s a sign of the times...",
+      "translation": "Молодёжь в наши дни не любит молиться. Видимо, таковы времена..."
+    },
+    "pack02:33030214": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030214",
+      "original": "I’m not afraid of Falgior. This church will survive him! Our faith will not be shaken!",
+      "translation": "Я не боюсь Фальгиора. Эта церковь переживёт его! Наша вера не поколеблена!"
+    },
+    "pack02:33030215": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030215",
+      "original": "Hehe, did you see? Our unbending faith has saved Merveille.",
+      "translation": "Хехе, вы видели? Наша непоколебимая вера спасла Мервейль."
+    },
+    "pack02:33030216": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030216",
+      "original": "The special events mean the church is crowded on weekends. I think it’s a good thing.",
+      "translation": "Из-за особых мероприятий по выходным в церкви многолюдно. Думаю, это хорошо."
+    },
+    "pack02:33030217": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030217",
+      "original": "The beauty of this church has been unchanged since I was a child. It’s nice that some things never change.",
+      "translation": "Красота этой церкви не изменилась с моего детства. Приятно, что кое-что никогда не меняется."
+    },
+    "pack02:33030218": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030218",
+      "original": "Well, I’ve finished my prayers... I think it’s time to head home.",
+      "translation": "Ну, я закончила молитвы... Пора, наверное, идти домой."
+    },
+    "pack02:33030219": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030219",
+      "original": "Oh, what’s up with you? Did something good happen? Then you should let God know.",
+      "translation": "О, что с вами? Случилось что-то хорошее? Тогда стоит рассказать об этом Богу."
+    },
+    "pack02:33030220": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030220",
+      "original": "Oh, I hate praying. It’s so boring... *Yawn*... I’m sleepy...",
+      "translation": "О, я ненавижу молиться. Так скучно... *Зевок*... Хочу спать..."
+    },
+    "pack02:33030221": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030221",
+      "original": "Everyone’s having fun over there. I wish I could join them...",
+      "translation": "Там всем весело. Хотелось бы и мне к ним присоединиться..."
+    },
+    "pack02:33030222": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030222",
+      "original": "Grandma’s not interested in alchemy at all. She’s so far behind the times!",
+      "translation": "Бабушка совсем не интересуется алхимией. Она так отстала от жизни!"
+    },
+    "pack02:33030223": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030223",
+      "original": "I can’t believe Grandma wants to come here at a time like this... She’s so stubborn!",
+      "translation": "Не могу поверить, что бабушка хочет прийти сюда в такое время... Она такая упрямая!"
+    },
+    "pack02:33030224": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030224",
+      "original": "I think it was more than just God who saved us... Be reasonable, Grandma...",
+      "translation": "Думаю, нас спасло не только Божье вмешательство... Будь разумной, бабушка..."
+    },
+    "pack02:33030225": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030225",
+      "original": "It is nice that the land’s at peace, but I wish I was allowed to play!",
+      "translation": "Хорошо, что в стране мир, но хотелось бы, чтобы мне разрешили поиграть!"
+    },
+    "pack02:33030226": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030226",
+      "original": "Even the monsters are no match for Grandma’s faith.",
+      "translation": "Даже монстрам не справиться с верой бабушки."
+    },
+    "pack02:33030227": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030227",
+      "original": "Dear lord, may we all live in peace forever...",
+      "translation": "Господи, пусть мы все живём в мире вечно..."
+    },
+    "pack02:33030228": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030228",
+      "original": "Grandma... I already heard that story...",
+      "translation": "Бабушка... Я уже слышала эту историю..."
+    },
+    "pack02:33030229": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030229",
+      "original": "Faith is important, but you have to move with the times...",
+      "translation": "Вера важна, но нужно идти в ногу со временем..."
+    },
+    "pack02:33030230": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030230",
+      "original": "Prayer’s so boring! I want to go and play!",
+      "translation": "Молитва такая скучная! Хочу пойти играть!"
+    },
+    "pack02:33030231": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030231",
+      "original": "...Please, o Lord! You have to stop Falgior! You have to save our people!",
+      "translation": "...Пожалуйста, господи! Ты должен остановить Фальгиора! Ты должен спасти наш народ!"
+    },
+    "pack02:33030232": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030232",
+      "original": "...It’s thanks to you that Falgior’s gone, isn’t it? Hehe, thank you!",
+      "translation": "...Это благодаря вам Фальгиор исчез, верно? Хехе, спасибо!"
+    },
+    "pack02:33030233": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030233",
+      "original": "Sister Grace’s special events are so much fun! Have you ever been?",
+      "translation": "Особые мероприятия Сестры Грейс такие весёлые! Вы когда-нибудь бывали?"
+    },
+    "pack02:33030234": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030234",
+      "original": "Prayer time is a bit boring, but the church is so pretty and nice to be in.",
+      "translation": "Время молитвы немного скучное, но в церкви так красиво и приятно находиться."
+    },
+    "pack02:33030235": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030235",
+      "original": "Alchemists... That’s so cool... I wonder if I could...",
+      "translation": "Алхимики... Это так круто... Интересно, смогла бы я..."
+    },
+    "pack02:33030236": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030236",
+      "original": "You’re the best alchemists in the land now, right? Incredible! Can you teach me alchemy one day?",
+      "translation": "Вы теперь лучшие алхимики в стране, верно? Невероятно! Научите меня алхимии когда-нибудь?"
+    },
+    "pack02:33030237": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030237",
+      "original": "The one I love is a merchant. And I have decided that I shall become a merchant as well, so we can be together as equals!",
+      "translation": "Тот, кого я люблю, — торговец. И я решила тоже стать торговцем, чтобы мы могли быть вместе на равных!"
+    },
+    "pack02:33030238": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030238",
+      "original": "That is why, I'm still preparing my shop. Please do come back and buy many-many things when it opens.",
+      "translation": "Вот почему я всё ещё готовлю свою лавку. Пожалуйста, возвращайтесь и покупайте у меня много-много всего, когда она откроется."
+    },
+    "pack02:33030239": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030239",
+      "original": "...Oh, I am sorry. I was studying. I must hurry and become a fully fledged merchant to match my love...",
+      "translation": "...О, простите. Я занималась. Надо поторопиться и стать полноценным торговцем, достойным моей любви..."
+    },
+    "pack02:33030240": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030240",
+      "original": "Thunder God Falgior... There could be Thunder rice crackers and Thunder yeast buns... But they probably would be too scary to buy.",
+      "translation": "Бог Грома Фальгиор... Могли бы быть громовые рисовые крекеры и громовые дрожжевые булочки... Но, наверное, их было бы слишком страшно покупать."
+    },
+    "pack02:33030241": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030241",
+      "original": "Ah! Oh... Uhm... Please don't fight...",
+      "translation": "Ах! О... Э-э... Пожалуйста, не ссорьтесь..."
+    },
+    "pack02:33030242": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s10_mess.xml",
+      "string_no": "33030242",
+      "original": "I have heard what you have achieved! I too, must strive to became the greatest merchant, so that my love and I can... ehehe...",
+      "translation": "Я слышала о ваших достижениях! Мне тоже нужно стремиться стать величайшим торговцем, чтобы моя любовь и я могли... эхехе..."
+    }
+  }
+}

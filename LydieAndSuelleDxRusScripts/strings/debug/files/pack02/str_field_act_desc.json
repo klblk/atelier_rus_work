@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_field_act_desc.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:20709377": {
+      "source": "pack02_text_en",
+      "file": "str_field_act_desc.xml",
+      "string_no": "20709377",
+      "original": "Increases Recovery Effect by 50%.",
+      "translation": "Увеличивает эффект восстановления на 50%."
+    },
+    "pack02:20709378": {
+      "source": "pack02_text_en",
+      "file": "str_field_act_desc.xml",
+      "string_no": "20709378",
+      "original": "Triggers a random ailment against the enemy.",
+      "translation": "Вызывает случайный недуг против врага."
+    },
+    "pack02:20709379": {
+      "source": "pack02_text_en",
+      "file": "str_field_act_desc.xml",
+      "string_no": "20709379",
+      "original": "Reduces Skill MP consumption by half, while doubling skill power.",
+      "translation": "Уменьшает расход MP для умений вдвое, одновременно увеличивая силу навыков в два раза."
+    },
+    "pack02:20709380": {
+      "source": "pack02_text_en",
+      "file": "str_field_act_desc.xml",
+      "string_no": "20709380",
+      "original": "Increases Ice damage by 20%.",
+      "translation": "Увеличивает урон льдом на 20%."
+    },
+    "pack02:20709381": {
+      "source": "pack02_text_en",
+      "file": "str_field_act_desc.xml",
+      "string_no": "20709381",
+      "original": "Increases Fire damage by 20%.",
+      "translation": "Увеличивает урон от огня на 20%."
+    },
+    "pack02:20709382": {
+      "source": "pack02_text_en",
+      "file": "str_field_act_desc.xml",
+      "string_no": "20709382",
+      "original": "Offers a chance of causing Slowness by a Lightning attack when no Lightning resistance is present.",
+      "translation": "Дает шанс вызвать замедление атакой молнии, когда сопротивление молнии отсутствует."
+    },
+    "pack02:20709383": {
+      "source": "pack02_text_en",
+      "file": "str_field_act_desc.xml",
+      "string_no": "20709383",
+      "original": "Reduces Defense when no Ice resistance is present.",
+      "translation": "Снижает защиту при отсутствии сопротивления льду."
+    },
+    "pack02:20709384": {
+      "source": "pack02_text_en",
+      "file": "str_field_act_desc.xml",
+      "string_no": "20709384",
+      "original": "Doubles item wait time, while decreasing skill wait time by half.",
+      "translation": "Удваивает время ожидания предметов, одновременно уменьшая время ожидания навыков вдвое."
+    },
+    "pack02:20709385": {
+      "source": "pack02_text_en",
+      "file": "str_field_act_desc.xml",
+      "string_no": "20709385",
+      "original": "Decreases all stats if two or more resistances are not available.",
+      "translation": "Уменьшает все характеристики, если два или более сопротивления недоступны."
+    },
+    "pack02:20709386": {
+      "source": "pack02_text_en",
+      "file": "str_field_act_desc.xml",
+      "string_no": "20709386",
+      "original": "Reduces all damage by half.",
+      "translation": "Уменьшает весь урон вдвое."
+    }
+  }
+}

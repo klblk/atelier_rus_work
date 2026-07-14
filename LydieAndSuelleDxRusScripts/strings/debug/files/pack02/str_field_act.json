@@ -1,0 +1,260 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_field_act.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:19857409": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857409",
+      "original": "HP Recovery was increased!",
+      "translation": "Восстановление HP было увеличено!"
+    },
+    "pack02:19857410": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857410",
+      "original": "Normal Attacks will now inflict ailments!",
+      "translation": "Обычные атаки теперь наносят недуги!"
+    },
+    "pack02:19857411": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857411",
+      "original": "Skill MP consumption is halved, while is doubled!",
+      "translation": "Расход MP для умений уменьшен вдвое, а увеличен вдвое!"
+    },
+    "pack02:19857412": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857412",
+      "original": "Ice element power was increased!",
+      "translation": "Сила ледяного элемента была увеличена!"
+    },
+    "pack02:19857413": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857413",
+      "original": "Fire element power was increased!",
+      "translation": "Сила элемента огня увеличена!"
+    },
+    "pack02:19857414": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857414",
+      "original": "Lightning attacks will now cause shock!",
+      "translation": "Атаки молний теперь вызывают шок!"
+    },
+    "pack02:19857415": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857415",
+      "original": "Defense is reduced with no ice resistance!",
+      "translation": "Защита снижается без сопротивления льду!"
+    },
+    "pack02:19857416": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857416",
+      "original": "Item usage wait time is doubled, while Skill wait time is reduced by half!",
+      "translation": "Время ожидания использования предметов увеличено вдвое, а время ожидания навыков уменьшено вдвое!"
+    },
+    "pack02:19857417": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857417",
+      "original": "Without two or more resistances available, all parameters will be decreased!",
+      "translation": "Без наличия двух или более сопротивлений все параметры будут уменьшены!"
+    },
+    "pack02:19857418": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857418",
+      "original": "Damage received by all characters is reduced by half!",
+      "translation": "Урон, получаемый всеми персонажами, уменьшен вдвое!"
+    },
+    "pack02:19857419": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857419",
+      "original": "1 ailment was removed!",
+      "translation": "1 недуг был удален!"
+    },
+    "pack02:19857420": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857420",
+      "original": "Added Auto Revive!",
+      "translation": "Добавлено автоматическое возрождение!"
+    },
+    "pack02:19857421": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857421",
+      "original": "Basic damage increased!",
+      "translation": "Базовый урон увеличен!"
+    },
+    "pack02:19857422": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857422",
+      "original": "Enemy ATK decreased!",
+      "translation": "АТК противника уменьшилась!"
+    },
+    "pack02:19857423": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857423",
+      "original": "Enemy DEF decreased!",
+      "translation": "ЗЩТ противника уменьшился!"
+    },
+    "pack02:19857424": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857424",
+      "original": "Enemy SPD decreased!",
+      "translation": "СПД противника уменьшилась!"
+    },
+    "pack02:19857425": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857425",
+      "original": "Damage received reduced!",
+      "translation": "Полученный урон уменьшен!"
+    },
+    "pack02:19857426": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857426",
+      "original": "Alleviated ailments &amp; increased critical rate!",
+      "translation": "Облегчены недуги и увеличена вероятность критического удара!"
+    },
+    "pack02:19857427": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857427",
+      "original": "Added resistances to all special attacks!",
+      "translation": "Добавлены сопротивления всем специальным атакам!"
+    },
+    "pack02:19857428": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857428",
+      "original": "Enemy healing nullified!",
+      "translation": "Исцеление врага аннулировано!"
+    },
+    "pack02:19857429": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857429",
+      "original": "Enhanced healing, skill cost reduced!",
+      "translation": "Улучшено лечение, снижена стоимость навыков!"
+    },
+    "pack02:19857430": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857430",
+      "original": "Engulfed by the blessing of God!",
+      "translation": "Под силой благословения Бога!"
+    },
+    "pack02:19857431": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857431",
+      "original": "Max HP and hit rate increased!",
+      "translation": "Максимальное количество здоровья и шанс попадания увеличены!"
+    },
+    "pack02:19857432": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857432",
+      "original": "HP gradually recovers, critical hits enhanced!",
+      "translation": "ОЗ постепенно восстанавливается, критические удары усилены!"
+    },
+    "pack02:19857433": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857433",
+      "original": "Gained massive stun resistance!",
+      "translation": "Получено огромное сопротивление оглушению!"
+    },
+    "pack02:19857434": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857434",
+      "original": "Hinder enemy's powerful attacks!",
+      "translation": "Препятствуйте мощным атакам врага!"
+    },
+    "pack02:19857435": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857435",
+      "original": "Stun benefits enhanced!",
+      "translation": "Преимущества оглушения увеличены!"
+    },
+    "pack02:19857436": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857436",
+      "original": "HP gradually decreases!",
+      "translation": "ОЗ постепенно уменьшаются!"
+    },
+    "pack02:19857437": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857437",
+      "original": "Ailments instantly cured!",
+      "translation": "Болезни мгновенно излечиваются!"
+    },
+    "pack02:19857438": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857438",
+      "original": "Enhanced item effects against enemies!",
+      "translation": "Улучшены эффекты предметов против врагов!"
+    },
+    "pack02:19857439": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857439",
+      "original": "Easier to cause chain attacks!",
+      "translation": "Активация Цепных атак упрощена!"
+    },
+    "pack02:19857440": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857440",
+      "original": "Hinder enemy chain attacks, easier to cause chain attacks!",
+      "translation": "Препятствуйте цепным атакам противника, легче вызывать цепные атаки!"
+    },
+    "pack02:19857441": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857441",
+      "original": "Attack outcomes stabilized!",
+      "translation": "Результаты атак стабилизировались!"
+    },
+    "pack02:19857442": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857442",
+      "original": "Enemy attacks weakened!",
+      "translation": "Сила атаки врагов ослаблена!"
+    },
+    "pack02:19857443": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857443",
+      "original": "Power of Life was absorbed!",
+      "translation": "Сила Жизни была поглощена!"
+    },
+    "pack02:19857444": {
+      "source": "pack02_text_en",
+      "file": "str_field_act.xml",
+      "string_no": "19857444",
+      "original": "Power of Life was greatly absorbed!",
+      "translation": "Сила Жизни была сильно поглощена!"
+    }
+  }
+}

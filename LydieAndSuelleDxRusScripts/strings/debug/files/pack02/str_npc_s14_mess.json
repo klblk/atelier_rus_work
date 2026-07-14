@@ -1,0 +1,582 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_npc_s14_mess.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:32964609": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964609",
+      "original": "Honnete...",
+      "translation": "Оннет..."
+    },
+    "pack02:32964611": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964611",
+      "original": "Ah, hello there. Do you need something from the sisters?",
+      "translation": "А, здравствуйте. Вам что-то нужно от сестёр?"
+    },
+    "pack02:32964612": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964612",
+      "original": "Good morning. You’re busy so early. I know of a certain girl who needs to take a leaf out of your book, instead of sleeping in all the time.",
+      "translation": "Доброе утро. Вы так рано уже заняты делами. Знаю одну девочку, которой стоило бы взять с вас пример, вместо того чтобы вечно проспать."
+    },
+    "pack02:32964613": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964613",
+      "original": "Can you use alchemy to make a medicine to help scatterbrained girls concentrate? ...Who am I going to use it on? Ines, of course.",
+      "translation": "Можете ли вы с помощью алхимии сделать лекарство, чтобы рассеянные девочки могли сосредоточиться? ...Кому я собираюсь его дать? Конечно, Инес."
+    },
+    "pack02:32964614": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964614",
+      "original": "It’s at times like these that the church is more vital then ever, to keep people’s spirits up. We won’t be beaten by any Thunder God!",
+      "translation": "В такие времена церковь важна как никогда — чтобы поддерживать дух людей. Нам не одолеть никакого Громового бога!"
+    },
+    "pack02:32964615": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964615",
+      "original": "The Thunder God may be gone... But Ines’ clumsiness is almost as significant a threat.",
+      "translation": "Громовой бог, может, и исчез... Но неуклюжесть Инес — почти такая же серьёзная угроза."
+    },
+    "pack02:32964616": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964616",
+      "original": "We novices often work as tour guides as well. In fact, we seem to spend more time doing that than anything else.",
+      "translation": "Мы, послушницы, часто работаем и экскурсоводами. По правде говоря, кажется, на это уходит больше времени, чем на всё остальное."
+    },
+    "pack02:32964617": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964617",
+      "original": "You don’t look very well. Are you both sleeping enough?",
+      "translation": "Вы выглядите не очень хорошо. Вы обе достаточно спите?"
+    },
+    "pack02:32964618": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964618",
+      "original": "I need to take a leaf out of Pamela’s book... She sets an excellent example. Perhaps I should observe her together with Ines...",
+      "translation": "Мне стоило бы взять пример с Памелы... Она подаёт отличный образец для подражания. Может, мне стоит понаблюдать за ней вместе с Инес..."
+    },
+    "pack02:32964619": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964619",
+      "original": "Oh, it’s lunch time already. I should get Ines to make me something.",
+      "translation": "О, уже время обеда. Надо попросить Инес что-нибудь приготовить."
+    },
+    "pack02:32964620": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964620",
+      "original": "I often hear about this new Atelier Ranking System. I hear a lot about you two, as well. Hehe, it sounds like you’re doing well.",
+      "translation": "Часто слышу об этой новой Системе рангов ателье. О вас двоих тоже много говорят. Хехе, похоже, у вас всё хорошо."
+    },
+    "pack02:32964621": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964621",
+      "original": "Listen to this! Ines has made another terrible mistake! She’s just so terribly scatterbrained...",
+      "translation": "Послушайте! Инес снова совершила ужасную ошибку! Она такая рассеянная..."
+    },
+    "pack02:32964622": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964622",
+      "original": "I mustn’t look worried... The church must be a pillar of strength at a time like this.",
+      "translation": "Нельзя выглядеть обеспокоенной... В такое время церковь должна быть опорой для всех."
+    },
+    "pack02:32964623": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964623",
+      "original": "To have overcome Falgior... Lydie and Sue, you’re much stronger than you look.",
+      "translation": "Победить Фальгиора... Лидия и Сью, вы куда сильнее, чем кажетесь."
+    },
+    "pack02:32964624": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964624",
+      "original": "Oh, there you are. Mother Superior was bemoaning that you never come around anymore. She misses you.",
+      "translation": "О, вот вы где. Настоятельница жаловалась, что вы больше не заходите. Она по вам скучает."
+    },
+    "pack02:32964625": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964625",
+      "original": "The other day, we were cleaning out the archives, and Ines went and sneezed! The two of us laughed so much.",
+      "translation": "На днях мы разбирали архив, и Инес чихнула! Мы обе так расхохотались."
+    },
+    "pack02:32964626": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964626",
+      "original": "Ines really seems to be getting the hang of her duties a lot better these days. It makes me happy, but it’s also a little sad...",
+      "translation": "Похоже, в последнее время Инес гораздо лучше справляется со своими обязанностями. Мне радостно, но в то же время немного грустно..."
+    },
+    "pack02:32964627": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964627",
+      "original": "Mind your step at night! Just the other night, Ines tripped and fell into me... I thought I was going to die!",
+      "translation": "Осторожнее ночью! Буквально на днях Инес споткнулась и врезалась в меня... Я думала, что умру!"
+    },
+    "pack02:32964628": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964628",
+      "original": "Things really get quiet round here at night. All you can hear is the sound of the waves... Oh, and the sound of plates breaking in the church.",
+      "translation": "Ночью здесь так тихо. Слышно только шум волн... О, и звон разбивающихся тарелок в церкви."
+    },
+    "pack02:32964629": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964629",
+      "original": "Alchemy’s really incredible... Maybe I should read some books about it... Oh, I suppose asking you two would be quicker.",
+      "translation": "Алхимия поистине удивительна... Может, мне стоит почитать о ней книги... О, пожалуй, быстрее будет спросить у вас двоих."
+    },
+    "pack02:32964630": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964630",
+      "original": "May we at least be able to sleep soundly at night...",
+      "translation": "Пусть хотя бы ночью мы сможем спать спокойно..."
+    },
+    "pack02:32964631": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964631",
+      "original": "Hehe, now that Falgior’s gone, we can all sleep soundly again. Ines will probably sleep all day...",
+      "translation": "Хехе, раз Фальгиор ушёл, мы все снова можем спать спокойно. Инес, наверное, будет спать целый день..."
+    },
+    "pack02:32964632": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964632",
+      "original": "Have you two grown taller? Hehe, it’s so nice to see you grow up.",
+      "translation": "Вы не подросли? Хехе, так приятно видеть, как вы взрослеете."
+    },
+    "pack02:32964633": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964633",
+      "original": "Don’t push yourselves too hard. Everyone’s worried about you...",
+      "translation": "Не перенапрягайтесь. Все о вас переживают..."
+    },
+    "pack02:32964634": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964634",
+      "original": "As a sister of the church, I have to do my part to help everyone out. With Ines, of course!",
+      "translation": "Как сестра церкви, я должна внести свой вклад и помочь всем. Вместе с Инес, конечно!"
+    },
+    "pack02:32964635": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964635",
+      "original": "I’m so glad for you both! ...Wh-What are you saying?! I’m not crying! Don’t be ridiculous!",
+      "translation": "Я так рада за вас обеих! ...Ч-что вы говорите?! Я не плачу! Не смешите!"
+    },
+    "pack02:32964636": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964636",
+      "original": "Oh dear, rain... I hope it doesn’t fall for too long...",
+      "translation": "Ох, дождь... Надеюсь, он не будет идти слишком долго..."
+    },
+    "pack02:32964637": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964637",
+      "original": "...The sea breeze is a little chilly at this time of year. It really clears the head.",
+      "translation": "...Морской бриз в это время года немного прохладен. Он отлично проясняет голову."
+    },
+    "pack02:32964638": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964638",
+      "original": "Good morning. Nice to see you again. We’re out taking a walk.",
+      "translation": "Доброе утро. Рада снова вас видеть. Мы вышли на прогулку."
+    },
+    "pack02:32964639": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964639",
+      "original": "I’m not interested in alchemy myself, but if my husband is, I’ll help him out.",
+      "translation": "Сама я алхимией не интересуюсь, но если мужу нравится — я ему помогу."
+    },
+    "pack02:32964640": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964640",
+      "original": "...The sea and the sky are both so dark. It’s ruining our holiday...",
+      "translation": "...И море, и небо такие тёмные. Отпуск портится..."
+    },
+    "pack02:32964641": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964641",
+      "original": "I prefer mornings to evenings. It’s cold, but the wind is fresh and bracing.",
+      "translation": "Утро мне нравится больше, чем вечер. Холодно, зато ветер свежий и бодрит."
+    },
+    "pack02:32964642": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964642",
+      "original": "The atmosphere in the city is back to the way it used to be. Hehe, what a relief.",
+      "translation": "Атмосфера в городе снова как прежде. Хехе, какое облегчение."
+    },
+    "pack02:32964643": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964643",
+      "original": "Don’t you think the golden light of dawn feels like the light of fresh hope? It cheers me up every time.",
+      "translation": "Разве вам не кажется, что золотой свет рассвета — это свет новой надежды? Он поднимает мне настроение каждый раз."
+    },
+    "pack02:32964644": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964644",
+      "original": "I wouldn’t mind watching the sun rise here every day for the rest of my life.",
+      "translation": "Не прочь была бы смотреть на восход солнца здесь каждый день до конца жизни."
+    },
+    "pack02:32964645": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964645",
+      "original": "The sunlight sparkles on the sea... It really is very pleasant.",
+      "translation": "Солнечный свет искрится на море... Действительно очень приятно."
+    },
+    "pack02:32964646": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964646",
+      "original": "Are you two alchemists? You don’t look like alchemists...",
+      "translation": "Вы двое — алхимики? Не похоже на алхимиков..."
+    },
+    "pack02:32964647": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964647",
+      "original": "There was an alchemist back in our home town... She was just a little girl, but she was so talented.",
+      "translation": "В нашем родном городе была алхимик... Она была ещё совсем девочкой, но так талантлива."
+    },
+    "pack02:32964648": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964648",
+      "original": "I can’t say that I’m not frightened, but I’ll be all right. After all, my husband is by my side.",
+      "translation": "Не скажу, что мне не страшно, но я справлюсь. В конце концов, муж рядом со мной."
+    },
+    "pack02:32964649": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964649",
+      "original": "You were the ones who defeated the Thunder God? I see... Thanks.",
+      "translation": "Это вы победили Громового бога? Понятно... Спасибо."
+    },
+    "pack02:32964650": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964650",
+      "original": "...I like the view here, but I like the satisfied look on my husband’s face even more.",
+      "translation": "...Мне нравится вид отсюда, но мне ещё больше нравится довольное выражение лица мужа."
+    },
+    "pack02:32964651": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964651",
+      "original": "Is it true there’s a gallery in the castle? My husband heard the rumors, and is all excited.",
+      "translation": "Правда, что в замке есть галерея? Муж наслушался слухов и весь в восторге."
+    },
+    "pack02:32964652": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964652",
+      "original": "We may end up living here soon. I look forward to seeing you more often if that happens.",
+      "translation": "Может, мы скоро переедем сюда жить. Если так случится — буду рада видеть вас почаще."
+    },
+    "pack02:32964653": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964653",
+      "original": "They say you’re the finest alchemists in the city now. Hehe... Perhaps I should engage you with some request.",
+      "translation": "Говорят, вы теперь лучшие алхимики в городе. Хехе... Может, мне стоит обратиться к вам с какой-нибудь просьбой."
+    },
+    "pack02:32964654": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964654",
+      "original": "I don’t dislike rain, but I can’t say I like it either. It just somehow casts a dark shroud over my heart.",
+      "translation": "Дождь мне не ненавистен, но и сказать, что люблю, не могу. Он как-то накрывает сердце тёмной пеленой."
+    },
+    "pack02:32964655": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964655",
+      "original": "Hey, you! Yes, you! Tell me what there is to see in this town! What I’d really like is an insider’s perspective - the city’s hidden gems!",
+      "translation": "Эй, вы! Да, вы! Расскажите, что здесь в городе посмотреть! Мне бы хотелось узнать всё из первых рук — тайные жемчужины города!"
+    },
+    "pack02:32964656": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964656",
+      "original": "We should head back to our accommodations for breakfast. The chef’s egg dishes are to die for!",
+      "translation": "Пора возвращаться в гостиницу на завтрак. Яичные блюда шефа — просто пальчики оближешь!"
+    },
+    "pack02:32964657": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964657",
+      "original": "Alchemy, eh...? Fascinating! Maybe I should give it a go myself!",
+      "translation": "Алхимия, значит...? Увлекательно! Может, и мне стоит попробовать!"
+    },
+    "pack02:32964658": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964658",
+      "original": "When the weather’s so bad, I feel like there’s nothing more to do than hide indoors.",
+      "translation": "Когда погода такая плохая, кажется, что больше ничего не остаётся, кроме как спрятаться в помещении."
+    },
+    "pack02:32964659": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964659",
+      "original": "Okay! Now that the weather’s better, I’m going to make up for lost time and see the sights!",
+      "translation": "Ладно! Раз погода наладилась, наверстаю упущенное и посмотрю достопримечательности!"
+    },
+    "pack02:32964660": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964660",
+      "original": "The gardens down below aren’t bad, but we really prefer the view you get from up here!",
+      "translation": "Сады внизу неплохие, но нам больше нравится вид отсюда, сверху!"
+    },
+    "pack02:32964661": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964661",
+      "original": "...Let me let you in on a little secret. My favorite thing in all the world is looking at my wife’s face as she gazes at the sunrise!",
+      "translation": "...Открою вам маленький секрет. Больше всего на свете я люблю смотреть на лицо жены, когда она любуется рассветом!"
+    },
+    "pack02:32964662": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964662",
+      "original": "A husband’s greatest joy is to grant his wife’s wishes! A good marriage is a cooperative effort! Don’t you forget that!",
+      "translation": "Величайшая радость мужа — исполнять желания жены! Хороший брак — это совместные усилия! Не забывайте об этом!"
+    },
+    "pack02:32964663": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964663",
+      "original": "The view of Merveille from here is spectacular. My wife and I both adore it!",
+      "translation": "Вид на Мервейль отсюда великолепен. Мы с женой обожаем его!"
+    },
+    "pack02:32964664": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964664",
+      "original": "The city seems positively thronging with life! Perhaps this Atelier Ranking System is the reason...",
+      "translation": "Город буквально кипит жизнью! Может, это из-за Системы рангов ателье..."
+    },
+    "pack02:32964665": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964665",
+      "original": "Let’s go that way next! There’s so much to see here - I never get bored!",
+      "translation": "Пойдём туда дальше! Здесь столько всего интересного — мне никогда не скучно!"
+    },
+    "pack02:32964666": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964666",
+      "original": "I never imagined we’d get caught up in something like this on our holiday... I guess we should just chalk it up to experience!",
+      "translation": "Никак не думала, что на отпуске нас затянет в нечто подобное... Ну, считайте, что это жизненный опыт!"
+    },
+    "pack02:32964667": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964667",
+      "original": "Has the danger passed? I’m so glad. Now we can relax, and get back to sightseeing!",
+      "translation": "Опасность миновала? Как радостно. Теперь можно расслабиться и снова заняться осмотром достопримечательностей!"
+    },
+    "pack02:32964668": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964668",
+      "original": "I wonder what lies beyond this sea... I’d love to go find out some day!",
+      "translation": "Интересно, что там за этим морем... Когда-нибудь хотелось бы узнать!"
+    },
+    "pack02:32964669": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964669",
+      "original": "The view is nice, but I like the way you can soak up the culture too. What a wonderful town!",
+      "translation": "Вид хороший, но мне нравится и то, как здесь можно погрузиться в культуру. Какой замечательный городок!"
+    },
+    "pack02:32964670": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964670",
+      "original": "I was planning to travel the world, but I just like this place so much! Maybe we should look for a house here!",
+      "translation": "Планировала объехать весь мир, но это место мне так нравится! Может, нам стоит поискать здесь дом!"
+    },
+    "pack02:32964671": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964671",
+      "original": "Congratulations! Everyone’s been telling me about everything you’ve done! And you’ve realized a long-held dream! How splendid!",
+      "translation": "Поздравляю! Все мне рассказывают о ваших делах! И вы воплотили давнюю мечту в жизнь! Как восхитительно!"
+    },
+    "pack02:32964672": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964672",
+      "original": "Hehe, rain... Rainy days have their own unique joys!",
+      "translation": "Хехе, дождь... У дождливых дней есть свои особые радости!"
+    },
+    "pack02:32964673": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964673",
+      "original": "*Yawn*... I’m so sleepy... Maybe I should have a little rest here...",
+      "translation": "*Зевает*... Так хочется спать... Может, немного отдохну здесь..."
+    },
+    "pack02:32964674": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964674",
+      "original": "I’m not slacking - this is a strategic break. It’s important to know your limits. *Yawn*...",
+      "translation": "Я не ленюсь — это стратегический перерыв. Важно знать свои пределы. *Зевает*..."
+    },
+    "pack02:32964675": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964675",
+      "original": "Hmm, if I could master this newfangled alchemy thing, I might be able to make money more easily...",
+      "translation": "Хм, если бы я освоил эту новомодную алхимию, может, деньги зарабатывать было бы проще..."
+    },
+    "pack02:32964676": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964676",
+      "original": "My colleague is remarkable - looking to work even at a time like this.",
+      "translation": "Мой коллега поразителен — думает о работе даже в такое время."
+    },
+    "pack02:32964677": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964677",
+      "original": "Oh, I just know we’re going to be busy again... I should rest now, while I still can...",
+      "translation": "О, я точно знаю, что снова будет завал... Надо отдохнуть сейчас, пока ещё могу..."
+    },
+    "pack02:32964678": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964678",
+      "original": "This is ridiculous... We’re so busy, I have no time at all to rest...",
+      "translation": "Это нелепо... Мы так заняты, что мне совсем некогда отдыхать..."
+    },
+    "pack02:32964679": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964679",
+      "original": "When things get too tough, I always say you should take a break.",
+      "translation": "Когда становится слишком тяжело, я всегда говорю: надо сделать перерыв."
+    },
+    "pack02:32964680": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964680",
+      "original": "My colleague found out about my little naps. I guess I have no choice but to get to work... At least for a while.",
+      "translation": "Коллега узнал о моих коротких дремотах. Похоже, выбора нет — придётся поработать... Хотя бы какое-то время."
+    },
+    "pack02:32964681": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964681",
+      "original": "Wow, you’re the finest in the land... Maybe I should follow your example, and work hard for a change.",
+      "translation": "Ого, вы лучшие в стране... Может, мне стоит взять с вас пример и как-нибудь удариться в работу."
+    },
+    "pack02:32964682": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964682",
+      "original": "What? Rain? My break will be ruined...",
+      "translation": "Что? Дождь? Перерыв будет испорчен..."
+    },
+    "pack02:32964683": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964683",
+      "original": "...And that makes one million swings! Pretty impressive, right? That’s one million sword swings!",
+      "translation": "...И вот уже миллион взмахов! Впечатляет, правда? Миллион взмахов мечом!"
+    },
+    "pack02:32964684": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964684",
+      "original": "I’m not interested in atelier rankings. I only want to make my name in battle.",
+      "translation": "Ранги ателье меня не интересуют. Я хочу прославиться только в бою."
+    },
+    "pack02:32964685": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964685",
+      "original": "Let’s have a contest - which of us will become famous first? Well, we all know my victory is all but assured.",
+      "translation": "Устроим состязание — кто из нас прославится первым? Ну, все знают, что победа за мной почти обеспечена."
+    },
+    "pack02:32964686": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964686",
+      "original": "Don’t you worry. If I get serious, I could slay Falgior in a matter of seconds. I’m just conserving my strength for that moment.",
+      "translation": "Не беспокойтесь. Если я начну всерьёз, убью Фальгиора за считанные секунды. Просто берегу силы к тому моменту."
+    },
+    "pack02:32964687": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964687",
+      "original": "What? You defeated Falgior?! Hehe, come on, you can’t expect me to believe that... What, really?!",
+      "translation": "Что? Вы победили Фальгиора?! Хехе, не ждите, что я поверю... Правда?!"
+    },
+    "pack02:32964688": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964688",
+      "original": "It’s important to be ready at all times, even during peace. A true hero never lets down his guard.",
+      "translation": "Важно быть готовым в любой момент, даже в мирное время. Настоящий герой никогда не расслабляется."
+    },
+    "pack02:32964689": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964689",
+      "original": "I had a dream that I saved Merveille. It was a sign. A portent of the future!",
+      "translation": "Мне приснилось, что я спас Мервейль. Это был знак. Предзнаменование будущего!"
+    },
+    "pack02:32964690": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964690",
+      "original": "Today I found a lost cat. Hehe, one step closer to becoming this town’s savior.",
+      "translation": "Сегодня я нашёл потерявшегося кота. Хехе, на шаг ближе к тому, чтобы стать спасителем этого города."
+    },
+    "pack02:32964691": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s14_mess.xml",
+      "string_no": "32964691",
+      "original": "Ugh, rain! Even the mightiest warrior cannot overcome the heavens!",
+      "translation": "Уф, дождь! Даже могущественнейший воин не одолеет небеса!"
+    }
+  }
+}

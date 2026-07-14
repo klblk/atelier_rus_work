@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_mix_activation_effect_description.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:10223617": {
+      "source": "pack02_text_en",
+      "file": "str_mix_activation_effect_description.xml",
+      "string_no": "10223617",
+      "original": "Changes all of the squares in between the selected square and any red squares falling on a straight lines (horizontal/vertical/diagonal) from it to &lt;#CC2222&gt;red&lt;CLNR&gt;.",
+      "translation": "Все клетки между выбранной клеткой и любыми красными клетками на прямой от неё (по горизонтали, вертикали или диагонали) станут &lt;#CC2222&gt;красными&lt;CLNR&gt;."
+    },
+    "pack02:10223618": {
+      "source": "pack02_text_en",
+      "file": "str_mix_activation_effect_description.xml",
+      "string_no": "10223618",
+      "original": "Changes all of the squares in between the selected square and any blue squares falling on a straight lines (horizontal/vertical/diagonal) from it to &lt;#5555DD&gt;blue&lt;CLNR&gt;.",
+      "translation": "Все клетки между выбранной клеткой и любыми синими клетками на прямой от неё (по горизонтали, вертикали или диагонали) станут &lt;#5555DD&gt;синими&lt;CLNR&gt;."
+    },
+    "pack02:10223619": {
+      "source": "pack02_text_en",
+      "file": "str_mix_activation_effect_description.xml",
+      "string_no": "10223619",
+      "original": "Changes all of the squares in between the selected square and any green squares falling on a straight lines (horizontal/vertical/diagonal) from it to &lt;#22CC22&gt;green&lt;CLNR&gt;.",
+      "translation": "Все клетки между выбранной клеткой и любыми зелёными клетками на прямой от неё (по горизонтали, вертикали или диагонали) станут &lt;#22CC22&gt;зелёными&lt;CLNR&gt;."
+    },
+    "pack02:10223620": {
+      "source": "pack02_text_en",
+      "file": "str_mix_activation_effect_description.xml",
+      "string_no": "10223620",
+      "original": "Changes all of the squares in between the selected square and any yellow squares falling on a straight lines (horizontal/vertical/diagonal) from it to &lt;#BBBB22&gt;yellow&lt;CLNR&gt;.",
+      "translation": "Все клетки между выбранной клеткой и любыми жёлтыми клетками на прямой от неё (по горизонтали, вертикали или диагонали) станут &lt;#BBBB22&gt;жёлтыми&lt;CLNR&gt;."
+    },
+    "pack02:10223621": {
+      "source": "pack02_text_en",
+      "file": "str_mix_activation_effect_description.xml",
+      "string_no": "10223621",
+      "original": "Changes all of the squares in between the selected square and any purple squares falling on a straight lines (horizontal/vertical/diagonal) from it to &lt;#BB22BB&gt;purple&lt;CLNR&gt;.",
+      "translation": "Все клетки между выбранной клеткой и любыми фиолетовыми клетками на прямой от неё (по горизонтали, вертикали или диагонали) станут &lt;#BB22BB&gt;фиолетовыми&lt;CLNR&gt;."
+    },
+    "pack02:10223622": {
+      "source": "pack02_text_en",
+      "file": "str_mix_activation_effect_description.xml",
+      "string_no": "10223622",
+      "original": "When placed on a colored square, it and any adjacent squares of the same color will be turned &lt;#CC2222&gt;red&lt;CLNR&gt;.",
+      "translation": "При установке на цветную клетку она и все соседние клетки того же цвета станут &lt;#CC2222&gt;красными&lt;CLNR&gt;."
+    },
+    "pack02:10223623": {
+      "source": "pack02_text_en",
+      "file": "str_mix_activation_effect_description.xml",
+      "string_no": "10223623",
+      "original": "When placed on a colored square, it and any adjacent squares of the same color will be turned &lt;#5555DD&gt;blue&lt;CLNR&gt;.",
+      "translation": "При установке на цветную клетку она и все соседние клетки того же цвета станут &lt;#5555DD&gt;синими&lt;CLNR&gt;."
+    },
+    "pack02:10223624": {
+      "source": "pack02_text_en",
+      "file": "str_mix_activation_effect_description.xml",
+      "string_no": "10223624",
+      "original": "When placed on a colored square, it and any adjacent squares of the same color will be turned &lt;#22CC22&gt;green&lt;CLNR&gt;.",
+      "translation": "При установке на цветную клетку она и все соседние клетки того же цвета станут &lt;#22CC22&gt;зелёными&lt;CLNR&gt;."
+    },
+    "pack02:10223625": {
+      "source": "pack02_text_en",
+      "file": "str_mix_activation_effect_description.xml",
+      "string_no": "10223625",
+      "original": "When placed on a colored square, it and any adjacent squares of the same color will be turned &lt;#BBBB22&gt;yellow&lt;CLNR&gt;.",
+      "translation": "При установке на цветную клетку она и все соседние клетки того же цвета станут &lt;#BBBB22&gt;жёлтыми&lt;CLNR&gt;."
+    },
+    "pack02:10223626": {
+      "source": "pack02_text_en",
+      "file": "str_mix_activation_effect_description.xml",
+      "string_no": "10223626",
+      "original": "When placed on a colored square, it and any adjacent squares of the same color will be turned &lt;#BB22BB&gt;purple&lt;CLNR&gt;.",
+      "translation": "При установке на цветную клетку она и все соседние клетки того же цвета станут &lt;#BB22BB&gt;фиолетовыми&lt;CLNR&gt;."
+    },
+    "pack02:10223627": {
+      "source": "pack02_text_en",
+      "file": "str_mix_activation_effect_description.xml",
+      "string_no": "10223627",
+      "original": "Selecting a colored square will cause all squares of the same color to be turned &lt;#CC2222&gt;red&lt;CLNR&gt;.",
+      "translation": "При выборе цветной клетки все клетки того же цвета станут &lt;#CC2222&gt;красными&lt;CLNR&gt;."
+    },
+    "pack02:10223628": {
+      "source": "pack02_text_en",
+      "file": "str_mix_activation_effect_description.xml",
+      "string_no": "10223628",
+      "original": "Selecting a colored square will cause all squares of the same color to be turned &lt;#5555DD&gt;blue&lt;CLNR&gt;.",
+      "translation": "При выборе цветной клетки все клетки того же цвета станут &lt;#5555DD&gt;синими&lt;CLNR&gt;."
+    },
+    "pack02:10223629": {
+      "source": "pack02_text_en",
+      "file": "str_mix_activation_effect_description.xml",
+      "string_no": "10223629",
+      "original": "Selecting a colored square will cause all squares of the same color to be turned &lt;#22CC22&gt;green&lt;CLNR&gt;.",
+      "translation": "При выборе цветной клетки все клетки того же цвета станут &lt;#22CC22&gt;зелёными&lt;CLNR&gt;."
+    },
+    "pack02:10223630": {
+      "source": "pack02_text_en",
+      "file": "str_mix_activation_effect_description.xml",
+      "string_no": "10223630",
+      "original": "Selecting a colored square will cause all squares of the same color to be turned &lt;#BBBB22&gt;yellow&lt;CLNR&gt;.",
+      "translation": "При выборе цветной клетки все клетки того же цвета станут &lt;#BBBB22&gt;жёлтыми&lt;CLNR&gt;."
+    },
+    "pack02:10223631": {
+      "source": "pack02_text_en",
+      "file": "str_mix_activation_effect_description.xml",
+      "string_no": "10223631",
+      "original": "Selecting a colored square will cause all squares of the same color to be turned &lt;#BB22BB&gt;purple&lt;CLNR&gt;.",
+      "translation": "При выборе цветной клетки все клетки того же цвета станут &lt;#BB22BB&gt;фиолетовыми&lt;CLNR&gt;."
+    },
+    "pack02:10223632": {
+      "source": "pack02_text_en",
+      "file": "str_mix_activation_effect_description.xml",
+      "string_no": "10223632",
+      "original": "Color of all colored squares will be changed.",
+      "translation": "Цвет всех цветных клеток изменится."
+    },
+    "pack02:10223633": {
+      "source": "pack02_text_en",
+      "file": "str_mix_activation_effect_description.xml",
+      "string_no": "10223633",
+      "original": "Out of the materials you have used, you will be able to use one of them one more time.",
+      "translation": "Среди использованных материалов один можно будет использовать ещё раз."
+    },
+    "pack02:10223634": {
+      "source": "pack02_text_en",
+      "file": "str_mix_activation_effect_description.xml",
+      "string_no": "10223634",
+      "original": "All of the component pieces for one of your materials will be turned &lt;#CC2222&gt;red&lt;CLNR&gt;.",
+      "translation": "Все элементы компонентов одного из материалов станут &lt;#CC2222&gt;красными&lt;CLNR&gt;."
+    },
+    "pack02:10223635": {
+      "source": "pack02_text_en",
+      "file": "str_mix_activation_effect_description.xml",
+      "string_no": "10223635",
+      "original": "All of the component pieces for one of your materials will be turned &lt;#5555DD&gt;blue&lt;CLNR&gt;.",
+      "translation": "Все элементы компонентов одного из материалов станут &lt;#5555DD&gt;синими&lt;CLNR&gt;."
+    },
+    "pack02:10223636": {
+      "source": "pack02_text_en",
+      "file": "str_mix_activation_effect_description.xml",
+      "string_no": "10223636",
+      "original": "All of the component pieces for one of your materials will be turned &lt;#22CC22&gt;green&lt;CLNR&gt;.",
+      "translation": "Все элементы компонентов одного из материалов станут &lt;#22CC22&gt;зелёными&lt;CLNR&gt;."
+    },
+    "pack02:10223637": {
+      "source": "pack02_text_en",
+      "file": "str_mix_activation_effect_description.xml",
+      "string_no": "10223637",
+      "original": "All of the component pieces for one of your materials will be turned &lt;#BBBB22&gt;yellow&lt;CLNR&gt;.",
+      "translation": "Все элементы компонентов одного из материалов станут &lt;#BBBB22&gt;жёлтыми&lt;CLNR&gt;."
+    },
+    "pack02:10223638": {
+      "source": "pack02_text_en",
+      "file": "str_mix_activation_effect_description.xml",
+      "string_no": "10223638",
+      "original": "All of the component pieces for one of your materials will be turned &lt;#BB22BB&gt;purple&lt;CLNR&gt;.",
+      "translation": "Все элементы компонентов одного из материалов станут &lt;#BB22BB&gt;фиолетовыми&lt;CLNR&gt;."
+    },
+    "pack02:10223639": {
+      "source": "pack02_text_en",
+      "file": "str_mix_activation_effect_description.xml",
+      "string_no": "10223639",
+      "original": "Fill in the open spaces on the panel.",
+      "translation": "Заполняет пустые клетки на панели."
+    },
+    "pack02:10223640": {
+      "source": "pack02_text_en",
+      "file": "str_mix_activation_effect_description.xml",
+      "string_no": "10223640",
+      "original": "Change the type of star bonus marks that were added by the catalyst.",
+      "translation": "Меняет тип звёздных бонусных меток, добавленных катализатором."
+    }
+  }
+}

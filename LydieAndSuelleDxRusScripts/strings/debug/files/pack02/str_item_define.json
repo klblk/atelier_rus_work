@@ -1,0 +1,421 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_item_define.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:6684673": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684673",
+      "original": "None",
+      "translation": "Нет"
+    },
+    "pack02:6684675": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684675",
+      "original": "S",
+      "translation": "S"
+    },
+    "pack02:6684676": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684676",
+      "original": "A",
+      "translation": "A"
+    },
+    "pack02:6684677": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684677",
+      "original": "B",
+      "translation": "B"
+    },
+    "pack02:6684678": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684678",
+      "original": "C",
+      "translation": "C"
+    },
+    "pack02:6684679": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684679",
+      "original": "D",
+      "translation": "D"
+    },
+    "pack02:6684680": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684680",
+      "original": "E",
+      "translation": "E"
+    },
+    "pack02:6684682": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684682",
+      "original": "Sort",
+      "translation": "Сортировка"
+    },
+    "pack02:6684683": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684683",
+      "original": "Discard Multiple Items",
+      "translation": "Выбросить несколько"
+    },
+    "pack02:6684684": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684684",
+      "original": "Move to Storage",
+      "translation": "На склад"
+    },
+    "pack02:6684685": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684685",
+      "original": "Move to Basket",
+      "translation": "В корзину"
+    },
+    "pack02:6684686": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684686",
+      "original": "Remove items from the Basket",
+      "translation": "Убрать из корзины"
+    },
+    "pack02:6684687": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684687",
+      "original": "Filter",
+      "translation": "Фильтр"
+    },
+    "pack02:6684689": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684689",
+      "original": "Do you want to discard these?",
+      "translation": "Выбросить эти предметы?"
+    },
+    "pack02:6684690": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684690",
+      "original": "Do you want to move these?",
+      "translation": "Переместить эти предметы?"
+    },
+    "pack02:6684691": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684691",
+      "original": "You can't pick up the necessary item because your Basket is full. You need to remove some of the items.",
+      "translation": "Корзина заполнена — нужный предмет взять нельзя. Освободите место."
+    },
+    "pack02:6684692": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684692",
+      "original": "Your Basket is full. Please remove some of the items to open more space.",
+      "translation": "Корзина заполнена. Освободите место."
+    },
+    "pack02:6684693": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684693",
+      "original": "Not enough space in the designated depository.",
+      "translation": "В выбранном складе недостаточно места."
+    },
+    "pack02:6684695": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684695",
+      "original": "By Order",
+      "translation": "По получению"
+    },
+    "pack02:6684696": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684696",
+      "original": "By Value",
+      "translation": "По стоимости"
+    },
+    "pack02:6684697": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684697",
+      "original": "By Quantity",
+      "translation": "По количеству"
+    },
+    "pack02:6684698": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684698",
+      "original": "By Quality",
+      "translation": "По качеству"
+    },
+    "pack02:6684699": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684699",
+      "original": "By Reference",
+      "translation": "По энциклопедии"
+    },
+    "pack02:6684700": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684700",
+      "original": "By Size",
+      "translation": "По размеру"
+    },
+    "pack02:6684701": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684701",
+      "original": "Cannot Sell",
+      "translation": "Нельзя продать"
+    },
+    "pack02:6684702": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684702",
+      "original": "By Components",
+      "translation": "По компонентам"
+    },
+    "pack02:6684704": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684704",
+      "original": "Yes",
+      "translation": "Да"
+    },
+    "pack02:6684705": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684705",
+      "original": "No",
+      "translation": "Нет"
+    },
+    "pack02:6684709": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684709",
+      "original": "Table of Contents",
+      "translation": "Связанное"
+    },
+    "pack02:6684711": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684711",
+      "original": "Free",
+      "translation": "Свободно"
+    },
+    "pack02:6684713": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684713",
+      "original": "No selectable items.",
+      "translation": "Ничего не выбрано."
+    },
+    "pack02:6684714": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684714",
+      "original": "No space in the designated depository.",
+      "translation": "В выбранном складе нет места."
+    },
+    "pack02:6684715": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684715",
+      "original": "There isn't enough space in the designated depository, number of items moved will be limited.",
+      "translation": "В выбранном складе мало места — количество перемещаемых предметов будет ограничено."
+    },
+    "pack02:6684716": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684716",
+      "original": "Moved %d items.",
+      "translation": "Перемещено предметов: %d."
+    },
+    "pack02:6684717": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684717",
+      "original": "Living Cart was already consumed. Do you want to quit without sending anything?",
+      "translation": "Живая телега уже использована. Выйти, ничего не отправив?"
+    },
+    "pack02:6684719": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684719",
+      "original": "Red",
+      "translation": "Красный"
+    },
+    "pack02:6684720": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684720",
+      "original": "Blue",
+      "translation": "Синий"
+    },
+    "pack02:6684721": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684721",
+      "original": "Green",
+      "translation": "Зелёный"
+    },
+    "pack02:6684722": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684722",
+      "original": "Yellow",
+      "translation": "Жёлтый"
+    },
+    "pack02:6684723": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684723",
+      "original": "White",
+      "translation": "Белый"
+    },
+    "pack02:6684724": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684724",
+      "original": "Purple",
+      "translation": "Фиолетовый"
+    },
+    "pack02:6684726": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684726",
+      "original": "Cauldron",
+      "translation": "Котёл"
+    },
+    "pack02:6684727": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684727",
+      "original": "Bed",
+      "translation": "Кровать"
+    },
+    "pack02:6684728": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684728",
+      "original": "Desk",
+      "translation": "Стол"
+    },
+    "pack02:6684729": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684729",
+      "original": "Storage",
+      "translation": "Склад"
+    },
+    "pack02:6684730": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684730",
+      "original": "Normal Installation",
+      "translation": "Предмет на пол"
+    },
+    "pack02:6684731": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684731",
+      "original": "Base Installation",
+      "translation": "Предмет на подставку"
+    },
+    "pack02:6684732": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684732",
+      "original": "Accessories",
+      "translation": "Аксессуары"
+    },
+    "pack02:6684733": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684733",
+      "original": "Core Parts",
+      "translation": "Основные детали"
+    },
+    "pack02:6684734": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684734",
+      "original": "Subparts",
+      "translation": "Доп. детали"
+    },
+    "pack02:6684735": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684735",
+      "original": "None selected",
+      "translation": "Не выбрано"
+    },
+    "pack02:6684736": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684736",
+      "original": "If you discard a weapon with parts attached, you will discard the parts as well. Do you want to proceed?",
+      "translation": "При выбрасывании оружия с деталями детали тоже будут выброшены. Продолжить?"
+    },
+    "pack02:6684738": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684738",
+      "original": "By Component Cells",
+      "translation": "По ячейкам компонентов"
+    },
+    "pack02:6684739": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684739",
+      "original": "By HP",
+      "translation": "По ОЗ"
+    },
+    "pack02:6684740": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684740",
+      "original": "By MP",
+      "translation": "По ОМ"
+    },
+    "pack02:6684741": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684741",
+      "original": "By Attack",
+      "translation": "По атаке"
+    },
+    "pack02:6684742": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684742",
+      "original": "By Defense",
+      "translation": "По защите"
+    },
+    "pack02:6684743": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684743",
+      "original": "By Speed",
+      "translation": "По скорости"
+    },
+    "pack02:6684744": {
+      "source": "pack02_text_en",
+      "file": "str_item_define.xml",
+      "string_no": "6684744",
+      "original": "By Strength",
+      "translation": "По силе"
+    }
+  }
+}

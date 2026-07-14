@@ -1,0 +1,2598 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_act_name.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:20250625": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250625",
+      "original": "HP Damage",
+      "translation": "Урон ОЗ"
+    },
+    "pack02:20250626": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250626",
+      "original": "Absorb Damage",
+      "translation": "Поглощение урона"
+    },
+    "pack02:20250627": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250627",
+      "original": "Fixed Damage",
+      "translation": "Фиксированный урон"
+    },
+    "pack02:20250628": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250628",
+      "original": "Ratio Damage",
+      "translation": "Пропорциональный урон"
+    },
+    "pack02:20250629": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250629",
+      "original": "MP Ratio Damage",
+      "translation": "Пропорциональный урон ОМ"
+    },
+    "pack02:20250630": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250630",
+      "original": "MP Damage",
+      "translation": "Урон ОМ"
+    },
+    "pack02:20250631": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250631",
+      "original": "Consume HP ",
+      "translation": "Расход ОЗ"
+    },
+    "pack02:20250632": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250632",
+      "original": "Damage Per Turn",
+      "translation": "Урон за ход"
+    },
+    "pack02:20250633": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250633",
+      "original": "Ailment Damage",
+      "translation": "Урон от недуга"
+    },
+    "pack02:20250634": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250634",
+      "original": "Inverse Count DMG",
+      "translation": "Обратный урон от счётчика"
+    },
+    "pack02:20250635": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250635",
+      "original": "Consume MP",
+      "translation": "Расход ОМ"
+    },
+    "pack02:20250636": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250636",
+      "original": "MP Proportion DMG",
+      "translation": "Пропорциональный урон ОМ"
+    },
+    "pack02:20250637": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250637",
+      "original": "Variable Count DMG",
+      "translation": "Переменный урон от счётчика"
+    },
+    "pack02:20250638": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250638",
+      "original": "HP Proportion DMG",
+      "translation": "Пропорциональный урон ОЗ"
+    },
+    "pack02:20250639": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250639",
+      "original": "Split Damage",
+      "translation": "Разделённый урон"
+    },
+    "pack02:20250640": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250640",
+      "original": "Proportional DMG",
+      "translation": "Пропорциональный урон"
+    },
+    "pack02:20250641": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250641",
+      "original": "Target Proportion DMG",
+      "translation": "Пропорциональный урон цели"
+    },
+    "pack02:20250642": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250642",
+      "original": "Size Proportion DMG",
+      "translation": "Пропорциональный урон по размеру"
+    },
+    "pack02:20250643": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250643",
+      "original": "Defense Overpass DMG",
+      "translation": "Урон с обходом защиты"
+    },
+    "pack02:20250644": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250644",
+      "original": "Card Proportion DMG",
+      "translation": "Пропорциональный урон повтор. атак"
+    },
+    "pack02:20250645": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250645",
+      "original": "Bonus Continuous DMG",
+      "translation": "Бонус к периодическому урону"
+    },
+    "pack02:20250646": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250646",
+      "original": "Continuous Damage",
+      "translation": "Периодический урон"
+    },
+    "pack02:20250647": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250647",
+      "original": "Increment Continuous DMG",
+      "translation": "Нарастающий периодический урон"
+    },
+    "pack02:20250649": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250649",
+      "original": "HP Recovery",
+      "translation": "Восстановление ОЗ"
+    },
+    "pack02:20250650": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250650",
+      "original": "MP Recovery",
+      "translation": "Восстановление ОМ"
+    },
+    "pack02:20250651": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250651",
+      "original": "LP Recovery",
+      "translation": "Восстановление ОД"
+    },
+    "pack02:20250652": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250652",
+      "original": "Recover on Attack",
+      "translation": "Восстановление при атаке"
+    },
+    "pack02:20250653": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250653",
+      "original": "Remainder Proportion Heal",
+      "translation": "Лечение от остатка"
+    },
+    "pack02:20250654": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250654",
+      "original": "Count Proportion Heal",
+      "translation": "Лечение от макс. ОЗ"
+    },
+    "pack02:20250655": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250655",
+      "original": "Status Divide Heal",
+      "translation": "Влияние харак-к на восстан-е ОЗ"
+    },
+    "pack02:20250656": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250656",
+      "original": "Remaining HP Heal",
+      "translation": "Пополнение ОЗ, завис. от кол-ва"
+    },
+    "pack02:20250657": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250657",
+      "original": "Uniform HP Recovery",
+      "translation": "Равномерное восстановление ОЗ"
+    },
+    "pack02:20250658": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250658",
+      "original": "Recover Stun Value",
+      "translation": "Запол-ть шкалы оглушения ↓"
+    },
+    "pack02:20250660": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250660",
+      "original": "Ailment: Immobility",
+      "translation": "Обездвиживание"
+    },
+    "pack02:20250661": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250661",
+      "original": "Ailment: Poison",
+      "translation": "Отравление"
+    },
+    "pack02:20250662": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250662",
+      "original": "Ailment: Slowness",
+      "translation": "Замедление"
+    },
+    "pack02:20250663": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250663",
+      "original": "Ailment: Curse",
+      "translation": "Проклятие"
+    },
+    "pack02:20250664": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250664",
+      "original": "Ailment: Blindness",
+      "translation": "Слепота"
+    },
+    "pack02:20250665": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250665",
+      "original": "Add Poison, Blindness, Weakness",
+      "translation": "Добавление отравления, слепоты, слабости"
+    },
+    "pack02:20250666": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250666",
+      "original": "Ailment: Weakness",
+      "translation": "Слабость"
+    },
+    "pack02:20250667": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250667",
+      "original": "Ailment: Healing Block",
+      "translation": "Запрет лечения"
+    },
+    "pack02:20250668": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250668",
+      "original": "Ailment: Seal",
+      "translation": "Печать"
+    },
+    "pack02:20250669": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250669",
+      "original": "Ailment: Random",
+      "translation": "Случайный недуг"
+    },
+    "pack02:20250670": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250670",
+      "original": "Cure: Immobility",
+      "translation": "Снятие обездвиживания"
+    },
+    "pack02:20250671": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250671",
+      "original": "Cure: Poison",
+      "translation": "Снятие отравления"
+    },
+    "pack02:20250672": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250672",
+      "original": "Cure: Slowness",
+      "translation": "Снятие замедления"
+    },
+    "pack02:20250673": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250673",
+      "original": "Cure: Curse",
+      "translation": "Снятие проклятия"
+    },
+    "pack02:20250674": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250674",
+      "original": "Cure: Blindness",
+      "translation": "Снятие слепоты"
+    },
+    "pack02:20250675": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250675",
+      "original": "Cure: Weakness",
+      "translation": "Снятие слабости"
+    },
+    "pack02:20250676": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250676",
+      "original": "Cure: Healing Block",
+      "translation": "Снятие запрета лечения"
+    },
+    "pack02:20250677": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250677",
+      "original": "Cure: Seal",
+      "translation": "Снятие печати"
+    },
+    "pack02:20250678": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250678",
+      "original": "Cure: Multiple",
+      "translation": "Снятие нескольких недугов"
+    },
+    "pack02:20250679": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250679",
+      "original": "Cure: All",
+      "translation": "Снятие всех недугов"
+    },
+    "pack02:20250680": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250680",
+      "original": "Void Buffs",
+      "translation": "Снятие усил. эффектов"
+    },
+    "pack02:20250681": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250681",
+      "original": "Void Debuffs",
+      "translation": "Снятие ослаб. эффектов"
+    },
+    "pack02:20250683": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250683",
+      "original": "Attack Up",
+      "translation": "Атака ↑"
+    },
+    "pack02:20250684": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250684",
+      "original": "Defense Up",
+      "translation": "Защита ↑"
+    },
+    "pack02:20250685": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250685",
+      "original": "Speed Up",
+      "translation": "Скорость ↑"
+    },
+    "pack02:20250686": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250686",
+      "original": "ATK/DEF/SPD Up",
+      "translation": "АТК/ЗЩТ/СКР ↑"
+    },
+    "pack02:20250687": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250687",
+      "original": "Level Up",
+      "translation": "Уровень ↑"
+    },
+    "pack02:20250688": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250688",
+      "original": "Attack Down",
+      "translation": "Атака ↓"
+    },
+    "pack02:20250689": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250689",
+      "original": "Defense Down",
+      "translation": "Защита ↓"
+    },
+    "pack02:20250690": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250690",
+      "original": "Speed Down",
+      "translation": "Скорость ↓"
+    },
+    "pack02:20250691": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250691",
+      "original": "ATK/DEF/SPD Down",
+      "translation": "АТК/ЗЩТ/СКР ↓"
+    },
+    "pack02:20250692": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250692",
+      "original": "Level Down",
+      "translation": "Уровень ↓"
+    },
+    "pack02:20250694": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250694",
+      "original": "HP Regen",
+      "translation": "Регенерация ОЗ"
+    },
+    "pack02:20250695": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250695",
+      "original": "Change Skill Cost",
+      "translation": "Изменение затрат ОМ"
+    },
+    "pack02:20250696": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250696",
+      "original": "Change Critical Rate",
+      "translation": "Изменение шанса крит. удара"
+    },
+    "pack02:20250697": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250697",
+      "original": "Mirror Image",
+      "translation": "Отзеркаливание"
+    },
+    "pack02:20250698": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250698",
+      "original": "Change Target Chance",
+      "translation": "Изменение шанса выбора цели"
+    },
+    "pack02:20250699": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250699",
+      "original": "Consume HP on Turn",
+      "translation": "Ежеходная потеря ОЗ"
+    },
+    "pack02:20250700": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250700",
+      "original": "Consume MP on Turn",
+      "translation": "Ежеходная потеря ОМ"
+    },
+    "pack02:20250701": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250701",
+      "original": "Enhance Critical",
+      "translation": "Сила крит. удара ↑"
+    },
+    "pack02:20250702": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250702",
+      "original": "Hit Rate Up",
+      "translation": "Точность ↑"
+    },
+    "pack02:20250704": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250704",
+      "original": "Change Stun Levels",
+      "translation": "Изменение уровней оглушения"
+    },
+    "pack02:20250705": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250705",
+      "original": "Change Evade Rate",
+      "translation": "Изменение частоты уклонения"
+    },
+    "pack02:20250706": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250706",
+      "original": "Turn Count Up",
+      "translation": "Кол-во ходов ↑"
+    },
+    "pack02:20250707": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250707",
+      "original": "Temp Lower Turn Time",
+      "translation": "Время ожидания хода ↓"
+    },
+    "pack02:20250708": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250708",
+      "original": "Add Shorter Turn Time Chance",
+      "translation": "Шанс сокращения времени хода"
+    },
+    "pack02:20250710": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250710",
+      "original": "Assist: Attack",
+      "translation": "Поддержка: атака"
+    },
+    "pack02:20250711": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250711",
+      "original": "Assist: Defense",
+      "translation": "Поддержка: защита"
+    },
+    "pack02:20250712": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250712",
+      "original": "Assist: Reduction",
+      "translation": "Поддержка: смягчение урона"
+    },
+    "pack02:20250713": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250713",
+      "original": "Assist: Emergency Evasion",
+      "translation": "Поддержка: экстренное уклонение"
+    },
+    "pack02:20250714": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250714",
+      "original": "Assist: Enhance Next",
+      "translation": "Поддержка: усиление"
+    },
+    "pack02:20250715": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250715",
+      "original": "Assist: Anti-Card",
+      "translation": "Поддержка: антиповторные атаки"
+    },
+    "pack02:20250716": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250716",
+      "original": "Assist: Counterattack",
+      "translation": "Поддержка: контратака"
+    },
+    "pack02:20250717": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250717",
+      "original": "Assist: Void Area",
+      "translation": "Поддержка: зона пустоты"
+    },
+    "pack02:20250720": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250720",
+      "original": "Drain Attack",
+      "translation": "Вытягивание атаки"
+    },
+    "pack02:20250721": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250721",
+      "original": "Drain Defense",
+      "translation": "Вытягивание защиты"
+    },
+    "pack02:20250722": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250722",
+      "original": "Drain Speed",
+      "translation": "Вытягивание скорости"
+    },
+    "pack02:20250723": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250723",
+      "original": "Drain ATK/DEF/SPD",
+      "translation": "Вытягивание АТК/ЗЩТ/СКР"
+    },
+    "pack02:20250724": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250724",
+      "original": "Drain Level",
+      "translation": "Вытягивание уровня"
+    },
+    "pack02:20250726": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250726",
+      "original": "Reduce Damage",
+      "translation": "Снижение урона"
+    },
+    "pack02:20250727": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250727",
+      "original": "Change DMG Taken",
+      "translation": "Изменение получаемого урона"
+    },
+    "pack02:20250728": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250728",
+      "original": "Add Attribute",
+      "translation": "+Атрибут"
+    },
+    "pack02:20250730": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250730",
+      "original": "Temp HP Up",
+      "translation": "Врем. ОЗ ↑"
+    },
+    "pack02:20250731": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250731",
+      "original": "Temp HP Down",
+      "translation": "Врем. ОЗ ↓"
+    },
+    "pack02:20250732": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250732",
+      "original": "Auto Revive",
+      "translation": "Автооживление"
+    },
+    "pack02:20250734": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250734",
+      "original": "Repel Ailments ",
+      "translation": "Отражение недугов"
+    },
+    "pack02:20250735": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250735",
+      "original": "Change Item Effect",
+      "translation": "Изменение эффектов предметов"
+    },
+    "pack02:20250737": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250737",
+      "original": "Chance to KO",
+      "translation": "Шанс нокаута"
+    },
+    "pack02:20250738": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250738",
+      "original": "Deathblow Chance",
+      "translation": "Шанс смертельного удара"
+    },
+    "pack02:20250739": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250739",
+      "original": "Absolute Death",
+      "translation": "Абсолютная смерть"
+    },
+    "pack02:20250740": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250740",
+      "original": "Revive KO",
+      "translation": "Оживление после нокаута"
+    },
+    "pack02:20250741": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250741",
+      "original": "Add Monster",
+      "translation": "+Монстр"
+    },
+    "pack02:20250742": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250742",
+      "original": "Mode Change",
+      "translation": "Изменение режима"
+    },
+    "pack02:20250743": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250743",
+      "original": "Add Mode",
+      "translation": "+Режим"
+    },
+    "pack02:20250744": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250744",
+      "original": "Escape",
+      "translation": "Побег"
+    },
+    "pack02:20250745": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250745",
+      "original": "Change Drop Rate",
+      "translation": "Выбивание предметов"
+    },
+    "pack02:20250746": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250746",
+      "original": "Avoid Battle",
+      "translation": "Избежание боя"
+    },
+    "pack02:20250747": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250747",
+      "original": "Self-Destruct",
+      "translation": "Самоуничтожение"
+    },
+    "pack02:20250748": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250748",
+      "original": "Get Item",
+      "translation": "Получение предмета"
+    },
+    "pack02:20250749": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250749",
+      "original": "Copy Skill",
+      "translation": "Копирование навыка"
+    },
+    "pack02:20250750": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250750",
+      "original": "Copy Item",
+      "translation": "Копирование предмета"
+    },
+    "pack02:20250751": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250751",
+      "original": "Eliminate Card",
+      "translation": "Отмена повторных атак"
+    },
+    "pack02:20250752": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250752",
+      "original": "End Battle",
+      "translation": "Завершение битвы"
+    },
+    "pack02:20250753": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250753",
+      "original": "Push Back WT",
+      "translation": "Время ожидания хода ↑"
+    },
+    "pack02:20250754": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250754",
+      "original": "Pull Forward WT",
+      "translation": "Время ожидания хода ↓"
+    },
+    "pack02:20250755": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250755",
+      "original": "Reduce Count DMG",
+      "translation": "Снижение урона от счётчика"
+    },
+    "pack02:20250756": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250756",
+      "original": "Area Divide Stun",
+      "translation": "Разделение оглушения по области"
+    },
+    "pack02:20250757": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250757",
+      "original": "Enhance Absorption",
+      "translation": "Усиление поглощения"
+    },
+    "pack02:20250758": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250758",
+      "original": "Burst Damage",
+      "translation": "Урон Перегрузки"
+    },
+    "pack02:20250759": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250759",
+      "original": "Reduce Support Gauge",
+      "translation": "Снижение шкалы поддержки"
+    },
+    "pack02:20250760": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250760",
+      "original": "Chain Attack Chance",
+      "translation": "Шанс Цепной атаки"
+    },
+    "pack02:20250762": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250762",
+      "original": "Evade Attack",
+      "translation": "Уклонение"
+    },
+    "pack02:20250763": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250763",
+      "original": "Reduce Damage",
+      "translation": "Снижение урона"
+    },
+    "pack02:20250764": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250764",
+      "original": "Continuous HP Recovery",
+      "translation": "Повторное восстановление ОЗ"
+    },
+    "pack02:20250765": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250765",
+      "original": "Add Stun",
+      "translation": "+Оглушение"
+    },
+    "pack02:20250766": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250766",
+      "original": "Stun Resistance",
+      "translation": "Сопр. оглушению"
+    },
+    "pack02:20250767": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250767",
+      "original": "Stun Recovery Up",
+      "translation": "Снижение шкалы оглушения"
+    },
+    "pack02:20250768": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250768",
+      "original": "Auto Revive",
+      "translation": "Автооживление"
+    },
+    "pack02:20250769": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250769",
+      "original": "Gauge Bonus",
+      "translation": "Бонус к заполнению шкалы"
+    },
+    "pack02:20250770": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250770",
+      "original": "Burst Bonus",
+      "translation": "Бонус к Перегрузке"
+    },
+    "pack02:20250771": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250771",
+      "original": "Strong in a Pinch",
+      "translation": "Сила в сложных моментах"
+    },
+    "pack02:20250772": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250772",
+      "original": "Critical Bonus",
+      "translation": "Бонус к критическому урону"
+    },
+    "pack02:20250773": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250773",
+      "original": "Critical Enhance",
+      "translation": "Сила крит. удара ↑"
+    },
+    "pack02:20250774": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250774",
+      "original": "Reduce Physical ATK",
+      "translation": "Снижение физ. урона"
+    },
+    "pack02:20250775": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250775",
+      "original": "Reduce Chance",
+      "translation": "Снижение шанса"
+    },
+    "pack02:20250776": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250776",
+      "original": "Damage Restoration",
+      "translation": "Восстановление от урона"
+    },
+    "pack02:20250777": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250777",
+      "original": "Bonus Power",
+      "translation": "Бонус к силе"
+    },
+    "pack02:20250778": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250778",
+      "original": "Bonus Chance",
+      "translation": "Бонусный шанс"
+    },
+    "pack02:20250779": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250779",
+      "original": "Resist Turn Change",
+      "translation": "Сопротивление к задержкам хода"
+    },
+    "pack02:20250780": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250780",
+      "original": "Turn Count Up",
+      "translation": "Кол-во ходов ↑"
+    },
+    "pack02:20250781": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250781",
+      "original": "Hit Rate Up",
+      "translation": "Точность ↑"
+    },
+    "pack02:20250782": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250782",
+      "original": "Avoid KO",
+      "translation": "Уклонение от нокаута"
+    },
+    "pack02:20250784": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250784",
+      "original": "Instant Critical",
+      "translation": "Внезапный крит. удар"
+    },
+    "pack02:20250785": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250785",
+      "original": "Instant Hit Rate Up",
+      "translation": "Внезапная точность ↑"
+    },
+    "pack02:20250786": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250786",
+      "original": "Instant Evade Up",
+      "translation": "Внезапное уклонение ↑"
+    },
+    "pack02:20250787": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250787",
+      "original": "Poison Resistance",
+      "translation": "Сопр. отравлению"
+    },
+    "pack02:20250788": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250788",
+      "original": "Immobility Resistance",
+      "translation": "Сопр. обездвиживанию"
+    },
+    "pack02:20250789": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250789",
+      "original": "Curse Resistance",
+      "translation": "Сопр. проклятию"
+    },
+    "pack02:20250790": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250790",
+      "original": "Blindness Resistance",
+      "translation": "Сопр. слепоте"
+    },
+    "pack02:20250791": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250791",
+      "original": "KO Resistance",
+      "translation": "Сопр. нокауту"
+    },
+    "pack02:20250792": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250792",
+      "original": "Weakness Resistance",
+      "translation": "Сопр. слабости"
+    },
+    "pack02:20250793": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250793",
+      "original": "Healing Block Resistance",
+      "translation": "Сопр. запрету лечения"
+    },
+    "pack02:20250794": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250794",
+      "original": "Seal Resistance",
+      "translation": "Сопр. печати"
+    },
+    "pack02:20250795": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250795",
+      "original": "Repel Ailments",
+      "translation": "Отражение недугов"
+    },
+    "pack02:20250796": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250796",
+      "original": "Resistance to All",
+      "translation": "Сопр. всему"
+    },
+    "pack02:20250797": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250797",
+      "original": "Item Resistance",
+      "translation": "Сопр. предметам"
+    },
+    "pack02:20250798": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250798",
+      "original": "Damage Resistance",
+      "translation": "Сопр. урону"
+    },
+    "pack02:20250799": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250799",
+      "original": "Enhanced with Time",
+      "translation": "Усиление со временем"
+    },
+    "pack02:20250800": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250800",
+      "original": "Enhanced at Start",
+      "translation": "Усиление в начале"
+    },
+    "pack02:20250801": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250801",
+      "original": "Enhance Burst",
+      "translation": "Перегрузка+"
+    },
+    "pack02:20250802": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250802",
+      "original": "Enhanced with Time",
+      "translation": "Усиление со временем"
+    },
+    "pack02:20250803": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250803",
+      "original": "Enhanced with Stats",
+      "translation": "Усиление от характеристик"
+    },
+    "pack02:20250804": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250804",
+      "original": "Add Resistance",
+      "translation": "+Сопротивления"
+    },
+    "pack02:20250805": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250805",
+      "original": "Enhance Assist",
+      "translation": "Усиление поддержки"
+    },
+    "pack02:20250806": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250806",
+      "original": "Assist Defense",
+      "translation": "Прикрытие"
+    },
+    "pack02:20250807": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250807",
+      "original": "Bonus vs Strong Foe",
+      "translation": "Бонус против сильного противника"
+    },
+    "pack02:20250808": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250808",
+      "original": "Bonus in Boss Fight",
+      "translation": "Бонус в схватке с боссом"
+    },
+    "pack02:20250809": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250809",
+      "original": "Species Slayer",
+      "translation": "Особый охотник"
+    },
+    "pack02:20250810": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250810",
+      "original": "Maximum HP",
+      "translation": "Макс. количество ОЗ"
+    },
+    "pack02:20250811": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250811",
+      "original": "Maximum MP",
+      "translation": "Макс. количество ОМ"
+    },
+    "pack02:20250812": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250812",
+      "original": "Maximum LP",
+      "translation": "Макс. количество ОД"
+    },
+    "pack02:20250813": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250813",
+      "original": "Change Attack",
+      "translation": "Изменение атаки"
+    },
+    "pack02:20250814": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250814",
+      "original": "Change Defense",
+      "translation": "Изменение защиты"
+    },
+    "pack02:20250815": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250815",
+      "original": "Change Speed",
+      "translation": "Изменение скорости"
+    },
+    "pack02:20250816": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250816",
+      "original": "Change Target Chance",
+      "translation": "Изменение шанса выбора цели"
+    },
+    "pack02:20250817": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250817",
+      "original": "Change Escape Rate",
+      "translation": "Изменение шанса побега"
+    },
+    "pack02:20250818": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250818",
+      "original": "Increase Drop",
+      "translation": "Повышение шанса выпадения предметов"
+    },
+    "pack02:20250819": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250819",
+      "original": "Bonus Money",
+      "translation": "Бонусные деньги"
+    },
+    "pack02:20250820": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250820",
+      "original": "Bonus Experience",
+      "translation": "Бонусный опыт"
+    },
+    "pack02:20250821": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250821",
+      "original": "Add Elemental Resistance",
+      "translation": "+Стихийное сопр."
+    },
+    "pack02:20250822": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250822",
+      "original": "Attack Conversion",
+      "translation": "Конверсия атаки"
+    },
+    "pack02:20250823": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250823",
+      "original": "Strong in a Pinch",
+      "translation": "Сила в сложных моментах"
+    },
+    "pack02:20250824": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250824",
+      "original": "Shorten Skills",
+      "translation": "Облегчение навыков"
+    },
+    "pack02:20250825": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250825",
+      "original": "Swap HP/MP",
+      "translation": "Обмен ОЗ/ОМ"
+    },
+    "pack02:20250826": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250826",
+      "original": "Reverse DMG",
+      "translation": "Обратный урон"
+    },
+    "pack02:20250827": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250827",
+      "original": "Reduce Item Time",
+      "translation": "-Время исп. предмета"
+    },
+    "pack02:20250828": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250828",
+      "original": "Bonus Item Power",
+      "translation": "Бонус к силе предмета"
+    },
+    "pack02:20250829": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250829",
+      "original": "Absorb Elements",
+      "translation": "Поглощение стихий"
+    },
+    "pack02:20250830": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250830",
+      "original": "Shorter Turn Time Chance",
+      "translation": "Шанс сокращения времени хода"
+    },
+    "pack02:20250831": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250831",
+      "original": "Item Time Up",
+      "translation": "Время исп. предмета ↑"
+    },
+    "pack02:20250832": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250832",
+      "original": "Item Power Down",
+      "translation": "Снижение силы предмета"
+    },
+    "pack02:20250833": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250833",
+      "original": "Average Stats",
+      "translation": "Средние характеристики"
+    },
+    "pack02:20250834": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250834",
+      "original": "Specialize Stats",
+      "translation": "Особые характеристики"
+    },
+    "pack02:20250835": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250835",
+      "original": "Level Bonus",
+      "translation": "Бонус к уровню"
+    },
+    "pack02:20250836": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250836",
+      "original": "Level Enhance",
+      "translation": "Увеличение уровня"
+    },
+    "pack02:20250837": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250837",
+      "original": "Fixed Bonus",
+      "translation": "Фиксированный бонус"
+    },
+    "pack02:20250838": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250838",
+      "original": "Enhance Category",
+      "translation": "Усиление категории предмета"
+    },
+    "pack02:20250840": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250840",
+      "original": "Add Field Effect",
+      "translation": "+Эффект локации"
+    },
+    "pack02:20250841": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250841",
+      "original": "Enhance Species",
+      "translation": "Различные усиления"
+    },
+    "pack02:20250842": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250842",
+      "original": "Stacking Slip",
+      "translation": "Суммирование потерь*"
+    },
+    "pack02:20250843": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250843",
+      "original": "Stacking Weakness",
+      "translation": "Суммирование слабостей"
+    },
+    "pack02:20250844": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250844",
+      "original": "Stacking HP Heal",
+      "translation": "Суммирование эффектов попол. ОЗ"
+    },
+    "pack02:20250845": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250845",
+      "original": "Void Enhancements",
+      "translation": "Снятие усилений"
+    },
+    "pack02:20250846": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250846",
+      "original": "Revive Block",
+      "translation": "Блок оживления"
+    },
+    "pack02:20250847": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250847",
+      "original": "Healing Block",
+      "translation": "Запрет лечения"
+    },
+    "pack02:20250848": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250848",
+      "original": "Enhance by Stats",
+      "translation": "Усиление от характеристик"
+    },
+    "pack02:20250849": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250849",
+      "original": "MP Proportion Heal",
+      "translation": "ОМ пропорционально восстановлению"
+    },
+    "pack02:20250850": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250850",
+      "original": "Enhance by Card",
+      "translation": "Усиление от повторных атак"
+    },
+    "pack02:20250851": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250851",
+      "original": "Enhance Stun Resist",
+      "translation": "Устойчивость к оглушению ↑"
+    },
+    "pack02:20250852": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250852",
+      "original": "Heal Ailment",
+      "translation": "Снятие недуга"
+    },
+    "pack02:20250853": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250853",
+      "original": "Void Area Effect",
+      "translation": "Обнуление эффектов локации"
+    },
+    "pack02:20250854": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250854",
+      "original": "Change Burst",
+      "translation": "Влияние на Перегрузку"
+    },
+    "pack02:20250855": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250855",
+      "original": "Avoid KO",
+      "translation": "Уклонение от нокаута"
+    },
+    "pack02:20250857": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250857",
+      "original": "Promote Time Card",
+      "translation": "Ускорение действия повторных атак"
+    },
+    "pack02:20250858": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250858",
+      "original": "Deploy Multiple Time Card",
+      "translation": "Несколько повторных атак"
+    },
+    "pack02:20250859": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250859",
+      "original": "Overwrite Time Card",
+      "translation": "Перезапись повторных атак"
+    },
+    "pack02:20250860": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250860",
+      "original": "Nullify Time Card",
+      "translation": "Обнуление повторных атак"
+    },
+    "pack02:20250861": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250861",
+      "original": "Change Time Card Count",
+      "translation": "Изменение кол-ва повторных атак"
+    },
+    "pack02:20250863": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250863",
+      "original": "Return to Atelier",
+      "translation": "Возвращение в ателье"
+    },
+    "pack02:20250864": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250864",
+      "original": "Reduce Move Time",
+      "translation": "Снижение течения времени"
+    },
+    "pack02:20250865": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250865",
+      "original": "Reduce Gathering Cost",
+      "translation": "Снижение времени на сбор материалов"
+    },
+    "pack02:20250866": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250866",
+      "original": "Increase Gathering Count",
+      "translation": "Повышение кол-ва материалов при сборе"
+    },
+    "pack02:20250867": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250867",
+      "original": "Change Basket Capacity",
+      "translation": "Изменение вместительности корзины"
+    },
+    "pack02:20250868": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250868",
+      "original": "Remove Enemy Symbol",
+      "translation": "Удаляет силуэт врага"
+    },
+    "pack02:20250869": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250869",
+      "original": "Exploration Light",
+      "translation": "Освещение"
+    },
+    "pack02:20250870": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250870",
+      "original": "Character Full Recovery",
+      "translation": "Полное восстановление персонажа"
+    },
+    "pack02:20250871": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250871",
+      "original": "Develop Synthesis Table",
+      "translation": "Разработка таблицы синтеза"
+    },
+    "pack02:20250872": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250872",
+      "original": "Develop Gathering Table",
+      "translation": "Разработка таблицы сбора"
+    },
+    "pack02:20250875": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250875",
+      "original": "Latent Power Candidate",
+      "translation": "Возможность скрытой силы"
+    },
+    "pack02:20250876": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250876",
+      "original": "Burst Bonus Up",
+      "translation": "Бонус к Перегрузке ↑"
+    },
+    "pack02:20250877": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250877",
+      "original": "Item Identification",
+      "translation": "Идентификация предмета"
+    },
+    "pack02:20250878": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250878",
+      "original": "Split Remaining MP",
+      "translation": "Разделение оставшихся ОМ"
+    },
+    "pack02:20250879": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250879",
+      "original": "Chain Attack Chance",
+      "translation": "Шанс Цепной атаки"
+    },
+    "pack02:20250880": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250880",
+      "original": "Overwrite Field Effect",
+      "translation": "Перезапись эффекта локации"
+    },
+    "pack02:20250881": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250881",
+      "original": "Heal on Turn",
+      "translation": "Лечение при ходе"
+    },
+    "pack02:20250882": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250882",
+      "original": "Range DMG",
+      "translation": "Урон по области"
+    },
+    "pack02:20250883": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250883",
+      "original": "Inverse Range DMG",
+      "translation": "Обратный урон по области"
+    },
+    "pack02:20250884": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250884",
+      "original": "Plus Element Resist",
+      "translation": "+Элементальное сопр."
+    },
+    "pack02:20250885": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250885",
+      "original": "Minus Element Resist",
+      "translation": "-Элементальное сопр."
+    },
+    "pack02:20250886": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250886",
+      "original": "Enhance by HP Left",
+      "translation": "Усиление от остатка ОЗ"
+    },
+    "pack02:20250887": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250887",
+      "original": "Avoid KO",
+      "translation": "Уклонение от нокаута"
+    },
+    "pack02:20250888": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250888",
+      "original": "Enhance by Level",
+      "translation": "Усиление от уровня"
+    },
+    "pack02:20250889": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250889",
+      "original": "Reflect DMG Absorb",
+      "translation": "Отражение поглощения урона"
+    },
+    "pack02:20250890": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250890",
+      "original": "Gather in Battle",
+      "translation": "Получение материалов в битве"
+    },
+    "pack02:20250891": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250891",
+      "original": "Drop Rate Up",
+      "translation": "Шанс выпадения предметов ↑"
+    },
+    "pack02:20250892": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250892",
+      "original": "Critical Rate Bonus",
+      "translation": "Шанс крит. удара ↑"
+    },
+    "pack02:20250893": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250893",
+      "original": "No Swap",
+      "translation": "Блок замены"
+    },
+    "pack02:20250894": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250894",
+      "original": "No Support",
+      "translation": "Блок поддержки"
+    },
+    "pack02:20250895": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250895",
+      "original": "Cure: No Swap",
+      "translation": "Снятие блока замены"
+    },
+    "pack02:20250896": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250896",
+      "original": "Cure: No Support",
+      "translation": "Снятие блока поддержки"
+    },
+    "pack02:20250897": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250897",
+      "original": "Fill Remaining Time Cards",
+      "translation": "Восстановление кол-ва повторных атак"
+    },
+    "pack02:20250898": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250898",
+      "original": "Avoid Involvement",
+      "translation": "Уклонение от проблем"
+    },
+    "pack02:20250899": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250899",
+      "original": "Add Support Gauge",
+      "translation": "+Шкала поддержки"
+    },
+    "pack02:20250900": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250900",
+      "original": "Field Gauge +",
+      "translation": "Оценка локации +"
+    },
+    "pack02:20250901": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250901",
+      "original": "Combo Bonus",
+      "translation": "Бонус к комбо"
+    },
+    "pack02:20250902": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250902",
+      "original": "Standby Bonus",
+      "translation": "Бонус от ожидания"
+    },
+    "pack02:20250903": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250903",
+      "original": "All Element DMG",
+      "translation": "Урон всеми стихиями"
+    },
+    "pack02:20250904": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250904",
+      "original": "Enhance Item",
+      "translation": "Усиление предмета"
+    },
+    "pack02:20250905": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250905",
+      "original": "Fuse Item",
+      "translation": "Слияние предметов"
+    },
+    "pack02:20250906": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250906",
+      "original": "Marking",
+      "translation": "Отметка"
+    },
+    "pack02:20250907": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250907",
+      "original": "Reserve Heal Rate Up",
+      "translation": "Усиление восстановления"
+    },
+    "pack02:20250908": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250908",
+      "original": "Mask Cards",
+      "translation": "Скрытие повторных атак"
+    },
+    "pack02:20250909": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250909",
+      "original": "Step Up Enhance",
+      "translation": "Пошаговое усиление"
+    },
+    "pack02:20250910": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250910",
+      "original": "Step Up Single Attack",
+      "translation": "Пошаговая одиночная атака"
+    },
+    "pack02:20250911": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250911",
+      "original": "Step Up Area Attack",
+      "translation": "Пошаговая атака по площади"
+    },
+    "pack02:20250912": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250912",
+      "original": "Attack Shift",
+      "translation": "Изменение атаки"
+    },
+    "pack02:20250913": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250913",
+      "original": "Defense Shift",
+      "translation": "Изменение защиты"
+    },
+    "pack02:20250914": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250914",
+      "original": "Cause Extra DMG",
+      "translation": "Дополнительный урон"
+    },
+    "pack02:20250915": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250915",
+      "original": "Cost Proportion DMG",
+      "translation": "Пропорциональный урон от затрат"
+    },
+    "pack02:20250916": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250916",
+      "original": "Enhance Swap: Single",
+      "translation": "Изменение усилений (у одного)"
+    },
+    "pack02:20250917": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250917",
+      "original": "Enhance Swap: All",
+      "translation": "Изменение усилений (у всех)"
+    },
+    "pack02:20250918": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250918",
+      "original": "Force Mode Shift",
+      "translation": "Изменение усиленного режима"
+    },
+    "pack02:20250919": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250919",
+      "original": "Force Mode Addition",
+      "translation": "Усиленный режим +"
+    },
+    "pack02:20250920": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250920",
+      "original": "Enhance Reserve Heal",
+      "translation": "Усиление тылового лечения"
+    },
+    "pack02:20250921": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250921",
+      "original": "Reserve HP Regen",
+      "translation": "Восстановление ОЗ в тылу"
+    },
+    "pack02:20250922": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250922",
+      "original": "Reserve MP Regen",
+      "translation": "Восстановление ОМ в тылу"
+    },
+    "pack02:20250923": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250923",
+      "original": "Ailment DMG",
+      "translation": "Урон от недуга"
+    },
+    "pack02:20250926": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250926",
+      "original": "Item: Auto Activate",
+      "translation": "Автоактивация"
+    },
+    "pack02:20250927": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250927",
+      "original": "Item: Time Effect",
+      "translation": "Изменение времени ожидан. хода"
+    },
+    "pack02:20250928": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250928",
+      "original": "Item: Consumption Chance",
+      "translation": "Шанс не траты числа исп."
+    },
+    "pack02:20250929": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250929",
+      "original": "Item: Area Change",
+      "translation": "Изменение радиуса действия"
+    },
+    "pack02:20250931": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250931",
+      "original": "Heal on Ailment Cure",
+      "translation": "Лечение при снятии недугов"
+    },
+    "pack02:20250932": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250932",
+      "original": "Enhance on Ailment Cure",
+      "translation": "Усиление снятия недугов"
+    },
+    "pack02:20250933": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250933",
+      "original": "Cure Ailment on Heal",
+      "translation": "Снятие недугов при лечении"
+    },
+    "pack02:20250934": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250934",
+      "original": "Heal on Heal",
+      "translation": "Доп. лечение при лечении"
+    },
+    "pack02:20250936": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250936",
+      "original": "Turn Reduction Chance",
+      "translation": "Шанс снизить ожидание хода"
+    },
+    "pack02:20250937": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250937",
+      "original": "Basic DMG Bonus",
+      "translation": "Базовый бонус к урону"
+    },
+    "pack02:20250938": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250938",
+      "original": "Continuous MP Heal",
+      "translation": "Повторное восстановление ОМ"
+    },
+    "pack02:20250939": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250939",
+      "original": "Combo Attack Bonus",
+      "translation": "Бонус к комбо атаке"
+    },
+    "pack02:20250940": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250940",
+      "original": "Time Period Enhance",
+      "translation": "Усиление от времени"
+    },
+    "pack02:20250941": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250941",
+      "original": "Enhance on Stun",
+      "translation": "Усиление при оглушении"
+    },
+    "pack02:20250942": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250942",
+      "original": "Convert Parameter",
+      "translation": "Изменение параметров"
+    },
+    "pack02:20250943": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250943",
+      "original": "Enhance Variation",
+      "translation": "Различные усиления"
+    },
+    "pack02:20250944": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250944",
+      "original": "Resist After Effects",
+      "translation": "Сопротивление к штрафу за ожив."
+    },
+    "pack02:20250945": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250945",
+      "original": "Enhance on Assist Attack",
+      "translation": "Усиление при атаке с поддержкой"
+    },
+    "pack02:20250946": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250946",
+      "original": "Enhance on Assist Guard",
+      "translation": "Усиление при защите"
+    },
+    "pack02:20250949": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250949",
+      "original": "Reduce Enemy Burst",
+      "translation": "Снижение агрессии врага"
+    },
+    "pack02:20250950": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250950",
+      "original": "Restrict Enemy Burst",
+      "translation": "Ограничение агрессии врага"
+    },
+    "pack02:20250952": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250952",
+      "original": "Restrict Area Effect",
+      "translation": "Ограничение эффектов локации"
+    },
+    "pack02:20250953": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250953",
+      "original": "Constant Burst",
+      "translation": "Постоянная перегрузка"
+    },
+    "pack02:20250954": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250954",
+      "original": "Revenge",
+      "translation": "Месть"
+    },
+    "pack02:20250955": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250955",
+      "original": "Absorb Heal",
+      "translation": "Поглощение лечения"
+    },
+    "pack02:20250957": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250957",
+      "original": "Enhance Heal",
+      "translation": "Усиление лечения"
+    },
+    "pack02:20250959": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250959",
+      "original": "Basic DMG Bonus",
+      "translation": "Базовый бонус к урону"
+    },
+    "pack02:20250960": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250960",
+      "original": "Combo Attack Bonus",
+      "translation": "Бонус к комбо атаке"
+    },
+    "pack02:20250961": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250961",
+      "original": "Enhance on Stun",
+      "translation": "Усиление при оглушении"
+    },
+    "pack02:20250962": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250962",
+      "original": "Enhance Variation",
+      "translation": "Различные усиления"
+    },
+    "pack02:20250963": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250963",
+      "original": "Heal by Time",
+      "translation": "Восстановление ОЗ от времени"
+    },
+    "pack02:20250964": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250964",
+      "original": "Ailment: After Effects",
+      "translation": "Недуг: штраф за оживление"
+    },
+    "pack02:20250965": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250965",
+      "original": "Cure: After Effects",
+      "translation": "Снятие штрафа за оживление"
+    },
+    "pack02:20250966": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250966",
+      "original": "Ailment: Triple Trouble",
+      "translation": "Недуг х3"
+    },
+    "pack02:20250967": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250967",
+      "original": "Ailment: Quintrouble",
+      "translation": "Недуг х4"
+    },
+    "pack02:20250968": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250968",
+      "original": "Random Effect",
+      "translation": "Случайные эффекты"
+    },
+    "pack02:20250969": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250969",
+      "original": "Random Skill",
+      "translation": "Случайный навык"
+    },
+    "pack02:20250970": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250970",
+      "original": "Change Resist Level",
+      "translation": "Изменение уровня сопротивления"
+    },
+    "pack02:20250971": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250971",
+      "original": "DMG by Traits",
+      "translation": "Урон от свойств"
+    },
+    "pack02:20250972": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250972",
+      "original": "Combat Revive: After Effects",
+      "translation": "Оживление со штрафом"
+    },
+    "pack02:20250974": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250974",
+      "original": "Loss Protection",
+      "translation": "Утрата защиты"
+    },
+    "pack02:20250975": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250975",
+      "original": "WM: Control Chance",
+      "translation": "Влияние на время ожидания хода"
+    },
+    "pack02:20250976": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250976",
+      "original": "WM: Substitution",
+      "translation": "Изменение времени ожидан. хода"
+    },
+    "pack02:20250977": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250977",
+      "original": "Search Rank Enhance",
+      "translation": "Ранг исследования ↑"
+    },
+    "pack02:20250979": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250979",
+      "original": "Cauldron: Add Rule",
+      "translation": "Котёл: добавление правила"
+    },
+    "pack02:20250980": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250980",
+      "original": "Cauldron: Expand Panel",
+      "translation": "Котёл: расширенная панель"
+    },
+    "pack02:20250981": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250981",
+      "original": "Cauldron: Display Level",
+      "translation": "Котёл: отображение уровня"
+    },
+    "pack02:20250983": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250983",
+      "original": "Add Special Traits",
+      "translation": "+Особые свойства"
+    },
+    "pack02:20250984": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250984",
+      "original": "Convert Attack",
+      "translation": "Конвертирование атаки"
+    },
+    "pack02:20250985": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250985",
+      "original": "Convert Defense",
+      "translation": "Конвертирование защиты"
+    },
+    "pack02:20250986": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250986",
+      "original": "Convert Speed",
+      "translation": "Конвертирование скорости"
+    },
+    "pack02:20250988": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250988",
+      "original": "Gathering Quality Up",
+      "translation": "Качество собир. материалов ↑"
+    },
+    "pack02:20250989": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250989",
+      "original": "Gathering Traits Up",
+      "translation": "Свойства собир. материалов ↑"
+    },
+    "pack02:20250990": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250990",
+      "original": "Rest Until Specified Time",
+      "translation": "Отдых до опред. времени"
+    },
+    "pack02:20250991": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250991",
+      "original": "Send to Storage",
+      "translation": "Отправка на склад"
+    },
+    "pack02:20250992": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250992",
+      "original": "Reduce Detection Area",
+      "translation": "Уменьшение радиуса атаки"
+    },
+    "pack02:20250993": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250993",
+      "original": "Cut LP Consumption",
+      "translation": "Траты ОД ↓"
+    },
+    "pack02:20250994": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250994",
+      "original": "Move Speed Up",
+      "translation": "Скорость перемещения ↑"
+    },
+    "pack02:20250995": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250995",
+      "original": "Friend Points Up",
+      "translation": "Очки дружелюбности ↑"
+    },
+    "pack02:20250997": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250997",
+      "original": "Add Category",
+      "translation": "+Категория"
+    },
+    "pack02:20250998": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250998",
+      "original": "Category Value Up",
+      "translation": "Значение категории ↑"
+    },
+    "pack02:20250999": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20250999",
+      "original": "Change Color",
+      "translation": "Изменение цвета"
+    },
+    "pack02:20251001": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251001",
+      "original": "Off",
+      "translation": "Выкл"
+    },
+    "pack02:20251004": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251004",
+      "original": "Burst Bonus Up",
+      "translation": "Бонус к перегрузке ↑"
+    },
+    "pack02:20251005": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251005",
+      "original": "Support Gauge Up",
+      "translation": "Шкала поддержки ↑"
+    },
+    "pack02:20251006": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251006",
+      "original": "Combo Bonus",
+      "translation": "Бонус к комбо"
+    },
+    "pack02:20251007": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251007",
+      "original": "Enhance by Weather",
+      "translation": "Усиления от погоды"
+    },
+    "pack02:20251008": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251008",
+      "original": "Resonance: Attack",
+      "translation": "Резонанс: атака"
+    },
+    "pack02:20251009": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251009",
+      "original": "Resonance: Defense",
+      "translation": "Резонанс: защита"
+    },
+    "pack02:20251010": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251010",
+      "original": "Resonance: Speed",
+      "translation": "Резонанс: скорость"
+    },
+    "pack02:20251011": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251011",
+      "original": "Resonance: ATK/DEF/SPD",
+      "translation": "Резонанс: АТК/ЗЩТ/СКР"
+    },
+    "pack02:20251012": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251012",
+      "original": "Control Weather",
+      "translation": "Контроль погоды"
+    },
+    "pack02:20251013": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251013",
+      "original": "Learn Skill",
+      "translation": "Освоение навыка"
+    },
+    "pack02:20251014": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251014",
+      "original": "Time Proportional DMG",
+      "translation": "Пропорциональный урон от времени"
+    },
+    "pack02:20251015": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251015",
+      "original": "Damage Area Bonus",
+      "translation": "Расширение области урона"
+    },
+    "pack02:20251016": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251016",
+      "original": "Weakness Bonus",
+      "translation": "Бонус от слабости"
+    },
+    "pack02:20251017": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251017",
+      "original": "Target WT Cut",
+      "translation": "Время ожидания хода ↓"
+    },
+    "pack02:20251018": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251018",
+      "original": "Chain Bonus",
+      "translation": "Цепной бонус"
+    },
+    "pack02:20251019": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251019",
+      "original": "Resist Memory",
+      "translation": "Сопротивление памяти*"
+    },
+    "pack02:20251020": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251020",
+      "original": "Activate Chance",
+      "translation": "Шанс активации"
+    },
+    "pack02:20251021": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251021",
+      "original": "Add Activate Bonus Chance",
+      "translation": "+Шанс активации бонуса"
+    },
+    "pack02:20251022": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251022",
+      "original": "Activate Bonus Chance",
+      "translation": "Шанс активации бонуса"
+    },
+    "pack02:20251023": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251023",
+      "original": "Heal on Kill",
+      "translation": "Восстановление при убийстве врага"
+    },
+    "pack02:20251024": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251024",
+      "original": "Enhance on Kill",
+      "translation": "Усиление при убийстве врага"
+    },
+    "pack02:20251025": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251025",
+      "original": "Enhance Weapon",
+      "translation": "Усилить оружие"
+    },
+    "pack02:20251026": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251026",
+      "original": "Enhance Positive Bonus",
+      "translation": "Усиление+"
+    },
+    "pack02:20251027": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251027",
+      "original": "Enhance Negative Bonus",
+      "translation": "Ослабление-"
+    },
+    "pack02:20251028": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251028",
+      "original": "Add Slayer",
+      "translation": "+Охотник"
+    },
+    "pack02:20251029": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251029",
+      "original": "Enhance Common Skill",
+      "translation": "Базовые навыки ↑"
+    },
+    "pack02:20251030": {
+      "source": "pack02_text_en",
+      "file": "str_act_name.xml",
+      "string_no": "20251030",
+      "original": "Bonus Victory Money",
+      "translation": "Бонусные деньги за победу"
+    }
+  }
+}

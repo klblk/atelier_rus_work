@@ -1,0 +1,225 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_mix_tutorial.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:10027009": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027009",
+      "original": "First, let’s use the specified material - Princess Grass.",
+      "translation": "Для начала воспользуемся указанным материалом — принцессой травой."
+    },
+    "pack02:10027010": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027010",
+      "original": "Each material has a variety of components, which are represented by pieces of various shapes.",
+      "translation": "Каждый материал имеет множество компонентов, которые представлены кусочками различной формы."
+    },
+    "pack02:10027011": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027011",
+      "original": "You can begin the synthesis by placing these pieces on the field in the middle.",
+      "translation": "Начать синтез можно, разместив эти фигуры на поле посередине."
+    },
+    "pack02:10027012": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027012",
+      "original": "Now, let’s try placing these components on the panel.",
+      "translation": "Теперь попробуем разместить эти компоненты на панели."
+    },
+    "pack02:10027013": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027013",
+      "original": "When you place a piece, the Effect Gauge corresponding to its color will fill accordingly.",
+      "translation": "Когда вы размещаете фрагмент, шкала эффекта, соответствующая его цвету, заполняется соответствующим образом."
+    },
+    "pack02:10027014": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027014",
+      "original": "The Effect Gauge will fill by the number of colored squares currently on the field.",
+      "translation": "Индикатор эффекта заполнится количеством цветных квадратов, находящихся в данный момент на поле."
+    },
+    "pack02:10027015": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027015",
+      "original": "Currently, green pieces covering two squares, so the Green Effect Gauge has also increased by two.",
+      "translation": "В настоящее время зеленые фигуры покрывают два квадрата, поэтому шкала зеленого эффекта также увеличилась на два."
+    },
+    "pack02:10027016": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027016",
+      "original": "Now, let’s place the remaining pieces in the indicated slots.",
+      "translation": "Теперь давайте поместим оставшиеся части в указанные слоты."
+    },
+    "pack02:10027017": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027017",
+      "original": "Placing a piece in a slot with a border of the same color will cause the Effect Gauge to increase by one unit.",
+      "translation": "Помещение детали в ячейку с рамкой того же цвета приведет к увеличению шкалы эффекта на одну единицу."
+    },
+    "pack02:10027018": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027018",
+      "original": "Here, a green piece covering two squares was added to the panel.",
+      "translation": "Здесь к панели добавлена зеленая фигура, закрывающая два квадрата."
+    },
+    "pack02:10027019": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027019",
+      "original": "Look to match up colors whenever possible, to greatly extend the length of the Effect Gauge.",
+      "translation": "Старайтесь, чтобы цвета совпадали, когда это возможно, чтобы значительно увеличить длину шкалы эффекта."
+    },
+    "pack02:10027020": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027020",
+      "original": "Sometimes, same materials can have multiple components.",
+      "translation": "Иногда одни и те же материалы могут состоять из нескольких компонентов."
+    },
+    "pack02:10027021": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027021",
+      "original": "With materials like this, you'll be able to use all components present.",
+      "translation": "С такими материалами вы сможете использовать все имеющиеся компоненты."
+    },
+    "pack02:10027022": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027022",
+      "original": "Now then, let’s place the remaining piece in the same way as before.",
+      "translation": "Теперь давайте разместим оставшуюся часть так же, как и раньше."
+    },
+    "pack02:10027023": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027023",
+      "original": "You are also able to rotate pieces. Let’s practice by turning a piece horizontally.",
+      "translation": "Вы также можете вращать детали. Давайте потренируемся, повернув деталь горизонтально."
+    },
+    "pack02:10027024": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027024",
+      "original": "Once the Effect Gauge reaches a certain length, the item may gain new effects.",
+      "translation": "Как только шкала эффекта достигнет определенной длины, предмет может получить новые эффекты."
+    },
+    "pack02:10027025": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027025",
+      "original": "Due to the length of the Green Gauge, &lt;CLGR&gt;HP Recovery S&lt;CLNR&gt; and &lt;CLGR&gt;Recovery Bonus S&lt;CLNR&gt; were added to the item!",
+      "translation": "Из-за длины зеленой шкалы к предмету были добавлены &lt;CLGR&gt;Восстановление HP S&lt;CLNR&gt; и &lt;CLGR&gt;Бонус восстановления S&lt;CLNR&gt;!"
+    },
+    "pack02:10027026": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027026",
+      "original": "Now, let’s complete the process!",
+      "translation": "Теперь давайте завершим процесс!"
+    },
+    "pack02:10027027": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027027",
+      "original": "To synthesize an item, you must first learn the recipe for it. Select a recipe from the ones you currently know.",
+      "translation": "Чтобы синтезировать предмет, необходимо сначала изучить его рецепт. Выберите рецепт из тех, которые вам известны на данный момент."
+    },
+    "pack02:10027028": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027028",
+      "original": "You must also fulfil the specified requirements for each recipe.",
+      "translation": "Вы также должны выполнить указанные требования для каждого рецепта."
+    },
+    "pack02:10027029": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027029",
+      "original": "&lt;CLGR&gt;○&lt;CLNR&gt;: Ready for synthesis. &lt;CLGR&gt;△&lt;CLNR&gt;: Ready after synthesizing the necessary materials.&lt;CLGR&gt;×&lt;CLNR&gt;: Materials unavailable.",
+      "translation": "&lt;CLGR&gt;○&lt;CLNR&gt;: Готов к синтезу. &lt;CLGR&gt;△&lt;CLNR&gt;: Доступно после синтеза необходимых материалов. &lt;CLGR&gt;×&lt;CLNR&gt;: Недостаточно материалов."
+    },
+    "pack02:10027030": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027030",
+      "original": "&lt;CLGR&gt;－&lt;CLNR&gt;: Your Alchemy Level is too low. Be sure to refer to these symbols when preparing for synthesis.",
+      "translation": "&lt;CLGR&gt;－&lt;CLNR&gt;: Ваш уровень алхимии слишком низок. Обязательно обращайтесь к этим символам при подготовке к синтезу."
+    },
+    "pack02:10027031": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027031",
+      "original": "After you have decided on a recipe, you will need to select the materials.",
+      "translation": "После того, как вы определились с рецептом, вам нужно будет выбрать материалы."
+    },
+    "pack02:10027032": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027032",
+      "original": "There are two types of materials, those &lt;CLGR&gt;specified by item&lt;CLNR&gt; and those &lt;CLGR&gt;specified by category&lt;CLNR&gt;, such as (Water).",
+      "translation": "Существует два типа материалов: &lt;CLGR&gt;конкретный материал&lt;CLNR&gt; и &lt;CLGR&gt;конкретная категория&lt;CLNR&gt;, например (Вода)."
+    },
+    "pack02:10027033": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027033",
+      "original": "When a category is specified, you are free to use any item you want, as long as it comes from the specified category.",
+      "translation": "Если указана категория, вы можете использовать любой предмет по своему усмотрению, если он принадлежит к указанной категории."
+    },
+    "pack02:10027034": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027034",
+      "original": "Selecting a material with &lt;IM00&gt; will cause a check mark to appear on its icon.",
+      "translation": "При выборе материала с помощью &lt;IM00&gt; на его значке появится галочка."
+    },
+    "pack02:10027035": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027035",
+      "original": "The window to the right will display the quality, quantity, and other details of the item to be synthesized.",
+      "translation": "В окне справа будет отображаться качество, количество и другие сведения о синтезируемом предмете."
+    },
+    "pack02:10027036": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027036",
+      "original": "You can begin the synthesis once all of the materials have been selected. Now, select &lt;CLGR&gt;”Synthesize”&lt;CLNR&gt; to begin!",
+      "translation": "Вы можете начать синтез, как только все материалы будут выбраны. Теперь выберите &lt;CLGR&gt; «Синтезировать»&lt;CLNR&gt;, чтобы начать!"
+    },
+    "pack02:10027038": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027038",
+      "original": "Since the border of one if the squares is also green, the gauge increased by a total of three, not two, units.",
+      "translation": "Поскольку граница одного из квадратов также зеленая, шкала увеличилась в общей сложности на три, а не на две единицы."
+    },
+    "pack02:10027039": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027039",
+      "original": "This material had two components, so there are two different pieces available.",
+      "translation": "Этот материал состоял из двух компонентов, поэтому доступны две разные части."
+    },
+    "pack02:10027040": {
+      "source": "pack02_text_en",
+      "file": "str_mix_tutorial.xml",
+      "string_no": "10027040",
+      "original": "You can see which items you can create by referring to the &lt;CLGR&gt;○/△/×/－&lt;CLNR&gt; symbols to the left.",
+      "translation": "Вы можете увидеть, какие предметы вы можете создать, обратившись к символам &lt;CLGR&gt;○/△/×/－&lt;CLNR&gt; слева."
+    }
+  }
+}

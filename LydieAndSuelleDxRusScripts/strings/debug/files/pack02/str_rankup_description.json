@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_rankup_description.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:2686977": {
+      "source": "pack02_text_en",
+      "file": "str_rankup_description.xml",
+      "string_no": "2686977",
+      "original": "&lt;CLGR&gt;Create “Dream Paintbrushes.” ^00Recipe will be provided.^00*Adaptation permitted.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Создайте «Кисти мечты». ^00Рецепт будет предоставлен.^00*Адаптация разрешена.&lt;CLNR&gt;"
+    },
+    "pack02:2686978": {
+      "source": "pack02_text_en",
+      "file": "str_rankup_description.xml",
+      "string_no": "2686978",
+      "original": "&lt;CLGR&gt;Collect eggs. ^00Any method allowed.^00*Eggs dropped by monsters will be more highly evaluated.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Собирайте яйца. ^00Разрешен любой метод.^00*Яйца, брошенные монстрами, будут оцениваться более высоко.&lt;CLNR&gt;"
+    },
+    "pack02:2686979": {
+      "source": "pack02_text_en",
+      "file": "str_rankup_description.xml",
+      "string_no": "2686979",
+      "original": "&lt;CLGR&gt;Defeat the powerful monsters appearing near the city. ^00Any method allowed.&lt;CLNR&gt;^00",
+      "translation": "&lt;CLGR&gt;Победите могущественных монстров, появляющихся возле города. ^00Разрешен любой метод.&lt;CLNR&gt;^00"
+    },
+    "pack02:2686980": {
+      "source": "pack02_text_en",
+      "file": "str_rankup_description.xml",
+      "string_no": "2686980",
+      "original": "&lt;CLGR&gt;Defeat the monsters appearing near the city. ^00Any method allowed.^00*Number defeated will affect evaluation.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Побеждайте монстров, появляющихся возле города. ^00Разрешен любой метод.^00*Побежденное число повлияет на оценку.&lt;CLNR&gt;"
+    },
+    "pack02:2686981": {
+      "source": "pack02_text_en",
+      "file": "str_rankup_description.xml",
+      "string_no": "2686981",
+      "original": "&lt;CLGR&gt;Create and activate “Lightning Finder.” ^00Recipe will be provided.^00*Quality of device will affect evaluation.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Создайте и активируйте «Искатель молний». ^00Рецепт будет предоставлен.^00*Качество устройства будет влиять на оценку.&lt;CLNR&gt;"
+    },
+    "pack02:2686982": {
+      "source": "pack02_text_en",
+      "file": "str_rankup_description.xml",
+      "string_no": "2686982",
+      "original": "&lt;CLGR&gt;Deliver “Special Nutrients.” ^00Any method allowed.^00*Number and quality will affect evaluation.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Доставьте «Особые питательные вещества». ^00Разрешен любой метод.^00*Количество и качество будут влиять на оценку.&lt;CLNR&gt;"
+    },
+    "pack02:2686983": {
+      "source": "pack02_text_en",
+      "file": "str_rankup_description.xml",
+      "string_no": "2686983",
+      "original": "&lt;CLGR&gt;Defeat the black monsters appearing within the paintings. ^00Any method allowed.^00*Number defeated will affect evaluation.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Победите черных монстров, появляющихся на картинах. ^00Разрешен любой метод.^00*Побежденное число повлияет на оценку.&lt;CLNR&gt;"
+    },
+    "pack02:2686984": {
+      "source": "pack02_text_en",
+      "file": "str_rankup_description.xml",
+      "string_no": "2686984",
+      "original": "&lt;CLGR&gt;Create a tool detailed in the reference book. ^00Any tool may be selected.^00*More difficult tools will be evaluated more highly.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Создайте инструмент, подробно описанный в справочнике. ^00Можно выбрать любой инструмент.^00*Более сложные инструменты будут оцениваться выше.&lt;CLNR&gt;"
+    },
+    "pack02:2686985": {
+      "source": "pack02_text_en",
+      "file": "str_rankup_description.xml",
+      "string_no": "2686985",
+      "original": "&lt;CLGR&gt;Collect letters of recommendation from certified alchemists. ^00At least three letters necessary.^00*Source of letter will not affect evaluation.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Соберите рекомендательные письма от сертифицированных алхимиков. ^00Необходимо не менее трёх букв.^00*Источник письма не повлияет на оценку.&lt;CLNR&gt;"
+    },
+    "pack02:2686986": {
+      "source": "pack02_text_en",
+      "file": "str_rankup_description.xml",
+      "string_no": "2686986",
+      "original": "&lt;CLGR&gt;Create a high-quality item to serve as a demonstration of your alchemy skills. ^00Any method allowed.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Создайте высококачественный предмет, который послужит демонстрацией ваших навыков алхимии. ^00Разрешен любой метод.&lt;CLNR&gt;"
+    },
+    "pack02:2686987": {
+      "source": "pack02_text_en",
+      "file": "str_rankup_description.xml",
+      "string_no": "2686987",
+      "original": "&lt;CLGR&gt;Prepare “Ingots” to be used as materials for a storage container.^00*Number prepared will affect evaluation.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Подготовьте «Слитки» для использования в качестве материалов для контейнера для хранения.^00*Подготовленное количество повлияет на оценку.&lt;CLNR&gt;"
+    },
+    "pack02:2686988": {
+      "source": "pack02_text_en",
+      "file": "str_rankup_description.xml",
+      "string_no": "2686988",
+      "original": "&lt;CLGR&gt;Prepare “Kifas” to be used as materials for a Coll tree.^00*Number prepared will affect evaluation.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Подготовьте «Кифы» для использования в качестве материалов для дерева Колла.^00*Подготовленное количество повлияет на оценку.&lt;CLNR&gt;"
+    },
+    "pack02:2686989": {
+      "source": "pack02_text_en",
+      "file": "str_rankup_description.xml",
+      "string_no": "2686989",
+      "original": "&lt;CLGR&gt;Prepare “Imp’s Mischiefs” to be used as materials for a drug to weaken monsters.^00*Number prepared will affect evaluation.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Подготовьте «Проделки беса», которые будут использоваться в качестве материала для лекарства, ослабляющего монстров.^00*Подготовленное количество повлияет на оценку.&lt;CLNR&gt;"
+    },
+    "pack02:2686990": {
+      "source": "pack02_text_en",
+      "file": "str_rankup_description.xml",
+      "string_no": "2686990",
+      "original": "&lt;CLGR&gt;Prepare “Turtle Claws” to be used as materials for a medicine to make people taller.^00*Number prepared will affect evaluation.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Подготовьте «Черепашьи когти», которые будут использоваться в качестве материала для лекарства, повышающего рост людей.^00*Подготовленное количество повлияет на оценку.&lt;CLNR&gt;"
+    },
+    "pack02:2686991": {
+      "source": "pack02_text_en",
+      "file": "str_rankup_description.xml",
+      "string_no": "2686991",
+      "original": "&lt;CLGR&gt;Prepare “(Bombs)” to be used as materials for an incredibly powerful bomb.^00*Number prepared will affect evaluation.&lt;CLNR&gt;",
+      "translation": "&lt;CLGR&gt;Подготовьте «(Бомбы)», которые будут использоваться в качестве материалов для невероятно мощной бомбы.^00*Подготовленное количество повлияет на оценку.&lt;CLNR&gt;"
+    }
+  }
+}

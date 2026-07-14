@@ -1,0 +1,260 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_ui_photo_mode.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:55836673": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836673",
+      "original": "Filter",
+      "translation": "Фильтр"
+    },
+    "pack02:55836674": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836674",
+      "original": "Frame",
+      "translation": "Рамка"
+    },
+    "pack02:55836675": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836675",
+      "original": "Time Period",
+      "translation": "Время суток"
+    },
+    "pack02:55836676": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836676",
+      "original": "Depth of Field",
+      "translation": "Глубина резкости"
+    },
+    "pack02:55836677": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836677",
+      "original": "NPC/Enemy",
+      "translation": "НИП/монстры"
+    },
+    "pack02:55836678": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836678",
+      "original": "&lt;IM04&gt;: Rotate character mode",
+      "translation": "&lt;IM04&gt;: Режим управления персонажем"
+    },
+    "pack02:55836679": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836679",
+      "original": "&lt;IM09&gt;: Select item",
+      "translation": "&lt;IM09&gt;: Выбор пункта"
+    },
+    "pack02:55836680": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836680",
+      "original": "&lt;IM08&gt;: Change selection",
+      "translation": "&lt;IM08&gt;: Смена пункта"
+    },
+    "pack02:55836681": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836681",
+      "original": "&lt;IM26&gt;: Move camera",
+      "translation": "&lt;IM26&gt;: Движение камеры"
+    },
+    "pack02:55836682": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836682",
+      "original": "&lt;IM27&gt;: Rotate camera",
+      "translation": "&lt;IM27&gt;: Вращение камеры"
+    },
+    "pack02:55836683": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836683",
+      "original": "&lt;IM11&gt;&lt;IM15&gt;: Roll",
+      "translation": "&lt;IM11&gt;&lt;IM15&gt;: Крен"
+    },
+    "pack02:55836684": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836684",
+      "original": "&lt;IM13&gt;&lt;IM17&gt;: Zoom",
+      "translation": "&lt;IM13&gt;&lt;IM17&gt;: Масштаб"
+    },
+    "pack02:55836685": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836685",
+      "original": "&lt;IM28&gt;: Reset camera",
+      "translation": "&lt;IM28&gt;: Сброс камеры"
+    },
+    "pack02:55836686": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836686",
+      "original": "&lt;IM06&gt;: Switch control speed",
+      "translation": "&lt;IM06&gt;: Смена скорости управления"
+    },
+    "pack02:55836687": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836687",
+      "original": "&lt;IM19&gt;: Switch UI display",
+      "translation": "&lt;IM19&gt;: Переключение интерфейса"
+    },
+    "pack02:55836688": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836688",
+      "original": "&lt;IM02&gt;: Finish",
+      "translation": "&lt;IM02&gt;: Выход"
+    },
+    "pack02:55836689": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836689",
+      "original": "&lt;IM09&gt;: Change character",
+      "translation": "&lt;IM09&gt;: Выбор персонажа"
+    },
+    "pack02:55836690": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836690",
+      "original": "&lt;IM00&gt;: Confirm",
+      "translation": "&lt;IM00&gt;: Подтверждение"
+    },
+    "pack02:55836691": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836691",
+      "original": "&lt;IM02&gt;: Rotate camera mode",
+      "translation": "&lt;IM02&gt;: Режим управления камерой"
+    },
+    "pack02:55836692": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836692",
+      "original": "Display",
+      "translation": "Отображение"
+    },
+    "pack02:55836693": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836693",
+      "original": "&lt;IM26&gt;: Horizontal movement",
+      "translation": "&lt;IM26&gt;: Движение по горизонтали"
+    },
+    "pack02:55836694": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836694",
+      "original": "&lt;IM27&gt;: Rotate",
+      "translation": "&lt;IM27&gt;: Поворот"
+    },
+    "pack02:55836695": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836695",
+      "original": "&lt;IM11&gt;&lt;IM15&gt;: Vertical movement",
+      "translation": "&lt;IM11&gt;&lt;IM15&gt;: Движение по вертикали"
+    },
+    "pack02:55836696": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836696",
+      "original": "&lt;IM28&gt;: Focus",
+      "translation": "&lt;IM28&gt;: Фокусировка"
+    },
+    "pack02:55836697": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836697",
+      "original": "&lt;IM02&gt;: Character selection",
+      "translation": "&lt;IM02&gt;: Выбор персонажа"
+    },
+    "pack02:55836698": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836698",
+      "original": "&lt;IM08&gt;: NPC/enemy control",
+      "translation": "&lt;IM08&gt;: Управление НИП/врагами"
+    },
+    "pack02:55836699": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836699",
+      "original": "&lt;IM08&gt;: Party control",
+      "translation": "&lt;IM08&gt;: Управление группой"
+    },
+    "pack02:55836700": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836700",
+      "original": "&lt;IM00&gt;: Change displayed character",
+      "translation": "&lt;IM00&gt;: Смена отображаемого персонажа"
+    },
+    "pack02:55836701": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836701",
+      "original": "Character",
+      "translation": "НИП/монстр"
+    },
+    "pack02:55836702": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836702",
+      "original": "&lt;IM10&gt;: Select displayed character",
+      "translation": "&lt;IM10&gt;: Выбор отображаемого персонажа"
+    },
+    "pack02:55836703": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836703",
+      "original": "&lt;IM02&gt;: Back",
+      "translation": "&lt;IM02&gt;: Назад"
+    },
+    "pack02:55836704": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836704",
+      "original": "Pause",
+      "translation": "Поза"
+    },
+    "pack02:55836705": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836705",
+      "original": "Facial Expression",
+      "translation": "Выражение лица"
+    },
+    "pack02:55836706": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836706",
+      "original": "Focus Distance",
+      "translation": "Фокусировка"
+    },
+    "pack02:55836707": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836707",
+      "original": "Aperture",
+      "translation": "Размытие"
+    },
+    "pack02:55836708": {
+      "source": "pack02_text_en",
+      "file": "str_ui_photo_mode.xml",
+      "string_no": "55836708",
+      "original": "Photo Mode",
+      "translation": "Фото"
+    }
+  }
+}

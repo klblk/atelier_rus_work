@@ -1,0 +1,365 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_fm_photo_mode.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:55771137": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771137",
+      "original": "Sharpen (L)",
+      "translation": "Резкость (слабо)"
+    },
+    "pack02:55771138": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771138",
+      "original": "Sharpen (H)",
+      "translation": "Резкость (сильно)"
+    },
+    "pack02:55771139": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771139",
+      "original": "Blur (L)",
+      "translation": "Размытие (слабо)"
+    },
+    "pack02:55771140": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771140",
+      "original": "Blur (H)",
+      "translation": "Размытие (сильно)"
+    },
+    "pack02:55771141": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771141",
+      "original": "Monochrome",
+      "translation": "Чёрно-белый"
+    },
+    "pack02:55771142": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771142",
+      "original": "Sepia",
+      "translation": "Сепия"
+    },
+    "pack02:55771143": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771143",
+      "original": "High Saturation",
+      "translation": "Насыщенность"
+    },
+    "pack02:55771144": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771144",
+      "original": "Miniature",
+      "translation": "Миниатюра"
+    },
+    "pack02:55771145": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771145",
+      "original": "High Contrast",
+      "translation": "Сильный контраст"
+    },
+    "pack02:55771146": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771146",
+      "original": "Pastel",
+      "translation": "Пастельный цвета"
+    },
+    "pack02:55771147": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771147",
+      "original": "Enhance Blue",
+      "translation": "Усиленный синий"
+    },
+    "pack02:55771148": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771148",
+      "original": "Enhance Green",
+      "translation": "Усиленный зелёный"
+    },
+    "pack02:55771149": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771149",
+      "original": "Enhance Red",
+      "translation": "Усиленный красный"
+    },
+    "pack02:55771151": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771151",
+      "original": "Morning",
+      "translation": "Утро"
+    },
+    "pack02:55771152": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771152",
+      "original": "Day",
+      "translation": "День"
+    },
+    "pack02:55771153": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771153",
+      "original": "Dusk",
+      "translation": "Вечер"
+    },
+    "pack02:55771154": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771154",
+      "original": "Night",
+      "translation": "Ночь"
+    },
+    "pack02:55771156": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771156",
+      "original": "Photograph",
+      "translation": "Фотограф"
+    },
+    "pack02:55771157": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771157",
+      "original": "Wooden Frame",
+      "translation": "Деревянная"
+    },
+    "pack02:55771158": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771158",
+      "original": "Luxurious",
+      "translation": "Роскошная"
+    },
+    "pack02:55771159": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771159",
+      "original": "Lydie &amp; Suelle",
+      "translation": "Лидия и Сюэль"
+    },
+    "pack02:55771160": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771160",
+      "original": "Default",
+      "translation": "По умолчанию"
+    },
+    "pack02:55771162": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771162",
+      "original": "None",
+      "translation": "Нет"
+    },
+    "pack02:55771163": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771163",
+      "original": "Low",
+      "translation": "Слабо"
+    },
+    "pack02:55771164": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771164",
+      "original": "Medium",
+      "translation": "Средне"
+    },
+    "pack02:55771165": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771165",
+      "original": "High",
+      "translation": "Сильно"
+    },
+    "pack02:55771166": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771166",
+      "original": "Photo Mode",
+      "translation": "Фото"
+    },
+    "pack02:55771167": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771167",
+      "original": "End Photo Mode?",
+      "translation": "Выйти из фоторежима?"
+    },
+    "pack02:55771169": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771169",
+      "original": "Standing (Regular)",
+      "translation": "Стойка (обычная)"
+    },
+    "pack02:55771170": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771170",
+      "original": "Standing (Special)",
+      "translation": "Стойка (особая)"
+    },
+    "pack02:55771171": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771171",
+      "original": "Happy",
+      "translation": "Радость"
+    },
+    "pack02:55771172": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771172",
+      "original": "Angry",
+      "translation": "Злость"
+    },
+    "pack02:55771173": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771173",
+      "original": "Sad",
+      "translation": "Печаль"
+    },
+    "pack02:55771174": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771174",
+      "original": "Surprised",
+      "translation": "Удивление"
+    },
+    "pack02:55771175": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771175",
+      "original": "Thinking",
+      "translation": "Обдумывание"
+    },
+    "pack02:55771176": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771176",
+      "original": "Pose 1",
+      "translation": "Поза 1"
+    },
+    "pack02:55771177": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771177",
+      "original": "Pose 2",
+      "translation": "Поза 2"
+    },
+    "pack02:55771178": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771178",
+      "original": "Pose 3",
+      "translation": "Поза 3"
+    },
+    "pack02:55771179": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771179",
+      "original": "Standing (Battle)",
+      "translation": "Боевая стойка"
+    },
+    "pack02:55771180": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771180",
+      "original": "Victory Pose",
+      "translation": "Победная поза"
+    },
+    "pack02:55771181": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771181",
+      "original": "Level Up",
+      "translation": "Уровень ↑"
+    },
+    "pack02:55771182": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771182",
+      "original": "Battle Pose 1",
+      "translation": "Боевая поза 1"
+    },
+    "pack02:55771183": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771183",
+      "original": "Battle Pose 2",
+      "translation": "Боевая поза 2"
+    },
+    "pack02:55771184": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771184",
+      "original": "Battle Pose 3",
+      "translation": "Боевая поза 3"
+    },
+    "pack02:55771187": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771187",
+      "original": "Dissatisfied",
+      "translation": "Недовольство"
+    },
+    "pack02:55771188": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771188",
+      "original": "Serious",
+      "translation": "Серьёзность"
+    },
+    "pack02:55771189": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771189",
+      "original": "Reproachful",
+      "translation": "Упрёк"
+    },
+    "pack02:55771190": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771190",
+      "original": "Troubled",
+      "translation": "Озабоченность"
+    },
+    "pack02:55771192": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771192",
+      "original": "Battle Pose 4",
+      "translation": "Боевая поза 4"
+    },
+    "pack02:55771193": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771193",
+      "original": "Battle Pose 5",
+      "translation": "Боевая поза 5"
+    },
+    "pack02:55771195": {
+      "source": "pack02_text_en",
+      "file": "str_fm_photo_mode.xml",
+      "string_no": "55771195",
+      "original": "Plachta (human)",
+      "translation": "Плахта (человек)"
+    }
+  }
+}

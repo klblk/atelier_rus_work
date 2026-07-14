@@ -1,0 +1,4425 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_action_name.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:19922945": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922945",
+      "original": "Bash",
+      "translation": "Сильный удар"
+    },
+    "pack02:19922946": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922946",
+      "original": "Defensive Blow",
+      "translation": "Защитный удар"
+    },
+    "pack02:19922947": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922947",
+      "original": "Battle Cry",
+      "translation": "Боевой клич"
+    },
+    "pack02:19922948": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922948",
+      "original": "Guide to Defense",
+      "translation": "Путь к защите"
+    },
+    "pack02:19922949": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922949",
+      "original": "Wish of Recovery",
+      "translation": "Желание исцеления"
+    },
+    "pack02:19922950": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922950",
+      "original": "Mental Support",
+      "translation": "Поддержка духа"
+    },
+    "pack02:19922951": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922951",
+      "original": "Physical Support",
+      "translation": "Физическая поддержка"
+    },
+    "pack02:19922952": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922952",
+      "original": "Follow Heal",
+      "translation": "Следующее исцеление"
+    },
+    "pack02:19922953": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922953",
+      "original": "Elemental Charge",
+      "translation": "Стихийный заряд"
+    },
+    "pack02:19922954": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922954",
+      "original": "Medical Call",
+      "translation": "Медицинский вызов"
+    },
+    "pack02:19922955": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922955",
+      "original": "Gentle Heart",
+      "translation": "Нежное сердце"
+    },
+    "pack02:19922956": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922956",
+      "original": "Nature’s Protection",
+      "translation": "Защита природы"
+    },
+    "pack02:19922957": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922957",
+      "original": "Philanthropic Mind",
+      "translation": "Благотворительный дух"
+    },
+    "pack02:19922958": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922958",
+      "original": "Spring of Knowledge",
+      "translation": "Источник знаний"
+    },
+    "pack02:19922959": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922959",
+      "original": "Battle Mix",
+      "translation": "Боевой синтез"
+    },
+    "pack02:19922960": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922960",
+      "original": "Shot",
+      "translation": "Выстрел"
+    },
+    "pack02:19922961": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922961",
+      "original": "Quick Trigger",
+      "translation": "Быстрый спуск"
+    },
+    "pack02:19922962": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922962",
+      "original": "Special Reload",
+      "translation": "Спец. перезарядка"
+    },
+    "pack02:19922963": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922963",
+      "original": "Fatal Snipe",
+      "translation": "Смертельный выстрел"
+    },
+    "pack02:19922964": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922964",
+      "original": "Swift Barrage",
+      "translation": "Стремительный обстрел"
+    },
+    "pack02:19922965": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922965",
+      "original": "Cover Fire",
+      "translation": "Прикрывающий огонь"
+    },
+    "pack02:19922966": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922966",
+      "original": "Deadly Sniper",
+      "translation": "Смертоносный снайпер"
+    },
+    "pack02:19922967": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922967",
+      "original": "Diffusion Shot",
+      "translation": "Диффузионный выстрел"
+    },
+    "pack02:19922968": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922968",
+      "original": "Rapid Fire",
+      "translation": "Быстрый огонь"
+    },
+    "pack02:19922969": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922969",
+      "original": "Empty Clip",
+      "translation": "Пустой магазин"
+    },
+    "pack02:19922970": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922970",
+      "original": "Queen of Mischief",
+      "translation": "Королева шалостей"
+    },
+    "pack02:19922971": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922971",
+      "original": "Talent for Strategy",
+      "translation": "Талант стратега"
+    },
+    "pack02:19922972": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922972",
+      "original": "Competitor’s Prize",
+      "translation": "Награда соперника"
+    },
+    "pack02:19922973": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922973",
+      "original": "Beautiful Pixie",
+      "translation": "Прекрасная фея"
+    },
+    "pack02:19922974": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922974",
+      "original": "Battle Mix",
+      "translation": "Боевой синтез"
+    },
+    "pack02:19922975": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922975",
+      "original": "Shoot",
+      "translation": "Стрельба"
+    },
+    "pack02:19922976": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922976",
+      "original": "Lil’ Damper",
+      "translation": "Малый гаситель"
+    },
+    "pack02:19922977": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922977",
+      "original": "Helio Strike",
+      "translation": "Удар Гелиоса"
+    },
+    "pack02:19922978": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922978",
+      "original": "Flore Mirage",
+      "translation": "Мираж цветов"
+    },
+    "pack02:19922979": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922979",
+      "original": "Prism Shooter",
+      "translation": "Призменный стрелок"
+    },
+    "pack02:19922980": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922980",
+      "original": "Pile Sniper",
+      "translation": "Снайпер «Штабель»"
+    },
+    "pack02:19922981": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922981",
+      "original": "Azlight Train",
+      "translation": "Поезд Азсвета"
+    },
+    "pack02:19922982": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922982",
+      "original": "Ignition Arrow",
+      "translation": "Зажигательная стрела"
+    },
+    "pack02:19922983": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922983",
+      "original": "Seraph Storm",
+      "translation": "Буря Серафима"
+    },
+    "pack02:19922984": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922984",
+      "original": "Corundum Nova",
+      "translation": "Корундовая нова"
+    },
+    "pack02:19922985": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922985",
+      "original": "Very Healthy Body",
+      "translation": "Крепкое телосложение"
+    },
+    "pack02:19922986": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922986",
+      "original": "Carefree Girl",
+      "translation": "Беззаботная девочка"
+    },
+    "pack02:19922987": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922987",
+      "original": "My Sister’s Bow",
+      "translation": "Лук моей сестры"
+    },
+    "pack02:19922988": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922988",
+      "original": "Wealth of Experience",
+      "translation": "Богатство опыта"
+    },
+    "pack02:19922989": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922989",
+      "original": "Stand-in Defense",
+      "translation": "Защита вместо других"
+    },
+    "pack02:19922990": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922990",
+      "original": "Hard Knocks",
+      "translation": "Суровые уроки"
+    },
+    "pack02:19922991": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922991",
+      "original": "Aura Cannon",
+      "translation": "Пушка ауры"
+    },
+    "pack02:19922992": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922992",
+      "original": "Aura Record",
+      "translation": "Запись ауры"
+    },
+    "pack02:19922993": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922993",
+      "original": "Aura Bind",
+      "translation": "Связывание ауры"
+    },
+    "pack02:19922994": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922994",
+      "original": "Down Sphere",
+      "translation": "Сфера понижения"
+    },
+    "pack02:19922995": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922995",
+      "original": "Mysterious Capsule",
+      "translation": "Загадочная капсула"
+    },
+    "pack02:19922996": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922996",
+      "original": "Transmigration Elixir",
+      "translation": "Эликсир перерождения"
+    },
+    "pack02:19922997": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922997",
+      "original": "Cast Bomb",
+      "translation": "Метательная бомба"
+    },
+    "pack02:19922998": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922998",
+      "original": "Blast Symbol",
+      "translation": "Символ взрыва"
+    },
+    "pack02:19922999": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19922999",
+      "original": "True Law of Profusion",
+      "translation": "Истинный закон изобилия"
+    },
+    "pack02:19923000": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923000",
+      "original": "Wisdom of Alchemy",
+      "translation": "Мудрость алхимии"
+    },
+    "pack02:19923001": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923001",
+      "original": "Tool Expert",
+      "translation": "Мастер инструментов"
+    },
+    "pack02:19923002": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923002",
+      "original": "Following a Dream",
+      "translation": "Следование мечте"
+    },
+    "pack02:19923003": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923003",
+      "original": "Voice of Guidance",
+      "translation": "Голос наставления"
+    },
+    "pack02:19923004": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923004",
+      "original": "Stand-in Defense",
+      "translation": "Защита вместо других"
+    },
+    "pack02:19923005": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923005",
+      "original": "Slash",
+      "translation": "Рубящий удар"
+    },
+    "pack02:19923006": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923006",
+      "original": "Temple Slide",
+      "translation": "Скольжение храма"
+    },
+    "pack02:19923007": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923007",
+      "original": "Crusade Charge",
+      "translation": "Рыцарский натиск"
+    },
+    "pack02:19923008": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923008",
+      "original": "Accel Guard",
+      "translation": "Ускоренная защита"
+    },
+    "pack02:19923009": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923009",
+      "original": "Beast Mode",
+      "translation": "Звериный режим"
+    },
+    "pack02:19923010": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923010",
+      "original": "Testament Oath",
+      "translation": "Заветная клятва"
+    },
+    "pack02:19923011": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923011",
+      "original": "Full Advantage",
+      "translation": "Полное преимущество"
+    },
+    "pack02:19923012": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923012",
+      "original": "Glory’s Fate",
+      "translation": "Судьба славы"
+    },
+    "pack02:19923013": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923013",
+      "original": "First Aid",
+      "translation": "Первая помощь"
+    },
+    "pack02:19923014": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923014",
+      "original": "Grand Guardian",
+      "translation": "Великий страж"
+    },
+    "pack02:19923015": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923015",
+      "original": "Sky Guardian",
+      "translation": "Небесный страж"
+    },
+    "pack02:19923016": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923016",
+      "original": "A Heavy Burden",
+      "translation": "Тяжёлое бремя"
+    },
+    "pack02:19923017": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923017",
+      "original": "Knight's Pride",
+      "translation": "Рыцарская гордость"
+    },
+    "pack02:19923018": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923018",
+      "original": "Veteran Player",
+      "translation": "Опытный боец"
+    },
+    "pack02:19923019": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923019",
+      "original": "Stand-in Defense",
+      "translation": "Защита вместо других"
+    },
+    "pack02:19923020": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923020",
+      "original": "Weapon",
+      "translation": "Оружие"
+    },
+    "pack02:19923021": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923021",
+      "original": "Wedge of the Sun",
+      "translation": "Клин солнца"
+    },
+    "pack02:19923022": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923022",
+      "original": "Sea God’s Judgment",
+      "translation": "Суд морского бога"
+    },
+    "pack02:19923023": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923023",
+      "original": "Thunderbolt’s Wrath",
+      "translation": "Гнев грома"
+    },
+    "pack02:19923024": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923024",
+      "original": "Oath of Glass",
+      "translation": "Клятва стекла"
+    },
+    "pack02:19923025": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923025",
+      "original": "Lion’s Roar",
+      "translation": "Львиный рёв"
+    },
+    "pack02:19923026": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923026",
+      "original": "Dwarf Star’s Ferocity",
+      "translation": "Ярость карликовой звезды"
+    },
+    "pack02:19923027": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923027",
+      "original": "Monthly Censure",
+      "translation": "Месячное порицание"
+    },
+    "pack02:19923028": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923028",
+      "original": "Cedar Dance",
+      "translation": "Танец кедра"
+    },
+    "pack02:19923029": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923029",
+      "original": "Nihilist’s Requiem",
+      "translation": "Реквием нигилиста"
+    },
+    "pack02:19923030": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923030",
+      "original": "Unbridled Curiosity",
+      "translation": "Необузданное любопытство"
+    },
+    "pack02:19923031": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923031",
+      "original": "Secret Justice",
+      "translation": "Тайная справедливость"
+    },
+    "pack02:19923032": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923032",
+      "original": "Leader of Prophecy",
+      "translation": "Вожак пророчества"
+    },
+    "pack02:19923033": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923033",
+      "original": "Stoic's Pride",
+      "translation": "Стоическая гордость"
+    },
+    "pack02:19923034": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923034",
+      "original": "Stand-in Defense",
+      "translation": "Защита вместо других"
+    },
+    "pack02:19923035": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923035",
+      "original": "Flow",
+      "translation": "Поток"
+    },
+    "pack02:19923036": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923036",
+      "original": "Iron Wall Command",
+      "translation": "Приказ «Железная стена»"
+    },
+    "pack02:19923037": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923037",
+      "original": "Open Battle Command",
+      "translation": "Приказ «Открытый бой»"
+    },
+    "pack02:19923038": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923038",
+      "original": "Recovery Command",
+      "translation": "Приказ восстановления"
+    },
+    "pack02:19923039": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923039",
+      "original": "Rally Decree",
+      "translation": "Указ о сплочении"
+    },
+    "pack02:19923040": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923040",
+      "original": "Resistance Order",
+      "translation": "Приказ сопротивления"
+    },
+    "pack02:19923041": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923041",
+      "original": "Battle Prep Order",
+      "translation": "Приказ боевой подготовки"
+    },
+    "pack02:19923042": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923042",
+      "original": "Charge Order",
+      "translation": "Приказ заряда"
+    },
+    "pack02:19923043": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923043",
+      "original": "Continuation Order",
+      "translation": "Приказ продолжения"
+    },
+    "pack02:19923044": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923044",
+      "original": "Subjugation Order",
+      "translation": "Приказ подавления"
+    },
+    "pack02:19923045": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923045",
+      "original": "Borthayre’s Master",
+      "translation": "Мастер Бортайра"
+    },
+    "pack02:19923046": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923046",
+      "original": "Unattainable Object?",
+      "translation": "Недостижимая цель?"
+    },
+    "pack02:19923047": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923047",
+      "original": "Hidden Talents",
+      "translation": "Скрытые таланты"
+    },
+    "pack02:19923048": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923048",
+      "original": "Elder Sister's Pride",
+      "translation": "Гордость старшей сестры"
+    },
+    "pack02:19923049": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923049",
+      "original": "Stand-in Defense",
+      "translation": "Защита вместо других"
+    },
+    "pack02:19923050": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923050",
+      "original": "Battle Mix",
+      "translation": "Боевой синтез"
+    },
+    "pack02:19923051": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923051",
+      "original": "Spirit",
+      "translation": "Дух"
+    },
+    "pack02:19923052": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923052",
+      "original": "Blaze Slow",
+      "translation": "Пламенное замедление"
+    },
+    "pack02:19923053": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923053",
+      "original": "Spirit Heal",
+      "translation": "Исцеление духа"
+    },
+    "pack02:19923054": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923054",
+      "original": "Enhanced Burst",
+      "translation": "Усиленный взрыв"
+    },
+    "pack02:19923055": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923055",
+      "original": "Overload",
+      "translation": "Перегрузка"
+    },
+    "pack02:19923056": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923056",
+      "original": "Flame Disaster",
+      "translation": "Огненная катастрофа"
+    },
+    "pack02:19923057": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923057",
+      "original": "Heat Mine",
+      "translation": "Тепловая мина"
+    },
+    "pack02:19923058": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923058",
+      "original": "Meteor Mine",
+      "translation": "Метеоритная мина"
+    },
+    "pack02:19923059": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923059",
+      "original": "Alchemic Buster",
+      "translation": "Алхимический разряд"
+    },
+    "pack02:19923060": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923060",
+      "original": "Elemental Revive",
+      "translation": "Стихийное воскрешение"
+    },
+    "pack02:19923061": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923061",
+      "original": "Hard Work's Reward",
+      "translation": "Награда за труд"
+    },
+    "pack02:19923062": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923062",
+      "original": "Bursting with Pride",
+      "translation": "Льющаяся гордость"
+    },
+    "pack02:19923063": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923063",
+      "original": "Outstanding Genius Alchemist",
+      "translation": "Выдающийся гениальный алхимик"
+    },
+    "pack02:19923064": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923064",
+      "original": "Leader's Guidance",
+      "translation": "Наставление лидера"
+    },
+    "pack02:19923065": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923065",
+      "original": "Stand-in Defense",
+      "translation": "Защита вместо других"
+    },
+    "pack02:19923066": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923066",
+      "original": "Battle Mix",
+      "translation": "Боевой синтез"
+    },
+    "pack02:19923067": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923067",
+      "original": "True Twin Power Attack",
+      "translation": "Истинная атака силы близнецов"
+    },
+    "pack02:19923068": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923068",
+      "original": "Rainbow Codex",
+      "translation": "Радужный кодекс"
+    },
+    "pack02:19923069": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923069",
+      "original": "Sanctuaire of Demise",
+      "translation": "Святилище гибели"
+    },
+    "pack02:19923070": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923070",
+      "original": "Firis and Sue Surprise",
+      "translation": "Сюрприз Фирис и Сью"
+    },
+    "pack02:19923071": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923071",
+      "original": "Full-Power Gunplay",
+      "translation": "Полномощная перестрелка"
+    },
+    "pack02:19923072": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923072",
+      "original": "Alchemy of Happiness",
+      "translation": "Алхимия счастья"
+    },
+    "pack02:19923073": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923073",
+      "original": "Einzelkampf",
+      "translation": "Айнзелькамф"
+    },
+    "pack02:19923074": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923074",
+      "original": "Avars Order",
+      "translation": "Приказ Аварса"
+    },
+    "pack02:19923075": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923075",
+      "original": "Rules of Chaos",
+      "translation": "Правила хаоса"
+    },
+    "pack02:19923076": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923076",
+      "original": "Crimson Treasures",
+      "translation": "Багряные сокровища"
+    },
+    "pack02:19923077": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923077",
+      "original": "Four Pillars of Heaven Judgment",
+      "translation": "Суд четырёх небесных столпов"
+    },
+    "pack02:19923078": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923078",
+      "original": "Pounce",
+      "translation": "Нападение"
+    },
+    "pack02:19923079": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923079",
+      "original": "Spin Attack",
+      "translation": "Кручёная атака"
+    },
+    "pack02:19923080": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923080",
+      "original": "Whirl Attack",
+      "translation": "Вихревая атака"
+    },
+    "pack02:19923081": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923081",
+      "original": "Prayer",
+      "translation": "Молитва"
+    },
+    "pack02:19923082": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923082",
+      "original": "Cheer Up",
+      "translation": "Боевой настрой"
+    },
+    "pack02:19923083": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923083",
+      "original": "Head Attack",
+      "translation": "Удар головой"
+    },
+    "pack02:19923084": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923084",
+      "original": "Horn Tackle",
+      "translation": "Рогатый снаряд"
+    },
+    "pack02:19923085": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923085",
+      "original": "Jumping Horn",
+      "translation": "Озорной рог"
+    },
+    "pack02:19923086": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923086",
+      "original": "Tunnel Attack",
+      "translation": "Пробивающая атака"
+    },
+    "pack02:19923087": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923087",
+      "original": "Smash",
+      "translation": "Удар"
+    },
+    "pack02:19923088": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923088",
+      "original": "Curious Powder",
+      "translation": "Странный порошок"
+    },
+    "pack02:19923089": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923089",
+      "original": "Flower Blessing",
+      "translation": "Цветок благословения"
+    },
+    "pack02:19923090": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923090",
+      "original": "Leaf Storm",
+      "translation": "Шторм лепестков"
+    },
+    "pack02:19923091": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923091",
+      "original": "Leaf Slicer",
+      "translation": "Лепестковый рассекатель"
+    },
+    "pack02:19923092": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923092",
+      "original": "Throw",
+      "translation": "Бросок"
+    },
+    "pack02:19923093": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923093",
+      "original": "Strong Throw",
+      "translation": "Мощный бросок"
+    },
+    "pack02:19923094": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923094",
+      "original": "Hoist",
+      "translation": "Залп"
+    },
+    "pack02:19923095": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923095",
+      "original": "Confused Throw",
+      "translation": "Выбивающий снаряд"
+    },
+    "pack02:19923096": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923096",
+      "original": "Dangerous Bite",
+      "translation": "Опасный укус"
+    },
+    "pack02:19923097": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923097",
+      "original": "Ultrasonic Wave",
+      "translation": "Ультразвуковая волна"
+    },
+    "pack02:19923098": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923098",
+      "original": "Twist Claw",
+      "translation": "Кручёный коготь"
+    },
+    "pack02:19923099": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923099",
+      "original": "Induce Tornado",
+      "translation": "Торнадо"
+    },
+    "pack02:19923100": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923100",
+      "original": "Tail Blow",
+      "translation": "Удар хвостом"
+    },
+    "pack02:19923101": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923101",
+      "original": "Spore Spray",
+      "translation": "Споры"
+    },
+    "pack02:19923102": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923102",
+      "original": "Bite",
+      "translation": "Укус"
+    },
+    "pack02:19923103": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923103",
+      "original": "Rocket Attack",
+      "translation": "Ракетная атака"
+    },
+    "pack02:19923104": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923104",
+      "original": "Turtle Head",
+      "translation": "Удар головой"
+    },
+    "pack02:19923105": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923105",
+      "original": "Paralyze Breath",
+      "translation": "Парализующее дыхание"
+    },
+    "pack02:19923106": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923106",
+      "original": "Diamond Shell",
+      "translation": "Алмазная броня"
+    },
+    "pack02:19923107": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923107",
+      "original": "Rolling Turtle",
+      "translation": "Кручёный панцирь"
+    },
+    "pack02:19923108": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923108",
+      "original": "Tentacle",
+      "translation": "Взмах щупальцем"
+    },
+    "pack02:19923109": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923109",
+      "original": "Tentacle Blow",
+      "translation": "Удар щупальцем"
+    },
+    "pack02:19923110": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923110",
+      "original": "Discharge",
+      "translation": "Разряд"
+    },
+    "pack02:19923111": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923111",
+      "original": "Death Touch",
+      "translation": "Смертельное касание"
+    },
+    "pack02:19923112": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923112",
+      "original": "Deadly Mist",
+      "translation": "Смертельная мгла"
+    },
+    "pack02:19923113": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923113",
+      "original": "Crush",
+      "translation": "Удар"
+    },
+    "pack02:19923114": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923114",
+      "original": "Clench",
+      "translation": "Выпад"
+    },
+    "pack02:19923115": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923115",
+      "original": "Bash",
+      "translation": "Сильный удар"
+    },
+    "pack02:19923116": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923116",
+      "original": "Blow",
+      "translation": "Удар"
+    },
+    "pack02:19923117": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923117",
+      "original": "Pulse",
+      "translation": "Импульс"
+    },
+    "pack02:19923118": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923118",
+      "original": "Sharp Swipe",
+      "translation": "Острый удар"
+    },
+    "pack02:19923119": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923119",
+      "original": "Flame Spray",
+      "translation": "Пламенное распыление"
+    },
+    "pack02:19923120": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923120",
+      "original": "Sky Assault",
+      "translation": "Воздушная атака"
+    },
+    "pack02:19923121": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923121",
+      "original": "Beast's Roar",
+      "translation": "Рык Зверька"
+    },
+    "pack02:19923122": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923122",
+      "original": "High Speed Tackle",
+      "translation": "Быстрый кувырок"
+    },
+    "pack02:19923123": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923123",
+      "original": "Pure Amusement",
+      "translation": "Чистое веселье"
+    },
+    "pack02:19923124": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923124",
+      "original": "High Fallen",
+      "translation": "Мощное пикирование"
+    },
+    "pack02:19923125": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923125",
+      "original": "Astral Omega",
+      "translation": "Астрал омега"
+    },
+    "pack02:19923126": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923126",
+      "original": "Astral Sigma",
+      "translation": "Астрал сигма"
+    },
+    "pack02:19923127": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923127",
+      "original": "Elementis of Demise",
+      "translation": "Элементы краха"
+    },
+    "pack02:19923128": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923128",
+      "original": "Grand Eternia",
+      "translation": "Великая вечность"
+    },
+    "pack02:19923129": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923129",
+      "original": "Eternal Blossom",
+      "translation": "Цветок вечности"
+    },
+    "pack02:19923130": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923130",
+      "original": "Four Spirit Prayer",
+      "translation": "Мольба четырём духам"
+    },
+    "pack02:19923131": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923131",
+      "original": "Blade of Vengeance",
+      "translation": "Клинок отмщения"
+    },
+    "pack02:19923132": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923132",
+      "original": "Flash of Despair",
+      "translation": "Вспышка отчаяния"
+    },
+    "pack02:19923133": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923133",
+      "original": "Sweep of Ruin",
+      "translation": "Чистильщик руин"
+    },
+    "pack02:19923134": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923134",
+      "original": "Absorb Morale",
+      "translation": "Поглощение морали"
+    },
+    "pack02:19923135": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923135",
+      "original": "Convergence Wave",
+      "translation": "Волна конвергенции"
+    },
+    "pack02:19923136": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923136",
+      "original": "Spirit Bomb",
+      "translation": "Спиритическая бомба"
+    },
+    "pack02:19923137": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923137",
+      "original": "Revenant Slash",
+      "translation": "Удар призрака"
+    },
+    "pack02:19923138": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923138",
+      "original": "Lace Form",
+      "translation": "Форма призрака"
+    },
+    "pack02:19923139": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923139",
+      "original": "Shadow Bite",
+      "translation": "Теневой укус"
+    },
+    "pack02:19923140": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923140",
+      "original": "Hell Blast",
+      "translation": "Адский удар"
+    },
+    "pack02:19923141": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923141",
+      "original": "Destroy End",
+      "translation": "Заканчивающий удар"
+    },
+    "pack02:19923142": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923142",
+      "original": "Wind of Hades",
+      "translation": "Ветра Аида"
+    },
+    "pack02:19923143": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923143",
+      "original": "Smasher",
+      "translation": "Сокрушитель"
+    },
+    "pack02:19923144": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923144",
+      "original": "World Collapse",
+      "translation": "Крах мира"
+    },
+    "pack02:19923145": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923145",
+      "original": "Summon Barrier",
+      "translation": "Барьер"
+    },
+    "pack02:19923146": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923146",
+      "original": "Soul Bond",
+      "translation": "Узы души"
+    },
+    "pack02:19923147": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923147",
+      "original": "Suijin Sange",
+      "translation": "Водяные лезвия"
+    },
+    "pack02:19923148": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923148",
+      "original": "Godslayer's Fang",
+      "translation": "Клык богоубийцы"
+    },
+    "pack02:19923149": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923149",
+      "original": "Water Bomb",
+      "translation": "Водяная бомба"
+    },
+    "pack02:19923150": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923150",
+      "original": "Cleansing Rain",
+      "translation": "Очищающий дождь"
+    },
+    "pack02:19923151": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923151",
+      "original": "Deep Flow",
+      "translation": "Мощный поток"
+    },
+    "pack02:19923152": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923152",
+      "original": "Hydro Pressure",
+      "translation": "Гидропресс"
+    },
+    "pack02:19923153": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923153",
+      "original": "Star Destroying Flood",
+      "translation": "Потоп, уничтожающий звёзды"
+    },
+    "pack02:19923154": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923154",
+      "original": "Deploy Sanctuary",
+      "translation": "Святилище"
+    },
+    "pack02:19923155": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923155",
+      "original": "Twin Blades",
+      "translation": "Двойные клинки"
+    },
+    "pack02:19923156": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923156",
+      "original": "Herculean Strength",
+      "translation": "Сила геркулеса"
+    },
+    "pack02:19923157": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923157",
+      "original": "Divine Summons",
+      "translation": "Призыв божества"
+    },
+    "pack02:19923158": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923158",
+      "original": "Sacred Recitation",
+      "translation": "Священная молва"
+    },
+    "pack02:19923159": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923159",
+      "original": "Mantra of Truth",
+      "translation": "Мантра истины"
+    },
+    "pack02:19923160": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923160",
+      "original": "Rage of the Gods",
+      "translation": "Ярость богов"
+    },
+    "pack02:19923161": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923161",
+      "original": "Twin Gods Judgment",
+      "translation": "Приговор двойного бога"
+    },
+    "pack02:19923162": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923162",
+      "original": "Divine Cadence",
+      "translation": "Божественная каденция"
+    },
+    "pack02:19923163": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923163",
+      "original": "Tackle",
+      "translation": "Снаряд"
+    },
+    "pack02:19923164": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923164",
+      "original": "Puni Breath",
+      "translation": "Дыхание пуни"
+    },
+    "pack02:19923165": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923165",
+      "original": "Puni Echo",
+      "translation": "Эхо пуни"
+    },
+    "pack02:19923166": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923166",
+      "original": "Puni God Breath",
+      "translation": "Дыхание бога пуни"
+    },
+    "pack02:19923167": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923167",
+      "original": "Overdrive",
+      "translation": "Перегрузка"
+    },
+    "pack02:19923168": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923168",
+      "original": "Puni Pressure",
+      "translation": "Прессище пуни"
+    },
+    "pack02:19923169": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923169",
+      "original": "Puni Press",
+      "translation": "Пресс пуни"
+    },
+    "pack02:19923170": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923170",
+      "original": "Flee",
+      "translation": "Пикирование"
+    },
+    "pack02:19923171": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923171",
+      "original": "Super Tackle",
+      "translation": "Супер снаряд"
+    },
+    "pack02:19923172": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923172",
+      "original": "Super Puni Breath",
+      "translation": "Мощное дыхание пуни"
+    },
+    "pack02:19923173": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923173",
+      "original": "Super Puni God Breath",
+      "translation": "Мощное дыхание бога пуни"
+    },
+    "pack02:19923174": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923174",
+      "original": "Super Overdrive",
+      "translation": "Супер перегрузка"
+    },
+    "pack02:19923175": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923175",
+      "original": "Super Puni Pressure",
+      "translation": "Супер прессище пуни"
+    },
+    "pack02:19923176": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923176",
+      "original": "Super Puni Press",
+      "translation": "Супер пресс пуни"
+    },
+    "pack02:19923177": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923177",
+      "original": "Straight",
+      "translation": "Удар по прямой"
+    },
+    "pack02:19923178": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923178",
+      "original": "Surprise",
+      "translation": "Сюрприз"
+    },
+    "pack02:19923179": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923179",
+      "original": "Eerie Smile",
+      "translation": "Жуткая улыбка"
+    },
+    "pack02:19923180": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923180",
+      "original": "Last Curse",
+      "translation": "Мощное проклятие"
+    },
+    "pack02:19923181": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923181",
+      "original": "Zero Draft",
+      "translation": "Нулевой драфт"
+    },
+    "pack02:19923182": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923182",
+      "original": "Hat Trick",
+      "translation": "Трюк со шляпой"
+    },
+    "pack02:19923183": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923183",
+      "original": "Magic World",
+      "translation": "Волшебный мир"
+    },
+    "pack02:19923184": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923184",
+      "original": "Flying Meteorite",
+      "translation": "Метеорит"
+    },
+    "pack02:19923185": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923185",
+      "original": "Super Gravity",
+      "translation": "Супер гравитация"
+    },
+    "pack02:19923186": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923186",
+      "original": "Strange Gift",
+      "translation": "Странный подарок"
+    },
+    "pack02:19923187": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923187",
+      "original": "Pigeon Dream",
+      "translation": "Воля птицы"
+    },
+    "pack02:19923188": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923188",
+      "original": "Ambition",
+      "translation": "Амбиции"
+    },
+    "pack02:19923189": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923189",
+      "original": "Haja War Cry",
+      "translation": "Боевой клич Хаджи"
+    },
+    "pack02:19923190": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923190",
+      "original": "Hell Fire Awakening",
+      "translation": "Пробуждение огня Ада"
+    },
+    "pack02:19923191": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923191",
+      "original": "Ruler's Sweep",
+      "translation": "Удар властителя"
+    },
+    "pack02:19923192": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923192",
+      "original": "Long Tail",
+      "translation": "Удар длинным хвостом"
+    },
+    "pack02:19923193": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923193",
+      "original": "Holy Breath",
+      "translation": "Святое дыхание"
+    },
+    "pack02:19923194": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923194",
+      "original": "Null Flicker",
+      "translation": "Нулевая вспышка"
+    },
+    "pack02:19923195": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923195",
+      "original": "Mercurius Cannon",
+      "translation": "Пушка Меркурия"
+    },
+    "pack02:19923196": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923196",
+      "original": "Galaxy Roar",
+      "translation": "Галактический рёв"
+    },
+    "pack02:19923197": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923197",
+      "original": "Ether Blaster",
+      "translation": "Эфирный залп"
+    },
+    "pack02:19923198": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923198",
+      "original": "Flame Gaze",
+      "translation": "Прожигающий взгляд"
+    },
+    "pack02:19923199": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923199",
+      "original": "Hell Wave",
+      "translation": "Адская волна"
+    },
+    "pack02:19923200": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923200",
+      "original": "Flare Rain",
+      "translation": "Огненный дождь"
+    },
+    "pack02:19923201": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923201",
+      "original": "Tera-Flame",
+      "translation": "Терапламя"
+    },
+    "pack02:19923202": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923202",
+      "original": "Ice Storm",
+      "translation": "Ледяной шторм"
+    },
+    "pack02:19923203": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923203",
+      "original": "Ice Volley",
+      "translation": "Ледяной залп"
+    },
+    "pack02:19923204": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923204",
+      "original": "Ice Rain",
+      "translation": "Ледяной дождь"
+    },
+    "pack02:19923205": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923205",
+      "original": "Blizzard",
+      "translation": "Метель"
+    },
+    "pack02:19923206": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923206",
+      "original": "Lightning",
+      "translation": "Молния"
+    },
+    "pack02:19923207": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923207",
+      "original": "Plasma Ray",
+      "translation": "Плазма-луч"
+    },
+    "pack02:19923208": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923208",
+      "original": "Thunder Rain",
+      "translation": "Грозовой дождь"
+    },
+    "pack02:19923209": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923209",
+      "original": "Vortex",
+      "translation": "Ураган"
+    },
+    "pack02:19923210": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923210",
+      "original": "Grand Ray",
+      "translation": "Мощный луч"
+    },
+    "pack02:19923211": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923211",
+      "original": "Tornado",
+      "translation": "Торнадо"
+    },
+    "pack02:19923212": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923212",
+      "original": "Tempest",
+      "translation": "Буря"
+    },
+    "pack02:19923213": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923213",
+      "original": "Calamity",
+      "translation": "Бедствие"
+    },
+    "pack02:19923214": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923214",
+      "original": "Call Meteor",
+      "translation": "Призыв метеора"
+    },
+    "pack02:19923215": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923215",
+      "original": "Silence",
+      "translation": "Тишина"
+    },
+    "pack02:19923216": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923216",
+      "original": "Nightmare",
+      "translation": "Кошмар"
+    },
+    "pack02:19923217": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923217",
+      "original": "Suffocate",
+      "translation": "Удушье"
+    },
+    "pack02:19923218": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923218",
+      "original": "Slow",
+      "translation": "Замедление"
+    },
+    "pack02:19923219": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923219",
+      "original": "Heal",
+      "translation": "Лечение"
+    },
+    "pack02:19923220": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923220",
+      "original": "Heal All",
+      "translation": "Общее лечение"
+    },
+    "pack02:19923221": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923221",
+      "original": "Refresh",
+      "translation": "Очищение"
+    },
+    "pack02:19923222": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923222",
+      "original": "Haste",
+      "translation": "Ускорение"
+    },
+    "pack02:19923223": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923223",
+      "original": "Power",
+      "translation": "Мощь"
+    },
+    "pack02:19923224": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923224",
+      "original": "Guard",
+      "translation": "Защита"
+    },
+    "pack02:19923225": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923225",
+      "original": "Enhance Item",
+      "translation": "Усиление предмета"
+    },
+    "pack02:19923226": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923226",
+      "original": "Accelerate Item",
+      "translation": "Ускорение предмета"
+    },
+    "pack02:19923227": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923227",
+      "original": "Enhance Skill",
+      "translation": "Усиление навыка"
+    },
+    "pack02:19923228": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923228",
+      "original": "Enhance Critical",
+      "translation": "Усиление крит. удара"
+    },
+    "pack02:19923229": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923229",
+      "original": "Damage Bonus",
+      "translation": "Бонус к урону"
+    },
+    "pack02:19923230": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923230",
+      "original": "Resist Stagger",
+      "translation": "Сопр. оглушению"
+    },
+    "pack02:19923231": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923231",
+      "original": "Accelerate Skill",
+      "translation": "Ускорение навыка"
+    },
+    "pack02:19923232": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923232",
+      "original": "Reduce Damage",
+      "translation": "Снижение урона"
+    },
+    "pack02:19923233": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923233",
+      "original": "Resist Magic",
+      "translation": "Сопр. магии"
+    },
+    "pack02:19923234": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923234",
+      "original": "Resist Fire",
+      "translation": "Сопр. огню"
+    },
+    "pack02:19923235": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923235",
+      "original": "Resist Water",
+      "translation": "Сопр. воде"
+    },
+    "pack02:19923236": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923236",
+      "original": "Resist Air",
+      "translation": "Сопр. воздуху"
+    },
+    "pack02:19923237": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923237",
+      "original": "Resist Earth",
+      "translation": "Сопр. земле"
+    },
+    "pack02:19923238": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923238",
+      "original": "Strong Foe Power",
+      "translation": "Мощь сильного врага"
+    },
+    "pack02:19923239": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923239",
+      "original": "Formidable Foe Power",
+      "translation": "Мощь грозного врага"
+    },
+    "pack02:19923240": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923240",
+      "original": "Wicked Foe Power",
+      "translation": "Мощь опасного врага"
+    },
+    "pack02:19923241": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923241",
+      "original": "Enhanced Armor",
+      "translation": "Усиление брони"
+    },
+    "pack02:19923242": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923242",
+      "original": "Resistant Armor",
+      "translation": "Усиление сопротивления"
+    },
+    "pack02:19923243": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923243",
+      "original": "Invincible Armor",
+      "translation": "Некрушимая броня"
+    },
+    "pack02:19923244": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923244",
+      "original": "Resist Alchemy",
+      "translation": "Сопр. алхимии"
+    },
+    "pack02:19923245": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923245",
+      "original": "Self Repair",
+      "translation": "Самовосстановление"
+    },
+    "pack02:19923246": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923246",
+      "original": "Quick Repair",
+      "translation": "Быстрое лечение"
+    },
+    "pack02:19923247": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923247",
+      "original": "Status Resist",
+      "translation": "Сопротивление к изменениям хар-к"
+    },
+    "pack02:19923248": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923248",
+      "original": "Poison Immunity",
+      "translation": "Иммунитет к отравлению"
+    },
+    "pack02:19923249": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923249",
+      "original": "Immobility Immunity",
+      "translation": "Иммунитет к обездвиживанию"
+    },
+    "pack02:19923250": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923250",
+      "original": "Curse Immunity",
+      "translation": "Иммунитет к проклятию"
+    },
+    "pack02:19923251": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923251",
+      "original": "Blindness Immunity",
+      "translation": "Иммунитет к слепоте"
+    },
+    "pack02:19923252": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923252",
+      "original": "Down Immunity",
+      "translation": "Иммунитет к нокауту"
+    },
+    "pack02:19923253": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923253",
+      "original": "Weakness Immunity",
+      "translation": "Иммунитет к слабости"
+    },
+    "pack02:19923254": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923254",
+      "original": "Healing Block Immunity",
+      "translation": "Иммунитет к запрету лечения"
+    },
+    "pack02:19923255": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923255",
+      "original": "Seal Immunity",
+      "translation": "Иммунитет к печати"
+    },
+    "pack02:19923256": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923256",
+      "original": "Resist Ailments",
+      "translation": "Сопр. недугам"
+    },
+    "pack02:19923257": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923257",
+      "original": "Reject Ailments",
+      "translation": "Отвержение недугов"
+    },
+    "pack02:19923258": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923258",
+      "original": "Ailment Immunity",
+      "translation": "Иммунитет к недугам"
+    },
+    "pack02:19923259": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923259",
+      "original": "Poison/Immobility Immunity",
+      "translation": "Иммунитет: отравление/обездвиживание"
+    },
+    "pack02:19923260": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923260",
+      "original": "Curse/Blindness Immunity",
+      "translation": "Иммунитет: проклятие/слепота"
+    },
+    "pack02:19923261": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923261",
+      "original": "Down/Weakness Immunity",
+      "translation": "Иммунитет: нокаут/слабость"
+    },
+    "pack02:19923262": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923262",
+      "original": "Heal Block/Seal Immunity",
+      "translation": "Иммунитет: запрет лечения/печать"
+    },
+    "pack02:19923263": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923263",
+      "original": "Strongly Resist Ailments",
+      "translation": "Сильное сопр. недугам"
+    },
+    "pack02:19923264": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923264",
+      "original": "Strongly Enhance ATK",
+      "translation": "Сильное усиление АТК"
+    },
+    "pack02:19923265": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923265",
+      "original": "Strongly Enhance DEF",
+      "translation": "Сильное усиление ЗЩТ"
+    },
+    "pack02:19923266": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923266",
+      "original": "Strongly Enhance MOV",
+      "translation": "Сильное усиление подвижности"
+    },
+    "pack02:19923267": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923267",
+      "original": "Strongly Enhance Evasion",
+      "translation": "Сильное усиление уклонения"
+    },
+    "pack02:19923268": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923268",
+      "original": "Enhance SPD",
+      "translation": "Усиление СКР"
+    },
+    "pack02:19923269": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923269",
+      "original": "Strongly Enhance SPD",
+      "translation": "Сильное усиление СКР"
+    },
+    "pack02:19923270": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923270",
+      "original": "Speed Super Enhance",
+      "translation": "Сверхусиление скорости"
+    },
+    "pack02:19923271": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923271",
+      "original": "Resist Stagger",
+      "translation": "Сопр. оглушению"
+    },
+    "pack02:19923272": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923272",
+      "original": "Reject Stagger",
+      "translation": "Отвержение оглушения"
+    },
+    "pack02:19923273": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923273",
+      "original": "Attack Enhance",
+      "translation": "Усиление атаки"
+    },
+    "pack02:19923274": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923274",
+      "original": "Defense Enhance",
+      "translation": "Усиление защиты"
+    },
+    "pack02:19923275": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923275",
+      "original": "Move Enhance",
+      "translation": "Повышение подвижности"
+    },
+    "pack02:19923276": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923276",
+      "original": "Evasion Enhance",
+      "translation": "Повышение уклонения"
+    },
+    "pack02:19923277": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923277",
+      "original": "Super Enhance ATK",
+      "translation": "Сверхусиление АТК"
+    },
+    "pack02:19923278": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923278",
+      "original": "Super Enhance DEF",
+      "translation": "Сверхусиление ЗЩТ"
+    },
+    "pack02:19923279": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923279",
+      "original": "Super Enhance MOV",
+      "translation": "Сверхусиление подвижности"
+    },
+    "pack02:19923280": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923280",
+      "original": "Super Enhance Evasion",
+      "translation": "Сверхусиление уклонения"
+    },
+    "pack02:19923281": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923281",
+      "original": "Super Hard Skin",
+      "translation": "Супер прочная оболочка"
+    },
+    "pack02:19923282": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923282",
+      "original": "Noble Puni Soul",
+      "translation": "Душа благородного пуни"
+    },
+    "pack02:19923283": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923283",
+      "original": "Prism Pain",
+      "translation": "Призмодождь"
+    },
+    "pack02:19923284": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923284",
+      "original": "Perfect Doubt",
+      "translation": "Идеальное сомнение"
+    },
+    "pack02:19923285": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923285",
+      "original": "Evil Smile",
+      "translation": "Злая улыбка"
+    },
+    "pack02:19923286": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923286",
+      "original": "Engel Smile",
+      "translation": "Ангельская улыбка"
+    },
+    "pack02:19923287": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923287",
+      "original": "Death Voice",
+      "translation": "Голос смерти"
+    },
+    "pack02:19923288": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923288",
+      "original": "Super Regen",
+      "translation": "Супер регенерация"
+    },
+    "pack02:19923289": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923289",
+      "original": "Super Poison Pollen",
+      "translation": "Супер ядовитая пыльца"
+    },
+    "pack02:19923290": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923290",
+      "original": "★Bad Smell★",
+      "translation": "★Плохой запах★"
+    },
+    "pack02:19923291": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923291",
+      "original": "Chain of Revenge",
+      "translation": "Цепь мести"
+    },
+    "pack02:19923292": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923292",
+      "original": "Demon King Revival",
+      "translation": "Возрождение короля демонов"
+    },
+    "pack02:19923293": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923293",
+      "original": "Demon King Return",
+      "translation": "Явление короля демонов"
+    },
+    "pack02:19923294": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923294",
+      "original": "Poison Scratch",
+      "translation": "Ядовитый коготь"
+    },
+    "pack02:19923295": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923295",
+      "original": "Tail Slash",
+      "translation": "Размах хвостом"
+    },
+    "pack02:19923296": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923296",
+      "original": "Curse Lash",
+      "translation": "Проклятый удар"
+    },
+    "pack02:19923297": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923297",
+      "original": "Flow Breath",
+      "translation": "Дыхание"
+    },
+    "pack02:19923298": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923298",
+      "original": "Apparition Breath",
+      "translation": "Дыхание призрака"
+    },
+    "pack02:19923299": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923299",
+      "original": "Ruler's Body",
+      "translation": "Тело правителя"
+    },
+    "pack02:19923300": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923300",
+      "original": "Super Beast Heart",
+      "translation": "Душа сверхзверя"
+    },
+    "pack02:19923301": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923301",
+      "original": "Plague Bite",
+      "translation": "Смертельный укус"
+    },
+    "pack02:19923302": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923302",
+      "original": "Mortal Poison Breath",
+      "translation": "Едкое дыхание"
+    },
+    "pack02:19923303": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923303",
+      "original": "Claw of Annihilation",
+      "translation": "Аннигилирующий коготь"
+    },
+    "pack02:19923304": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923304",
+      "original": "Virus Claw",
+      "translation": "Едкий коготь"
+    },
+    "pack02:19923305": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923305",
+      "original": "Destruction Barrage",
+      "translation": "Разрушительный удар"
+    },
+    "pack02:19923306": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923306",
+      "original": "Bird Turning Heart",
+      "translation": "Сердце птицы"
+    },
+    "pack02:19923307": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923307",
+      "original": "Brave Retreat",
+      "translation": "Храброе наступление"
+    },
+    "pack02:19923308": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923308",
+      "original": "Great Voice",
+      "translation": "Великий глас"
+    },
+    "pack02:19923309": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923309",
+      "original": "Complete Incantation",
+      "translation": "Совершенное заклятие"
+    },
+    "pack02:19923310": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923310",
+      "original": "Mind Shock",
+      "translation": "Шок разума"
+    },
+    "pack02:19923311": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923311",
+      "original": "Soul Dust",
+      "translation": "Пыль души"
+    },
+    "pack02:19923312": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923312",
+      "original": "Shadow Kill",
+      "translation": "Скрытое нападение"
+    },
+    "pack02:19923313": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923313",
+      "original": "Life Steal",
+      "translation": "Кража жизненных сил"
+    },
+    "pack02:19923314": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923314",
+      "original": "Flame Scar",
+      "translation": "Огненный рубец"
+    },
+    "pack02:19923315": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923315",
+      "original": "Reincarnation",
+      "translation": "Реинкарнация"
+    },
+    "pack02:19923316": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923316",
+      "original": "Hellfire Battleaxe",
+      "translation": "Топор адского пламени"
+    },
+    "pack02:19923317": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923317",
+      "original": "Wind Demon Descent",
+      "translation": "Снисхождение демона ветра"
+    },
+    "pack02:19923318": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923318",
+      "original": "Purgatory",
+      "translation": "Чистилище"
+    },
+    "pack02:19923319": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923319",
+      "original": "Flame Dance",
+      "translation": "Танец пламени"
+    },
+    "pack02:19923320": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923320",
+      "original": "Whirlwind",
+      "translation": "Вихрь"
+    },
+    "pack02:19923321": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923321",
+      "original": "War God's Raiment",
+      "translation": "Облачение бога войны"
+    },
+    "pack02:19923322": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923322",
+      "original": "Martial God's Raiment",
+      "translation": "Облачение бога сражений"
+    },
+    "pack02:19923323": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923323",
+      "original": "Fierce God's Raiment",
+      "translation": "Облачение бога ярости"
+    },
+    "pack02:19923324": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923324",
+      "original": "Awakened Demon Raiment",
+      "translation": "Облачение пробуждённого демона"
+    },
+    "pack02:19923325": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923325",
+      "original": "War God's Blessing",
+      "translation": "Благословение бога войны"
+    },
+    "pack02:19923326": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923326",
+      "original": "Martial God's Blessing",
+      "translation": "Благословение бога сражений"
+    },
+    "pack02:19923327": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923327",
+      "original": "Fierce God's Blessing",
+      "translation": "Благословение бога ярости"
+    },
+    "pack02:19923328": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923328",
+      "original": "Instant Life Art",
+      "translation": "Мгновенная жизнь"
+    },
+    "pack02:19923329": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923329",
+      "original": "Divine Word: Truth",
+      "translation": "Божественное слово — истина"
+    },
+    "pack02:19923330": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923330",
+      "original": "Drag Despair",
+      "translation": "Отчаяние"
+    },
+    "pack02:19923331": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923331",
+      "original": "Phantom Blade",
+      "translation": "Фантомный меч"
+    },
+    "pack02:19923332": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923332",
+      "original": "Prism Call",
+      "translation": "Зов призмы"
+    },
+    "pack02:19923333": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923333",
+      "original": "Bright Barrier",
+      "translation": "Сияющий барьер"
+    },
+    "pack02:19923334": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923334",
+      "original": "Eternal Barrier",
+      "translation": "Вечный барьер"
+    },
+    "pack02:19923335": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923335",
+      "original": "Elder Dragon Blessing",
+      "translation": "Благословение старшего дракона"
+    },
+    "pack02:19923336": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923336",
+      "original": "Overflowing Life",
+      "translation": "Переполняющая жизнь"
+    },
+    "pack02:19923337": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923337",
+      "original": "Blessing of Light",
+      "translation": "Благословение света"
+    },
+    "pack02:19923338": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923338",
+      "original": "Power of Origin: Effect 1",
+      "translation": "Мощь зарождения: эффект 1"
+    },
+    "pack02:19923339": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923339",
+      "original": "Power of Origin: Effect 2",
+      "translation": "Мощь зарождения: эффект 2"
+    },
+    "pack02:19923340": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923340",
+      "original": "Power of Origin: Effect 3",
+      "translation": "Мощь зарождения: эффект 3"
+    },
+    "pack02:19923341": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923341",
+      "original": "Power of Origin: Effect 4",
+      "translation": "Мощь зарождения: эффект 4"
+    },
+    "pack02:19923342": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923342",
+      "original": "Power of Creation: Effect 1",
+      "translation": "Мощь творения: эффект 1"
+    },
+    "pack02:19923343": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923343",
+      "original": "Power of Creation: Effect 2",
+      "translation": "Мощь творения: эффект 2"
+    },
+    "pack02:19923344": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923344",
+      "original": "Power of Creation: Effect 3",
+      "translation": "Мощь творения: эффект 3"
+    },
+    "pack02:19923345": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923345",
+      "original": "Power of Creation: Effect 4",
+      "translation": "Мощь творения: эффект 4"
+    },
+    "pack02:19923346": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923346",
+      "original": "High Demonic Power",
+      "translation": "Демоническая сила"
+    },
+    "pack02:19923347": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923347",
+      "original": "Mega Stomp",
+      "translation": "Мегатопот"
+    },
+    "pack02:19923348": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923348",
+      "original": "Demon God's Blessing",
+      "translation": "Благословение бога демонов"
+    },
+    "pack02:19923349": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923349",
+      "original": "Blau Bomb",
+      "translation": "Блау бомба"
+    },
+    "pack02:19923350": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923350",
+      "original": "Blitz Stone",
+      "translation": "Блицекамень"
+    },
+    "pack02:19923351": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923351",
+      "original": "Traveler's Ration",
+      "translation": "Перекус путника"
+    },
+    "pack02:19923352": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923352",
+      "original": "God's Gift",
+      "translation": "Подарок бога"
+    },
+    "pack02:19923353": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923353",
+      "original": "Flame of Origin",
+      "translation": "Пламя начала"
+    },
+    "pack02:19923354": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923354",
+      "original": "Dona Cake",
+      "translation": "Донский пирог"
+    },
+    "pack02:19923355": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923355",
+      "original": "Living Mystery Elixir",
+      "translation": "Чудодейственный эликсир"
+    },
+    "pack02:19923356": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923356",
+      "original": "Bottled Misfortune",
+      "translation": "Несчастье в бутыльке"
+    },
+    "pack02:19923357": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923357",
+      "original": "Pain Attack",
+      "translation": "Атака боли"
+    },
+    "pack02:19923358": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923358",
+      "original": "Fire Attack",
+      "translation": "Огненная атака"
+    },
+    "pack02:19923359": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923359",
+      "original": "Ice Attack",
+      "translation": "Ледяная атака"
+    },
+    "pack02:19923360": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923360",
+      "original": "Lightning Attack",
+      "translation": "Молниеносная атака"
+    },
+    "pack02:19923361": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923361",
+      "original": "Rage Attack",
+      "translation": "Атака ярости"
+    },
+    "pack02:19923362": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923362",
+      "original": "Poison Attack",
+      "translation": "Отравляющая атака"
+    },
+    "pack02:19923363": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923363",
+      "original": "Silent Attack",
+      "translation": "Безмолвная атака"
+    },
+    "pack02:19923364": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923364",
+      "original": "Sleep Attack",
+      "translation": "Усыпляющая атака"
+    },
+    "pack02:19923365": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923365",
+      "original": "Vampire Attack",
+      "translation": "Атака вампира"
+    },
+    "pack02:19923366": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923366",
+      "original": "Power Split",
+      "translation": "Разделение силы"
+    },
+    "pack02:19923367": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923367",
+      "original": "Guard Split",
+      "translation": "Разделение защиты"
+    },
+    "pack02:19923368": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923368",
+      "original": "Motion Split",
+      "translation": "Разделение подвижности"
+    },
+    "pack02:19923369": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923369",
+      "original": "Drain Power",
+      "translation": "Высасывание силы"
+    },
+    "pack02:19923370": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923370",
+      "original": "Drain Defense",
+      "translation": "Вытягивание защиты"
+    },
+    "pack02:19923371": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923371",
+      "original": "Drain Motion",
+      "translation": "Высасывание подвижности"
+    },
+    "pack02:19923372": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923372",
+      "original": "Chaos Blade",
+      "translation": "Клинок хаоса"
+    },
+    "pack02:19923373": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923373",
+      "original": "Doom Impulse",
+      "translation": "Судьбоносный импульс"
+    },
+    "pack02:19923374": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923374",
+      "original": "Despair Thrust",
+      "translation": "Удар отчаяния"
+    },
+    "pack02:19923375": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923375",
+      "original": "Ether Syphon",
+      "translation": "Эфирный сифон"
+    },
+    "pack02:19923376": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923376",
+      "original": "Gigantic Nova",
+      "translation": "Гигантская нова"
+    },
+    "pack02:19923377": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923377",
+      "original": "Dead Man's Call",
+      "translation": "Зов мертвеца"
+    },
+    "pack02:19923378": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923378",
+      "original": "Abyss Breaker",
+      "translation": "Крушитель бездны"
+    },
+    "pack02:19923379": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923379",
+      "original": "Divine Turn: Sun",
+      "translation": "Сила божества: солнце"
+    },
+    "pack02:19923380": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923380",
+      "original": "Divine Turn: Cloud",
+      "translation": "Сила божества: облачность"
+    },
+    "pack02:19923381": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923381",
+      "original": "Divine Turn: Rain",
+      "translation": "Сила божества: дождь"
+    },
+    "pack02:19923382": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923382",
+      "original": "Divine Turn: Thunder",
+      "translation": "Сила божества: гроза"
+    },
+    "pack02:19923383": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923383",
+      "original": "Divine Turn: Snow",
+      "translation": "Сила божества: снег"
+    },
+    "pack02:19923384": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923384",
+      "original": "Divine Turn: Ice",
+      "translation": "Сила божества: лёд"
+    },
+    "pack02:19923385": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923385",
+      "original": "Divine Turn: Fog",
+      "translation": "Сила божества: туман"
+    },
+    "pack02:19923386": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923386",
+      "original": "Divine Turn: Tempest",
+      "translation": "Сила божества: буря"
+    },
+    "pack02:19923387": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923387",
+      "original": "Blessing of the Sun",
+      "translation": "Благословение солнца"
+    },
+    "pack02:19923388": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923388",
+      "original": "Blessing of the Clouds",
+      "translation": "Благословение облаков"
+    },
+    "pack02:19923389": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923389",
+      "original": "Blessing of the Rain",
+      "translation": "Благословение дождя"
+    },
+    "pack02:19923390": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923390",
+      "original": "Blessing of the Thunder",
+      "translation": "Благословение грозы"
+    },
+    "pack02:19923391": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923391",
+      "original": "Blessing of the Snow",
+      "translation": "Благословение снега"
+    },
+    "pack02:19923392": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923392",
+      "original": "Blessing of the Ice",
+      "translation": "Благословение льда"
+    },
+    "pack02:19923393": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923393",
+      "original": "Blessing of the Fog",
+      "translation": "Благословение тумана"
+    },
+    "pack02:19923394": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923394",
+      "original": "Blessing of the Tempest",
+      "translation": "Благословение бури"
+    },
+    "pack02:19923395": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923395",
+      "original": "Violent Wind",
+      "translation": "Неистовый ветер"
+    },
+    "pack02:19923396": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923396",
+      "original": "Soul Division",
+      "translation": "Отделение души"
+    },
+    "pack02:19923397": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923397",
+      "original": "Great Wounds",
+      "translation": "Мощные раны"
+    },
+    "pack02:19923398": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923398",
+      "original": "Time of Judgment",
+      "translation": "Время кары"
+    },
+    "pack02:19923399": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923399",
+      "original": "Loss of Power",
+      "translation": "Истощение сил"
+    },
+    "pack02:19923400": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923400",
+      "original": "Triple Trouble",
+      "translation": "Тройная проблема"
+    },
+    "pack02:19923401": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923401",
+      "original": "Quintrouble",
+      "translation": "Куча проблем"
+    },
+    "pack02:19923402": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923402",
+      "original": "Whispers of Death",
+      "translation": "Шёпот смерти"
+    },
+    "pack02:19923403": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923403",
+      "original": "Eternal Sleep",
+      "translation": "Вечный сон"
+    },
+    "pack02:19923404": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923404",
+      "original": "Turning",
+      "translation": "Перекат"
+    },
+    "pack02:19923405": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923405",
+      "original": "Spinning",
+      "translation": "Завихрение"
+    },
+    "pack02:19923406": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923406",
+      "original": "Prayer to God",
+      "translation": "Молитва богу"
+    },
+    "pack02:19923407": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923407",
+      "original": "Descent",
+      "translation": "Снисхождение"
+    },
+    "pack02:19923408": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923408",
+      "original": "Rabbitomahawk",
+      "translation": "Кролик-томагавк"
+    },
+    "pack02:19923409": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923409",
+      "original": "Flying Piercer",
+      "translation": "Стремительное копьё"
+    },
+    "pack02:19923410": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923410",
+      "original": "Moon Dive",
+      "translation": "Лунный пуск"
+    },
+    "pack02:19923411": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923411",
+      "original": "Dangerous Pollen",
+      "translation": "Опасная пыльца"
+    },
+    "pack02:19923412": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923412",
+      "original": "Floral Petal",
+      "translation": "Лепестки"
+    },
+    "pack02:19923413": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923413",
+      "original": "Flower Storm",
+      "translation": "Цветочный шторм"
+    },
+    "pack02:19923414": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923414",
+      "original": "Vacuum Wave",
+      "translation": "Вакуумная волна"
+    },
+    "pack02:19923415": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923415",
+      "original": "Throwing",
+      "translation": "Бросок"
+    },
+    "pack02:19923416": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923416",
+      "original": "Support Use",
+      "translation": "Поддержка"
+    },
+    "pack02:19923417": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923417",
+      "original": "Great Throw",
+      "translation": "Мощный бросок"
+    },
+    "pack02:19923418": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923418",
+      "original": "Sonic Voice",
+      "translation": "Звуковая волна"
+    },
+    "pack02:19923419": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923419",
+      "original": "Spiral Claw",
+      "translation": "Спиральный коготь"
+    },
+    "pack02:19923420": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923420",
+      "original": "Dark Cyclone",
+      "translation": "Тёмный циклон"
+    },
+    "pack02:19923421": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923421",
+      "original": "Poison Spores",
+      "translation": "Ядовитые споры"
+    },
+    "pack02:19923422": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923422",
+      "original": "Great Jaw",
+      "translation": "Сильный укус"
+    },
+    "pack02:19923423": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923423",
+      "original": "Sacrificial Charge",
+      "translation": "Самоснаряд"
+    },
+    "pack02:19923424": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923424",
+      "original": "Stopping Breath",
+      "translation": "Оцепеняющее дыхание"
+    },
+    "pack02:19923425": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923425",
+      "original": "Time Cluster",
+      "translation": "Кластер времени"
+    },
+    "pack02:19923426": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923426",
+      "original": "Raging Turtle",
+      "translation": "Ярость черепахи"
+    },
+    "pack02:19923427": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923427",
+      "original": "Tentacle Scythe",
+      "translation": "Коса-щупальце"
+    },
+    "pack02:19923428": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923428",
+      "original": "Call Thunder",
+      "translation": "Призыв грозы"
+    },
+    "pack02:19923429": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923429",
+      "original": "Engel Touch",
+      "translation": "Касание ангела"
+    },
+    "pack02:19923430": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923430",
+      "original": "Oblivion Mist",
+      "translation": "Туман забвения"
+    },
+    "pack02:19923431": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923431",
+      "original": "Diamond Punch",
+      "translation": "Алмазный удар"
+    },
+    "pack02:19923432": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923432",
+      "original": "Comet Fist",
+      "translation": "Удар кометы"
+    },
+    "pack02:19923433": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923433",
+      "original": "Soul Crusher",
+      "translation": "Крушитель духа"
+    },
+    "pack02:19923434": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923434",
+      "original": "Ruinous Quake",
+      "translation": "Разрушительная тряска"
+    },
+    "pack02:19923435": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923435",
+      "original": "Star Spirit",
+      "translation": "Звёздный дух"
+    },
+    "pack02:19923436": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923436",
+      "original": "Spit Flare",
+      "translation": "Взрывной плевок"
+    },
+    "pack02:19923437": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923437",
+      "original": "Soul Hunt",
+      "translation": "Пожиратель духа"
+    },
+    "pack02:19923438": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923438",
+      "original": "Ominous Scream",
+      "translation": "Зловещий крик"
+    },
+    "pack02:19923439": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923439",
+      "original": "Desperate Charge",
+      "translation": "Безрассудный удар"
+    },
+    "pack02:19923440": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923440",
+      "original": "Attack",
+      "translation": "Атака"
+    },
+    "pack02:19923441": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923441",
+      "original": "Attack",
+      "translation": "Атака"
+    },
+    "pack02:19923442": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923442",
+      "original": "Space Out",
+      "translation": "Оцепенение"
+    },
+    "pack02:19923443": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923443",
+      "original": "Rush",
+      "translation": "Натиск"
+    },
+    "pack02:19923444": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923444",
+      "original": "Expand",
+      "translation": "Расширение"
+    },
+    "pack02:19923445": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923445",
+      "original": "Spit",
+      "translation": "Плевок"
+    },
+    "pack02:19923446": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923446",
+      "original": "Shoot Off",
+      "translation": "Выстрел"
+    },
+    "pack02:19923447": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923447",
+      "original": "Lop Off",
+      "translation": "Отрубание"
+    },
+    "pack02:19923448": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923448",
+      "original": "Poison",
+      "translation": "Яд"
+    },
+    "pack02:19923449": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923449",
+      "original": "Draining",
+      "translation": "Высасывание"
+    },
+    "pack02:19923450": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923450",
+      "original": "Deadly Poison",
+      "translation": "Смертельный яд"
+    },
+    "pack02:19923451": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923451",
+      "original": "Bite",
+      "translation": "Укус"
+    },
+    "pack02:19923452": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923452",
+      "original": "Rampage",
+      "translation": "Ярость"
+    },
+    "pack02:19923453": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923453",
+      "original": "Shriek",
+      "translation": "Вопль"
+    },
+    "pack02:19923454": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923454",
+      "original": "Tear",
+      "translation": "Разрыв"
+    },
+    "pack02:19923455": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923455",
+      "original": "Poison Claws",
+      "translation": "Ядовитые когти"
+    },
+    "pack02:19923456": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923456",
+      "original": "Gale",
+      "translation": "Шквал"
+    },
+    "pack02:19923457": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923457",
+      "original": "Vampire Seduction",
+      "translation": "Соблазн вампира"
+    },
+    "pack02:19923458": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923458",
+      "original": "Blood Reward",
+      "translation": "Кровавая награда"
+    },
+    "pack02:19923459": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923459",
+      "original": "Rupture",
+      "translation": "Разрыв"
+    },
+    "pack02:19923460": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923460",
+      "original": "Frenzy",
+      "translation": "Безумие"
+    },
+    "pack02:19923461": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923461",
+      "original": "Flow",
+      "translation": "Поток"
+    },
+    "pack02:19923462": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923462",
+      "original": "Tempest",
+      "translation": "Буря"
+    },
+    "pack02:19923463": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923463",
+      "original": "  Tempest",
+      "translation": "  Буря"
+    },
+    "pack02:19923464": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923464",
+      "original": "    Tempest",
+      "translation": "    Буря"
+    },
+    "pack02:19923465": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923465",
+      "original": "Shadow Prism",
+      "translation": "Теневая призма"
+    },
+    "pack02:19923466": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923466",
+      "original": "Demon Halo",
+      "translation": "Демонический нимб"
+    },
+    "pack02:19923467": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923467",
+      "original": "Ethereal Zeta",
+      "translation": "Эфирная Zeta"
+    },
+    "pack02:19923468": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923468",
+      "original": "Ethereal Lambda",
+      "translation": "Эфирная Lambda"
+    },
+    "pack02:19923469": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923469",
+      "original": "Black Tiara",
+      "translation": "Чёрная тиара"
+    },
+    "pack02:19923470": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923470",
+      "original": "Chaos Eterinia",
+      "translation": "Хаос Этериния"
+    },
+    "pack02:19923471": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923471",
+      "original": "Wish of the End",
+      "translation": "Желание конца"
+    },
+    "pack02:19923472": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923472",
+      "original": "Small Bolt",
+      "translation": "Малый разряд"
+    },
+    "pack02:19923473": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923473",
+      "original": "Lightning Hammer",
+      "translation": "Молот молнии"
+    },
+    "pack02:19923474": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923474",
+      "original": "Golden Blade",
+      "translation": "Золотой клинок"
+    },
+    "pack02:19923475": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923475",
+      "original": "Large Bolt",
+      "translation": "Большой разряд"
+    },
+    "pack02:19923476": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923476",
+      "original": "Contact Shock",
+      "translation": "Контактный разряд"
+    },
+    "pack02:19923477": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923477",
+      "original": "Great Evil Flash",
+      "translation": "Великая злая вспышка"
+    },
+    "pack02:19923478": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923478",
+      "original": "Tied Lightning Rod",
+      "translation": "Связанный громоотвод"
+    },
+    "pack02:19923479": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923479",
+      "original": "Vermillion Blade",
+      "translation": "Алый клинок"
+    },
+    "pack02:19923480": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923480",
+      "original": "Azure Sword",
+      "translation": "Лазурный меч"
+    },
+    "pack02:19923481": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923481",
+      "original": "Yellow Skyfall",
+      "translation": "Жёлтое небесное падение"
+    },
+    "pack02:19923482": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923482",
+      "original": "Green Sea",
+      "translation": "Зелёное море"
+    },
+    "pack02:19923483": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923483",
+      "original": "Magic Rampage",
+      "translation": "Магическая ярость"
+    },
+    "pack02:19923484": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923484",
+      "original": "Shadow Transition",
+      "translation": "Теневой переход"
+    },
+    "pack02:19923485": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923485",
+      "original": "Chain Curse",
+      "translation": "Цепное проклятие"
+    },
+    "pack02:19923486": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923486",
+      "original": "Black Torrent",
+      "translation": "Чёрный поток"
+    },
+    "pack02:19923487": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923487",
+      "original": "Gale Move",
+      "translation": "Ускорение"
+    },
+    "pack02:19923488": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923488",
+      "original": "Magic Attack",
+      "translation": "Магическая атака"
+    },
+    "pack02:19923489": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923489",
+      "original": "Air Attack",
+      "translation": "Воздушная атака"
+    },
+    "pack02:19923490": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923490",
+      "original": "Burning Attack",
+      "translation": "Огненная атака"
+    },
+    "pack02:19923491": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923491",
+      "original": "Eternity Meteor",
+      "translation": "Метеор вечности"
+    },
+    "pack02:19923492": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923492",
+      "original": "Twin God Protection",
+      "translation": "Защита двойного бога"
+    },
+    "pack02:19923493": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923493",
+      "original": "Twin God Blessing",
+      "translation": "Благословение двойного бога"
+    },
+    "pack02:19923494": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923494",
+      "original": "Divine Phenomenon",
+      "translation": "Божественный феномен"
+    },
+    "pack02:19923495": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923495",
+      "original": "Last Cry",
+      "translation": "Победный вой"
+    },
+    "pack02:19923496": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923496",
+      "original": "Hold Cut",
+      "translation": "Сдерживающий разрез"
+    },
+    "pack02:19923497": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923497",
+      "original": "Stagger",
+      "translation": "Шатание"
+    },
+    "pack02:19923498": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923498",
+      "original": "Stun",
+      "translation": "Оглушение"
+    },
+    "pack02:19923499": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923499",
+      "original": "Ailment",
+      "translation": "Недуг"
+    },
+    "pack02:19923500": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923500",
+      "original": "Well Rounded Fighter",
+      "translation": "Универсальный боец"
+    },
+    "pack02:19923501": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923501",
+      "original": "Arm of Dusk",
+      "translation": "Рука сумерек"
+    },
+    "pack02:19923502": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923502",
+      "original": "Wise Annex",
+      "translation": "Мудрое приложение"
+    },
+    "pack02:19923503": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923503",
+      "original": "Hanging Soul",
+      "translation": "Висящая душа"
+    },
+    "pack02:19923504": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923504",
+      "original": "Severed Fate",
+      "translation": "Разорванная судьба"
+    },
+    "pack02:19923505": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923505",
+      "original": "Agonizing Purple",
+      "translation": "Мучительный пурпур"
+    },
+    "pack02:19923506": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923506",
+      "original": "Stahl Ice Bomb",
+      "translation": "Шталевая ледобомба"
+    },
+    "pack02:19923507": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923507",
+      "original": "Hero's Downfall",
+      "translation": "Падение героя"
+    },
+    "pack02:19923508": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923508",
+      "original": "Divine Elixir",
+      "translation": "Божественный эликсир"
+    },
+    "pack02:19923509": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923509",
+      "original": "Bursting Gift",
+      "translation": "Взрывной подарок"
+    },
+    "pack02:19923510": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923510",
+      "original": "Corundum Shoot",
+      "translation": "Корундовый выстрел"
+    },
+    "pack02:19923518": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923518",
+      "original": "Off",
+      "translation": "Выкл"
+    },
+    "pack02:19923519": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923519",
+      "original": "Flame Shot",
+      "translation": "Огненный выстрел"
+    },
+    "pack02:19923520": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923520",
+      "original": "Wind Shot",
+      "translation": "Ветряной выстрел"
+    },
+    "pack02:19923521": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923521",
+      "original": "Smile of Rebirth",
+      "translation": "Улыбка перерождения"
+    },
+    "pack02:19923522": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923522",
+      "original": "Aura Area",
+      "translation": "Область ауры"
+    },
+    "pack02:19923523": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923523",
+      "original": "Call of Bright",
+      "translation": "Зов света"
+    },
+    "pack02:19923524": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923524",
+      "original": "Eagle Storm",
+      "translation": "Шторм орла"
+    },
+    "pack02:19923525": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923525",
+      "original": "Flash Suelle!",
+      "translation": "Флеш Сюэль!"
+    },
+    "pack02:19923526": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923526",
+      "original": "Ultra Power Rapid Fire!",
+      "translation": "Сверхмощная скорострельная атака!"
+    },
+    "pack02:19923527": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923527",
+      "original": "Chain Quasar",
+      "translation": "Цепной квазар"
+    },
+    "pack02:19923528": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923528",
+      "original": "Jereme Drive",
+      "translation": "Рывок Жерема"
+    },
+    "pack02:19923529": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923529",
+      "original": "Floral Rain",
+      "translation": "Цветочный дождь"
+    },
+    "pack02:19923530": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923530",
+      "original": "Aura Strike",
+      "translation": "Удар ауры"
+    },
+    "pack02:19923531": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923531",
+      "original": "Shooting Star",
+      "translation": "Падающая звезда"
+    },
+    "pack02:19923532": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923532",
+      "original": "Law of Profusion - Anew",
+      "translation": "Закон изобилия — заново"
+    },
+    "pack02:19923533": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923533",
+      "original": "Aegis Round",
+      "translation": "Круг Эгиды"
+    },
+    "pack02:19923534": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923534",
+      "original": "End of Cross",
+      "translation": "Конец креста"
+    },
+    "pack02:19923535": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923535",
+      "original": "Einzel-Ritter",
+      "translation": "Einzel-Ritter"
+    },
+    "pack02:19923536": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923536",
+      "original": "Chalk Wail",
+      "translation": "Меловой вопль"
+    },
+    "pack02:19923537": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923537",
+      "original": "Blessed Calamity",
+      "translation": "Благословенное бедствие"
+    },
+    "pack02:19923538": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923538",
+      "original": "Alchemy Tuning Sword",
+      "translation": "Меч алхимической настройки"
+    },
+    "pack02:19923539": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923539",
+      "original": "Poison Piercer",
+      "translation": "Отравляющий пронзатель"
+    },
+    "pack02:19923540": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923540",
+      "original": "Venom Piercer",
+      "translation": "Ядовитый пронзатель"
+    },
+    "pack02:19923541": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923541",
+      "original": "Rounding",
+      "translation": "Обход"
+    },
+    "pack02:19923542": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923542",
+      "original": "Night Shadow",
+      "translation": "Ночная тень"
+    },
+    "pack02:19923543": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923543",
+      "original": "Dark Claws",
+      "translation": "Тёмные когти"
+    },
+    "pack02:19923544": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923544",
+      "original": "Stamping",
+      "translation": "Топтание"
+    },
+    "pack02:19923545": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923545",
+      "original": "Overpress",
+      "translation": "Пересжатие"
+    },
+    "pack02:19923546": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923546",
+      "original": "Explosive",
+      "translation": "Взрыв"
+    },
+    "pack02:19923547": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923547",
+      "original": "Ori Bomb",
+      "translation": "Ори бомба"
+    },
+    "pack02:19923548": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923548",
+      "original": "Heartful Sotea",
+      "translation": "Сердечная Сотеа"
+    },
+    "pack02:19923549": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923549",
+      "original": "Flame of the End",
+      "translation": "Пламя конца"
+    },
+    "pack02:19923550": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923550",
+      "original": "Meteor Stamper",
+      "translation": "Метеорное давление"
+    },
+    "pack02:19923551": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923551",
+      "original": "Law of Profusion - Genesis",
+      "translation": "Закон изобилия — генезис"
+    },
+    "pack02:19923552": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923552",
+      "original": "Decree of Time",
+      "translation": "Указ времени"
+    },
+    "pack02:19923553": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923553",
+      "original": "Chain Strike Order",
+      "translation": "Приказ цепного удара"
+    },
+    "pack02:19923554": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923554",
+      "original": "Resuscitation Order",
+      "translation": "Приказ реанимации"
+    },
+    "pack02:19923555": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923555",
+      "original": "Overheat",
+      "translation": "Перегрев"
+    },
+    "pack02:19923556": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923556",
+      "original": "Corundum Flare",
+      "translation": "Корундовая вспышка"
+    },
+    "pack02:19923557": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923557",
+      "original": "Quick Burning",
+      "translation": "Быстрое горение"
+    },
+    "pack02:19923558": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923558",
+      "original": "Gegenangriff",
+      "translation": "Gegenangriff"
+    },
+    "pack02:19923559": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923559",
+      "original": "Gewehr",
+      "translation": "Gewehr"
+    },
+    "pack02:19923560": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923560",
+      "original": "Ulta Schild Werfe",
+      "translation": "Ulta Schild Werfe"
+    },
+    "pack02:19923561": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923561",
+      "original": "Gruppe Flügel",
+      "translation": "Gruppe Flügel"
+    },
+    "pack02:19923562": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923562",
+      "original": "Geschwindigkeit",
+      "translation": "Geschwindigkeit"
+    },
+    "pack02:19923563": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923563",
+      "original": "Liegen Haken",
+      "translation": "Liegen Haken"
+    },
+    "pack02:19923564": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923564",
+      "original": "Lanze Gefallen",
+      "translation": "Lanze Gefallen"
+    },
+    "pack02:19923565": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923565",
+      "original": "Wie Zuvor",
+      "translation": "Wie Zuvor"
+    },
+    "pack02:19923566": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923566",
+      "original": "Headbutt",
+      "translation": "Удар головой"
+    },
+    "pack02:19923567": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923567",
+      "original": "Puncture Bomb",
+      "translation": "Прокалывающая бомба"
+    },
+    "pack02:19923568": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923568",
+      "original": "Jumping Head",
+      "translation": "Прыгающая голова"
+    },
+    "pack02:19923569": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923569",
+      "original": "Big Bomber",
+      "translation": "Большой бомбардир"
+    },
+    "pack02:19923570": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923570",
+      "original": "Flying Head",
+      "translation": "Летающая голова"
+    },
+    "pack02:19923571": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923571",
+      "original": "Hand Bazooka",
+      "translation": "Ручная базука"
+    },
+    "pack02:19923572": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923572",
+      "original": "Arm Shot",
+      "translation": "Выстрел рукой"
+    },
+    "pack02:19923573": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923573",
+      "original": "Arm Whip",
+      "translation": "Ручной кнут"
+    },
+    "pack02:19923574": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923574",
+      "original": "Rail Gun",
+      "translation": "Рельсотрон"
+    },
+    "pack02:19923575": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923575",
+      "original": "Spin Crash",
+      "translation": "Вращательный удар"
+    },
+    "pack02:19923576": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923576",
+      "original": "Ancestral Awakening",
+      "translation": "Пробуждение предков"
+    },
+    "pack02:19923577": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923577",
+      "original": "World Destruction",
+      "translation": "Разрушение мира"
+    },
+    "pack02:19923578": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923578",
+      "original": "Original Wisdom",
+      "translation": "Изначальная мудрость"
+    },
+    "pack02:19923579": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923579",
+      "original": "Vortritt der Wut",
+      "translation": "Vortritt der Wut"
+    },
+    "pack02:19923580": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923580",
+      "original": "Earth Impact",
+      "translation": "Земной удар"
+    },
+    "pack02:19923581": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923581",
+      "original": "Mana Blaze",
+      "translation": "Вспышка маны"
+    },
+    "pack02:19923582": {
+      "source": "pack02_text_en",
+      "file": "str_action_name.xml",
+      "string_no": "19923582",
+      "original": "Wings of Darkness",
+      "translation": "Крылья тьмы"
+    }
+  }
+}

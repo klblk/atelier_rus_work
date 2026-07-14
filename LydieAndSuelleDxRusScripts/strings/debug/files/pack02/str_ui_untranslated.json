@@ -1,0 +1,372 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_ui_untranslated.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:6029313": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029313",
+      "original": "Under Examination",
+      "translation": "На экзамене"
+    },
+    "pack02:6029314": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029314",
+      "original": "Exam Available",
+      "translation": "Экзамен доступен"
+    },
+    "pack02:6029315": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029315",
+      "original": "Until Next Exam",
+      "translation": "До экзамена"
+    },
+    "pack02:6029316": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029316",
+      "original": "Alchemy Lv",
+      "translation": "Ур. алхимии"
+    },
+    "pack02:6029317": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029317",
+      "original": "Until Next Lv",
+      "translation": "До след. ур."
+    },
+    "pack02:6029318": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029318",
+      "original": "Standby",
+      "translation": "Резерв"
+    },
+    "pack02:6029320": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029320",
+      "original": "Effect",
+      "translation": "Эффекты"
+    },
+    "pack02:6029321": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029321",
+      "original": "Follow-up Conditions",
+      "translation": "Условия поддержки"
+    },
+    "pack02:6029322": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029322",
+      "original": "Select the amount of Archeus Anima",
+      "translation": "Выберите кол-во аркеус-анимы"
+    },
+    "pack02:6029323": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029323",
+      "original": "Cancel Battle Mix",
+      "translation": "Отмена боевого синтеза"
+    },
+    "pack02:6029325": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029325",
+      "original": "Money",
+      "translation": "Деньги"
+    },
+    "pack02:6029326": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029326",
+      "original": "Cost",
+      "translation": "Стоимость"
+    },
+    "pack02:6029327": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029327",
+      "original": "Core Parts",
+      "translation": "Основные детали"
+    },
+    "pack02:6029328": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029328",
+      "original": "Subparts",
+      "translation": "Доп. детали"
+    },
+    "pack02:6029329": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029329",
+      "original": "ATK",
+      "translation": "АТК"
+    },
+    "pack02:6029330": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029330",
+      "original": "DEF",
+      "translation": "ЗЩТ"
+    },
+    "pack02:6029331": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029331",
+      "original": "SPD",
+      "translation": "СКР"
+    },
+    "pack02:6029332": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029332",
+      "original": "Equipment Effect",
+      "translation": "Эффект экипировки"
+    },
+    "pack02:6029334": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029334",
+      "original": "Details",
+      "translation": "Детали"
+    },
+    "pack02:6029336": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029336",
+      "original": "Area Effects",
+      "translation": "Полевые эффекты"
+    },
+    "pack02:6029337": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029337",
+      "original": "Attacker",
+      "translation": "Атакующий"
+    },
+    "pack02:6029338": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029338",
+      "original": "Supporter",
+      "translation": "Поддержка"
+    },
+    "pack02:6029339": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029339",
+      "original": "Attack",
+      "translation": "Атака"
+    },
+    "pack02:6029340": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029340",
+      "original": "Defense",
+      "translation": "Защита"
+    },
+    "pack02:6029341": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029341",
+      "original": "Speed",
+      "translation": "Скорость"
+    },
+    "pack02:6029342": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029342",
+      "original": "Equip Effect",
+      "translation": "Эффект экип."
+    },
+    "pack02:6029343": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029343",
+      "original": "Resistance",
+      "translation": "Сопротивление"
+    },
+    "pack02:6029344": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029344",
+      "original": "+Effect",
+      "translation": "+Эффект"
+    },
+    "pack02:6029345": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029345",
+      "original": "-Effect",
+      "translation": "-Эффект"
+    },
+    "pack02:6029346": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029346",
+      "original": "Effects:",
+      "translation": "Эффекты:"
+    },
+    "pack02:6029347": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029347",
+      "original": "Attack",
+      "translation": "Атака"
+    },
+    "pack02:6029348": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029348",
+      "original": "Defense",
+      "translation": "Защита"
+    },
+    "pack02:6029349": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029349",
+      "original": "Speed",
+      "translation": "Скорость"
+    },
+    "pack02:6029350": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029350",
+      "original": "Equip Effect",
+      "translation": "Эффект экип."
+    },
+    "pack02:6029352": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029352",
+      "original": "Friendship",
+      "translation": "Дружба"
+    },
+    "pack02:6029354": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029354",
+      "original": "Catalyst Available",
+      "translation": "Катализатор доступен"
+    },
+    "pack02:6029356": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029356",
+      "original": "ATK",
+      "translation": "АТК"
+    },
+    "pack02:6029357": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029357",
+      "original": "DEF",
+      "translation": "ЗЩТ"
+    },
+    "pack02:6029358": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029358",
+      "original": "SPD",
+      "translation": "СКР"
+    },
+    "pack02:6029359": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029359",
+      "original": "Equip Effect",
+      "translation": "Эффект экип."
+    },
+    "pack02:6029361": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029361",
+      "original": "Save Data",
+      "translation": "Сохранение"
+    },
+    "pack02:6029363": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029363",
+      "original": "Client:",
+      "translation": "Клиент:"
+    },
+    "pack02:6029365": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029365",
+      "original": "Attack",
+      "translation": "Атака"
+    },
+    "pack02:6029366": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029366",
+      "original": "Defense",
+      "translation": "Защита"
+    },
+    "pack02:6029367": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029367",
+      "original": "Speed",
+      "translation": "Скорость"
+    },
+    "pack02:6029368": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029368",
+      "original": "Equip Effect",
+      "translation": "Эффект экип."
+    },
+    "pack02:6029369": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029369",
+      "original": "Resistance",
+      "translation": "Сопротивление"
+    },
+    "pack02:6029374": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029374",
+      "original": "Quality",
+      "translation": "Качество"
+    },
+    "pack02:6029375": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029375",
+      "original": "Components",
+      "translation": "Компоненты"
+    },
+    "pack02:6029376": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029376",
+      "original": "Traits",
+      "translation": "Свойства"
+    },
+    "pack02:6029377": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029377",
+      "original": "&lt;IM11&gt; Change Catalyst",
+      "translation": "&lt;IM11&gt; Смена катализатора"
+    },
+    "pack02:6029378": {
+      "source": "pack02_text_en",
+      "file": "str_ui_untranslated.xml",
+      "string_no": "6029378",
+      "original": "Use Enhancing Agent &lt;IM06&gt;",
+      "translation": "Использовать активатор &lt;IM06&gt;"
+    }
+  }
+}

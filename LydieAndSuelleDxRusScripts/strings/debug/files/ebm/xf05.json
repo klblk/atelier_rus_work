@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "source": "pack01_ebm",
+  "block": "xf05",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "ebm:xf05/event_message_xf05_060.ebm:0": {
+      "source": "pack01_ebm",
+      "path": "xf05/event_message_xf05_060.ebm",
+      "index": 0,
+      "speaker": "System",
+      "original": "The installation of the required data is not complete. Unable to proceed.",
+      "translation": "Установка необходимых данных не завершена. Невозможно продолжить."
+    }
+  }
+}

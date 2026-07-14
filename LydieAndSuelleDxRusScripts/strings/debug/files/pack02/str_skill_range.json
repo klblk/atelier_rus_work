@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_skill_range.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:20512769": {
+      "source": "pack02_text_en",
+      "file": "str_skill_range.xml",
+      "string_no": "20512769",
+      "original": "Single",
+      "translation": "     один"
+    },
+    "pack02:20512770": {
+      "source": "pack02_text_en",
+      "file": "str_skill_range.xml",
+      "string_no": "20512770",
+      "original": "Area S",
+      "translation": "     площадь S"
+    },
+    "pack02:20512771": {
+      "source": "pack02_text_en",
+      "file": "str_skill_range.xml",
+      "string_no": "20512771",
+      "original": "Area M",
+      "translation": "     площадь M"
+    },
+    "pack02:20512772": {
+      "source": "pack02_text_en",
+      "file": "str_skill_range.xml",
+      "string_no": "20512772",
+      "original": "Area L",
+      "translation": "     площадь L"
+    },
+    "pack02:20512773": {
+      "source": "pack02_text_en",
+      "file": "str_skill_range.xml",
+      "string_no": "20512773",
+      "original": "All",
+      "translation": "Все"
+    },
+    "pack02:20512774": {
+      "source": "pack02_text_en",
+      "file": "str_skill_range.xml",
+      "string_no": "20512774",
+      "original": "Column",
+      "translation": "     колонна"
+    },
+    "pack02:20512775": {
+      "source": "pack02_text_en",
+      "file": "str_skill_range.xml",
+      "string_no": "20512775",
+      "original": "Row",
+      "translation": "     ряд"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "source": "pack02_text_en",
+  "file": "str_npc_s13_mess.xml",
+  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "entries": {
+    "pack02:33947649": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s13_mess.xml",
+      "string_no": "33947649",
+      "original": "I need you to restore this painting. I want to visit the world inside as quickly as possible.",
+      "translation": "Мне нужно, чтобы вы восстановили эту картину. Я хочу как можно скорее посетить мир внутри."
+    },
+    "pack02:33947650": {
+      "source": "pack02_text_en",
+      "file": "str_npc_s13_mess.xml",
+      "string_no": "33947650",
+      "original": "Investigate this painting for us!",
+      "translation": "Исследуйте эту картину для нас!"
+    }
+  }
+}
