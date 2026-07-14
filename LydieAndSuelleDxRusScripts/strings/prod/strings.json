@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-14T07:49:43.029301+00:00",
+  "generated_at": "2026-07-14T07:57:37.522251+00:00",
   "sources": {
     "pack01_ebm": "work/lydie_pack01_event_ebm_work/event/event_en",
     "pack02_text_en": "work/lydie_pak_en_extracts/PACK02_extract/saves/text_en"
@@ -1851,7 +1851,7 @@
       "path": "mm01/event_message_mm01_320.ebm",
       "index": 5,
       "original": "Promise with Mom Number 5! \"Don't worry - just do it!\"",
-      "translation": "Обещание маме номер 5! «Не волнуйся - просто сделай это!»"
+      "translation": "Обещание маме номер 5! «Не волнуйся — просто сделай это!»"
     },
     "ebm:mm01/event_message_mm01_320.ebm:6": {
       "source": "pack01_ebm",
@@ -2026,7 +2026,7 @@
       "path": "mm01/event_message_mm01_360.ebm",
       "index": 2,
       "original": "If we can make items like this, becoming the greatest atelier in the kingdom isn't a dream!",
-      "translation": "Если мы сможем изготавливать подобные вещи, стать величайшим ателье королевства - это не мечта!"
+      "translation": "Если мы сможем изготавливать подобные вещи, стать величайшим ателье королевства — это не мечта!"
     },
     "ebm:mm01/event_message_mm01_360.ebm:3": {
       "source": "pack01_ebm",
@@ -9173,7 +9173,7 @@
       "path": "mm04/event_message_mm04_150.ebm",
       "index": 7,
       "original": "There is a way. A way to restore the lost power of a Painting - Restoration!",
-      "translation": "Есть способ. Способ вернуть утраченную силу Картины - Реставрация!"
+      "translation": "Есть способ. Способ вернуть утраченную силу Картины — Реставрация!"
     },
     "ebm:mm04/event_message_mm04_150.ebm:8": {
       "source": "pack01_ebm",

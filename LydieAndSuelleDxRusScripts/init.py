@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """Initialize LydieAndSuelleDxRusScripts pipeline.
 
-Validates game files, optionally installs a Steamless-unpacked exe, then runs:
+Builds local tools, validates game files, optionally installs a Steamless-unpacked
+exe, then runs:
+- init_tools.py
 - PACKutils_scripts/extract_packs.py
 - PACK01scripts/extract_pack01_event_ebm.py
 - strings/collect_strings.py
@@ -103,6 +105,11 @@ def main() -> None:
     args = parser.parse_args()
 
     scripts_dir = Path(__file__).resolve().parent
+
+    init_tools_argv = [sys.executable, str(scripts_dir / "init_tools.py")]
+    if args.force:
+        init_tools_argv.append("--force")
+    run_step("init_tools.py", init_tools_argv, cwd=scripts_dir)
 
     validate_tools()
     data_dir = validate_game_data(args.game_dir)

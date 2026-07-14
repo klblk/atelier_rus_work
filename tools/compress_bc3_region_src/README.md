@@ -3,12 +3,19 @@
 Re-encode BC3/DXT5 4×4 blocks inside an existing DDS mip0 from a full RGBA8888 buffer.
 Preserves DDS byte size so `gust_g1t` repack keeps the same `.g1t` file length.
 
+`stb_dxt.h` is vendored in this directory (original: https://raw.githubusercontent.com/nothings/stb/master/stb_dxt.h).
+
 ## Build
 
 ```bash
 cd tools/compress_bc3_region_src
-curl -fsSL https://raw.githubusercontent.com/nothings/stb/master/stb_dxt.h -o stb_dxt.h
 make
+```
+
+Or from the scripts root (also installs gust_tools):
+
+```bash
+python3 LydieAndSuelleDxRusScripts/init_tools.py
 ```
 
 Output: `tools/compress_bc3_region`
