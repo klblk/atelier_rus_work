@@ -1,0 +1,19 @@
+{
+  "sprites": [
+    {"id": "gen_a19_title01_logo", "x": 12, "y": 4},
+    {"id": "gen_a19_title01_copyright", "x": 140, "y": 478},
+    {"id": "gen_a19_title01_newgame__xLIST01", "x": 140, "y": 527, "png": "gen_a19_title01_newgame__xLIST01.png", "w": 350, "h": 88},
+    {"id": "gen_a19_title01_newgame__xLIST02", "x": 496, "y": 527, "png": "gen_a19_title01_newgame__xLIST02.png", "w": 350, "h": 88},
+    {"id": "gen_a19_title01_anybutton", "x": 910, "y": 567, "png": "gen_a19_title01_anybutton.png", "w": 700, "h": 66},
+    {"id": "gen_a19_title01_loadgame__xLIST01", "x": 1110, "y": 4, "png": "gen_a19_title01_loadgame__xLIST01.png", "w": 450, "h": 88},
+    {"id": "gen_a19_title01_loadgame__xLIST02", "x": 1110, "y": 97, "png": "gen_a19_title01_loadgame__xLIST02.png", "w": 450, "h": 88},
+    {"id": "gen_a19_title01_nkl__xLIST01", "x": 1110, "y": 190, "png": "gen_a19_title01_nkl__xLIST01.png", "w": 400, "h": 88},
+    {"id": "gen_a19_title01_nkl__xLIST02", "x": 1110, "y": 283, "png": "gen_a19_title01_nkl__xLIST02.png", "w": 400, "h": 88},
+    {"id": "gen_a19_title01_extra__xLIST01", "x": 1110, "y": 478, "png": "gen_a19_title01_extra__xLIST01.png", "w": 250, "h": 88},
+    {"id": "gen_a19_title01_extra__xLIST02", "x": 1362, "y": 478, "png": "gen_a19_title01_extra__xLIST02.png", "w": 250, "h": 88},
+    {"id": "gen_a19_title01_setting__xLIST01", "x": 1110, "y": 376, "png": "gen_a19_title01_setting__xLIST01.png", "w": 300, "h": 88},
+    {"id": "gen_a19_title01_setting__xLIST02", "x": 1414, "y": 376, "png": "gen_a19_title01_setting__xLIST02.png", "w": 300, "h": 88},
+    {"id": "gen_a19_title01_endgame__xLIST01", "png": "gen_a19_title01_endgame__xLIST01.png", "w": 250, "h": 88},
+    {"id": "gen_a19_title01_endgame__xLIST02", "png": "gen_a19_title01_endgame__xLIST02.png", "w": 250, "h": 88}
+  ]
+}

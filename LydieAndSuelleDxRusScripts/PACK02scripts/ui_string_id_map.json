@@ -1,0 +1,4524 @@
+{
+  "version": 1,
+  "generated_at": "2026-06-26T14:40:28.158087+00:00",
+  "sources": {
+    "str_ui.xml": {
+      "base_string_no": "6619137",
+      "id_prefix": "STR_UI",
+      "entry_count": 290,
+      "entries": [
+        {
+          "file_index": 0,
+          "index": 0,
+          "string_no": "6619137",
+          "string_id": "STR_UI_0000",
+          "text": ""
+        },
+        {
+          "file_index": 1,
+          "index": 1,
+          "string_no": "6619138",
+          "string_id": "STR_UI_0001",
+          "text": ""
+        },
+        {
+          "file_index": 2,
+          "index": 2,
+          "string_no": "6619139",
+          "string_id": "STR_UI_0002",
+          "text": ""
+        },
+        {
+          "file_index": 3,
+          "index": 3,
+          "string_no": "6619140",
+          "string_id": "STR_UI_0003",
+          "text": ""
+        },
+        {
+          "file_index": 4,
+          "index": 4,
+          "string_no": "6619141",
+          "string_id": "STR_UI_0004",
+          "text": ""
+        },
+        {
+          "file_index": 5,
+          "index": 5,
+          "string_no": "6619142",
+          "string_id": "STR_UI_0005",
+          "text": ""
+        },
+        {
+          "file_index": 6,
+          "index": 6,
+          "string_no": "6619143",
+          "string_id": "STR_UI_0006",
+          "text": "Speaker:"
+        },
+        {
+          "file_index": 7,
+          "index": 7,
+          "string_no": "6619144",
+          "string_id": "STR_UI_0007",
+          "text": ""
+        },
+        {
+          "file_index": 8,
+          "index": 8,
+          "string_no": "6619145",
+          "string_id": "STR_UI_0008",
+          "text": ""
+        },
+        {
+          "file_index": 9,
+          "index": 9,
+          "string_no": "6619146",
+          "string_id": "STR_UI_0009",
+          "text": ""
+        },
+        {
+          "file_index": 10,
+          "index": 10,
+          "string_no": "6619147",
+          "string_id": "STR_UI_0010",
+          "text": ""
+        },
+        {
+          "file_index": 11,
+          "index": 11,
+          "string_no": "6619148",
+          "string_id": "STR_UI_0011",
+          "text": ""
+        },
+        {
+          "file_index": 12,
+          "index": 12,
+          "string_no": "6619149",
+          "string_id": "STR_UI_0012",
+          "text": "&lt;IM00&gt;"
+        },
+        {
+          "file_index": 13,
+          "index": 13,
+          "string_no": "6619150",
+          "string_id": "STR_UI_0013",
+          "text": "99"
+        },
+        {
+          "file_index": 14,
+          "index": 14,
+          "string_no": "6619151",
+          "string_id": "STR_UI_0014",
+          "text": ""
+        },
+        {
+          "file_index": 15,
+          "index": 15,
+          "string_no": "6619152",
+          "string_id": "STR_UI_0015",
+          "text": "Attack"
+        },
+        {
+          "file_index": 16,
+          "index": 16,
+          "string_no": "6619153",
+          "string_id": "STR_UI_0016",
+          "text": "Use Skill"
+        },
+        {
+          "file_index": 17,
+          "index": 17,
+          "string_no": "6619154",
+          "string_id": "STR_UI_0017",
+          "text": "Items"
+        },
+        {
+          "file_index": 18,
+          "index": 18,
+          "string_no": "6619155",
+          "string_id": "STR_UI_0018",
+          "text": "Guard"
+        },
+        {
+          "file_index": 19,
+          "index": 19,
+          "string_no": "6619156",
+          "string_id": "STR_UI_0019",
+          "text": "Flee"
+        },
+        {
+          "file_index": 20,
+          "index": 20,
+          "string_no": "6619157",
+          "string_id": "STR_UI_0020",
+          "text": "100"
+        },
+        {
+          "file_index": 21,
+          "index": 21,
+          "string_no": "6619158",
+          "string_id": "STR_UI_0021",
+          "text": "88888"
+        },
+        {
+          "file_index": 22,
+          "index": 22,
+          "string_no": "6619159",
+          "string_id": "STR_UI_0022",
+          "text": "99999"
+        },
+        {
+          "file_index": 23,
+          "index": 24,
+          "string_no": "6619161",
+          "string_id": "STR_UI_0024",
+          "text": ""
+        },
+        {
+          "file_index": 24,
+          "index": 26,
+          "string_no": "6619163",
+          "string_id": "STR_UI_0026",
+          "text": "MP"
+        },
+        {
+          "file_index": 25,
+          "index": 27,
+          "string_no": "6619164",
+          "string_id": "STR_UI_0027",
+          "text": ""
+        },
+        {
+          "file_index": 26,
+          "index": 28,
+          "string_no": "6619165",
+          "string_id": "STR_UI_0028",
+          "text": "Target"
+        },
+        {
+          "file_index": 27,
+          "index": 29,
+          "string_no": "6619166",
+          "string_id": "STR_UI_0029",
+          "text": "Area"
+        },
+        {
+          "file_index": 28,
+          "index": 30,
+          "string_no": "6619167",
+          "string_id": "STR_UI_0030",
+          "text": "Effect 1"
+        },
+        {
+          "file_index": 29,
+          "index": 31,
+          "string_no": "6619168",
+          "string_id": "STR_UI_0031",
+          "text": "～"
+        },
+        {
+          "file_index": 30,
+          "index": 32,
+          "string_no": "6619169",
+          "string_id": "STR_UI_0032",
+          "text": "9"
+        },
+        {
+          "file_index": 31,
+          "index": 33,
+          "string_no": "6619170",
+          "string_id": "STR_UI_0033",
+          "text": "%"
+        },
+        {
+          "file_index": 32,
+          "index": 34,
+          "string_no": "6619171",
+          "string_id": "STR_UI_0034",
+          "text": "CHAIN BURST"
+        },
+        {
+          "file_index": 33,
+          "index": 35,
+          "string_no": "6619172",
+          "string_id": "STR_UI_0035",
+          "text": "Max"
+        },
+        {
+          "file_index": 34,
+          "index": 36,
+          "string_no": "6619173",
+          "string_id": "STR_UI_0036",
+          "text": "Lv"
+        },
+        {
+          "file_index": 35,
+          "index": 37,
+          "string_no": "6619174",
+          "string_id": "STR_UI_0037",
+          "text": "99999999"
+        },
+        {
+          "file_index": 36,
+          "index": 38,
+          "string_no": "6619175",
+          "string_id": "STR_UI_0038",
+          "text": "99999"
+        },
+        {
+          "file_index": 37,
+          "index": 39,
+          "string_no": "6619176",
+          "string_id": "STR_UI_0039",
+          "text": "Exp"
+        },
+        {
+          "file_index": 38,
+          "index": 40,
+          "string_no": "6619177",
+          "string_id": "STR_UI_0040",
+          "text": "Next"
+        },
+        {
+          "file_index": 39,
+          "index": 41,
+          "string_no": "6619178",
+          "string_id": "STR_UI_0041",
+          "text": "99999"
+        },
+        {
+          "file_index": 40,
+          "index": 42,
+          "string_no": "6619179",
+          "string_id": "STR_UI_0042",
+          "text": "Coll Received"
+        },
+        {
+          "file_index": 41,
+          "index": 43,
+          "string_no": "6619180",
+          "string_id": "STR_UI_0043",
+          "text": "9999999"
+        },
+        {
+          "file_index": 42,
+          "index": 44,
+          "string_no": "6619181",
+          "string_id": "STR_UI_0044",
+          "text": ""
+        },
+        {
+          "file_index": 43,
+          "index": 45,
+          "string_no": "6619182",
+          "string_id": "STR_UI_0045",
+          "text": "999"
+        },
+        {
+          "file_index": 44,
+          "index": 46,
+          "string_no": "6619183",
+          "string_id": "STR_UI_0046",
+          "text": ""
+        },
+        {
+          "file_index": 45,
+          "index": 47,
+          "string_no": "6619184",
+          "string_id": "STR_UI_0047",
+          "text": "Obtained"
+        },
+        {
+          "file_index": 46,
+          "index": 48,
+          "string_no": "6619185",
+          "string_id": "STR_UI_0048",
+          "text": "8"
+        },
+        {
+          "file_index": 47,
+          "index": 49,
+          "string_no": "6619186",
+          "string_id": "STR_UI_0049",
+          "text": "&lt;IM19&gt;"
+        },
+        {
+          "file_index": 48,
+          "index": 50,
+          "string_no": "6619187",
+          "string_id": "STR_UI_0050",
+          "text": "888"
+        },
+        {
+          "file_index": 49,
+          "index": 51,
+          "string_no": "6619188",
+          "string_id": "STR_UI_0051",
+          "text": "88"
+        },
+        {
+          "file_index": 50,
+          "index": 52,
+          "string_no": "6619189",
+          "string_id": "STR_UI_0052",
+          "text": "Month"
+        },
+        {
+          "file_index": 51,
+          "index": 53,
+          "string_no": "6619190",
+          "string_id": "STR_UI_0053",
+          "text": "Day"
+        },
+        {
+          "file_index": 52,
+          "index": 54,
+          "string_no": "6619191",
+          "string_id": "STR_UI_0054",
+          "text": "day(s) left"
+        },
+        {
+          "file_index": 53,
+          "index": 55,
+          "string_no": "6619192",
+          "string_id": "STR_UI_0055",
+          "text": "h"
+        },
+        {
+          "file_index": 54,
+          "index": 56,
+          "string_no": "6619193",
+          "string_id": "STR_UI_0056",
+          "text": "Rest"
+        },
+        {
+          "file_index": 55,
+          "index": 57,
+          "string_no": "6619194",
+          "string_id": "STR_UI_0057",
+          "text": "8888"
+        },
+        {
+          "file_index": 56,
+          "index": 58,
+          "string_no": "6619195",
+          "string_id": "STR_UI_0058",
+          "text": "9999"
+        },
+        {
+          "file_index": 57,
+          "index": 59,
+          "string_no": "6619196",
+          "string_id": "STR_UI_0059",
+          "text": ""
+        },
+        {
+          "file_index": 58,
+          "index": 60,
+          "string_no": "6619197",
+          "string_id": "STR_UI_0060",
+          "text": ""
+        },
+        {
+          "file_index": 59,
+          "index": 61,
+          "string_no": "6619198",
+          "string_id": "STR_UI_0061",
+          "text": ""
+        },
+        {
+          "file_index": 60,
+          "index": 62,
+          "string_no": "6619199",
+          "string_id": "STR_UI_0062",
+          "text": ""
+        },
+        {
+          "file_index": 61,
+          "index": 63,
+          "string_no": "6619200",
+          "string_id": "STR_UI_0063",
+          "text": ""
+        },
+        {
+          "file_index": 62,
+          "index": 64,
+          "string_no": "6619201",
+          "string_id": "STR_UI_0064",
+          "text": ""
+        },
+        {
+          "file_index": 63,
+          "index": 65,
+          "string_no": "6619202",
+          "string_id": "STR_UI_0065",
+          "text": "&lt;IM01&gt;"
+        },
+        {
+          "file_index": 64,
+          "index": 66,
+          "string_no": "6619203",
+          "string_id": "STR_UI_0066",
+          "text": "&lt;IM05&gt;"
+        },
+        {
+          "file_index": 65,
+          "index": 67,
+          "string_no": "6619204",
+          "string_id": "STR_UI_0067",
+          "text": "HP"
+        },
+        {
+          "file_index": 66,
+          "index": 68,
+          "string_no": "6619205",
+          "string_id": "STR_UI_0068",
+          "text": "LP"
+        },
+        {
+          "file_index": 67,
+          "index": 69,
+          "string_no": "6619206",
+          "string_id": "STR_UI_0069",
+          "text": "100"
+        },
+        {
+          "file_index": 68,
+          "index": 70,
+          "string_no": "6619207",
+          "string_id": "STR_UI_0070",
+          "text": ""
+        },
+        {
+          "file_index": 69,
+          "index": 71,
+          "string_no": "6619208",
+          "string_id": "STR_UI_0071",
+          "text": "Get"
+        },
+        {
+          "file_index": 70,
+          "index": 72,
+          "string_no": "6619209",
+          "string_id": "STR_UI_0072",
+          "text": ""
+        },
+        {
+          "file_index": 71,
+          "index": 73,
+          "string_no": "6619210",
+          "string_id": "STR_UI_0073",
+          "text": "X%d"
+        },
+        {
+          "file_index": 72,
+          "index": 74,
+          "string_no": "6619211",
+          "string_id": "STR_UI_0074",
+          "text": ""
+        },
+        {
+          "file_index": 73,
+          "index": 75,
+          "string_no": "6619212",
+          "string_id": "STR_UI_0075",
+          "text": ""
+        },
+        {
+          "file_index": 74,
+          "index": 76,
+          "string_no": "6619213",
+          "string_id": "STR_UI_0076",
+          "text": "Normal"
+        },
+        {
+          "file_index": 75,
+          "index": 77,
+          "string_no": "6619214",
+          "string_id": "STR_UI_0077",
+          "text": ":"
+        },
+        {
+          "file_index": 76,
+          "index": 78,
+          "string_no": "6619215",
+          "string_id": "STR_UI_0078",
+          "text": "Sweet"
+        },
+        {
+          "file_index": 77,
+          "index": 79,
+          "string_no": "6619216",
+          "string_id": "STR_UI_0079",
+          "text": "Back"
+        },
+        {
+          "file_index": 78,
+          "index": 80,
+          "string_no": "6619217",
+          "string_id": "STR_UI_0080",
+          "text": ""
+        },
+        {
+          "file_index": 79,
+          "index": 81,
+          "string_no": "6619218",
+          "string_id": "STR_UI_0081",
+          "text": "Reached 100% gathering rate!"
+        },
+        {
+          "file_index": 80,
+          "index": 82,
+          "string_no": "6619219",
+          "string_id": "STR_UI_0082",
+          "text": "Information Delivery Note"
+        },
+        {
+          "file_index": 81,
+          "index": 83,
+          "string_no": "6619220",
+          "string_id": "STR_UI_0083",
+          "text": "Result"
+        },
+        {
+          "file_index": 82,
+          "index": 84,
+          "string_no": "6619221",
+          "string_id": "STR_UI_0084",
+          "text": ""
+        },
+        {
+          "file_index": 83,
+          "index": 85,
+          "string_no": "6619222",
+          "string_id": "STR_UI_0085",
+          "text": "★Reached 100% gathering rate!"
+        },
+        {
+          "file_index": 84,
+          "index": 86,
+          "string_no": "6619223",
+          "string_id": "STR_UI_0086",
+          "text": "Map Info"
+        },
+        {
+          "file_index": 85,
+          "index": 87,
+          "string_no": "6619224",
+          "string_id": "STR_UI_0087",
+          "text": "Item Info"
+        },
+        {
+          "file_index": 86,
+          "index": 88,
+          "string_no": "6619225",
+          "string_id": "STR_UI_0088",
+          "text": ""
+        },
+        {
+          "file_index": 87,
+          "index": 89,
+          "string_no": "6619226",
+          "string_id": "STR_UI_0089",
+          "text": "Filter items"
+        },
+        {
+          "file_index": 88,
+          "index": 90,
+          "string_no": "6619227",
+          "string_id": "STR_UI_0090",
+          "text": "Categories"
+        },
+        {
+          "file_index": 89,
+          "index": 91,
+          "string_no": "6619228",
+          "string_id": "STR_UI_0091",
+          "text": "Color"
+        },
+        {
+          "file_index": 90,
+          "index": 92,
+          "string_no": "6619229",
+          "string_id": "STR_UI_0092",
+          "text": "Red"
+        },
+        {
+          "file_index": 91,
+          "index": 93,
+          "string_no": "6619230",
+          "string_id": "STR_UI_0093",
+          "text": "Section"
+        },
+        {
+          "file_index": 92,
+          "index": 94,
+          "string_no": "6619231",
+          "string_id": "STR_UI_0094",
+          "text": "0"
+        },
+        {
+          "file_index": 93,
+          "index": 95,
+          "string_no": "6619232",
+          "string_id": "STR_UI_0095",
+          "text": "Trait"
+        },
+        {
+          "file_index": 94,
+          "index": 96,
+          "string_no": "6619233",
+          "string_id": "STR_UI_0096",
+          "text": "Catalyst"
+        },
+        {
+          "file_index": 95,
+          "index": 97,
+          "string_no": "6619234",
+          "string_id": "STR_UI_0097",
+          "text": "Catalyst Name"
+        },
+        {
+          "file_index": 96,
+          "index": 98,
+          "string_no": "6619235",
+          "string_id": "STR_UI_0098",
+          "text": "No Setting"
+        },
+        {
+          "file_index": 97,
+          "index": 99,
+          "string_no": "6619236",
+          "string_id": "STR_UI_0099",
+          "text": "Reset"
+        },
+        {
+          "file_index": 98,
+          "index": 100,
+          "string_no": "6619237",
+          "string_id": "STR_UI_0100",
+          "text": "Save and Exit"
+        },
+        {
+          "file_index": 99,
+          "index": 101,
+          "string_no": "6619238",
+          "string_id": "STR_UI_0101",
+          "text": "(     matching)"
+        },
+        {
+          "file_index": 100,
+          "index": 102,
+          "string_no": "6619239",
+          "string_id": "STR_UI_0102",
+          "text": "Uni Bag"
+        },
+        {
+          "file_index": 101,
+          "index": 103,
+          "string_no": "6619240",
+          "string_id": "STR_UI_0103",
+          "text": "Total"
+        },
+        {
+          "file_index": 102,
+          "index": 104,
+          "string_no": "6619241",
+          "string_id": "STR_UI_0104",
+          "text": ""
+        },
+        {
+          "file_index": 103,
+          "index": 105,
+          "string_no": "6619242",
+          "string_id": "STR_UI_0105",
+          "text": "Attack"
+        },
+        {
+          "file_index": 104,
+          "index": 106,
+          "string_no": "6619243",
+          "string_id": "STR_UI_0106",
+          "text": "Damage"
+        },
+        {
+          "file_index": 105,
+          "index": 107,
+          "string_no": "6619244",
+          "string_id": "STR_UI_0107",
+          "text": "Defense"
+        },
+        {
+          "file_index": 106,
+          "index": 108,
+          "string_no": "6619245",
+          "string_id": "STR_UI_0108",
+          "text": "Speed"
+        },
+        {
+          "file_index": 107,
+          "index": 109,
+          "string_no": "6619246",
+          "string_id": "STR_UI_0109",
+          "text": "~"
+        },
+        {
+          "file_index": 108,
+          "index": 110,
+          "string_no": "6619247",
+          "string_id": "STR_UI_0110",
+          "text": "-999"
+        },
+        {
+          "file_index": 109,
+          "index": 111,
+          "string_no": "6619248",
+          "string_id": "STR_UI_0111",
+          "text": "Angriff"
+        },
+        {
+          "file_index": 110,
+          "index": 112,
+          "string_no": "6619249",
+          "string_id": "STR_UI_0112",
+          "text": "999"
+        },
+        {
+          "file_index": 111,
+          "index": 113,
+          "string_no": "6619250",
+          "string_id": "STR_UI_0113",
+          "text": "Donkerhein"
+        },
+        {
+          "file_index": 112,
+          "index": 114,
+          "string_no": "6619251",
+          "string_id": "STR_UI_0114",
+          "text": "In stock"
+        },
+        {
+          "file_index": 113,
+          "index": 115,
+          "string_no": "6619252",
+          "string_id": "STR_UI_0115",
+          "text": "537"
+        },
+        {
+          "file_index": 114,
+          "index": 116,
+          "string_no": "6619253",
+          "string_id": "STR_UI_0116",
+          "text": "Held"
+        },
+        {
+          "file_index": 115,
+          "index": 117,
+          "string_no": "6619254",
+          "string_id": "STR_UI_0117",
+          "text": "6"
+        },
+        {
+          "file_index": 116,
+          "index": 118,
+          "string_no": "6619255",
+          "string_id": "STR_UI_0118",
+          "text": "Effect"
+        },
+        {
+          "file_index": 117,
+          "index": 119,
+          "string_no": "6619256",
+          "string_id": "STR_UI_0119",
+          "text": "&quot;This one is yellow. It's precious, there are only three in the whole world.&quot; &quot;This person is lying.&quot; &quot;Everyone is lying.&quot;"
+        },
+        {
+          "file_index": 118,
+          "index": 120,
+          "string_no": "6619257",
+          "string_id": "STR_UI_0120",
+          "text": "All"
+        },
+        {
+          "file_index": 119,
+          "index": 121,
+          "string_no": "6619258",
+          "string_id": "STR_UI_0121",
+          "text": "Materials"
+        },
+        {
+          "file_index": 120,
+          "index": 122,
+          "string_no": "6619259",
+          "string_id": "STR_UI_0122",
+          "text": "Synthesis"
+        },
+        {
+          "file_index": 121,
+          "index": 123,
+          "string_no": "6619260",
+          "string_id": "STR_UI_0123",
+          "text": "Usable Items"
+        },
+        {
+          "file_index": 122,
+          "index": 124,
+          "string_no": "6619261",
+          "string_id": "STR_UI_0124",
+          "text": "Gathering"
+        },
+        {
+          "file_index": 123,
+          "index": 125,
+          "string_no": "6619262",
+          "string_id": "STR_UI_0125",
+          "text": "Ornaments"
+        },
+        {
+          "file_index": 124,
+          "index": 127,
+          "string_no": "6619264",
+          "string_id": "STR_UI_0127",
+          "text": "Artwork"
+        },
+        {
+          "file_index": 125,
+          "index": 128,
+          "string_no": "6619265",
+          "string_id": "STR_UI_0128",
+          "text": "Other"
+        },
+        {
+          "file_index": 126,
+          "index": 129,
+          "string_no": "6619266",
+          "string_id": "STR_UI_0129",
+          "text": "Filter Items"
+        },
+        {
+          "file_index": 127,
+          "index": 130,
+          "string_no": "6619267",
+          "string_id": "STR_UI_0130",
+          "text": "Lowest Level"
+        },
+        {
+          "file_index": 128,
+          "index": 131,
+          "string_no": "6619268",
+          "string_id": "STR_UI_0131",
+          "text": "Highest Level"
+        },
+        {
+          "file_index": 129,
+          "index": 132,
+          "string_no": "6619269",
+          "string_id": "STR_UI_0132",
+          "text": ""
+        },
+        {
+          "file_index": 130,
+          "index": 133,
+          "string_no": "6619270",
+          "string_id": "STR_UI_0133",
+          "text": "Type:"
+        },
+        {
+          "file_index": 131,
+          "index": 134,
+          "string_no": "6619271",
+          "string_id": "STR_UI_0134",
+          "text": ""
+        },
+        {
+          "file_index": 132,
+          "index": 135,
+          "string_no": "6619272",
+          "string_id": "STR_UI_0135",
+          "text": "etc."
+        },
+        {
+          "file_index": 133,
+          "index": 136,
+          "string_no": "6619273",
+          "string_id": "STR_UI_0136",
+          "text": ""
+        },
+        {
+          "file_index": 134,
+          "index": 137,
+          "string_no": "6619274",
+          "string_id": "STR_UI_0137",
+          "text": ""
+        },
+        {
+          "file_index": 135,
+          "index": 138,
+          "string_no": "6619275",
+          "string_id": "STR_UI_0138",
+          "text": ""
+        },
+        {
+          "file_index": 136,
+          "index": 139,
+          "string_no": "6619276",
+          "string_id": "STR_UI_0139",
+          "text": ""
+        },
+        {
+          "file_index": 137,
+          "index": 140,
+          "string_no": "6619277",
+          "string_id": "STR_UI_0140",
+          "text": "Type"
+        },
+        {
+          "file_index": 138,
+          "index": 141,
+          "string_no": "6619278",
+          "string_id": "STR_UI_0141",
+          "text": "Base Price"
+        },
+        {
+          "file_index": 139,
+          "index": 142,
+          "string_no": "6619279",
+          "string_id": "STR_UI_0142",
+          "text": "300"
+        },
+        {
+          "file_index": 140,
+          "index": 143,
+          "string_no": "6619280",
+          "string_id": "STR_UI_0143",
+          "text": "(puniball)"
+        },
+        {
+          "file_index": 141,
+          "index": 144,
+          "string_no": "6619281",
+          "string_id": "STR_UI_0144",
+          "text": "Wave Breaker Bridge"
+        },
+        {
+          "file_index": 142,
+          "index": 145,
+          "string_no": "6619282",
+          "string_id": "STR_UI_0145",
+          "text": ""
+        },
+        {
+          "file_index": 143,
+          "index": 146,
+          "string_no": "6619283",
+          "string_id": "STR_UI_0146",
+          "text": "x"
+        },
+        {
+          "file_index": 144,
+          "index": 147,
+          "string_no": "6619284",
+          "string_id": "STR_UI_0147",
+          "text": "(water)"
+        },
+        {
+          "file_index": 145,
+          "index": 148,
+          "string_no": "6619285",
+          "string_id": "STR_UI_0148",
+          "text": ""
+        },
+        {
+          "file_index": 146,
+          "index": 149,
+          "string_no": "6619286",
+          "string_id": "STR_UI_0149",
+          "text": "(Components  )"
+        },
+        {
+          "file_index": 147,
+          "index": 150,
+          "string_no": "6619287",
+          "string_id": "STR_UI_0150",
+          "text": "-99"
+        },
+        {
+          "file_index": 148,
+          "index": 151,
+          "string_no": "6619288",
+          "string_id": "STR_UI_0151",
+          "text": "Lv."
+        },
+        {
+          "file_index": 149,
+          "index": 152,
+          "string_no": "6619289",
+          "string_id": "STR_UI_0152",
+          "text": "10"
+        },
+        {
+          "file_index": 150,
+          "index": 153,
+          "string_no": "6619290",
+          "string_id": "STR_UI_0153",
+          "text": "1"
+        },
+        {
+          "file_index": 151,
+          "index": 154,
+          "string_no": "6619291",
+          "string_id": "STR_UI_0154",
+          "text": "2"
+        },
+        {
+          "file_index": 152,
+          "index": 155,
+          "string_no": "6619292",
+          "string_id": "STR_UI_0155",
+          "text": "Species"
+        },
+        {
+          "file_index": 153,
+          "index": 156,
+          "string_no": "6619293",
+          "string_id": "STR_UI_0156",
+          "text": ""
+        },
+        {
+          "file_index": 154,
+          "index": 157,
+          "string_no": "6619294",
+          "string_id": "STR_UI_0157",
+          "text": "Resistance"
+        },
+        {
+          "file_index": 155,
+          "index": 158,
+          "string_no": "6619295",
+          "string_id": "STR_UI_0158",
+          "text": "EXP"
+        },
+        {
+          "file_index": 156,
+          "index": 159,
+          "string_no": "6619296",
+          "string_id": "STR_UI_0159",
+          "text": "Recipe Ideas"
+        },
+        {
+          "file_index": 157,
+          "index": 160,
+          "string_no": "6619297",
+          "string_id": "STR_UI_0160",
+          "text": "Effects &amp; Traits"
+        },
+        {
+          "file_index": 158,
+          "index": 161,
+          "string_no": "6619298",
+          "string_id": "STR_UI_0161",
+          "text": "Monsters"
+        },
+        {
+          "file_index": 159,
+          "index": 162,
+          "string_no": "6619299",
+          "string_id": "STR_UI_0162",
+          "text": "Areas"
+        },
+        {
+          "file_index": 160,
+          "index": 163,
+          "string_no": "6619300",
+          "string_id": "STR_UI_0163",
+          "text": "Help"
+        },
+        {
+          "file_index": 161,
+          "index": 164,
+          "string_no": "6619301",
+          "string_id": "STR_UI_0164",
+          "text": "30"
+        },
+        {
+          "file_index": 162,
+          "index": 165,
+          "string_no": "6619302",
+          "string_id": "STR_UI_0165",
+          "text": "33"
+        },
+        {
+          "file_index": 163,
+          "index": 166,
+          "string_no": "6619303",
+          "string_id": "STR_UI_0166",
+          "text": "3"
+        },
+        {
+          "file_index": 164,
+          "index": 167,
+          "string_no": "6619304",
+          "string_id": "STR_UI_0167",
+          "text": "Firis"
+        },
+        {
+          "file_index": 165,
+          "index": 168,
+          "string_no": "6619305",
+          "string_id": "STR_UI_0168",
+          "text": "+"
+        },
+        {
+          "file_index": 166,
+          "index": 169,
+          "string_no": "6619306",
+          "string_id": "STR_UI_0169",
+          "text": "-"
+        },
+        {
+          "file_index": 167,
+          "index": 170,
+          "string_no": "6619307",
+          "string_id": "STR_UI_0170",
+          "text": "999999"
+        },
+        {
+          "file_index": 168,
+          "index": 171,
+          "string_no": "6619308",
+          "string_id": "STR_UI_0171",
+          "text": ""
+        },
+        {
+          "file_index": 169,
+          "index": 173,
+          "string_no": "6619310",
+          "string_id": "STR_UI_0173",
+          "text": ""
+        },
+        {
+          "file_index": 170,
+          "index": 174,
+          "string_no": "6619311",
+          "string_id": "STR_UI_0174",
+          "text": ""
+        },
+        {
+          "file_index": 171,
+          "index": 175,
+          "string_no": "6619312",
+          "string_id": "STR_UI_0175",
+          "text": ""
+        },
+        {
+          "file_index": 172,
+          "index": 176,
+          "string_no": "6619313",
+          "string_id": "STR_UI_0176",
+          "text": ""
+        },
+        {
+          "file_index": 173,
+          "index": 177,
+          "string_no": "6619314",
+          "string_id": "STR_UI_0177",
+          "text": ""
+        },
+        {
+          "file_index": 174,
+          "index": 178,
+          "string_no": "6619315",
+          "string_id": "STR_UI_0178",
+          "text": "9"
+        },
+        {
+          "file_index": 175,
+          "index": 179,
+          "string_no": "6619316",
+          "string_id": "STR_UI_0179",
+          "text": "( )"
+        },
+        {
+          "file_index": 176,
+          "index": 180,
+          "string_no": "6619317",
+          "string_id": "STR_UI_0180",
+          "text": "(Components  )"
+        },
+        {
+          "file_index": 177,
+          "index": 181,
+          "string_no": "6619318",
+          "string_id": "STR_UI_0181",
+          "text": "Alchemy Lv."
+        },
+        {
+          "file_index": 178,
+          "index": 182,
+          "string_no": "6619319",
+          "string_id": "STR_UI_0182",
+          "text": "Exp received"
+        },
+        {
+          "file_index": 179,
+          "index": 183,
+          "string_no": "6619320",
+          "string_id": "STR_UI_0183",
+          "text": "Bonus"
+        },
+        {
+          "file_index": 180,
+          "index": 184,
+          "string_no": "6619321",
+          "string_id": "STR_UI_0184",
+          "text": "Exp"
+        },
+        {
+          "file_index": 181,
+          "index": 185,
+          "string_no": "6619322",
+          "string_id": "STR_UI_0185",
+          "text": "Monstrous"
+        },
+        {
+          "file_index": 182,
+          "index": 186,
+          "string_no": "6619323",
+          "string_id": "STR_UI_0186",
+          "text": "22"
+        },
+        {
+          "file_index": 183,
+          "index": 187,
+          "string_no": "6619324",
+          "string_id": "STR_UI_0187",
+          "text": "(Category)"
+        },
+        {
+          "file_index": 184,
+          "index": 188,
+          "string_no": "6619325",
+          "string_id": "STR_UI_0188",
+          "text": "Overall Quality"
+        },
+        {
+          "file_index": 185,
+          "index": 189,
+          "string_no": "6619326",
+          "string_id": "STR_UI_0189",
+          "text": "Over"
+        },
+        {
+          "file_index": 186,
+          "index": 190,
+          "string_no": "6619327",
+          "string_id": "STR_UI_0190",
+          "text": "Below"
+        },
+        {
+          "file_index": 187,
+          "index": 191,
+          "string_no": "6619328",
+          "string_id": "STR_UI_0191",
+          "text": "Quality +10"
+        },
+        {
+          "file_index": 188,
+          "index": 192,
+          "string_no": "6619329",
+          "string_id": "STR_UI_0192",
+          "text": "1"
+        },
+        {
+          "file_index": 189,
+          "index": 193,
+          "string_no": "6619330",
+          "string_id": "STR_UI_0193",
+          "text": "1"
+        },
+        {
+          "file_index": 190,
+          "index": 195,
+          "string_no": "6619332",
+          "string_id": "STR_UI_0195",
+          "text": "Alchemy level is too low."
+        },
+        {
+          "file_index": 191,
+          "index": 196,
+          "string_no": "6619333",
+          "string_id": "STR_UI_0196",
+          "text": "(Magic Item)"
+        },
+        {
+          "file_index": 192,
+          "index": 197,
+          "string_no": "6619334",
+          "string_id": "STR_UI_0197",
+          "text": "Not enough materials."
+        },
+        {
+          "file_index": 193,
+          "index": 198,
+          "string_no": "6619335",
+          "string_id": "STR_UI_0198",
+          "text": "Components required:"
+        },
+        {
+          "file_index": 194,
+          "index": 199,
+          "string_no": "6619336",
+          "string_id": "STR_UI_0199",
+          "text": "Synthesis time:"
+        },
+        {
+          "file_index": 195,
+          "index": 200,
+          "string_no": "6619337",
+          "string_id": "STR_UI_0200",
+          "text": "h"
+        },
+        {
+          "file_index": 196,
+          "index": 201,
+          "string_no": "6619338",
+          "string_id": "STR_UI_0201",
+          "text": "12"
+        },
+        {
+          "file_index": 197,
+          "index": 202,
+          "string_no": "6619339",
+          "string_id": "STR_UI_0202",
+          "text": "Transferrable:"
+        },
+        {
+          "file_index": 198,
+          "index": 203,
+          "string_no": "6619340",
+          "string_id": "STR_UI_0203",
+          "text": "Uses:"
+        },
+        {
+          "file_index": 199,
+          "index": 204,
+          "string_no": "6619341",
+          "string_id": "STR_UI_0204",
+          "text": ""
+        },
+        {
+          "file_index": 200,
+          "index": 205,
+          "string_no": "6619342",
+          "string_id": "STR_UI_0205",
+          "text": ""
+        },
+        {
+          "file_index": 201,
+          "index": 206,
+          "string_no": "6619343",
+          "string_id": "STR_UI_0206",
+          "text": "Location:"
+        },
+        {
+          "file_index": 202,
+          "index": 207,
+          "string_no": "6619344",
+          "string_id": "STR_UI_0207",
+          "text": ""
+        },
+        {
+          "file_index": 203,
+          "index": 208,
+          "string_no": "6619345",
+          "string_id": "STR_UI_0208",
+          "text": "Site:"
+        },
+        {
+          "file_index": 204,
+          "index": 209,
+          "string_no": "6619346",
+          "string_id": "STR_UI_0209",
+          "text": ""
+        },
+        {
+          "file_index": 205,
+          "index": 210,
+          "string_no": "6619347",
+          "string_id": "STR_UI_0210",
+          "text": "Vicinity"
+        },
+        {
+          "file_index": 206,
+          "index": 211,
+          "string_no": "6619348",
+          "string_id": "STR_UI_0211",
+          "text": "Limit:"
+        },
+        {
+          "file_index": 207,
+          "index": 212,
+          "string_no": "6619349",
+          "string_id": "STR_UI_0212",
+          "text": "99m 99d"
+        },
+        {
+          "file_index": 208,
+          "index": 213,
+          "string_no": "6619350",
+          "string_id": "STR_UI_0213",
+          "text": "Reward:"
+        },
+        {
+          "file_index": 209,
+          "index": 214,
+          "string_no": "6619351",
+          "string_id": "STR_UI_0214",
+          "text": "Quest details:"
+        },
+        {
+          "file_index": 210,
+          "index": 215,
+          "string_no": "6619352",
+          "string_id": "STR_UI_0215",
+          "text": ""
+        },
+        {
+          "file_index": 211,
+          "index": 216,
+          "string_no": "6619353",
+          "string_id": "STR_UI_0216",
+          "text": ""
+        },
+        {
+          "file_index": 212,
+          "index": 217,
+          "string_no": "6619354",
+          "string_id": "STR_UI_0217",
+          "text": "Related quests"
+        },
+        {
+          "file_index": 213,
+          "index": 218,
+          "string_no": "6619355",
+          "string_id": "STR_UI_0218",
+          "text": "Chronologically"
+        },
+        {
+          "file_index": 214,
+          "index": 219,
+          "string_no": "6619356",
+          "string_id": "STR_UI_0219",
+          "text": "By location"
+        },
+        {
+          "file_index": 215,
+          "index": 220,
+          "string_no": "6619357",
+          "string_id": "STR_UI_0220",
+          "text": "By category"
+        },
+        {
+          "file_index": 216,
+          "index": 221,
+          "string_no": "6619358",
+          "string_id": "STR_UI_0221",
+          "text": "pt"
+        },
+        {
+          "file_index": 217,
+          "index": 222,
+          "string_no": "6619359",
+          "string_id": "STR_UI_0222",
+          "text": ""
+        },
+        {
+          "file_index": 218,
+          "index": 223,
+          "string_no": "6619360",
+          "string_id": "STR_UI_0223",
+          "text": ""
+        },
+        {
+          "file_index": 219,
+          "index": 224,
+          "string_no": "6619361",
+          "string_id": "STR_UI_0224",
+          "text": "Learned a new recipe!"
+        },
+        {
+          "file_index": 220,
+          "index": 225,
+          "string_no": "6619362",
+          "string_id": "STR_UI_0225",
+          "text": "Price"
+        },
+        {
+          "file_index": 221,
+          "index": 226,
+          "string_no": "6619363",
+          "string_id": "STR_UI_0226",
+          "text": "Buy"
+        },
+        {
+          "file_index": 222,
+          "index": 227,
+          "string_no": "6619364",
+          "string_id": "STR_UI_0227",
+          "text": "Sell"
+        },
+        {
+          "file_index": 223,
+          "index": 228,
+          "string_no": "6619365",
+          "string_id": "STR_UI_0228",
+          "text": "Yes"
+        },
+        {
+          "file_index": 224,
+          "index": 229,
+          "string_no": "6619366",
+          "string_id": "STR_UI_0229",
+          "text": "No"
+        },
+        {
+          "file_index": 225,
+          "index": 230,
+          "string_no": "6619367",
+          "string_id": "STR_UI_0230",
+          "text": "How many do you want to buy?"
+        },
+        {
+          "file_index": 226,
+          "index": 231,
+          "string_no": "6619368",
+          "string_id": "STR_UI_0231",
+          "text": "(  owned)"
+        },
+        {
+          "file_index": 227,
+          "index": 232,
+          "string_no": "6619369",
+          "string_id": "STR_UI_0232",
+          "text": "1"
+        },
+        {
+          "file_index": 228,
+          "index": 233,
+          "string_no": "6619370",
+          "string_id": "STR_UI_0233",
+          "text": "Left"
+        },
+        {
+          "file_index": 229,
+          "index": 234,
+          "string_no": "6619371",
+          "string_id": "STR_UI_0234",
+          "text": "Obtained"
+        },
+        {
+          "file_index": 230,
+          "index": 235,
+          "string_no": "6619372",
+          "string_id": "STR_UI_0235",
+          "text": ""
+        },
+        {
+          "file_index": 231,
+          "index": 236,
+          "string_no": "6619373",
+          "string_id": "STR_UI_0236",
+          "text": ""
+        },
+        {
+          "file_index": 232,
+          "index": 237,
+          "string_no": "6619374",
+          "string_id": "STR_UI_0237",
+          "text": ""
+        },
+        {
+          "file_index": 233,
+          "index": 238,
+          "string_no": "6619375",
+          "string_id": "STR_UI_0238",
+          "text": ""
+        },
+        {
+          "file_index": 234,
+          "index": 239,
+          "string_no": "6619376",
+          "string_id": "STR_UI_0239",
+          "text": ""
+        },
+        {
+          "file_index": 235,
+          "index": 240,
+          "string_no": "6619377",
+          "string_id": "STR_UI_0240",
+          "text": ""
+        },
+        {
+          "file_index": 236,
+          "index": 242,
+          "string_no": "6619379",
+          "string_id": "STR_UI_0242",
+          "text": "BGM"
+        },
+        {
+          "file_index": 237,
+          "index": 243,
+          "string_no": "6619380",
+          "string_id": "STR_UI_0243",
+          "text": "SE"
+        },
+        {
+          "file_index": 238,
+          "index": 244,
+          "string_no": "6619381",
+          "string_id": "STR_UI_0244",
+          "text": "VOICE"
+        },
+        {
+          "file_index": 239,
+          "index": 245,
+          "string_no": "6619382",
+          "string_id": "STR_UI_0245",
+          "text": "MOVIE"
+        },
+        {
+          "file_index": 240,
+          "index": 246,
+          "string_no": "6619383",
+          "string_id": "STR_UI_0246",
+          "text": "Camera Vertical"
+        },
+        {
+          "file_index": 241,
+          "index": 247,
+          "string_no": "6619384",
+          "string_id": "STR_UI_0247",
+          "text": "Reverse"
+        },
+        {
+          "file_index": 242,
+          "index": 248,
+          "string_no": "6619385",
+          "string_id": "STR_UI_0248",
+          "text": "Camera Horizontal"
+        },
+        {
+          "file_index": 243,
+          "index": 249,
+          "string_no": "6619386",
+          "string_id": "STR_UI_0249",
+          "text": "Camera Speed"
+        },
+        {
+          "file_index": 244,
+          "index": 250,
+          "string_no": "6619387",
+          "string_id": "STR_UI_0250",
+          "text": "Vibration"
+        },
+        {
+          "file_index": 245,
+          "index": 251,
+          "string_no": "6619388",
+          "string_id": "STR_UI_0251",
+          "text": "ON"
+        },
+        {
+          "file_index": 246,
+          "index": 252,
+          "string_no": "6619389",
+          "string_id": "STR_UI_0252",
+          "text": "Difficulty"
+        },
+        {
+          "file_index": 247,
+          "index": 253,
+          "string_no": "6619390",
+          "string_id": "STR_UI_0253",
+          "text": ""
+        },
+        {
+          "file_index": 248,
+          "index": 254,
+          "string_no": "6619391",
+          "string_id": "STR_UI_0254",
+          "text": "Dash Move"
+        },
+        {
+          "file_index": 249,
+          "index": 255,
+          "string_no": "6619392",
+          "string_id": "STR_UI_0255",
+          "text": "Map Rotation"
+        },
+        {
+          "file_index": 250,
+          "index": 256,
+          "string_no": "6619393",
+          "string_id": "STR_UI_0256",
+          "text": "Bombs, etc."
+        },
+        {
+          "file_index": 251,
+          "index": 257,
+          "string_no": "6619394",
+          "string_id": "STR_UI_0257",
+          "text": "Written exam"
+        },
+        {
+          "file_index": 252,
+          "index": 258,
+          "string_no": "6619395",
+          "string_id": "STR_UI_0258",
+          "text": "Practical exam I"
+        },
+        {
+          "file_index": 253,
+          "index": 259,
+          "string_no": "6619396",
+          "string_id": "STR_UI_0259",
+          "text": "Practical exam II"
+        },
+        {
+          "file_index": 254,
+          "index": 260,
+          "string_no": "6619397",
+          "string_id": "STR_UI_0260",
+          "text": "Correct answer"
+        },
+        {
+          "file_index": 255,
+          "index": 261,
+          "string_no": "6619398",
+          "string_id": "STR_UI_0261",
+          "text": "20"
+        },
+        {
+          "file_index": 256,
+          "index": 262,
+          "string_no": "6619399",
+          "string_id": "STR_UI_0262",
+          "text": "points"
+        },
+        {
+          "file_index": 257,
+          "index": 263,
+          "string_no": "6619400",
+          "string_id": "STR_UI_0263",
+          "text": "pts"
+        },
+        {
+          "file_index": 258,
+          "index": 264,
+          "string_no": "6619401",
+          "string_id": "STR_UI_0264",
+          "text": ""
+        },
+        {
+          "file_index": 259,
+          "index": 265,
+          "string_no": "6619402",
+          "string_id": "STR_UI_0265",
+          "text": "Problem "
+        },
+        {
+          "file_index": 260,
+          "index": 266,
+          "string_no": "6619403",
+          "string_id": "STR_UI_0266",
+          "text": ""
+        },
+        {
+          "file_index": 261,
+          "index": 267,
+          "string_no": "6619404",
+          "string_id": "STR_UI_0267",
+          "text": "5"
+        },
+        {
+          "file_index": 262,
+          "index": 268,
+          "string_no": "6619405",
+          "string_id": "STR_UI_0268",
+          "text": "ver. 1.07"
+        },
+        {
+          "file_index": 263,
+          "index": 269,
+          "string_no": "6619406",
+          "string_id": "STR_UI_0269",
+          "text": ""
+        },
+        {
+          "file_index": 264,
+          "index": 270,
+          "string_no": "6619407",
+          "string_id": "STR_UI_0270",
+          "text": ""
+        },
+        {
+          "file_index": 265,
+          "index": 271,
+          "string_no": "6619408",
+          "string_id": "STR_UI_0271",
+          "text": ""
+        },
+        {
+          "file_index": 266,
+          "index": 272,
+          "string_no": "6619409",
+          "string_id": "STR_UI_0272",
+          "text": ""
+        },
+        {
+          "file_index": 267,
+          "index": 273,
+          "string_no": "6619410",
+          "string_id": "STR_UI_0273",
+          "text": ""
+        },
+        {
+          "file_index": 268,
+          "index": 274,
+          "string_no": "6619411",
+          "string_id": "STR_UI_0274",
+          "text": ""
+        },
+        {
+          "file_index": 269,
+          "index": 275,
+          "string_no": "6619412",
+          "string_id": "STR_UI_0275",
+          "text": ""
+        },
+        {
+          "file_index": 270,
+          "index": 276,
+          "string_no": "6619413",
+          "string_id": "STR_UI_0276",
+          "text": ""
+        },
+        {
+          "file_index": 271,
+          "index": 277,
+          "string_no": "6619414",
+          "string_id": "STR_UI_0277",
+          "text": "99+"
+        },
+        {
+          "file_index": 272,
+          "index": 278,
+          "string_no": "6619415",
+          "string_id": "STR_UI_0278",
+          "text": ""
+        },
+        {
+          "file_index": 273,
+          "index": 279,
+          "string_no": "6619416",
+          "string_id": "STR_UI_0279",
+          "text": ""
+        },
+        {
+          "file_index": 274,
+          "index": 280,
+          "string_no": "6619417",
+          "string_id": "STR_UI_0280",
+          "text": "10"
+        },
+        {
+          "file_index": 275,
+          "index": 281,
+          "string_no": "6619418",
+          "string_id": "STR_UI_0281",
+          "text": ""
+        },
+        {
+          "file_index": 276,
+          "index": 282,
+          "string_no": "6619419",
+          "string_id": "STR_UI_0282",
+          "text": ""
+        },
+        {
+          "file_index": 277,
+          "index": 284,
+          "string_no": "6619421",
+          "string_id": "STR_UI_0284",
+          "text": "Target:"
+        },
+        {
+          "file_index": 278,
+          "index": 285,
+          "string_no": "6619422",
+          "string_id": "STR_UI_0285",
+          "text": "Primary Habitat:"
+        },
+        {
+          "file_index": 279,
+          "index": 286,
+          "string_no": "6619423",
+          "string_id": "STR_UI_0286",
+          "text": "Delivery item:"
+        },
+        {
+          "file_index": 280,
+          "index": 287,
+          "string_no": "6619424",
+          "string_id": "STR_UI_0287",
+          "text": "Additional conditions:"
+        },
+        {
+          "file_index": 281,
+          "index": 289,
+          "string_no": "6619426",
+          "string_id": "STR_UI_0289",
+          "text": "Quality: Above &lt;CLGR&gt;%d&lt;CLNR&gt;"
+        },
+        {
+          "file_index": 282,
+          "index": 290,
+          "string_no": "6619427",
+          "string_id": "STR_UI_0290",
+          "text": "Effects: &lt;CLGR&gt;%s&lt;CLNR&gt;"
+        },
+        {
+          "file_index": 283,
+          "index": 291,
+          "string_no": "6619428",
+          "string_id": "STR_UI_0291",
+          "text": "Traits: &lt;CLGR&gt;%s&lt;CLNR&gt;"
+        },
+        {
+          "file_index": 284,
+          "index": 292,
+          "string_no": "6619429",
+          "string_id": "STR_UI_0292",
+          "text": "Components: &lt;CLGR&gt;%s&lt;CLNR&gt;"
+        },
+        {
+          "file_index": 285,
+          "index": 293,
+          "string_no": "6619430",
+          "string_id": "STR_UI_0293",
+          "text": "None"
+        },
+        {
+          "file_index": 286,
+          "index": 294,
+          "string_no": "6619431",
+          "string_id": "STR_UI_0294",
+          "text": "&quot;%s&quot; was added to the summary"
+        },
+        {
+          "file_index": 287,
+          "index": 295,
+          "string_no": "6619432",
+          "string_id": "STR_UI_0295",
+          "text": "&quot;%s&quot; was updated."
+        },
+        {
+          "file_index": 288,
+          "index": 296,
+          "string_no": "6619433",
+          "string_id": "STR_UI_0296",
+          "text": "%d more possible to pick."
+        },
+        {
+          "file_index": 289,
+          "index": 297,
+          "string_no": "6619434",
+          "string_id": "STR_UI_0297",
+          "text": "Time limit expired."
+        }
+      ]
+    },
+    "str_ui_untranslated.xml": {
+      "base_string_no": "6029313",
+      "id_prefix": "STR_UI_UNTRANSLATED",
+      "entry_count": 54,
+      "entries": [
+        {
+          "file_index": 0,
+          "index": 0,
+          "string_no": "6029313",
+          "string_id": "STR_UI_UNTRANSLATED_0000",
+          "text": "Under Examination"
+        },
+        {
+          "file_index": 1,
+          "index": 1,
+          "string_no": "6029314",
+          "string_id": "STR_UI_UNTRANSLATED_0001",
+          "text": "Exam Available"
+        },
+        {
+          "file_index": 2,
+          "index": 2,
+          "string_no": "6029315",
+          "string_id": "STR_UI_UNTRANSLATED_0002",
+          "text": "Until Next Exam"
+        },
+        {
+          "file_index": 3,
+          "index": 3,
+          "string_no": "6029316",
+          "string_id": "STR_UI_UNTRANSLATED_0003",
+          "text": "Alchemy Lv"
+        },
+        {
+          "file_index": 4,
+          "index": 4,
+          "string_no": "6029317",
+          "string_id": "STR_UI_UNTRANSLATED_0004",
+          "text": "Until Next Lv"
+        },
+        {
+          "file_index": 5,
+          "index": 5,
+          "string_no": "6029318",
+          "string_id": "STR_UI_UNTRANSLATED_0005",
+          "text": "Standby"
+        },
+        {
+          "file_index": 6,
+          "index": 7,
+          "string_no": "6029320",
+          "string_id": "STR_UI_UNTRANSLATED_0007",
+          "text": "Effect"
+        },
+        {
+          "file_index": 7,
+          "index": 8,
+          "string_no": "6029321",
+          "string_id": "STR_UI_UNTRANSLATED_0008",
+          "text": "Follow-up Conditions"
+        },
+        {
+          "file_index": 8,
+          "index": 9,
+          "string_no": "6029322",
+          "string_id": "STR_UI_UNTRANSLATED_0009",
+          "text": "Select the amount of Archeus Anima"
+        },
+        {
+          "file_index": 9,
+          "index": 10,
+          "string_no": "6029323",
+          "string_id": "STR_UI_UNTRANSLATED_0010",
+          "text": "Cancel Battle Mix"
+        },
+        {
+          "file_index": 10,
+          "index": 12,
+          "string_no": "6029325",
+          "string_id": "STR_UI_UNTRANSLATED_0012",
+          "text": "Money"
+        },
+        {
+          "file_index": 11,
+          "index": 13,
+          "string_no": "6029326",
+          "string_id": "STR_UI_UNTRANSLATED_0013",
+          "text": "Cost"
+        },
+        {
+          "file_index": 12,
+          "index": 14,
+          "string_no": "6029327",
+          "string_id": "STR_UI_UNTRANSLATED_0014",
+          "text": "Core Parts"
+        },
+        {
+          "file_index": 13,
+          "index": 15,
+          "string_no": "6029328",
+          "string_id": "STR_UI_UNTRANSLATED_0015",
+          "text": "Subparts"
+        },
+        {
+          "file_index": 14,
+          "index": 16,
+          "string_no": "6029329",
+          "string_id": "STR_UI_UNTRANSLATED_0016",
+          "text": "ATK"
+        },
+        {
+          "file_index": 15,
+          "index": 17,
+          "string_no": "6029330",
+          "string_id": "STR_UI_UNTRANSLATED_0017",
+          "text": "DEF"
+        },
+        {
+          "file_index": 16,
+          "index": 18,
+          "string_no": "6029331",
+          "string_id": "STR_UI_UNTRANSLATED_0018",
+          "text": "SPD"
+        },
+        {
+          "file_index": 17,
+          "index": 19,
+          "string_no": "6029332",
+          "string_id": "STR_UI_UNTRANSLATED_0019",
+          "text": "Equipment Effect"
+        },
+        {
+          "file_index": 18,
+          "index": 21,
+          "string_no": "6029334",
+          "string_id": "STR_UI_UNTRANSLATED_0021",
+          "text": "Details"
+        },
+        {
+          "file_index": 19,
+          "index": 23,
+          "string_no": "6029336",
+          "string_id": "STR_UI_UNTRANSLATED_0023",
+          "text": "Area Effects"
+        },
+        {
+          "file_index": 20,
+          "index": 24,
+          "string_no": "6029337",
+          "string_id": "STR_UI_UNTRANSLATED_0024",
+          "text": "Attacker"
+        },
+        {
+          "file_index": 21,
+          "index": 25,
+          "string_no": "6029338",
+          "string_id": "STR_UI_UNTRANSLATED_0025",
+          "text": "Supporter"
+        },
+        {
+          "file_index": 22,
+          "index": 26,
+          "string_no": "6029339",
+          "string_id": "STR_UI_UNTRANSLATED_0026",
+          "text": "Attack"
+        },
+        {
+          "file_index": 23,
+          "index": 27,
+          "string_no": "6029340",
+          "string_id": "STR_UI_UNTRANSLATED_0027",
+          "text": "Defense"
+        },
+        {
+          "file_index": 24,
+          "index": 28,
+          "string_no": "6029341",
+          "string_id": "STR_UI_UNTRANSLATED_0028",
+          "text": "Speed"
+        },
+        {
+          "file_index": 25,
+          "index": 29,
+          "string_no": "6029342",
+          "string_id": "STR_UI_UNTRANSLATED_0029",
+          "text": "Equip Effect"
+        },
+        {
+          "file_index": 26,
+          "index": 30,
+          "string_no": "6029343",
+          "string_id": "STR_UI_UNTRANSLATED_0030",
+          "text": "Resistance"
+        },
+        {
+          "file_index": 27,
+          "index": 31,
+          "string_no": "6029344",
+          "string_id": "STR_UI_UNTRANSLATED_0031",
+          "text": "+Effect"
+        },
+        {
+          "file_index": 28,
+          "index": 32,
+          "string_no": "6029345",
+          "string_id": "STR_UI_UNTRANSLATED_0032",
+          "text": "-Effect"
+        },
+        {
+          "file_index": 29,
+          "index": 33,
+          "string_no": "6029346",
+          "string_id": "STR_UI_UNTRANSLATED_0033",
+          "text": "Effects:"
+        },
+        {
+          "file_index": 30,
+          "index": 34,
+          "string_no": "6029347",
+          "string_id": "STR_UI_UNTRANSLATED_0034",
+          "text": "Attack"
+        },
+        {
+          "file_index": 31,
+          "index": 35,
+          "string_no": "6029348",
+          "string_id": "STR_UI_UNTRANSLATED_0035",
+          "text": "Defense"
+        },
+        {
+          "file_index": 32,
+          "index": 36,
+          "string_no": "6029349",
+          "string_id": "STR_UI_UNTRANSLATED_0036",
+          "text": "Speed"
+        },
+        {
+          "file_index": 33,
+          "index": 37,
+          "string_no": "6029350",
+          "string_id": "STR_UI_UNTRANSLATED_0037",
+          "text": "Equip Effect"
+        },
+        {
+          "file_index": 34,
+          "index": 39,
+          "string_no": "6029352",
+          "string_id": "STR_UI_UNTRANSLATED_0039",
+          "text": "Friendship"
+        },
+        {
+          "file_index": 35,
+          "index": 41,
+          "string_no": "6029354",
+          "string_id": "STR_UI_UNTRANSLATED_0041",
+          "text": "Catalyst Available"
+        },
+        {
+          "file_index": 36,
+          "index": 43,
+          "string_no": "6029356",
+          "string_id": "STR_UI_UNTRANSLATED_0043",
+          "text": "ATK"
+        },
+        {
+          "file_index": 37,
+          "index": 44,
+          "string_no": "6029357",
+          "string_id": "STR_UI_UNTRANSLATED_0044",
+          "text": "DEF"
+        },
+        {
+          "file_index": 38,
+          "index": 45,
+          "string_no": "6029358",
+          "string_id": "STR_UI_UNTRANSLATED_0045",
+          "text": "SPD"
+        },
+        {
+          "file_index": 39,
+          "index": 46,
+          "string_no": "6029359",
+          "string_id": "STR_UI_UNTRANSLATED_0046",
+          "text": "Equip Effect"
+        },
+        {
+          "file_index": 40,
+          "index": 48,
+          "string_no": "6029361",
+          "string_id": "STR_UI_UNTRANSLATED_0048",
+          "text": "Save Data"
+        },
+        {
+          "file_index": 41,
+          "index": 50,
+          "string_no": "6029363",
+          "string_id": "STR_UI_UNTRANSLATED_0050",
+          "text": "Client:"
+        },
+        {
+          "file_index": 42,
+          "index": 52,
+          "string_no": "6029365",
+          "string_id": "STR_UI_UNTRANSLATED_0052",
+          "text": "Attack"
+        },
+        {
+          "file_index": 43,
+          "index": 53,
+          "string_no": "6029366",
+          "string_id": "STR_UI_UNTRANSLATED_0053",
+          "text": "Defense"
+        },
+        {
+          "file_index": 44,
+          "index": 54,
+          "string_no": "6029367",
+          "string_id": "STR_UI_UNTRANSLATED_0054",
+          "text": "Speed"
+        },
+        {
+          "file_index": 45,
+          "index": 55,
+          "string_no": "6029368",
+          "string_id": "STR_UI_UNTRANSLATED_0055",
+          "text": "Equip Effect"
+        },
+        {
+          "file_index": 46,
+          "index": 56,
+          "string_no": "6029369",
+          "string_id": "STR_UI_UNTRANSLATED_0056",
+          "text": "Resistance"
+        },
+        {
+          "file_index": 47,
+          "index": 58,
+          "string_no": "6029371",
+          "string_id": "STR_UI_UNTRANSLATED_0058",
+          "text": ""
+        },
+        {
+          "file_index": 48,
+          "index": 59,
+          "string_no": "6029372",
+          "string_id": "STR_UI_UNTRANSLATED_0059",
+          "text": ""
+        },
+        {
+          "file_index": 49,
+          "index": 61,
+          "string_no": "6029374",
+          "string_id": "STR_UI_UNTRANSLATED_0061",
+          "text": "Quality"
+        },
+        {
+          "file_index": 50,
+          "index": 62,
+          "string_no": "6029375",
+          "string_id": "STR_UI_UNTRANSLATED_0062",
+          "text": "Components"
+        },
+        {
+          "file_index": 51,
+          "index": 63,
+          "string_no": "6029376",
+          "string_id": "STR_UI_UNTRANSLATED_0063",
+          "text": "Traits"
+        },
+        {
+          "file_index": 52,
+          "index": 64,
+          "string_no": "6029377",
+          "string_id": "STR_UI_UNTRANSLATED_0064",
+          "text": "&lt;IM11&gt; Change Catalyst"
+        },
+        {
+          "file_index": 53,
+          "index": 65,
+          "string_no": "6029378",
+          "string_id": "STR_UI_UNTRANSLATED_0065",
+          "text": "Use Enhancing Agent &lt;IM06&gt;"
+        }
+      ]
+    }
+  },
+  "by_text": {
+    "str_ui.xml": {
+      "%": [
+        {
+          "string_no": "6619170",
+          "string_id": "STR_UI_0033",
+          "index": 33,
+          "first": true
+        }
+      ],
+      "%d more possible to pick.": [
+        {
+          "string_no": "6619433",
+          "string_id": "STR_UI_0296",
+          "index": 296,
+          "first": true
+        }
+      ],
+      "&lt;IM00&gt;": [
+        {
+          "string_no": "6619149",
+          "string_id": "STR_UI_0012",
+          "index": 12,
+          "first": true
+        }
+      ],
+      "&lt;IM01&gt;": [
+        {
+          "string_no": "6619202",
+          "string_id": "STR_UI_0065",
+          "index": 65,
+          "first": true
+        }
+      ],
+      "&lt;IM05&gt;": [
+        {
+          "string_no": "6619203",
+          "string_id": "STR_UI_0066",
+          "index": 66,
+          "first": true
+        }
+      ],
+      "&lt;IM19&gt;": [
+        {
+          "string_no": "6619186",
+          "string_id": "STR_UI_0049",
+          "index": 49,
+          "first": true
+        }
+      ],
+      "&quot;%s&quot; was added to the summary": [
+        {
+          "string_no": "6619431",
+          "string_id": "STR_UI_0294",
+          "index": 294,
+          "first": true
+        }
+      ],
+      "&quot;%s&quot; was updated.": [
+        {
+          "string_no": "6619432",
+          "string_id": "STR_UI_0295",
+          "index": 295,
+          "first": true
+        }
+      ],
+      "&quot;This one is yellow. It's precious, there are only three in the whole world.&quot; &quot;This person is lying.&quot; &quot;Everyone is lying.&quot;": [
+        {
+          "string_no": "6619256",
+          "string_id": "STR_UI_0119",
+          "index": 119,
+          "first": true
+        }
+      ],
+      "(     matching)": [
+        {
+          "string_no": "6619238",
+          "string_id": "STR_UI_0101",
+          "index": 101,
+          "first": true
+        }
+      ],
+      "(  owned)": [
+        {
+          "string_no": "6619368",
+          "string_id": "STR_UI_0231",
+          "index": 231,
+          "first": true
+        }
+      ],
+      "( )": [
+        {
+          "string_no": "6619316",
+          "string_id": "STR_UI_0179",
+          "index": 179,
+          "first": true
+        }
+      ],
+      "(Category)": [
+        {
+          "string_no": "6619324",
+          "string_id": "STR_UI_0187",
+          "index": 187,
+          "first": true
+        }
+      ],
+      "(Components  )": [
+        {
+          "string_no": "6619286",
+          "string_id": "STR_UI_0149",
+          "index": 149,
+          "first": true
+        },
+        {
+          "string_no": "6619317",
+          "string_id": "STR_UI_0180",
+          "index": 180,
+          "first": false
+        }
+      ],
+      "(Magic Item)": [
+        {
+          "string_no": "6619333",
+          "string_id": "STR_UI_0196",
+          "index": 196,
+          "first": true
+        }
+      ],
+      "(puniball)": [
+        {
+          "string_no": "6619280",
+          "string_id": "STR_UI_0143",
+          "index": 143,
+          "first": true
+        }
+      ],
+      "(water)": [
+        {
+          "string_no": "6619284",
+          "string_id": "STR_UI_0147",
+          "index": 147,
+          "first": true
+        }
+      ],
+      "+": [
+        {
+          "string_no": "6619305",
+          "string_id": "STR_UI_0168",
+          "index": 168,
+          "first": true
+        }
+      ],
+      "-": [
+        {
+          "string_no": "6619306",
+          "string_id": "STR_UI_0169",
+          "index": 169,
+          "first": true
+        }
+      ],
+      "-99": [
+        {
+          "string_no": "6619287",
+          "string_id": "STR_UI_0150",
+          "index": 150,
+          "first": true
+        }
+      ],
+      "-999": [
+        {
+          "string_no": "6619247",
+          "string_id": "STR_UI_0110",
+          "index": 110,
+          "first": true
+        }
+      ],
+      "0": [
+        {
+          "string_no": "6619231",
+          "string_id": "STR_UI_0094",
+          "index": 94,
+          "first": true
+        }
+      ],
+      "1": [
+        {
+          "string_no": "6619290",
+          "string_id": "STR_UI_0153",
+          "index": 153,
+          "first": true
+        },
+        {
+          "string_no": "6619329",
+          "string_id": "STR_UI_0192",
+          "index": 192,
+          "first": false
+        },
+        {
+          "string_no": "6619330",
+          "string_id": "STR_UI_0193",
+          "index": 193,
+          "first": false
+        },
+        {
+          "string_no": "6619369",
+          "string_id": "STR_UI_0232",
+          "index": 232,
+          "first": false
+        }
+      ],
+      "10": [
+        {
+          "string_no": "6619289",
+          "string_id": "STR_UI_0152",
+          "index": 152,
+          "first": true
+        },
+        {
+          "string_no": "6619417",
+          "string_id": "STR_UI_0280",
+          "index": 280,
+          "first": false
+        }
+      ],
+      "100": [
+        {
+          "string_no": "6619157",
+          "string_id": "STR_UI_0020",
+          "index": 20,
+          "first": true
+        },
+        {
+          "string_no": "6619206",
+          "string_id": "STR_UI_0069",
+          "index": 69,
+          "first": false
+        }
+      ],
+      "12": [
+        {
+          "string_no": "6619338",
+          "string_id": "STR_UI_0201",
+          "index": 201,
+          "first": true
+        }
+      ],
+      "2": [
+        {
+          "string_no": "6619291",
+          "string_id": "STR_UI_0154",
+          "index": 154,
+          "first": true
+        }
+      ],
+      "20": [
+        {
+          "string_no": "6619398",
+          "string_id": "STR_UI_0261",
+          "index": 261,
+          "first": true
+        }
+      ],
+      "22": [
+        {
+          "string_no": "6619323",
+          "string_id": "STR_UI_0186",
+          "index": 186,
+          "first": true
+        }
+      ],
+      "3": [
+        {
+          "string_no": "6619303",
+          "string_id": "STR_UI_0166",
+          "index": 166,
+          "first": true
+        }
+      ],
+      "30": [
+        {
+          "string_no": "6619301",
+          "string_id": "STR_UI_0164",
+          "index": 164,
+          "first": true
+        }
+      ],
+      "300": [
+        {
+          "string_no": "6619279",
+          "string_id": "STR_UI_0142",
+          "index": 142,
+          "first": true
+        }
+      ],
+      "33": [
+        {
+          "string_no": "6619302",
+          "string_id": "STR_UI_0165",
+          "index": 165,
+          "first": true
+        }
+      ],
+      "5": [
+        {
+          "string_no": "6619404",
+          "string_id": "STR_UI_0267",
+          "index": 267,
+          "first": true
+        }
+      ],
+      "537": [
+        {
+          "string_no": "6619252",
+          "string_id": "STR_UI_0115",
+          "index": 115,
+          "first": true
+        }
+      ],
+      "6": [
+        {
+          "string_no": "6619254",
+          "string_id": "STR_UI_0117",
+          "index": 117,
+          "first": true
+        }
+      ],
+      "8": [
+        {
+          "string_no": "6619185",
+          "string_id": "STR_UI_0048",
+          "index": 48,
+          "first": true
+        }
+      ],
+      "88": [
+        {
+          "string_no": "6619188",
+          "string_id": "STR_UI_0051",
+          "index": 51,
+          "first": true
+        }
+      ],
+      "888": [
+        {
+          "string_no": "6619187",
+          "string_id": "STR_UI_0050",
+          "index": 50,
+          "first": true
+        }
+      ],
+      "8888": [
+        {
+          "string_no": "6619194",
+          "string_id": "STR_UI_0057",
+          "index": 57,
+          "first": true
+        }
+      ],
+      "88888": [
+        {
+          "string_no": "6619158",
+          "string_id": "STR_UI_0021",
+          "index": 21,
+          "first": true
+        }
+      ],
+      "9": [
+        {
+          "string_no": "6619169",
+          "string_id": "STR_UI_0032",
+          "index": 32,
+          "first": true
+        },
+        {
+          "string_no": "6619315",
+          "string_id": "STR_UI_0178",
+          "index": 178,
+          "first": false
+        }
+      ],
+      "99": [
+        {
+          "string_no": "6619150",
+          "string_id": "STR_UI_0013",
+          "index": 13,
+          "first": true
+        }
+      ],
+      "99+": [
+        {
+          "string_no": "6619414",
+          "string_id": "STR_UI_0277",
+          "index": 277,
+          "first": true
+        }
+      ],
+      "999": [
+        {
+          "string_no": "6619182",
+          "string_id": "STR_UI_0045",
+          "index": 45,
+          "first": true
+        },
+        {
+          "string_no": "6619249",
+          "string_id": "STR_UI_0112",
+          "index": 112,
+          "first": false
+        }
+      ],
+      "9999": [
+        {
+          "string_no": "6619195",
+          "string_id": "STR_UI_0058",
+          "index": 58,
+          "first": true
+        }
+      ],
+      "99999": [
+        {
+          "string_no": "6619159",
+          "string_id": "STR_UI_0022",
+          "index": 22,
+          "first": true
+        },
+        {
+          "string_no": "6619175",
+          "string_id": "STR_UI_0038",
+          "index": 38,
+          "first": false
+        },
+        {
+          "string_no": "6619178",
+          "string_id": "STR_UI_0041",
+          "index": 41,
+          "first": false
+        }
+      ],
+      "999999": [
+        {
+          "string_no": "6619307",
+          "string_id": "STR_UI_0170",
+          "index": 170,
+          "first": true
+        }
+      ],
+      "9999999": [
+        {
+          "string_no": "6619180",
+          "string_id": "STR_UI_0043",
+          "index": 43,
+          "first": true
+        }
+      ],
+      "99999999": [
+        {
+          "string_no": "6619174",
+          "string_id": "STR_UI_0037",
+          "index": 37,
+          "first": true
+        }
+      ],
+      "99m 99d": [
+        {
+          "string_no": "6619349",
+          "string_id": "STR_UI_0212",
+          "index": 212,
+          "first": true
+        }
+      ],
+      ":": [
+        {
+          "string_no": "6619214",
+          "string_id": "STR_UI_0077",
+          "index": 77,
+          "first": true
+        }
+      ],
+      "Additional conditions:": [
+        {
+          "string_no": "6619424",
+          "string_id": "STR_UI_0287",
+          "index": 287,
+          "first": true
+        }
+      ],
+      "Alchemy Lv.": [
+        {
+          "string_no": "6619318",
+          "string_id": "STR_UI_0181",
+          "index": 181,
+          "first": true
+        }
+      ],
+      "Alchemy level is too low.": [
+        {
+          "string_no": "6619332",
+          "string_id": "STR_UI_0195",
+          "index": 195,
+          "first": true
+        }
+      ],
+      "All": [
+        {
+          "string_no": "6619257",
+          "string_id": "STR_UI_0120",
+          "index": 120,
+          "first": true
+        }
+      ],
+      "Angriff": [
+        {
+          "string_no": "6619248",
+          "string_id": "STR_UI_0111",
+          "index": 111,
+          "first": true
+        }
+      ],
+      "Area": [
+        {
+          "string_no": "6619166",
+          "string_id": "STR_UI_0029",
+          "index": 29,
+          "first": true
+        }
+      ],
+      "Areas": [
+        {
+          "string_no": "6619299",
+          "string_id": "STR_UI_0162",
+          "index": 162,
+          "first": true
+        }
+      ],
+      "Artwork": [
+        {
+          "string_no": "6619264",
+          "string_id": "STR_UI_0127",
+          "index": 127,
+          "first": true
+        }
+      ],
+      "Attack": [
+        {
+          "string_no": "6619152",
+          "string_id": "STR_UI_0015",
+          "index": 15,
+          "first": true
+        },
+        {
+          "string_no": "6619242",
+          "string_id": "STR_UI_0105",
+          "index": 105,
+          "first": false
+        }
+      ],
+      "BGM": [
+        {
+          "string_no": "6619379",
+          "string_id": "STR_UI_0242",
+          "index": 242,
+          "first": true
+        }
+      ],
+      "Back": [
+        {
+          "string_no": "6619216",
+          "string_id": "STR_UI_0079",
+          "index": 79,
+          "first": true
+        }
+      ],
+      "Base Price": [
+        {
+          "string_no": "6619278",
+          "string_id": "STR_UI_0141",
+          "index": 141,
+          "first": true
+        }
+      ],
+      "Below": [
+        {
+          "string_no": "6619327",
+          "string_id": "STR_UI_0190",
+          "index": 190,
+          "first": true
+        }
+      ],
+      "Bombs, etc.": [
+        {
+          "string_no": "6619393",
+          "string_id": "STR_UI_0256",
+          "index": 256,
+          "first": true
+        }
+      ],
+      "Bonus": [
+        {
+          "string_no": "6619320",
+          "string_id": "STR_UI_0183",
+          "index": 183,
+          "first": true
+        }
+      ],
+      "Buy": [
+        {
+          "string_no": "6619363",
+          "string_id": "STR_UI_0226",
+          "index": 226,
+          "first": true
+        }
+      ],
+      "By category": [
+        {
+          "string_no": "6619357",
+          "string_id": "STR_UI_0220",
+          "index": 220,
+          "first": true
+        }
+      ],
+      "By location": [
+        {
+          "string_no": "6619356",
+          "string_id": "STR_UI_0219",
+          "index": 219,
+          "first": true
+        }
+      ],
+      "CHAIN BURST": [
+        {
+          "string_no": "6619171",
+          "string_id": "STR_UI_0034",
+          "index": 34,
+          "first": true
+        }
+      ],
+      "Camera Horizontal": [
+        {
+          "string_no": "6619385",
+          "string_id": "STR_UI_0248",
+          "index": 248,
+          "first": true
+        }
+      ],
+      "Camera Speed": [
+        {
+          "string_no": "6619386",
+          "string_id": "STR_UI_0249",
+          "index": 249,
+          "first": true
+        }
+      ],
+      "Camera Vertical": [
+        {
+          "string_no": "6619383",
+          "string_id": "STR_UI_0246",
+          "index": 246,
+          "first": true
+        }
+      ],
+      "Catalyst": [
+        {
+          "string_no": "6619233",
+          "string_id": "STR_UI_0096",
+          "index": 96,
+          "first": true
+        }
+      ],
+      "Catalyst Name": [
+        {
+          "string_no": "6619234",
+          "string_id": "STR_UI_0097",
+          "index": 97,
+          "first": true
+        }
+      ],
+      "Categories": [
+        {
+          "string_no": "6619227",
+          "string_id": "STR_UI_0090",
+          "index": 90,
+          "first": true
+        }
+      ],
+      "Chronologically": [
+        {
+          "string_no": "6619355",
+          "string_id": "STR_UI_0218",
+          "index": 218,
+          "first": true
+        }
+      ],
+      "Coll Received": [
+        {
+          "string_no": "6619179",
+          "string_id": "STR_UI_0042",
+          "index": 42,
+          "first": true
+        }
+      ],
+      "Color": [
+        {
+          "string_no": "6619228",
+          "string_id": "STR_UI_0091",
+          "index": 91,
+          "first": true
+        }
+      ],
+      "Components required:": [
+        {
+          "string_no": "6619335",
+          "string_id": "STR_UI_0198",
+          "index": 198,
+          "first": true
+        }
+      ],
+      "Components: &lt;CLGR&gt;%s&lt;CLNR&gt;": [
+        {
+          "string_no": "6619429",
+          "string_id": "STR_UI_0292",
+          "index": 292,
+          "first": true
+        }
+      ],
+      "Correct answer": [
+        {
+          "string_no": "6619397",
+          "string_id": "STR_UI_0260",
+          "index": 260,
+          "first": true
+        }
+      ],
+      "Damage": [
+        {
+          "string_no": "6619243",
+          "string_id": "STR_UI_0106",
+          "index": 106,
+          "first": true
+        }
+      ],
+      "Dash Move": [
+        {
+          "string_no": "6619391",
+          "string_id": "STR_UI_0254",
+          "index": 254,
+          "first": true
+        }
+      ],
+      "Day": [
+        {
+          "string_no": "6619190",
+          "string_id": "STR_UI_0053",
+          "index": 53,
+          "first": true
+        }
+      ],
+      "Defense": [
+        {
+          "string_no": "6619244",
+          "string_id": "STR_UI_0107",
+          "index": 107,
+          "first": true
+        }
+      ],
+      "Delivery item:": [
+        {
+          "string_no": "6619423",
+          "string_id": "STR_UI_0286",
+          "index": 286,
+          "first": true
+        }
+      ],
+      "Difficulty": [
+        {
+          "string_no": "6619389",
+          "string_id": "STR_UI_0252",
+          "index": 252,
+          "first": true
+        }
+      ],
+      "Donkerhein": [
+        {
+          "string_no": "6619250",
+          "string_id": "STR_UI_0113",
+          "index": 113,
+          "first": true
+        }
+      ],
+      "EXP": [
+        {
+          "string_no": "6619295",
+          "string_id": "STR_UI_0158",
+          "index": 158,
+          "first": true
+        }
+      ],
+      "Effect": [
+        {
+          "string_no": "6619255",
+          "string_id": "STR_UI_0118",
+          "index": 118,
+          "first": true
+        }
+      ],
+      "Effect 1": [
+        {
+          "string_no": "6619167",
+          "string_id": "STR_UI_0030",
+          "index": 30,
+          "first": true
+        }
+      ],
+      "Effects &amp; Traits": [
+        {
+          "string_no": "6619297",
+          "string_id": "STR_UI_0160",
+          "index": 160,
+          "first": true
+        }
+      ],
+      "Effects: &lt;CLGR&gt;%s&lt;CLNR&gt;": [
+        {
+          "string_no": "6619427",
+          "string_id": "STR_UI_0290",
+          "index": 290,
+          "first": true
+        }
+      ],
+      "Exp": [
+        {
+          "string_no": "6619176",
+          "string_id": "STR_UI_0039",
+          "index": 39,
+          "first": true
+        },
+        {
+          "string_no": "6619321",
+          "string_id": "STR_UI_0184",
+          "index": 184,
+          "first": false
+        }
+      ],
+      "Exp received": [
+        {
+          "string_no": "6619319",
+          "string_id": "STR_UI_0182",
+          "index": 182,
+          "first": true
+        }
+      ],
+      "Filter Items": [
+        {
+          "string_no": "6619266",
+          "string_id": "STR_UI_0129",
+          "index": 129,
+          "first": true
+        }
+      ],
+      "Filter items": [
+        {
+          "string_no": "6619226",
+          "string_id": "STR_UI_0089",
+          "index": 89,
+          "first": true
+        }
+      ],
+      "Firis": [
+        {
+          "string_no": "6619304",
+          "string_id": "STR_UI_0167",
+          "index": 167,
+          "first": true
+        }
+      ],
+      "Flee": [
+        {
+          "string_no": "6619156",
+          "string_id": "STR_UI_0019",
+          "index": 19,
+          "first": true
+        }
+      ],
+      "Gathering": [
+        {
+          "string_no": "6619261",
+          "string_id": "STR_UI_0124",
+          "index": 124,
+          "first": true
+        }
+      ],
+      "Get": [
+        {
+          "string_no": "6619208",
+          "string_id": "STR_UI_0071",
+          "index": 71,
+          "first": true
+        }
+      ],
+      "Guard": [
+        {
+          "string_no": "6619155",
+          "string_id": "STR_UI_0018",
+          "index": 18,
+          "first": true
+        }
+      ],
+      "HP": [
+        {
+          "string_no": "6619204",
+          "string_id": "STR_UI_0067",
+          "index": 67,
+          "first": true
+        }
+      ],
+      "Held": [
+        {
+          "string_no": "6619253",
+          "string_id": "STR_UI_0116",
+          "index": 116,
+          "first": true
+        }
+      ],
+      "Help": [
+        {
+          "string_no": "6619300",
+          "string_id": "STR_UI_0163",
+          "index": 163,
+          "first": true
+        }
+      ],
+      "Highest Level": [
+        {
+          "string_no": "6619268",
+          "string_id": "STR_UI_0131",
+          "index": 131,
+          "first": true
+        }
+      ],
+      "How many do you want to buy?": [
+        {
+          "string_no": "6619367",
+          "string_id": "STR_UI_0230",
+          "index": 230,
+          "first": true
+        }
+      ],
+      "In stock": [
+        {
+          "string_no": "6619251",
+          "string_id": "STR_UI_0114",
+          "index": 114,
+          "first": true
+        }
+      ],
+      "Information Delivery Note": [
+        {
+          "string_no": "6619219",
+          "string_id": "STR_UI_0082",
+          "index": 82,
+          "first": true
+        }
+      ],
+      "Item Info": [
+        {
+          "string_no": "6619224",
+          "string_id": "STR_UI_0087",
+          "index": 87,
+          "first": true
+        }
+      ],
+      "Items": [
+        {
+          "string_no": "6619154",
+          "string_id": "STR_UI_0017",
+          "index": 17,
+          "first": true
+        }
+      ],
+      "LP": [
+        {
+          "string_no": "6619205",
+          "string_id": "STR_UI_0068",
+          "index": 68,
+          "first": true
+        }
+      ],
+      "Learned a new recipe!": [
+        {
+          "string_no": "6619361",
+          "string_id": "STR_UI_0224",
+          "index": 224,
+          "first": true
+        }
+      ],
+      "Left": [
+        {
+          "string_no": "6619370",
+          "string_id": "STR_UI_0233",
+          "index": 233,
+          "first": true
+        }
+      ],
+      "Limit:": [
+        {
+          "string_no": "6619348",
+          "string_id": "STR_UI_0211",
+          "index": 211,
+          "first": true
+        }
+      ],
+      "Location:": [
+        {
+          "string_no": "6619343",
+          "string_id": "STR_UI_0206",
+          "index": 206,
+          "first": true
+        }
+      ],
+      "Lowest Level": [
+        {
+          "string_no": "6619267",
+          "string_id": "STR_UI_0130",
+          "index": 130,
+          "first": true
+        }
+      ],
+      "Lv": [
+        {
+          "string_no": "6619173",
+          "string_id": "STR_UI_0036",
+          "index": 36,
+          "first": true
+        }
+      ],
+      "Lv.": [
+        {
+          "string_no": "6619288",
+          "string_id": "STR_UI_0151",
+          "index": 151,
+          "first": true
+        }
+      ],
+      "MOVIE": [
+        {
+          "string_no": "6619382",
+          "string_id": "STR_UI_0245",
+          "index": 245,
+          "first": true
+        }
+      ],
+      "MP": [
+        {
+          "string_no": "6619163",
+          "string_id": "STR_UI_0026",
+          "index": 26,
+          "first": true
+        }
+      ],
+      "Map Info": [
+        {
+          "string_no": "6619223",
+          "string_id": "STR_UI_0086",
+          "index": 86,
+          "first": true
+        }
+      ],
+      "Map Rotation": [
+        {
+          "string_no": "6619392",
+          "string_id": "STR_UI_0255",
+          "index": 255,
+          "first": true
+        }
+      ],
+      "Materials": [
+        {
+          "string_no": "6619258",
+          "string_id": "STR_UI_0121",
+          "index": 121,
+          "first": true
+        }
+      ],
+      "Max": [
+        {
+          "string_no": "6619172",
+          "string_id": "STR_UI_0035",
+          "index": 35,
+          "first": true
+        }
+      ],
+      "Monsters": [
+        {
+          "string_no": "6619298",
+          "string_id": "STR_UI_0161",
+          "index": 161,
+          "first": true
+        }
+      ],
+      "Monstrous": [
+        {
+          "string_no": "6619322",
+          "string_id": "STR_UI_0185",
+          "index": 185,
+          "first": true
+        }
+      ],
+      "Month": [
+        {
+          "string_no": "6619189",
+          "string_id": "STR_UI_0052",
+          "index": 52,
+          "first": true
+        }
+      ],
+      "Next": [
+        {
+          "string_no": "6619177",
+          "string_id": "STR_UI_0040",
+          "index": 40,
+          "first": true
+        }
+      ],
+      "No": [
+        {
+          "string_no": "6619366",
+          "string_id": "STR_UI_0229",
+          "index": 229,
+          "first": true
+        }
+      ],
+      "No Setting": [
+        {
+          "string_no": "6619235",
+          "string_id": "STR_UI_0098",
+          "index": 98,
+          "first": true
+        }
+      ],
+      "None": [
+        {
+          "string_no": "6619430",
+          "string_id": "STR_UI_0293",
+          "index": 293,
+          "first": true
+        }
+      ],
+      "Normal": [
+        {
+          "string_no": "6619213",
+          "string_id": "STR_UI_0076",
+          "index": 76,
+          "first": true
+        }
+      ],
+      "Not enough materials.": [
+        {
+          "string_no": "6619334",
+          "string_id": "STR_UI_0197",
+          "index": 197,
+          "first": true
+        }
+      ],
+      "ON": [
+        {
+          "string_no": "6619388",
+          "string_id": "STR_UI_0251",
+          "index": 251,
+          "first": true
+        }
+      ],
+      "Obtained": [
+        {
+          "string_no": "6619184",
+          "string_id": "STR_UI_0047",
+          "index": 47,
+          "first": true
+        },
+        {
+          "string_no": "6619371",
+          "string_id": "STR_UI_0234",
+          "index": 234,
+          "first": false
+        }
+      ],
+      "Ornaments": [
+        {
+          "string_no": "6619262",
+          "string_id": "STR_UI_0125",
+          "index": 125,
+          "first": true
+        }
+      ],
+      "Other": [
+        {
+          "string_no": "6619265",
+          "string_id": "STR_UI_0128",
+          "index": 128,
+          "first": true
+        }
+      ],
+      "Over": [
+        {
+          "string_no": "6619326",
+          "string_id": "STR_UI_0189",
+          "index": 189,
+          "first": true
+        }
+      ],
+      "Overall Quality": [
+        {
+          "string_no": "6619325",
+          "string_id": "STR_UI_0188",
+          "index": 188,
+          "first": true
+        }
+      ],
+      "Practical exam I": [
+        {
+          "string_no": "6619395",
+          "string_id": "STR_UI_0258",
+          "index": 258,
+          "first": true
+        }
+      ],
+      "Practical exam II": [
+        {
+          "string_no": "6619396",
+          "string_id": "STR_UI_0259",
+          "index": 259,
+          "first": true
+        }
+      ],
+      "Price": [
+        {
+          "string_no": "6619362",
+          "string_id": "STR_UI_0225",
+          "index": 225,
+          "first": true
+        }
+      ],
+      "Primary Habitat:": [
+        {
+          "string_no": "6619422",
+          "string_id": "STR_UI_0285",
+          "index": 285,
+          "first": true
+        }
+      ],
+      "Problem ": [
+        {
+          "string_no": "6619402",
+          "string_id": "STR_UI_0265",
+          "index": 265,
+          "first": true
+        }
+      ],
+      "Quality +10": [
+        {
+          "string_no": "6619328",
+          "string_id": "STR_UI_0191",
+          "index": 191,
+          "first": true
+        }
+      ],
+      "Quality: Above &lt;CLGR&gt;%d&lt;CLNR&gt;": [
+        {
+          "string_no": "6619426",
+          "string_id": "STR_UI_0289",
+          "index": 289,
+          "first": true
+        }
+      ],
+      "Quest details:": [
+        {
+          "string_no": "6619351",
+          "string_id": "STR_UI_0214",
+          "index": 214,
+          "first": true
+        }
+      ],
+      "Reached 100% gathering rate!": [
+        {
+          "string_no": "6619218",
+          "string_id": "STR_UI_0081",
+          "index": 81,
+          "first": true
+        }
+      ],
+      "Recipe Ideas": [
+        {
+          "string_no": "6619296",
+          "string_id": "STR_UI_0159",
+          "index": 159,
+          "first": true
+        }
+      ],
+      "Red": [
+        {
+          "string_no": "6619229",
+          "string_id": "STR_UI_0092",
+          "index": 92,
+          "first": true
+        }
+      ],
+      "Related quests": [
+        {
+          "string_no": "6619354",
+          "string_id": "STR_UI_0217",
+          "index": 217,
+          "first": true
+        }
+      ],
+      "Reset": [
+        {
+          "string_no": "6619236",
+          "string_id": "STR_UI_0099",
+          "index": 99,
+          "first": true
+        }
+      ],
+      "Resistance": [
+        {
+          "string_no": "6619294",
+          "string_id": "STR_UI_0157",
+          "index": 157,
+          "first": true
+        }
+      ],
+      "Rest": [
+        {
+          "string_no": "6619193",
+          "string_id": "STR_UI_0056",
+          "index": 56,
+          "first": true
+        }
+      ],
+      "Result": [
+        {
+          "string_no": "6619220",
+          "string_id": "STR_UI_0083",
+          "index": 83,
+          "first": true
+        }
+      ],
+      "Reverse": [
+        {
+          "string_no": "6619384",
+          "string_id": "STR_UI_0247",
+          "index": 247,
+          "first": true
+        }
+      ],
+      "Reward:": [
+        {
+          "string_no": "6619350",
+          "string_id": "STR_UI_0213",
+          "index": 213,
+          "first": true
+        }
+      ],
+      "SE": [
+        {
+          "string_no": "6619380",
+          "string_id": "STR_UI_0243",
+          "index": 243,
+          "first": true
+        }
+      ],
+      "Save and Exit": [
+        {
+          "string_no": "6619237",
+          "string_id": "STR_UI_0100",
+          "index": 100,
+          "first": true
+        }
+      ],
+      "Section": [
+        {
+          "string_no": "6619230",
+          "string_id": "STR_UI_0093",
+          "index": 93,
+          "first": true
+        }
+      ],
+      "Sell": [
+        {
+          "string_no": "6619364",
+          "string_id": "STR_UI_0227",
+          "index": 227,
+          "first": true
+        }
+      ],
+      "Site:": [
+        {
+          "string_no": "6619345",
+          "string_id": "STR_UI_0208",
+          "index": 208,
+          "first": true
+        }
+      ],
+      "Speaker:": [
+        {
+          "string_no": "6619143",
+          "string_id": "STR_UI_0006",
+          "index": 6,
+          "first": true
+        }
+      ],
+      "Species": [
+        {
+          "string_no": "6619292",
+          "string_id": "STR_UI_0155",
+          "index": 155,
+          "first": true
+        }
+      ],
+      "Speed": [
+        {
+          "string_no": "6619245",
+          "string_id": "STR_UI_0108",
+          "index": 108,
+          "first": true
+        }
+      ],
+      "Sweet": [
+        {
+          "string_no": "6619215",
+          "string_id": "STR_UI_0078",
+          "index": 78,
+          "first": true
+        }
+      ],
+      "Synthesis": [
+        {
+          "string_no": "6619259",
+          "string_id": "STR_UI_0122",
+          "index": 122,
+          "first": true
+        }
+      ],
+      "Synthesis time:": [
+        {
+          "string_no": "6619336",
+          "string_id": "STR_UI_0199",
+          "index": 199,
+          "first": true
+        }
+      ],
+      "Target": [
+        {
+          "string_no": "6619165",
+          "string_id": "STR_UI_0028",
+          "index": 28,
+          "first": true
+        }
+      ],
+      "Target:": [
+        {
+          "string_no": "6619421",
+          "string_id": "STR_UI_0284",
+          "index": 284,
+          "first": true
+        }
+      ],
+      "Time limit expired.": [
+        {
+          "string_no": "6619434",
+          "string_id": "STR_UI_0297",
+          "index": 297,
+          "first": true
+        }
+      ],
+      "Total": [
+        {
+          "string_no": "6619240",
+          "string_id": "STR_UI_0103",
+          "index": 103,
+          "first": true
+        }
+      ],
+      "Trait": [
+        {
+          "string_no": "6619232",
+          "string_id": "STR_UI_0095",
+          "index": 95,
+          "first": true
+        }
+      ],
+      "Traits: &lt;CLGR&gt;%s&lt;CLNR&gt;": [
+        {
+          "string_no": "6619428",
+          "string_id": "STR_UI_0291",
+          "index": 291,
+          "first": true
+        }
+      ],
+      "Transferrable:": [
+        {
+          "string_no": "6619339",
+          "string_id": "STR_UI_0202",
+          "index": 202,
+          "first": true
+        }
+      ],
+      "Type": [
+        {
+          "string_no": "6619277",
+          "string_id": "STR_UI_0140",
+          "index": 140,
+          "first": true
+        }
+      ],
+      "Type:": [
+        {
+          "string_no": "6619270",
+          "string_id": "STR_UI_0133",
+          "index": 133,
+          "first": true
+        }
+      ],
+      "Uni Bag": [
+        {
+          "string_no": "6619239",
+          "string_id": "STR_UI_0102",
+          "index": 102,
+          "first": true
+        }
+      ],
+      "Usable Items": [
+        {
+          "string_no": "6619260",
+          "string_id": "STR_UI_0123",
+          "index": 123,
+          "first": true
+        }
+      ],
+      "Use Skill": [
+        {
+          "string_no": "6619153",
+          "string_id": "STR_UI_0016",
+          "index": 16,
+          "first": true
+        }
+      ],
+      "Uses:": [
+        {
+          "string_no": "6619340",
+          "string_id": "STR_UI_0203",
+          "index": 203,
+          "first": true
+        }
+      ],
+      "VOICE": [
+        {
+          "string_no": "6619381",
+          "string_id": "STR_UI_0244",
+          "index": 244,
+          "first": true
+        }
+      ],
+      "Vibration": [
+        {
+          "string_no": "6619387",
+          "string_id": "STR_UI_0250",
+          "index": 250,
+          "first": true
+        }
+      ],
+      "Vicinity": [
+        {
+          "string_no": "6619347",
+          "string_id": "STR_UI_0210",
+          "index": 210,
+          "first": true
+        }
+      ],
+      "Wave Breaker Bridge": [
+        {
+          "string_no": "6619281",
+          "string_id": "STR_UI_0144",
+          "index": 144,
+          "first": true
+        }
+      ],
+      "Written exam": [
+        {
+          "string_no": "6619394",
+          "string_id": "STR_UI_0257",
+          "index": 257,
+          "first": true
+        }
+      ],
+      "X%d": [
+        {
+          "string_no": "6619210",
+          "string_id": "STR_UI_0073",
+          "index": 73,
+          "first": true
+        }
+      ],
+      "Yes": [
+        {
+          "string_no": "6619365",
+          "string_id": "STR_UI_0228",
+          "index": 228,
+          "first": true
+        }
+      ],
+      "day(s) left": [
+        {
+          "string_no": "6619191",
+          "string_id": "STR_UI_0054",
+          "index": 54,
+          "first": true
+        }
+      ],
+      "etc.": [
+        {
+          "string_no": "6619272",
+          "string_id": "STR_UI_0135",
+          "index": 135,
+          "first": true
+        }
+      ],
+      "h": [
+        {
+          "string_no": "6619192",
+          "string_id": "STR_UI_0055",
+          "index": 55,
+          "first": true
+        },
+        {
+          "string_no": "6619337",
+          "string_id": "STR_UI_0200",
+          "index": 200,
+          "first": false
+        }
+      ],
+      "points": [
+        {
+          "string_no": "6619399",
+          "string_id": "STR_UI_0262",
+          "index": 262,
+          "first": true
+        }
+      ],
+      "pt": [
+        {
+          "string_no": "6619358",
+          "string_id": "STR_UI_0221",
+          "index": 221,
+          "first": true
+        }
+      ],
+      "pts": [
+        {
+          "string_no": "6619400",
+          "string_id": "STR_UI_0263",
+          "index": 263,
+          "first": true
+        }
+      ],
+      "ver. 1.07": [
+        {
+          "string_no": "6619405",
+          "string_id": "STR_UI_0268",
+          "index": 268,
+          "first": true
+        }
+      ],
+      "x": [
+        {
+          "string_no": "6619283",
+          "string_id": "STR_UI_0146",
+          "index": 146,
+          "first": true
+        }
+      ],
+      "~": [
+        {
+          "string_no": "6619246",
+          "string_id": "STR_UI_0109",
+          "index": 109,
+          "first": true
+        }
+      ],
+      "★Reached 100% gathering rate!": [
+        {
+          "string_no": "6619222",
+          "string_id": "STR_UI_0085",
+          "index": 85,
+          "first": true
+        }
+      ],
+      "～": [
+        {
+          "string_no": "6619168",
+          "string_id": "STR_UI_0031",
+          "index": 31,
+          "first": true
+        }
+      ]
+    },
+    "str_ui_untranslated.xml": {
+      "&lt;IM11&gt; Change Catalyst": [
+        {
+          "string_no": "6029377",
+          "string_id": "STR_UI_UNTRANSLATED_0064",
+          "index": 64,
+          "first": true
+        }
+      ],
+      "+Effect": [
+        {
+          "string_no": "6029344",
+          "string_id": "STR_UI_UNTRANSLATED_0031",
+          "index": 31,
+          "first": true
+        }
+      ],
+      "-Effect": [
+        {
+          "string_no": "6029345",
+          "string_id": "STR_UI_UNTRANSLATED_0032",
+          "index": 32,
+          "first": true
+        }
+      ],
+      "ATK": [
+        {
+          "string_no": "6029329",
+          "string_id": "STR_UI_UNTRANSLATED_0016",
+          "index": 16,
+          "first": true
+        },
+        {
+          "string_no": "6029356",
+          "string_id": "STR_UI_UNTRANSLATED_0043",
+          "index": 43,
+          "first": false
+        }
+      ],
+      "Alchemy Lv": [
+        {
+          "string_no": "6029316",
+          "string_id": "STR_UI_UNTRANSLATED_0003",
+          "index": 3,
+          "first": true
+        }
+      ],
+      "Area Effects": [
+        {
+          "string_no": "6029336",
+          "string_id": "STR_UI_UNTRANSLATED_0023",
+          "index": 23,
+          "first": true
+        }
+      ],
+      "Attack": [
+        {
+          "string_no": "6029339",
+          "string_id": "STR_UI_UNTRANSLATED_0026",
+          "index": 26,
+          "first": true
+        },
+        {
+          "string_no": "6029347",
+          "string_id": "STR_UI_UNTRANSLATED_0034",
+          "index": 34,
+          "first": false
+        },
+        {
+          "string_no": "6029365",
+          "string_id": "STR_UI_UNTRANSLATED_0052",
+          "index": 52,
+          "first": false
+        }
+      ],
+      "Attacker": [
+        {
+          "string_no": "6029337",
+          "string_id": "STR_UI_UNTRANSLATED_0024",
+          "index": 24,
+          "first": true
+        }
+      ],
+      "Cancel Battle Mix": [
+        {
+          "string_no": "6029323",
+          "string_id": "STR_UI_UNTRANSLATED_0010",
+          "index": 10,
+          "first": true
+        }
+      ],
+      "Catalyst Available": [
+        {
+          "string_no": "6029354",
+          "string_id": "STR_UI_UNTRANSLATED_0041",
+          "index": 41,
+          "first": true
+        }
+      ],
+      "Client:": [
+        {
+          "string_no": "6029363",
+          "string_id": "STR_UI_UNTRANSLATED_0050",
+          "index": 50,
+          "first": true
+        }
+      ],
+      "Components": [
+        {
+          "string_no": "6029375",
+          "string_id": "STR_UI_UNTRANSLATED_0062",
+          "index": 62,
+          "first": true
+        }
+      ],
+      "Core Parts": [
+        {
+          "string_no": "6029327",
+          "string_id": "STR_UI_UNTRANSLATED_0014",
+          "index": 14,
+          "first": true
+        }
+      ],
+      "Cost": [
+        {
+          "string_no": "6029326",
+          "string_id": "STR_UI_UNTRANSLATED_0013",
+          "index": 13,
+          "first": true
+        }
+      ],
+      "DEF": [
+        {
+          "string_no": "6029330",
+          "string_id": "STR_UI_UNTRANSLATED_0017",
+          "index": 17,
+          "first": true
+        },
+        {
+          "string_no": "6029357",
+          "string_id": "STR_UI_UNTRANSLATED_0044",
+          "index": 44,
+          "first": false
+        }
+      ],
+      "Defense": [
+        {
+          "string_no": "6029340",
+          "string_id": "STR_UI_UNTRANSLATED_0027",
+          "index": 27,
+          "first": true
+        },
+        {
+          "string_no": "6029348",
+          "string_id": "STR_UI_UNTRANSLATED_0035",
+          "index": 35,
+          "first": false
+        },
+        {
+          "string_no": "6029366",
+          "string_id": "STR_UI_UNTRANSLATED_0053",
+          "index": 53,
+          "first": false
+        }
+      ],
+      "Details": [
+        {
+          "string_no": "6029334",
+          "string_id": "STR_UI_UNTRANSLATED_0021",
+          "index": 21,
+          "first": true
+        }
+      ],
+      "Effect": [
+        {
+          "string_no": "6029320",
+          "string_id": "STR_UI_UNTRANSLATED_0007",
+          "index": 7,
+          "first": true
+        }
+      ],
+      "Effects:": [
+        {
+          "string_no": "6029346",
+          "string_id": "STR_UI_UNTRANSLATED_0033",
+          "index": 33,
+          "first": true
+        }
+      ],
+      "Equip Effect": [
+        {
+          "string_no": "6029342",
+          "string_id": "STR_UI_UNTRANSLATED_0029",
+          "index": 29,
+          "first": true
+        },
+        {
+          "string_no": "6029350",
+          "string_id": "STR_UI_UNTRANSLATED_0037",
+          "index": 37,
+          "first": false
+        },
+        {
+          "string_no": "6029359",
+          "string_id": "STR_UI_UNTRANSLATED_0046",
+          "index": 46,
+          "first": false
+        },
+        {
+          "string_no": "6029368",
+          "string_id": "STR_UI_UNTRANSLATED_0055",
+          "index": 55,
+          "first": false
+        }
+      ],
+      "Equipment Effect": [
+        {
+          "string_no": "6029332",
+          "string_id": "STR_UI_UNTRANSLATED_0019",
+          "index": 19,
+          "first": true
+        }
+      ],
+      "Exam Available": [
+        {
+          "string_no": "6029314",
+          "string_id": "STR_UI_UNTRANSLATED_0001",
+          "index": 1,
+          "first": true
+        }
+      ],
+      "Follow-up Conditions": [
+        {
+          "string_no": "6029321",
+          "string_id": "STR_UI_UNTRANSLATED_0008",
+          "index": 8,
+          "first": true
+        }
+      ],
+      "Friendship": [
+        {
+          "string_no": "6029352",
+          "string_id": "STR_UI_UNTRANSLATED_0039",
+          "index": 39,
+          "first": true
+        }
+      ],
+      "Money": [
+        {
+          "string_no": "6029325",
+          "string_id": "STR_UI_UNTRANSLATED_0012",
+          "index": 12,
+          "first": true
+        }
+      ],
+      "Quality": [
+        {
+          "string_no": "6029374",
+          "string_id": "STR_UI_UNTRANSLATED_0061",
+          "index": 61,
+          "first": true
+        }
+      ],
+      "Resistance": [
+        {
+          "string_no": "6029343",
+          "string_id": "STR_UI_UNTRANSLATED_0030",
+          "index": 30,
+          "first": true
+        },
+        {
+          "string_no": "6029369",
+          "string_id": "STR_UI_UNTRANSLATED_0056",
+          "index": 56,
+          "first": false
+        }
+      ],
+      "SPD": [
+        {
+          "string_no": "6029331",
+          "string_id": "STR_UI_UNTRANSLATED_0018",
+          "index": 18,
+          "first": true
+        },
+        {
+          "string_no": "6029358",
+          "string_id": "STR_UI_UNTRANSLATED_0045",
+          "index": 45,
+          "first": false
+        }
+      ],
+      "Save Data": [
+        {
+          "string_no": "6029361",
+          "string_id": "STR_UI_UNTRANSLATED_0048",
+          "index": 48,
+          "first": true
+        }
+      ],
+      "Select the amount of Archeus Anima": [
+        {
+          "string_no": "6029322",
+          "string_id": "STR_UI_UNTRANSLATED_0009",
+          "index": 9,
+          "first": true
+        }
+      ],
+      "Speed": [
+        {
+          "string_no": "6029341",
+          "string_id": "STR_UI_UNTRANSLATED_0028",
+          "index": 28,
+          "first": true
+        },
+        {
+          "string_no": "6029349",
+          "string_id": "STR_UI_UNTRANSLATED_0036",
+          "index": 36,
+          "first": false
+        },
+        {
+          "string_no": "6029367",
+          "string_id": "STR_UI_UNTRANSLATED_0054",
+          "index": 54,
+          "first": false
+        }
+      ],
+      "Standby": [
+        {
+          "string_no": "6029318",
+          "string_id": "STR_UI_UNTRANSLATED_0005",
+          "index": 5,
+          "first": true
+        }
+      ],
+      "Subparts": [
+        {
+          "string_no": "6029328",
+          "string_id": "STR_UI_UNTRANSLATED_0015",
+          "index": 15,
+          "first": true
+        }
+      ],
+      "Supporter": [
+        {
+          "string_no": "6029338",
+          "string_id": "STR_UI_UNTRANSLATED_0025",
+          "index": 25,
+          "first": true
+        }
+      ],
+      "Traits": [
+        {
+          "string_no": "6029376",
+          "string_id": "STR_UI_UNTRANSLATED_0063",
+          "index": 63,
+          "first": true
+        }
+      ],
+      "Under Examination": [
+        {
+          "string_no": "6029313",
+          "string_id": "STR_UI_UNTRANSLATED_0000",
+          "index": 0,
+          "first": true
+        }
+      ],
+      "Until Next Exam": [
+        {
+          "string_no": "6029315",
+          "string_id": "STR_UI_UNTRANSLATED_0002",
+          "index": 2,
+          "first": true
+        }
+      ],
+      "Until Next Lv": [
+        {
+          "string_no": "6029317",
+          "string_id": "STR_UI_UNTRANSLATED_0004",
+          "index": 4,
+          "first": true
+        }
+      ],
+      "Use Enhancing Agent &lt;IM06&gt;": [
+        {
+          "string_no": "6029378",
+          "string_id": "STR_UI_UNTRANSLATED_0065",
+          "index": 65,
+          "first": true
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root visible="true">
+	<command load_anim="Saves/ui/a19_title/uia_a19_title.xml"/>
+	<!--全体画像-->
+	<!--
+	<image style="common_bg_sample" color="255,192,192,128" visible="false" viewer_visible="true"/>
+	-->
+	<!--タイトルロゴ-->
+	<image pos="294, 47, 0" style="gen_a19_title01_logo" name="logo" viewer_visible="true" visible="false" scale="0.95, 0.95, 1.00"/>
+	<!--コピーライト-->
+	<image pos="320, 668, 0" style="gen_a19_title01_copyright" name="copyright"/>
+	<node name="press_start" visible="false" viewer_visible="true">
+		<image name="press_start_image" pos="406, 475, 0" style="gen_a19_title01_anybutton" visible="true" viewer_visible="false">
+			<anim_ctrl play="true" loop="true" name="none_1" speed="0.50">
+				<bind_node node="../press_start_image" anim="anm_blink_50_100"/>
+			</anim_ctrl>
+		</image>
+	</node>
+	<anim_ctrl name="getin_press_start">
+		<bind_node node="press_start" anim="anm_common_fade_in" start_visible="true"/>
+	</anim_ctrl>
+	<anim_ctrl play="true" loop="true">
+		<bind_node node="press_start_image" anim="anm_blink_50_100" start_visible="true"/>
+	</anim_ctrl>
+	<!--メニュー-->
+	<node name="title_menu" pos="514.00, 436.00, 0.00" viewer_visible="true" visible="false">
+		<node name="line_cusor" pos="1, 32, 0">
+			<node name="node" pos="0.00, 5.00, 0.00">
+				<image name="line_cursor_bg" style="gen_a19_title02_hl" pos="-73.00, -146.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" color="255.00, 255.00, 255.00, 255.00" viewer_visible="true" flick_time="0.20"/>
+				<anim_ctrl loop="true" play="true">
+					<bind_node node="line_cursor_bg" anim="anm_blink_50_100"/>
+				</anim_ctrl>
+			</node>
+		</node>
+		<node name="menu" pos="-28.00, -53.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<image name="new_game" pos="37, -47.00, 0.00" style="gen_a19_title01_newgame" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="true" image_no="1"/>
+			<image name="load_game" pos="4, 18.00, 0.00" style="gen_a19_title01_loadgame" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="true"/>
+			<image name="network_load" pos="20, 82.00, 0.00" style="gen_a19_title01_nkl" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="true"/>
+			<image name="setting" pos="54, 147, 0" style="gen_a19_title01_setting" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="true"/>
+			<image name="extra" pos="70, 211.00, 0.00" style="gen_a19_title01_extra" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="true"/>
+			<image name="end_game" pos="70, 270.00, 0.00" style="gen_a19_title01_endgame" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="true" visible="false"/>
+		</node>
+	</node>
+	<node name="patch" pos="1241.00, 668.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true">
+		<text text="ver. 1.07" name="patch_ver" align="right" bold_size="1.00" string_id="STR_UI_0268"/>
+	</node>
+	<anim_ctrl name="getin_command_list" viewer_key_assign="1">
+		<bind_node node="title_menu" anim="anm_common_fade_in" start_visible="true"/>
+	</anim_ctrl>
+	<anim_ctrl name="fade_anim" viewer_key_assign="2">
+		<bind_node node="patch" anim="anm_common_fade_in"/>
+		<bind_node anim="anm_common_fade_in" node="copyright"/>
+		<bind_node anim="anm_common_fade_in" node="logo"/>
+		<bind_node node="title_menu" anim="anm_common_fade_in" start_visible="true"/>
+		<bind_node node="b_bg" anim="anm_common_fade_in" start_visible="true"/>
+	</anim_ctrl>
+</root>

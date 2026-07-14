@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "text": "HP",
+      "string_no": "6619204",
+      "string_id": "STR_UI_0067",
+      "file": "str_ui.xml"
+    },
+    {
+      "text": "MP",
+      "string_no": "6619163",
+      "string_id": "STR_UI_0026",
+      "file": "str_ui.xml"
+    },
+    {
+      "text": "Lv",
+      "string_no": "6619173",
+      "string_id": "STR_UI_0036",
+      "file": "str_ui.xml"
+    },
+    {
+      "text": "Exp",
+      "string_no": "6619176",
+      "string_id": "STR_UI_0039",
+      "file": "str_ui.xml"
+    },
+    {
+      "text": "exp",
+      "string_no": "6619176",
+      "string_id": "STR_UI_0039",
+      "file": "str_ui.xml",
+      "note": "lowercase alias; same String_No as Exp"
+    },
+    {
+      "text": "Next",
+      "string_no": "6619177",
+      "string_id": "STR_UI_0040",
+      "file": "str_ui.xml"
+    },
+    {
+      "text": "Area Effects",
+      "string_no": "6029336",
+      "string_id": "STR_UI_UNTRANSLATED_0023",
+      "file": "str_ui_untranslated.xml"
+    },
+    {
+      "text": "Attacker",
+      "string_no": "6029337",
+      "string_id": "STR_UI_UNTRANSLATED_0024",
+      "file": "str_ui_untranslated.xml"
+    },
+    {
+      "text": "Supporter",
+      "string_no": "6029338",
+      "string_id": "STR_UI_UNTRANSLATED_0025",
+      "file": "str_ui_untranslated.xml"
+    },
+    {
+      "text": "Attack",
+      "string_no": "6029339",
+      "string_id": "STR_UI_UNTRANSLATED_0026",
+      "file": "str_ui_untranslated.xml"
+    },
+    {
+      "text": "Defense",
+      "string_no": "6029340",
+      "string_id": "STR_UI_UNTRANSLATED_0027",
+      "file": "str_ui_untranslated.xml"
+    },
+    {
+      "text": "Speed",
+      "string_no": "6029341",
+      "string_id": "STR_UI_UNTRANSLATED_0028",
+      "file": "str_ui_untranslated.xml"
+    },
+    {
+      "text": "Equip Effect",
+      "string_no": "6029342",
+      "string_id": "STR_UI_UNTRANSLATED_0029",
+      "file": "str_ui_untranslated.xml"
+    },
+    {
+      "text": "Resistance",
+      "string_no": "6029343",
+      "string_id": "STR_UI_UNTRANSLATED_0030",
+      "file": "str_ui_untranslated.xml"
+    },
+    {
+      "text": "+Effect",
+      "string_no": "6029344",
+      "string_id": "STR_UI_UNTRANSLATED_0031",
+      "file": "str_ui_untranslated.xml"
+    },
+    {
+      "text": "-Effect",
+      "string_no": "6029345",
+      "string_id": "STR_UI_UNTRANSLATED_0032",
+      "file": "str_ui_untranslated.xml"
+    },
+    {
+      "text": "Effects:",
+      "string_no": "6029346",
+      "string_id": "STR_UI_UNTRANSLATED_0033",
+      "file": "str_ui_untranslated.xml"
+    }
+  ]
+}
