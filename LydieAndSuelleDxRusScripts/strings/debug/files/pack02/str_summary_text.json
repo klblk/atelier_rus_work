@@ -93,14 +93,14 @@
       "file": "str_summary_text.xml",
       "string_no": "6225933",
       "original": "The Atelier Ranking System is so new and exciting! If we really try hard, it should give us the opportunity to truly become the finest atelier in the land! All right - we’d better hurry to the Royal Castle and register!^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Система рейтингов ателье такая новая и интересная! Если мы действительно постараемся, это даст нам возможность действительно стать лучшим ателье в стране! Ладно, нам лучше поспешить в Королевский замок и зарегистрироваться!^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Система рангов ателье такая новая и интересная! Если мы действительно постараемся, это даст нам возможность действительно стать лучшим ателье в стране! Ладно, нам лучше поспешить в Королевский замок и зарегистрироваться!^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6225934": {
       "source": "pack02_text_en",
       "file": "str_summary_text.xml",
       "string_no": "6225934",
       "original": "Apparently, there’s an entrance examination to get into the Atelier Ranking System. The task we’ve been set is to create “Dream Paintbrushes”... Hmm... Let’s head back to the atelier and check the recipe.^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Судя по всему, здесь проводится вступительный экзамен для попадания в систему рейтинга ателье. Задача, которую нам поставили, — создать «Кисти мечты»... Хм… Вернёмся в ателье и проверим рецепт.^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Судя по всему, здесь проводится вступительный экзамен для попадания в Систему рангов ателье. Задача, которую нам поставили, — создать «Кисти мечты»... Хм… Вернёмся в ателье и проверим рецепт.^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6225935": {
       "source": "pack02_text_en",
@@ -184,14 +184,14 @@
       "file": "str_summary_text.xml",
       "string_no": "6225946",
       "original": "We’ve managed to get our atelier registered in the Atelier Ranking System, but still... How do we go about improving our ranking? ...I guess if there’s anything we’re unsure about, we should just ask Mireille! ^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Нам удалось зарегистрировать наше ателье в системе рейтинга ателье, но все же... Как нам улучшить наш рейтинг? ...Думаю, если мы в чем-то не уверены, нам следует просто спросить Мирей! ^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Нам удалось зарегистрировать наше ателье в Системе рангов ателье, но все же... Как нам улучшить наш ранг? ...Думаю, если мы в чем-то не уверены, нам следует просто спросить Мирей! ^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6225947": {
       "source": "pack02_text_en",
       "file": "str_summary_text.xml",
       "string_no": "6225947",
       "original": "To improve our ranking, we need to improve the atelier’s reputation. For now, I guess we should do as Mireille asked, and get rid of those monsters. ^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Чтобы улучшить наш рейтинг, нам необходимо улучшить репутацию ателье. А сейчас, я думаю, нам следует сделать то, что просила Мирей, и избавиться от этих монстров. ^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Чтобы улучшить наш ранг, нам необходимо улучшить репутацию ателье. А сейчас, я думаю, нам следует сделать то, что просила Мирей, и избавиться от этих монстров. ^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6225948": {
       "source": "pack02_text_en",
@@ -212,7 +212,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6225950",
       "original": "Excellent. I feel like our reputation is improving rapidly, and it might be about time to take the test to raise our ranking. Perhaps we should go and confirm that with Mireille. ^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Отличный. Я чувствую, что наша репутация быстро улучшается, и, возможно, пришло время пройти тест, чтобы повысить наш рейтинг. Возможно, нам стоит пойти и уточнить это у Мирей. ^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Отличный. Я чувствую, что наша репутация быстро улучшается, и, возможно, пришло время пройти тест, чтобы повысить наш ранг. Возможно, нам стоит пойти и уточнить это у Мирей. ^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6225951": {
       "source": "pack02_text_en",
@@ -233,7 +233,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6225953",
       "original": "We’ve made it to the G ranking! And now, Mireille has invited us to go and visit some place interesting. Naturally, I’m curious, so I’ve decided to do as she says and visit the castle’s gallery.^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Мы добрались до рейтинга G! И вот, Мирей пригласила нас сходить и посетить какое-нибудь интересное место. Естественно, мне любопытно, поэтому я решил сделать, как она говорит, и посетить галерею замка.^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Мы добрались до ранга G! И вот, Мирей пригласила нас сходить и посетить какое-нибудь интересное место. Естественно, мне любопытно, поэтому я решил сделать, как она говорит, и посетить галерею замка.^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6225954": {
       "source": "pack02_text_en",
@@ -373,7 +373,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6225973",
       "original": "We’ve made it to the F Rank! Sue and Lucia are arguing about the rankings, but I’m more interested in the Mysterious Paintings. I want to see what will be next, so I’m heading to the gallery! ^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Мы достигли ранга F! Сью и Люсия спорят о рейтингах, но меня больше интересуют «Таинственные картины». Хочу посмотреть, что будет дальше, поэтому иду в галерею! ^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Мы достигли ранга F! Сью и Люсия спорят о рангах, но меня больше интересуют «Таинственные картины». Хочу посмотреть, что будет дальше, поэтому иду в галерею! ^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6225974": {
       "source": "pack02_text_en",
@@ -737,14 +737,14 @@
       "file": "str_summary_text.xml",
       "string_no": "6226025",
       "original": "What?! Because we defeated Falgior, the Atelier Ranking System has been abolished?! But what are we supposed to do now? What about our dream?! Oh... I’m so confused! We need to head back to the atelier...^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Что?! Поскольку мы победили Фальгиора, система рейтингов ателье отменена?! Но что нам теперь делать? А как насчет нашей мечты?! Ох... Я в таком замешательстве! Нам нужно вернуться в ателье...^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Что?! Поскольку мы победили Фальгиора, Система рангов ателье отменена?! Но что нам теперь делать? А как насчет нашей мечты?! Ох... Я в таком замешательстве! Нам нужно вернуться в ателье...^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6226026": {
       "source": "pack02_text_en",
       "file": "str_summary_text.xml",
       "string_no": "6226026",
       "original": "First we’re thrown into turmoil by the abolition of the Ranking System, and now father’s gone missing too! This is bad... I just know he’s out there wasting money! We have to be proactive, and earn some money now by taking on some new requests!^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Сначала нас привела в смятение отмена системы рангов, а теперь пропал и отец! Это плохо... Я просто знаю, что он транжирит деньги! Мы должны проявлять инициативу и заработать немного денег уже сейчас, беря на себя новые запросы!^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Сначала нас привела в смятение отмена Системы рангов ателье, а теперь пропал и отец! Это плохо... Я просто знаю, что он транжирит деньги! Мы должны проявлять инициативу и заработать немного денег уже сейчас, беря на себя новые запросы!^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6226027": {
       "source": "pack02_text_en",
@@ -842,7 +842,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6226040",
       "original": "Thanks to Mireille, the Atelier Ranking System has been saved. Which means... there’s only one thing to do! We need to raise our atelier’s profile, and increase our rank! ...Still, I wonder where dad is...^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Благодаря Мирей, система рейтингов ателье была сохранена. А это значит... что остается делать только одно! Нам необходимо поднять авторитет нашего ателье и повысить свой рейтинг! ...И все же мне интересно, где папа...^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Благодаря Мирей, Система рангов ателье была сохранена. А это значит... что остается делать только одно! Нам необходимо поднять авторитет нашего ателье и повысить свой ранг! ...И все же мне интересно, где папа...^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6226041": {
       "source": "pack02_text_en",
@@ -919,7 +919,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6226051",
       "original": "Dad challenged us to a contest... The first to raise their atelier ranking wins. This is one battle we can’t afford to lose.^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Папа вызвал нас на конкурс... Побеждает тот, кто первым поднимет рейтинг своего ателье. Это битва, которую мы не можем позволить себе проиграть.^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Папа вызвал нас на конкурс... Побеждает тот, кто первым поднимет ранг своего ателье. Это битва, которую мы не можем позволить себе проиграть.^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6226052": {
       "source": "pack02_text_en",
@@ -1220,7 +1220,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6226094",
       "original": "Finally... Finally, we’ve made it. We should be able to take the test for the S ranking now, the highest ranking there is! ...Let’s take a deep breath, calm ourselves, then go and see Mireille.^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Наконец... Наконец-то мы сделали это. Теперь мы сможем пройти тест на рейтинг S, самый высокий рейтинг! ...Давайте сделаем глубокий вдох, успокоимся, а затем пойдем к Мирей.^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Наконец... Наконец-то мы сделали это. Теперь мы сможем пройти тест на ранг S, самый высокий ранг! ...Давайте сделаем глубокий вдох, успокоимся, а затем пойдем к Мирей.^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6226095": {
       "source": "pack02_text_en",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-15T06:16:26.503493+00:00",
+  "generated_at": "2026-07-15T06:50:56.348304+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -362,7 +362,7 @@
       "index": 0,
       "speaker": "System",
       "original": "This is Merveille, the royal capital of the Kingdom of Adalet.<CR>A glorious city with a long history.",
-      "translation": "Это Мервейль, королевская столица Королевства Адалета.<CR>Славный город с долгой историей."
+      "translation": "Это Мервейль, столица Королевства Адалета.<CR>Славный город с долгой историей."
     },
     "ebm:mm01/event_message_mm01_070.ebm:1": {
       "source": "pack01_ebm",
@@ -2754,7 +2754,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "The Kingdom of Adalet has decided to proactively attract more alchemists to work here.",
-      "translation": "Королевство Адалет решило активно привлечь для работы здесь больше алхимиков."
+      "translation": "Королевство Адалет решило активно привлечь для работы больше алхимиков."
     },
     "ebm:mm02/event_message_mm02_020.ebm:4": {
       "source": "pack01_ebm",
@@ -2762,7 +2762,7 @@
       "index": 4,
       "speaker": "Lydie",
       "original": "We are therefore happy to announce the implementing of the new Atelier Ranking System.",
-      "translation": "Поэтому мы рады объявить о внедрении новой системы рейтинга ателье."
+      "translation": "Поэтому мы рады объявить о внедрении новой Системы рангов ателье."
     },
     "ebm:mm02/event_message_mm02_020.ebm:5": {
       "source": "pack01_ebm",
@@ -2858,7 +2858,7 @@
       "index": 16,
       "speaker": "Lydie",
       "original": "I see what you mean. We can win on rank, even if we aren't popular?",
-      "translation": "Я понимаю, что вы имеете в виду. Мы можем победить в рейтинге, даже если мы не популярны?"
+      "translation": "Я понимаю, что вы имеете в виду. Мы можем победить в рангах, даже если мы не популярны?"
     },
     "ebm:mm02/event_message_mm02_020.ebm:17": {
       "source": "pack01_ebm",
@@ -2890,7 +2890,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "We have to get to the castle and sign up for the Atelier Ranking System.",
-      "translation": "Нам нужно добраться до замка и зарегистрироваться в системе рейтинга ателье."
+      "translation": "Нам нужно добраться до замка и зарегистрироваться в Системе рангов ателье."
     },
     "ebm:mm02/event_message_mm02_030.ebm:1": {
       "source": "pack01_ebm",
@@ -2898,7 +2898,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "We need to go to the castle and sign up for the Atelier Ranking System!",
-      "translation": "Нам нужно пойти в замок и зарегистрироваться в системе рейтинга ателье!"
+      "translation": "Нам нужно пойти в замок и зарегистрироваться в Системе рангов ателье!"
     },
     "ebm:mm02/event_message_mm02_040.ebm:0": {
       "source": "pack01_ebm",
@@ -2914,7 +2914,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Hey, Lucia. We're here to register for the Atelier Ranking System.",
-      "translation": "Привет, Люсия. Мы здесь, чтобы зарегистрироваться в системе рейтинга ателье."
+      "translation": "Привет, Люсия. Мы здесь, чтобы зарегистрироваться в Системе рангов ателье."
     },
     "ebm:mm02/event_message_mm02_040.ebm:2": {
       "source": "pack01_ebm",
@@ -2994,7 +2994,7 @@
       "index": 11,
       "speaker": "Mireille",
       "original": "I handle all general affairs for the kingdom. That includes our new Atelier Ranking System.",
-      "translation": "Я занимаюсь всеми общими делами королевства. Это включает в себя нашу новую систему рейтинга ателье."
+      "translation": "Я занимаюсь всеми общими делами королевства. Это включает в себя нашу новую Систему рангов ателье."
     },
     "ebm:mm02/event_message_mm02_040.ebm:12": {
       "source": "pack01_ebm",
@@ -4666,7 +4666,7 @@
       "index": 1,
       "speaker": "Mireille",
       "original": "Both of you, you've passed! Welcome to the Atelier Ranking System!",
-      "translation": "Вы оба, вы прошли! Добро пожаловать в систему рейтинга ателье!"
+      "translation": "Вы оба, вы прошли! Добро пожаловать в Систему рангов ателье!"
     },
     "ebm:mm02/event_message_mm02_240.ebm:2": {
       "source": "pack01_ebm",
@@ -4722,7 +4722,7 @@
       "index": 8,
       "speaker": "Mireille",
       "original": "You two are the lowest, \"Unranked\". We have S, A through G, and then the Unranked, for a total of 9 ranks.",
-      "translation": "Вы двое самые низкие, «без рейтинга». У нас есть S, A–G, а затем рейтинг без рейтинга, всего 9 рангов."
+      "translation": "Вы двое самые низкие, «без ранга». У нас есть S, A–G, а затем без ранга, всего 9 рангов."
     },
     "ebm:mm02/event_message_mm02_240.ebm:9": {
       "source": "pack01_ebm",
@@ -4730,7 +4730,7 @@
       "index": 9,
       "speaker": "Lydie",
       "original": "Which means C rank is... fourth from the top? But didn't the Ranking System only just start?",
-      "translation": "Это значит, что ранг C... четвёртый сверху? Но разве система рангов не зародилась только сейчас?"
+      "translation": "Это значит, что ранг C... четвёртый сверху? Но разве Система рангов ателье не зародилась только сейчас?"
     },
     "ebm:mm02/event_message_mm02_240.ebm:10": {
       "source": "pack01_ebm",
@@ -4874,7 +4874,7 @@
       "index": 3,
       "speaker": "Lucia",
       "original": "You have joined the Atelier Ranking System? Is that true?",
-      "translation": "Вы присоединились к рейтинговой системе ателье? Это правда?"
+      "translation": "Вы присоединились к Системе рангов ателье? Это правда?"
     },
     "ebm:mm03/event_message_mm03_010.ebm:4": {
       "source": "pack01_ebm",
@@ -4890,7 +4890,7 @@
       "index": 5,
       "speaker": "Lucia",
       "original": "But do you understand? Taking part in the ranking system means competing with Atelier Borthayre.",
-      "translation": "Но понимаете ли вы? Принять участие в рейтинговой системе — значит конкурировать с Ателье Бортайр."
+      "translation": "Но понимаете ли вы? Принять участие в Системе рангов ателье — значит конкурировать с Ателье Бортайр."
     },
     "ebm:mm03/event_message_mm03_010.ebm:6": {
       "source": "pack01_ebm",
@@ -4898,7 +4898,7 @@
       "index": 6,
       "speaker": "Lucia",
       "original": "On one hand, we have you two. Unranked, hardly any training, and just joining the system.",
-      "translation": "С одной стороны, у нас есть вы двое. Без рейтинга, практически без обучения и просто присоединения к системе."
+      "translation": "С одной стороны, у нас есть вы двое. Без ранга, практически без обучения и просто присоединения к системе."
     },
     "ebm:mm03/event_message_mm03_010.ebm:7": {
       "source": "pack01_ebm",
@@ -4946,7 +4946,7 @@
       "index": 12,
       "speaker": "Lucia",
       "original": "How dare you! All alchemists normally start Unranked, I'll have you know!",
-      "translation": "Как ты смеешь! Все алхимики обычно начинают игру без рейтинга, я вам сообщу!"
+      "translation": "Как ты смеешь! Все алхимики обычно начинают игру без ранга, я вам сообщу!"
     },
     "ebm:mm03/event_message_mm03_010.ebm:13": {
       "source": "pack01_ebm",
@@ -5186,7 +5186,7 @@
       "index": 14,
       "speaker": "System",
       "original": "You need to take a Promotion Test in order to increase your atelier ranking. ",
-      "translation": "Вам необходимо пройти тест на повышение, чтобы повысить свой рейтинг в ателье."
+      "translation": "Вам необходимо пройти тест на повышение, чтобы повысить свой ранг ателье."
     },
     "ebm:mm03/event_message_mm03_030.ebm:15": {
       "source": "pack01_ebm",
@@ -8586,7 +8586,7 @@
       "index": 12,
       "speaker": "Mathias",
       "original": "Say, Sis. How about they work on their atelier ranking while you look for more paintings?",
-      "translation": "Скажи, сестренка. Как насчет того, чтобы они поработали над рейтингом своих ателье, пока вы ищете новые картины?"
+      "translation": "Скажи, сестренка. Как насчет того, чтобы они поработали над рангом своих ателье, пока вы ищете новые картины?"
     },
     "ebm:mm03/event_message_mm03_420.ebm:13": {
       "source": "pack01_ebm",
@@ -8754,7 +8754,7 @@
       "index": 7,
       "speaker": "Roger",
       "original": "Is this that Atelier Ranking System? I was surprised to hear you two signed up for that.",
-      "translation": "Это та самая рейтинговая система ателье? Я был удивлен, узнав, что вы двое подписались на это."
+      "translation": "Это та самая Система рангов ателье? Я был удивлен, узнав, что вы двое подписались на это."
     },
     "ebm:mm04/event_message_mm04_010.ebm:8": {
       "source": "pack01_ebm",
@@ -9594,7 +9594,7 @@
       "index": 11,
       "speaker": "Lucia",
       "original": "I'm going to defeat all these monsters and rank up all alone! See you later!",
-      "translation": "Я собираюсь победить всех этих монстров и повысить свой рейтинг в одиночку! Увидимся позже!"
+      "translation": "Я собираюсь победить всех этих монстров и повысить свой ранг в одиночку! Увидимся позже!"
     },
     "ebm:mm04/event_message_mm04_070.ebm:12": {
       "source": "pack01_ebm",
@@ -9698,7 +9698,7 @@
       "index": 10,
       "speaker": "???",
       "original": "E-Examination? Is this part of the Atelier Ranking System?",
-      "translation": "Электронная экспертиза? Это часть системы рейтинга ателье?"
+      "translation": "Электронная экспертиза? Это часть Системы рангов ателье?"
     },
     "ebm:mm04/event_message_mm04_080.ebm:11": {
       "source": "pack01_ebm",
@@ -9714,7 +9714,7 @@
       "index": 12,
       "speaker": "???",
       "original": "How do you think? I'm in the ranking system too!",
-      "translation": "Как вы думаете? Я тоже в рейтинговой системе!"
+      "translation": "Как вы думаете? Я тоже в Системе рангов ателье!"
     },
     "ebm:mm04/event_message_mm04_080.ebm:13": {
       "source": "pack01_ebm",
@@ -12370,7 +12370,7 @@
       "index": 2,
       "speaker": "Roger",
       "original": "Stop sleep talking! Go splash some water on your face and wake up. I'm talking about your Atelier Ranking!",
-      "translation": "Хватит говорить во сне! Иди, плесни себе в лицо немного воды и проснись. Я говорю о вашем рейтинге ателье!"
+      "translation": "Хватит говорить во сне! Иди, плесни себе в лицо немного воды и проснись. Я говорю о вашем ранге ателье!"
     },
     "ebm:mm05/event_message_mm05_010.ebm:3": {
       "source": "pack01_ebm",
@@ -16666,7 +16666,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "D Rank! Look at how far we've come! We've increased our rank quite a lot!",
-      "translation": "Ранг Д! Посмотрите, как далеко мы зашли! Мы значительно повысили свой рейтинг!"
+      "translation": "Ранг Д! Посмотрите, как далеко мы зашли! Мы значительно повысили свой ранг!"
     },
     "ebm:mm06/event_message_mm06_130.ebm:2": {
       "source": "pack01_ebm",
@@ -16898,7 +16898,7 @@
       "index": 30,
       "speaker": "Mireille",
       "original": "For example, the Atelier Ranking System. You alchemists are our key to defeating Falgior.",
-      "translation": "Например, система рейтингов ателье. Вы, алхимики, — наш ключ к победе над Фальгиором."
+      "translation": "Например, Система рангов ателье. Вы, алхимики, — наш ключ к победе над Фальгиором."
     },
     "ebm:mm06/event_message_mm06_130.ebm:31": {
       "source": "pack01_ebm",
@@ -20810,7 +20810,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "W-Why? What's the meaning of this? The Atelier Ranking System is being temporarily suspended? ... Eeehhh?!",
-      "translation": "Ч-почему? Какой в этом смысл? Система рейтинга ателье временно приостанавливается? ... Ээээээ?!"
+      "translation": "Ч-почему? Какой в этом смысл? Система рангов ателье временно приостанавливается? ... Ээээээ?!"
     },
     "ebm:mm07/event_message_mm07_010.ebm:3": {
       "source": "pack01_ebm",
@@ -23370,7 +23370,7 @@
       "index": 5,
       "speaker": "Mireille",
       "original": "The continuation of the Atelier Ranking System has been officially approved! How about a little applause?",
-      "translation": "Официально утверждено продолжение системы рейтингов ателье! Как насчет небольших аплодисментов?"
+      "translation": "Официально утверждено продолжение Системы рангов ателье! Как насчет небольших аплодисментов?"
     },
     "ebm:mm07/event_message_mm07_300.ebm:6": {
       "source": "pack01_ebm",
@@ -27002,7 +27002,7 @@
       "index": 14,
       "speaker": "Roger",
       "original": "To see which of us can raise our Atelier Rank the fastest. I'll raise Atelier Borthayre's rank.",
-      "translation": "Чтобы увидеть, кто из нас сможет быстрее поднять рейтинг Ателье. Я повышу ранг Ателье Бортайра."
+      "translation": "Чтобы увидеть, кто из нас сможет быстрее поднять ранг ателье. Я повышу ранг Ателье Бортайра."
     },
     "ebm:mm09/event_message_mm09_020.ebm:15": {
       "source": "pack01_ebm",
@@ -34714,7 +34714,7 @@
       "index": 10,
       "speaker": "Sue",
       "original": "Me too. We've done so much as we worked to increase our Atelier Rank...",
-      "translation": "Я тоже. Мы сделали так много, как работали, чтобы повысить рейтинг нашего Ателье..."
+      "translation": "Я тоже. Мы сделали так много, как работали, чтобы повысить ранг нашего ателье..."
     },
     "ebm:mm10/event_message_mm10_440.ebm:11": {
       "source": "pack01_ebm",
@@ -38106,7 +38106,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "Bored?! Bored of the Ranking System?",
-      "translation": "Скучающий?! Вам надоела система рейтингов?"
+      "translation": "Скучающий?! Вам надоела Система рангов ателье?"
     },
     "ebm:mm12/event_message_mm12_060.ebm:5": {
       "source": "pack01_ebm",
@@ -38154,7 +38154,7 @@
       "index": 10,
       "speaker": "Alt",
       "original": "Your goal is to raise your Atelier Rank and become the greatest in the kingdom, though, right?",
-      "translation": "Ваша цель — повысить свой ранг Ателье и стать величайшим в королевстве, верно?"
+      "translation": "Ваша цель — повысить свой ранг ателье и стать величайшим в королевстве, верно?"
     },
     "ebm:mm12/event_message_mm12_060.ebm:11": {
       "source": "pack01_ebm",
@@ -38250,7 +38250,7 @@
       "index": 9,
       "speaker": "Firis",
       "original": "Miss Sophie isn't any better! She doesn't like the Ranking System either, so she won't help me.",
-      "translation": "Мисс Софи не лучше! Ей тоже не нравится система рангов, поэтому она мне не поможет."
+      "translation": "Мисс Софи не лучше! Ей тоже не нравится Система рангов ателье, поэтому она мне не поможет."
     },
     "ebm:mm12/event_message_mm12_070.ebm:10": {
       "source": "pack01_ebm",
@@ -41442,7 +41442,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "Of course not! Atelier Rank, that's what we're talking about! Our Atelier Rank!",
-      "translation": "Конечно, нет! Ранг Ателье, вот о чем мы говорим! Наш рейтинг Ателье!"
+      "translation": "Конечно, нет! Ранг ателье, вот о чем мы говорим! Наш ранг ателье!"
     },
     "ebm:mm12/event_message_mm12_340.ebm:3": {
       "source": "pack01_ebm",
@@ -42082,7 +42082,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "No! Corneria, come on. The Ranking System! That's what we're talking about!",
-      "translation": "Нет! Корнерия, давай. Система рангов! Вот о чем мы говорим!"
+      "translation": "Нет! Корнерия, давай. Система рангов ателье! Вот о чем мы говорим!"
     },
     "ebm:mm12/event_message_mm12_390.ebm:4": {
       "source": "pack01_ebm",
@@ -73642,7 +73642,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "I know. I'm so jealous. The Ranking system hasn't changed that, has it?",
-      "translation": "Я знаю. Я так ревную. Система рейтингов ничего не изменила, не так ли?"
+      "translation": "Я знаю. Я так ревную. Система рангов ателье ничего не изменила, не так ли?"
     },
     "ebm:qc06_luc/event_message_qc06_luc_010.ebm:2": {
       "source": "pack01_ebm",
@@ -81218,7 +81218,7 @@
       "index": 4,
       "speaker": "Lydie",
       "original": "What?! Drop our rank?! Why would you do such a thing?",
-      "translation": "Что?! Понизить наш рейтинг?! Зачем вам это делать?"
+      "translation": "Что?! Понизить наш ранг?! Зачем вам это делать?"
     },
     "ebm:qc09_mir/event_message_qc09_mir_020.ebm:5": {
       "source": "pack01_ebm",
@@ -94122,7 +94122,7 @@
       "index": 11,
       "speaker": "Corneria",
       "original": "Yes, I will be careful. This Ranking System, though, is a big business opportunity!",
-      "translation": "Да, я буду осторожен. Однако эта рейтинговая система представляет собой большую возможность для бизнеса!"
+      "translation": "Да, я буду осторожен. Однако эта Система рангов ателье представляет собой большую возможность для бизнеса!"
     },
     "ebm:qc14_cor/event_message_qc14_cor_060.ebm:12": {
       "source": "pack01_ebm",
@@ -109058,7 +109058,7 @@
       "index": 13,
       "speaker": "Lydie",
       "original": "A recipe for a legendary item, written by alchemists of yore! A way to raise our atelier rank!",
-      "translation": "Рецепт легендарного предмета, написанный алхимиками древности! Способ повысить рейтинг нашего ателье!"
+      "translation": "Рецепт легендарного предмета, написанный алхимиками древности! Способ повысить ранг нашего ателье!"
     },
     "ebm:yy01/event_message_yy01_010.ebm:14": {
       "source": "pack01_ebm",
@@ -181830,7 +181830,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866662",
       "original": "Reputation: Atelier Ranking",
-      "translation": "Репутация: Рейтинг Ателье"
+      "translation": "Репутация: ранг ателье"
     },
     "pack02:3866663": {
       "source": "pack02_text_en",
@@ -182117,7 +182117,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866703",
       "original": "The &lt;CLGR&gt;Atelier Rank&lt;CLNR&gt; is an indicator of your atelier’s performance. Ranks range from S to G, as well as Unranked, for a combined total of 9.",
-      "translation": "&lt;CLGR&gt;Ранг ателье&lt;CLNR&gt; является показателем эффективности вашего ателье. Ранги варьируются от S до G, а также без рейтинга, всего 9."
+      "translation": "&lt;CLGR&gt;Ранг ателье&lt;CLNR&gt; является показателем эффективности вашего ателье. Ранги варьируются от S до G, а также без ранга, всего 9."
     },
     "pack02:3866704": {
       "source": "pack02_text_en",
@@ -182131,7 +182131,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866705",
       "original": "To raise your Atelier Rank, boost the reputation of your atelier and speak to Mireille to take a Promotion Test. First, head to the Castle Entrance Hall.",
-      "translation": "Чтобы повысить свой рейтинг в ателье, повысьте репутацию своего ателье и поговорите с Мирей, чтобы пройти тест на повышение. Сначала идите в вестибюль замка."
+      "translation": "Чтобы повысить свой ранг ателье, повысьте репутацию своего ателье и поговорите с Мирей, чтобы пройти тест на повышение. Сначала идите в вестибюль замка."
     },
     "pack02:3866706": {
       "source": "pack02_text_en",
@@ -182761,7 +182761,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866795",
       "original": "Raising your atelier ranking will cause you to receive even more requests. Be sure to check the Notice Board regularly and take on any new requests that appear.",
-      "translation": "Повышение рейтинга вашего ателье приведет к тому, что вы будете получать еще больше запросов. Обязательно регулярно проверяйте доску объявлений и принимайте любые новые запросы, которые появляются."
+      "translation": "Повышение ранга вашего ателье приведет к тому, что вы будете получать еще больше запросов. Обязательно регулярно проверяйте доску объявлений и принимайте любые новые запросы, которые появляются."
     },
     "pack02:3473409": {
       "source": "pack02_text_en",
@@ -193366,7 +193366,7 @@
       "file": "str_npc_s04_mess.xml",
       "string_no": "33685543",
       "original": "Atelier rankings...? Why bother? Everyone knows Lucia’s atelier is the best!",
-      "translation": "Рейтинг ателье...? Зачем? Все знают, что ателье Люсии — лучшее!"
+      "translation": "Ранги ателье...? Зачем? Все знают, что ателье Люсии — лучшее!"
     },
     "pack02:33685544": {
       "source": "pack02_text_en",
@@ -193954,7 +193954,7 @@
       "file": "str_npc_s06_mess.xml",
       "string_no": "33751048",
       "original": "You’re doing a good job so far. But just because your atelier’s ranking has gone up, you mustn’t get ahead of yourselves.",
-      "translation": "Пока вы неплохо справляетесь. Но только потому, что рейтинг ателье вырос, не зазнавайтесь."
+      "translation": "Пока вы неплохо справляетесь. Но только потому, что ранг ателье вырос, не зазнавайтесь."
     },
     "pack02:33751049": {
       "source": "pack02_text_en",
@@ -194297,7 +194297,7 @@
       "file": "str_npc_s07_mess.xml",
       "string_no": "33816586",
       "original": "I have no interest in the Atelier Ranking System, but I would like to see you two reach the top... Hehe.",
-      "translation": "Меня не интересует система рейтинга ателье, но хотелось бы увидеть, как вы двое доберётесь до вершины... Хехе."
+      "translation": "Меня не интересует Система рангов ателье, но хотелось бы увидеть, как вы двое доберётесь до вершины... Хехе."
     },
     "pack02:33816587": {
       "source": "pack02_text_en",
@@ -194885,7 +194885,7 @@
       "file": "str_npc_s09_mess.xml",
       "string_no": "32899073",
       "original": "Hehe, welcome! If you have any questions about the Atelier Ranking System, I’m the one to ask!",
-      "translation": "Хехе, добро пожаловать! Если у вас есть вопросы о системе рангов ателье — спрашивайте меня!"
+      "translation": "Хехе, добро пожаловать! Если у вас есть вопросы о Системе рангов ателье — спрашивайте меня!"
     },
     "pack02:32899074": {
       "source": "pack02_text_en",
@@ -195564,7 +195564,7 @@
       "file": "str_npc_s10_mess.xml",
       "string_no": "33030167",
       "original": "I hear you two have registered with this Atelier Ranking System. But don’t go taking on more than you can handle.",
-      "translation": "Слышала, вы вдвоём зарегистрировались в этой системе рангов ателье. Но не берите на себя больше, чем можете."
+      "translation": "Слышала, вы вдвоём зарегистрировались в этой Системе рангов ателье. Но не берите на себя больше, чем можете."
     },
     "pack02:33030168": {
       "source": "pack02_text_en",
@@ -195648,7 +195648,7 @@
       "file": "str_npc_s10_mess.xml",
       "string_no": "33030179",
       "original": "The Atelier Ranking System seems to have made everyone happy! Maybe we should make some church rankings...",
-      "translation": "Похоже, система рангов ателье сделала всех счастливыми! Может, нам тоже ввести церковные ранги..."
+      "translation": "Похоже, Система рангов ателье сделала всех счастливыми! Может, нам тоже ввести церковные ранги..."
     },
     "pack02:33030180": {
       "source": "pack02_text_en",
@@ -198448,7 +198448,7 @@
       "file": "str_npc_s16_mess.xml",
       "string_no": "33292329",
       "original": "Instead of atelier rankings, I’d like a list of boutique rankings!",
-      "translation": "Вместо ранжирования ателье хотел бы рейтинг бутиков!"
+      "translation": "Вместо рангов ателье хотел бы рейтинг бутиков!"
     },
     "pack02:33292330": {
       "source": "pack02_text_en",
@@ -198504,7 +198504,7 @@
       "file": "str_npc_s16_mess.xml",
       "string_no": "33292337",
       "original": "The atelier rankings are the talk of the town. But I’m so busy shopping, I don’t have time for that!",
-      "translation": "Ранжирование ателье — главная тема в городе. Но я так занят покупками, что некогда!"
+      "translation": "Ранги ателье — главная тема в городе. Но я так занят покупками, что некогда!"
     },
     "pack02:33292338": {
       "source": "pack02_text_en",
@@ -198644,7 +198644,7 @@
       "file": "str_npc_s16_mess.xml",
       "string_no": "33292357",
       "original": "Everyone seems to be so caught up in this atelier ranking craze... Oh, you are too?",
-      "translation": "Все так увлечены этой манией ранжирования ателье... О, и вы тоже?"
+      "translation": "Все так увлечены этой манией рангов ателье... О, и вы тоже?"
     },
     "pack02:33292358": {
       "source": "pack02_text_en",
@@ -199211,7 +199211,7 @@
       "file": "str_npc_s17_mess.xml",
       "string_no": "33226787",
       "original": "The town seems to be swept up in the fever of the atelier rankings, but I have to focus solely on my job!",
-      "translation": "Город, кажется, охвачен лихорадкой ранжирования ателье, но мне нужно сосредоточиться только на работе!"
+      "translation": "Город, кажется, охвачен лихорадкой рангов ателье, но мне нужно сосредоточиться только на работе!"
     },
     "pack02:33226788": {
       "source": "pack02_text_en",
@@ -199323,7 +199323,7 @@
       "file": "str_npc_s17_mess.xml",
       "string_no": "33226803",
       "original": "All I heard anyone talk about today was the Atelier Ranking System...",
-      "translation": "Сегодня все говорили только о системе ранжирования ателье..."
+      "translation": "Сегодня все говорили только о Системе рангов ателье..."
     },
     "pack02:33226804": {
       "source": "pack02_text_en",
@@ -199393,7 +199393,7 @@
       "file": "str_npc_s17_mess.xml",
       "string_no": "33226813",
       "original": "Oh, atelier rankings...? That sounds interesting... Hehe.",
-      "translation": "О, ранжирование ателье...? Звучит интересно... Хехе."
+      "translation": "О, ранги ателье...? Звучит интересно... Хехе."
     },
     "pack02:33226814": {
       "source": "pack02_text_en",
@@ -199575,7 +199575,7 @@
       "file": "str_npc_s17_mess.xml",
       "string_no": "33226839",
       "original": "A lot more supplies have started to come into town recently... Is this one of the effects of the new Atelier Ranking System?",
-      "translation": "В последнее время в город стало поступать гораздо больше припасов... Это один из эффектов новой системы ранжирования ателье?"
+      "translation": "В последнее время в город стало поступать гораздо больше припасов... Это один из эффектов новой Системы рангов ателье?"
     },
     "pack02:33226840": {
       "source": "pack02_text_en",
@@ -199834,7 +199834,7 @@
       "file": "str_npc_s17_mess.xml",
       "string_no": "33226876",
       "original": "What are atelier rankings? That’s all everyone’s talking about now.",
-      "translation": "Что такое ранжирование ателье? Об этом сейчас все говорят."
+      "translation": "Что такое ранги ателье? Об этом сейчас все говорят."
     },
     "pack02:33226877": {
       "source": "pack02_text_en",
@@ -200016,7 +200016,7 @@
       "file": "str_npc_s18_mess.xml",
       "string_no": "33161234",
       "original": "Hehe, the Atelier Ranking System... Princess Mireille does come up with some remarkable ideas.",
-      "translation": "Хехе, система ранжирования ателье... Принцесса Мирей и правда выдумывает замечательные идеи."
+      "translation": "Хехе, Система рангов ателье... Принцесса Мирей и правда выдумывает замечательные идеи."
     },
     "pack02:33161235": {
       "source": "pack02_text_en",
@@ -200128,7 +200128,7 @@
       "file": "str_npc_s18_mess.xml",
       "string_no": "33161250",
       "original": "Everyone’s here asking about the Atelier Ranking System today... I’m sick of repeating myself.",
-      "translation": "Сегодня все спрашивают про систему ранжирования ателье... Устала повторять одно и то же."
+      "translation": "Сегодня все спрашивают про Систему рангов ателье... Устала повторять одно и то же."
     },
     "pack02:33161251": {
       "source": "pack02_text_en",
@@ -200254,7 +200254,7 @@
       "file": "str_npc_s18_mess.xml",
       "string_no": "33161268",
       "original": "All the ladies I lunch with talk about is this atelier ranking business. I cannot see the attraction...",
-      "translation": "Все дамы, с которыми я обедаю, говорят только о ранжировании ателье. Не понимаю, в чём прелесть..."
+      "translation": "Все дамы, с которыми я обедаю, говорят только о рангах ателье. Не понимаю, в чём прелесть..."
     },
     "pack02:33161269": {
       "source": "pack02_text_en",
@@ -205847,7 +205847,7 @@
       "file": "str_rankup_flavor.xml",
       "string_no": "2752513",
       "original": "In order to be admitted to the Atelier Ranking System, a minimum level of competence is required. This examination will be a test of that competence.",
-      "translation": "Для допуска к системе рейтинга ателье требуется минимальный уровень компетентности. Этот экзамен станет проверкой этой компетентности."
+      "translation": "Для допуска к Системе рангов ателье требуется минимальный уровень компетентности. Этот экзамен станет проверкой этой компетентности."
     },
     "pack02:2752514": {
       "source": "pack02_text_en",
@@ -206050,7 +206050,7 @@
       "file": "str_rankup_title.xml",
       "string_no": "2555905",
       "original": "Atelier Ranking System Entrance Examination",
-      "translation": "Вступительные экзамены в систему рейтинга ателье"
+      "translation": "Вступительные экзамены в Систему рангов ателье"
     },
     "pack02:2555906": {
       "source": "pack02_text_en",
@@ -213036,7 +213036,7 @@
       "file": "str_summary_chara_text.xml",
       "string_no": "6357021",
       "original": "Ohh... Mireille’s given us a pop quiz. If we don’t bring her some good Zettel, we might end up having our ranking lowered... We can’t let that happen, so we have to carry out the task she’s given us!^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Ох... Мирей устроила нам викторину. Если мы не принесем ей хорошего Зеттеля, наш рейтинг может понизиться... Мы не можем этого допустить, поэтому нам придется выполнить задание, которое она нам дала!^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Ох... Мирей устроила нам викторину. Если мы не принесем ей хорошего Зеттеля, наш ранг может понизиться... Мы не можем этого допустить, поэтому нам придется выполнить задание, которое она нам дала!^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6357022": {
       "source": "pack02_text_en",
@@ -215059,7 +215059,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422700",
       "original": "　↑We’ll teach that God of Thunder ^00　　a lesson, and raise our ranking... ^00　　Hehe, the future’s never looked ^00　　brighter!^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "　↑Мы преподам этому Богу Грома ^00　　 урок и поднимем наш рейтинг... ^00　　Хе-хе, будущее никогда не заглядывалось ^00　　ярче!^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "　↑Мы преподам этому Богу Грома ^00　　 урок и поднимем наш ранг... ^00　　Хе-хе, будущее никогда не заглядывалось ^00　　ярче!^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6422701": {
       "source": "pack02_text_en",
@@ -215325,7 +215325,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422738",
       "original": "&lt;CLGR&gt;- Let’s go back to the atelier...&lt;CLNR&gt;^00　↑If the Atelier Ranking System goes ^00　　now, we won’t know what to do...!^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "&lt;CLGR&gt;- Давайте вернемся в ателье...&lt;CLNR&gt;^00　↑Если система рангов ателье изменится ^00　　сейчас, мы не будем знать, что делать. делай...!^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "&lt;CLGR&gt;- Давайте вернемся в ателье...&lt;CLNR&gt;^00　↑Если Система рангов ателье изменится ^00　　сейчас, мы не будем знать, что делать. делай...!^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6422739": {
       "source": "pack02_text_en",
@@ -216340,14 +216340,14 @@
       "file": "str_summary_text.xml",
       "string_no": "6225933",
       "original": "The Atelier Ranking System is so new and exciting! If we really try hard, it should give us the opportunity to truly become the finest atelier in the land! All right - we’d better hurry to the Royal Castle and register!^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Система рейтингов ателье такая новая и интересная! Если мы действительно постараемся, это даст нам возможность действительно стать лучшим ателье в стране! Ладно, нам лучше поспешить в Королевский замок и зарегистрироваться!^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Система рангов ателье такая новая и интересная! Если мы действительно постараемся, это даст нам возможность действительно стать лучшим ателье в стране! Ладно, нам лучше поспешить в Королевский замок и зарегистрироваться!^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6225934": {
       "source": "pack02_text_en",
       "file": "str_summary_text.xml",
       "string_no": "6225934",
       "original": "Apparently, there’s an entrance examination to get into the Atelier Ranking System. The task we’ve been set is to create “Dream Paintbrushes”... Hmm... Let’s head back to the atelier and check the recipe.^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Судя по всему, здесь проводится вступительный экзамен для попадания в систему рейтинга ателье. Задача, которую нам поставили, — создать «Кисти мечты»... Хм… Вернёмся в ателье и проверим рецепт.^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Судя по всему, здесь проводится вступительный экзамен для попадания в Систему рангов ателье. Задача, которую нам поставили, — создать «Кисти мечты»... Хм… Вернёмся в ателье и проверим рецепт.^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6225935": {
       "source": "pack02_text_en",
@@ -216431,14 +216431,14 @@
       "file": "str_summary_text.xml",
       "string_no": "6225946",
       "original": "We’ve managed to get our atelier registered in the Atelier Ranking System, but still... How do we go about improving our ranking? ...I guess if there’s anything we’re unsure about, we should just ask Mireille! ^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Нам удалось зарегистрировать наше ателье в системе рейтинга ателье, но все же... Как нам улучшить наш рейтинг? ...Думаю, если мы в чем-то не уверены, нам следует просто спросить Мирей! ^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Нам удалось зарегистрировать наше ателье в Системе рангов ателье, но все же... Как нам улучшить наш ранг? ...Думаю, если мы в чем-то не уверены, нам следует просто спросить Мирей! ^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6225947": {
       "source": "pack02_text_en",
       "file": "str_summary_text.xml",
       "string_no": "6225947",
       "original": "To improve our ranking, we need to improve the atelier’s reputation. For now, I guess we should do as Mireille asked, and get rid of those monsters. ^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Чтобы улучшить наш рейтинг, нам необходимо улучшить репутацию ателье. А сейчас, я думаю, нам следует сделать то, что просила Мирей, и избавиться от этих монстров. ^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Чтобы улучшить наш ранг, нам необходимо улучшить репутацию ателье. А сейчас, я думаю, нам следует сделать то, что просила Мирей, и избавиться от этих монстров. ^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6225948": {
       "source": "pack02_text_en",
@@ -216459,7 +216459,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6225950",
       "original": "Excellent. I feel like our reputation is improving rapidly, and it might be about time to take the test to raise our ranking. Perhaps we should go and confirm that with Mireille. ^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Отличный. Я чувствую, что наша репутация быстро улучшается, и, возможно, пришло время пройти тест, чтобы повысить наш рейтинг. Возможно, нам стоит пойти и уточнить это у Мирей. ^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Отличный. Я чувствую, что наша репутация быстро улучшается, и, возможно, пришло время пройти тест, чтобы повысить наш ранг. Возможно, нам стоит пойти и уточнить это у Мирей. ^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6225951": {
       "source": "pack02_text_en",
@@ -216480,7 +216480,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6225953",
       "original": "We’ve made it to the G ranking! And now, Mireille has invited us to go and visit some place interesting. Naturally, I’m curious, so I’ve decided to do as she says and visit the castle’s gallery.^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Мы добрались до рейтинга G! И вот, Мирей пригласила нас сходить и посетить какое-нибудь интересное место. Естественно, мне любопытно, поэтому я решил сделать, как она говорит, и посетить галерею замка.^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Мы добрались до ранга G! И вот, Мирей пригласила нас сходить и посетить какое-нибудь интересное место. Естественно, мне любопытно, поэтому я решил сделать, как она говорит, и посетить галерею замка.^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6225954": {
       "source": "pack02_text_en",
@@ -216620,7 +216620,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6225973",
       "original": "We’ve made it to the F Rank! Sue and Lucia are arguing about the rankings, but I’m more interested in the Mysterious Paintings. I want to see what will be next, so I’m heading to the gallery! ^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Мы достигли ранга F! Сью и Люсия спорят о рейтингах, но меня больше интересуют «Таинственные картины». Хочу посмотреть, что будет дальше, поэтому иду в галерею! ^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Мы достигли ранга F! Сью и Люсия спорят о рангах, но меня больше интересуют «Таинственные картины». Хочу посмотреть, что будет дальше, поэтому иду в галерею! ^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6225974": {
       "source": "pack02_text_en",
@@ -216984,14 +216984,14 @@
       "file": "str_summary_text.xml",
       "string_no": "6226025",
       "original": "What?! Because we defeated Falgior, the Atelier Ranking System has been abolished?! But what are we supposed to do now? What about our dream?! Oh... I’m so confused! We need to head back to the atelier...^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Что?! Поскольку мы победили Фальгиора, система рейтингов ателье отменена?! Но что нам теперь делать? А как насчет нашей мечты?! Ох... Я в таком замешательстве! Нам нужно вернуться в ателье...^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Что?! Поскольку мы победили Фальгиора, Система рангов ателье отменена?! Но что нам теперь делать? А как насчет нашей мечты?! Ох... Я в таком замешательстве! Нам нужно вернуться в ателье...^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6226026": {
       "source": "pack02_text_en",
       "file": "str_summary_text.xml",
       "string_no": "6226026",
       "original": "First we’re thrown into turmoil by the abolition of the Ranking System, and now father’s gone missing too! This is bad... I just know he’s out there wasting money! We have to be proactive, and earn some money now by taking on some new requests!^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Сначала нас привела в смятение отмена системы рангов, а теперь пропал и отец! Это плохо... Я просто знаю, что он транжирит деньги! Мы должны проявлять инициативу и заработать немного денег уже сейчас, беря на себя новые запросы!^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Сначала нас привела в смятение отмена Системы рангов ателье, а теперь пропал и отец! Это плохо... Я просто знаю, что он транжирит деньги! Мы должны проявлять инициативу и заработать немного денег уже сейчас, беря на себя новые запросы!^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6226027": {
       "source": "pack02_text_en",
@@ -217089,7 +217089,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6226040",
       "original": "Thanks to Mireille, the Atelier Ranking System has been saved. Which means... there’s only one thing to do! We need to raise our atelier’s profile, and increase our rank! ...Still, I wonder where dad is...^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Благодаря Мирей, система рейтингов ателье была сохранена. А это значит... что остается делать только одно! Нам необходимо поднять авторитет нашего ателье и повысить свой рейтинг! ...И все же мне интересно, где папа...^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Благодаря Мирей, Система рангов ателье была сохранена. А это значит... что остается делать только одно! Нам необходимо поднять авторитет нашего ателье и повысить свой ранг! ...И все же мне интересно, где папа...^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6226041": {
       "source": "pack02_text_en",
@@ -217166,7 +217166,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6226051",
       "original": "Dad challenged us to a contest... The first to raise their atelier ranking wins. This is one battle we can’t afford to lose.^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Папа вызвал нас на конкурс... Побеждает тот, кто первым поднимет рейтинг своего ателье. Это битва, которую мы не можем позволить себе проиграть.^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Папа вызвал нас на конкурс... Побеждает тот, кто первым поднимет ранг своего ателье. Это битва, которую мы не можем позволить себе проиграть.^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6226052": {
       "source": "pack02_text_en",
@@ -217467,7 +217467,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6226094",
       "original": "Finally... Finally, we’ve made it. We should be able to take the test for the S ranking now, the highest ranking there is! ...Let’s take a deep breath, calm ourselves, then go and see Mireille.^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Наконец... Наконец-то мы сделали это. Теперь мы сможем пройти тест на рейтинг S, самый высокий рейтинг! ...Давайте сделаем глубокий вдох, успокоимся, а затем пойдем к Мирей.^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Наконец... Наконец-то мы сделали это. Теперь мы сможем пройти тест на ранг S, самый высокий ранг! ...Давайте сделаем глубокий вдох, успокоимся, а затем пойдем к Мирей.^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6226095": {
       "source": "pack02_text_en",
@@ -217621,28 +217621,28 @@
       "file": "str_summary_title.xml",
       "string_no": "6160397",
       "original": "Atelier Ranking Excitement 1",
-      "translation": "Ателье Рейтинг Волнение 1"
+      "translation": "Ажиотаж ранга ателье 1"
     },
     "pack02:6160398": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160398",
       "original": "Atelier Ranking Excitement 2",
-      "translation": "Ателье Рейтинг Волнение 2"
+      "translation": "Ажиотаж ранга ателье 2"
     },
     "pack02:6160399": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160399",
       "original": "Atelier Ranking Excitement 3",
-      "translation": "Ателье Рейтинг Волнение 3"
+      "translation": "Ажиотаж ранга ателье 3"
     },
     "pack02:6160400": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160400",
       "original": "Atelier Ranking Excitement 4",
-      "translation": "Ателье Рейтинг Волнение 4"
+      "translation": "Ажиотаж ранга ателье 4"
     },
     "pack02:6160401": {
       "source": "pack02_text_en",
@@ -218265,7 +218265,7 @@
       "file": "str_summary_title.xml",
       "string_no": "6160489",
       "original": "The Atelier Ranking System Suspended?",
-      "translation": "Система рейтингов ателье приостановлена?"
+      "translation": "Система рангов ателье приостановлена?"
     },
     "pack02:6160490": {
       "source": "pack02_text_en",
