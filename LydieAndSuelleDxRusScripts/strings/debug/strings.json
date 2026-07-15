@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-15T12:55:53.736148+00:00",
+  "generated_at": "2026-07-15T13:30:03.756494+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -3154,7 +3154,7 @@
       "index": 31,
       "speaker": "System",
       "original": "You can report to Mireille in the castle concerning Promotion Tests.",
-      "translation": "Вы можете сообщить Мирей в замке об Испытаниях ранга."
+      "translation": "Вы можете спросить Мирей в замке об Испытаниях ранга."
     },
     "ebm:mm02/event_message_mm02_040.ebm:32": {
       "source": "pack01_ebm",
@@ -3162,7 +3162,7 @@
       "index": 32,
       "speaker": "System",
       "original": "If you talk to Mireille you can also reconfirm the content of the current exam.",
-      "translation": "Если вы поговорите с Мирей, вы также сможете подтвердить содержание текущего экзамена."
+      "translation": "Если вы поговорите с Мирей, вы также сможете проверить содержание текущего испытания."
     },
     "ebm:mm02/event_message_mm02_040.ebm:33": {
       "source": "pack01_ebm",
@@ -3170,7 +3170,7 @@
       "index": 33,
       "speaker": "System",
       "original": "<CLR1>Mireille will handle all your Promotion Test needs! If you don't understand something, just ask her!<CLNR>",
-      "translation": "<CLR1>Мирей позаботится обо всех ваших Испытаниях ранга! Если вы чего-то не понимаете, просто спросите ее!<CLNR>"
+      "translation": "<CLR1>Мирей позаботится обо всех ваших Испытаниях ранга! Если вы чего-то не понимаете, просто спросите у неё!<CLNR>"
     },
     "ebm:mm02/event_message_mm02_050.ebm:0": {
       "source": "pack01_ebm",
@@ -3178,7 +3178,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Let's head straight back to the atelier.",
-      "translation": "Давайте сразу вернемся в ателье."
+      "translation": "Давай сразу вернемся в ателье."
     },
     "ebm:mm02/event_message_mm02_050.ebm:1": {
       "source": "pack01_ebm",
@@ -3186,7 +3186,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Let's just go right back to the atelier.",
-      "translation": "Давайте просто вернемся в ателье."
+      "translation": "Давай просто вернемся в ателье."
     },
     "ebm:mm02/event_message_mm02_060.ebm:0": {
       "source": "pack01_ebm",
@@ -3194,7 +3194,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Hmm. This looks pretty tough. I guess we have to give Lucia credit for this one.",
-      "translation": "Хм. Это выглядит довольно жестко. Я думаю, мы должны отдать должное Люсии за это."
+      "translation": "Хм. Это выглядит довольно тяжело. Я думаю, мы должны отдать должное Люсии за это."
     },
     "ebm:mm02/event_message_mm02_060.ebm:1": {
       "source": "pack01_ebm",
@@ -3202,7 +3202,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Lucia is a great alchemist, sure, but I still think we can do this.",
-      "translation": "Люсия, конечно, великий алхимик, но я все равно думаю, что мы справимся."
+      "translation": "Люсия, конечно, замечательный алхимик, но я всё равно думаю, что мы справимся."
     },
     "ebm:mm02/event_message_mm02_060.ebm:2": {
       "source": "pack01_ebm",
@@ -3210,7 +3210,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "Me too. We just need the materials. Should we head out and try to find them right away?",
-      "translation": "Я тоже. Нам нужны только материалы. Должны ли мы отправиться и попытаться найти их прямо сейчас?"
+      "translation": "Я тоже. Нам нужны только материалы. Стоит ли нам немедленно отправиться на их поиски?"
     },
     "ebm:mm02/event_message_mm02_060.ebm:3": {
       "source": "pack01_ebm",
@@ -3218,7 +3218,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "Sounds like a plan. We'd better make sure to take some medicine with us.",
-      "translation": "Звучит как план. Нам лучше обязательно взять с собой лекарства."
+      "translation": "Звучит как план. Лучше взять с собой какие-нибудь лекарства."
     },
     "ebm:mm02/event_message_mm02_060.ebm:4": {
       "source": "pack01_ebm",
@@ -3234,7 +3234,7 @@
       "index": 5,
       "speaker": "System",
       "original": "Now you can open the <CLEG>Outskirts Map<CLNR>.",
-      "translation": "Теперь вы можете открыть <CLEG>Карту окраин <CLNR>."
+      "translation": "Теперь вы можете открыть <CLEG>Карту окрестностей<CLNR>."
     },
     "ebm:mm02/event_message_mm02_060.ebm:6": {
       "source": "pack01_ebm",
@@ -3242,7 +3242,7 @@
       "index": 6,
       "speaker": "System",
       "original": "Press <IM11> with the Town Map open to switch to the Outskirts Map.",
-      "translation": "Нажмите <IM11> при открытой карте города, чтобы переключиться на карту окраин."
+      "translation": "Нажмите <IM11> при открытой карте города, чтобы переключиться на Карту окрестностей."
     },
     "ebm:mm02/event_message_mm02_060.ebm:7": {
       "source": "pack01_ebm",
@@ -3250,7 +3250,7 @@
       "index": 7,
       "speaker": "System",
       "original": "The Outskirts Map allows you to head to areas for gathering materials close to the city.",
-      "translation": "Карта окраин позволяет вам отправиться в места сбора материалов недалеко от города."
+      "translation": "Карта окрестностей позволяет вам отправиться в места сбора материалов недалеко от города."
     },
     "ebm:mm02/event_message_mm02_060.ebm:8": {
       "source": "pack01_ebm",
@@ -104058,7 +104058,7 @@
       "index": 0,
       "speaker": "System",
       "original": "A new area, <CLGR>\"Lotus Blossom Pond\"<CLNR>, has been unlocked! It can be accessed from the Outskirts Map.",
-      "translation": "Открыта новая область <CLGR> «Пруд с цветением лотоса»<CLNR>! Доступ к нему можно получить с карты окраин."
+      "translation": "Открыта новая область <CLGR> «Пруд с цветением лотоса»<CLNR>! Доступ к нему можно получить с Карты окрестностей."
     },
     "ebm:xx04/event_message_xx04_240.ebm:0": {
       "source": "pack01_ebm",
@@ -104066,7 +104066,7 @@
       "index": 0,
       "speaker": "System",
       "original": "A new area, <CLGR>\"Ventus Mines\"<CLNR>, has been unlocked! It can be accessed from the Outskirts Map.",
-      "translation": "Открыта новая область <CLGR> «Рудники Вентус» <CLNR>! Доступ к нему можно получить с карты окраин."
+      "translation": "Открыта новая область <CLGR> «Рудники Вентус» <CLNR>! Доступ к нему можно получить с Карты окрестностей."
     },
     "ebm:xx05/event_message_xx05_010.ebm:0": {
       "source": "pack01_ebm",
@@ -221289,7 +221289,7 @@
       "file": "str_system_message.xml",
       "string_no": "66347",
       "original": "Do you wish to switch to the Outskirts Map?",
-      "translation": "Хотите переключиться на карту окраин?"
+      "translation": "Хотите переключиться на Карту окрестностей?"
     },
     "pack02:66348": {
       "source": "pack02_text_en",
