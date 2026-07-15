@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-15T06:50:56.348304+00:00",
+  "generated_at": "2026-07-15T08:44:37.781735+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -2666,7 +2666,7 @@
       "index": 16,
       "speaker": "Sue",
       "original": "You said it. Forget dummy-daddy and let's go look at the Plaza.",
-      "translation": "Ты права. Забудь о дураке-папочке и пойдем посмотрим Плазу."
+      "translation": "Ты права. Забудь о дураке-папочке и пойдем на площадь."
     },
     "ebm:mm02/event_message_mm02_010.ebm:17": {
       "source": "pack01_ebm",
@@ -2754,7 +2754,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "The Kingdom of Adalet has decided to proactively attract more alchemists to work here.",
-      "translation": "Королевство Адалет решило активно привлечь для работы больше алхимиков."
+      "translation": "Королевство Адалет решило привлечь для работы больше алхимиков."
     },
     "ebm:mm02/event_message_mm02_020.ebm:4": {
       "source": "pack01_ebm",
@@ -2778,7 +2778,7 @@
       "index": 6,
       "speaker": "Sue",
       "original": "The rank will be determined via examinations.",
-      "translation": "Звание будет определяться на экзаменах."
+      "translation": "Ранг будет определяться на экзаменах."
     },
     "ebm:mm02/event_message_mm02_020.ebm:7": {
       "source": "pack01_ebm",
@@ -2794,7 +2794,7 @@
       "index": 8,
       "speaker": "Lydie",
       "original": "Sue! Do you know what this means?",
-      "translation": "Сью! Знаете ли вы, что это значит?"
+      "translation": "Сью! Знаешь ли вы, что это значит?"
     },
     "ebm:mm02/event_message_mm02_020.ebm:9": {
       "source": "pack01_ebm",
@@ -2826,7 +2826,7 @@
       "index": 12,
       "speaker": "Lydie",
       "original": "Hold on. Did you just say \"the best atelier in the kingdom?\"",
-      "translation": "Подожди. Ты только что сказал \"лучшее ателье в королевстве\"?"
+      "translation": "Подожди. Ты только что сказала «лучшее ателье в королевстве»?"
     },
     "ebm:mm02/event_message_mm02_020.ebm:13": {
       "source": "pack01_ebm",
@@ -2834,7 +2834,7 @@
       "index": 13,
       "speaker": "Sue",
       "original": "Yep! Surely you've noticed that hardly any customers come to our atelier?",
-      "translation": "Ага! Наверняка вы замечали, что в наше ателье почти не приходят клиенты?"
+      "translation": "Ага! Наверняка ты замечала, что в наше ателье почти не приходят клиенты?"
     },
     "ebm:mm02/event_message_mm02_020.ebm:14": {
       "source": "pack01_ebm",
@@ -2858,7 +2858,7 @@
       "index": 16,
       "speaker": "Lydie",
       "original": "I see what you mean. We can win on rank, even if we aren't popular?",
-      "translation": "Я понимаю, что вы имеете в виду. Мы можем победить в рангах, даже если мы не популярны?"
+      "translation": "Я понимаю, что ты имеешь в виду. Мы можем повысить ранг, даже если не популярны?"
     },
     "ebm:mm02/event_message_mm02_020.ebm:17": {
       "source": "pack01_ebm",
@@ -2866,7 +2866,7 @@
       "index": 17,
       "speaker": "Sue",
       "original": "Exactly. If we reach the highest rank, we'll become the greatest in the kingdom, no doubt!",
-      "translation": "Точно. Если мы достигнем самого высокого ранга, мы, без сомнения, станем величайшими в королевстве!"
+      "translation": "Точно. Если мы достигнем самого высокого ранга, то, без сомнения, станем величайшими в королевстве!"
     },
     "ebm:mm02/event_message_mm02_020.ebm:18": {
       "source": "pack01_ebm",
@@ -2874,7 +2874,7 @@
       "index": 18,
       "speaker": "Lydie",
       "original": "I see! Amazing! Come on then, Sue. Let's go and sign up right away!",
-      "translation": "Я понимаю! Удивительный! Тогда давай, Сью. Пойдем и запишемся прямо сейчас!"
+      "translation": "Я понимаю! Удивительно! Тогда давай, Сью. Пойдём и запишемся прямо сейчас!"
     },
     "ebm:mm02/event_message_mm02_020.ebm:19": {
       "source": "pack01_ebm",
@@ -2882,7 +2882,7 @@
       "index": 19,
       "speaker": "Sue",
       "original": "You don't have to tell me twice! To the castle! We'll be the greatest before you know!",
-      "translation": "Тебе не придется повторять мне дважды! В замок! Мы станем величайшими, прежде чем вы узнаете!"
+      "translation": "Тебе не придется повторять мне дважды! В замок! Мы станем величайшими в мгновение ока!"
     },
     "ebm:mm02/event_message_mm02_030.ebm:0": {
       "source": "pack01_ebm",
@@ -2906,7 +2906,7 @@
       "index": 0,
       "speaker": "???",
       "original": "Oh my. If it isn't Lydie and Suelle. Just what are you doing here?",
-      "translation": "О боже. Если это не Лиди и Сюэль. Что ты здесь делаешь?"
+      "translation": "О боже. Если это же Лидия и Сюэль. Что вы здесь делаете?"
     },
     "ebm:mm02/event_message_mm02_040.ebm:1": {
       "source": "pack01_ebm",
@@ -4858,7 +4858,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Ah, Lucia! Do you want some tea?",
-      "translation": "Ах, Лючия! Хочешь чаю?"
+      "translation": "Ах, Люсия! Хочешь чаю?"
     },
     "ebm:mm03/event_message_mm03_010.ebm:2": {
       "source": "pack01_ebm",
@@ -5026,7 +5026,7 @@
       "index": 22,
       "speaker": "Lydie",
       "original": "Bye-bye, Lucia!",
-      "translation": "Пока, Лючия!"
+      "translation": "Пока, Люсия!"
     },
     "ebm:mm03/event_message_mm03_010.ebm:23": {
       "source": "pack01_ebm",
@@ -7546,7 +7546,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Was that Lucia screaming just now?",
-      "translation": "Это Лючия только что кричала?"
+      "translation": "Это Люсия только что кричала?"
     },
     "ebm:mm03/event_message_mm03_290.ebm:2": {
       "source": "pack01_ebm",
@@ -7850,7 +7850,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "You're just as bad though, Lucia. Trying to blow your way through...",
-      "translation": "Но ты такая же плохая, Лючия. Пытаюсь пробиться сквозь..."
+      "translation": "Но ты такая же плохая, Люсия. Пытаюсь пробиться сквозь..."
     },
     "ebm:mm03/event_message_mm03_340.ebm:4": {
       "source": "pack01_ebm",
@@ -8386,7 +8386,7 @@
       "index": 8,
       "speaker": "Sue",
       "original": "You hear that, Lucia?",
-      "translation": "Ты слышишь это, Лючия?"
+      "translation": "Ты слышишь это, Люсия?"
     },
     "ebm:mm03/event_message_mm03_410.ebm:9": {
       "source": "pack01_ebm",
@@ -9074,7 +9074,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Ah, Lucia! Are you here for some tea?",
-      "translation": "Ах, Лючия! Вы здесь, чтобы выпить чаю?"
+      "translation": "Ах, Люсия! Вы здесь, чтобы выпить чаю?"
     },
     "ebm:mm04/event_message_mm04_030.ebm:2": {
       "source": "pack01_ebm",
@@ -9602,7 +9602,7 @@
       "index": 12,
       "speaker": "Lydie",
       "original": "Ah! Sue, let's move! We need to defeat the monsters before Lucia does!",
-      "translation": "Ах! Сью, поехали! Нам нужно победить монстров раньше, чем это сделает Лючия!"
+      "translation": "Ах! Сью, поехали! Нам нужно победить монстров раньше, чем это сделает Люсия!"
     },
     "ebm:mm04/event_message_mm04_070.ebm:13": {
       "source": "pack01_ebm",
@@ -11386,7 +11386,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "You aren't either, Lucia! Did you practice to so completely lack control?!",
-      "translation": "Ты тоже, Лючия! Ты тренировался так полностью терять контроль?!"
+      "translation": "Ты тоже, Люсия! Ты тренировался так полностью терять контроль?!"
     },
     "ebm:mm04/event_message_mm04_250.ebm:12": {
       "source": "pack01_ebm",
@@ -11474,7 +11474,7 @@
       "index": 22,
       "speaker": "Lydie",
       "original": "Does that monster have a grudge against Lucia? Ah, no time for that now! Lucia! Lucia!",
-      "translation": "У этого монстра есть обида на Люсию? Ах, сейчас не время для этого! Лючия! Лючия!"
+      "translation": "У этого монстра есть обида на Люсию? Ах, сейчас не время для этого! Люсия! Люсия!"
     },
     "ebm:mm04/event_message_mm04_250.ebm:23": {
       "source": "pack01_ebm",
@@ -12042,7 +12042,7 @@
       "index": 0,
       "speaker": "Sue",
       "original": "Phew. It worked! Thank you, everyone. Especially you, Lucia, for doing the difficult part!",
-      "translation": "Уф. Это сработало! Спасибо всем. Особенно тебе, Лючия, за трудную часть работы!"
+      "translation": "Уф. Это сработало! Спасибо всем. Особенно тебе, Люсия, за трудную часть работы!"
     },
     "ebm:mm04/event_message_mm04_290.ebm:1": {
       "source": "pack01_ebm",
@@ -22402,7 +22402,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Uwah, Lucia! At least cover your mouth!",
-      "translation": "Ух ты, Лючия! Хоть рот прикрой!"
+      "translation": "Ух ты, Люсия! Хоть рот прикрой!"
     },
     "ebm:mm07/event_message_mm07_210.ebm:10": {
       "source": "pack01_ebm",
@@ -22530,7 +22530,7 @@
       "index": 11,
       "speaker": "Lydie",
       "original": "Ublaaagh! You wanted this, Lucia, right?",
-      "translation": "Ублааа! Ты хотела этого, Лючия, верно?"
+      "translation": "Ублааа! Ты хотела этого, Люсия, верно?"
     },
     "ebm:mm07/event_message_mm07_230.ebm:12": {
       "source": "pack01_ebm",
@@ -23746,7 +23746,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Ah, Lucia! What's up? Sorry, we don't really have time to talk at the moment...",
-      "translation": "Ах, Лючия! Как дела? Извините, у нас сейчас нет времени для разговоров..."
+      "translation": "Ах, Люсия! Как дела? Извините, у нас сейчас нет времени для разговоров..."
     },
     "ebm:mm08/event_message_mm08_030.ebm:2": {
       "source": "pack01_ebm",
@@ -23842,7 +23842,7 @@
       "index": 13,
       "speaker": "Lydie",
       "original": "Hehe, that Lucia. She really is kind at heart, even if she tries to hide it.",
-      "translation": "Хе-хе, эта Лючия. Она действительно добрая в душе, даже если пытается это скрыть."
+      "translation": "Хе-хе, эта Люсия. Она действительно добрая в душе, даже если пытается это скрыть."
     },
     "ebm:mm08/event_message_mm08_030.ebm:14": {
       "source": "pack01_ebm",
@@ -25306,7 +25306,7 @@
       "index": 5,
       "speaker": "Sue",
       "original": "Hahaha, Lucia has fallen over and she's crying! Once a crybaby, always a crybaby!",
-      "translation": "Ха-ха-ха, Лючия упала и плачет! Один раз плакса, плакса навсегда!"
+      "translation": "Ха-ха-ха, Люсия упала и плачет! Один раз плакса, плакса навсегда!"
     },
     "ebm:mm08/event_message_mm08_130.ebm:6": {
       "source": "pack01_ebm",
@@ -26746,7 +26746,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "Huh? What's up, Lucia? We were just about to get some sleep...",
-      "translation": "Хм? Как дела, Лючия? Мы как раз собирались поспать..."
+      "translation": "Хм? Как дела, Люсия? Мы как раз собирались поспать..."
     },
     "ebm:mm09/event_message_mm09_010.ebm:5": {
       "source": "pack01_ebm",
@@ -27290,7 +27290,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "Oh yeah? You're living here rent free, Lucia! You said you could handle any chores, right?",
-      "translation": "Ах, да? Ты живешь здесь бесплатно, Лючия! Ты сказал, что справишься с любой работой по дому, верно?"
+      "translation": "Ах, да? Ты живешь здесь бесплатно, Люсия! Ты сказал, что справишься с любой работой по дому, верно?"
     },
     "ebm:mm09/event_message_mm09_040.ebm:8": {
       "source": "pack01_ebm",
@@ -27474,7 +27474,7 @@
       "index": 8,
       "speaker": "Lydie",
       "original": "What's up, Lucia? You've been mumbling to yourself over there. Do you have stomach pains?",
-      "translation": "Как дела, Лючия? Ты там что-то бормотал про себя. У вас болит живот?"
+      "translation": "Как дела, Люсия? Ты там что-то бормотал про себя. У вас болит живот?"
     },
     "ebm:mm09/event_message_mm09_050.ebm:9": {
       "source": "pack01_ebm",
@@ -27498,7 +27498,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "It's not like you to give such honest praise, Lucia. Maybe it will rain Puni tomorrow!",
-      "translation": "Не на тебя так честно хвалить, Лючия. Возможно, завтра в Пуни пойдет дождь!"
+      "translation": "Не на тебя так честно хвалить, Люсия. Возможно, завтра в Пуни пойдет дождь!"
     },
     "ebm:mm09/event_message_mm09_050.ebm:12": {
       "source": "pack01_ebm",
@@ -27610,7 +27610,7 @@
       "index": 10,
       "speaker": "Lydie",
       "original": "You understand, Lucia, don't you? How people's gratitude makes you feel warm and fuzzy?",
-      "translation": "Ты понимаешь, Лючия, не так ли? Как благодарность людей заставляет вас чувствовать себя тепло и уютно?"
+      "translation": "Ты понимаешь, Люсия, не так ли? Как благодарность людей заставляет вас чувствовать себя тепло и уютно?"
     },
     "ebm:mm09/event_message_mm09_060.ebm:11": {
       "source": "pack01_ebm",
@@ -29218,7 +29218,7 @@
       "index": 32,
       "speaker": "Lydie",
       "original": "But then, Mom, right at the end, Lucia fell over!",
-      "translation": "Но потом, мама, в самом конце Лючия упала!"
+      "translation": "Но потом, мама, в самом конце Люсия упала!"
     },
     "ebm:mm09/event_message_mm09_200.ebm:33": {
       "source": "pack01_ebm",
@@ -34378,7 +34378,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "Hold it, Lucia! Shouting like that is going to bring in monsters!",
-      "translation": "Держи, Лючия! Подобные крики приведут к появлению монстров!"
+      "translation": "Держи, Люсия! Подобные крики приведут к появлению монстров!"
     },
     "ebm:mm10/event_message_mm10_410.ebm:3": {
       "source": "pack01_ebm",
@@ -37802,7 +37802,7 @@
       "index": 8,
       "speaker": "Lucia",
       "original": "I thought Sue was going to come out with her normal \"You'll never make S Rank, Lucia!\"",
-      "translation": "Я думал, Сью скажет свое обычное: «Ты никогда не добьешься S-ранга, Лючия!»"
+      "translation": "Я думал, Сью скажет свое обычное: «Ты никогда не добьешься S-ранга, Люсия!»"
     },
     "ebm:mm12/event_message_mm12_030.ebm:9": {
       "source": "pack01_ebm",
@@ -41578,7 +41578,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Ha! Ha! Ha! Lucia!",
-      "translation": "Ха! Ха! Ха! Лючия!"
+      "translation": "Ха! Ха! Ха! Люсия!"
     },
     "ebm:mm12/event_message_mm12_350.ebm:1": {
       "source": "pack01_ebm",
@@ -50082,7 +50082,7 @@
       "index": 8,
       "speaker": "Sue",
       "original": "Haaah! Eat this, Lucia!",
-      "translation": "Хааа! Съешь это, Лючия!"
+      "translation": "Хааа! Съешь это, Люсия!"
     },
     "ebm:ms05/event_message_ms05_010.ebm:9": {
       "source": "pack01_ebm",
@@ -50162,7 +50162,7 @@
       "index": 18,
       "speaker": "Sue",
       "original": "Leave it to me! Lucia! Firis! Prepare yourselves!",
-      "translation": "Оставьте это мне! Лючия! Фирис! Готовьтесь!"
+      "translation": "Оставьте это мне! Люсия! Фирис! Готовьтесь!"
     },
     "ebm:ms05/event_message_ms05_010.ebm:19": {
       "source": "pack01_ebm",
@@ -52522,7 +52522,7 @@
       "index": 0,
       "speaker": "Mathias",
       "original": "I'm coming in, Lucia! Wow, so this is Atelier Borthayre...",
-      "translation": "Я вхожу, Лючия! Ого, так это Ателье Бортайр..."
+      "translation": "Я вхожу, Люсия! Ого, так это Ателье Бортайр..."
     },
     "ebm:ms06/event_message_ms06_070.ebm:1": {
       "source": "pack01_ebm",
@@ -52842,7 +52842,7 @@
       "index": 17,
       "speaker": "Mathias",
       "original": "Puni! Puni, Puni!<CR>(Ah, wait! Damn you, Lucia!)",
-      "translation": "Пуни! Пуни, Пуни!<CR>(Ах, подожди! Будь ты проклята, Лючия!)"
+      "translation": "Пуни! Пуни, Пуни!<CR>(Ах, подожди! Будь ты проклята, Люсия!)"
     },
     "ebm:ms06/event_message_ms06_080.ebm:18": {
       "source": "pack01_ebm",
@@ -74010,7 +74010,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "You really are rich, though, aren't you Lucia? Buying all that expensive stuff, bam, bam.",
-      "translation": "Но ты действительно богата, не так ли, Лючия? Покупаю все эти дорогие вещи, бац, бац."
+      "translation": "Но ты действительно богата, не так ли, Люсия? Покупаю все эти дорогие вещи, бац, бац."
     },
     "ebm:qc06_luc/event_message_qc06_luc_030.ebm:10": {
       "source": "pack01_ebm",
@@ -74226,7 +74226,7 @@
       "index": 10,
       "speaker": "Sue",
       "original": "Having you wandering around doesn't help, Lucia. I can't concentrate!",
-      "translation": "То, что ты бродишь вокруг, не помогает, Лючия. Я не могу сконцентрироваться!"
+      "translation": "То, что ты бродишь вокруг, не помогает, Люсия. Я не могу сконцентрироваться!"
     },
     "ebm:qc06_luc/event_message_qc06_luc_040.ebm:11": {
       "source": "pack01_ebm",
@@ -74282,7 +74282,7 @@
       "index": 17,
       "speaker": "Lydie",
       "original": "Eh, Lucia!? What should we do? She ran off!",
-      "translation": "Э, Лючия!? Что нам делать? Она убежала!"
+      "translation": "Э, Люсия!? Что нам делать? Она убежала!"
     },
     "ebm:qc06_luc/event_message_qc06_luc_040.ebm:18": {
       "source": "pack01_ebm",
@@ -74498,7 +74498,7 @@
       "index": 23,
       "speaker": "Lydie",
       "original": "Hehe, you still have that sweet tooth, don't you Lucia.",
-      "translation": "Хе-хе, ты все еще сладкоежка, не так ли, Лючия."
+      "translation": "Хе-хе, ты все еще сладкоежка, не так ли, Люсия."
     },
     "ebm:qc06_luc/event_message_qc06_luc_050.ebm:24": {
       "source": "pack01_ebm",
@@ -74530,7 +74530,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Say, Lucia... There's something we need to ask you.",
-      "translation": "Скажи, Лючия... Нам нужно у тебя кое-что спросить."
+      "translation": "Скажи, Люсия... Нам нужно у тебя кое-что спросить."
     },
     "ebm:qc06_luc/event_message_qc06_luc_060.ebm:1": {
       "source": "pack01_ebm",
@@ -74642,7 +74642,7 @@
       "index": 14,
       "speaker": "Sue",
       "original": "I hate to have to admit it, but it really looks that way. Say, Lucia. I've got a request.",
-      "translation": "Ненавижу это признавать, но на самом деле это выглядит именно так. Скажи, Лючия. У меня есть запрос."
+      "translation": "Ненавижу это признавать, но на самом деле это выглядит именно так. Скажи, Люсия. У меня есть запрос."
     },
     "ebm:qc06_luc/event_message_qc06_luc_060.ebm:15": {
       "source": "pack01_ebm",
@@ -75722,7 +75722,7 @@
       "index": 12,
       "speaker": "Lydie",
       "original": "I see! We'll be able to find out right away if Lucia is really busy or not!",
-      "translation": "Я понимаю! Мы сразу сможем узнать, действительно ли Лючия занята или нет!"
+      "translation": "Я понимаю! Мы сразу сможем узнать, действительно ли Люсия занята или нет!"
     },
     "ebm:qc06_luc/event_message_qc06_luc_120.ebm:13": {
       "source": "pack01_ebm",
@@ -76306,7 +76306,7 @@
       "index": 5,
       "speaker": "Sue",
       "original": "Me too. Let's go at once! Just don't get any silly ideas, Lucia!",
-      "translation": "Я тоже. Поехали немедленно! Только не придумывай глупостей, Лючия!"
+      "translation": "Я тоже. Поехали немедленно! Только не придумывай глупостей, Люсия!"
     },
     "ebm:qc06_luc/event_message_qc06_luc_170.ebm:0": {
       "source": "pack01_ebm",
@@ -76338,7 +76338,7 @@
       "index": 2,
       "speaker": "System",
       "original": "Lucia!",
-      "translation": "Лючия!"
+      "translation": "Люсия!"
     },
     "ebm:qc06_luc/event_message_qc06_luc_180.ebm:3": {
       "source": "pack01_ebm",
@@ -76818,7 +76818,7 @@
       "index": 10,
       "speaker": "Sue",
       "original": "Hah, you noticed? I just made it up! Nevermind, anyway. Let's go, Lucia!",
-      "translation": "Ха, ты заметил? Я только что это придумал! Неважно, во всяком случае. Пойдем, Лючия!"
+      "translation": "Ха, ты заметил? Я только что это придумал! Неважно, во всяком случае. Пойдем, Люсия!"
     },
     "ebm:qc06_luc/event_message_qc06_luc_200.ebm:11": {
       "source": "pack01_ebm",
@@ -77026,7 +77026,7 @@
       "index": 22,
       "speaker": "Lydie",
       "original": "Let me have a go too, then! We're going to leave you like a squished puni, Lucia!",
-      "translation": "Тогда дай мне тоже попробовать! Мы оставим тебя, как раздавленного карателя, Лючия!"
+      "translation": "Тогда дай мне тоже попробовать! Мы оставим тебя, как раздавленного карателя, Люсия!"
     },
     "ebm:qc06_luc/event_message_qc06_luc_210.ebm:23": {
       "source": "pack01_ebm",
@@ -77266,7 +77266,7 @@
       "index": 10,
       "speaker": "Sue",
       "original": "Fine. Lucia! For your crimes, just make sure you work hard!",
-      "translation": "Отлично. Лючия! Что касается ваших преступлений, просто убедитесь, что вы много работаете!"
+      "translation": "Отлично. Люсия! Что касается ваших преступлений, просто убедитесь, что вы много работаете!"
     },
     "ebm:qc06_luc/event_message_qc06_luc_230.ebm:11": {
       "source": "pack01_ebm",
@@ -147306,7 +147306,7 @@
       "file": "str_fm_tweet.xml",
       "string_no": "131379",
       "original": "Here’s some water for you, Lucia. I hope you don’t mind I already drank some.",
-      "translation": "Вот тебе немного воды, Лючия. Надеюсь, ты не против, что я уже немного выпил."
+      "translation": "Вот тебе немного воды, Люсия. Надеюсь, ты не против, что я уже немного выпил."
     },
     "pack02:131380": {
       "source": "pack02_text_en",
@@ -147355,7 +147355,7 @@
       "file": "str_fm_tweet.xml",
       "string_no": "131386",
       "original": "It’s kind of a shock to be told that by you, Lucia...!",
-      "translation": "Это своего рода шок, когда ты говоришь это, Лючия...!"
+      "translation": "Это своего рода шок, когда ты говоришь это, Люсия...!"
     },
     "pack02:131389": {
       "source": "pack02_text_en",
@@ -219945,7 +219945,7 @@
       "file": "str_system_message.xml",
       "string_no": "65968",
       "original": "Hahaha, Lucia...! Why are you sitting on top of a Puni...? Zzz...",
-      "translation": "Ха-ха-ха, Лючия...! Почему ты сидишь на вершине Пуни...? Ззз..."
+      "translation": "Ха-ха-ха, Люсия...! Почему ты сидишь на вершине Пуни...? Ззз..."
     },
     "pack02:65969": {
       "source": "pack02_text_en",
