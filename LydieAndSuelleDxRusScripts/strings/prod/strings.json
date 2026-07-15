@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-15T08:49:03.059026+00:00",
+  "generated_at": "2026-07-15T11:46:44.198865+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -2794,7 +2794,7 @@
       "index": 8,
       "speaker": "Lydie",
       "original": "Sue! Do you know what this means?",
-      "translation": "Сью! Знаешь ли вы, что это значит?"
+      "translation": "Сью! Знаешь ли ты, что это значит?"
     },
     "ebm:mm02/event_message_mm02_020.ebm:9": {
       "source": "pack01_ebm",
@@ -2922,7 +2922,7 @@
       "index": 2,
       "speaker": "Lucia",
       "original": "I see. I thought you'd probably come, just lagging behind me again! Ohohoho!",
-      "translation": "Я понимаю. Я думал, ты, наверное, придешь, просто опять от меня отстаешь! Ого-хо-хо!"
+      "translation": "Понятно. Я думала, вы, наверняка, придёте. Но опять отстаёте от меня! Охохохо!"
     },
     "ebm:mm02/event_message_mm02_040.ebm:3": {
       "source": "pack01_ebm",
@@ -2930,7 +2930,7 @@
       "index": 3,
       "speaker": "Lucia",
       "original": "I think this will be a bit much for you two. You need to pass an exam just to sign up.",
-      "translation": "Я думаю, это будет слишком много для вас двоих. Чтобы зарегистрироваться, вам нужно сдать экзамен."
+      "translation": "Думаю, для вас двоих это будет слишком сложно. Чтобы записаться, нужно сдать экзамен."
     },
     "ebm:mm02/event_message_mm02_040.ebm:4": {
       "source": "pack01_ebm",
@@ -2938,7 +2938,7 @@
       "index": 4,
       "speaker": "Lydie",
       "original": "Is that so? Are you here to take it too, Lucia?",
-      "translation": "Это так? Ты тоже здесь, чтобы принять это, Люсия?"
+      "translation": "Неужели? Ты тоже здесь, чтобы сделать это, Люсия?"
     },
     "ebm:mm02/event_message_mm02_040.ebm:5": {
       "source": "pack01_ebm",
@@ -2954,7 +2954,7 @@
       "index": 6,
       "speaker": "???",
       "original": "We had you create the exam, after all. There's no point in you doing it.",
-      "translation": "В конце концов, мы попросили вас создать экзамен. Нет смысла тебе это делать."
+      "translation": "В конце концов, мы попросили тебя составить экзамен. Нет смысла тебе сдавать его."
     },
     "ebm:mm02/event_message_mm02_040.ebm:7": {
       "source": "pack01_ebm",
@@ -2962,7 +2962,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "Heh. What was that about the glorious Atelier Borthayre again? Eh, Lucia?",
-      "translation": "Хех. Что там еще было о славном Ателье Бортайр? Э, Люсия?"
+      "translation": "Хех. Что там было о славном Ателье Бортайр? Э, Люсия?"
     },
     "ebm:mm02/event_message_mm02_040.ebm:8": {
       "source": "pack01_ebm",
@@ -2994,7 +2994,7 @@
       "index": 11,
       "speaker": "Mireille",
       "original": "I handle all general affairs for the kingdom. That includes our new Atelier Ranking System.",
-      "translation": "Я занимаюсь всеми общими делами королевства. Это включает в себя нашу новую Систему рангов ателье."
+      "translation": "Я занимаюсь всеми общими вопросами в королевстве. Это включает в себя нашу новую Систему рангов ателье."
     },
     "ebm:mm02/event_message_mm02_040.ebm:12": {
       "source": "pack01_ebm",
@@ -3002,7 +3002,7 @@
       "index": 12,
       "speaker": "Lydie",
       "original": "Amazing! You handle all of them? Really? Ah, sorry, I mean... I am called Lydie.",
-      "translation": "Удивительный! Ты справляешься со всеми из них? Действительно? Ах, извини, я имею в виду... Меня зовут Лиди."
+      "translation": "Потрясающе! И ты со всем этим справляешься? Правда? Ах, извини, я имею в виду... Меня зовут Лидия."
     },
     "ebm:mm02/event_message_mm02_040.ebm:13": {
       "source": "pack01_ebm",
@@ -3018,7 +3018,7 @@
       "index": 14,
       "speaker": "Mireille",
       "original": "Very well. Nice to meet you. Twins, aren't you? Lucia already told me a bit about you actually.",
-      "translation": "Очень хорошо. Рад встрече. Близнецы, не так ли? Люсия уже рассказала мне кое-что о тебе."
+      "translation": "Очень хорошо. Рада встрече. Близнецы, не так ли? Люсия уже рассказала мне кое-что о вас."
     },
     "ebm:mm02/event_message_mm02_040.ebm:15": {
       "source": "pack01_ebm",
@@ -3034,7 +3034,7 @@
       "index": 16,
       "speaker": "Sue",
       "original": "Hmm, we're not exactly close friends? I mean, we've known her since we were kids...",
-      "translation": "Хм, мы не совсем близкие друзья? Я имею в виду, мы знали ее с детства..."
+      "translation": "Хм, мы не совсем близкие друзья. Я имею в виду, мы знаем её с детства..."
     },
     "ebm:mm02/event_message_mm02_040.ebm:17": {
       "source": "pack01_ebm",
@@ -3042,7 +3042,7 @@
       "index": 17,
       "speaker": "Mireille",
       "original": "I'm quite jealous of that. I don't have any friends who I grew up with.",
-      "translation": "Я очень завидую этому. У меня нет друзей, с которыми я вырос."
+      "translation": "Я очень завидую этому. У меня нет друзей, с которыми я выросла."
     },
     "ebm:mm02/event_message_mm02_040.ebm:18": {
       "source": "pack01_ebm",
@@ -3074,7 +3074,7 @@
       "index": 21,
       "speaker": "Mireille",
       "original": "Aren't you in a hurry! I'll tell you now, don't worry. Here it is!",
-      "translation": "Ты не торопишься! Я тебе сейчас скажу, не волнуйся. Вот!"
+      "translation": "Ну и торопыги же вы! Ладно-ладно, сейчас всё расскажу, не переживайте. Вот, держите!"
     },
     "ebm:mm02/event_message_mm02_040.ebm:22": {
       "source": "pack01_ebm",
@@ -3082,7 +3082,7 @@
       "index": 22,
       "speaker": "Sue",
       "original": "To synthesize Dream Paintbrushes? We just have to make this item?",
-      "translation": "Синтезировать кисти мечты? Нам просто нужно сделать этот предмет?"
+      "translation": "Синтезировать Кисти сновидений? Нам просто нужно сделать этот предмет?"
     },
     "ebm:mm02/event_message_mm02_040.ebm:23": {
       "source": "pack01_ebm",
@@ -3090,7 +3090,7 @@
       "index": 23,
       "speaker": "Mireille",
       "original": "Yes. That's all. A nice and simple test. Here's the recipe for the Dream Paintbrushes.",
-      "translation": "Да. Вот и все. Хороший и простой тест. Вот рецепт Кистей Мечты."
+      "translation": "Да. Вот и все. Хороший и простой тест. Вот рецепт Кистей сновидений."
     },
     "ebm:mm02/event_message_mm02_040.ebm:24": {
       "source": "pack01_ebm",
@@ -3322,7 +3322,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "I'm really not sure. They kinda look more like Nightmare Paintbrushes to me...",
-      "translation": "Я правда не уверен. Мне они больше напоминают Кошмарные кисти..."
+      "translation": "Я правда не уверен. Мне они больше напоминают Кисти кошмаров..."
     },
     "ebm:mm02/event_message_mm02_080.ebm:2": {
       "source": "pack01_ebm",
@@ -4410,7 +4410,7 @@
       "index": 5,
       "speaker": "Ilmeria",
       "original": "You're ready to go to the next step, though. You remember the Dream Paintbrushes, I take it?",
-      "translation": "Однако вы готовы перейти к следующему шагу. Вы помните «Кисти мечты», я так понимаю?"
+      "translation": "Однако вы готовы перейти к следующему шагу. Вы помните «Кисти сновидений», я так понимаю?"
     },
     "ebm:mm02/event_message_mm02_190.ebm:6": {
       "source": "pack01_ebm",
@@ -4434,7 +4434,7 @@
       "index": 8,
       "speaker": "Ilmeria",
       "original": "Which leads us to my next test. Make some Dream Paintbrushes and bring them to me!",
-      "translation": "Это подводит нас к следующему тесту. Сделайте несколько кистей мечты и принесите их мне!"
+      "translation": "Это подводит нас к следующему тесту. Сделайте несколько Кистей сновидений и принесите их мне!"
     },
     "ebm:mm02/event_message_mm02_190.ebm:9": {
       "source": "pack01_ebm",
@@ -4474,7 +4474,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "That's it! I'm sure this recipe can create the perfect Dream Paintbrushes!",
-      "translation": "Вот и все! Я уверен, что с помощью этого рецепта можно создать идеальные кисти мечты!"
+      "translation": "Вот и все! Я уверен, что с помощью этого рецепта можно создать идеальные Кисти сновидений!"
     },
     "ebm:mm02/event_message_mm02_200.ebm:1": {
       "source": "pack01_ebm",
@@ -4490,7 +4490,7 @@
       "index": 0,
       "speaker": "Sue",
       "original": "Great! Now these are Dream Paintbrushes! They're overflowing with dreams this time!",
-      "translation": "Большой! Теперь это кисти мечты! На этот раз они переполнены мечтами!"
+      "translation": "Отлично! Теперь это Кисти сновидений! На этот раз они переполнены снами!"
     },
     "ebm:mm02/event_message_mm02_210.ebm:1": {
       "source": "pack01_ebm",
@@ -4506,7 +4506,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Ilmeria! We've made the Dream Paintbrushes!",
-      "translation": "Ильмерия! Мы создали кисти мечты!"
+      "translation": "Ильмерия! Мы создали Кисти сновидений!"
     },
     "ebm:mm02/event_message_mm02_220.ebm:1": {
       "source": "pack01_ebm",
@@ -10914,7 +10914,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "Hey! These are Dream Paintbrushes!",
-      "translation": "Привет! Это кисти мечты!"
+      "translation": "Привет! Это Кисти сновидений!"
     },
     "ebm:mm04/event_message_mm04_180.ebm:4": {
       "source": "pack01_ebm",
@@ -10922,7 +10922,7 @@
       "index": 4,
       "speaker": "Mireille",
       "original": "That's right. I've tweaked them a little. The Dream Paintbrushes exist to perform Restoration.",
-      "translation": "Это верно. Я их немного подправил. Кисти Мечты существуют для выполнения Восстановления."
+      "translation": "Это верно. Я их немного подправил. Кисти сновидений существуют для выполнения Восстановления."
     },
     "ebm:mm04/event_message_mm04_180.ebm:5": {
       "source": "pack01_ebm",
@@ -10970,7 +10970,7 @@
       "index": 10,
       "speaker": "System",
       "original": "<CLEG>New Dream Paintbrushes<CLNR> received.",
-      "translation": "<CLEG>Новые кисти мечты<CLNR> получены."
+      "translation": "<CLEG>Новые Кисти сновидений<CLNR> получены."
     },
     "ebm:mm04/event_message_mm04_190.ebm:0": {
       "source": "pack01_ebm",
@@ -32778,7 +32778,7 @@
       "index": 1,
       "speaker": "Ilmeria",
       "original": "This one's a doozy. \"Pour everything you've got into making some Dream Paintbrushes\"!",
-      "translation": "Это чушь. «Вложите все, что у вас есть, в создание кистей мечты»!"
+      "translation": "Это чушь. «Вложите все, что у вас есть, в создание Кистей сновидений»!"
     },
     "ebm:mm10/event_message_mm10_240.ebm:2": {
       "source": "pack01_ebm",
@@ -168838,14 +168838,14 @@
       "file": "str_item_name.xml",
       "string_no": "6750551",
       "original": "Dream Paintbrushes",
-      "translation": "Кисти снов"
+      "translation": "Кисти сновидений"
     },
     "pack02:6750552": {
       "source": "pack02_text_en",
       "file": "str_item_name.xml",
       "string_no": "6750552",
       "original": "Dream Paintbrushes?",
-      "translation": "Кисти снов?"
+      "translation": "Кисти сновидений?"
     },
     "pack02:6750553": {
       "source": "pack02_text_en",
@@ -169937,7 +169937,7 @@
       "file": "str_item_name.xml",
       "string_no": "6750753",
       "original": "New Dream Paintbrushes",
-      "translation": "Новые кисти снов"
+      "translation": "Новые Кисти сновидений"
     },
     "pack02:6750754": {
       "source": "pack02_text_en",
@@ -184735,7 +184735,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473749",
       "original": "“Um, Sue. Just so we’re clear. The real dream paintbrush...”^00“Don’t say it! None of you say it! Just don’t say it. My confidence is already dropping.”",
-      "translation": "«Эм, Сью. На всякий случай уточню. Настоящая кисть снов...»^00«Не говори! Никто не говорите! Просто молчите. Уверенность и так падает.»"
+      "translation": "«Эм, Сью. На всякий случай уточню. Настоящая Кисть сновидений...»^00«Не говори! Никто не говорите! Просто молчите. Уверенность и так падает.»"
     },
     "pack02:3473750": {
       "source": "pack02_text_en",
@@ -185827,7 +185827,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473950",
       "original": "“Hmm... I never thought the Dream Paintbrushes could be used as a tool for restoration.”^00“Hey. What do you think has been improved on them?”^00“Maybe all of the bristles are the same length now?”",
-      "translation": "«Хм... Никогда не думала, что кисти снов можно использовать для реставрации.»^00«Эй. Как думаешь, что в них улучшили?»^00«Может, все ворсинки теперь одной длины?»"
+      "translation": "«Хм... Никогда не думала, что Кисти сновидений можно использовать для реставрации.»^00«Эй. Как думаешь, что в них улучшили?»^00«Может, все ворсинки теперь одной длины?»"
     },
     "pack02:3473951": {
       "source": "pack02_text_en",
@@ -191812,14 +191812,14 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423389",
       "original": "“Dream Paintbrushes”... That sounds really difficult...",
-      "translation": "«Кисти снов»... Звучит очень сложно..."
+      "translation": "«Кисти сновидений»... Звучит очень сложно..."
     },
     "pack02:33423390": {
       "source": "pack02_text_en",
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423390",
       "original": "I-I’m not really confident, but maybe we should go and show Mireille our “Dream Paintbrushes”...",
-      "translation": "Я-я не очень уверена, но, может, стоит показать Мирей наши «Кисти снов»..."
+      "translation": "Я-я не очень уверена, но, может, стоит показать Мирей наши «Кисти сновидений»..."
     },
     "pack02:33423391": {
       "source": "pack02_text_en",
@@ -191847,14 +191847,14 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423394",
       "original": "“Dream Paintbrushes” this time... But... hehe. Now I know we have what it takes!",
-      "translation": "На этот раз — «Кисти снов»... Но... хехе. Теперь я знаю, что у нас всё получится!"
+      "translation": "На этот раз — «Кисти сновидений»... Но... хехе. Теперь я знаю, что у нас всё получится!"
     },
     "pack02:33423395": {
       "source": "pack02_text_en",
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423395",
       "original": "I think we’ve managed to make the “Dream Paintbrushes”! Come on, Sue! Let’s go show Ilmeria!",
-      "translation": "Кажется, нам удалось сделать «Кисти снов»! Ну же, Сью! Пойдём покажем Ильмерии!"
+      "translation": "Кажется, нам удалось сделать «Кисти сновидений»! Ну же, Сью! Пойдём покажем Ильмерии!"
     },
     "pack02:33423396": {
       "source": "pack02_text_en",
@@ -192484,7 +192484,7 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423485",
       "original": "Synthesize “Dream Paintbrushes”... This’ll be easy for us!",
-      "translation": "Синтезировать «Кисти снов»... Для нас это проще простого!"
+      "translation": "Синтезировать «Кисти сновидений»... Для нас это проще простого!"
     },
     "pack02:33423486": {
       "source": "pack02_text_en",
@@ -192519,14 +192519,14 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423490",
       "original": "“Dream Paintbrushes”...! This time, we’ll get the job done right!",
-      "translation": "«Кисти снов»...! На этот раз мы сделаем всё как надо!"
+      "translation": "«Кисти сновидений»...! На этот раз мы сделаем всё как надо!"
     },
     "pack02:33423491": {
       "source": "pack02_text_en",
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423491",
       "original": "Okay, it seems to have worked this time! I bet Ilmeria will be stunned by these “Dream Paintbrushes”!",
-      "translation": "Ладно, в этот раз, кажется, получилось! Ставлю, Ильмерия будет поражена этими «Кистями снов»!"
+      "translation": "Ладно, в этот раз, кажется, получилось! Ставлю, Ильмерия будет поражена этими «Кистями сновидений»!"
     },
     "pack02:33423492": {
       "source": "pack02_text_en",
@@ -193933,14 +193933,14 @@
       "file": "str_npc_s06_mess.xml",
       "string_no": "33751045",
       "original": "Go and make some more “Dream Paintbrushes.” I know you’ll be able to do it now.",
-      "translation": "Идите и сделайте ещё «Кисти снов». Знаю, у вас теперь получится."
+      "translation": "Идите и сделайте ещё «Кисти сновидений». Знаю, у вас теперь получится."
     },
     "pack02:33751046": {
       "source": "pack02_text_en",
       "file": "str_npc_s06_mess.xml",
       "string_no": "33751046",
       "original": "Hehe, see, I knew you could do it! Come, let’s show these “Dream Paintbrushes” to Mireille!",
-      "translation": "Хехе, видите, я знала, что у вас получится! Ну же, покажем эти «Кисти снов» Мирей!"
+      "translation": "Хехе, видите, я знала, что у вас получится! Ну же, покажем эти «Кисти сновидений» Мирей!"
     },
     "pack02:33751047": {
       "source": "pack02_text_en",
@@ -205742,7 +205742,7 @@
       "file": "str_rankup_description.xml",
       "string_no": "2686977",
       "original": "&lt;CLGR&gt;Create “Dream Paintbrushes.” ^00Recipe will be provided.^00*Adaptation permitted.&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;Создайте «Кисти мечты». ^00Рецепт будет предоставлен.^00*Адаптация разрешена.&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;Создайте «Кисти сновидений». ^00Рецепт будет предоставлен.^00*Адаптация разрешена.&lt;CLNR&gt;"
     },
     "pack02:2686978": {
       "source": "pack02_text_en",
@@ -205952,7 +205952,7 @@
       "file": "str_rankup_overview.xml",
       "string_no": "2621441",
       "original": "Create “Dream Paintbrushes.”",
-      "translation": "Создайте «Кисти мечты»."
+      "translation": "Создайте «Кисти сновидений»."
     },
     "pack02:2621442": {
       "source": "pack02_text_en",
@@ -208633,21 +208633,21 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425190",
       "original": "Pursue the perfect &lt;CLGR&gt;Dream Paintbrushes&lt;CLNR&gt;.&lt;CR&gt;Trait: &lt;CLGR&gt;Intense Destruction&lt;CLNR&gt;",
-      "translation": "Найдите идеальные &lt;CLGR&gt;Кисти мечты&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Интенсивное разрушение&lt;CLNR&gt;"
+      "translation": "Найдите идеальные &lt;CLGR&gt;Кисти сновидений&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Интенсивное разрушение&lt;CLNR&gt;"
     },
     "pack02:2425191": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425191",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Dream Paintbrushes&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Кисти мечты&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Кисти сновидений&lt;CLNR&gt;"
     },
     "pack02:2425192": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425192",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Dream Paintbrushes&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Кисти мечты&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Кисти сновидений&lt;CLNR&gt;"
     },
     "pack02:2425193": {
       "source": "pack02_text_en",
@@ -213988,7 +213988,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422547",
       "original": "&lt;CLGR&gt;- Let’s synthesize some “Dream^00　Paintbrushes”!&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;- Давайте синтезируем несколько «Мечт^00　Кистей»!&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;- Давайте синтезируем несколько «Кистей сновидений»!&lt;CLNR&gt;"
     },
     "pack02:6422548": {
       "source": "pack02_text_en",
@@ -214009,7 +214009,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422550",
       "original": "&lt;CLGR&gt;- Let’s deliver the “Dream Paintbrushes” ^00　to Mireille.&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;- Давайте доставим «Кисти мечты» ^00　Мирей.&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;- Давайте доставим «Кисти сновидений» ^00　Мирей.&lt;CLNR&gt;"
     },
     "pack02:6422551": {
       "source": "pack02_text_en",
@@ -214107,7 +214107,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422564",
       "original": "&lt;CLGR&gt;- Let’s synthesize some “Dream ^00　Paintbrushes.”^00　&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;- Давайте синтезируем несколько «Кистей Мечты ^00　Кисти».^00　&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;- Давайте синтезируем несколько «Кисти сновидений».^00　&lt;CLNR&gt;"
     },
     "pack02:6422565": {
       "source": "pack02_text_en",
@@ -214121,7 +214121,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422566",
       "original": "&lt;CLGR&gt;- Time to go and show Ilmeria our ^00　“Dream Paintbrushes”!^00　&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;- Пора пойти и показать Илмерии наши ^00　«Кисти мечты»!^00　&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;- Пора пойти и показать Илмерии наши ^00　«Кисти сновидений»!^00　&lt;CLNR&gt;"
     },
     "pack02:6422567": {
       "source": "pack02_text_en",
@@ -214142,7 +214142,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422569",
       "original": "&lt;CLGR&gt;- Deliver the “Dream Paintbrushes” ^00　to Mireille.&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;- Доставьте «Кисти мечты» ^00　Мирей.&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;- Доставьте «Кисти сновидений» ^00　Мирей.&lt;CLNR&gt;"
     },
     "pack02:6422570": {
       "source": "pack02_text_en",
@@ -215899,7 +215899,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422820",
       "original": "&lt;CLGR&gt;- Let’s give Ilmeria the best ^00　“Dream Paintbrushes” we can make!&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;- Давайте дадим Илмерии лучшее ^00　«Кисти мечты», которое мы можем сделать!&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;- Давайте дадим Илмерии лучшее ^00　«Кисти сновидений», которое мы можем сделать!&lt;CLNR&gt;"
     },
     "pack02:6422821": {
       "source": "pack02_text_en",
@@ -216347,21 +216347,21 @@
       "file": "str_summary_text.xml",
       "string_no": "6225934",
       "original": "Apparently, there’s an entrance examination to get into the Atelier Ranking System. The task we’ve been set is to create “Dream Paintbrushes”... Hmm... Let’s head back to the atelier and check the recipe.^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Судя по всему, здесь проводится вступительный экзамен для попадания в Систему рангов ателье. Задача, которую нам поставили, — создать «Кисти мечты»... Хм… Вернёмся в ателье и проверим рецепт.^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Судя по всему, здесь проводится вступительный экзамен для попадания в Систему рангов ателье. Задача, которую нам поставили, — создать «Кисти сновидений»... Хм… Вернёмся в ателье и проверим рецепт.^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6225935": {
       "source": "pack02_text_en",
       "file": "str_summary_text.xml",
       "string_no": "6225935",
       "original": "I’ve been thinking about it, and I really believe we can make these “Dream Paintbrushes” as long as we have the right materials! But we don’t have them right now, so it looks like we’ll have to go outside and collect them. ^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Я думал об этом и действительно верю, что мы сможем сделать эти «Кисти мечты», если у нас есть подходящие материалы! Но у нас их сейчас нет, так что, похоже, нам придется выйти на улицу и забрать их. ^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Я думал об этом и действительно верю, что мы сможем сделать эти «Кисти сновидений», если у нас есть подходящие материалы! Но у нас их сейчас нет, так что, похоже, нам придется выйти на улицу и забрать их. ^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6225936": {
       "source": "pack02_text_en",
       "file": "str_summary_text.xml",
       "string_no": "6225936",
       "original": "We’ve created the “Dream Paintbrushes,” but these look more like “Nightmare Paintbrushes”... Ahem! Well, maybe this is what they’re meant to be like. Let’s take them to Mireille and find out! ^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Мы создали «Кисти мечты», но они больше похожи на «Кисти кошмаров»… Кхм! Что ж, возможно, именно такими они и должны быть. Давайте отвезем их к Мирей и узнаем! ^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Мы создали «Кисти сновидений», но они больше похожи на «Кисти кошмаров»… Кхм! Что ж, возможно, именно такими они и должны быть. Давайте отвезем их к Мирей и узнаем! ^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6225937": {
       "source": "pack02_text_en",
@@ -216410,14 +216410,14 @@
       "file": "str_summary_text.xml",
       "string_no": "6225943",
       "original": "The next task issued to us by our teacher is to have another go at making the “Dream Paintbrushes,” and then to show them to her. ...This time, I feel like we have what it takes to make the “Dream Paintbrushes” right. Let’s really give it all we have! ^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Следующее задание, данное нам учителем, — еще раз попробовать сделать «Кисти мечты», а затем показать их ей. ...На этот раз я чувствую, что у нас есть все необходимое, чтобы сделать «Кисти мечты» правильными. Давайте действительно отдадим все, что у нас есть! ^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Следующее задание, данное нам учителем, — еще раз попробовать сделать «Кисти сновидений», а затем показать их ей. ...На этот раз я чувствую, что у нас есть все необходимое, чтобы сделать «Кисти сновидений» правильными. Давайте действительно отдадим все, что у нас есть! ^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6225944": {
       "source": "pack02_text_en",
       "file": "str_summary_text.xml",
       "string_no": "6225944",
       "original": "We’ve done it! We’ve made the “Dream Paintbrushes,” and this time we’ve done it right! Come on, let’s hurry to Ilmeria and show her what we’ve done! I can’t wait to hear those words of praise... ^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Мы сделали это! Мы создали «Кисти мечты» и на этот раз сделали все правильно! Давай, поспешим в Илмерию и покажем ей, что мы натворили! Мне не терпится услышать эти слова похвалы... ^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Мы сделали это! Мы создали «Кисти сновидений» и на этот раз сделали все правильно! Давай, поспешим в Илмерию и покажем ей, что мы натворили! Мне не терпится услышать эти слова похвалы... ^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6225945": {
       "source": "pack02_text_en",
@@ -216648,7 +216648,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6225977",
       "original": "We’ll try carrying out the restoration following Mireille’s directions. She said all we had to do was stand in front of the Mysterious Painting holding the Dream Paintbrushes and the paints... ^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Попробуем провести реставрацию, следуя указаниям Мирей. Она сказала, что все, что нам нужно было сделать, это встать перед Таинственной картиной, держа в руках кисти снов и краски... ^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Попробуем провести реставрацию, следуя указаниям Мирей. Она сказала, что все, что нам нужно было сделать, это встать перед Таинственной картиной, держа в руках Кисти сновидений и краски... ^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6225978": {
       "source": "pack02_text_en",
@@ -217320,7 +217320,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6226073",
       "original": "The final task Ilmeria has for us is to use all the knowledge we now have to make “Dream Paintbrushes.” We weren’t able to make them properly the first time we tried, but things are different now! Watch and see what we can do, Ilmeria!^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Последняя задача, которую ставит перед нами Илмерия, — использовать все имеющиеся у нас знания для создания «Кистей мечты». С первого раза нам не удалось сделать их должным образом, но теперь все по-другому! Смотри и посмотри, что мы можем сделать, Ильмерия!^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Последняя задача, которую ставит перед нами Илмерия, — использовать все имеющиеся у нас знания для создания «Кистей сновидений». С первого раза нам не удалось сделать их должным образом, но теперь все по-другому! Смотри и посмотри, что мы можем сделать, Ильмерия!^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6226074": {
       "source": "pack02_text_en",
