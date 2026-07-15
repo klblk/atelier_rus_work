@@ -338,7 +338,7 @@
       "index": 13,
       "speaker": "System",
       "original": "<CLEG>[Tutorial] ~Promotion Tests~<CLNR>",
-      "translation": "<CLEG>[Учебное пособие] ~Промо-тесты~<CLNR>"
+      "translation": "<CLEG>[Учебное пособие] ~Испытания ранга~<CLNR>"
     },
     "ebm:mm03/event_message_mm03_030.ebm:14": {
       "source": "pack01_ebm",
@@ -346,7 +346,7 @@
       "index": 14,
       "speaker": "System",
       "original": "You need to take a Promotion Test in order to increase your atelier ranking. ",
-      "translation": "Вам необходимо пройти тест на повышение, чтобы повысить свой ранг ателье."
+      "translation": "Вам необходимо пройти Испытание ранга, чтобы повысить свой ранг ателье."
     },
     "ebm:mm03/event_message_mm03_030.ebm:15": {
       "source": "pack01_ebm",
@@ -746,7 +746,7 @@
       "index": 14,
       "speaker": "Mireille",
       "original": "Once the kingdom recognizes the deeds of your atelier, you can take the Promotion Test.",
-      "translation": "Как только королевство признает деяния вашего ателье, вы сможете пройти тест на повышение."
+      "translation": "Как только королевство признает деяния вашего ателье, вы сможете пройти Испытание ранга."
     },
     "ebm:mm03/event_message_mm03_080.ebm:15": {
       "source": "pack01_ebm",
@@ -1330,7 +1330,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "It seems the reputation of our atelier is picking up. Maybe we can take the Promotion Test now?",
-      "translation": "Кажется, репутация нашего ателье растет. Может быть, мы можем пройти тест на повышение прямо сейчас?"
+      "translation": "Кажется, репутация нашего ателье растет. Может быть, мы можем пройти Испытание ранга прямо сейчас?"
     },
     "ebm:mm03/event_message_mm03_130.ebm:1": {
       "source": "pack01_ebm",
@@ -1362,7 +1362,7 @@
       "index": 2,
       "speaker": "Mireille",
       "original": "What do you think? Do you want to try the next Promotion Test?",
-      "translation": "Что вы думаете? Хотите попробовать следующий промо-тест?"
+      "translation": "Что вы думаете? Хотите попробовать следующее Испытание ранга?"
     },
     "ebm:mm03/event_message_mm03_140.ebm:3": {
       "source": "pack01_ebm",
