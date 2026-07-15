@@ -34,7 +34,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "I think we already reached it, too. Dad isn't much help. We need a proper teacher. A master.",
-      "translation": "Я думаю, мы уже его достигли. Папа особо не поможет. Нам нужен хороший учитель. Мастер."
+      "translation": "Я думаю, мы уже его достигли. Папа особо не поможет. Нам нужен хороший учитель. Наставник."
     },
     "ebm:mm02/event_message_mm02_010.ebm:4": {
       "source": "pack01_ebm",
@@ -42,7 +42,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "A master? In this city? Anyway, all that work has made me hungry.",
-      "translation": "Мастер? В этом городе? В любом случае, вся эта работа заставила меня проголодаться."
+      "translation": "Наставник? В этом городе? В любом случае, вся эта работа заставила меня проголодаться."
     },
     "ebm:mm02/event_message_mm02_010.ebm:5": {
       "source": "pack01_ebm",
@@ -738,7 +738,7 @@
       "index": 9,
       "speaker": "System",
       "original": "You can now go to <CLEG>Spring-green Odahlia<CLNR> and <CLEG>Nearby Forest<CLNR>!",
-      "translation": "Теперь вы можете отправиться в <CLEG>Весенне-зеленая Одалия<CLNR> и <CLEG>Близлежащий лес<CLNR>!"
+      "translation": "Теперь вы можете отправиться в <CLEG>Весенне-зеленую Одалию<CLNR> и <CLEG>Ближний лес<CLNR>!"
     },
     "ebm:mm02/event_message_mm02_070.ebm:0": {
       "source": "pack01_ebm",
@@ -746,7 +746,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Phew... we made it back... somehow. We really took a licking, didn't we?",
-      "translation": "Уф... мы вернулись... каким-то образом. Мы действительно облажались, не так ли?"
+      "translation": "Уф... мы вернулись... кое-как. Мы действительно облажались, не так ли?"
     },
     "ebm:mm02/event_message_mm02_070.ebm:1": {
       "source": "pack01_ebm",
@@ -754,7 +754,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "We sure did. I totally let my guard down. We need to take a bit more care!",
-      "translation": "Мы уверены, что сделали. Я полностью потерял бдительность. Нам нужно быть немного более осторожными!"
+      "translation": "Да, конечно. Я расслабилась. Нам нужно быть немного осторожнее!"
     },
     "ebm:mm02/event_message_mm02_070.ebm:2": {
       "source": "pack01_ebm",
@@ -778,7 +778,7 @@
       "index": 4,
       "speaker": "System",
       "original": "<CLR1>You don't want to lose those precious materials! Retreat is always an option!<CLNR>",
-      "translation": "<CLR1>Вы не хотите потерять эти драгоценные материалы! Отступление всегда возможно!<CLNR>"
+      "translation": "<CLR1>Вы же не хотите потерять эти ценные материалы! Отступление всегда возможно!<CLNR>"
     },
     "ebm:mm02/event_message_mm02_080.ebm:0": {
       "source": "pack01_ebm",
@@ -786,7 +786,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "We made one, but do you think this will let us pass the exam?",
-      "translation": "Мы его сделали, но как вы думаете, это позволит нам сдать экзамен?"
+      "translation": "Мы это сделали, но как думаешь, это позволит нам сдать экзамен?"
     },
     "ebm:mm02/event_message_mm02_080.ebm:1": {
       "source": "pack01_ebm",
@@ -794,7 +794,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "I'm really not sure. They kinda look more like Nightmare Paintbrushes to me...",
-      "translation": "Я правда не уверен. Мне они больше напоминают Кисти кошмаров..."
+      "translation": "Я не уверена. Мне они больше напоминают Кисти кошмаров..."
     },
     "ebm:mm02/event_message_mm02_080.ebm:2": {
       "source": "pack01_ebm",
@@ -810,7 +810,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "Why not? This might even be what she wants, although I'm really not sure about that...",
-      "translation": "Почему нет? Возможно, она даже этого хочет, хотя я правда в этом не уверен..."
+      "translation": "Почему нет? Возможно, это именно то, что она хочет, хотя я в этом совсем не уверена..."
     },
     "ebm:mm02/event_message_mm02_090.ebm:0": {
       "source": "pack01_ebm",
@@ -818,7 +818,7 @@
       "index": 0,
       "speaker": "Mireille",
       "original": "Hmm. Sorry. I can't give you a pass for this.",
-      "translation": "Хм. Извини. Я не могу дать тебе пропуск на это."
+      "translation": "Хм. Извините. Я не могу вам зачесть это."
     },
     "ebm:mm02/event_message_mm02_090.ebm:1": {
       "source": "pack01_ebm",
@@ -826,7 +826,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Hahaha. Yes, we didn't think so.",
-      "translation": "Ха-ха-ха. Да, мы так не думали."
+      "translation": "Ха-ха-ха. Да, мы так и думали."
     },
     "ebm:mm02/event_message_mm02_090.ebm:2": {
       "source": "pack01_ebm",
@@ -834,7 +834,7 @@
       "index": 2,
       "speaker": "Mireille",
       "original": "You're on the right track here, but you need to make it a little bit more of your own.",
-      "translation": "Здесь вы на правильном пути, но вам нужно сделать его немного более собственным."
+      "translation": "Вы на верном пути, но вам нужно добавить этому предмету немного индивидуальности"
     },
     "ebm:mm02/event_message_mm02_090.ebm:3": {
       "source": "pack01_ebm",
@@ -850,7 +850,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "Very well. So we have to put our own spin on it?",
-      "translation": "Очень хорошо. Значит, нам придется внести свой вклад в это?"
+      "translation": "Хорошо. Значит, нам придётся внести в это что-то своё?"
     },
     "ebm:mm02/event_message_mm02_090.ebm:5": {
       "source": "pack01_ebm",
@@ -858,7 +858,7 @@
       "index": 5,
       "speaker": "???",
       "original": "...umm... damp... it... Su... here.",
-      "translation": "...ммм... сыро... это... Су... здесь."
+      "translation": "...ммм... сыро... это... Сь... здесь."
     },
     "ebm:mm02/event_message_mm02_090.ebm:6": {
       "source": "pack01_ebm",
@@ -882,7 +882,7 @@
       "index": 8,
       "speaker": "Lydie",
       "original": "Yes, I'm coming! I guess I really am just imagining things...",
-      "translation": "Да, я иду! Наверное, я действительно просто воображаю вещи..."
+      "translation": "Да, я иду! Наверное, мне просто показалось..."
     },
     "ebm:mm02/event_message_mm02_100.ebm:0": {
       "source": "pack01_ebm",
@@ -890,7 +890,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Make it our own, she said. That's not giving me any ideas. Maybe we just can't do this?",
-      "translation": "«Сделаем это своим», — сказала она. Это не дает мне никаких идей. Может быть, мы просто не можем этого сделать?"
+      "translation": "«Немного индивидуальности», — сказала она. Это не дает мне никаких идей. Может быть, мы просто не можем этого сделать?"
     },
     "ebm:mm02/event_message_mm02_100.ebm:1": {
       "source": "pack01_ebm",
@@ -898,7 +898,7 @@
       "index": 1,
       "speaker": "???",
       "original": "Say there, you two. Can you help me?",
-      "translation": "Скажем, вы двое. Вы можете помочь мне?"
+      "translation": "Слушайте, вы обе. Можете мне помочь?"
     },
     "ebm:mm02/event_message_mm02_100.ebm:2": {
       "source": "pack01_ebm",
@@ -906,7 +906,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "You might be right. If only we had a master!",
-      "translation": "Возможно, вы правы. Если бы у нас был хозяин!"
+      "translation": "Возможно, ты права. Если бы у нас был наставник!"
     },
     "ebm:mm02/event_message_mm02_100.ebm:3": {
       "source": "pack01_ebm",
@@ -914,7 +914,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "I agree, but there aren't many alchemists in Merveille, let alone ones who could become...",
-      "translation": "Согласен, но в Мервейле не так уж много алхимиков, не говоря уже о тех, кто мог бы стать..."
+      "translation": "Согласна, но в Мервейле не так уж много алхимиков, не говоря уже о тех, кто мог бы стать..."
     },
     "ebm:mm02/event_message_mm02_100.ebm:4": {
       "source": "pack01_ebm",
@@ -922,7 +922,7 @@
       "index": 4,
       "speaker": "???",
       "original": "You two! Listen! I'm talking to you!",
-      "translation": "Вы двое! Слушать! Я говорю с тобой!"
+      "translation": "Вы обе! Слушайте! Я говорю с вами!"
     },
     "ebm:mm02/event_message_mm02_100.ebm:5": {
       "source": "pack01_ebm",
@@ -930,7 +930,7 @@
       "index": 5,
       "speaker": "Lydie",
       "original": "What! Ah, sorry! What can we help you with?",
-      "translation": "Что! Ах, извини! Чем мы можем вам помочь?"
+      "translation": "Что! Ах, извините! Чем мы можем вам помочь?"
     },
     "ebm:mm02/event_message_mm02_100.ebm:6": {
       "source": "pack01_ebm",
@@ -938,7 +938,7 @@
       "index": 6,
       "speaker": "???",
       "original": "I just want some directions. Is this the way to the castle?",
-      "translation": "Мне просто нужны некоторые указания. Это путь к замку?"
+      "translation": "Я просто хотела узнать дорогу. Я правильно иду к замку?"
     },
     "ebm:mm02/event_message_mm02_100.ebm:7": {
       "source": "pack01_ebm",
@@ -946,7 +946,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "Yes, this is the way. Are you going to see the sights?",
-      "translation": "Да, это путь. Собираетесь осмотреть достопримечательности?"
+      "translation": "Да, верно. Собираетесь осмотреть достопримечательности?"
     },
     "ebm:mm02/event_message_mm02_100.ebm:8": {
       "source": "pack01_ebm",
@@ -962,7 +962,7 @@
       "index": 9,
       "speaker": "Lydie",
       "original": "Whaaaaat! From the king himself? Just who are you?",
-      "translation": "Чтоооо! От самого короля? Кто ты?"
+      "translation": "Чтоооо! Сам король? Кто вы?"
     },
     "ebm:mm02/event_message_mm02_100.ebm:10": {
       "source": "pack01_ebm",
@@ -970,7 +970,7 @@
       "index": 10,
       "speaker": "Ilmeria",
       "original": "I am Ilmeria Von Leinweber. Nothing less than a genius level alchemist!",
-      "translation": "Я Илмерия фон Лайнвебер. Не что иное, как алхимик гениального уровня!"
+      "translation": "Я Ильмерия фон Лайнвебер. Не что иное, как алхимик гениального уровня!"
     },
     "ebm:mm02/event_message_mm02_100.ebm:11": {
       "source": "pack01_ebm",
@@ -1034,7 +1034,7 @@
       "index": 18,
       "speaker": "Lydie",
       "original": "Sorry about all that. You really are amazing, though, aren't you Ilmeria!",
-      "translation": "Извините за все это. Но ты действительно потрясающая, не так ли, Илмерия!"
+      "translation": "Извините за все это. Но ты действительно потрясающая, не так ли, Ильмерия!"
     },
     "ebm:mm02/event_message_mm02_100.ebm:19": {
       "source": "pack01_ebm",
@@ -1066,7 +1066,7 @@
       "index": 22,
       "speaker": "Lydie",
       "original": "Hahaha, we can't compare to you, Ilmeria. We just failed our exam.",
-      "translation": "Ха-ха-ха, мы не можем сравниться с тобой, Илмерия. Мы только что провалили экзамен."
+      "translation": "Ха-ха-ха, мы не можем сравниться с тобой, Ильмерия. Мы только что провалили экзамен."
     },
     "ebm:mm02/event_message_mm02_100.ebm:23": {
       "source": "pack01_ebm",
@@ -1106,7 +1106,7 @@
       "index": 27,
       "speaker": "Lydie",
       "original": "Incredible, Ilmeria! You saw through the trick in an instant!",
-      "translation": "Невероятно, Илмерия! Вы разгадали фокус в одно мгновение!"
+      "translation": "Невероятно, Ильмерия! Вы разгадали фокус в одно мгновение!"
     },
     "ebm:mm02/event_message_mm02_100.ebm:28": {
       "source": "pack01_ebm",
@@ -1130,7 +1130,7 @@
       "index": 30,
       "speaker": "Sue",
       "original": "I think I do. Pretty sure we just had the same idea, Sis. Ilmeria, can we ask you...",
-      "translation": "Думаю, да. Я уверен, что у нас была одна и та же идея, сестренка. Илмерия, можем ли мы спросить тебя..."
+      "translation": "Думаю, да. Я уверен, что у нас была одна и та же идея, сестренка. Ильмерия, можем ли мы спросить тебя..."
     },
     "ebm:mm02/event_message_mm02_100.ebm:31": {
       "source": "pack01_ebm",
@@ -1234,7 +1234,7 @@
       "index": 43,
       "speaker": "Lydie",
       "original": "Sure thing. We'll just head back home. See you again tomorrow, Ilmeria!",
-      "translation": "Конечно. Мы просто вернемся домой. Увидимся завтра, Илмерия!"
+      "translation": "Конечно. Мы просто вернемся домой. Увидимся завтра, Ильмерия!"
     },
     "ebm:mm02/event_message_mm02_100.ebm:44": {
       "source": "pack01_ebm",
@@ -1290,7 +1290,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "Ilmeria said to think it over, but we aren't going to change our minds.",
-      "translation": "Илмерия сказала подумать, но мы не собираемся менять свое решение."
+      "translation": "Ильмерия сказала подумать, но мы не собираемся менять свое решение."
     },
     "ebm:mm02/event_message_mm02_110.ebm:5": {
       "source": "pack01_ebm",
@@ -1346,7 +1346,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "We haven't! We want to learn alchemy from you, Ilmeria.",
-      "translation": "У нас нет! Мы хотим научиться у тебя алхимии, Илмерия."
+      "translation": "У нас нет! Мы хотим научиться у тебя алхимии, Ильмерия."
     },
     "ebm:mm02/event_message_mm02_120.ebm:2": {
       "source": "pack01_ebm",
@@ -1610,7 +1610,7 @@
       "index": 14,
       "speaker": "Sue",
       "original": "Phew! She practically kicked us out. Ilmeria might be tougher than I thought...",
-      "translation": "Уф! Она нас практически выгнала. Илмерия может оказаться крепче, чем я думал..."
+      "translation": "Уф! Она нас практически выгнала. Ильмерия может оказаться крепче, чем я думал..."
     },
     "ebm:mm02/event_message_mm02_150.ebm:15": {
       "source": "pack01_ebm",
@@ -1826,7 +1826,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Heh, we've thought up quite a few new recipes. Ilmeria was right, it was worth giving it a try!",
-      "translation": "Хех, мы придумали немало новых рецептов. Илмерия была права, попробовать стоило!"
+      "translation": "Хех, мы придумали немало новых рецептов. Ильмерия была права, попробовать стоило!"
     },
     "ebm:mm02/event_message_mm02_180.ebm:1": {
       "source": "pack01_ebm",
@@ -1970,7 +1970,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "I bet Ilmeria will praise us again. Sue, let's go and show this to her!",
-      "translation": "Могу поспорить, что Илмерия еще раз нас похвалит. Сью, пойдем и покажем ей это!"
+      "translation": "Могу поспорить, что Ильмерия еще раз нас похвалит. Сью, пойдем и покажем ей это!"
     },
     "ebm:mm02/event_message_mm02_220.ebm:0": {
       "source": "pack01_ebm",
@@ -2042,7 +2042,7 @@
       "index": 8,
       "speaker": "Lydie",
       "original": "Yes! With you along we've got nothing to fear, Ilmeria! Please, come with us!",
-      "translation": "Да! С тобой нам нечего бояться, Илмерия! Пожалуйста, пойдем с нами!"
+      "translation": "Да! С тобой нам нечего бояться, Ильмерия! Пожалуйста, пойдем с нами!"
     },
     "ebm:mm02/event_message_mm02_220.ebm:9": {
       "source": "pack01_ebm",
@@ -2154,7 +2154,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "Awesome! V for victory! This is all thanks to you, Ilmeria!",
-      "translation": "Потрясающий! V за победу! И все это благодаря тебе, Илмерия!"
+      "translation": "Потрясающий! V за победу! И все это благодаря тебе, Ильмерия!"
     },
     "ebm:mm02/event_message_mm02_240.ebm:4": {
       "source": "pack01_ebm",
@@ -2170,7 +2170,7 @@
       "index": 5,
       "speaker": "Mireille",
       "original": "I'm impressed, Ilmeria. You're already getting involved with teaching.",
-      "translation": "Я впечатлен, Илмерия. Вы уже занимаетесь преподаванием."
+      "translation": "Я впечатлен, Ильмерия. Вы уже занимаетесь преподаванием."
     },
     "ebm:mm02/event_message_mm02_240.ebm:6": {
       "source": "pack01_ebm",
@@ -2210,7 +2210,7 @@
       "index": 10,
       "speaker": "Mireille",
       "original": "Indeed it did. That's how good Ilmeria is. You've found a good mentor, girls.",
-      "translation": "Действительно, так оно и было. Вот насколько хороша Илмерия. Девочки, вы нашли хорошего наставника."
+      "translation": "Действительно, так оно и было. Вот насколько хороша Ильмерия. Девочки, вы нашли хорошего наставника."
     },
     "ebm:mm02/event_message_mm02_240.ebm:11": {
       "source": "pack01_ebm",
@@ -2290,7 +2290,7 @@
       "index": 3,
       "speaker": "Mireille",
       "original": "Those twins, too. They are going to grow fast, now that they've got Ilmeria on their side.",
-      "translation": "Те близнецы тоже. Теперь, когда на их стороне Илмерия, они будут быстро расти."
+      "translation": "Те близнецы тоже. Теперь, когда на их стороне Ильмерия, они будут быстро расти."
     },
     "ebm:mm02/event_message_mm02_250.ebm:4": {
       "source": "pack01_ebm",
