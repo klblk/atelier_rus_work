@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-14T14:50:33.003667+00:00",
+  "generated_at": "2026-07-15T06:16:26.503493+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -362,7 +362,7 @@
       "index": 0,
       "speaker": "System",
       "original": "This is Merveille, the royal capital of the Kingdom of Adalet.<CR>A glorious city with a long history.",
-      "translation": "Это Мервейль, королевская столица Королевства Адалет.<CR>Славный город с долгой историей."
+      "translation": "Это Мервейль, королевская столица Королевства Адалета.<CR>Славный город с долгой историей."
     },
     "ebm:mm01/event_message_mm01_070.ebm:1": {
       "source": "pack01_ebm",
@@ -2546,7 +2546,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "I know, but I don't think we have a choice. We just have to improve gradually.",
-      "translation": "Я знаю, но не думаю, что у нас есть выбор. Нам просто нужно постепенно совершенствоваться."
+      "translation": "Знаю, но не думаю, что у нас есть выбор. Нам просто нужно постепенно совершенствоваться."
     },
     "ebm:mm02/event_message_mm02_010.ebm:2": {
       "source": "pack01_ebm",
@@ -2554,7 +2554,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "How's that working out for us so far? There's a limit to what we can teach ourselves.",
-      "translation": "И как у нас это получается пока что? Есть предел тому, чему мы можем научиться сами."
+      "translation": "И как долго у нас это будет получаться? Есть предел тому, чему мы можем научиться сами."
     },
     "ebm:mm02/event_message_mm02_010.ebm:3": {
       "source": "pack01_ebm",
@@ -2562,7 +2562,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "I think we already reached it, too. Dad isn't much help. We need a proper teacher. A master.",
-      "translation": "Я думаю, мы тоже уже достигли этого. Папа особо не поможет. Нам нужен хороший учитель. Мастер."
+      "translation": "Я думаю, мы уже его достигли. Папа особо не поможет. Нам нужен хороший учитель. Мастер."
     },
     "ebm:mm02/event_message_mm02_010.ebm:4": {
       "source": "pack01_ebm",
@@ -2730,7 +2730,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "There are lots of people out again today. Has a Notice been posted?",
-      "translation": "Сегодня снова много людей. Опубликовано ли уведомление?"
+      "translation": "Сегодня снова много людей. Размещено какое-то новое объявление?"
     },
     "ebm:mm02/event_message_mm02_020.ebm:1": {
       "source": "pack01_ebm",
@@ -2746,7 +2746,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "Right, let's see what we've got today. \"Alchemists Wanted\"?",
-      "translation": "Хорошо, давайте посмотрим, что у нас есть сегодня. «Требуются алхимики»?"
+      "translation": "Хорошо, давай посмотрим, что у нас есть сегодня. «Требуются алхимики»?"
     },
     "ebm:mm02/event_message_mm02_020.ebm:3": {
       "source": "pack01_ebm",
@@ -8970,7 +8970,7 @@
       "index": 17,
       "speaker": "Mireille",
       "original": "Joke? I'm not joking. My full name is Mireille Ferrier Adalet.",
-      "translation": "Шутить? Я не шучу. Мое полное имя — Мирей Феррье Адале."
+      "translation": "Шутить? Я не шучу. Мое полное имя — Мирей Феррье Адалет."
     },
     "ebm:mm04/event_message_mm04_020.ebm:18": {
       "source": "pack01_ebm",
@@ -23402,7 +23402,7 @@
       "index": 9,
       "speaker": "Mireille",
       "original": "Adalet has ignored alchemy until now. If we change that, our kingdom can continue to grow.",
-      "translation": "Адалет до сих пор игнорировала алхимию. Если мы изменим это, наше королевство сможет продолжать расти."
+      "translation": "В Адалете до сих пор игнорировали алхимию. Если мы это изменим, наше королевство сможет продолжать расти."
     },
     "ebm:mm07/event_message_mm07_300.ebm:10": {
       "source": "pack01_ebm",
@@ -69250,7 +69250,7 @@
       "index": 19,
       "speaker": "Mathias",
       "original": "I'm sure that's the best for the future of Adalet, too.",
-      "translation": "Я уверен, что это будет лучше и для будущего Адалет."
+      "translation": "Я уверен, что это будет лучше и для будущего Адалета."
     },
     "ebm:qc04_mat/event_message_qc04_mat_230.ebm:20": {
       "source": "pack01_ebm",
@@ -69418,7 +69418,7 @@
       "index": 40,
       "speaker": "Mireille",
       "original": "In this moment, I, Mireille Ferrier Adalet, as the king in shadow...",
-      "translation": "В этот момент я, Мирей Феррье Адале, в роли короля тени..."
+      "translation": "В этот момент я, Мирей Феррье Адалет, в роли короля тени..."
     },
     "ebm:qc04_mat/event_message_qc04_mat_230.ebm:41": {
       "source": "pack01_ebm",
@@ -93650,7 +93650,7 @@
       "index": 15,
       "speaker": "Corneria",
       "original": "So I'm here doing some market research in order to expand into Adalet.",
-      "translation": "Итак, я провожу исследование рынка, чтобы выйти на Adalet."
+      "translation": "Итак, я провожу исследование, чтобы выйти на рынок Адалета."
     },
     "ebm:qc14_cor/event_message_qc14_cor_020.ebm:16": {
       "source": "pack01_ebm",
@@ -107506,7 +107506,7 @@
       "index": 16,
       "speaker": "Ilmeria",
       "original": "Really?! That's a huge jump up for her! ...She was a knight of Adalet, right?",
-      "translation": "Действительно?! Для нее это огромный скачок! ...Она была рыцарем Адалет, верно?"
+      "translation": "Действительно?! Для нее это огромный скачок! ...Она была рыцарем Адалета, верно?"
     },
     "ebm:xx05/event_message_xx05_170.ebm:17": {
       "source": "pack01_ebm",
@@ -168964,7 +168964,7 @@
       "file": "str_item_name.xml",
       "string_no": "6750569",
       "original": "Rose Crown of Adalet",
-      "translation": "Розовая корона Адалет"
+      "translation": "Розовая корона Адалета"
     },
     "pack02:6750570": {
       "source": "pack02_text_en",
@@ -203565,7 +203565,7 @@
       "file": "str_quest_flavor.xml",
       "string_no": "4915365",
       "original": "I have taken on the momentous task of recording my family’s history. Right now, I’m researching the history of Adalet. Is there anyone who wishes to help me?",
-      "translation": "Я взял на себя важную задачу — записать историю моей семьи. Сейчас я изучаю историю Адалет. Есть ли кто-нибудь, кто желает мне помочь?"
+      "translation": "Я взял на себя важную задачу — записать историю моей семьи. Сейчас я изучаю историю Адалета. Есть ли кто-нибудь, кто желает мне помочь?"
     },
     "pack02:4915366": {
       "source": "pack02_text_en",
@@ -203635,7 +203635,7 @@
       "file": "str_quest_flavor.xml",
       "string_no": "4915375",
       "original": "So Adalet has no Observation Institute... Oh, don’t mind me. Could you gather some valuable materials for me - I need them for something.",
-      "translation": "Значит, у Адалет нет Института Наблюдений... Да, не обращайте на меня внимания. Не могли бы вы собрать для меня ценные материалы — они мне для чего-то нужны."
+      "translation": "Значит, у Адалета нет Института Наблюдений... Да, не обращайте на меня внимания. Не могли бы вы собрать для меня ценные материалы — они мне для чего-то нужны."
     },
     "pack02:4915376": {
       "source": "pack02_text_en",
@@ -212217,14 +212217,14 @@
       "file": "str_summary_chara_checkbox.xml",
       "string_no": "6488088",
       "original": "&lt;CLGR&gt;- We have to deliver the “Rose Crown ^00　of Adalet” to Mathias.　&lt;CLNR&gt;^00　↑Complete with delicate decorations ^00　　and lovingly polished.^00　　　　　　　　　　　　　　　　[Sue]^00　↑You sound like you’re motivated!^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "&lt;CLGR&gt;- Нам нужно доставить Матиасу «Розовую корону ^00　Адалет».　&lt;CLNR&gt;^00　↑Дополнено изящными украшениями ^00　　и с любовью полированный.^00　　　　　　　　　　　　　　　　[Сью]^00　↑Ты говоришь так, будто ты мотивировано!^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "&lt;CLGR&gt;- Нам нужно доставить Матиасу «Розовую корону ^00　Адалета».　&lt;CLNR&gt;^00　↑Дополнено изящными украшениями ^00　　и с любовью полированный.^00　　　　　　　　　　　　　　　　[Сью]^00　↑Ты говоришь так, будто ты мотивировано!^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6488089": {
       "source": "pack02_text_en",
       "file": "str_summary_chara_checkbox.xml",
       "string_no": "6488089",
       "original": "&lt;CLGR&gt;- Let’s give another “Rose Crown of ^00　Adalet” to Mathias.&lt;CLNR&gt;^00　↑We need to make it with real care ^00　　again! You understand?!^00　　　　　　　　　　　　　　　　[Sue]^00　↑Of course I do. Relax. ^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "&lt;CLGR&gt;- Давайте подарим еще одну «Розовую корону ^00　Адалет» Матиасу.&lt;CLNR&gt;^00　↑Нам нужно сделать это с большой осторожностью ^00　　снова! Понимаешь?!^00　　　　　　　　　　　　　　　　[Сью]^00　↑Конечно понимаю. Расслабляться. ^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "&lt;CLGR&gt;- Давайте подарим еще одну «Розовую корону ^00　Адалета» Матиасу.&lt;CLNR&gt;^00　↑Нам нужно сделать это с большой осторожностью ^00　　снова! Понимаешь?!^00　　　　　　　　　　　　　　　　[Сью]^00　↑Конечно понимаю. Расслабляться. ^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6488090": {
       "source": "pack02_text_en",
