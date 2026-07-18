@@ -11,7 +11,7 @@ python3 strings/update_debug_readme.py
 ```
 
 **Summary:** 178 files, 29965 strings;
-MT done: 178/178; manual edits: 1/178.
+MT done: 178/178; manual edits: 2/178.
 
 Statuses are stored in [`translation_status.json`](translation_status.json)
 (`default` applies to files without an explicit entry).
@@ -19,7 +19,7 @@ Statuses are stored in [`translation_status.json`](translation_status.json)
 | Файл | Строк | MT перевод | Ручные правки |
 |------|------:|:----------:|:-------------:|
 | `ebm/mm01.json` | 315 | ✓ | ✓ |
-| `ebm/mm02.json` | 289 | ✓ | — |
+| `ebm/mm02.json` | 289 | ✓ | ✓ |
 | `ebm/mm03.json` | 481 | ✓ | — |
 | `ebm/mm04.json` | 457 | ✓ | — |
 | `ebm/mm05.json` | 390 | ✓ | — |

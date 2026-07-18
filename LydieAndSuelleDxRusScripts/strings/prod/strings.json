@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-18T06:43:32.536916+00:00",
+  "generated_at": "2026-07-18T08:07:30.804021+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -3458,7 +3458,7 @@
       "index": 5,
       "speaker": "Lydie",
       "original": "What! Ah, sorry! What can we help you with?",
-      "translation": "Что! Ах, извините! Чем мы можем вам помочь?"
+      "translation": "Что! Ах, извини! Чем мы можем помочь?"
     },
     "ebm:mm02/event_message_mm02_100.ebm:6": {
       "source": "pack01_ebm",
@@ -3474,7 +3474,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "Yes, this is the way. Are you going to see the sights?",
-      "translation": "Да, верно. Собираетесь осмотреть достопримечательности?"
+      "translation": "Да, верно. Собираешься осмотреть достопримечательности?"
     },
     "ebm:mm02/event_message_mm02_100.ebm:8": {
       "source": "pack01_ebm",
@@ -3490,7 +3490,7 @@
       "index": 9,
       "speaker": "Lydie",
       "original": "Whaaaaat! From the king himself? Just who are you?",
-      "translation": "Чтоооо! Сам король? Кто вы?"
+      "translation": "Чтоооо! Сам король? Кто ты?"
     },
     "ebm:mm02/event_message_mm02_100.ebm:10": {
       "source": "pack01_ebm",
@@ -3554,7 +3554,7 @@
       "index": 17,
       "speaker": "Ilmeria",
       "original": "Getting waylaid by these sisters on the way to the castle, and ending up having to feed them?",
-      "translation": "Тебя подстерегают эти сестры по дороге в замок, и в итоге вам приходится их кормить?"
+      "translation": "Тебя подстерегают эти сестры по дороге в замок, и в итоге приходится их кормить?"
     },
     "ebm:mm02/event_message_mm02_100.ebm:18": {
       "source": "pack01_ebm",
@@ -3562,7 +3562,7 @@
       "index": 18,
       "speaker": "Lydie",
       "original": "Sorry about all that. You really are amazing, though, aren't you Ilmeria!",
-      "translation": "Извините за всё это. Но вы действительно потрясающая, не так ли, Ильмерия!"
+      "translation": "Извини за всё это. Но ты действительно потрясающая, не так ли, Ильмерия!"
     },
     "ebm:mm02/event_message_mm02_100.ebm:19": {
       "source": "pack01_ebm",
@@ -3570,7 +3570,7 @@
       "index": 19,
       "speaker": "Sue",
       "original": "Becoming a certified alchemist at your age, and invited by the king to start an atelier!",
-      "translation": "Стать сертифицированным алхимиком в своем возрасте и получить приглашение от короля открыть ателье!"
+      "translation": "Стать сертифицированным алхимиком в твоём возрасте и получить приглашение от короля открыть ателье!"
     },
     "ebm:mm02/event_message_mm02_100.ebm:20": {
       "source": "pack01_ebm",
@@ -3578,7 +3578,7 @@
       "index": 20,
       "speaker": "Lydie",
       "original": "The exam to get certified is super hard, isn't it? I wish we could be like you!",
-      "translation": "Экзамен на получение сертификата очень сложен, не так ли? Как бы нам хотелось быть такими, как вы!"
+      "translation": "Экзамен на получение сертификата очень сложен, не так ли? Как бы нам хотелось быть такими, как ты!"
     },
     "ebm:mm02/event_message_mm02_100.ebm:21": {
       "source": "pack01_ebm",
@@ -3594,7 +3594,7 @@
       "index": 22,
       "speaker": "Lydie",
       "original": "Hahaha, we can't compare to you, Ilmeria. We just failed our exam.",
-      "translation": "Ха-ха-ха, мы не можем сравниться с вами, Ильмерия. Мы только что провалили экзамен."
+      "translation": "Ха-ха-ха, мы не можем сравниться с тобой, Ильмерия. Мы только что провалили экзамен."
     },
     "ebm:mm02/event_message_mm02_100.ebm:23": {
       "source": "pack01_ebm",
@@ -3634,7 +3634,7 @@
       "index": 27,
       "speaker": "Lydie",
       "original": "Incredible, Ilmeria! You saw through the trick in an instant!",
-      "translation": "Невероятно, Ильмерия! Вы мгновенно раскусили обман!"
+      "translation": "Невероятно, Ильмерия! Ты мгновенно раскусила обман!"
     },
     "ebm:mm02/event_message_mm02_100.ebm:28": {
       "source": "pack01_ebm",
@@ -3650,7 +3650,7 @@
       "index": 29,
       "speaker": "Lydie",
       "original": "You're so cool! Hey, Sue, you know what...",
-      "translation": "Вы просто потрясающая! Эй, Сью, знаешь что..."
+      "translation": "Ты просто потрясающая! Эй, Сью, знаешь что..."
     },
     "ebm:mm02/event_message_mm02_100.ebm:30": {
       "source": "pack01_ebm",
@@ -3666,7 +3666,7 @@
       "index": 31,
       "speaker": "Together",
       "original": "Please become our alchemy teacher!<CR>Please become our alchemy teacher!",
-      "translation": "Пожалуйста, станьте нашим учителем алхимии!<CR>Пожалуйста, станьте нашим учителем алхимии!"
+      "translation": "Пожалуйста, стань нашим учителем алхимии!<CR>Пожалуйста, стань нашим учителем алхимии!"
     },
     "ebm:mm02/event_message_mm02_100.ebm:32": {
       "source": "pack01_ebm",
@@ -3674,7 +3674,7 @@
       "index": 32,
       "speaker": "System",
       "original": "Please become our alchemy teacher!",
-      "translation": "Пожалуйста, станьте нашим учителем алхимии!"
+      "translation": "Пожалуйста, стань нашим учителем алхимии!"
     },
     "ebm:mm02/event_message_mm02_100.ebm:33": {
       "source": "pack01_ebm",
@@ -3714,7 +3714,7 @@
       "index": 37,
       "speaker": "Lydie",
       "original": "But there was no one we could ask... until now! Please, teach us how to be better alchemists!",
-      "translation": "Но нам не кому было задавать вопросы... до сих пор! Пожалуйста, научите нас, как стать лучшими алхимиками!"
+      "translation": "Но нам не кому было задавать вопросы... до сих пор! Пожалуйста, научи нас, как стать лучшими алхимиками!"
     },
     "ebm:mm02/event_message_mm02_100.ebm:38": {
       "source": "pack01_ebm",
@@ -3874,7 +3874,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "We haven't! We want to learn alchemy from you, Ilmeria.",
-      "translation": "Нет! Мы хотим научиться у вас алхимии, Ильмерия."
+      "translation": "Нет! Мы хотим научиться у тебя алхимии, Ильмерия."
     },
     "ebm:mm02/event_message_mm02_120.ebm:2": {
       "source": "pack01_ebm",
@@ -3882,7 +3882,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "Please! Master, teach us all about alchemy!",
-      "translation": "Умоляем! Наставница, научите нас всем секретам алхимии!"
+      "translation": "Умоляем! Наставница, научи нас всем секретам алхимии!"
     },
     "ebm:mm02/event_message_mm02_120.ebm:3": {
       "source": "pack01_ebm",
@@ -3930,7 +3930,7 @@
       "index": 8,
       "speaker": "Sue",
       "original": "What do you mean? Mixing materials in a cauldron to make something, right?",
-      "translation": "Что вы имеете в виду? Смешиваешь материалы в котле, чтобы что-нибудь сделать, верно?"
+      "translation": "Что ты имеетешь в виду? Смешиваешь материалы в котле, чтобы что-нибудь сделать, верно?"
     },
     "ebm:mm02/event_message_mm02_120.ebm:9": {
       "source": "pack01_ebm",
@@ -3978,7 +3978,7 @@
       "index": 14,
       "speaker": "Lydie",
       "original": "Aaah! S-Sue, wake up! Teach, I'm sorry!",
-      "translation": "Ааа! С-Сью, просыпайся! Наставница, простите!"
+      "translation": "Ааа! С-Сью, просыпайся! Наставница, прости!"
     },
     "ebm:mm02/event_message_mm02_120.ebm:15": {
       "source": "pack01_ebm",
@@ -4282,7 +4282,7 @@
       "index": 8,
       "speaker": "System",
       "original": "Talk to the <CLEG>Receptionist Lady<CLNR> next to the Notice Board to complete or cancel quests.",
-      "translation": "Поговорите с <CLEG>Приёмщицей заказов<CLNR> рядом с доской объявлений, чтобы выполнить или отменить квесты."
+      "translation": "Поговорите с <CLEG>Приёмщицей заказов<CLNR> рядом с доской объявлений, чтобы выполнить или отменить задания."
     },
     "ebm:mm02/event_message_mm02_160.ebm:9": {
       "source": "pack01_ebm",
@@ -4290,7 +4290,7 @@
       "index": 9,
       "speaker": "System",
       "original": "<CLR1>Completing requests will earn rewards like money and items! Take on as many as you can!<CLNR>",
-      "translation": "<CLR1>Выполнение запросов принесет награды в виде денег и предметов! Возьмите на себя столько, сколько сможете!<CLNR>"
+      "translation": "<CLR1>Выполнение заданий принесет награды в виде денег и предметов! Беритесь за как можно больше заданий!<CLNR>"
     },
     "ebm:mm02/event_message_mm02_170.ebm:0": {
       "source": "pack01_ebm",
@@ -4306,7 +4306,7 @@
       "index": 1,
       "speaker": "Hagel",
       "original": "That's how I make my living! Off to fight some monsters?",
-      "translation": "Вот как я зарабатываю на жизнь! Собираетесь сражаться с монстрами?"
+      "translation": "Так я зарабатываю на жизнь! Собираетесь сражаться с монстрами?"
     },
     "ebm:mm02/event_message_mm02_170.ebm:2": {
       "source": "pack01_ebm",
@@ -4314,7 +4314,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "That's right! We're going to beat up every single monster we can find!",
-      "translation": "Это верно! Мы собираемся победить каждого монстра, которого сможем найти!"
+      "translation": "Верно! Мы собираемся победить каждого монстра, которого сможем найти!"
     },
     "ebm:mm02/event_message_mm02_170.ebm:3": {
       "source": "pack01_ebm",
@@ -4322,7 +4322,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "Don't get carried away! We just need to be ready to leave the city for some requests, that's all.",
-      "translation": "Не увлекайтесь! Нам просто нужно быть готовыми покинуть город по каким-то просьбам, вот и все."
+      "translation": "Не увлекайся! Нам просто нужно быть готовыми покинуть город ради некоторых заданий, вот и всё."
     },
     "ebm:mm02/event_message_mm02_170.ebm:4": {
       "source": "pack01_ebm",
@@ -4330,7 +4330,7 @@
       "index": 4,
       "speaker": "Hagel",
       "original": "I see. In which case, you're in the right place.",
-      "translation": "Я понимаю. В этом случае вы находитесь в правильном месте."
+      "translation": "Я понимаю. В таком случае вы находитесь в правильном месте."
     },
     "ebm:mm02/event_message_mm02_170.ebm:5": {
       "source": "pack01_ebm",
@@ -4338,7 +4338,7 @@
       "index": 5,
       "speaker": "Hagel",
       "original": "Swords, guns, armor, I've got it all. Standard gear and special orders, all the best quality!",
-      "translation": "Мечи, ружья, доспехи — все это у меня есть. Стандартное снаряжение и специальные заказы, все самого лучшего качества!"
+      "translation": "Мечи, ружья, доспехи — всё это у меня есть. Стандартное снаряжение и специальные заказы, всё самого лучшего качества!"
     },
     "ebm:mm02/event_message_mm02_170.ebm:6": {
       "source": "pack01_ebm",
@@ -4354,7 +4354,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Heh, we've thought up quite a few new recipes. Ilmeria was right, it was worth giving it a try!",
-      "translation": "Хех, мы придумали немало новых рецептов. Ильмерия была права, попробовать стоило!"
+      "translation": "Хех, мы придумали немало новых рецептов. Ильмерия была права, это стоило попробовать!"
     },
     "ebm:mm02/event_message_mm02_180.ebm:1": {
       "source": "pack01_ebm",
@@ -4362,7 +4362,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Looks like it. This should be more than enough. Let's go and show her what we've come up with!",
-      "translation": "Похоже на это. Этого должно быть более чем достаточно. Пойдем и покажем ей, что мы придумали!"
+      "translation": "Похоже на то. Этого должно быть более чем достаточно. Пойдём и покажем ей, что мы придумали!"
     },
     "ebm:mm02/event_message_mm02_190.ebm:0": {
       "source": "pack01_ebm",
@@ -4386,7 +4386,7 @@
       "index": 2,
       "speaker": "Ilmeria",
       "original": "Good. This is a pass! I thought it when watching you synthesize, and this confirms your potential.",
-      "translation": "Хороший. Это пропуск! Я подумал об этом, когда смотрел, как ты синтезируешь, и это подтверждает твой потенциал."
+      "translation": "Отлично. Вы справились! Я ещё во время вашей работы над синтезом заметила, на что вы способны, а сейчас вы это окончательно доказали."
     },
     "ebm:mm02/event_message_mm02_190.ebm:3": {
       "source": "pack01_ebm",
@@ -4394,7 +4394,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "Really? Go on, you can praise us some more!",
-      "translation": "Действительно? Продолжайте, вы можете похвалить нас еще раз!"
+      "translation": "Правда? Продолжай, ты можешь похвалить нас еще раз!"
     },
     "ebm:mm02/event_message_mm02_190.ebm:4": {
       "source": "pack01_ebm",
@@ -4410,7 +4410,7 @@
       "index": 5,
       "speaker": "Ilmeria",
       "original": "You're ready to go to the next step, though. You remember the Dream Paintbrushes, I take it?",
-      "translation": "Однако вы готовы перейти к следующему шагу. Вы помните «Кисти сновидений», я так понимаю?"
+      "translation": "Однако вы готовы перейти к следующему шагу. Полагаю, вы помните Кисти сновидений?"
     },
     "ebm:mm02/event_message_mm02_190.ebm:6": {
       "source": "pack01_ebm",
@@ -4426,7 +4426,7 @@
       "index": 7,
       "speaker": "Ilmeria",
       "original": "I think the two of you are ready, to come up with the correct recipe and synthesize it.",
-      "translation": "Я думаю, вы двое готовы придумать правильный рецепт и синтезировать его."
+      "translation": "Я думаю, вы готовы придумать правильный рецепт и синтезировать его."
     },
     "ebm:mm02/event_message_mm02_190.ebm:8": {
       "source": "pack01_ebm",
@@ -4434,7 +4434,7 @@
       "index": 8,
       "speaker": "Ilmeria",
       "original": "Which leads us to my next test. Make some Dream Paintbrushes and bring them to me!",
-      "translation": "Это подводит нас к следующему тесту. Сделайте несколько Кистей сновидений и принесите их мне!"
+      "translation": "Это подводит вас к следующему тесту. Сделайте несколько Кистей сновидений и принесите их мне!"
     },
     "ebm:mm02/event_message_mm02_190.ebm:9": {
       "source": "pack01_ebm",
@@ -4450,7 +4450,7 @@
       "index": 10,
       "speaker": "Sue",
       "original": "We're not going to! We'll bring you the greatest brushes you've ever seen!",
-      "translation": "Мы не собираемся! Мы подарим вам самые лучшие кисти, которые вы когда-либо видели!"
+      "translation": "Мы не собираемся! Мы подарим тебе самые лучшие кисти, которые ты когда-либо видела!"
     },
     "ebm:mm02/event_message_mm02_190.ebm:11": {
       "source": "pack01_ebm",
@@ -4458,7 +4458,7 @@
       "index": 11,
       "speaker": "Ilmeria",
       "original": "Good. I'll be waiting right here. If you need any help, though, come and ask me.",
-      "translation": "Хороший. Я буду ждать прямо здесь. Но если тебе понадобится помощь, приходи и спроси меня."
+      "translation": "Отлично. Я буду ждать здесь. Но если вам понадобится помощь, приходите и спросите меня."
     },
     "ebm:mm02/event_message_mm02_190.ebm:12": {
       "source": "pack01_ebm",
@@ -4466,7 +4466,7 @@
       "index": 12,
       "speaker": "Ilmeria",
       "original": "So, go get to work. I know you can do it.",
-      "translation": "Итак, иди за работу. Я знаю, что ты можешь это сделать."
+      "translation": "Итак, за работу. Я знаю, что вы можете это сделать."
     },
     "ebm:mm02/event_message_mm02_200.ebm:0": {
       "source": "pack01_ebm",
@@ -4474,7 +4474,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "That's it! I'm sure this recipe can create the perfect Dream Paintbrushes!",
-      "translation": "Вот и все! Я уверен, что с помощью этого рецепта можно создать идеальные Кисти сновидений!"
+      "translation": "Вот и всё! Я уверена, что с помощью этого рецепта можно создать идеальные Кисти сновидений!"
     },
     "ebm:mm02/event_message_mm02_200.ebm:1": {
       "source": "pack01_ebm",
@@ -4482,7 +4482,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Me too! We just have to keep our cool!",
-      "translation": "Я тоже! Нам просто нужно сохранять хладнокровие!"
+      "translation": "Я тоже! Нам просто нужно сохранять спокойствие!"
     },
     "ebm:mm02/event_message_mm02_210.ebm:0": {
       "source": "pack01_ebm",
@@ -4514,7 +4514,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Tad-dah! We've got total confidence in these. Check them out!",
-      "translation": "Тад-да! Мы полностью уверены в них. Проверьте их!"
+      "translation": "Та-да-а-ам! Мы полностью уверены в них. Проверь их!"
     },
     "ebm:mm02/event_message_mm02_220.ebm:2": {
       "source": "pack01_ebm",
@@ -4522,7 +4522,7 @@
       "index": 2,
       "speaker": "Ilmeria",
       "original": "You should. I've got nothing bad to say about this! Well done, both of you!",
-      "translation": "Вам следует. Я не могу сказать по этому поводу ничего плохого! Молодцы вы оба!"
+      "translation": "И правильно. Мне даже придраться не к чему! Отличная работа, вы обе!"
     },
     "ebm:mm02/event_message_mm02_220.ebm:3": {
       "source": "pack01_ebm",
@@ -4530,7 +4530,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "Really? Yes! All that hard work paid off!",
-      "translation": "Действительно? Да! Вся эта тяжелая работа окупилась!"
+      "translation": "Правда? Ура! Вся эта тяжелая работа окупилась!"
     },
     "ebm:mm02/event_message_mm02_220.ebm:4": {
       "source": "pack01_ebm",
@@ -4538,7 +4538,7 @@
       "index": 4,
       "speaker": "Ilmeria",
       "original": "I bet you'll pass the test with this. How about taking it to the castle right away?",
-      "translation": "Могу поспорить, что с этим ты пройдешь тест. Как насчет того, чтобы сразу отнести его в замок?"
+      "translation": "Могу поспорить, что с этим вы пройдёте тест. Как насчет того, чтобы сразу отнести это в замок?"
     },
     "ebm:mm02/event_message_mm02_220.ebm:5": {
       "source": "pack01_ebm",
@@ -4546,7 +4546,7 @@
       "index": 5,
       "speaker": "Sue",
       "original": "I guess we could try. Having failed once, though, I'm a bit worried about trying again.",
-      "translation": "Думаю, мы могли бы попробовать. Однако, потерпев однажды неудачу, я немного беспокоюсь о повторной попытке."
+      "translation": "Думаю, можно. Хотя, поскольку у нас уже была неудача, я немного опасаюсь пробовать снова."
     },
     "ebm:mm02/event_message_mm02_220.ebm:6": {
       "source": "pack01_ebm",
@@ -4554,7 +4554,7 @@
       "index": 6,
       "speaker": "Ilmeria",
       "original": "No need. I'm telling you it will work out. Should I go with you?",
-      "translation": "Незачем. Я говорю вам, что все получится. Мне пойти с тобой?"
+      "translation": "Незачем. Я говорю вам, что всё получится. Мне пойти с вами?"
     },
     "ebm:mm02/event_message_mm02_220.ebm:7": {
       "source": "pack01_ebm",
@@ -4562,7 +4562,7 @@
       "index": 7,
       "speaker": "Ilmeria",
       "original": "If they have a problem with your brushes, they'll answer to me. Does that work for you?",
-      "translation": "Если у них возникнут проблемы с вашими кистями, они мне ответят. Это работает для вас?"
+      "translation": "Если у них возникнут проблемы с вашими кистями, они мне ответят. Это устраивает вас?"
     },
     "ebm:mm02/event_message_mm02_220.ebm:8": {
       "source": "pack01_ebm",
@@ -4578,7 +4578,7 @@
       "index": 9,
       "speaker": "Ilmeria",
       "original": "Very well. Give me a moment to get ready.",
-      "translation": "Очень хорошо. Дай мне минутку, чтобы подготовиться."
+      "translation": "Очень хорошо. Дайте мне минутку, чтобы подготовиться."
     },
     "ebm:mm02/event_message_mm02_230.ebm:0": {
       "source": "pack01_ebm",
@@ -4586,7 +4586,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Mireille. We're ready to take the exam again!",
-      "translation": "Мирей. Мы готовы снова сдавать экзамен!"
+      "translation": "Мирей. Мы готовы снова сдать экзамен!"
     },
     "ebm:mm02/event_message_mm02_230.ebm:1": {
       "source": "pack01_ebm",
@@ -4594,7 +4594,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "We're going to pass this time! Take a look!",
-      "translation": "На этот раз мы пройдем мимо! Взгляните!"
+      "translation": "В этот раз мы пройдём! Посмотри!"
     },
     "ebm:mm02/event_message_mm02_230.ebm:2": {
       "source": "pack01_ebm",
@@ -4610,7 +4610,7 @@
       "index": 3,
       "speaker": "Ilmeria",
       "original": "Maybe. I think you'll find they've made some significant progress.",
-      "translation": "Может быть. Я думаю, вы обнаружите, что они добились значительного прогресса."
+      "translation": "Может быть. Я думаю, ты увидишь, что они добились значительного прогресса."
     },
     "ebm:mm02/event_message_mm02_235.ebm:0": {
       "source": "pack01_ebm",
@@ -4626,7 +4626,7 @@
       "index": 1,
       "speaker": "Mireille",
       "original": "Well done. Most impressive, in fact! I can't fault this at all!",
-      "translation": "Отличная работа. На самом деле, самое впечатляющее! Я вообще не могу в этом винить!"
+      "translation": "Отличная работа. На самом деле, очень впечатляюще! К этому нет никаких претензий!"
     },
     "ebm:mm02/event_message_mm02_235.ebm:2": {
       "source": "pack01_ebm",
@@ -4642,7 +4642,7 @@
       "index": 3,
       "speaker": "Mireille",
       "original": "That's barely a pass. You just scraped over the line. You'll need to try harder next time!",
-      "translation": "Это едва ли проходной балл. Вы просто перешли черту. В следующий раз вам придется постараться больше!"
+      "translation": "Это едва проходной балл. Вы еле-еле преодолели планку. В следующий раз вам придется стараться больше!"
     },
     "ebm:mm02/event_message_mm02_235.ebm:4": {
       "source": "pack01_ebm",
@@ -4650,7 +4650,7 @@
       "index": 4,
       "speaker": "Mireille",
       "original": "Sorry, this is no good. I can't let you pass based on this.",
-      "translation": "Извините, это бесполезно. Я не могу позволить тебе пройти из-за этого."
+      "translation": "Извините, это неприемлемо. Я не могу вам зачесть это."
     },
     "ebm:mm02/event_message_mm02_240.ebm:0": {
       "source": "pack01_ebm",
@@ -4658,7 +4658,7 @@
       "index": 0,
       "speaker": "Mireille",
       "original": "Wow. I'm impressed with your progress, and in such a short period of time...",
-      "translation": "Ух ты. Я впечатлен вашим прогрессом, и за такой короткий период времени..."
+      "translation": "Ух ты. Я впечатлена вашим прогрессом, и за такой короткий период времени..."
     },
     "ebm:mm02/event_message_mm02_240.ebm:1": {
       "source": "pack01_ebm",
@@ -4666,7 +4666,7 @@
       "index": 1,
       "speaker": "Mireille",
       "original": "Both of you, you've passed! Welcome to the Atelier Ranking System!",
-      "translation": "Вы оба, вы прошли! Добро пожаловать в Систему рангов ателье!"
+      "translation": "Вы обе, вы прошли! Добро пожаловать в Систему рангов ателье!"
     },
     "ebm:mm02/event_message_mm02_240.ebm:2": {
       "source": "pack01_ebm",
@@ -4674,7 +4674,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "Yes! We did it, Lydie!",
-      "translation": "Да! Мы сделали это, Лиди!"
+      "translation": "Ура! Мы сделали это, Лиди!"
     },
     "ebm:mm02/event_message_mm02_240.ebm:3": {
       "source": "pack01_ebm",
@@ -4682,7 +4682,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "Awesome! V for victory! This is all thanks to you, Ilmeria!",
-      "translation": "Потрясающий! V за победу! И все это благодаря тебе, Ильмерия!"
+      "translation": "Потрясающе! Мы прошли! И всё это благодаря тебе, Ильмерия!"
     },
     "ebm:mm02/event_message_mm02_240.ebm:4": {
       "source": "pack01_ebm",
@@ -4698,7 +4698,7 @@
       "index": 5,
       "speaker": "Mireille",
       "original": "I'm impressed, Ilmeria. You're already getting involved with teaching.",
-      "translation": "Я впечатлен, Ильмерия. Вы уже занимаетесь преподаванием."
+      "translation": "Я впечатлена, Ильмерия. Ты уже занимаешься преподаванием."
     },
     "ebm:mm02/event_message_mm02_240.ebm:6": {
       "source": "pack01_ebm",
@@ -4706,7 +4706,7 @@
       "index": 6,
       "speaker": "Mireille",
       "original": "Inviting you here to join us as an alchemist of C Rank was definitely the right move.",
-      "translation": "Пригласить вас присоединиться к нам в качестве алхимика ранга C было определенно правильным шагом."
+      "translation": "Пригласить тебя присоединиться к нам в качестве алхимика ранга C было определенно правильным шагом."
     },
     "ebm:mm02/event_message_mm02_240.ebm:7": {
       "source": "pack01_ebm",
@@ -4714,7 +4714,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "C Rank? What does that mean? What are we right now?",
-      "translation": "ранг С? Что это значит? Что мы сейчас имеем?"
+      "translation": "Ранг С? Что это значит? И какой ранг у нас сейчас?"
     },
     "ebm:mm02/event_message_mm02_240.ebm:8": {
       "source": "pack01_ebm",
@@ -4722,7 +4722,7 @@
       "index": 8,
       "speaker": "Mireille",
       "original": "You two are the lowest, \"Unranked\". We have S, A through G, and then the Unranked, for a total of 9 ranks.",
-      "translation": "Вы двое самые низкие, «без ранга». У нас есть S, A–G, а затем без ранга, всего 9 рангов."
+      "translation": "У вас самый низкий ранг, «без ранга». Всего у нас девять рангов. Высший — S, затем идут от A до G, а в самом низу — те, кто без ранга."
     },
     "ebm:mm02/event_message_mm02_240.ebm:9": {
       "source": "pack01_ebm",
@@ -4730,7 +4730,7 @@
       "index": 9,
       "speaker": "Lydie",
       "original": "Which means C rank is... fourth from the top? But didn't the Ranking System only just start?",
-      "translation": "Это значит, что ранг C... четвёртый сверху? Но разве Система рангов ателье не зародилась только сейчас?"
+      "translation": "Это значит, что ранг C... четвёртый сверху? Но разве Система рангов ателье не зародилась недавно?"
     },
     "ebm:mm02/event_message_mm02_240.ebm:10": {
       "source": "pack01_ebm",
@@ -4738,7 +4738,7 @@
       "index": 10,
       "speaker": "Mireille",
       "original": "Indeed it did. That's how good Ilmeria is. You've found a good mentor, girls.",
-      "translation": "Действительно, так оно и было. Вот насколько хороша Ильмерия. Девочки, вы нашли хорошего наставника."
+      "translation": "Действительно, так оно и есть. Вот насколько хороша Ильмерия. Девочки, вы нашли хорошую наставницу."
     },
     "ebm:mm02/event_message_mm02_240.ebm:11": {
       "source": "pack01_ebm",
@@ -4746,7 +4746,7 @@
       "index": 11,
       "speaker": "Ilmeria",
       "original": "Hehe! It goes without saying that I'm something special, but this pair shows promise too.",
-      "translation": "Хе-хе! Само собой разумеется, что я особенный, но эта пара тоже многообещающая."
+      "translation": "Хе-хе! Само собой разумеется, что я особенная, но эта пара многообещающая."
     },
     "ebm:mm02/event_message_mm02_240.ebm:12": {
       "source": "pack01_ebm",
@@ -4770,7 +4770,7 @@
       "index": 14,
       "speaker": "Together",
       "original": "That's right!",
-      "translation": "Это верно!"
+      "translation": "Совершенно верно!"
     },
     "ebm:mm02/event_message_mm02_240.ebm:15": {
       "source": "pack01_ebm",
@@ -4778,7 +4778,7 @@
       "index": 15,
       "speaker": "System",
       "original": "That's right!",
-      "translation": "Это верно!"
+      "translation": "Совершенно верно!"
     },
     "ebm:mm02/event_message_mm02_240.ebm:16": {
       "source": "pack01_ebm",
@@ -4794,7 +4794,7 @@
       "index": 0,
       "speaker": "???",
       "original": "Thank you so much! I'll do my very best!",
-      "translation": "Большое спасибо! Я сделаю все возможное!"
+      "translation": "Большое спасибо! Я сделаю всё возможное!"
     },
     "ebm:mm02/event_message_mm02_250.ebm:1": {
       "source": "pack01_ebm",
@@ -4802,7 +4802,7 @@
       "index": 1,
       "speaker": "???",
       "original": "Uwah, that surprised me! Do you think all this is really going to work?",
-      "translation": "Увау, это меня удивило! Как вы думаете, все это действительно сработает?"
+      "translation": "О боже, это меня удивило! Как ты думаешь, всё это действительно сработает?"
     },
     "ebm:mm02/event_message_mm02_250.ebm:2": {
       "source": "pack01_ebm",
@@ -4810,7 +4810,7 @@
       "index": 2,
       "speaker": "Mireille",
       "original": "Who knows? It's all going well so far, though! The system is gathering lots of powerful alchemists.",
-      "translation": "Кто знает? Хотя пока все идет хорошо! Система собирает множество могущественных алхимиков."
+      "translation": "Кто знает? Хотя пока всё идет хорошо! Система собирает множество могущественных алхимиков."
     },
     "ebm:mm02/event_message_mm02_250.ebm:3": {
       "source": "pack01_ebm",
@@ -4834,7 +4834,7 @@
       "index": 5,
       "speaker": "???",
       "original": "You said it. Did I mention making that face makes you look really evil, though?",
-      "translation": "Ты сказал это. Я уже упоминал, что из-за такого лица ты выглядишь по-настоящему злым?"
+      "translation": "Ты сказала это. Я уже упоминал, что с таким лицом ты выглядишь по-настоящему злой?"
     },
     "ebm:mm02/event_message_mm02_250.ebm:6": {
       "source": "pack01_ebm",
