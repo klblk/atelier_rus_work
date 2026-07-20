@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-18T15:21:32.304799+00:00",
+  "generated_at": "2026-07-20T08:45:10.680898+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -3018,7 +3018,7 @@
       "index": 14,
       "speaker": "Mireille",
       "original": "Very well. Nice to meet you. Twins, aren't you? Lucia already told me a bit about you actually.",
-      "translation": "Очень хорошо. Рада встрече. Близнецы, не так ли? Люсия уже рассказала мне кое-что о вас."
+      "translation": "Очень хорошо. Рада встрече. Вы ведь близняшки, верно? Люсия уже рассказала мне кое-что о вас."
     },
     "ebm:mm02/event_message_mm02_040.ebm:15": {
       "source": "pack01_ebm",
@@ -4818,7 +4818,7 @@
       "index": 3,
       "speaker": "Mireille",
       "original": "Those twins, too. They are going to grow fast, now that they've got Ilmeria on their side.",
-      "translation": "Те близнецы тоже. Теперь, когда на их стороне Ильмерия, они будут быстро расти."
+      "translation": "Да и эти близняшки тоже... Теперь, когда Ильмерия на их стороне, они будут расти не по дням, а по часам"
     },
     "ebm:mm02/event_message_mm02_250.ebm:4": {
       "source": "pack01_ebm",
@@ -83698,7 +83698,7 @@
       "index": 6,
       "speaker": "Grace",
       "original": "Anyway. Look forward to the show, girls.",
-      "translation": "В любом случае. Девочки, ждите с нетерпением шоу!"
+      "translation": "В любом случае. Девочки, ждите с нетерпением представление!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_060.ebm:7": {
       "source": "pack01_ebm",
@@ -84538,7 +84538,7 @@
       "index": 9,
       "speaker": "Drossel",
       "original": "You always chew others out for getting lost, Dad! So you shouldn't be doing it yourself!",
-      "translation": "Папа, ты всегда ругаешь других за то, что они заблудились! Так что не стоит делать это самостоятельно!"
+      "translation": "Папа, ты всегда ругаешь других за то, что они заблудились! Так что тебе самому не стоит этого делать!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_110.ebm:10": {
       "source": "pack01_ebm",
@@ -84562,7 +84562,7 @@
       "index": 14,
       "speaker": "Grace",
       "original": "It's been... a while.",
-      "translation": "Прошло... некоторое время."
+      "translation": "Прошло... немало времени."
     },
     "ebm:qc10_gra/event_message_qc10_gra_110.ebm:15": {
       "source": "pack01_ebm",
@@ -84570,7 +84570,7 @@
       "index": 15,
       "speaker": "Sue",
       "original": "What's this? You all know each other?",
-      "translation": "Что это? Вы все друг друга знаете?"
+      "translation": "Что такое? Вы все друг друга знаете?"
     },
     "ebm:qc10_gra/event_message_qc10_gra_110.ebm:16": {
       "source": "pack01_ebm",
@@ -84602,7 +84602,7 @@
       "index": 19,
       "speaker": "Grace",
       "original": "I'm sorry, but can you please get ready? It's almost time for us to be starting.",
-      "translation": "Извините, но не могли бы вы подготовиться? Нам почти пора начинать."
+      "translation": "Извините, но не могли бы вы подготовиться? Нам уже почти пора начинать."
     },
     "ebm:qc10_gra/event_message_qc10_gra_110.ebm:20": {
       "source": "pack01_ebm",
@@ -84610,7 +84610,7 @@
       "index": 20,
       "speaker": "Fritz",
       "original": "S-Sure.",
-      "translation": "С-Конечно."
+      "translation": "Конечно."
     },
     "ebm:qc10_gra/event_message_qc10_gra_110.ebm:21": {
       "source": "pack01_ebm",
@@ -84674,7 +84674,7 @@
       "index": 29,
       "speaker": "Drossel",
       "original": "Yes, she is. The mother who left us... well, no, that's not fair. We drove her away...",
-      "translation": "Да она. Мать, которая нас бросила... ну нет, это несправедливо. Мы ее прогнали..."
+      "translation": "Да она. Мама, которая нас бросила... ну нет, это несправедливо. Мы ее прогнали..."
     },
     "ebm:qc10_gra/event_message_qc10_gra_110.ebm:30": {
       "source": "pack01_ebm",
@@ -84690,7 +84690,7 @@
       "index": 31,
       "speaker": "Fritz",
       "original": "Well, it's true. We were so wrapped up in our puppets, we ignored her.",
-      "translation": "Что ж, это правда. Мы были настолько поглощены своими марионетками, что игнорировали ее."
+      "translation": "Что ж, это правда. Мы были настолько поглощены своими куклами, что игнорировали ее."
     },
     "ebm:qc10_gra/event_message_qc10_gra_110.ebm:32": {
       "source": "pack01_ebm",
@@ -84698,7 +84698,7 @@
       "index": 32,
       "speaker": "Fritz",
       "original": "We've been working to perfect the ultimate puppet show in order to explain our feelings to her...",
-      "translation": "Мы работали над совершенствованием идеального кукольного спектакля, чтобы объяснить ей наши чувства..."
+      "translation": "Мы работали над созданием идеального кукольного спектакля, чтобы объяснить ей наши чувства..."
     },
     "ebm:qc10_gra/event_message_qc10_gra_110.ebm:33": {
       "source": "pack01_ebm",
@@ -84706,7 +84706,7 @@
       "index": 33,
       "speaker": "Drossel",
       "original": "But having seen her again, I'm not sure we can... She's living a pretty full life, now, isn't she?",
-      "translation": "Но, увидев ее снова, я не уверен, что мы сможем... Она теперь живет довольно полноценной жизнью, не так ли?"
+      "translation": "Но, увидев ее снова, я не уверена, что мы сможем... Она теперь живет довольно полноценной жизнью, не так ли?"
     },
     "ebm:qc10_gra/event_message_qc10_gra_110.ebm:34": {
       "source": "pack01_ebm",
@@ -84722,7 +84722,7 @@
       "index": 35,
       "speaker": "Pamela",
       "original": "Ah! Your payment! You've forgotten your payment!",
-      "translation": "Ах! Ваша оплата! Вы забыли свой платеж!"
+      "translation": "Ах! Ваша оплата! Вы забыли оплату!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_110.ebm:36": {
       "source": "pack01_ebm",
@@ -84770,7 +84770,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "Unhappy? You mentioned something like that before. But what do you mean?",
-      "translation": "Несчастный? Вы уже упоминали нечто подобное. Но что вы имеете в виду?"
+      "translation": "Несчастными? Ты уже упоминала нечто подобное. Но что ты имеешь в виду?"
     },
     "ebm:qc10_gra/event_message_qc10_gra_120.ebm:5": {
       "source": "pack01_ebm",
@@ -84778,7 +84778,7 @@
       "index": 5,
       "speaker": "Grace",
       "original": "The two of them have suffered so much, all because I left them.",
-      "translation": "Они двое так сильно пострадали, и все потому, что я оставил их."
+      "translation": "Они двое так сильно пострадали, и всё потому, что я оставила их."
     },
     "ebm:qc10_gra/event_message_qc10_gra_120.ebm:6": {
       "source": "pack01_ebm",
@@ -84786,7 +84786,7 @@
       "index": 6,
       "speaker": "Grace",
       "original": "Fritz and Drossel always looked so happy, talking about their puppets, with me on the sidelines.",
-      "translation": "Фриц и Дроссель всегда выглядели такими счастливыми, разговаривая о своих марионетках, а я был в стороне."
+      "translation": "Фриц и Дроссель всегда выглядели такими счастливыми, разговаривая о своих куклах, а я была в стороне."
     },
     "ebm:qc10_gra/event_message_qc10_gra_120.ebm:7": {
       "source": "pack01_ebm",
@@ -84794,7 +84794,7 @@
       "index": 7,
       "speaker": "Grace",
       "original": "That made me so lonely, and so sad, that I just couldn't bear it anymore...",
-      "translation": "Это сделало меня таким одиноким и таким грустным, что я просто не мог больше этого выносить..."
+      "translation": "Это сделало меня такой одинокой и грустной, что я просто не могла больше этого выносить..."
     },
     "ebm:qc10_gra/event_message_qc10_gra_120.ebm:8": {
       "source": "pack01_ebm",
@@ -84802,7 +84802,7 @@
       "index": 8,
       "speaker": "Grace",
       "original": "Honestly, thinking back on it now, I was just being bitter...",
-      "translation": "Честно говоря, вспоминая об этом сейчас, мне было просто горько..."
+      "translation": "Честно говоря, сейчас, оглядываясь назад, я понимаю, что просто была озлоблена..."
     },
     "ebm:qc10_gra/event_message_qc10_gra_120.ebm:9": {
       "source": "pack01_ebm",
@@ -84818,7 +84818,7 @@
       "index": 10,
       "speaker": "Grace",
       "original": "I'm glad to see them looking so happy now, though. That's all I can ask for. Praise God!",
-      "translation": "Однако я рад видеть, что они сейчас выглядят такими счастливыми. Это все, о чем я могу просить. Слава Богу!"
+      "translation": "Однако я рада видеть, что они сейчас такие счастливые. Это всё, о чем я могу желать. Слава Богу!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_120.ebm:11": {
       "source": "pack01_ebm",
@@ -84834,7 +84834,7 @@
       "index": 12,
       "speaker": "Grace",
       "original": "After all this time? Impossible. I wouldn't even know what to say to them.",
-      "translation": "После всего этого времени? Невозможный. Я даже не знал, что им сказать."
+      "translation": "Спустя столько времени? Невозможно. Я даже не знаю, что им сказать"
     },
     "ebm:qc10_gra/event_message_qc10_gra_120.ebm:13": {
       "source": "pack01_ebm",
@@ -84842,7 +84842,7 @@
       "index": 13,
       "speaker": "Grace",
       "original": "Will you please give them both a message from me? Tell them to be happy.",
-      "translation": "Не могли бы вы передать им обоим мое сообщение? Скажите им, чтобы они были счастливы."
+      "translation": "Не могли бы вы передать им обоим моё сообщение? Скажите им, чтобы они были счастливы."
     },
     "ebm:qc10_gra/event_message_qc10_gra_130.ebm:0": {
       "source": "pack01_ebm",
@@ -84850,7 +84850,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Hey, Sue... What do you think about Sister Grace and her situation?",
-      "translation": "Привет, Сью... Что ты думаешь о Сестре Грейс и ее ситуации?"
+      "translation": "Эй, Сью... Что ты думаешь о Сестре Грейс и её ситуации?"
     },
     "ebm:qc10_gra/event_message_qc10_gra_130.ebm:1": {
       "source": "pack01_ebm",
@@ -84874,7 +84874,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "I know. They want to make up! But they can't get past all of that history...",
-      "translation": "Я знаю. Они хотят помириться! Но они не могут пройти мимо всей этой истории..."
+      "translation": "Я знаю. Они хотят помириться! Но они не могут оставить позади эту историю..."
     },
     "ebm:qc10_gra/event_message_qc10_gra_130.ebm:4": {
       "source": "pack01_ebm",
@@ -84882,7 +84882,7 @@
       "index": 4,
       "speaker": "Lydie",
       "original": "It seems like they haven't seen each other for a long time. They don't know what to do.",
-      "translation": "Кажется, они давно не виделись. Они не знают, что делать."
+      "translation": "Похоже, они давно не виделись. Они не знают, что делать."
     },
     "ebm:qc10_gra/event_message_qc10_gra_130.ebm:5": {
       "source": "pack01_ebm",
@@ -84890,7 +84890,7 @@
       "index": 5,
       "speaker": "Sue",
       "original": "But it's so simple! All they need to do is say \"I'm sorry\"! Share their feelings!",
-      "translation": "Но это так просто! Все, что им нужно сделать, это сказать «Мне очень жаль»! Поделитесь своими чувствами!"
+      "translation": "Но это так просто! Всё, что им нужно сделать, это сказать «Мне очень жаль»! Поделиться своими чувствами!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_130.ebm:6": {
       "source": "pack01_ebm",
@@ -84898,7 +84898,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "Yep, that's all. They just need something to trigger the whole thing.",
-      "translation": "Да, это все. Им просто нужно что-то, что спровоцирует все это."
+      "translation": "Ага, это всё. Им просто нужен импульс, что запустит весь этот процесс."
     },
     "ebm:qc10_gra/event_message_qc10_gra_130.ebm:7": {
       "source": "pack01_ebm",
@@ -84906,7 +84906,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "Hmm, a trigger... I think there's only one possible choice, right?",
-      "translation": "Хм, спусковой крючок... Думаю, есть только один вариант, верно?"
+      "translation": "Хм, импульс... Думаю, есть только один вариант, верно?"
     },
     "ebm:qc10_gra/event_message_qc10_gra_130.ebm:8": {
       "source": "pack01_ebm",
@@ -84914,7 +84914,7 @@
       "index": 8,
       "speaker": "Lydie",
       "original": "I bet we're thinking the same thing! The only thing that can possibly bring them back together!",
-      "translation": "Могу поспорить, мы думаем об одном и том же! Единственное, что может вернуть их вместе!"
+      "translation": "Могу поспорить, мы думаем об одном и том же! Единственное, что может снова свести их вместе!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_130.ebm:9": {
       "source": "pack01_ebm",
@@ -84938,7 +84938,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "It'll probably be faster to persuade Mr. Fritz. He was hoping to use the show to win her back, after all.",
-      "translation": "Вероятно, так будет быстрее убедить мистера Фрица. В конце концов, он надеялся использовать шоу, чтобы вернуть ее."
+      "translation": "Вероятно, будет быстрее убедить мистера Фрица. В конце концов, он надеялся использовать спектакль, чтобы вернуть её."
     },
     "ebm:qc10_gra/event_message_qc10_gra_130.ebm:12": {
       "source": "pack01_ebm",
@@ -84962,7 +84962,7 @@
       "index": 1,
       "speaker": "Drossel",
       "original": "What's up? What's the panic?",
-      "translation": "Как дела? Какая паника?"
+      "translation": "Как дела? Что за паника?"
     },
     "ebm:qc10_gra/event_message_qc10_gra_140.ebm:2": {
       "source": "pack01_ebm",
@@ -84986,7 +84986,7 @@
       "index": 4,
       "speaker": "Drossel",
       "original": "What? Where's this coming from?",
-      "translation": "Что? Откуда это?"
+      "translation": "Что? Откуда это взялось?"
     },
     "ebm:qc10_gra/event_message_qc10_gra_140.ebm:5": {
       "source": "pack01_ebm",
@@ -84994,7 +84994,7 @@
       "index": 5,
       "speaker": "Sue",
       "original": "You need to put on a puppet show. To help you get back together with Sister Grace!",
-      "translation": "Вам нужно поставить кукольный спектакль. Чтобы помочь вам снова быть вместе с Сестрой Грейс!"
+      "translation": "Вам нужно поставить кукольный спектакль. Это поможет вам снова быть вместе с Сестрой Грейс!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_140.ebm:6": {
       "source": "pack01_ebm",
@@ -85002,7 +85002,7 @@
       "index": 6,
       "speaker": "Fritz",
       "original": "Look, I appreciate the idea...",
-      "translation": "Слушай, я ценю эту идею..."
+      "translation": "Слушайте, я ценю эту идею..."
     },
     "ebm:qc10_gra/event_message_qc10_gra_140.ebm:7": {
       "source": "pack01_ebm",
@@ -85018,7 +85018,7 @@
       "index": 8,
       "speaker": "Drossel",
       "original": "That's right. We don't have the right to damage the happiness she has made for herself.",
-      "translation": "Это верно. Мы не имеем права портить то счастье, которое она себе создала."
+      "translation": "Верно. Мы не имеем права портить то счастье, которое она себе создала."
     },
     "ebm:qc10_gra/event_message_qc10_gra_140.ebm:9": {
       "source": "pack01_ebm",
@@ -85026,7 +85026,7 @@
       "index": 9,
       "speaker": "Drossel",
       "original": "So, I'm sorry, but we can't. Sorry if you thought up any ideas.",
-      "translation": "Так что извини, но мы не можем. Извините, если у вас возникли какие-либо идеи."
+      "translation": "Так что извините, но мы не можем. Извините, если у вас возникли какие-либо идеи."
     },
     "ebm:qc10_gra/event_message_qc10_gra_140.ebm:10": {
       "source": "pack01_ebm",
@@ -85042,7 +85042,7 @@
       "index": 11,
       "speaker": "Fritz",
       "original": "What? She said that?",
-      "translation": "Что? Она это сказала?"
+      "translation": "Что? Она так сказала?"
     },
     "ebm:qc10_gra/event_message_qc10_gra_140.ebm:12": {
       "source": "pack01_ebm",
@@ -85050,7 +85050,7 @@
       "index": 12,
       "speaker": "Sue",
       "original": "And you two said that Sister Grace leaving you was your own fault, right?",
-      "translation": "И вы двое сказали, что Сестра Грейс оставила вас по своей вине, верно?"
+      "translation": "И вы двое сказали, что Сестра Грейс оставила вас по вашей вине, верно?"
     },
     "ebm:qc10_gra/event_message_qc10_gra_140.ebm:13": {
       "source": "pack01_ebm",
@@ -85074,7 +85074,7 @@
       "index": 15,
       "speaker": "Lydie",
       "original": "You don't know how long your family will be around. Eventually, a true parting will come...",
-      "translation": "Вы не знаете, как долго ваша семья будет рядом. В конце концов, наступит настоящее расставание..."
+      "translation": "Вы не знаете, как долго ваша семья будет рядом. В конце концов, может наступить настоящее расставание..."
     },
     "ebm:qc10_gra/event_message_qc10_gra_140.ebm:16": {
       "source": "pack01_ebm",
@@ -85082,7 +85082,7 @@
       "index": 16,
       "speaker": "Lydie",
       "original": "That's why I think, if you can be together, you should! While you can!",
-      "translation": "Вот почему я думаю, если вы можете быть вместе, то вам следует! Пока можешь!"
+      "translation": "Вот почему я думаю, если вы можете быть вместе, то сделайте это! Пока можете!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_140.ebm:17": {
       "source": "pack01_ebm",
@@ -85098,7 +85098,7 @@
       "index": 18,
       "speaker": "Lydie",
       "original": "In which case, don't think about it too much! Just try and make up!",
-      "translation": "В этом случае не думайте об этом слишком много! Просто попробуй помириться!"
+      "translation": "В этом случае не думайте об этом слишком много! Просто попробуйте помириться!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_140.ebm:19": {
       "source": "pack01_ebm",
@@ -85114,7 +85114,7 @@
       "index": 20,
       "speaker": "Drossel",
       "original": "Of course... Because of your mother...",
-      "translation": "Конечно... Из-за твоей матери..."
+      "translation": "Конечно... Из-за вашей мамы..."
     },
     "ebm:qc10_gra/event_message_qc10_gra_140.ebm:21": {
       "source": "pack01_ebm",
@@ -85138,7 +85138,7 @@
       "index": 23,
       "speaker": "Drossel",
       "original": "And make up with mom! Thank you, girls. You've given us the wake-up call we needed.",
-      "translation": "И помириться с мамой! Спасибо, девочки. Вы дали нам тревожный сигнал, который нам был нужен."
+      "translation": "И помириться с мамой! Спасибо, девочки. Вы дали нам сигнал, который нам был нужен."
     },
     "ebm:qc10_gra/event_message_qc10_gra_140.ebm:24": {
       "source": "pack01_ebm",
@@ -85146,7 +85146,7 @@
       "index": 24,
       "speaker": "Sue",
       "original": "Great!",
-      "translation": "Большой!"
+      "translation": "Прекрасно!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_140.ebm:25": {
       "source": "pack01_ebm",
@@ -85178,7 +85178,7 @@
       "index": 28,
       "speaker": "Sue",
       "original": "Leave it to us! I'm sure Pamela can help us sort something out.",
-      "translation": "Оставьте это нам! Я уверен, что Памела поможет нам во всем разобраться."
+      "translation": "Оставьте это нам! Я уверен, что Памела поможет нам во всём разобраться."
     },
     "ebm:qc10_gra/event_message_qc10_gra_140.ebm:29": {
       "source": "pack01_ebm",
@@ -85186,7 +85186,7 @@
       "index": 29,
       "speaker": "Lydie",
       "original": "Hmm. In which case, let's make this reuniting show a success!",
-      "translation": "Хм. В таком случае, давайте сделаем это шоу воссоединения успешным!"
+      "translation": "Хм. В таком случае, давайте сделаем это представление воссоединения успешным!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_140.ebm:30": {
       "source": "pack01_ebm",
@@ -85210,7 +85210,7 @@
       "index": 0,
       "speaker": "Sue",
       "original": "Pamela! There's something we'd like to discuss, if you have a moment?",
-      "translation": "Памела! Мы хотели бы кое-что обсудить, если у вас есть минутка?"
+      "translation": "Памела! Мы хотели бы кое-что обсудить, если у тебя есть минутка?"
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:1": {
       "source": "pack01_ebm",
@@ -85218,7 +85218,7 @@
       "index": 1,
       "speaker": "Pamela",
       "original": "Yes, what is it? Some mischief? A surprise attack? Hehe, I can't wait!",
-      "translation": "Да, что это такое? Какая-то шалость? Внезапное нападение? Хе-хе, я не могу дождаться!"
+      "translation": "Так, что тут у нас? Очередная шалость? Нападение из засады? Хе-хе, жду не дождусь!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:2": {
       "source": "pack01_ebm",
@@ -85226,7 +85226,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "Hehehe, you're almost right...",
-      "translation": "Хе-хе-хе, ты почти прав..."
+      "translation": "Хе-хе-хе, ты почти права..."
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:3": {
       "source": "pack01_ebm",
@@ -85234,7 +85234,7 @@
       "index": 3,
       "speaker": "Pamela",
       "original": "I see. I'll help however I can, then!",
-      "translation": "Я понимаю. Тогда я помогу, чем смогу!"
+      "translation": "Понятно. Тогда я помогу, чем смогу!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:4": {
       "source": "pack01_ebm",
@@ -85242,7 +85242,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "Great! Thank you, Pamela! Now we need to think up an actual plan!",
-      "translation": "Большой! Спасибо, Памела! Теперь нам нужно придумать реальный план!"
+      "translation": "Замечательно! Спасибо, Памела! Теперь нам нужно придумать реальный план!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:5": {
       "source": "pack01_ebm",
@@ -85250,7 +85250,7 @@
       "index": 5,
       "speaker": "Pamela",
       "original": "Right. How about we dress it up like a normal church gathering?",
-      "translation": "Верно. Как насчет того, чтобы оформить это как обычное церковное собрание?"
+      "translation": "Верно. Как насчет того, чтобы провести это как обычное церковное собрание?"
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:6": {
       "source": "pack01_ebm",
@@ -85258,7 +85258,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "Hey, that's a good idea... We'll tell her that we want to organize one ourselves!",
-      "translation": "Эй, это хорошая идея... Мы скажем ей, что хотим организовать такое сами!"
+      "translation": "Эй, это хорошая идея... Мы скажем ей, что хотим организовать его сами!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:7": {
       "source": "pack01_ebm",
@@ -85274,7 +85274,7 @@
       "index": 8,
       "speaker": "Sue",
       "original": "Great! This will knock her socks off!",
-      "translation": "Большой! Это сбивает ее с толку!"
+      "translation": "Отлично! Это её просто поразит!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:9": {
       "source": "pack01_ebm",
@@ -85282,7 +85282,7 @@
       "index": 9,
       "speaker": "Grace",
       "original": "Knock who's socks off? Mine? Sue, are you planning something?",
-      "translation": "Сбить кого с ума? Мой? Сью, ты что-то планируешь?"
+      "translation": "Кого поразит? Меня? Сью, ты что-то планируешь?"
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:10": {
       "source": "pack01_ebm",
@@ -85290,7 +85290,7 @@
       "index": 10,
       "speaker": "Sue",
       "original": "Kyaaah! S-S-Sister Grace! I'm not planning anything!",
-      "translation": "Кьяаа! С-С-Сестра Грейс! Я ничего не планирую!"
+      "translation": "Ой! С-С-Сестра Грейс! Я ничего не планирую!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:11": {
       "source": "pack01_ebm",
@@ -85298,7 +85298,7 @@
       "index": 11,
       "speaker": "Pamela",
       "original": "Girls, it's do or die! Just follow my lead here.",
-      "translation": "Девочки, сделай или умри! Просто следуйте моему примеру."
+      "translation": "Девочки, это вопрос жизни и смерти! Просто следуйте моему примеру."
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:12": {
       "source": "pack01_ebm",
@@ -85306,7 +85306,7 @@
       "index": 12,
       "speaker": "Pamela",
       "original": "It can't be helped, if you've overheard us. The twins want to hold a church gathering.",
-      "translation": "Ничего не поделаешь, если ты нас подслушал. Близнецы хотят провести церковное собрание."
+      "translation": "Что ж поделать, раз уж ты нас подслушала. Близняшки хотят провести церковное собрание"
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:13": {
       "source": "pack01_ebm",
@@ -85322,7 +85322,7 @@
       "index": 14,
       "speaker": "Sue",
       "original": "So we wanted to give you a break and let you enjoy yourself once in a while.",
-      "translation": "Поэтому мы хотели дать вам передышку и позволить вам время от времени развлекаться."
+      "translation": "Вот мы и хотели, чтобы ты немного отдохнула и хоть изредка могла развлечься в своё удовольствие"
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:15": {
       "source": "pack01_ebm",
@@ -85330,7 +85330,7 @@
       "index": 15,
       "speaker": "Grace",
       "original": "Is that so? Well, there's no need to keep that a secret!",
-      "translation": "Это так? Ну, не надо держать это в секрете!"
+      "translation": "Неужели? Что ж, нет необходимости держать это в секрете!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:16": {
       "source": "pack01_ebm",
@@ -85346,7 +85346,7 @@
       "index": 17,
       "speaker": "Lydie",
       "original": "Great! Thank you, Sister Grace!",
-      "translation": "Большой! Спасибо, Сестра Грейс!"
+      "translation": "Отлично! Спасибо, Сестра Грейс!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:18": {
       "source": "pack01_ebm",
@@ -85354,7 +85354,7 @@
       "index": 18,
       "speaker": "Grace",
       "original": "Not at all. I'm looking forward to it already.",
-      "translation": "Нисколько. Я уже с нетерпением жду этого."
+      "translation": "Не за что. Я уже с нетерпением жду этого."
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:19": {
       "source": "pack01_ebm",
@@ -85362,7 +85362,7 @@
       "index": 19,
       "speaker": "Sue",
       "original": "Good, good. Now we've secured the venue.",
-      "translation": "Хорошо, хорошо. Теперь мы обеспечили место проведения."
+      "translation": "Хорошо, хорошо. Теперь мы обеспечили себе место проведения."
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:20": {
       "source": "pack01_ebm",
@@ -85370,7 +85370,7 @@
       "index": 20,
       "speaker": "Lydie",
       "original": "Nice. Now we just have to wait for Mr. Fritz to be ready.",
-      "translation": "Хороший. Теперь нам остается только ждать, пока мистер Фриц будет готов."
+      "translation": "Отлично. Теперь нам остается только ждать, пока мистер Фриц не будет готов."
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:21": {
       "source": "pack01_ebm",
@@ -85378,7 +85378,7 @@
       "index": 21,
       "speaker": "Grace",
       "original": "One thing, twins... Have you decided what it is you want to do?",
-      "translation": "Еще одно, близнецы... Вы уже решили, чем хотите заниматься?"
+      "translation": "Еще одно, близняшки... Вы уже решили, что будете делать?"
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:22": {
       "source": "pack01_ebm",
@@ -85394,7 +85394,7 @@
       "index": 23,
       "speaker": "Pamela",
       "original": "Ready for this? They're going to do a comedy routine!",
-      "translation": "Готовы к этому? Они собираются показать комедийный номер!"
+      "translation": "Готова? Они собираются показать комедийный номер!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:24": {
       "source": "pack01_ebm",
@@ -85402,7 +85402,7 @@
       "index": 24,
       "speaker": "Grace",
       "original": "Oh, that sounds hilarious! I can't wait to see it.",
-      "translation": "О, это звучит забавно! Не могу дождаться, чтобы увидеть это."
+      "translation": "О, звучит забавно! Не могу дождаться, чтобы увидеть это."
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:25": {
       "source": "pack01_ebm",
@@ -85418,7 +85418,7 @@
       "index": 26,
       "speaker": "Lydie",
       "original": "\"On my soul it is!\" Hahaha!",
-      "translation": "«На душе это так!» Ха-ха-ха!"
+      "translation": "«Век соли не видать, она самая!» Ха-ха-ха!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:27": {
       "source": "pack01_ebm",
@@ -85434,7 +85434,7 @@
       "index": 28,
       "speaker": "Sue",
       "original": "Phew, it worked somehow... Thank you so much, Pamela.",
-      "translation": "Уф, как-то сработало... Огромное спасибо, Памела."
+      "translation": "Уф, это как-то сработало... Огромное спасибо, Памела."
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:29": {
       "source": "pack01_ebm",
@@ -85442,7 +85442,7 @@
       "index": 29,
       "speaker": "Pamela",
       "original": "Hehe, no problem. One thing, though...",
-      "translation": "Хе-хе, без проблем. Однако одно..."
+      "translation": "Хе-хе, без проблем. Однако ещё кое-что..."
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:30": {
       "source": "pack01_ebm",
@@ -85450,7 +85450,7 @@
       "index": 30,
       "speaker": "Pamela",
       "original": "You're going to need to work on your joke material.",
-      "translation": "Вам нужно будет поработать над шуточным материалом."
+      "translation": "Вам нужно будет поработать над шутками."
     },
     "ebm:qc10_gra/event_message_qc10_gra_150.ebm:31": {
       "source": "pack01_ebm",
@@ -85458,7 +85458,7 @@
       "index": 31,
       "speaker": "Lydie",
       "original": "Uwah, no need to rub it in... I'm really embarrassed already!",
-      "translation": "Ух, не надо втирать... Мне уже очень неловко!"
+      "translation": "О-о-ох, не сыпь соль на рану... Мне и так уже жутко неловко!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:0": {
       "source": "pack01_ebm",
@@ -85474,7 +85474,7 @@
       "index": 1,
       "speaker": "Fritz",
       "original": "Hahaha! We've made the ultimate puppets, and the ultimate script!",
-      "translation": "Ха-ха-ха! Мы создали идеальных марионеток и лучший сценарий!"
+      "translation": "Ха-ха-ха! Мы создали идеальных кукол и лучший сценарий!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:2": {
       "source": "pack01_ebm",
@@ -85482,7 +85482,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "Really? Great! We've got the venue ready.",
-      "translation": "Действительно? Большой! Мы подготовили площадку."
+      "translation": "Правда? Отлично! Мы подготовили площадку."
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:3": {
       "source": "pack01_ebm",
@@ -85490,7 +85490,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "It might be a bit sudden, then, but let's do the show tomorrow! The sooner the better!",
-      "translation": "Тогда это может быть немного неожиданно, но давайте устроим шоу завтра! Чем скорее, тем лучше!"
+      "translation": "Тогда это может быть немного неожиданно, но давайте устроим спектакль завтра! Чем скорее, тем лучше!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:4": {
       "source": "pack01_ebm",
@@ -85498,7 +85498,7 @@
       "index": 4,
       "speaker": "Drossel",
       "original": "Well said. Tomorrow it is!",
-      "translation": "Хорошо сказано. Завтра это будет!"
+      "translation": "Хорошо сказано. Это будет завтра!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:5": {
       "source": "pack01_ebm",
@@ -85506,7 +85506,7 @@
       "index": 5,
       "speaker": "Fritz",
       "original": "You should be looking forward to it as well, girls. Part of it is based on you!",
-      "translation": "Вам тоже стоит этого ждать, девочки. Частично это зависит от вас!"
+      "translation": "Девочки, вам тоже стоит этого ждать с нетерпением. Отчасти это зависит от вас!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:6": {
       "source": "pack01_ebm",
@@ -85538,7 +85538,7 @@
       "index": 9,
       "speaker": "Lydie",
       "original": "Right, Sue. Are you ready?",
-      "translation": "Верно, Сью. Вы готовы?"
+      "translation": "Верно, Сью. Ты готова?"
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:10": {
       "source": "pack01_ebm",
@@ -85546,7 +85546,7 @@
       "index": 10,
       "speaker": "Sue",
       "original": "Perfect! Off we go!",
-      "translation": "Идеальный! Поехали!"
+      "translation": "Идеально! Пошли!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:11": {
       "source": "pack01_ebm",
@@ -85554,7 +85554,7 @@
       "index": 11,
       "speaker": "Grace",
       "original": "Ah, hello girls. I've been waiting for you.",
-      "translation": "Ой, здравствуйте, девочки. Я ждал тебя."
+      "translation": "Ой, здравствуйте, девочки. Я ждала вас."
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:12": {
       "source": "pack01_ebm",
@@ -85562,7 +85562,7 @@
       "index": 12,
       "speaker": "Lydie",
       "original": "Ah, Sister Grace. Sorry for all the rush.",
-      "translation": "Ах, Сестра Грейс. Извините за спешку."
+      "translation": "Ах, Сестра Грейс. Извини за спешку."
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:13": {
       "source": "pack01_ebm",
@@ -85578,7 +85578,7 @@
       "index": 14,
       "speaker": "Pamela",
       "original": "Hehehe! Good luck with your comedy routine!",
-      "translation": "Хе-хе-хе! Удачи вам в ваших комедийных программах!"
+      "translation": "Хе-хе-хе! Удачи вам в ваших комедийных номерах!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:15": {
       "source": "pack01_ebm",
@@ -85594,7 +85594,7 @@
       "index": 16,
       "speaker": "Lydie",
       "original": "Gentlemen and girls! Boys and ladies! Welcome, everyone!",
-      "translation": "Господа и девушки! Мальчики и дамы! Добро пожаловать всем!"
+      "translation": "Господа и девочки! Мальчики и дамы! Добро пожаловать!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:17": {
       "source": "pack01_ebm",
@@ -85602,7 +85602,7 @@
       "index": 17,
       "speaker": "Sue",
       "original": "Calm down... ahem! We're here to thrill you with our comedy, but first!",
-      "translation": "Успокойся... хм! Мы здесь, чтобы порадовать вас нашей комедией, но сначала!"
+      "translation": "Соберись... хм! Мы здесь, чтобы порадовать вас нашей комедией, но сначала!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:18": {
       "source": "pack01_ebm",
@@ -85610,7 +85610,7 @@
       "index": 18,
       "speaker": "Sue",
       "original": "We've called in two special guests! Here we go!",
-      "translation": "Мы пригласили двух специальных гостей! Вот так!"
+      "translation": "Мы пригласили двух специальных гостей! Вот они!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:19": {
       "source": "pack01_ebm",
@@ -85634,7 +85634,7 @@
       "index": 21,
       "speaker": "Fritz",
       "original": "We've been called in by our hosts to put on a show for you today!",
-      "translation": "Ведущие пригласили нас устроить сегодня для вас шоу!"
+      "translation": "Ведущие пригласили нас устроить сегодня для вас спектакль!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:22": {
       "source": "pack01_ebm",
@@ -85650,7 +85650,7 @@
       "index": 24,
       "speaker": "Sue",
       "original": "Without further ado, then, let's get started! Take it away!",
-      "translation": "Итак, без лишних слов, приступим! Уберите это!"
+      "translation": "Итак, без лишних слов, приступим! Начинаем!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:25": {
       "source": "pack01_ebm",
@@ -85674,7 +85674,7 @@
       "index": 27,
       "speaker": "Drossel",
       "original": "And then, two twins, living together as they keep their promises to their departed mother.",
-      "translation": "А затем два близнеца, живущие вместе и выполняющие свои обещания, данные ушедшей матери."
+      "translation": "А затем две близняшки, живущие вместе и выполняющие свои обещания, данные ушедшей матери."
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:28": {
       "source": "pack01_ebm",
@@ -85682,7 +85682,7 @@
       "index": 28,
       "speaker": "Drossel",
       "original": "The footsteps of home, in which they tread. The endless dream, for which they aim!",
-      "translation": "Следы дома, по которым они идут. Бесконечная мечта, к которой они стремятся!"
+      "translation": "Путь к родному дому, по которому они идут. Бесконечная мечта, к которой они стремятся!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:29": {
       "source": "pack01_ebm",
@@ -85690,7 +85690,7 @@
       "index": 29,
       "speaker": "Drossel",
       "original": "Do not blink, for fear of what you'll miss! This is our ultimate tale. Its name-",
-      "translation": "Не моргайте, боясь того, что вы пропустите! Это наша последняя история. Его название-"
+      "translation": "Не моргайте, иначе вы пропустите! Это наша главная история. Ее название..."
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:30": {
       "source": "pack01_ebm",
@@ -85698,7 +85698,7 @@
       "index": 30,
       "speaker": "Drossel",
       "original": "\"The Mysterious, Mysterious Story\"!",
-      "translation": "«Таинственная, загадочная история»!"
+      "translation": "«Таинственная-претаинственная история»!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:31": {
       "source": "pack01_ebm",
@@ -85706,7 +85706,7 @@
       "index": 31,
       "speaker": "Sue",
       "original": "Ah! I'm exhausted! We had to do our comedy routine in the end, too!",
-      "translation": "Ах! Я изможден! В конце концов, нам тоже пришлось сыграть нашу комедийную программу!"
+      "translation": "Ах! Я измождена! В конце концов, нам тоже пришлось сыграть нашу комедийную программу!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:32": {
       "source": "pack01_ebm",
@@ -85722,7 +85722,7 @@
       "index": 33,
       "speaker": "Grace",
       "original": "It was good, I'll admit, but you did make one mistake!",
-      "translation": "Это было хорошо, я признаю, но ты допустил одну ошибку!"
+      "translation": "Признаю, получилось неплохо, но ты допустил одну ошибку!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:34": {
       "source": "pack01_ebm",
@@ -85730,7 +85730,7 @@
       "index": 34,
       "speaker": "Fritz",
       "original": "What! I didn't think anyone would notice. I can't believe you saw that!",
-      "translation": "Что! Я не думал, что кто-то заметит. Я не могу поверить, что ты это видел!"
+      "translation": "Что! Я не думал, что кто-то заметит. Я не могу поверить, что ты это видела!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:35": {
       "source": "pack01_ebm",
@@ -85738,7 +85738,7 @@
       "index": 35,
       "speaker": "Drossel",
       "original": "I saw it too, actually, although I just covered for it.",
-      "translation": "Я тоже это видел, хотя просто прикрыл это."
+      "translation": "Я тоже это видела, хотя просто прикрыла это."
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:36": {
       "source": "pack01_ebm",
@@ -85746,7 +85746,7 @@
       "index": 36,
       "speaker": "Grace",
       "original": "Haha, you're still not quite there yet. Your adlibbing was so obvious!",
-      "translation": "Хаха, ты еще не совсем там. Ваша импровизация была настолько очевидна!"
+      "translation": "Ха-ха, ты тоже ещё не достигла вершины. Твоя импровизация была слишком очевидной!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:37": {
       "source": "pack01_ebm",
@@ -85754,7 +85754,7 @@
       "index": 37,
       "speaker": "Drossel",
       "original": "Gah! As strict as ever, Mom...",
-      "translation": "Га! Как всегда строгая, мама..."
+      "translation": "Ох, ты строга как всегда, мам..."
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:38": {
       "source": "pack01_ebm",
@@ -85762,7 +85762,7 @@
       "index": 38,
       "speaker": "Grace",
       "original": "Only because my love of puppet theater is as strong as your own!",
-      "translation": "Только потому, что моя любовь к кукольному театру такая же сильная, как и ваша!"
+      "translation": "Только потому, что моя любовь к кукольному театру такая же сильна, как и ваша!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:39": {
       "source": "pack01_ebm",
@@ -85778,7 +85778,7 @@
       "index": 40,
       "speaker": "Sue",
       "original": "Yeah. We need to go and practice our routine!",
-      "translation": "Ага. Нам нужно пойти и попрактиковаться в нашей рутине!"
+      "translation": "Ага. Нам нужно пойти и попрактиковать наше выступление!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_160.ebm:41": {
       "source": "pack01_ebm",
@@ -85802,7 +85802,7 @@
       "index": 1,
       "speaker": "Drossel",
       "original": "Come on, Mom! Where shall we go next?",
-      "translation": "Давай, мама! Куда мы пойдем дальше?"
+      "translation": "Ну же, мам! Куда пойдём дальше?"
     },
     "ebm:qc10_gra/event_message_qc10_gra_170.ebm:2": {
       "source": "pack01_ebm",
@@ -85810,7 +85810,7 @@
       "index": 2,
       "speaker": "Grace",
       "original": "Hmm, let me think... There's a delicious cake place nearby!",
-      "translation": "Хм, дай подумать... Рядом вкусная кондитерская!"
+      "translation": "Хм, дайте-ка подумать... Неподалёку есть место, где подают вкусные торты!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_170.ebm:3": {
       "source": "pack01_ebm",
@@ -85818,7 +85818,7 @@
       "index": 3,
       "speaker": "Fritz",
       "original": "Cake? I'm getting a bit too old for sweet things.",
-      "translation": "Торт? Я уже слишком стар для сладкого."
+      "translation": "Торты? Я уже, пожалуй, староват для сладкого."
     },
     "ebm:qc10_gra/event_message_qc10_gra_170.ebm:4": {
       "source": "pack01_ebm",
@@ -85826,7 +85826,7 @@
       "index": 4,
       "speaker": "Drossel",
       "original": "Ah, don't worry! I'll eat your piece, Dad!",
-      "translation": "Ах, не волнуйтесь! Я съем твой кусок, пап!"
+      "translation": "А, да ты не переживай, пап! Я съем твой кусок, пап!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_170.ebm:5": {
       "source": "pack01_ebm",
@@ -85834,7 +85834,7 @@
       "index": 5,
       "speaker": "Grace",
       "original": "Hold on, what about me? You can just pay, darling!",
-      "translation": "Подожди, а что насчет меня? Ты можешь просто заплатить, дорогая!"
+      "translation": "Погодите-ка, а как же я? Дорогой, ты можешь просто за всё заплатить!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_170.ebm:6": {
       "source": "pack01_ebm",
@@ -85842,7 +85842,7 @@
       "index": 6,
       "speaker": "Fritz",
       "original": "W-What! You leave me no choice but to eat it, then!",
-      "translation": "Ч-что! Тогда ты не оставляешь мне другого выбора, кроме как съесть это!"
+      "translation": "Ч-что?! Ну уж нет, тогда мне ничего не остаётся, кроме как съесть его самому!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_170.ebm:7": {
       "source": "pack01_ebm",
@@ -85850,7 +85850,7 @@
       "index": 7,
       "speaker": "Drossel",
       "original": "Hahaha! Grin and bear it, Dad! Come on, to the cake shop!",
-      "translation": "Ха-ха-ха! Улыбнись и терпи, папа! Пойдем в кондитерскую!"
+      "translation": "Ха-ха-ха! Терпи, папуля, обратного пути нет! Вперёд, навстречу тортикам!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_170.ebm:8": {
       "source": "pack01_ebm",
@@ -85858,7 +85858,7 @@
       "index": 8,
       "speaker": "Fritz",
       "original": "Hey! Don't go running off on your own! You'll just get lost. Hey!",
-      "translation": "Привет! Не убегайте в одиночку! Вы просто потеряетесь. Привет!"
+      "translation": "Эй! Не смей убегать одна! Ты же снова заблудишься! Эй, постой!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_170.ebm:9": {
       "source": "pack01_ebm",
@@ -85866,7 +85866,7 @@
       "index": 9,
       "speaker": "Grace",
       "original": "Oh dear. She still can't tell where she is going, can she? Don't leave me behind, please!",
-      "translation": "О, Боже. Она до сих пор не может сказать, куда идет, не так ли? Не оставляй меня, пожалуйста!"
+      "translation": "Ох, боже мой. Она до сих пор совершенно не ориентируется на местности, верно? Подождите меня, пожалуйста, не бросайте!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_170.ebm:10": {
       "source": "pack01_ebm",
@@ -85874,7 +85874,7 @@
       "index": 10,
       "speaker": "Sue",
       "original": "Hahaha! It looks like the three of them have completely made up.",
-      "translation": "Ха-ха-ха! Похоже, все трое полностью помирились."
+      "translation": "Ха-ха-ха! Похоже, все трое помирились."
     },
     "ebm:qc10_gra/event_message_qc10_gra_170.ebm:11": {
       "source": "pack01_ebm",
@@ -85882,7 +85882,7 @@
       "index": 11,
       "speaker": "Lydie",
       "original": "Yeah! They look so happy, I'm glad.",
-      "translation": "Ага! Они выглядят такими счастливыми, я рад."
+      "translation": "Ага! Они выглядят такими счастливыми, я рада."
     },
     "ebm:qc10_gra/event_message_qc10_gra_180.ebm:0": {
       "source": "pack01_ebm",
@@ -85890,7 +85890,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Sister Grace, hello! Sorry, but we saw you!",
-      "translation": "Сестра Грейс, здравствуйте! Извините, но мы вас видели!"
+      "translation": "Сестра Грейс, здравствуй! Извини, но мы тебя видели!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_180.ebm:1": {
       "source": "pack01_ebm",
@@ -85898,7 +85898,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "You were out with your family, and looked really happy!",
-      "translation": "Вы были с семьей и выглядели очень счастливыми!"
+      "translation": "Ты была с семьей и выглядела очень счастливой!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_180.ebm:2": {
       "source": "pack01_ebm",
@@ -85906,7 +85906,7 @@
       "index": 2,
       "speaker": "Grace",
       "original": "Girls, you should have said something!",
-      "translation": "Девочки, надо было что-нибудь сказать!"
+      "translation": "Девочки, вам следовало что-нибудь сказать!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_180.ebm:3": {
       "source": "pack01_ebm",
@@ -85914,7 +85914,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "Hehe, I don't think I've ever seen you look so happy.",
-      "translation": "Хе-хе, мне кажется, я никогда не видел тебя таким счастливым."
+      "translation": "Хе-хе, мне кажется, я никогда не видела тебя такой счастливой."
     },
     "ebm:qc10_gra/event_message_qc10_gra_180.ebm:4": {
       "source": "pack01_ebm",
@@ -85922,7 +85922,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "It was more fun to just watch, than to speak up and ruin the moment.",
-      "translation": "Было веселее просто смотреть, чем высказаться и испортить момент."
+      "translation": "Было гораздо приятнее просто наблюдать, чем вмешиваться и портить момент."
     },
     "ebm:qc10_gra/event_message_qc10_gra_180.ebm:5": {
       "source": "pack01_ebm",
@@ -85930,7 +85930,7 @@
       "index": 5,
       "speaker": "Grace",
       "original": "Hehe. I think you need some punishment for your sneakiness. A spanking, perhaps?",
-      "translation": "Хе-хе. Я думаю, тебе нужно какое-то наказание за твою подлость. Может быть, порка?"
+      "translation": "Хе-хе. Думаю, тебя нужно наказать за твою хитрость. Может быть, порка?"
     },
     "ebm:qc10_gra/event_message_qc10_gra_180.ebm:6": {
       "source": "pack01_ebm",
@@ -85938,7 +85938,7 @@
       "index": 6,
       "speaker": "Sue",
       "original": "What?! No, I was just joking. We just didn't want to disturb you! I'm too old for a spanking!",
-      "translation": "Что?! Нет, я просто пошутил. Мы просто не хотели вас беспокоить! Я слишком стар для порки!"
+      "translation": "Что?! Нет, я просто пошутила. Мы просто не хотели вас беспокоить! Я уже взрослая для порки!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_180.ebm:7": {
       "source": "pack01_ebm",
@@ -85946,7 +85946,7 @@
       "index": 7,
       "speaker": "Grace",
       "original": "Hehe, I'll forgive you just this once. I got back something very special to me, thanks to you.",
-      "translation": "Хе-хе, я прощу тебя только один раз. Благодаря тебе я получил нечто особенное для меня."
+      "translation": "Хе-хе, я прощу вас на этот раз. Благодаря вам я получила обратно нечто очень ценное для меня."
     },
     "ebm:qc10_gra/event_message_qc10_gra_180.ebm:8": {
       "source": "pack01_ebm",
@@ -85962,7 +85962,7 @@
       "index": 9,
       "speaker": "Grace",
       "original": "I haven't spent time like that in more than a decade. It was so satisfying!",
-      "translation": "Я не проводил время так уже больше десяти лет. Это было так приятно!"
+      "translation": "Я не проводила время так уже больше десяти лет. Это было так приятно!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_180.ebm:10": {
       "source": "pack01_ebm",
@@ -85994,7 +85994,7 @@
       "index": 13,
       "speaker": "Sue",
       "original": "I'm sad, too, though... Now we won't be able to call you \"Sister\" any more!",
-      "translation": "Хотя мне тоже грустно... Теперь мы больше не сможем называть тебя «Сестричка»!"
+      "translation": "Хотя мне грустно... Теперь мы больше не сможем называть тебя «Сестра»!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_180.ebm:14": {
       "source": "pack01_ebm",
@@ -86002,7 +86002,7 @@
       "index": 14,
       "speaker": "Lydie",
       "original": "Right, of course... You'll be living as Grace the puppeteer now, won't you...",
-      "translation": "Верно, конечно... Ты теперь будешь жить как кукольница Грейс, не так ли..."
+      "translation": "Да, конечно… Значит, отныне ты будешь жить как Грейс, мастер кукол?"
     },
     "ebm:qc10_gra/event_message_qc10_gra_180.ebm:15": {
       "source": "pack01_ebm",
@@ -86010,7 +86010,7 @@
       "index": 15,
       "speaker": "Grace",
       "original": "No? I'm going to carry on living here as a nun.",
-      "translation": "Нет? Я собираюсь продолжать жить здесь как монахиня."
+      "translation": "Нет. Я собираюсь продолжать жить здесь как монахиня."
     },
     "ebm:qc10_gra/event_message_qc10_gra_180.ebm:16": {
       "source": "pack01_ebm",
@@ -86026,7 +86026,7 @@
       "index": 17,
       "speaker": "Lydie",
       "original": "Uwah! So you'll still be Sister Grace! But I wanted to see your puppet show again!",
-      "translation": "Ува! Значит, ты все равно останешься Сестрой Грейс! Но мне хотелось еще раз посмотреть ваш кукольный спектакль!"
+      "translation": "Ух! Значит, ты все равно останешься Сестрой Грейс! Но мне хотелось еще раз посмотреть твой кукольный спектакль!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_180.ebm:18": {
       "source": "pack01_ebm",
@@ -86034,7 +86034,7 @@
       "index": 18,
       "speaker": "Grace",
       "original": "Don't worry about that. I'll put one on during the next church gathering.",
-      "translation": "Не беспокойтесь об этом. Я надену один на следующем церковном собрании."
+      "translation": "Не беспокойтесь об этом. Я сделаю ещё спектакль на следующем церковном собрании."
     },
     "ebm:qc10_gra/event_message_qc10_gra_180.ebm:19": {
       "source": "pack01_ebm",
@@ -86042,7 +86042,7 @@
       "index": 19,
       "speaker": "Sue",
       "original": "Great! Haha! What will it be this time? Romance? Tragedy? I can't wait!",
-      "translation": "Большой! Хаха! Что будет на этот раз? Романтика? Трагедия? Я не могу дождаться!"
+      "translation": "Прекрасно! Ха-ха! Что будет на этот раз? Романтика? Трагедия? Я не могу дождаться!"
     },
     "ebm:qc10_gra/event_message_qc10_gra_180.ebm:20": {
       "source": "pack01_ebm",
@@ -86058,7 +86058,7 @@
       "index": 21,
       "speaker": "Ines",
       "original": "I-I'm sorry. I said a bit too much.",
-      "translation": "Я-мне жаль. Я сказал слишком много."
+      "translation": "Мне жаль. Я сказала лишнего."
     },
     "ebm:qc10_gra/event_message_qc10_gra_180.ebm:22": {
       "source": "pack01_ebm",
@@ -86066,7 +86066,7 @@
       "index": 22,
       "speaker": "Grace",
       "original": "What are you doing, dear? Honestly. I'm coming, I'm coming.",
-      "translation": "Что ты делаешь, дорогой? Честно. Я иду, я иду."
+      "translation": "Что ты сделала, дорогая? Честное слово. Я иду, иду."
     },
     "ebm:qc10_gra/event_message_qc10_gra_180.ebm:23": {
       "source": "pack01_ebm",
@@ -86074,7 +86074,7 @@
       "index": 23,
       "speaker": "Grace",
       "original": "You heard them, girls. My mediation skills are needed. I will see you later.",
-      "translation": "Вы их слышали, девочки. Мои посреднические навыки необходимы. Увидимся позже."
+      "translation": "Вы их слышали, девочки. Нужны мои посреднические навыки. Увидимся позже."
     },
     "ebm:qc10_gra/event_message_qc10_gra_180.ebm:24": {
       "source": "pack01_ebm",
