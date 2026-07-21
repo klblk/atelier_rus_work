@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-21T06:39:29.196791+00:00",
+  "generated_at": "2026-07-21T07:18:53.847799+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -46706,7 +46706,7 @@
       "index": 13,
       "speaker": "Sue",
       "original": "I call it... The Battle Mix!",
-      "translation": "Я называю это... Боевой синтез!"
+      "translation": "Я назову это... Боевой синтез!"
     },
     "ebm:ms04/event_message_ms04_010.ebm:14": {
       "source": "pack01_ebm",
@@ -46730,7 +46730,7 @@
       "index": 16,
       "speaker": "Sue",
       "original": "I know, right? It also takes up so much less room than all those bombs and medicine!",
-      "translation": "Я точно знаю? А еще он занимает гораздо меньше места, чем все эти бомбы и лекарства!"
+      "translation": "Да, правда? И занимает гораздо меньше места, чем все эти бомбы и лекартва!"
     },
     "ebm:ms04/event_message_ms04_010.ebm:17": {
       "source": "pack01_ebm",
@@ -46738,7 +46738,7 @@
       "index": 17,
       "speaker": "Sue",
       "original": "Viva la survival on location!",
-      "translation": "Вива ля выживание на локации!"
+      "translation": "Вива ла выживание в полевых условиях!"
     },
     "ebm:ms04/event_message_ms04_010.ebm:18": {
       "source": "pack01_ebm",
@@ -46746,7 +46746,7 @@
       "index": 18,
       "speaker": "Lydie",
       "original": "Hahaha, I don't think you're using a lot of those words in the right way, Sue.",
-      "translation": "Ха-ха-ха, я не думаю, что ты используешь многие из этих слов правильно, Сью."
+      "translation": "Ха-ха-ха, что-то мне кажется, Сью, что ты используешь эти слова совершенно неправильно"
     },
     "ebm:ms04/event_message_ms04_010.ebm:19": {
       "source": "pack01_ebm",
@@ -46778,7 +46778,7 @@
       "index": 22,
       "speaker": "System",
       "original": "It consumes materials and Archeus Anima to let you synthesize and use special items in battle.",
-      "translation": "Он потребляет материалы и Аркеус-анима, чтобы вы могли синтезировать и использовать специальные предметы в бою."
+      "translation": "Он потребляет материалы и Аркеус-анимы, чтобы вы могли синтезировать и использовать специальные предметы в бою."
     },
     "ebm:ms04/event_message_ms04_010.ebm:23": {
       "source": "pack01_ebm",
@@ -46810,7 +46810,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "What's the deal, staring at that Anima? No! You've been thinking how it looks like sweet candy...",
-      "translation": "В чем дело, смотреть на эту Аниму? Нет! Вы думали, как это похоже на сладкую конфету..."
+      "translation": "Что такое, ты пялишься на эту Аниму? Нет! Ты думала, что она похожа на сладкую конфету..."
     },
     "ebm:ms04/event_message_ms04_020.ebm:2": {
       "source": "pack01_ebm",
@@ -46818,7 +46818,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "No, Sue, I'm not you. I'm just wondering if there's another way we could use this too.",
-      "translation": "Нет, Сью, я не ты. Мне просто интересно, есть ли другой способ использовать это тоже."
+      "translation": "Нет, Сью, я не ты. Мне просто интересно, есть ли другой способ использовать их."
     },
     "ebm:ms04/event_message_ms04_020.ebm:3": {
       "source": "pack01_ebm",
@@ -46826,7 +46826,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "I'll pretend I didn't hear that attack on my good name. Other way, like what?",
-      "translation": "Сделаю вид, что не слышал этих нападок на мое доброе имя. Другой путь, например, что?"
+      "translation": "Сделаю вид, что не слышала этих нападок на мое доброе имя. Другой способ, например, что?"
     },
     "ebm:ms04/event_message_ms04_020.ebm:4": {
       "source": "pack01_ebm",
@@ -46842,7 +46842,7 @@
       "index": 5,
       "speaker": "Sue",
       "original": "I see. That sounds like a good idea! Like, we're truly reaching the secret arts of alchemy!",
-      "translation": "Я понимаю. Это звучит как хорошая идея! Мол, мы действительно приближаемся к тайному искусству алхимии!"
+      "translation": "Я понимаю. Это звучит как хорошая идея! Мы действительно приближаемся к тайным искусствам алхимии!"
     },
     "ebm:ms04/event_message_ms04_020.ebm:6": {
       "source": "pack01_ebm",
@@ -46850,7 +46850,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "I know, right? I think it will work.",
-      "translation": "Я точно знаю? Я думаю, это сработает."
+      "translation": "Точно-точно! Я думаю, это сработает."
     },
     "ebm:ms04/event_message_ms04_020.ebm:7": {
       "source": "pack01_ebm",
@@ -46866,7 +46866,7 @@
       "index": 8,
       "speaker": "Sue",
       "original": "You need to be willing give things a try, without worrying about messing up.",
-      "translation": "Вы должны быть готовы попробовать что-то, не беспокоясь о том, что что-то испортите."
+      "translation": "Нужно быть готовым пробовать новое, не боясь при этом ошибиться."
     },
     "ebm:ms04/event_message_ms04_020.ebm:9": {
       "source": "pack01_ebm",
@@ -46882,7 +46882,7 @@
       "index": 10,
       "speaker": "System",
       "original": "<CLEG>[Tutorial] ~Extra Mix~<CLNR>",
-      "translation": "<CLEG>[Урок] ~Дополнительный микс~<CLNR>"
+      "translation": "<CLEG>[Урок] ~Дополнительный синтез~<CLNR>"
     },
     "ebm:ms04/event_message_ms04_020.ebm:11": {
       "source": "pack01_ebm",
@@ -46890,7 +46890,7 @@
       "index": 11,
       "speaker": "System",
       "original": "You can now use <CLEG>Extra Mix<CLNR>!",
-      "translation": "Теперь вы можете использовать <CLEG>Extra Mix<CLNR>!"
+      "translation": "Теперь вы можете использовать <CLEG>Дополнительный синтез<CLNR>!"
     },
     "ebm:ms04/event_message_ms04_020.ebm:12": {
       "source": "pack01_ebm",
@@ -46898,7 +46898,7 @@
       "index": 12,
       "speaker": "System",
       "original": "Combining existing items with Archeus Anima will increase their potency.",
-      "translation": "Объединение существующих предметов с Аркеус-анима увеличит их эффективность."
+      "translation": "Объединение существующих предметов с Аркеус-анимами увеличит их эффективность."
     },
     "ebm:ms04/event_message_ms04_020.ebm:13": {
       "source": "pack01_ebm",
@@ -46906,7 +46906,7 @@
       "index": 13,
       "speaker": "System",
       "original": "The volume of the increase depends on the amount of Archeus Anima used.",
-      "translation": "Объем прибавки зависит от количества использованного Аркеус-анима."
+      "translation": "Объем прибавки зависит от количества использованного Аркеус-аним."
     },
     "ebm:ms04/event_message_ms04_020.ebm:14": {
       "source": "pack01_ebm",
@@ -46914,7 +46914,7 @@
       "index": 14,
       "speaker": "System",
       "original": "As with Battle Mix, Extra Mix requires that certain conditions first be fulfilled.",
-      "translation": "Как и в случае с Боевым синтезом, Extra Mix требует сначала выполнения определенных условий."
+      "translation": "Как и в случае с Боевым синтезом, Дополнительный синтез требует сначала выполнения определенных условий."
     },
     "ebm:ms04/event_message_ms04_020.ebm:15": {
       "source": "pack01_ebm",
@@ -124773,7 +124773,7 @@
       "file": "str_btl_define.xml",
       "string_no": "20447285",
       "original": "Extra Mix",
-      "translation": "Экстра Микс"
+      "translation": "Дополнительный синтез"
     },
     "pack02:20447286": {
       "source": "pack02_text_en",
@@ -124808,7 +124808,7 @@
       "file": "str_btl_define.xml",
       "string_no": "20447292",
       "original": "Extra Mix - Enhance &lt;STR1&gt;",
-      "translation": "Дополнительный микс — улучшение &lt;STR1&gt;"
+      "translation": "Дополнительный синтез — улучшение &lt;STR1&gt;"
     },
     "pack02:20447293": {
       "source": "pack02_text_en",
@@ -136988,7 +136988,7 @@
       "file": "str_dlc_title_ps.xml",
       "string_no": "52625473",
       "original": "・&quot;Battle Mix Secret Teachings&quot;",
-      "translation": "・&quot;Тайные учения Боевого синтеза&quot;"
+      "translation": "・&quot;Battle Mix Secret Teachings&quot;"
     },
     "pack02:52756481": {
       "source": "pack02_text_en",
@@ -137338,7 +137338,7 @@
       "file": "str_dlc_title_steam.xml",
       "string_no": "52756545",
       "original": "・&quot;Battle Mix Secret Teachings&quot;",
-      "translation": "・&quot;Тайные учения Боевого синтеза&quot;"
+      "translation": "・&quot;Battle Mix Secret Teachings&quot;"
     },
     "pack02:52690945": {
       "source": "pack02_text_en",
@@ -137688,7 +137688,7 @@
       "file": "str_dlc_title_switch.xml",
       "string_no": "52691009",
       "original": "・&quot;Battle Mix Secret Teachings&quot;",
-      "translation": "・&quot;Тайные учения Боевого синтеза&quot;"
+      "translation": "・&quot;Battle Mix Secret Teachings&quot;"
     },
     "pack02:262145": {
       "source": "pack02_text_en",
@@ -181746,7 +181746,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866650",
       "original": "Battles: Extra Mix",
-      "translation": "Битвы: Экстра Микс"
+      "translation": "Битвы: Дополнительный синтез"
     },
     "pack02:3866651": {
       "source": "pack02_text_en",
@@ -182033,7 +182033,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866691",
       "original": "&lt;CLGR&gt;Extra Mix&lt;CLNR&gt; is a command derived from Battle Mix. Its usage conditions are the same as for Battle Mix.",
-      "translation": "&lt;CLGR&gt;Extra Mix&lt;CLNR&gt; — это команда, полученная из Боевого синтеза. Условия его использования такие же, как и у Боевого синтеза."
+      "translation": "&lt;CLGR&gt;Дополнительный синтез&lt;CLNR&gt; — это команда, полученная из Боевого синтеза. Условия его использования такие же, как и у Боевого синтеза."
     },
     "pack02:3866692": {
       "source": "pack02_text_en",
@@ -182320,7 +182320,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866732",
       "original": "Extra Mix enables you to use a battle item as a material for synthesis. The use count for the item used will be set to 0.",
-      "translation": "Extra Mix позволяет использовать боевой предмет в качестве материала для синтеза. Счетчик использования использованного предмета будет установлен на 0."
+      "translation": "Дополнительный синтез позволяет использовать боевой предмет в качестве материала для синтеза. Счетчик использования использованного предмета будет установлен на 0."
     },
     "pack02:3866733": {
       "source": "pack02_text_en",
@@ -182579,7 +182579,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866769",
       "original": "Tools synthesized through the Extra Mix process are guaranteed to have an EX Effect added to them. EX Effects are powerful additional effects exclusive to the Extra Mix process.",
-      "translation": "Инструменты, синтезированные с помощью процесса Extra Mix, гарантированно будут иметь добавленный к ним эффект EX. EX Эффекты — это мощные дополнительные эффекты, эксклюзивные для процесса Extra Mix."
+      "translation": "Инструменты, синтезированные с помощью процесса Дополнительного синтеза, гарантированно будут иметь добавленный к ним эффект EX. EX Эффекты — это мощные дополнительные эффекты, эксклюзивные для процесса Дополнительного синтеза."
     },
     "pack02:3866770": {
       "source": "pack02_text_en",
