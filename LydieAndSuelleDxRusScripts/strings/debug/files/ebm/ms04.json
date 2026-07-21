@@ -906,7 +906,7 @@
       "index": 24,
       "speaker": "System",
       "original": "They boast a wide variety of effects, some of which will influence the entire panel!",
-      "translation": "Они могут похвастаться большим разнообразием эффектов, некоторые из которых будут влиять на всю панель!"
+      "translation": "Они могут похвастаться большим разнообразием эффектов, некоторые из которых будут влиять на всю панель синтеза!"
     },
     "ebm:ms04/event_message_ms04_050.ebm:25": {
       "source": "pack01_ebm",
@@ -954,7 +954,7 @@
       "index": 4,
       "speaker": "Lydie",
       "original": "What do you think! This!",
-      "translation": "Что ты думаешь! Вот это!"
+      "translation": "Что ты думаешь! Об этом!"
     },
     "ebm:ms04/event_message_ms04_060.ebm:5": {
       "source": "pack01_ebm",
@@ -970,7 +970,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "Then why is it lying around here? What if something set it off?",
-      "translation": "Тогда почему оно лежит здесь? Что, если что-то его спровоцирует?"
+      "translation": "Тогда почему она лежит здесь? Что, если что-то её активирует?"
     },
     "ebm:ms04/event_message_ms04_060.ebm:7": {
       "source": "pack01_ebm",
@@ -978,7 +978,7 @@
       "index": 7,
       "speaker": "Lydie",
       "original": "Not to mention leaving stuff scattered about like this is why you never have it when you need it!",
-      "translation": "Не говоря уже о том, что разбрасывать вещи вот так — вот почему у тебя их никогда нет, когда они нужны!"
+      "translation": "Не говоря уже о том, что разбросанные повсюду вещи — это причина, по которой они никогда не оказываются под рукой, когда они нужны!"
     },
     "ebm:ms04/event_message_ms04_060.ebm:8": {
       "source": "pack01_ebm",
@@ -1018,7 +1018,7 @@
       "index": 12,
       "speaker": "Sue",
       "original": "This is Lydie's! She just gave me that lecture but she's no better!",
-      "translation": "Это Лиди! Она только что прочитала мне эту лекцию, но ей не лучше!"
+      "translation": "Это Лиди! Она только что прочитала мне эту лекцию, но сама ничуть не лучше!"
     },
     "ebm:ms04/event_message_ms04_060.ebm:13": {
       "source": "pack01_ebm",
@@ -1026,7 +1026,7 @@
       "index": 13,
       "speaker": "Sue",
       "original": "Hey, Lydie! Can you hear me, Lydie? If you're going to lecture people, at least have the...",
-      "translation": "Эй, Лиди! Ты меня слышишь, Лиди? Если собираешься читать людям лекции, по крайней мере имей..."
+      "translation": "Эй, Лиди! Ты меня слышишь, Лиди? Если уж собираешься читать людям нотации, то хотя бы..."
     },
     "ebm:ms04/event_message_ms04_060.ebm:14": {
       "source": "pack01_ebm",
@@ -1050,7 +1050,7 @@
       "index": 16,
       "speaker": "System",
       "original": "You can equip tools from \"Harvest Equip\" from the Main Menu.",
-      "translation": "Вы можете экипировать инструменты из раздела «Снаряжение для сбора урожая» в главном меню."
+      "translation": "Вы можете экипировать инструменты из раздела «Снаряжение для сбора» в главном меню."
     },
     "ebm:ms04/event_message_ms04_060.ebm:17": {
       "source": "pack01_ebm",
@@ -1362,7 +1362,7 @@
       "index": 11,
       "speaker": "System",
       "original": "You can equip the Fishing Rod from Harvest Equip from the Main Menu.",
-      "translation": "Вы можете экипировать удочку в разделе «Снаряжение для сбора урожая» в главном меню."
+      "translation": "Вы можете экипировать удочку в разделе «Снаряжение для сбора» в главном меню."
     },
     "ebm:ms04/event_message_ms04_090.ebm:12": {
       "source": "pack01_ebm",
@@ -1490,7 +1490,7 @@
       "index": 12,
       "speaker": "System",
       "original": "You can equip the Insect Net from Harvest Equip from the Main Menu.",
-      "translation": "Вы можете экипировать сачок для насекомых в разделе «Снаряжение для сбора урожая» в главном меню."
+      "translation": "Вы можете экипировать сачок для насекомых в разделе «Снаряжение для сбора» в главном меню."
     },
     "ebm:ms04/event_message_ms04_100.ebm:13": {
       "source": "pack01_ebm",
@@ -1602,7 +1602,7 @@
       "index": 11,
       "speaker": "System",
       "original": "You can equip the Gathering Gloves from Harvest Equip from the Main Menu.",
-      "translation": "Вы можете надеть перчатки для сбора урожая в разделе «Снаряжение для сбора урожая» в главном меню."
+      "translation": "Вы можете надеть перчатки для сбора урожая в разделе «Снаряжение для сбора» в главном меню."
     },
     "ebm:ms04/event_message_ms04_110.ebm:12": {
       "source": "pack01_ebm",
@@ -1714,7 +1714,7 @@
       "index": 12,
       "speaker": "System",
       "original": "You can equip the Water Bag from Harvest Equip from the Main Menu.",
-      "translation": "Вы можете экипировать мешок с водой из снаряжения для сбора урожая в главном меню."
+      "translation": "Вы можете экипировать мешок с водой из Снаряжения для сбора в главном меню."
     },
     "ebm:ms04/event_message_ms04_120.ebm:13": {
       "source": "pack01_ebm",

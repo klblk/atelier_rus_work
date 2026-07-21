@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-21T14:54:12.228571+00:00",
+  "generated_at": "2026-07-21T15:11:59.430691+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -47498,7 +47498,7 @@
       "index": 24,
       "speaker": "System",
       "original": "They boast a wide variety of effects, some of which will influence the entire panel!",
-      "translation": "Они могут похвастаться большим разнообразием эффектов, некоторые из которых будут влиять на всю панель!"
+      "translation": "Они могут похвастаться большим разнообразием эффектов, некоторые из которых будут влиять на всю панель синтеза!"
     },
     "ebm:ms04/event_message_ms04_050.ebm:25": {
       "source": "pack01_ebm",
@@ -47546,7 +47546,7 @@
       "index": 4,
       "speaker": "Lydie",
       "original": "What do you think! This!",
-      "translation": "Что ты думаешь! Вот это!"
+      "translation": "Что ты думаешь! Об этом!"
     },
     "ebm:ms04/event_message_ms04_060.ebm:5": {
       "source": "pack01_ebm",
@@ -47562,7 +47562,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "Then why is it lying around here? What if something set it off?",
-      "translation": "Тогда почему оно лежит здесь? Что, если что-то его спровоцирует?"
+      "translation": "Тогда почему она лежит здесь? Что, если что-то её активирует?"
     },
     "ebm:ms04/event_message_ms04_060.ebm:7": {
       "source": "pack01_ebm",
@@ -47570,7 +47570,7 @@
       "index": 7,
       "speaker": "Lydie",
       "original": "Not to mention leaving stuff scattered about like this is why you never have it when you need it!",
-      "translation": "Не говоря уже о том, что разбрасывать вещи вот так — вот почему у тебя их никогда нет, когда они нужны!"
+      "translation": "Не говоря уже о том, что разбросанные повсюду вещи — это причина, по которой они никогда не оказываются под рукой, когда они нужны!"
     },
     "ebm:ms04/event_message_ms04_060.ebm:8": {
       "source": "pack01_ebm",
@@ -47610,7 +47610,7 @@
       "index": 12,
       "speaker": "Sue",
       "original": "This is Lydie's! She just gave me that lecture but she's no better!",
-      "translation": "Это Лиди! Она только что прочитала мне эту лекцию, но ей не лучше!"
+      "translation": "Это Лиди! Она только что прочитала мне эту лекцию, но сама ничуть не лучше!"
     },
     "ebm:ms04/event_message_ms04_060.ebm:13": {
       "source": "pack01_ebm",
@@ -47618,7 +47618,7 @@
       "index": 13,
       "speaker": "Sue",
       "original": "Hey, Lydie! Can you hear me, Lydie? If you're going to lecture people, at least have the...",
-      "translation": "Эй, Лиди! Ты меня слышишь, Лиди? Если собираешься читать людям лекции, по крайней мере имей..."
+      "translation": "Эй, Лиди! Ты меня слышишь, Лиди? Если уж собираешься читать людям нотации, то хотя бы..."
     },
     "ebm:ms04/event_message_ms04_060.ebm:14": {
       "source": "pack01_ebm",
@@ -47642,7 +47642,7 @@
       "index": 16,
       "speaker": "System",
       "original": "You can equip tools from \"Harvest Equip\" from the Main Menu.",
-      "translation": "Вы можете экипировать инструменты из раздела «Снаряжение для сбора урожая» в главном меню."
+      "translation": "Вы можете экипировать инструменты из раздела «Снаряжение для сбора» в главном меню."
     },
     "ebm:ms04/event_message_ms04_060.ebm:17": {
       "source": "pack01_ebm",
@@ -47954,7 +47954,7 @@
       "index": 11,
       "speaker": "System",
       "original": "You can equip the Fishing Rod from Harvest Equip from the Main Menu.",
-      "translation": "Вы можете экипировать удочку в разделе «Снаряжение для сбора урожая» в главном меню."
+      "translation": "Вы можете экипировать удочку в разделе «Снаряжение для сбора» в главном меню."
     },
     "ebm:ms04/event_message_ms04_090.ebm:12": {
       "source": "pack01_ebm",
@@ -48082,7 +48082,7 @@
       "index": 12,
       "speaker": "System",
       "original": "You can equip the Insect Net from Harvest Equip from the Main Menu.",
-      "translation": "Вы можете экипировать сачок для насекомых в разделе «Снаряжение для сбора урожая» в главном меню."
+      "translation": "Вы можете экипировать сачок для насекомых в разделе «Снаряжение для сбора» в главном меню."
     },
     "ebm:ms04/event_message_ms04_100.ebm:13": {
       "source": "pack01_ebm",
@@ -48194,7 +48194,7 @@
       "index": 11,
       "speaker": "System",
       "original": "You can equip the Gathering Gloves from Harvest Equip from the Main Menu.",
-      "translation": "Вы можете надеть перчатки для сбора урожая в разделе «Снаряжение для сбора урожая» в главном меню."
+      "translation": "Вы можете надеть перчатки для сбора урожая в разделе «Снаряжение для сбора» в главном меню."
     },
     "ebm:ms04/event_message_ms04_110.ebm:12": {
       "source": "pack01_ebm",
@@ -48306,7 +48306,7 @@
       "index": 12,
       "speaker": "System",
       "original": "You can equip the Water Bag from Harvest Equip from the Main Menu.",
-      "translation": "Вы можете экипировать мешок с водой из снаряжения для сбора урожая в главном меню."
+      "translation": "Вы можете экипировать мешок с водой из Снаряжения для сбора в главном меню."
     },
     "ebm:ms04/event_message_ms04_120.ebm:13": {
       "source": "pack01_ebm",
@@ -181655,7 +181655,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866637",
       "original": "Exploration: Harvest Equipment",
-      "translation": "Исследование: оборудование для сбора урожая"
+      "translation": "Исследование: Снаряжение для сбора"
     },
     "pack02:3866638": {
       "source": "pack02_text_en",
@@ -181942,7 +181942,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866678",
       "original": "Some tools can be equipped to make searching easier. These tools are referred to as &lt;CLGR&gt;Harvest Equipment&lt;CLNR&gt;.",
-      "translation": "Некоторые инструменты можно оборудовать для облегчения поиска. Эти инструменты называются &lt;CLGR&gt;Сборочное оборудование&lt;CLNR&gt;."
+      "translation": "Некоторые инструменты можно оборудовать для облегчения поиска. Эти инструменты называются &lt;CLGR&gt;Снаряжение для сбора&lt;CLNR&gt;."
     },
     "pack02:3866679": {
       "source": "pack02_text_en",
@@ -182222,14 +182222,14 @@
       "file": "str_library_help.xml",
       "string_no": "3866718",
       "original": "To use an item, go to the Harvest Equipment screen and equip the desired item.",
-      "translation": "Чтобы использовать предмет, перейдите на экран «Снаряжение для сбора урожая» и экипируйте нужный предмет."
+      "translation": "Чтобы использовать предмет, перейдите на экран «Снаряжение для сбора» и экипируйте нужный предмет."
     },
     "pack02:3866719": {
       "source": "pack02_text_en",
       "file": "str_library_help.xml",
       "string_no": "3866719",
       "original": "Basically, Harvest Equipment offers its effects simply by equipping it. Additionally, some types of Harvest Equipment can increase the number of actions you can perform while searching.",
-      "translation": "По сути, оборудование для сбора урожая дает свои эффекты, просто экипировав его. Кроме того, некоторые типы оборудования для сбора урожая могут увеличить количество действий, которые вы можете выполнить во время поиска."
+      "translation": "По сути, Снаряжение для сбора даёт свои эффекты, просто экипировав его. Кроме того, некоторые типы Снаряжения для сбора могут увеличить количество действий, которые вы можете выполнить во время поиска."
     },
     "pack02:3866720": {
       "source": "pack02_text_en",
@@ -182509,7 +182509,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866759",
       "original": "Whenever you obtain new Harvest Equipment, be sure to equip it as soon as possible.",
-      "translation": "Всякий раз, когда вы получаете новое оборудование для сбора урожая, обязательно оснастите его как можно скорее."
+      "translation": "Всякий раз, когда вы получаете новое Снаряжение для сбора, обязательно оснастите его как можно скорее."
     },
     "pack02:3866760": {
       "source": "pack02_text_en",
@@ -182705,7 +182705,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866787",
       "original": "Battle Mix materials can be carried in your Basket as well as taken along with you. In such cases, the materials will be need to be equipped in the Harvest Equipment column.",
-      "translation": "Материалы Боевого синтеза можно носить как в Корзине, так и брать с собой. В таких случаях материалы необходимо будет разместить в столбце «Оборудование для сбора урожая»."
+      "translation": "Материалы Боевого синтеза можно носить как в Корзине, так и брать с собой. В таких случаях материалы необходимо будет разместить в столбце «Снаряжение для сбора»."
     },
     "pack02:3866788": {
       "source": "pack02_text_en",
@@ -210082,91 +210082,91 @@
       "file": "str_recipe_idea_text.xml",
       "string_no": "2359384",
       "original": "[Harvest Tool]&lt;CR&gt;A branch capable of catching creatures in the water?&lt;CR&gt;",
-      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Ветка, способная ловить существ в воде?&lt;CR&gt;"
+      "translation": "[Инструмент для сбора]&lt;CR&gt;Ветка, способная ловить существ в воде?&lt;CR&gt;"
     },
     "pack02:2359385": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_text.xml",
       "string_no": "2359385",
       "original": "[Harvest Tool]&lt;CR&gt;An easy-to-use fishing rod made from high-quality materials?&lt;CR&gt;",
-      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Простая в использовании удочка из высококачественных материалов?&lt;CR&gt;"
+      "translation": "[Инструмент для сбора]&lt;CR&gt;Простая в использовании удочка из высококачественных материалов?&lt;CR&gt;"
     },
     "pack02:2359386": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_text.xml",
       "string_no": "2359386",
       "original": "[Harvest Tool]&lt;CR&gt;A high-performance fishing rod that will never break?&lt;CR&gt;",
-      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Высокопроизводительная удочка, которая никогда не сломается?&lt;CR&gt;"
+      "translation": "[Инструмент для сбора]&lt;CR&gt;Высокопроизводительная удочка, которая никогда не сломается?&lt;CR&gt;"
     },
     "pack02:2359387": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_text.xml",
       "string_no": "2359387",
       "original": "[Harvest Tool]&lt;CR&gt;A net used for catching insects?&lt;CR&gt;",
-      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Сеть для ловли насекомых?&lt;CR&gt;"
+      "translation": "[Инструмент для сбора]&lt;CR&gt;Сеть для ловли насекомых?&lt;CR&gt;"
     },
     "pack02:2359388": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_text.xml",
       "string_no": "2359388",
       "original": "[Harvest Tool]&lt;CR&gt;A lightweight net for catching the fastest insects?&lt;CR&gt;",
-      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Легкая сеть для ловли самых быстрых насекомых?&lt;CR&gt;"
+      "translation": "[Инструмент для сбора]&lt;CR&gt;Легкая сеть для ловли самых быстрых насекомых?&lt;CR&gt;"
     },
     "pack02:2359389": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_text.xml",
       "string_no": "2359389",
       "original": "[Harvest Tool]&lt;CR&gt;A bag used for carrying a large amount of water?&lt;CR&gt;",
-      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Сумка для переноски большого количества воды?&lt;CR&gt;"
+      "translation": "[Инструмент для сбора]&lt;CR&gt;Сумка для переноски большого количества воды?&lt;CR&gt;"
     },
     "pack02:2359390": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_text.xml",
       "string_no": "2359390",
       "original": "[Harvest Tool]&lt;CR&gt;A chemical containing various components that soak into the earth?&lt;CR&gt;",
-      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Химическое вещество, содержащее различные компоненты, которые впитываются в землю?&lt;CR&gt;"
+      "translation": "[Инструмент для сбора]&lt;CR&gt;Химическое вещество, содержащее различные компоненты, которые впитываются в землю?&lt;CR&gt;"
     },
     "pack02:2359391": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_text.xml",
       "string_no": "2359391",
       "original": "[Harvest Tool]&lt;CR&gt;A wind that drops the seeds of fruits and trees?&lt;CR&gt;",
-      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Ветер, роняющий семена фруктов и деревьев?&lt;CR&gt;"
+      "translation": "[Инструмент для сбора]&lt;CR&gt;Ветер, роняющий семена фруктов и деревьев?&lt;CR&gt;"
     },
     "pack02:2359392": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_text.xml",
       "string_no": "2359392",
       "original": "[Harvest Tool]&lt;CR&gt;A whirlwind that drops the seeds of fruits and trees?&lt;CR&gt;",
-      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Вихрь, роняющий семена фруктов и деревьев?&lt;CR&gt;"
+      "translation": "[Инструмент для сбора]&lt;CR&gt;Вихрь, роняющий семена фруктов и деревьев?&lt;CR&gt;"
     },
     "pack02:2359393": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_text.xml",
       "string_no": "2359393",
       "original": "[Harvest Tool]&lt;CR&gt;A backpack that holds numerous items?&lt;CR&gt;",
-      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Рюкзак, вмещающий множество предметов?&lt;CR&gt;"
+      "translation": "[Инструмент для сбора]&lt;CR&gt;Рюкзак, вмещающий множество предметов?&lt;CR&gt;"
     },
     "pack02:2359394": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_text.xml",
       "string_no": "2359394",
       "original": "[Harvest Tool]&lt;CR&gt;Gloves that make it easier to grab things?&lt;CR&gt;",
-      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Перчатки, которые облегчают сбор вещей?&lt;CR&gt;"
+      "translation": "[Инструмент для сбора]&lt;CR&gt;Перчатки, которые облегчают сбор вещей?&lt;CR&gt;"
     },
     "pack02:2359395": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_text.xml",
       "string_no": "2359395",
       "original": "[Harvest Tool]&lt;CR&gt;A powerful bomb that blows apart solid rocks?&lt;CR&gt;",
-      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Мощная бомба, разрывающая твердые камни?&lt;CR&gt;"
+      "translation": "[Инструмент для сбора]&lt;CR&gt;Мощная бомба, разрывающая твердые камни?&lt;CR&gt;"
     },
     "pack02:2359396": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_text.xml",
       "string_no": "2359396",
       "original": "[Harvest Tool]&lt;CR&gt;An extremely powerful bomb that blows apart solid rocks?&lt;CR&gt;",
-      "translation": "[Инструмент для сбора урожая]&lt;CR&gt;Чрезвычайно мощная бомба, разрывающая твердые камни?&lt;CR&gt;"
+      "translation": "[Инструмент для сбора]&lt;CR&gt;Чрезвычайно мощная бомба, разрывающая твердые камни?&lt;CR&gt;"
     },
     "pack02:2359409": {
       "source": "pack02_text_en",

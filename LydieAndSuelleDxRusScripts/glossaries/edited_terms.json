@@ -22,6 +22,15 @@
       "ru": "Усилитель",
       "plural_ru": "Усилители",
       "notes": "склоняется; с большой «У»; EN pl. Enhancing Agents"
+    },
+    "Harvest Equip": {
+      "ru": "Снаряжение для сбора",
+      "aliases_en": ["Harvest Equipment"],
+      "notes": "с большой «С»; не путать с Harvest Tool"
+    },
+    "Harvest Tool": {
+      "ru": "Инструмент для сбора",
+      "notes": "с большой «И»; без «урожая»"
     }
   }
 }
