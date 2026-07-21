@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-21T13:08:43.712284+00:00",
+  "generated_at": "2026-07-21T14:10:16.611868+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -962,7 +962,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "Hagel, please. Don't scare Lydie like that!",
-      "translation": "Хагель, пожалуйста. Не пугай так Лиди!"
+      "translation": "Хагель, пожалуйста. Не пугайте так Лиди!"
     },
     "ebm:mm01/event_message_mm01_150.ebm:4": {
       "source": "pack01_ebm",
@@ -978,7 +978,7 @@
       "index": 5,
       "speaker": "Lydie",
       "original": "No need to apologize. I do it to myself, honestly. You placed an order with our father, right?",
-      "translation": "Не нужно извиняться. Честно говоря, я сама себя до этого довожу. Ты разместил заказ у нашего отца, верно?"
+      "translation": "Не нужно извиняться. Честно говоря, я сама себя до этого довожу. Вы разместили заказ у нашего отца, верно?"
     },
     "ebm:mm01/event_message_mm01_150.ebm:6": {
       "source": "pack01_ebm",
@@ -34858,7 +34858,7 @@
       "index": 28,
       "speaker": "System",
       "original": "A new Combination Art for Lydie and Sue <CLEG>\"True Twin Power Attack\"<CLNR> is unlocked.",
-      "translation": "Разблокировано новое комбинированное искусство для Лиди и Сью <CLEG> «Истинная двойная силовая атака»<CLNR>."
+      "translation": "Разблокировано новое Комбинированное искусство для Лиди и Сью <CLEG> «Истинная двойная силовая атака»<CLNR>."
     },
     "ebm:mm10/event_message_mm10_450.ebm:0": {
       "source": "pack01_ebm",
@@ -46730,7 +46730,7 @@
       "index": 16,
       "speaker": "Sue",
       "original": "I know, right? It also takes up so much less room than all those bombs and medicine!",
-      "translation": "Да, правда? И занимает гораздо меньше места, чем все эти бомбы и лекарства!"
+      "translation": "Точно-точно! И занимает гораздо меньше места, чем все эти бомбы и лекарства!"
     },
     "ebm:ms04/event_message_ms04_010.ebm:17": {
       "source": "pack01_ebm",
@@ -46738,7 +46738,7 @@
       "index": 17,
       "speaker": "Sue",
       "original": "Viva la survival on location!",
-      "translation": "Да здравствует выживание в полевых условиях!"
+      "translation": "Вива ла выживание в полевых условиях!"
     },
     "ebm:ms04/event_message_ms04_010.ebm:18": {
       "source": "pack01_ebm",
@@ -46754,7 +46754,7 @@
       "index": 19,
       "speaker": "Lydie",
       "original": "Still, this is definitely super convenient. Let's give it a field test as soon as we can!",
-      "translation": "Тем не менее, это определенно очень удобно. Давай проведём полевые испытания, как только сможем!"
+      "translation": "Тем не менее, это определенно очень удобно. Давай проведём полевые испытания, как только получится!"
     },
     "ebm:ms04/event_message_ms04_010.ebm:20": {
       "source": "pack01_ebm",
@@ -46930,7 +46930,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Ah! That's the latest issue of Monthly Uni Maiden! It must belong to Sue.",
-      "translation": "Ах! Это последний выпуск Monthly Уни Maiden! Должно быть, оно принадлежит Сью."
+      "translation": "Ах! Это последний выпуск журнала «Уни-дева»! Должно быть, он принадлежит Сью."
     },
     "ebm:ms04/event_message_ms04_030.ebm:1": {
       "source": "pack01_ebm",
@@ -46946,7 +46946,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "Sure, go ahead. I've finished it already.",
-      "translation": "Конечно, давай. Я уже закончила."
+      "translation": "Конечно, без проблем. Я уже закончила."
     },
     "ebm:ms04/event_message_ms04_030.ebm:3": {
       "source": "pack01_ebm",
@@ -46954,7 +46954,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "Heheh, thanks. Time for this month's Puni Knight Legend!",
-      "translation": "Хехех, спасибо. Настало время легенды Пуни Knight в этом месяце!"
+      "translation": "Хе-хе, спасибо. Настало время для «Легенды о Пуни-рыцаре» за этот месяц!"
     },
     "ebm:ms04/event_message_ms04_030.ebm:4": {
       "source": "pack01_ebm",
@@ -46970,7 +46970,7 @@
       "index": 5,
       "speaker": "Sue",
       "original": "Uwah! What is it? A page got ripped?",
-      "translation": "Ува! Что это такое? Страница порвалась?"
+      "translation": "Ух! Что такое? Страница порвалась?"
     },
     "ebm:ms04/event_message_ms04_030.ebm:6": {
       "source": "pack01_ebm",
@@ -46978,7 +46978,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "No! This! This right here!",
-      "translation": "Нет! Этот! Это прямо здесь!"
+      "translation": "Нет! Это! Вот прямо здесь!"
     },
     "ebm:ms04/event_message_ms04_030.ebm:7": {
       "source": "pack01_ebm",
@@ -46986,7 +46986,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "Look! Masked Royal and Knight Saber Combination Attack! True Super Destruction Secret God... something!",
-      "translation": "Смотри! Комбинированная атака Маскированного короля и Рыцарской сабли! Настоящий Тайный Бог Суперразрушения... что-то!"
+      "translation": "Смотрю! Комбинированная атака Скрытого короля и Рыцаря с саблей! Настоящий Тайный Бог Суперразрушения... что-то там!"
     },
     "ebm:ms04/event_message_ms04_030.ebm:8": {
       "source": "pack01_ebm",
@@ -46994,7 +46994,7 @@
       "index": 8,
       "speaker": "Sue",
       "original": "Yes, what about it?",
-      "translation": "Да, а что насчет этого?"
+      "translation": "Да, и что насчёт этого?"
     },
     "ebm:ms04/event_message_ms04_030.ebm:9": {
       "source": "pack01_ebm",
@@ -47034,7 +47034,7 @@
       "index": 13,
       "speaker": "Lydie",
       "original": "Those who master combination attacks will rule the battlefield! They'll help us a lot, I'm sure!",
-      "translation": "Те, кто освоит комбинированные атаки, будут править полем битвы! Они нам очень помогут, я уверена!"
+      "translation": "Те, кто освоит комбинированные атаки, будут править полем битвы! Нам это очень поможет, я уверена!"
     },
     "ebm:ms04/event_message_ms04_030.ebm:14": {
       "source": "pack01_ebm",
@@ -47050,7 +47050,7 @@
       "index": 15,
       "speaker": "Lydie",
       "original": "Yes! They will!",
-      "translation": "Да! Они будут!"
+      "translation": "Да! Точно!"
     },
     "ebm:ms04/event_message_ms04_030.ebm:16": {
       "source": "pack01_ebm",
@@ -47098,7 +47098,7 @@
       "index": 21,
       "speaker": "System",
       "original": "You can now use Combination Arts!",
-      "translation": "Теперь вы можете использовать комбинированные искусства!"
+      "translation": "Теперь вы можете использовать Комбинированные искусства!"
     },
     "ebm:ms04/event_message_ms04_030.ebm:22": {
       "source": "pack01_ebm",
@@ -61378,7 +61378,7 @@
       "index": 19,
       "speaker": "System",
       "original": "A new Combination Art for Sue and Firis <CLEG>\"Firis and Sue Surprise\"<CLNR> is unlocked.<CR>",
-      "translation": "Разблокировано новое комбинированное искусство для Сью и Фирис <CLEG> «Сюрприз Фирис и Сью»<CLNR>.<CR>"
+      "translation": "Разблокировано новое Комбинированное искусство для Сью и Фирис <CLEG> «Сюрприз Фирис и Сью»<CLNR>.<CR>"
     },
     "ebm:qc02_fir/event_message_qc02_fir_190.ebm:0": {
       "source": "pack01_ebm",
@@ -63530,7 +63530,7 @@
       "index": 19,
       "speaker": "System",
       "original": "A new Combination Art for Firis and Sophie <CLEG>\"Alchemy of Happiness\"<CLNR> is unlocked.",
-      "translation": "Разблокировано новое комбинированное искусство для Фирис и Софи <CLEG> «Алхимия счастья» <CLNR>."
+      "translation": "Разблокировано новое Комбинированное искусство для Фирис и Софи <CLEG> «Алхимия счастья» <CLNR>."
     },
     "ebm:qc03_sop/event_message_qc03_sop_100.ebm:0": {
       "source": "pack01_ebm",
@@ -64378,7 +64378,7 @@
       "index": 24,
       "speaker": "System",
       "original": "A new Combination Art for Lydie and Sophie <CLEG>\"Rainbow Codex\"<CLNR> is unlocked.",
-      "translation": "Разблокировано новое комбинированное искусство для Лиди и Софи <CLEG> «Радужный Кодекс» <CLNR>."
+      "translation": "Разблокировано новое Комбинированное искусство для Лиди и Софи <CLEG> «Радужный Кодекс» <CLNR>."
     },
     "ebm:qc03_sop/event_message_qc03_sop_150.ebm:0": {
       "source": "pack01_ebm",
@@ -68930,7 +68930,7 @@
       "index": 15,
       "speaker": "System",
       "original": "A new Combination Art for Sue and Mathias <CLEG>\"Full-Power Gunplay\"<CLNR> is unlocked.",
-      "translation": "Разблокировано новое комбинированное искусство для Сью и Матиаса <CLEG> «Full-Power Gunplay»<CLNR>."
+      "translation": "Разблокировано новое Комбинированное искусство для Сью и Матиаса <CLEG> «Full-Power Gunplay»<CLNR>."
     },
     "ebm:qc04_mat/event_message_qc04_mat_220.ebm:0": {
       "source": "pack01_ebm",
@@ -72922,7 +72922,7 @@
       "index": 12,
       "speaker": "System",
       "original": "A new Combination Art for Lydie and Alt <CLEG>\"Sanctuaire of Demise\"<CLNR> is unlocked.<CR>",
-      "translation": "Разблокировано новое комбинированное искусство для Лиди и Альта <CLEG> «Святилище гибели»<CLNR>.<CR>"
+      "translation": "Разблокировано новое Комбинированное искусство для Лиди и Альта <CLEG> «Святилище гибели»<CLNR>.<CR>"
     },
     "ebm:qc05_alt/event_message_qc05_alt_210.ebm:0": {
       "source": "pack01_ebm",
@@ -102738,7 +102738,7 @@
       "index": 0,
       "speaker": "System",
       "original": "A new Combination Art for Mathias and Alt <CLEG>\"Einzelkampf\"<CLNR> is unlocked.",
-      "translation": "Разблокировано новое комбинированное искусство для Матиаса и Альт <CLEG> «Einzelkampf»<CLNR>."
+      "translation": "Разблокировано новое Комбинированное искусство для Матиаса и Альт <CLEG> «Einzelkampf»<CLNR>."
     },
     "ebm:xf01/event_message_xf01_030.ebm:0": {
       "source": "pack01_ebm",
@@ -103730,7 +103730,7 @@
       "index": 1,
       "speaker": "System",
       "original": "A new Combination Art for Sue and Lucia <CLEG>\"Rules of Chaos\"<CLNR> is unlocked.",
-      "translation": "Разблокировано новое комбинированное искусство для Сью и Люсии <CLEG> «Правила хаоса» <CLNR>."
+      "translation": "Разблокировано новое Комбинированное искусство для Сью и Люсии <CLEG> «Правила хаоса» <CLNR>."
     },
     "ebm:xx03/event_message_xx03_150.ebm:0": {
       "source": "pack01_ebm",
@@ -103746,7 +103746,7 @@
       "index": 1,
       "speaker": "System",
       "original": "A new Combination Art for Lydie and Lucia <CLEG>\"Avars Order\"<CLNR> is unlocked.",
-      "translation": "Разблокировано новое комбинированное искусство для Лиди и Люсии <CLEG> «Аварский Орден»<CLNR>."
+      "translation": "Разблокировано новое Комбинированное искусство для Лиди и Люсии <CLEG> «Аварский Орден»<CLNR>."
     },
     "ebm:xx03/event_message_xx03_160.ebm:0": {
       "source": "pack01_ebm",
@@ -103778,7 +103778,7 @@
       "index": 1,
       "speaker": "System",
       "original": "A new Combination Art for Firis and Ilmeria <CLEG>\"Crimson Treasures\"<CLNR> is unlocked.",
-      "translation": "Разблокировано новое комбинированное искусство для Фирис и Ильмерии <CLEG> «Багровые сокровища» <CLNR>."
+      "translation": "Разблокировано новое Комбинированное искусство для Фирис и Ильмерии <CLEG> «Багровые сокровища» <CLNR>."
     },
     "ebm:xx03/event_message_xx03_190.ebm:0": {
       "source": "pack01_ebm",
@@ -103810,7 +103810,7 @@
       "index": 1,
       "speaker": "System",
       "original": "A new Combination Art for Alt and Ilmeria <CLEG>\"Four Pillars of Heaven Judgment\"<CLNR> is unlocked.",
-      "translation": "Разблокировано новое комбинированное искусство для Альта и Ильмерии <CLEG> «Четыре столпа Небесного суда» <CLNR>."
+      "translation": "Разблокировано новое Комбинированное искусство для Альта и Ильмерии <CLEG> «Четыре столпа Небесного суда» <CLNR>."
     },
     "ebm:xx03/event_message_xx03_240.ebm:0": {
       "source": "pack01_ebm",
@@ -115834,7 +115834,7 @@
       "file": "str_action_comment.xml",
       "string_no": "19988569",
       "original": "Increase Combination Arts damage.",
-      "translation": "Увеличивает урон комбинированных приёмов."
+      "translation": "Увеличивает урон Комбинированных искусств."
     },
     "pack02:19988570": {
       "source": "pack02_text_en",
@@ -116051,7 +116051,7 @@
       "file": "str_action_comment.xml",
       "string_no": "19988600",
       "original": "Increase Combination Arts damage.",
-      "translation": "Увеличивает урон комбинированных приёмов."
+      "translation": "Увеличивает урон Комбинированных искусств."
     },
     "pack02:19988601": {
       "source": "pack02_text_en",
@@ -178645,7 +178645,7 @@
       "file": "str_library_eff_detail.xml",
       "string_no": "3540165",
       "original": "Fills the Combination Arts Gauge.",
-      "translation": "Заполняет шкалу комбинированных приёмов."
+      "translation": "Заполняет шкалу Комбинированных искусств."
     },
     "pack02:3540166": {
       "source": "pack02_text_en",
@@ -182306,7 +182306,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866730",
       "original": "When the attackers and supporters are arranged in certain pairs, a Combination Gauge will be displayed near their stats and they will be able to use Combination Arts.",
-      "translation": "Когда нападающие и сторонники располагаются в определенных парах, рядом с их характеристиками будет отображаться шкала комбинации, и они смогут использовать комбинированные искусства."
+      "translation": "Когда нападающие и сторонники располагаются в определенных парах, рядом с их характеристиками будет отображаться шкала комбинации, и они смогут использовать Комбинированные искусства."
     },
     "pack02:3866731": {
       "source": "pack02_text_en",
@@ -182565,7 +182565,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866767",
       "original": "When the Combination Gauge is full, it will trigger your Follow-up Skill, and then your Combination Arts next.",
-      "translation": "Когда шкала комбинаций заполнится, активируется ваш последующий навык, а затем ваши комбинированные искусства."
+      "translation": "Когда шкала комбинаций заполнится, активируется ваш последующий навык, а затем ваши Комбинированные искусства."
     },
     "pack02:3866768": {
       "source": "pack02_text_en",
