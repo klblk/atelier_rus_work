@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-21T14:10:16.611868+00:00",
+  "generated_at": "2026-07-21T14:54:12.228571+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -47114,7 +47114,7 @@
       "index": 23,
       "speaker": "System",
       "original": "They require the Combination Gauge to use, but are strong enough to completely turn a battle around.",
-      "translation": "Для использования нужна шкала комбинации, но они достаточно сильны, чтобы полностью перевернуть битву."
+      "translation": "Для использования нужна шкала комбинации, но они достаточно сильны, чтобы полностью перевернуть ход боя."
     },
     "ebm:ms04/event_message_ms04_030.ebm:24": {
       "source": "pack01_ebm",
@@ -47130,7 +47130,7 @@
       "index": 0,
       "speaker": "Ilmeria",
       "original": "Girls! It's time for another one of Ilmeria's Unannounced Lectures!",
-      "translation": "Девушки! Пришло время очередной необъявленной лекции Ильмерии!"
+      "translation": "Девочки! Настало время для очередной внезапной лекции от Ильмерии!"
     },
     "ebm:ms04/event_message_ms04_040.ebm:1": {
       "source": "pack01_ebm",
@@ -47138,7 +47138,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Guwah! Cough, cough!",
-      "translation": "Гува! Кашель, кашель!"
+      "translation": "Кха-а-а!.. Кхе, кхе!"
     },
     "ebm:ms04/event_message_ms04_040.ebm:2": {
       "source": "pack01_ebm",
@@ -47146,7 +47146,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "Ilmeria... come on. We were just enjoying a snack!",
-      "translation": "Ильмерия... давай. Мы просто наслаждались перекусом!"
+      "translation": "Ильмерия... ну ты чего? Мы же только-только сели перекусить!"
     },
     "ebm:ms04/event_message_ms04_040.ebm:3": {
       "source": "pack01_ebm",
@@ -47162,7 +47162,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "You did! So no unannounced lecture today. Sit down and eat some snacks with us! Alright?",
-      "translation": "Удивила! Так что сегодня никакой необъявленной лекции. Садись и перекуси вместе с нами! Хорошо?"
+      "translation": "Удивила! Так что сегодня никакой внезапной лекции. Садись и перекуси вместе с нами! Хорошо?"
     },
     "ebm:ms04/event_message_ms04_040.ebm:5": {
       "source": "pack01_ebm",
@@ -47170,7 +47170,7 @@
       "index": 5,
       "speaker": "Ilmeria",
       "original": "Nope, my little learners, that isn't going to work. I've got something important to teach today!",
-      "translation": "Нет, мои маленькие ученики, это не сработает. Сегодня мне нужно научить чему-то важному!"
+      "translation": "Нет, мои маленькие ученики, это не сработает. Сегодня мне нужно научить вас чему-то важному!"
     },
     "ebm:ms04/event_message_ms04_040.ebm:6": {
       "source": "pack01_ebm",
@@ -47178,7 +47178,7 @@
       "index": 6,
       "speaker": "Ilmeria",
       "original": "If you don't know about this, you're lower as an alchemist than a Puni! No, than water fleas!",
-      "translation": "Если вы об этом не знаете, то как алхимики вы ниже пуни! Нет, ниже водяных блох!"
+      "translation": "Если вы об этом не узнаете, то как алхимики вы ниже пуни! Нет, ниже водяных блох!"
     },
     "ebm:ms04/event_message_ms04_040.ebm:7": {
       "source": "pack01_ebm",
@@ -47194,7 +47194,7 @@
       "index": 8,
       "speaker": "Sue",
       "original": "Me neither. Very well, we'll give up on snack time...",
-      "translation": "И я нет. Ну что ж, откажемся от времени на перекус..."
+      "translation": "И я. Ну что ж, откажемся от времени на перекус..."
     },
     "ebm:ms04/event_message_ms04_040.ebm:9": {
       "source": "pack01_ebm",
@@ -47242,7 +47242,7 @@
       "index": 14,
       "speaker": "Ilmeria",
       "original": "I've got some delicious pudding here. Let's all eat it together. ",
-      "translation": "У меня здесь вкусный пудинг. Давайте все вместе съедим."
+      "translation": "У меня здесь вкусный пудинг. Давайте все вместе съедим его."
     },
     "ebm:ms04/event_message_ms04_040.ebm:15": {
       "source": "pack01_ebm",
@@ -47314,7 +47314,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Huh? What's brought this on so suddenly? You can't be...",
-      "translation": "Хм? Что вызвало это так внезапно? Ты не можешь быть..."
+      "translation": "Хм? Что это на тебя нашло так внезапно? Да быть не может, что ты..."
     },
     "ebm:ms04/event_message_ms04_050.ebm:2": {
       "source": "pack01_ebm",
@@ -47322,7 +47322,7 @@
       "index": 2,
       "speaker": "Ilmeria",
       "original": "I'm coming in, girls! With another Unannounced Lecture, just for you!",
-      "translation": "Девочки, я захожу! Еще одна необъявленная лекция специально для вас!"
+      "translation": "Девочки, я захожу! Ещё одна внезапная лекция специально для вас!"
     },
     "ebm:ms04/event_message_ms04_050.ebm:3": {
       "source": "pack01_ebm",
@@ -47346,7 +47346,7 @@
       "index": 5,
       "speaker": "Ilmeria",
       "original": "W-What does that mean? I'm not sure what I've done, but it feels like a defeat...",
-      "translation": "Ч-что это значит? Не знаю, что я сделала, но это похоже на поражение..."
+      "translation": "Ч-что это значит? Я не совсем понимаю, что сделала, но чувствую себя проигравшей..."
     },
     "ebm:ms04/event_message_ms04_050.ebm:6": {
       "source": "pack01_ebm",
@@ -47378,7 +47378,7 @@
       "index": 9,
       "speaker": "Ilmeria",
       "original": "That's everything. Did you get all that?",
-      "translation": "Это все. Вы все это получили?"
+      "translation": "Это всё. Вы всё поняли?"
     },
     "ebm:ms04/event_message_ms04_050.ebm:10": {
       "source": "pack01_ebm",
@@ -47402,7 +47402,7 @@
       "index": 12,
       "speaker": "Sue",
       "original": "No, it isn't. I said \"incredible\" before. This time I said \"stupendous\"!",
-      "translation": "Нет, это не так. Я уже сказала «невероятно». На этот раз я сказала «потрясающе»!"
+      "translation": "Нет, это не так. В прошлый раз я сказала «невероятного». На этот раз я сказала «потрясающего»!"
     },
     "ebm:ms04/event_message_ms04_050.ebm:13": {
       "source": "pack01_ebm",
@@ -47410,7 +47410,7 @@
       "index": 13,
       "speaker": "Sue",
       "original": "We learned different stuff, so I said something different! I'm not recycling comments over here!",
-      "translation": "Мы узнали разное, поэтому я сказала другое! Я тут не перерабатываю одни и те же комментарии!"
+      "translation": "Мы узнали совершенно новые вещи, вот я и сказала по-другому! Я тут, вообще-то, не заезженными фразами сыплю!"
     },
     "ebm:ms04/event_message_ms04_050.ebm:14": {
       "source": "pack01_ebm",
@@ -47418,7 +47418,7 @@
       "index": 14,
       "speaker": "Lydie",
       "original": "Alright, alright, I'm sorry! I take that back.",
-      "translation": "Ладно, ладно, извини! Я беру это обратно."
+      "translation": "Ладно, ладно, извини! Я беру свои слова обратно."
     },
     "ebm:ms04/event_message_ms04_050.ebm:15": {
       "source": "pack01_ebm",
@@ -47458,7 +47458,7 @@
       "index": 19,
       "speaker": "Sue",
       "original": "Uwah. I was getting hungry, so I was pretty sure she'd bring some snacks along with her lecture.",
-      "translation": "Ува. Я проголодалась, поэтому была почти уверена, что она принесёт с лекцией что-нибудь перекусить."
+      "translation": "Ух. Я проголодалась, поэтому была уверена, что она принесёт с лекцией что-нибудь перекусить."
     },
     "ebm:ms04/event_message_ms04_050.ebm:20": {
       "source": "pack01_ebm",
@@ -47466,7 +47466,7 @@
       "index": 20,
       "speaker": "Lydie",
       "original": "Hahaha, so it was just your empty tummy telling you Ilmeria was coming?",
-      "translation": "Ха-ха-ха, так это просто твой пустой животик говорил тебе, что Ильмерия придет?"
+      "translation": "Ха-ха-ха, так это просто твой пустой животик говорил тебе, что Ильмерия придёт?"
     },
     "ebm:ms04/event_message_ms04_050.ebm:21": {
       "source": "pack01_ebm",
@@ -47474,7 +47474,7 @@
       "index": 21,
       "speaker": "System",
       "original": "<CLEG>[Tutorial] ~Enhancing Agents~<CLNR>",
-      "translation": "<CLEG>[Учебное пособие] ~Усиливающие агенты~<CLNR>"
+      "translation": "<CLEG>[Учебное пособие] ~Усилители~<CLNR>"
     },
     "ebm:ms04/event_message_ms04_050.ebm:22": {
       "source": "pack01_ebm",
@@ -47482,7 +47482,7 @@
       "index": 22,
       "speaker": "System",
       "original": "<CLEG>Enhancing Agents<CLNR> can bring incredible secondary effects to your synthesis.",
-      "translation": "<CLEG>Усиливающие агенты<CLNR> могут привнести невероятные побочные эффекты в ваш синтез."
+      "translation": "<CLEG>Усилители<CLNR> могут привнести невероятные побочные эффекты в ваш синтез."
     },
     "ebm:ms04/event_message_ms04_050.ebm:23": {
       "source": "pack01_ebm",
@@ -47506,7 +47506,7 @@
       "index": 25,
       "speaker": "System",
       "original": "<CLR1>Master Enhancing Agents and push your synthesis into the stratosphere!<CLNR>",
-      "translation": "<CLR1>Освойте улучшающие агенты и выведите свой синтез в стратосферу!<CLNR>"
+      "translation": "<CLR1>Освойте Усилители и выведите свой синтез в стратосферу!<CLNR>"
     },
     "ebm:ms04/event_message_ms04_060.ebm:0": {
       "source": "pack01_ebm",
@@ -174200,7 +174200,7 @@
       "file": "str_library_define.xml",
       "string_no": "4063299",
       "original": "Enhancing Agents",
-      "translation": "Активаторы"
+      "translation": "Усилители"
     },
     "pack02:4063300": {
       "source": "pack02_text_en",
@@ -181620,7 +181620,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866632",
       "original": "Synthesis: Enhancing Agents",
-      "translation": "Синтез: усиливающие агенты"
+      "translation": "Синтез: Усилители"
     },
     "pack02:3866633": {
       "source": "pack02_text_en",
@@ -181907,7 +181907,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866673",
       "original": "An &lt;CLGR&gt;Enhancing Agent&lt;CLNR&gt; can be added once per synthesis and is separate from the other materials.",
-      "translation": "&lt;CLGR&gt;Усилитель &lt;CLNR&gt; можно добавить один раз за синтез и отдельно от других материалов."
+      "translation": "&lt;CLGR&gt;Усилитель&lt;CLNR&gt; можно добавить один раз за синтез и отдельно от других материалов."
     },
     "pack02:3866674": {
       "source": "pack02_text_en",
@@ -182194,7 +182194,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866714",
       "original": "Enhancing Agents have a variety of effects associated with them. They all possess powerful effects different from those of regular component pieces, enabling you to create unique items that you otherwise couldn’t make.",
-      "translation": "Усиливающие агенты имеют множество связанных с ними эффектов. Все они обладают мощными эффектами, отличными от эффектов обычных компонентов, что позволяет вам создавать уникальные предметы, которые иначе вы не смогли бы создать."
+      "translation": "Усилители имеют множество связанных с ними эффектов. Все они обладают мощными эффектами, отличными от эффектов обычных компонентов, что позволяет вам создавать уникальные предметы, которые иначе вы не смогли бы создать."
     },
     "pack02:3866715": {
       "source": "pack02_text_en",
@@ -182439,7 +182439,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866749",
       "original": "&lt;CLGR&gt;2. Select Catalyst&lt;CLNR&gt;^00Although not required, the use of these during synthesis can change the panel size or cause various bonus effect marks to appear.",
-      "translation": "&lt;CLGR&gt;2. Выберите Catalyst&lt;CLNR&gt;^00Хотя это не обязательно, их использование во время синтеза может изменить размер панели или вызвать появление различных отметок бонусных эффектов."
+      "translation": "&lt;CLGR&gt;2. Выберите катализатор&lt;CLNR&gt;^00Хотя это не обязательно, их использование во время синтеза может изменить размер панели или вызвать появление различных отметок бонусных эффектов."
     },
     "pack02:3866750": {
       "source": "pack02_text_en",
@@ -182481,7 +182481,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866755",
       "original": "Try to inject the Enhancing Agent at just the right time in order to create powerful items.",
-      "translation": "Постарайтесь ввести Усиливающий агент в нужный момент, чтобы создавать мощные предметы."
+      "translation": "Постарайтесь ввести Усилитель в нужный момент, чтобы создавать мощные предметы."
     },
     "pack02:3866756": {
       "source": "pack02_text_en",
@@ -190069,7 +190069,7 @@
       "file": "str_mix_define.xml",
       "string_no": "9961481",
       "original": "Enhancing Agents",
-      "translation": "Активаторы"
+      "translation": "Усилители"
     },
     "pack02:9961482": {
       "source": "pack02_text_en",
@@ -190153,7 +190153,7 @@
       "file": "str_mix_define.xml",
       "string_no": "9961497",
       "original": "Use Enhancing Agent",
-      "translation": "Использовать активатор"
+      "translation": "Использовать Усилитель"
     },
     "pack02:9961498": {
       "source": "pack02_text_en",
@@ -223809,7 +223809,7 @@
       "file": "str_ui_untranslated.xml",
       "string_no": "6029378",
       "original": "Use Enhancing Agent &lt;IM06&gt;",
-      "translation": "Использовать активатор &lt;IM06&gt;"
+      "translation": "Использовать Усилитель &lt;IM06&gt;"
     }
   }
 }
