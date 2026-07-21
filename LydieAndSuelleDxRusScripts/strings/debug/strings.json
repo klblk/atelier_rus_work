@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-21T12:24:53.991814+00:00",
+  "generated_at": "2026-07-21T13:08:43.712284+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -802,7 +802,7 @@
       "index": 0,
       "speaker": "Next-door Neighbor",
       "original": "Ah, Lydie and Sue! Busy with work, are you?",
-      "translation": "Ах, Лидия и Сью! Вы заняты работой, да?"
+      "translation": "Ах, Лиди и Сью! Вы заняты работой, да?"
     },
     "ebm:mm01/event_message_mm01_130.ebm:1": {
       "source": "pack01_ebm",
@@ -1306,7 +1306,7 @@
       "index": 5,
       "speaker": "???",
       "original": "Yes, next! Oh! Lydie and Sue?",
-      "translation": "Да, следующий! Ой! Лидия и Сью?"
+      "translation": "Да, следующий! Ой! Лиди и Сью?"
     },
     "ebm:mm01/event_message_mm01_210.ebm:6": {
       "source": "pack01_ebm",
@@ -46658,7 +46658,7 @@
       "index": 7,
       "speaker": "Lydie",
       "original": "Mix gunpowder and it makes bombs. Mix herbs and it becomes medicine.",
-      "translation": "Смешайте порох, и получится бомба. Смешайте травы, и получится лекарство."
+      "translation": "Смешаешь порох — получится бомба. Смешаешь травы — получится лекарство."
     },
     "ebm:ms04/event_message_ms04_010.ebm:8": {
       "source": "pack01_ebm",
@@ -46682,7 +46682,7 @@
       "index": 10,
       "speaker": "Sue",
       "original": "Luckily for you, I've had an idea already! Show me that notebook for a moment!",
-      "translation": "К счастью для тебя, у меня уже возникла идея! Покажите мне на минутку этот блокнот!"
+      "translation": "К счастью для тебя, у меня уже возникла идея! Покажи мне на минутку этот блокнот!"
     },
     "ebm:ms04/event_message_ms04_010.ebm:11": {
       "source": "pack01_ebm",
@@ -46698,7 +46698,7 @@
       "index": 12,
       "speaker": "Sue",
       "original": "Ta-dah! Leave it to me! A revolutionary idea that will let us synthesize during battle!",
-      "translation": "Та-дам! Оставьте это мне! Революционная идея, которая позволит нам синтезировать во время боя!"
+      "translation": "Та-дам! Оставь это мне! Революционная идея, которая позволит нам синтезировать во время боя!"
     },
     "ebm:ms04/event_message_ms04_010.ebm:13": {
       "source": "pack01_ebm",
@@ -46730,7 +46730,7 @@
       "index": 16,
       "speaker": "Sue",
       "original": "I know, right? It also takes up so much less room than all those bombs and medicine!",
-      "translation": "Да, правда? И занимает гораздо меньше места, чем все эти бомбы и лекартва!"
+      "translation": "Да, правда? И занимает гораздо меньше места, чем все эти бомбы и лекарства!"
     },
     "ebm:ms04/event_message_ms04_010.ebm:17": {
       "source": "pack01_ebm",
@@ -46738,7 +46738,7 @@
       "index": 17,
       "speaker": "Sue",
       "original": "Viva la survival on location!",
-      "translation": "Вива ла выживание в полевых условиях!"
+      "translation": "Да здравствует выживание в полевых условиях!"
     },
     "ebm:ms04/event_message_ms04_010.ebm:18": {
       "source": "pack01_ebm",
@@ -46746,7 +46746,7 @@
       "index": 18,
       "speaker": "Lydie",
       "original": "Hahaha, I don't think you're using a lot of those words in the right way, Sue.",
-      "translation": "Ха-ха-ха, что-то мне кажется, Сью, что ты используешь эти слова совершенно неправильно"
+      "translation": "Ха-ха-ха, что-то мне кажется, Сью, что ты используешь эти слова совершенно неправильно."
     },
     "ebm:ms04/event_message_ms04_010.ebm:19": {
       "source": "pack01_ebm",
@@ -46754,7 +46754,7 @@
       "index": 19,
       "speaker": "Lydie",
       "original": "Still, this is definitely super convenient. Let's give it a field test as soon as we can!",
-      "translation": "Тем не менее, это определенно очень удобно. Давайте проведем полевые испытания, как только сможем!"
+      "translation": "Тем не менее, это определенно очень удобно. Давай проведём полевые испытания, как только сможем!"
     },
     "ebm:ms04/event_message_ms04_010.ebm:20": {
       "source": "pack01_ebm",
@@ -46946,7 +46946,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "Sure, go ahead. I've finished it already.",
-      "translation": "Конечно, давай. Я уже закончил это."
+      "translation": "Конечно, давай. Я уже закончила."
     },
     "ebm:ms04/event_message_ms04_030.ebm:3": {
       "source": "pack01_ebm",
@@ -46986,7 +46986,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "Look! Masked Royal and Knight Saber Combination Attack! True Super Destruction Secret God... something!",
-      "translation": "Смотреть! Комбинированная атака королевской маски и рыцарской сабли! Настоящий Тайный Бог Суперразрушения... что-то!"
+      "translation": "Смотри! Комбинированная атака Маскированного короля и Рыцарской сабли! Настоящий Тайный Бог Суперразрушения... что-то!"
     },
     "ebm:ms04/event_message_ms04_030.ebm:8": {
       "source": "pack01_ebm",
@@ -47002,7 +47002,7 @@
       "index": 9,
       "speaker": "Lydie",
       "original": "What about it! I want to do this myself! I want our own combination attack!",
-      "translation": "Что насчет этого! Я хочу сделать это сам! Я хочу нашу собственную комбинированную атаку!"
+      "translation": "Что насчёт этого! Я хочу сделать это сама! Я хочу нашу собственную комбинированную атаку!"
     },
     "ebm:ms04/event_message_ms04_030.ebm:10": {
       "source": "pack01_ebm",
@@ -47010,7 +47010,7 @@
       "index": 10,
       "speaker": "Sue",
       "original": "Huh? I forgot you have a weak spot for stuff like that, Lydie...",
-      "translation": "Хм? Я забыл, что у тебя есть слабость к таким вещам, Лиди..."
+      "translation": "Хм? Я забыла, что у тебя есть слабость к таким вещам, Лиди..."
     },
     "ebm:ms04/event_message_ms04_030.ebm:11": {
       "source": "pack01_ebm",
@@ -47018,7 +47018,7 @@
       "index": 11,
       "speaker": "Lydie",
       "original": "You're right I do! But this is about more than just shouting a cool attack name!",
-      "translation": "Ты прав, я так и делаю! Но это нечто большее, чем просто выкрикивание крутого названия атаки!"
+      "translation": "Ты права, есть! Но это нечто большее, чем просто выкрикивание крутого названия атаки!"
     },
     "ebm:ms04/event_message_ms04_030.ebm:12": {
       "source": "pack01_ebm",
@@ -47034,7 +47034,7 @@
       "index": 13,
       "speaker": "Lydie",
       "original": "Those who master combination attacks will rule the battlefield! They'll help us a lot, I'm sure!",
-      "translation": "Те, кто освоит комбинированные атаки, будут править полем битвы! Они нам очень помогут, я уверен!"
+      "translation": "Те, кто освоит комбинированные атаки, будут править полем битвы! Они нам очень помогут, я уверена!"
     },
     "ebm:ms04/event_message_ms04_030.ebm:14": {
       "source": "pack01_ebm",
@@ -47042,7 +47042,7 @@
       "index": 14,
       "speaker": "Sue",
       "original": "You think?",
-      "translation": "Вы думаете?"
+      "translation": "Ты думаешь?"
     },
     "ebm:ms04/event_message_ms04_030.ebm:15": {
       "source": "pack01_ebm",
@@ -47066,7 +47066,7 @@
       "index": 17,
       "speaker": "Lydie",
       "original": "Great! Heheh, now I need to start thinking up attack names.",
-      "translation": "Большой! Хе-хе, теперь мне нужно начать придумывать названия атак."
+      "translation": "Отлично! Хе-хе, теперь мне нужно начать придумывать названия атак."
     },
     "ebm:ms04/event_message_ms04_030.ebm:18": {
       "source": "pack01_ebm",
@@ -47114,7 +47114,7 @@
       "index": 23,
       "speaker": "System",
       "original": "They require the Combination Gauge to use, but are strong enough to completely turn a battle around.",
-      "translation": "Для использования им требуется комбинированный датчик, но они достаточно сильны, чтобы полностью перевернуть битву."
+      "translation": "Для использования нужна шкала комбинации, но они достаточно сильны, чтобы полностью перевернуть битву."
     },
     "ebm:ms04/event_message_ms04_030.ebm:24": {
       "source": "pack01_ebm",
@@ -47154,7 +47154,7 @@
       "index": 3,
       "speaker": "Ilmeria",
       "original": "Oh dear. Sorry if I surprised you.",
-      "translation": "О, Боже. Извините, если я вас удивил."
+      "translation": "О боже. Извините, если я вас удивила."
     },
     "ebm:ms04/event_message_ms04_040.ebm:4": {
       "source": "pack01_ebm",
@@ -47162,7 +47162,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "You did! So no unannounced lecture today. Sit down and eat some snacks with us! Alright?",
-      "translation": "Вы сделали! Так что сегодня никакой необъявленной лекции. Садитесь и перекусите вместе с нами! Хорошо?"
+      "translation": "Удивила! Так что сегодня никакой необъявленной лекции. Садись и перекуси вместе с нами! Хорошо?"
     },
     "ebm:ms04/event_message_ms04_040.ebm:5": {
       "source": "pack01_ebm",
@@ -47178,7 +47178,7 @@
       "index": 6,
       "speaker": "Ilmeria",
       "original": "If you don't know about this, you're lower as an alchemist than a Puni! No, than water fleas!",
-      "translation": "Если ты об этом не знаешь, то ты как алхимик ниже пуни! Нет, чем водяные блохи!"
+      "translation": "Если вы об этом не знаете, то как алхимики вы ниже пуни! Нет, ниже водяных блох!"
     },
     "ebm:ms04/event_message_ms04_040.ebm:7": {
       "source": "pack01_ebm",
@@ -47202,7 +47202,7 @@
       "index": 9,
       "speaker": "Ilmeria",
       "original": "Good. I'm about to teach you about Catalysts. Let's get right into it.",
-      "translation": "Хороший. Я собираюсь рассказать вам о катализаторах. Давайте сразу перейдем к делу."
+      "translation": "Хорошо. Я собираюсь рассказать вам о катализаторах. Давайте сразу перейдём к делу."
     },
     "ebm:ms04/event_message_ms04_040.ebm:10": {
       "source": "pack01_ebm",
@@ -47210,7 +47210,7 @@
       "index": 10,
       "speaker": "Ilmeria",
       "original": "That covers it. Did you get all that?",
-      "translation": "Это покрывает это. Вы все это получили?"
+      "translation": "На этом всё. Вы всё поняли?"
     },
     "ebm:ms04/event_message_ms04_040.ebm:11": {
       "source": "pack01_ebm",
@@ -47226,7 +47226,7 @@
       "index": 12,
       "speaker": "Lydie",
       "original": "Sue, are you sure you understand? I guess that isn't incorrect, but...",
-      "translation": "Сью, ты уверена, что понимаешь? Думаю, это не так, но..."
+      "translation": "Сью, ты уверена, что понимаешь? В общем-то так, но..."
     },
     "ebm:ms04/event_message_ms04_040.ebm:13": {
       "source": "pack01_ebm",
@@ -47234,7 +47234,7 @@
       "index": 13,
       "speaker": "Ilmeria",
       "original": "Just give it a try and you'll get it. Here's your reward for making it through the lecture!",
-      "translation": "Просто попробуйте, и вы получите это. Вот ваша награда за прохождение лекции!"
+      "translation": "Просто попробуйте — и поймёте. Вот ваша награда за то, что дослушали лекцию!"
     },
     "ebm:ms04/event_message_ms04_040.ebm:14": {
       "source": "pack01_ebm",
@@ -47330,7 +47330,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "S-She really did turn up! Sue, that was amazing!",
-      "translation": "Т-Она действительно появилась! Сью, это было потрясающе!"
+      "translation": "О-она и правда появилась! Сью, это было потрясающе!"
     },
     "ebm:ms04/event_message_ms04_050.ebm:4": {
       "source": "pack01_ebm",
@@ -47338,7 +47338,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "Hahah! I've got a handle on the way our teacher acts now!",
-      "translation": "Ха-ха! Я понял, как сейчас ведет себя наш учитель!"
+      "translation": "Ха-ха! Я поняла, как ведёт себя наша учительница!"
     },
     "ebm:ms04/event_message_ms04_050.ebm:5": {
       "source": "pack01_ebm",
@@ -47346,7 +47346,7 @@
       "index": 5,
       "speaker": "Ilmeria",
       "original": "W-What does that mean? I'm not sure what I've done, but it feels like a defeat...",
-      "translation": "Ч-что это значит? Не знаю, что я сделал, но это похоже на поражение..."
+      "translation": "Ч-что это значит? Не знаю, что я сделала, но это похоже на поражение..."
     },
     "ebm:ms04/event_message_ms04_050.ebm:6": {
       "source": "pack01_ebm",
@@ -47362,7 +47362,7 @@
       "index": 7,
       "speaker": "Lydie",
       "original": "Ah, of course! Please go ahead.",
-      "translation": "Ах, конечно! Пожалуйста, продолжайте."
+      "translation": "Ах, конечно! Пожалуйста, продолжай."
     },
     "ebm:ms04/event_message_ms04_050.ebm:8": {
       "source": "pack01_ebm",
@@ -47394,7 +47394,7 @@
       "index": 11,
       "speaker": "Lydie",
       "original": "Hold on, Sue. That sounds a lot like what you said last time.",
-      "translation": "Подожди, Сью. Это очень похоже на то, что вы сказали в прошлый раз."
+      "translation": "Подожди, Сью. Это очень похоже на то, что ты сказала в прошлый раз."
     },
     "ebm:ms04/event_message_ms04_050.ebm:12": {
       "source": "pack01_ebm",
@@ -47402,7 +47402,7 @@
       "index": 12,
       "speaker": "Sue",
       "original": "No, it isn't. I said \"incredible\" before. This time I said \"stupendous\"!",
-      "translation": "Нет, это не так. Я уже сказал «невероятно». На этот раз я сказал «потрясающе»!"
+      "translation": "Нет, это не так. Я уже сказала «невероятно». На этот раз я сказала «потрясающе»!"
     },
     "ebm:ms04/event_message_ms04_050.ebm:13": {
       "source": "pack01_ebm",
@@ -47410,7 +47410,7 @@
       "index": 13,
       "speaker": "Sue",
       "original": "We learned different stuff, so I said something different! I'm not recycling comments over here!",
-      "translation": "Мы узнали разное, поэтому я сказал другое! Я не перерабатываю здесь комментарии!"
+      "translation": "Мы узнали разное, поэтому я сказала другое! Я тут не перерабатываю одни и те же комментарии!"
     },
     "ebm:ms04/event_message_ms04_050.ebm:14": {
       "source": "pack01_ebm",
@@ -47426,7 +47426,7 @@
       "index": 15,
       "speaker": "Ilmeria",
       "original": "Hahaha. I'm sure it all makes sense in your head somewhere, Sue.",
-      "translation": "Ха-ха-ха. Я уверен, что где-то в твоей голове все это имеет смысл, Сью."
+      "translation": "Ха-ха-ха. Я уверена, что где-то в твоей голове всё это имеет смысл, Сью."
     },
     "ebm:ms04/event_message_ms04_050.ebm:16": {
       "source": "pack01_ebm",
@@ -47458,7 +47458,7 @@
       "index": 19,
       "speaker": "Sue",
       "original": "Uwah. I was getting hungry, so I was pretty sure she'd bring some snacks along with her lecture.",
-      "translation": "Ува. Я проголодался, поэтому был почти уверен, что она принесет с лекцией что-нибудь перекусить."
+      "translation": "Ува. Я проголодалась, поэтому была почти уверена, что она принесёт с лекцией что-нибудь перекусить."
     },
     "ebm:ms04/event_message_ms04_050.ebm:20": {
       "source": "pack01_ebm",
@@ -47514,7 +47514,7 @@
       "index": 0,
       "speaker": "Sue",
       "original": "Great, that takes care of that! Ooh, I need some tea!",
-      "translation": "Отлично, это позаботится об этом! Ох, мне нужен чай!"
+      "translation": "Отлично, с этим разобрались! Ох, мне нужен чай!"
     },
     "ebm:ms04/event_message_ms04_060.ebm:1": {
       "source": "pack01_ebm",
@@ -47522,7 +47522,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Hehehe! I've saved up to buy this new book!",
-      "translation": "Хе-хе-хе! Я накопил, чтобы купить эту новую книгу!"
+      "translation": "Хе-хе-хе! Я накопила, чтобы купить эту новую книгу!"
     },
     "ebm:ms04/event_message_ms04_060.ebm:2": {
       "source": "pack01_ebm",
@@ -47530,7 +47530,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "I can't wait to settle down and... hold on! Sue!",
-      "translation": "Не могу дождаться, когда успокоюсь и... держусь! Сью!"
+      "translation": "Не могу дождаться, когда устроюсь поудобнее и... подожди! Сью!"
     },
     "ebm:ms04/event_message_ms04_060.ebm:3": {
       "source": "pack01_ebm",
@@ -47546,7 +47546,7 @@
       "index": 4,
       "speaker": "Lydie",
       "original": "What do you think! This!",
-      "translation": "Что вы думаете! Этот!"
+      "translation": "Что ты думаешь! Вот это!"
     },
     "ebm:ms04/event_message_ms04_060.ebm:5": {
       "source": "pack01_ebm",
@@ -47554,7 +47554,7 @@
       "index": 5,
       "speaker": "Sue",
       "original": "Yeah, I just made that.",
-      "translation": "Да, я только что это сделал."
+      "translation": "Да, я только что это сделала."
     },
     "ebm:ms04/event_message_ms04_060.ebm:6": {
       "source": "pack01_ebm",
@@ -47562,7 +47562,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "Then why is it lying around here? What if something set it off?",
-      "translation": "Тогда почему оно лежит здесь? Что, если что-то спровоцирует это?"
+      "translation": "Тогда почему оно лежит здесь? Что, если что-то его спровоцирует?"
     },
     "ebm:ms04/event_message_ms04_060.ebm:7": {
       "source": "pack01_ebm",
@@ -47570,7 +47570,7 @@
       "index": 7,
       "speaker": "Lydie",
       "original": "Not to mention leaving stuff scattered about like this is why you never have it when you need it!",
-      "translation": "Не говоря уже о том, чтобы разбрасывать вещи вот так, вот почему у вас их никогда не будет, когда они вам понадобятся!"
+      "translation": "Не говоря уже о том, что разбрасывать вещи вот так — вот почему у тебя их никогда нет, когда они нужны!"
     },
     "ebm:ms04/event_message_ms04_060.ebm:8": {
       "source": "pack01_ebm",
@@ -47594,7 +47594,7 @@
       "index": 10,
       "speaker": "Lydie",
       "original": "So long as you understand!",
-      "translation": "Пока ты понимаешь!"
+      "translation": "Главное, что ты понимаешь!"
     },
     "ebm:ms04/event_message_ms04_060.ebm:11": {
       "source": "pack01_ebm",
@@ -47602,7 +47602,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "Huh, Lydie's right. I need to try harder... hold on! What's this? A new book?",
-      "translation": "Ха, Лиди права. Мне нужно стараться больше... держись! Что это? Новая книга?"
+      "translation": "Ха, Лиди права. Мне нужно стараться больше... подожди! Что это? Новая книга?"
     },
     "ebm:ms04/event_message_ms04_060.ebm:12": {
       "source": "pack01_ebm",
@@ -47618,7 +47618,7 @@
       "index": 13,
       "speaker": "Sue",
       "original": "Hey, Lydie! Can you hear me, Lydie? If you're going to lecture people, at least have the...",
-      "translation": "Привет, Лиди! Ты меня слышишь, Лиди? Если вы собираетесь читать людям лекции, по крайней мере, имейте..."
+      "translation": "Эй, Лиди! Ты меня слышишь, Лиди? Если собираешься читать людям лекции, по крайней мере имей..."
     },
     "ebm:ms04/event_message_ms04_060.ebm:14": {
       "source": "pack01_ebm",
@@ -47666,7 +47666,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Good! I've made a Special Nutrient!",
-      "translation": "Хороший! Я приготовил особое питательное вещество!"
+      "translation": "Отлично! Я приготовила особое питательное вещество!"
     },
     "ebm:ms04/event_message_ms04_070.ebm:1": {
       "source": "pack01_ebm",
@@ -47682,7 +47682,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "Hahaha, I know! Do you think it would make a person grow taller?",
-      "translation": "Ха-ха-ха, я знаю! Как вы думаете, это заставит человека вырасти выше?"
+      "translation": "Ха-ха-ха, я знаю! Как ты думаешь, от этого человек вырастет выше?"
     },
     "ebm:ms04/event_message_ms04_070.ebm:3": {
       "source": "pack01_ebm",
@@ -47706,7 +47706,7 @@
       "index": 5,
       "speaker": "Sue",
       "original": "If so, there's someone I'd really like to help out.",
-      "translation": "Если да, то есть кому-то, кому я бы очень хотел помочь."
+      "translation": "Если да, то есть кое-кто, кому я бы очень хотела помочь."
     },
     "ebm:ms04/event_message_ms04_070.ebm:6": {
       "source": "pack01_ebm",
@@ -47722,7 +47722,7 @@
       "index": 7,
       "speaker": "Lydie",
       "original": "Sometimes, you know, not saying anything can be the kinder thing.",
-      "translation": "Знаете, иногда лучше ничего не говорить."
+      "translation": "Знаешь, иногда лучше ничего не говорить — так добрее."
     },
     "ebm:ms04/event_message_ms04_070.ebm:8": {
       "source": "pack01_ebm",
@@ -47770,7 +47770,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Seriously, we're making pickaxes now? I didn't think being an alchemist involved manual labor!",
-      "translation": "Серьезно, мы сейчас кирки делаем? Я не думал, что профессия алхимика предполагает ручной труд!"
+      "translation": "Серьёзно, мы сейчас кирки делаем? Я не думала, что профессия алхимика предполагает ручной труд!"
     },
     "ebm:ms04/event_message_ms04_080.ebm:2": {
       "source": "pack01_ebm",
@@ -47786,7 +47786,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "Oh, Lydie, you just hate exercise! You need some though, or you'll get all fat!",
-      "translation": "О, Лиди, ты просто ненавидишь упражнения! Однако вам нужно немного, иначе вы растолстеете!"
+      "translation": "О, Лиди, ты просто ненавидишь упражнения! А тебе они нужны, иначе растолстеешь!"
     },
     "ebm:ms04/event_message_ms04_080.ebm:4": {
       "source": "pack01_ebm",
@@ -47794,7 +47794,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "I think you've put a little on already, haven't you? Eh? Eh?",
-      "translation": "Я думаю, ты уже немного набрался, не так ли? Э? Э?"
+      "translation": "Я думаю, ты уже немного набралась, не так ли? Э? Э?"
     },
     "ebm:ms04/event_message_ms04_080.ebm:5": {
       "source": "pack01_ebm",
@@ -47810,7 +47810,7 @@
       "index": 6,
       "speaker": "Sue",
       "original": "I know everything about you, Lydie dearest! Let me tell you about a brand new diet!",
-      "translation": "Я знаю о тебе все, Лиди, дорогая! Позвольте мне рассказать вам о совершенно новой диете!"
+      "translation": "Я знаю о тебе всё, Лиди, дорогая! Дай расскажу тебе о совершенно новой диете!"
     },
     "ebm:ms04/event_message_ms04_080.ebm:7": {
       "source": "pack01_ebm",
@@ -47818,7 +47818,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "It's called the \"Pickaxe Burn\"! You use a pickaxe to help your little sister and pack on the muscle!",
-      "translation": "Это называется «Ожог киркой»! Вы используете кирку, чтобы помочь своей младшей сестре и накачать мышцы!"
+      "translation": "Это называется «Ожог киркой»! Используешь кирку, чтобы помочь младшей сестре — и накачиваешь мышцы!"
     },
     "ebm:ms04/event_message_ms04_080.ebm:8": {
       "source": "pack01_ebm",
@@ -47858,7 +47858,7 @@
       "index": 12,
       "speaker": "System",
       "original": "<CLR1>Even if you can't hear any ores, a little wrecking rampage never hurt anyone!<CLNR>",
-      "translation": "<CLR1>Даже если вы не слышите орков, небольшая разрушительная ярость никому не повредит!<CLNR>"
+      "translation": "<CLR1>Даже если вы не слышите руду, небольшая разрушительная ярость никому не повредит!<CLNR>"
     },
     "ebm:ms04/event_message_ms04_090.ebm:0": {
       "source": "pack01_ebm",
@@ -47874,7 +47874,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Hehe, I'm glad, Lydie. That means we can add some fish to the dinner menu tonight!",
-      "translation": "Хе-хе, я рад, Лиди. Это значит, что сегодня вечером мы можем добавить немного рыбы в меню ужина!"
+      "translation": "Хе-хе, я рада, Лиди. Это значит, что сегодня вечером мы можем добавить рыбу в меню ужина!"
     },
     "ebm:ms04/event_message_ms04_090.ebm:2": {
       "source": "pack01_ebm",
@@ -47922,7 +47922,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "Muwahahaha! All you fishes! Start trembling in fear!",
-      "translation": "Мувахахаха! Все вы, рыбки! Начни дрожать от страха!"
+      "translation": "Мувахахаха! Все вы, рыбки! Начинайте дрожать от страха!"
     },
     "ebm:ms04/event_message_ms04_090.ebm:8": {
       "source": "pack01_ebm",
@@ -47970,7 +47970,7 @@
       "index": 13,
       "speaker": "System",
       "original": "Press <IM00> right when the \"!\" appears above your head to hook a fish and pull it out.",
-      "translation": "Нажмите <IM00> вправо, когда появится «!» появляется над вашей головой, чтобы подсечь рыбу и вытащить ее."
+      "translation": "Нажмите <IM00> в тот момент, когда над головой появится «!», чтобы подсечь рыбу и вытащить её."
     },
     "ebm:ms04/event_message_ms04_090.ebm:14": {
       "source": "pack01_ebm",
@@ -47978,7 +47978,7 @@
       "index": 14,
       "speaker": "System",
       "original": "<CLR1>You can fish in many places and catch many different things! Take it easy and give it a try!<CLNR>",
-      "translation": "<CLR1>Вы можете ловить рыбу во многих местах и ловить много разных вещей! Расслабься и попробуй!<CLNR>"
+      "translation": "<CLR1>Вы можете ловить рыбу во многих местах и ловить много разных вещей! Расслабьтесь и попробуйте!<CLNR>"
     },
     "ebm:ms04/event_message_ms04_100.ebm:0": {
       "source": "pack01_ebm",
@@ -47986,7 +47986,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "We made an Insect Net! Now we can go and catch all sorts of bugs and insects!",
-      "translation": "Мы сделали сетку от насекомых! Теперь мы можем пойти ловить всяких жучков и насекомых!"
+      "translation": "Мы сделали сачок для насекомых! Теперь мы можем ловить всяких жучков и насекомых!"
     },
     "ebm:ms04/event_message_ms04_100.ebm:1": {
       "source": "pack01_ebm",
@@ -47994,7 +47994,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Tell me, why did you make one of those? What's the point in catching some dirty bugs?",
-      "translation": "Скажи мне, почему ты сделал один из них? Какой смысл ловить грязные ошибки?"
+      "translation": "Скажи мне, зачем ты его сделала? Какой смысл ловить каких-то грязных жуков?"
     },
     "ebm:ms04/event_message_ms04_100.ebm:2": {
       "source": "pack01_ebm",
@@ -48050,7 +48050,7 @@
       "index": 8,
       "speaker": "Lydie",
       "original": "Hehe, I was just kidding. We made this net, though, so we're definitely going to use it!",
-      "translation": "Хе-хе, я просто пошутил. Однако мы создали эту сеть, поэтому обязательно воспользуемся ею!"
+      "translation": "Хе-хе, я просто пошутила. Но раз уж мы сделали этот сачок, мы обязательно им воспользуемся!"
     },
     "ebm:ms04/event_message_ms04_100.ebm:9": {
       "source": "pack01_ebm",
@@ -48058,7 +48058,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Aaaaaaaaaaaaagh! Get it off, off, off, off!",
-      "translation": "Ааааааааа! Снимите его, снимите, снимите, снимите!"
+      "translation": "Ааааааааа! Сними его, сними, сними, сними!"
     },
     "ebm:ms04/event_message_ms04_100.ebm:10": {
       "source": "pack01_ebm",
@@ -48066,7 +48066,7 @@
       "index": 10,
       "speaker": "System",
       "original": "<CLEG>[Tutorial] ~Insect Net~<CLNR>",
-      "translation": "<CLEG>[Учебное пособие] ~Сеть от насекомых~<CLNR>"
+      "translation": "<CLEG>[Учебное пособие] ~Сачок для насекомых~<CLNR>"
     },
     "ebm:ms04/event_message_ms04_100.ebm:11": {
       "source": "pack01_ebm",
@@ -48074,7 +48074,7 @@
       "index": 11,
       "speaker": "System",
       "original": "You can use the <CLEG>Insect Net<CLNR> to gather insect-related materials.",
-      "translation": "Вы можете использовать <CLEG>Сеть от насекомых<CLNR> для сбора материалов, связанных с насекомыми."
+      "translation": "Вы можете использовать <CLEG>Сачок для насекомых<CLNR> для сбора материалов, связанных с насекомыми."
     },
     "ebm:ms04/event_message_ms04_100.ebm:12": {
       "source": "pack01_ebm",
@@ -48082,7 +48082,7 @@
       "index": 12,
       "speaker": "System",
       "original": "You can equip the Insect Net from Harvest Equip from the Main Menu.",
-      "translation": "Вы можете оборудовать сетку от насекомых в разделе «Снаряжение для сбора урожая» в главном меню."
+      "translation": "Вы можете экипировать сачок для насекомых в разделе «Снаряжение для сбора урожая» в главном меню."
     },
     "ebm:ms04/event_message_ms04_100.ebm:13": {
       "source": "pack01_ebm",
@@ -48106,7 +48106,7 @@
       "index": 0,
       "speaker": "Sue",
       "original": "Ta-dah! Check out these special gathering gloves! We can get all sorts of rare materials with these!",
-      "translation": "Та-да! Взгляните на эти специальные перчатки для сбора! С их помощью мы можем получить все виды редких материалов!"
+      "translation": "Та-да! Взгляни на эти специальные перчатки для сбора! С их помощью мы можем получить все виды редких материалов!"
     },
     "ebm:ms04/event_message_ms04_110.ebm:1": {
       "source": "pack01_ebm",
@@ -48122,7 +48122,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "Ah! Don't touch them with your bare hands!",
-      "translation": "Ах! Не трогайте их голыми руками!"
+      "translation": "Ах! Не трогай их голыми руками!"
     },
     "ebm:ms04/event_message_ms04_110.ebm:3": {
       "source": "pack01_ebm",
@@ -48130,7 +48130,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "Why ever not? H-Hold on! They're stuck to my hand!",
-      "translation": "Почему бы и нет? Х-Держись! Они прилипли к моей руке!"
+      "translation": "Почему бы и нет? П-подожди! Они прилипли к моей руке!"
     },
     "ebm:ms04/event_message_ms04_110.ebm:4": {
       "source": "pack01_ebm",
@@ -48138,7 +48138,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "I've used a special processing on the palms of the gloves. They stick to anything rare they touch.",
-      "translation": "Я применил специальную обработку на ладонях перчаток. Они прилипают ко всему редкому, к чему прикасаются."
+      "translation": "Я применила специальную обработку на ладонях перчаток. Они прилипают ко всему редкому, к чему прикасаются."
     },
     "ebm:ms04/event_message_ms04_110.ebm:5": {
       "source": "pack01_ebm",
@@ -48178,7 +48178,7 @@
       "index": 9,
       "speaker": "System",
       "original": "<CLEG>[Tutorial] ~Gathering Gloves~<CLNR>",
-      "translation": "<CLEG>[Учебное пособие] ~Сбор перчаток~<CLNR>"
+      "translation": "<CLEG>[Учебное пособие] ~Перчатки для сбора~<CLNR>"
     },
     "ebm:ms04/event_message_ms04_110.ebm:10": {
       "source": "pack01_ebm",
@@ -48210,7 +48210,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "All done! Hehe, pretty good work, even if I do say so myself.",
-      "translation": "Все готово! Хе-хе, неплохая работа, даже если я сам так говорю."
+      "translation": "Всё готово! Хе-хе, неплохая работа, даже если я сама так говорю."
     },
     "ebm:ms04/event_message_ms04_120.ebm:1": {
       "source": "pack01_ebm",
@@ -48218,7 +48218,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Oh, you've finally made that portable toile...",
-      "translation": "О, вы наконец-то сделали этот переносной туалет..."
+      "translation": "О, ты наконец-то сделала этот переносной туалет..."
     },
     "ebm:ms04/event_message_ms04_120.ebm:2": {
       "source": "pack01_ebm",
@@ -48234,7 +48234,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "Come on. At some point, you must have wanted to collect some water, but had nothing to put it in, right?",
-      "translation": "Ну давай же. В какой-то момент вам, должно быть, захотелось набрать немного воды, но вам некуда было ее налить, верно?"
+      "translation": "Ну же. В какой-то момент тебе наверняка хотелось набрать воды, а наливать было некуда, верно?"
     },
     "ebm:ms04/event_message_ms04_120.ebm:4": {
       "source": "pack01_ebm",
@@ -48242,7 +48242,7 @@
       "index": 4,
       "speaker": "Lydie",
       "original": "We use a lot of water in alchemy, too. So I thought this might be useful.",
-      "translation": "В алхимии мы тоже используем много воды. Поэтому я подумал, что это может быть полезно."
+      "translation": "В алхимии мы тоже используем много воды. Поэтому я подумала, что это может быть полезно."
     },
     "ebm:ms04/event_message_ms04_120.ebm:5": {
       "source": "pack01_ebm",
@@ -48282,7 +48282,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Ah! I've upset the wrong firebrand now, hehe.",
-      "translation": "Ах! Я сейчас расстроил не того смутьяна, хе-хе."
+      "translation": "Ах! Я сейчас расстроила не того смутьяна, хе-хе."
     },
     "ebm:ms04/event_message_ms04_120.ebm:10": {
       "source": "pack01_ebm",
@@ -48338,7 +48338,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "Sure did! I can still remember it even now.",
-      "translation": "Конечно, сделал! Я до сих пор помню это."
+      "translation": "Ещё бы! Я до сих пор это помню."
     },
     "ebm:ms04/event_message_ms04_130.ebm:3": {
       "source": "pack01_ebm",
@@ -48346,7 +48346,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "But it also really took it out of me. Like, mentally wore me down.",
-      "translation": "Но это также действительно вымотало меня. Типа, морально утомил меня."
+      "translation": "Но это и правда меня вымотало. Ну, морально утомило."
     },
     "ebm:ms04/event_message_ms04_130.ebm:4": {
       "source": "pack01_ebm",
@@ -48354,7 +48354,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "You said it! I wish we could do the same thing, but a bit easier.",
-      "translation": "Ты сказал это! Мне бы хотелось, чтобы мы могли сделать то же самое, но немного проще."
+      "translation": "Вот именно! Мне бы хотелось, чтобы мы могли сделать то же самое, но чуть проще."
     },
     "ebm:ms04/event_message_ms04_130.ebm:5": {
       "source": "pack01_ebm",
@@ -48386,7 +48386,7 @@
       "index": 8,
       "speaker": "Sue",
       "original": "Hehe, you're right! Let's give it some thought!",
-      "translation": "Хе-хе, ты прав! Давайте подумаем!"
+      "translation": "Хе-хе, ты права! Давай подумаем!"
     },
     "ebm:ms04/event_message_ms04_130.ebm:9": {
       "source": "pack01_ebm",
@@ -48426,7 +48426,7 @@
       "index": 0,
       "speaker": "Sue",
       "original": "Good, that all looks correct. We did it, Lydie!",
-      "translation": "Хорошо, что все выглядит правильно. Мы сделали это, Лиди!"
+      "translation": "Хорошо, всё выглядит правильно. У нас получилось, Лиди!"
     },
     "ebm:ms04/event_message_ms04_140.ebm:1": {
       "source": "pack01_ebm",
@@ -48482,7 +48482,7 @@
       "index": 7,
       "speaker": "System",
       "original": "<CLR1>Borrowing the power of the Paintings can give you an advantage in battle!<CLNR>",
-      "translation": "<CLR1>Позаимствование силы Картинок может дать вам преимущество в бою!<CLNR>"
+      "translation": "<CLR1>Позаимствовав силу Картин, вы можете получить преимущество в бою!<CLNR>"
     },
     "ebm:ms04/event_message_ms04_150.ebm:0": {
       "source": "pack01_ebm",
@@ -48490,7 +48490,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Hold on. This Painting looks different from when I last saw it...",
-      "translation": "Подожди. Эта картина выглядит иначе, чем когда я видел ее в последний раз..."
+      "translation": "Подожди. Эта картина выглядит иначе, чем когда я видела её в последний раз..."
     },
     "ebm:ms04/event_message_ms04_150.ebm:1": {
       "source": "pack01_ebm",
@@ -48498,7 +48498,7 @@
       "index": 1,
       "speaker": "Mireille",
       "original": "Oh, you've got a good eye! That is another reason why they are called \"Mysterious\" Paintings, you see.",
-      "translation": "Ох, у тебя хороший глаз! Видите ли, это еще одна причина, почему их называют «Таинственными» картинами."
+      "translation": "Ох, у тебя хороший глаз! Это ещё одна причина, почему их называют «Таинственными» картинами."
     },
     "ebm:ms04/event_message_ms04_150.ebm:2": {
       "source": "pack01_ebm",
@@ -48514,7 +48514,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "Wow, really? So even if we've been to a painting before...",
-      "translation": "Вау, правда? Так что, даже если мы уже были на картине..."
+      "translation": "Вау, правда? Значит, даже если мы уже бывали в картине..."
     },
     "ebm:ms04/event_message_ms04_150.ebm:4": {
       "source": "pack01_ebm",
@@ -48538,7 +48538,7 @@
       "index": 6,
       "speaker": "System",
       "original": "Painting worlds you have already visited may differ if you visit them again.",
-      "translation": "Миры рисования, которые вы уже посетили, могут отличаться, если вы посетите их снова."
+      "translation": "Миры картин, которые вы уже посетили, могут отличаться, если вы зайдёте в них снова."
     },
     "ebm:ms04/event_message_ms04_150.ebm:7": {
       "source": "pack01_ebm",
@@ -48562,7 +48562,7 @@
       "index": 9,
       "speaker": "System",
       "original": "Collect the treasure inside each... and something good might happen! Keep your eyes peeled!",
-      "translation": "Соберите сокровища внутри каждого... и может случиться что-то хорошее! Держите глаза открытыми!"
+      "translation": "Соберите сокровища в каждом... и может случиться что-то хорошее! Будьте начеку!"
     },
     "ebm:ms04/event_message_ms04_160.ebm:0": {
       "source": "pack01_ebm",
@@ -48570,7 +48570,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Hey, Mireille. It might seem odd asking this now, but does time inside the Paintings stand still?",
-      "translation": "Привет, Мирей. Сейчас может показаться странным спрашивать об этом, но стоит ли время внутри Картин на месте?"
+      "translation": "Эй, Мирей. Сейчас может показаться странным спрашивать об этом, но время внутри Картин стоит на месте?"
     },
     "ebm:ms04/event_message_ms04_160.ebm:1": {
       "source": "pack01_ebm",
@@ -48594,7 +48594,7 @@
       "index": 3,
       "speaker": "Mireille",
       "original": "When you come back from the painting worlds, time has passed here, right?",
-      "translation": "Когда ты возвращаешься из живописных миров, здесь время уже прошло, верно?"
+      "translation": "Когда вы возвращаетесь из миров картин, здесь время уже прошло, верно?"
     },
     "ebm:ms04/event_message_ms04_160.ebm:4": {
       "source": "pack01_ebm",
@@ -48626,7 +48626,7 @@
       "index": 7,
       "speaker": "Mireille",
       "original": "Yes, that sounds right. Well done, Lydie!",
-      "translation": "Да, это звучит правильно. Молодец, Лидия!"
+      "translation": "Да, это звучит правильно. Молодец, Лиди!"
     },
     "ebm:ms04/event_message_ms04_160.ebm:8": {
       "source": "pack01_ebm",
@@ -48650,7 +48650,7 @@
       "index": 10,
       "speaker": "Lydie",
       "original": "Hahaha, you're right. Sue, we're leaving!",
-      "translation": "Ха-ха-ха, ты прав. Сью, мы уходим!"
+      "translation": "Ха-ха-ха, ты права. Сью, мы уходим!"
     },
     "ebm:ms04/event_message_ms04_160.ebm:11": {
       "source": "pack01_ebm",
@@ -48666,7 +48666,7 @@
       "index": 0,
       "speaker": "Hagel",
       "original": "Hold on? Aaaaaaaaaaaaah!",
-      "translation": "Подожди? Ааааааааа!"
+      "translation": "Что такое? Аааааааааа!"
     },
     "ebm:ms04/event_message_ms04_170.ebm:1": {
       "source": "pack01_ebm",
@@ -48674,7 +48674,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "W-Whatever is the matter, Hagel? You gave me a real scare!",
-      "translation": "Ч-что случилось, Хагель? Ты меня реально напугал!"
+      "translation": "Ч-что случилось, Хагель? Вы меня реально напугали!"
     },
     "ebm:ms04/event_message_ms04_170.ebm:2": {
       "source": "pack01_ebm",
@@ -48682,7 +48682,7 @@
       "index": 2,
       "speaker": "Hagel",
       "original": "Ah, I'm sorry, girls. You've just got something there that I'm really quite interested in!",
-      "translation": "Ах, простите, девочки. У вас только что есть кое-что, что меня действительно очень интересует!"
+      "translation": "Ах, простите, девочки. У вас как раз есть кое-что, что меня очень интересует!"
     },
     "ebm:ms04/event_message_ms04_170.ebm:3": {
       "source": "pack01_ebm",
@@ -48698,7 +48698,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "Specialized gear! Yes! That makes us sound super rich!",
-      "translation": "Специализированное снаряжение! Да! Это заставляет нас казаться супербогатыми!"
+      "translation": "Специальное снаряжение! Да! От этого мы звучим как супербогачи!"
     },
     "ebm:ms04/event_message_ms04_170.ebm:5": {
       "source": "pack01_ebm",
@@ -48730,7 +48730,7 @@
       "index": 8,
       "speaker": "Lydie",
       "original": "I see. So we bring you the right materials, and you can create order-made equipment for us?",
-      "translation": "Я понимаю. То есть мы привозим вам нужные материалы, и вы можете создать для нас оборудование на заказ?"
+      "translation": "Я понимаю. То есть мы приносим вам нужные материалы, и вы можете создать для нас снаряжение на заказ?"
     },
     "ebm:ms04/event_message_ms04_170.ebm:9": {
       "source": "pack01_ebm",
@@ -48738,7 +48738,7 @@
       "index": 9,
       "speaker": "Hagel",
       "original": "That's right. You'll quickly form an attachment with items made just for you, and they're strong too!",
-      "translation": "Это верно. Вы быстро привяжетесь к предметам, созданным специально для вас, и они тоже сильны!"
+      "translation": "Верно. Вы быстро привяжетесь к предметам, сделанным специально для вас, да и прочны они тоже!"
     },
     "ebm:ms04/event_message_ms04_170.ebm:10": {
       "source": "pack01_ebm",
@@ -48746,7 +48746,7 @@
       "index": 10,
       "speaker": "Hagel",
       "original": "You can bring me materials any time, girls! I'll make the perfect gear for you!",
-      "translation": "Девочки, вы можете приносить мне материалы в любое время! Я сделаю для тебя идеальную экипировку!"
+      "translation": "Девочки, вы можете приносить мне материалы в любое время! Я сделаю для вас идеальную экипировку!"
     },
     "ebm:ms04/event_message_ms04_170.ebm:11": {
       "source": "pack01_ebm",
@@ -48778,7 +48778,7 @@
       "index": 14,
       "speaker": "System",
       "original": "<CLR1>Bring him materials often and obtain some <CLNR><CLYL>sparkling<CLNR><CLR1> new equipment!<CLNR>",
-      "translation": "<CLR1>Часто приноси ему материалы и получай <CLNR><CLYL>сверкающее<CLNR><CLR1> новое снаряжение!<CLNR>"
+      "translation": "<CLR1>Часто приносите ему материалы и получайте <CLNR><CLYL>сверкающее<CLNR><CLR1> новое снаряжение!<CLNR>"
     },
     "ebm:ms04/event_message_ms04_180.ebm:0": {
       "source": "pack01_ebm",
@@ -48786,7 +48786,7 @@
       "index": 0,
       "speaker": "Hagel",
       "original": "Hold on? Aaaaaaaaaaaaah!",
-      "translation": "Подожди? Ааааааааа!"
+      "translation": "Что такое? Аааааааааа!"
     },
     "ebm:ms04/event_message_ms04_180.ebm:1": {
       "source": "pack01_ebm",
@@ -48802,7 +48802,7 @@
       "index": 2,
       "speaker": "Hagel",
       "original": "Hey, I have feelings too, you hear?",
-      "translation": "Эй, у меня тоже есть чувства, слышишь?"
+      "translation": "Эй, у меня тоже есть чувства, слышите?"
     },
     "ebm:ms04/event_message_ms04_180.ebm:3": {
       "source": "pack01_ebm",
@@ -48818,7 +48818,7 @@
       "index": 4,
       "speaker": "Hagel",
       "original": "That thing you've got right there. I think we can use it to customize your weapons.",
-      "translation": "Вот эта штука у вас есть. Думаю, мы сможем использовать его для настройки твоего оружия."
+      "translation": "Вот эта штука у вас. Думаю, с её помощью можно настроить ваше оружие."
     },
     "ebm:ms04/event_message_ms04_180.ebm:5": {
       "source": "pack01_ebm",
@@ -48826,7 +48826,7 @@
       "index": 5,
       "speaker": "Lydie",
       "original": "Really? How?",
-      "translation": "Действительно? Как?"
+      "translation": "Правда? Как?"
     },
     "ebm:ms04/event_message_ms04_180.ebm:6": {
       "source": "pack01_ebm",
@@ -48858,7 +48858,7 @@
       "index": 9,
       "speaker": "Hagel",
       "original": "I'm not going to mess up! Just come and see me, any time you want to try it!",
-      "translation": "Я не собираюсь портить! Просто приходите ко мне, в любое время, когда захотите попробовать!"
+      "translation": "Я ничего не испорчу! Просто приходите ко мне, когда захотите попробовать!"
     },
     "ebm:ms04/event_message_ms04_180.ebm:10": {
       "source": "pack01_ebm",
@@ -48906,7 +48906,7 @@
       "index": 15,
       "speaker": "System",
       "original": "<CLR1>Try a variety of combinations and create your own <CLNR><CLYL>shining<CLNR><CLR1> weapon!<CLNR>",
-      "translation": "<CLR1>Попробуй разнообразные комбинации и создай свое собственное <CLNR><CLYL>сияющее<CLNR><CLR1> оружие!<CLNR>"
+      "translation": "<CLR1>Попробуйте разные комбинации и создайте своё собственное <CLNR><CLYL>сияющее<CLNR><CLR1> оружие!<CLNR>"
     },
     "ebm:ms04/event_message_ms04_190.ebm:0": {
       "source": "pack01_ebm",
@@ -48914,7 +48914,7 @@
       "index": 0,
       "speaker": "Corneria",
       "original": "Lydie, Sue. I've decided to start a new service.",
-      "translation": "Лиди, Сью. Я решил запустить новый сервис."
+      "translation": "Лиди, Сью. Я решила запустить новую услугу."
     },
     "ebm:ms04/event_message_ms04_190.ebm:1": {
       "source": "pack01_ebm",
@@ -48922,7 +48922,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "You have? What can possibly follow your volume retail service?",
-      "translation": "У вас есть? Что может последовать за вашим объемным розничным обслуживанием?"
+      "translation": "Правда? Что может последовать за твоей услугой оптовых продаж?"
     },
     "ebm:ms04/event_message_ms04_190.ebm:2": {
       "source": "pack01_ebm",
@@ -48930,7 +48930,7 @@
       "index": 2,
       "speaker": "Corneria",
       "original": "Ready? It's called \"Top Up Your Used Items! Completely Reassuring Refill Service\"!",
-      "translation": "Готовый? Это называется «Пополните использованные товары! Полностью надежная услуга пополнения запасов»!"
+      "translation": "Готовы? Это называется «Пополните использованные товары! Полностью надёжная услуга пополнения»!"
     },
     "ebm:ms04/event_message_ms04_190.ebm:3": {
       "source": "pack01_ebm",
@@ -48938,7 +48938,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "Eh...? A refill service...?",
-      "translation": "Э...? Служба пополнения счета...?"
+      "translation": "Э...? Услуга пополнения...?"
     },
     "ebm:ms04/event_message_ms04_190.ebm:4": {
       "source": "pack01_ebm",
@@ -48946,7 +48946,7 @@
       "index": 4,
       "speaker": "Corneria",
       "original": "No. \"Top Up Your Used Items! Completely Reassuring Refill Service\"!",
-      "translation": "Нет. «Пополните использованные товары! Полностью надежная услуга пополнения запасов»!"
+      "translation": "Нет. «Пополните использованные товары! Полностью надёжная услуга пополнения»!"
     },
     "ebm:ms04/event_message_ms04_190.ebm:5": {
       "source": "pack01_ebm",
@@ -48978,7 +48978,7 @@
       "index": 8,
       "speaker": "Lydie",
       "original": "A-Amazing! The volume sales were good, but this? Your shop is just too convenient!",
-      "translation": "А-потрясающе! Объем продаж был хорошим, но это? Ваш магазин очень удобен!"
+      "translation": "А-потрясающе! Оптовые продажи были удобны, но это? Твой магазин просто слишком удобный!"
     },
     "ebm:ms04/event_message_ms04_190.ebm:9": {
       "source": "pack01_ebm",
@@ -48986,7 +48986,7 @@
       "index": 9,
       "speaker": "Corneria",
       "original": "Thank you. The \"Top Up Your Used Items! Completely Reassuring Refill Service\" will be here for you.",
-      "translation": "Спасибо. «Пополните использованные товары! Полностью надежная услуга пополнения запасов» будет здесь для вас."
+      "translation": "Спасибо. «Пополните использованные товары! Полностью надёжная услуга пополнения» будет здесь для вас."
     },
     "ebm:ms04/event_message_ms04_190.ebm:10": {
       "source": "pack01_ebm",
@@ -49026,7 +49026,7 @@
       "index": 14,
       "speaker": "System",
       "original": "Of course, refills will cost you money. If you don't have the cash you won't get the refills.",
-      "translation": "Конечно, заправка будет стоить вам денег. Если у вас нет денег, вы не получите пополнения."
+      "translation": "Конечно, пополнение будет стоить вам денег. Если денег нет — пополнения не будет."
     },
     "ebm:ms04/event_message_ms04_190.ebm:15": {
       "source": "pack01_ebm",
@@ -49042,7 +49042,7 @@
       "index": 16,
       "speaker": "System",
       "original": "<CLR1>Don't get caught short without any items! Corneria's got your back!<CLNR>",
-      "translation": "<CLR1>Не ошибитесь без каких-либо предметов! Корнерия прикроет твою спину!<CLNR>"
+      "translation": "<CLR1>Не оставайтесь без предметов! Корнерия вас прикроет!<CLNR>"
     },
     "ebm:ms04/event_message_ms04_200.ebm:0": {
       "source": "pack01_ebm",
@@ -49082,7 +49082,7 @@
       "index": 4,
       "speaker": "Corneria",
       "original": "You win a permanent \"Top Up Your Used Items! Completely Reassuring Refill Service\" discount!",
-      "translation": "Вы выигрываете постоянную скидку «Пополните использованные товары! Полностью надежная услуга пополнения запасов»!"
+      "translation": "Вы выигрываете постоянную скидку на «Пополните использованные товары! Полностью надёжная услуга пополнения»!"
     },
     "ebm:ms04/event_message_ms04_200.ebm:5": {
       "source": "pack01_ebm",
@@ -49090,7 +49090,7 @@
       "index": 5,
       "speaker": "Corneria",
       "original": "No matter how often you use it! Go right ahead, run my profits into the ground!",
-      "translation": "Неважно, как часто вы им пользуетесь! Давай, запусти мою прибыль в землю!"
+      "translation": "Неважно, как часто вы ею пользуетесь! Давайте, пускайте мою прибыль под откос!"
     },
     "ebm:ms04/event_message_ms04_200.ebm:6": {
       "source": "pack01_ebm",
@@ -49098,7 +49098,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "Saying that kinda makes me feel bad!",
-      "translation": "Когда я говорю это, мне становится плохо!"
+      "translation": "От таких слов мне как-то неловко!"
     },
     "ebm:ms04/event_message_ms04_200.ebm:7": {
       "source": "pack01_ebm",
@@ -49106,7 +49106,7 @@
       "index": 7,
       "speaker": "Corneria",
       "original": "No, no, no need to worry. Go ahead and fill up whenever you need to.",
-      "translation": "Нет, нет, не стоит волноваться. Продолжайте и заполняйтесь, когда вам нужно."
+      "translation": "Нет, нет, не стоит волноваться. Пользуйтесь пополнением, когда нужно."
     },
     "ebm:ms04/event_message_ms04_200.ebm:8": {
       "source": "pack01_ebm",
@@ -49146,7 +49146,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "You think so?",
-      "translation": "Вы так думаете?"
+      "translation": "Ты так думаешь?"
     },
     "ebm:ms04/event_message_ms04_210.ebm:3": {
       "source": "pack01_ebm",
@@ -49154,7 +49154,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "Yeah. You don't get the neutralizers wrong any more, or tip the cauldron over in a panic...",
-      "translation": "Ага. Вы больше не ошибетесь с нейтрализаторами и не опрокинете котел в панике..."
+      "translation": "Ага. Ты больше не путаешь нейтрализаторы и не опрокидываешь котёл в панике..."
     },
     "ebm:ms04/event_message_ms04_210.ebm:4": {
       "source": "pack01_ebm",
@@ -49162,7 +49162,7 @@
       "index": 4,
       "speaker": "Lydie",
       "original": "You know what, you're right. The same goes for you though, Sue!",
-      "translation": "Знаешь что, ты прав. То же самое касается и тебя, Сью!"
+      "translation": "Знаешь что, ты права. То же самое касается и тебя, Сью!"
     },
     "ebm:ms04/event_message_ms04_210.ebm:5": {
       "source": "pack01_ebm",
@@ -49170,7 +49170,7 @@
       "index": 5,
       "speaker": "Lydie",
       "original": "You don't get the heat wrong any more, and you don't break any flasks any more either.",
-      "translation": "Вы больше не ошибаетесь с нагревом и больше не разбиваете колбы."
+      "translation": "Ты больше не ошибаешься с нагревом и больше не разбиваешь колбы."
     },
     "ebm:ms04/event_message_ms04_210.ebm:6": {
       "source": "pack01_ebm",
@@ -49178,7 +49178,7 @@
       "index": 6,
       "speaker": "Sue",
       "original": "Yeah, you're right. I think I'm finally getting a hang of the basics.",
-      "translation": "Да, ты прав. Думаю, я наконец-то освоил основы."
+      "translation": "Да, ты права. Думаю, я наконец-то освоила основы."
     },
     "ebm:ms04/event_message_ms04_210.ebm:7": {
       "source": "pack01_ebm",
@@ -49186,7 +49186,7 @@
       "index": 7,
       "speaker": "Lydie",
       "original": "Hahaha, you're right. We're definitely improving.",
-      "translation": "Ха-ха-ха, ты прав. Мы определенно улучшаемся."
+      "translation": "Ха-ха-ха, ты права. Мы определённо становимся лучше."
     },
     "ebm:ms04/event_message_ms04_210.ebm:8": {
       "source": "pack01_ebm",
@@ -49194,7 +49194,7 @@
       "index": 8,
       "speaker": "Lydie",
       "original": "Come on then, Sue! Let's aim even higher!",
-      "translation": "Тогда давай, Сью! Давайте стремиться еще выше!"
+      "translation": "Тогда давай, Сью! Давай стремиться ещё выше!"
     },
     "ebm:ms04/event_message_ms04_210.ebm:9": {
       "source": "pack01_ebm",
@@ -49202,7 +49202,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "You said it! We'll be the greatest alchemists in the kingdom, one day!",
-      "translation": "Ты сказал это! Однажды мы станем величайшими алхимиками королевства!"
+      "translation": "Верно сказано! Однажды мы станем величайшими алхимиками королевства!"
     },
     "ebm:ms04/event_message_ms04_220.ebm:0": {
       "source": "pack01_ebm",
@@ -49218,7 +49218,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "The recipe says to add the materials like this, but why do you think that is?",
-      "translation": "В рецепте сказано добавлять такие материалы, но как вы думаете, почему?"
+      "translation": "В рецепте сказано добавлять материалы вот так, но как ты думаешь, почему?"
     },
     "ebm:ms04/event_message_ms04_220.ebm:2": {
       "source": "pack01_ebm",
@@ -49226,7 +49226,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "Why? Because the materials fight, surely?",
-      "translation": "Почему? Потому что материалы ругаются, верно?"
+      "translation": "Почему? Потому что материалы дерутся, конечно?"
     },
     "ebm:ms04/event_message_ms04_220.ebm:3": {
       "source": "pack01_ebm",
@@ -49242,7 +49242,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "Because if you put this one in first, this one gets all crabby and upset, right?",
-      "translation": "Потому что, если вы поставите этого первым, он станет раздражительным и расстроенным, верно?"
+      "translation": "Потому что если сначала положишь вот этот, вот этот весь взбесится и обидится, верно?"
     },
     "ebm:ms04/event_message_ms04_220.ebm:5": {
       "source": "pack01_ebm",
@@ -49250,7 +49250,7 @@
       "index": 5,
       "speaker": "Sue",
       "original": "That's why you have to put this one in first.",
-      "translation": "Вот почему вы должны поставить это в первую очередь."
+      "translation": "Вот почему сначала нужно класть вот этот."
     },
     "ebm:ms04/event_message_ms04_220.ebm:6": {
       "source": "pack01_ebm",
@@ -49274,7 +49274,7 @@
       "index": 8,
       "speaker": "Lydie",
       "original": "Interesting. You don't remember the terminology, but you understand the process.",
-      "translation": "Интересный. Вы не помните терминологию, но понимаете процесс."
+      "translation": "Интересно. Ты не помнишь терминологию, но понимаешь процесс."
     },
     "ebm:ms04/event_message_ms04_220.ebm:9": {
       "source": "pack01_ebm",
@@ -49282,7 +49282,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Hold on. You're not saying I'm at some kind of disadvantage here, are you?",
-      "translation": "Подожди. Вы же не говорите, что я здесь в каком-то невыгодном положении?"
+      "translation": "Подожди. Ты же не хочешь сказать, что я здесь в каком-то невыгодном положении?"
     },
     "ebm:ms04/event_message_ms04_220.ebm:10": {
       "source": "pack01_ebm",
@@ -49290,7 +49290,7 @@
       "index": 10,
       "speaker": "Lydie",
       "original": "Not at all! You just explained something difficult to me!",
-      "translation": "Нисколько! Вы только что объяснили мне что-то сложное!"
+      "translation": "Нисколько! Ты только что объяснила мне что-то сложное!"
     },
     "ebm:ms04/event_message_ms04_220.ebm:11": {
       "source": "pack01_ebm",
@@ -49298,7 +49298,7 @@
       "index": 11,
       "speaker": "Lydie",
       "original": "I'm impressed. I'm not going to lose to you, Sue!",
-      "translation": "Я впечатлен. Я не проиграю тебе, Сью!"
+      "translation": "Я впечатлена. Я тебе не проиграю, Сью!"
     },
     "ebm:ms04/event_message_ms04_220.ebm:12": {
       "source": "pack01_ebm",
@@ -49306,7 +49306,7 @@
       "index": 12,
       "speaker": "Sue",
       "original": "Them's fighting words! I won't lose to you, either, Lydie!",
-      "translation": "Их боевые слова! Я и тебе не проиграю, Лиди!"
+      "translation": "Вот это уже вызов! Я тебе тоже не проиграю, Лиди!"
     },
     "ebm:ms04/event_message_ms04_220.ebm:13": {
       "source": "pack01_ebm",
@@ -49314,7 +49314,7 @@
       "index": 13,
       "speaker": "Lydie",
       "original": "Haha! In which case, you can start from learning all the proper lingo.",
-      "translation": "Хаха! В этом случае вы можете начать с изучения всего надлежащего жаргона."
+      "translation": "Хаха! Тогда можешь начать с изучения всего настоящего жаргона."
     },
     "ebm:ms04/event_message_ms04_220.ebm:14": {
       "source": "pack01_ebm",
@@ -49338,7 +49338,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Mix this in quickly, and if you hit something on the bottom draw it out at once...",
-      "translation": "Быстро перемешайте, и если вы ударитесь о что-нибудь внизу, сразу же вытащите это..."
+      "translation": "Быстро вмешиваешь это, а если на дне что-то заденешь — сразу вытаскиваешь..."
     },
     "ebm:ms04/event_message_ms04_230.ebm:2": {
       "source": "pack01_ebm",
@@ -49362,7 +49362,7 @@
       "index": 4,
       "speaker": "Lydie",
       "original": "Low heat, mix slowly in perfect circles. Remove any impurities, and then turn up the heat!",
-      "translation": "Слабый огонь, медленно перемешивайте, формируя идеальные круги. Удалите все загрязнения, а затем увеличьте огонь!"
+      "translation": "Слабый огонь, медленно мешаю идеальными кругами. Убираю все примеси, а потом усиливаю огонь!"
     },
     "ebm:ms04/event_message_ms04_230.ebm:5": {
       "source": "pack01_ebm",
@@ -49378,7 +49378,7 @@
       "index": 6,
       "speaker": "Ilmeria",
       "original": "You've both developed in completely different directions, haven't you!",
-      "translation": "Вы оба развивались совершенно в разных направлениях, не так ли!"
+      "translation": "Вы обе развились совершенно в разных направлениях, не так ли!"
     },
     "ebm:ms04/event_message_ms04_230.ebm:7": {
       "source": "pack01_ebm",
@@ -49394,7 +49394,7 @@
       "index": 8,
       "speaker": "Ilmeria",
       "original": "One question at a time, please. I'm here because I was just passing by.",
-      "translation": "Пожалуйста, по одному вопросу за раз. Я здесь, потому что просто проходил мимо."
+      "translation": "Пожалуйста, по одному вопросу за раз. Я здесь, потому что просто проходила мимо."
     },
     "ebm:ms04/event_message_ms04_230.ebm:9": {
       "source": "pack01_ebm",
@@ -49426,7 +49426,7 @@
       "index": 12,
       "speaker": "Sue",
       "original": "Logic, and instinct. Now that you point it out, I think you're right.",
-      "translation": "Логика и инстинкт. Теперь, когда вы указали на это, я думаю, вы правы."
+      "translation": "Логика и инстинкт. Теперь, когда ты указала на это, думаю, ты права."
     },
     "ebm:ms04/event_message_ms04_230.ebm:13": {
       "source": "pack01_ebm",
@@ -49442,7 +49442,7 @@
       "index": 14,
       "speaker": "Ilmeria",
       "original": "It's just interesting how, under the same teacher, you've developed so differently.",
-      "translation": "Просто интересно, как под одним и тем же учителем ты так по-разному развился."
+      "translation": "Просто интересно, как под одним и тем же учителем вы так по-разному развились."
     },
     "ebm:ms04/event_message_ms04_230.ebm:15": {
       "source": "pack01_ebm",
@@ -49450,7 +49450,7 @@
       "index": 15,
       "speaker": "Lydie",
       "original": "Hahaha, I guess you're right.",
-      "translation": "Ха-ха-ха, я думаю, ты прав."
+      "translation": "Ха-ха-ха, наверное, ты права."
     },
     "ebm:ms04/event_message_ms04_230.ebm:16": {
       "source": "pack01_ebm",
@@ -49458,7 +49458,7 @@
       "index": 16,
       "speaker": "Ilmeria",
       "original": "Anyway. I think I need to praise you, too, just a little.",
-      "translation": "В любом случае. Думаю, мне тоже нужно похвалить тебя, хоть немного."
+      "translation": "В любом случае. Думаю, мне тоже нужно вас немного похвалить."
     },
     "ebm:ms04/event_message_ms04_230.ebm:17": {
       "source": "pack01_ebm",
@@ -49466,7 +49466,7 @@
       "index": 17,
       "speaker": "Ilmeria",
       "original": "You've become so good at alchemy. Leaps and bounds ahead of where you started.",
-      "translation": "Ты так хорошо разбираешься в алхимии. На дрожжах впереди того, с чего вы начали."
+      "translation": "Вы так хорошо освоили алхимию. Далеко впереди того, с чего начали."
     },
     "ebm:ms04/event_message_ms04_230.ebm:18": {
       "source": "pack01_ebm",
@@ -49474,7 +49474,7 @@
       "index": 18,
       "speaker": "Ilmeria",
       "original": "I think you've both achieved so much. I'm so proud, as your teacher.",
-      "translation": "Я думаю, вы оба многого достигли. Я так горжусь, как твой учитель."
+      "translation": "Думаю, вы обе многого достигли. Я так горжусь вами как учитель."
     },
     "ebm:ms04/event_message_ms04_230.ebm:19": {
       "source": "pack01_ebm",
@@ -49482,7 +49482,7 @@
       "index": 19,
       "speaker": "Lydie",
       "original": "Ilmeria! That's the nicest thing you've ever said to us!",
-      "translation": "Ильмерия! Это самое приятное, что ты когда-либо говорил нам!"
+      "translation": "Ильмерия! Это самое приятное, что ты когда-либо говорила нам!"
     },
     "ebm:ms04/event_message_ms04_230.ebm:20": {
       "source": "pack01_ebm",
@@ -49490,7 +49490,7 @@
       "index": 20,
       "speaker": "Sue",
       "original": "Get ready, Sis! A whole ton of homework is going to rain down on us! Run for it!",
-      "translation": "Готовься, сестренка! На нас обрушится целая тонна домашнего задания! Беги за этим!"
+      "translation": "Готовься, сестрёнка! На нас обрушится целая тонна домашнего задания! Бежим!"
     },
     "ebm:ms04/event_message_ms04_230.ebm:21": {
       "source": "pack01_ebm",
@@ -49498,7 +49498,7 @@
       "index": 21,
       "speaker": "Ilmeria",
       "original": "Hey, you two! I was just being nice to you!",
-      "translation": "Эй, вы двое! Я просто был с тобой добр!"
+      "translation": "Эй, вы двое! Я просто была к вам добра!"
     },
     "ebm:ms04/event_message_ms04_230.ebm:22": {
       "source": "pack01_ebm",
@@ -49506,7 +49506,7 @@
       "index": 22,
       "speaker": "Ilmeria",
       "original": "I can't believe those two. They've grown as alchemists, but they're still just kids.",
-      "translation": "Я не могу поверить этим двоим. Они выросли алхимиками, но все еще еще дети."
+      "translation": "Не могу поверить этим двоим. Они выросли как алхимики, но всё ещё дети."
     },
     "ebm:ms04/event_message_ms04_230.ebm:23": {
       "source": "pack01_ebm",
@@ -49514,7 +49514,7 @@
       "index": 23,
       "speaker": "Ilmeria",
       "original": "I'd better get home and do some studying myself. I can't afford to hang behind, either, can I...",
-      "translation": "Мне лучше пойти домой и самому немного заняться изучением. Я тоже не могу позволить себе оставаться позади, не так ли..."
+      "translation": "Мне лучше пойти домой и самой немного позаниматься. Я тоже не могу позволить себе отставать..."
     },
     "ebm:ms04/event_message_ms04_240.ebm:0": {
       "source": "pack01_ebm",
@@ -49522,7 +49522,7 @@
       "index": 0,
       "speaker": "Sue",
       "original": "Right, Lydie. Are you ready?",
-      "translation": "Верно, Лиди. Вы готовы?"
+      "translation": "Так, Лиди. Ты готова?"
     },
     "ebm:ms04/event_message_ms04_240.ebm:1": {
       "source": "pack01_ebm",
@@ -49546,7 +49546,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "Phew. How was that? What do you think?",
-      "translation": "Уф. Как это было? Что вы думаете?"
+      "translation": "Уф. Как это было? Что думаешь?"
     },
     "ebm:ms04/event_message_ms04_240.ebm:4": {
       "source": "pack01_ebm",
@@ -49562,7 +49562,7 @@
       "index": 5,
       "speaker": "Lydie",
       "original": "Finally! I am working out every day!",
-      "translation": "Окончательно! Я тренируюсь каждый день!"
+      "translation": "Наконец-то! Я же тренируюсь каждый день!"
     },
     "ebm:ms04/event_message_ms04_240.ebm:6": {
       "source": "pack01_ebm",
@@ -49570,7 +49570,7 @@
       "index": 6,
       "speaker": "Sue",
       "original": "Five sit-ups and three push-ups isn't really what I'd call working out...",
-      "translation": "Пять приседаний и три отжимания — это не то, что я бы назвал тренировкой…"
+      "translation": "Пять скручиваний и три отжимания — это не то, что я бы назвала тренировкой…"
     },
     "ebm:ms04/event_message_ms04_240.ebm:7": {
       "source": "pack01_ebm",
@@ -49586,7 +49586,7 @@
       "index": 8,
       "speaker": "Sue",
       "original": "No, I didn't say a thing. I think all the fighting we've been doing has helped you, too.",
-      "translation": "Нет, я ничего не сказал. Я думаю, что вся борьба, которую мы вели, помогла и тебе."
+      "translation": "Нет, я ничего не сказала. Думаю, все наши бои тоже тебе помогли."
     },
     "ebm:ms04/event_message_ms04_240.ebm:9": {
       "source": "pack01_ebm",
@@ -49594,7 +49594,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "You definitely won't be defeated by a Puni anymore, for example! They could KO you in a flash before!",
-      "translation": "Например, вас больше точно не победит пуни! Раньше они могли нокаутировать тебя в мгновение ока!"
+      "translation": "Например, тебя больше точно не победит пуни! Раньше они могли нокаутировать тебя в мгновение ока!"
     },
     "ebm:ms04/event_message_ms04_240.ebm:10": {
       "source": "pack01_ebm",
@@ -49610,7 +49610,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "Haha, I saw it! A single attack! But don't panic. You just get stronger at your own pace, Lydie.",
-      "translation": "Хаха, я видел это! Одна атака! Но не паникуйте. Ты просто становишься сильнее в своем темпе, Лиди."
+      "translation": "Хаха, я видела это! Одним ударом! Но не паникуй. Ты просто становишься сильнее в своём темпе, Лиди."
     },
     "ebm:ms04/event_message_ms04_240.ebm:12": {
       "source": "pack01_ebm",
@@ -49626,7 +49626,7 @@
       "index": 13,
       "speaker": "Lydie",
       "original": "Right, I've got a special workout planned for tomorrow! Seven sit-ups and five push-ups!",
-      "translation": "Точно, у меня на завтра запланирована особая тренировка! Семь приседаний и пять отжиманий!"
+      "translation": "Точно, у меня на завтра запланирована особая тренировка! Семь скручиваний и пять отжиманий!"
     },
     "ebm:ms04/event_message_ms04_240.ebm:14": {
       "source": "pack01_ebm",
@@ -49634,7 +49634,7 @@
       "index": 14,
       "speaker": "Sue",
       "original": "Like I said, that isn't really what I'd call working out... but at least she's trying...",
-      "translation": "Как я уже сказал, это не совсем то, что я бы назвал тренировкой... но, по крайней мере, она пытается..."
+      "translation": "Как я уже сказала, это не совсем то, что я бы назвала тренировкой... но, по крайней мере, она пытается..."
     },
     "ebm:ms04/event_message_ms04_250.ebm:0": {
       "source": "pack01_ebm",
@@ -49666,7 +49666,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "Haha! I'm here to show you how much stronger I've become, Sue!",
-      "translation": "Хаха! Я здесь, чтобы показать тебе, насколько я стал сильнее, Сью!"
+      "translation": "Хаха! Я здесь, чтобы показать тебе, насколько я стала сильнее, Сью!"
     },
     "ebm:ms04/event_message_ms04_250.ebm:4": {
       "source": "pack01_ebm",
@@ -49674,7 +49674,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "Hahaha, what are you talking about? No matter how many Puni you defeat, it won't prove a thing!",
-      "translation": "Ха-ха-ха, о чем ты говоришь? Сколько бы Пуни вы ни победили, это ничего не докажет!"
+      "translation": "Ха-ха-ха, о чём ты говоришь? Сколько бы пуни ты ни победила, это ничего не докажет!"
     },
     "ebm:ms04/event_message_ms04_250.ebm:5": {
       "source": "pack01_ebm",
@@ -49690,7 +49690,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "Oh, is that all? I could do that with my eyes closed!",
-      "translation": "О, это все? Я мог бы сделать это с закрытыми глазами!"
+      "translation": "О, и всё? Я могла бы сделать это с закрытыми глазами!"
     },
     "ebm:ms04/event_message_ms04_250.ebm:7": {
       "source": "pack01_ebm",
@@ -49730,7 +49730,7 @@
       "index": 11,
       "speaker": "Lydie",
       "original": "Ah, you're awake! I'm sorry, Sue, are you okay?",
-      "translation": "Ах, ты проснулся! Мне очень жаль, Сью, ты в порядке?"
+      "translation": "Ах, ты проснулась! Мне очень жаль, Сью, ты в порядке?"
     },
     "ebm:ms04/event_message_ms04_250.ebm:12": {
       "source": "pack01_ebm",
@@ -49746,7 +49746,7 @@
       "index": 13,
       "speaker": "Lydie",
       "original": "You told me to hit you as hard as I can, so I slapped you! A bit too hard, I think.",
-      "translation": "Ты сказал мне ударить тебя так сильно, как только смогу, поэтому я дал тебе пощечину! По-моему, слишком сложно."
+      "translation": "Ты сказала мне ударить тебя так сильно, как только смогу, поэтому я дала тебе пощёчину! По-моему, слишком сильно."
     },
     "ebm:ms04/event_message_ms04_250.ebm:14": {
       "source": "pack01_ebm",
@@ -49754,7 +49754,7 @@
       "index": 14,
       "speaker": "Lydie",
       "original": "I think I knocked you out! I'm really sorry!",
-      "translation": "Кажется, я тебя нокаутировал! Мне очень жаль!"
+      "translation": "Кажется, я тебя нокаутировала! Мне очень жаль!"
     },
     "ebm:ms04/event_message_ms04_250.ebm:15": {
       "source": "pack01_ebm",
@@ -49762,7 +49762,7 @@
       "index": 15,
       "speaker": "Sue",
       "original": "So that stuff with the Puni was all a dream? Owww! Now that I'm back my cheek really hurts!",
-      "translation": "Значит, все это с Пуни было сном? Оууу! Теперь, когда я вернулся, у меня очень болит щека!"
+      "translation": "Значит, всё это с пуни было сном? Оууу! Теперь, когда я очнулась, у меня очень болит щека!"
     },
     "ebm:ms04/event_message_ms04_250.ebm:16": {
       "source": "pack01_ebm",
@@ -49770,7 +49770,7 @@
       "index": 16,
       "speaker": "Lydie",
       "original": "Hahaha, but look how much stronger I've become! Sorry... Too soon?",
-      "translation": "Ха-ха-ха, но посмотри, насколько сильнее я стал! Извините... Слишком рано?"
+      "translation": "Ха-ха-ха, но посмотри, насколько я стала сильнее! Прости... Слишком рано?"
     },
     "ebm:ms04/event_message_ms04_250.ebm:17": {
       "source": "pack01_ebm",
@@ -49786,7 +49786,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Ah! I've broken another cup. I wasn't even gripping it that tightly...",
-      "translation": "Ах! Я разбил еще одну чашку. Я даже не держал его так сильно..."
+      "translation": "Ах! Я разбила ещё одну чашку. Я даже не сжимала её так сильно..."
     },
     "ebm:ms04/event_message_ms04_260.ebm:1": {
       "source": "pack01_ebm",
@@ -49802,7 +49802,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "Just flex your arm for me for a moment, will you?",
-      "translation": "Просто согни мне руку на минутку, ладно?"
+      "translation": "Просто согни руку на минутку, ладно?"
     },
     "ebm:ms04/event_message_ms04_260.ebm:3": {
       "source": "pack01_ebm",
@@ -49850,7 +49850,7 @@
       "index": 8,
       "speaker": "Lydie",
       "original": "Hey, I think that's overstating it a little. My training is paying off, though!",
-      "translation": "Эй, я думаю, это немного преувеличивает. Однако мое обучение приносит свои плоды!"
+      "translation": "Эй, мне кажется, ты немного преувеличиваешь. Но тренировки дают результат!"
     },
     "ebm:ms04/event_message_ms04_260.ebm:9": {
       "source": "pack01_ebm",
@@ -49858,7 +49858,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Tell me, Sis, just out of curiosity. How much have you been working out recently?",
-      "translation": "Расскажи мне, сестренка, просто из любопытства. Сколько вы тренировались в последнее время?"
+      "translation": "Расскажи мне, сестрёнка, просто из любопытства. Сколько ты тренировалась в последнее время?"
     },
     "ebm:ms04/event_message_ms04_260.ebm:10": {
       "source": "pack01_ebm",
@@ -49866,7 +49866,7 @@
       "index": 10,
       "speaker": "Lydie",
       "original": "Umm... 3000 push-ups, 5000 sit-ups, 2500 each of squats and back stretches...",
-      "translation": "Хм... 3000 отжиманий, 5000 приседаний, по 2500 приседаний и растяжек спины..."
+      "translation": "Хм... 3000 отжиманий, 5000 скручиваний, по 2500 приседаний и растяжек спины..."
     },
     "ebm:ms04/event_message_ms04_260.ebm:11": {
       "source": "pack01_ebm",
@@ -49874,7 +49874,7 @@
       "index": 11,
       "speaker": "Lydie",
       "original": "I've been wrestling dragons, too. Although I send them flying with a single attack.",
-      "translation": "Я тоже боролся с драконами. Хотя я отправляю их в полет одной атакой."
+      "translation": "Я ещё и с драконами боролась. Хотя отправляю их в полёт одним ударом."
     },
     "ebm:ms04/event_message_ms04_260.ebm:12": {
       "source": "pack01_ebm",
@@ -49882,7 +49882,7 @@
       "index": 12,
       "speaker": "Sue",
       "original": "Why? Why has it come to this? Where did I go wrong...?",
-      "translation": "Почему? Почему дошло до этого? Где я ошибся...?"
+      "translation": "Почему? Почему дошло до этого? Где я ошиблась...?"
     },
     "ebm:ms04/event_message_ms04_260.ebm:13": {
       "source": "pack01_ebm",
@@ -49914,7 +49914,7 @@
       "index": 16,
       "speaker": "Sue",
       "original": "Come back, Lydie! Come back to your lovely, delicate self!",
-      "translation": "Вернись, Лидия! Вернитесь к своему прекрасному, нежному «я»!"
+      "translation": "Вернись, Лиди! Вернись к своему прекрасному, нежному «я»!"
     },
     "ebm:ms04/event_message_ms04_260.ebm:17": {
       "source": "pack01_ebm",
@@ -49922,7 +49922,7 @@
       "index": 17,
       "speaker": "Sue",
       "original": "You don't need to be any stronger! I'll get strong enough to protect you!",
-      "translation": "Вам не нужно быть сильнее! Я стану достаточно сильным, чтобы защитить тебя!"
+      "translation": "Тебе не нужно становиться сильнее! Я стану достаточно сильной, чтобы защитить тебя!"
     },
     "ebm:ms04/event_message_ms04_260.ebm:18": {
       "source": "pack01_ebm",
@@ -49930,7 +49930,7 @@
       "index": 18,
       "speaker": "Sue",
       "original": "Come back, come back to your old self, Lydie! You don't need all those muscles!",
-      "translation": "Вернись, вернись к своему прежнему состоянию, Лиди! Вам не нужны все эти мышцы!"
+      "translation": "Вернись, вернись к прежней себе, Лиди! Тебе не нужны все эти мышцы!"
     },
     "ebm:ms04/event_message_ms04_260.ebm:19": {
       "source": "pack01_ebm",
@@ -49994,7 +49994,7 @@
       "index": 26,
       "speaker": "Lydie",
       "original": "Sue! I'm sorry for hitting you so hard!",
-      "translation": "Сью! Прости, что так сильно тебя ударил!"
+      "translation": "Сью! Прости, что так сильно тебя ударила!"
     },
     "ebm:ms04/event_message_ms04_260.ebm:27": {
       "source": "pack01_ebm",
@@ -50010,7 +50010,7 @@
       "index": 28,
       "speaker": "Lydie",
       "original": "Sue! I'm so sorry!",
-      "translation": "Сью! Мне очень жаль!"
+      "translation": "Сью! Мне так жаль!"
     },
     "ebm:ms05/event_message_ms05_010.ebm:0": {
       "source": "pack01_ebm",
