@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-21T07:24:27.475673+00:00",
+  "generated_at": "2026-07-21T12:24:53.991814+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -46906,7 +46906,7 @@
       "index": 13,
       "speaker": "System",
       "original": "The volume of the increase depends on the amount of Archeus Anima used.",
-      "translation": "Объем прибавки зависит от количества использованного Аркеус-аним."
+      "translation": "Объем прибавки зависит от количества использованных Аркеус-аним."
     },
     "ebm:ms04/event_message_ms04_020.ebm:14": {
       "source": "pack01_ebm",
@@ -137695,7 +137695,7 @@
       "file": "str_event_chara_name.xml",
       "string_no": "262145",
       "original": "System",
-      "translation": "Туристка"
+      "translation": "Система"
     },
     "pack02:262147": {
       "source": "pack02_text_en",
@@ -137709,7 +137709,7 @@
       "file": "str_event_chara_name.xml",
       "string_no": "262148",
       "original": "Lydie",
-      "translation": "Лидия"
+      "translation": "Лиди"
     },
     "pack02:262149": {
       "source": "pack02_text_en",

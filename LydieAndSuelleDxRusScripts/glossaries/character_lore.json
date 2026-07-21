@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "characters": {
+    "262145": {
+      "name_en": "System",
+      "lore": "Системное сообщение, обычно от его имени появляются блоки обучения"
+    },
+    "262146": {
+      "name_en": "???",
+      "lore": "Неизвестный персонаж, но возможно по дальнейшим фразам в диалоги можно понять кто он. Если определить говорящего нельзя, то переводить реплику нейтрально"
+    },
+    "262147": {
+      "name_en": "Everyone",
+      "lore": "Все, сообщение, которые говорят несколько персонажей одновременно"
+    },
+    "262148": {
+      "name_en": "Lydie",
+      "lore": "Lydie Malen. One of the twins living in a penniless atelier. She is calm, kind and easily likable, but she also has a little airheaded side to her and likes to do things at her own pace. She is good at studying but not fond of exercise, and has a slightly unique taste in art.",
+      "surname_en": "Malen",
+      "surname_ru": "Мален",
+      "gender": "female"
+    },
+    "262149": {
+      "name_en": "Sue",
+      "lore": "Suelle Malen. One of the twins living in a penniless atelier. She is a tomboy with a cheerful personality, and can be rather mischievous. She is a prodigy and the type who doesn't worry about details. She is terrified of insects, and will throw a tantrum if one as much as even lands on her shoulder.",
+      "surname_en": "Malen",
+      "surname_ru": "Мален",
+      "gender": "female"
+    },
+    "262150": {
+      "name_en": "Firis",
+      "lore": "Firis Mistlud. An alchemist with an immense love for traveling. It is easy to see from her looks that she has matured quite a lot on her journeys. Yet her friendly personality remains unchanged. She is a very skillful alchemist, and as soon as she opened her atelier in the city, she has become rather popular among citizens of Merveille.Firis has also learned how to use a bow from her sister, and she comes around to help Lydie and Suelle on a request from her long time friend, Ilmeria.",
+      "surname_en": "Mistlud",
+      "surname_ru": "Мистлуд",
+      "gender": "female"
+    },
+    "262151": {
+      "name_en": "Sophie",
+      "lore": "Sophie Neuenmuller. An alchemist who has been traveling for a very long time. As their senior, she helps Lydie and Suelle with some advice, yet she is not too dependable. Sophie's alchemy skill is great beyond doubt, and it has almost reached the extraordinary level of the one who taught her.",
+      "surname_en": "Neuenmuller",
+      "surname_ru": "Нойенмюллер",
+      "gender": "female"
+    },
+    "262152": {
+      "name_en": "Mathias",
+      "lore": "Mathias Ferrier Adalet. A man who can be found walking around Merveille. He is known for his frivolous and playful personality. However, he is much more reliable on the inside, and he volunteers to protect Lydie and Suelle. He is a member of a knight's order, and is rather skillful with his sword. He also has an older sister who completely holds him under her thumb.",
+      "surname_en": "Ferrier Adalet",
+      "surname_ru": "Феррье Адалет",
+      "gender": "male"
+    },
+    "262153": {
+      "name_en": "Alt",
+      "lore": "A young man, with a genderless appearance, who has been quietly keeping his atelier in Merveille. It would seem his knowledge and skill in alchemy are rather high, and his atelier ranks among the top ones in the capital. He sports a cool personality and a sharp tongue, and prefers to keep his distance from the others.",
+      "gender": "male"
+    },
+    "262154": {
+      "name_en": "Lucia",
+      "lore": "Lucia Borthayre. She is the heiress of the most famous long-standing atelier in Merveille - Atelier Borthayre. She is both a childhood friend and a rival to the twins. She is known as a flower on a high peak for her attractive appearance and distant, but polite, attitude, but in fact she is very ambitious and can be rather mean.",
+      "surname_en": "Borthayre",
+      "surname_ru": "Бортайр",
+      "gender": "female"
+    },
+    "262155": {
+      "name_en": "Roger",
+      "lore": "Roger Malen. The father of Lydie and Suelle. He is not much of an alchemist, but has an extraordinary artistic talent. And as so many artists are, he sometimes is a little too airheaded and has a habit for wastefulness. This would be the reason why the twins had to take over the atelier and label him as useless. Roger also has a mad scientist side to him, creating many new recipes, which usually end in explosions.",
+      "surname_en": "Malen",
+      "surname_ru": "Мален",
+      "gender": "male"
+    },
+    "262156": {
+      "name_en": "Honnete",
+      "lore": "Honnete Malen. Her health was never too strong, and she has passed away from an illness three years ago. She was an energetic person, someone brought joy and sunlight into every room she entered. Her biggest wish was bringing peace and happiness to her family.",
+      "surname_en": "Malen",
+      "surname_ru": "Мален",
+      "gender": "female"
+    },
+    "262157": {
+      "name_en": "Mireille",
+      "lore": "Mireille Ferrier Adalet. A woman who works at the Entrance Hall of the Royal Castle. In addition to her usual official duties, she has also taken on the supervision of the Atelier Ranking System. While she is a capable administrator, she is also the Crown Princess of Adalet and the older sister of Mathias.",
+      "surname_en": "Ferrier Adalet",
+      "surname_ru": "Феррье Адалет",
+      "gender": "female"
+    },
+    "262158": {
+      "name_en": "Grace",
+      "lore": "Grace Weissberg. A nun of the Church of Vegne. She is liked by the citizens, who all call her Sister Grace. She is a devout believer and often organizes various events for everyone on weekends. While she looks very young, in fact she is over 50 years old, and seems to be troubled by something in her past...",
+      "surname_en": "Weissberg",
+      "surname_ru": "Вайсберг",
+      "gender": "female"
+    },
+    "262159": {
+      "name_en": "Hagel",
+      "lore": "Hagel Boldness. A big man who keeps the famous workshop in the city. The shine of his work only matches the shine of his head. He comes from a long line of blacksmiths, and is genuinely passionate about his trade. He's a big-hearted and jovial man, famous enough to even be featured in the capital's tourist guide book.",
+      "surname_en": "Boldness",
+      "surname_ru": "Болднесс",
+      "gender": "male"
+    },
+    "262160": {
+      "name_en": "Plachta",
+      "lore": "She is an alchemists who travels together with Sophie, and she is both Sophie's mentor and best friend. Plachta is very diligent and collected most of the time, but can also be a little absentminded. She supports the others with her vast knowledge and makes sure they stay out of trouble."
+    },
+    "262161": {
+      "name_en": "Ilmeria",
+      "lore": "Ilmeria Von Leinweber. An alchemist who was officially summoned by the state to open her atelier in the capital. Even though she was kind of forced into it, she ends up taking Lydie and Suelle under her wing and,moved by their enthusiasm, becomes their mentor. She is a very skillful alchemist, enough to compete with Firis, and the prideful but caring personality of hers still remains the same.",
+      "surname_en": "Von Leinweber",
+      "surname_ru": "фон Лейнвебер",
+      "gender": "female"
+    },
+    "262162": {
+      "name_en": "Corneria",
+      "lore": "A woman from the place called Kirchen Bell, who runs the famous Corneria's Enterprise. She came to Merveille to bring in new merchandise and survey the market. Now she is eager to use the popularity of the Atelier Ranking System to spread her name and make some profit.",
+      "gender": "female"
+    },
+    "262164": {
+      "name_en": "Fritz",
+      "lore": "Fritz Weissberg. A travelling puppeteer who made a stop in Merveille with his daughter Drossel. He strives for perfection, and has never stopped working to improve both his skill as a doll maker and the one of a swordsman. While usually he is a calm and intelligent man, his personality changes one hundred eighty degrees around dolls.",
+      "surname_en": "Weissberg",
+      "surname_ru": "Вайсберг",
+      "gender": "male"
+    },
+    "262165": {
+      "name_en": "Pamela",
+      "lore": "Pamela Ibis. A Sister from Kirchen Bell. Right now she lives in Church of Vegne together with Sister Grace. She was supposed to return to Kirchen Bell, but managed to take the wrong carriage and was taken back to Merveille. She doesn't seem to care much, however, and has become quite popular in the city, while she is trying to gather enough money for her journey home.",
+      "surname_en": "Ibis",
+      "surname_ru": "Ибис",
+      "gender": "female"
+    },
+    "262166": {
+      "name_en": "Liane",
+      "lore": "Liane Mistlud. She keeps a shop named Lovely Firis to sell the trophies of her hunts and gather the money to support her sister's atelier. She is an experienced hunter and usually is very calm, but when she gets to speak of her sister she may become rather intense. Her love towards her sister is forever growing.",
+      "surname_en": "Mistlud",
+      "surname_ru": "Мистлуд",
+      "gender": "female"
+    },
+    "262167": {
+      "name_en": "Drossel",
+      "lore": "Drossel Weissberg. Bright, noisy and energetic traveling scriptwriter. She is traveling with her father, Fritz, and they share their devotion to their dolls and the dream to create the best puppet theatre in the world. She has also already made her debut as a novel writer.",
+      "surname_en": "Weissberg",
+      "surname_ru": "Вайсберг",
+      "gender": "female"
+    },
+    "262168": {
+      "name_en": "Fuoco",
+      "lore": "This girl lives among the lava falls of The Great Cascades of Anfel. She has a pair of tiny wings on her back. Innocent and curious about everything, she has no knowledge about the world outside her painting.",
+      "gender": "female"
+    },
+    "262169": {
+      "name_en": "Neige",
+      "lore": "Neige Chintreuil. The first alchemist to paint a Mysterious Painting with a world within it. While she is calm and mature, she actually quite disappointed in the adult world and wishes to remain as a child forever.",
+      "surname_en": "Chintreuil",
+      "surname_ru": "Шантрёй",
+      "gender": "female"
+    },
+    "262170": {
+      "name_en": "Backen",
+      "lore": "Captain Backen. A glorious fictional pirate leader. He dwells in a cave on the bottom of the sea, inside The Treasury at the Sea Bottom, protecting his treasures. His manners may seem high-handed at first, but actually he is quite a merry fellow.",
+      "surname_en": "Backen",
+      "surname_ru": "Бакен",
+      "gender": "male"
+    }
+  }
+}
