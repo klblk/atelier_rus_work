@@ -177,7 +177,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866649",
       "original": "Battles: Battle Mix",
-      "translation": "Битвы: Боевой микс"
+      "translation": "Битвы: Боевой синтез"
     },
     "pack02:3866650": {
       "source": "pack02_text_en",
@@ -464,21 +464,21 @@
       "file": "str_library_help.xml",
       "string_no": "3866690",
       "original": "&lt;CLGR&gt;Battle Mix&lt;CLNR&gt; is a special Follow-up Skill unique for Lydie and Sue. Follow-up Skills require that certain conditions are fulfilled before they can be used.",
-      "translation": "&lt;CLGR&gt;Летучая мышьtle Mix&lt;CLNR&gt; — это особый дополнительный навык, уникальный для Лидии и Сью. Последующие навыки требуют выполнения определенных условий, прежде чем их можно будет использовать."
+      "translation": "&lt;CLGR&gt;Боевой синтез&lt;CLNR&gt; — это особый дополнительный навык, уникальный для Лидии и Сью. Последующие навыки требуют выполнения определенных условий, прежде чем их можно будет использовать."
     },
     "pack02:3866691": {
       "source": "pack02_text_en",
       "file": "str_library_help.xml",
       "string_no": "3866691",
       "original": "&lt;CLGR&gt;Extra Mix&lt;CLNR&gt; is a command derived from Battle Mix. Its usage conditions are the same as for Battle Mix.",
-      "translation": "&lt;CLGR&gt;Extra Mix&lt;CLNR&gt; — это команда, полученная из Летучая мышьtle Mix. Условия его использования такие же, как и у Летучая мышьtle Mix."
+      "translation": "&lt;CLGR&gt;Extra Mix&lt;CLNR&gt; — это команда, полученная из Боевого синтеза. Условия его использования такие же, как и у Боевого синтеза."
     },
     "pack02:3866692": {
       "source": "pack02_text_en",
       "file": "str_library_help.xml",
       "string_no": "3866692",
       "original": "&lt;CLGR&gt;Archeus Anima&lt;CLNR&gt; is a special material used only for Battle Mix.",
-      "translation": "&lt;CLGR&gt;Аркеус-анима&lt;CLNR&gt; — специальный материал, используемый только для Летучая мышьtle Mix."
+      "translation": "&lt;CLGR&gt;Аркеус-анима&lt;CLNR&gt; — специальный материал, используемый только для Боевого синтеза."
     },
     "pack02:3866693": {
       "source": "pack02_text_en",
@@ -751,7 +751,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866731",
       "original": "With the Battle Mix, you can use the materials in your Basket and Archeus Anima to synthesize items from Battle Recipes.",
-      "translation": "С помощью Летучая мышьtle Mix вы можете использовать материалы из вашей Корзины и Аркеус-анима для синтеза предметов из боевых рецептов."
+      "translation": "С помощью Боевого синтеза вы можете использовать материалы из вашей Корзины и Аркеус-анима для синтеза предметов из боевых рецептов."
     },
     "pack02:3866732": {
       "source": "pack02_text_en",
@@ -1010,7 +1010,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866768",
       "original": "Items made with Battle Mix are used immediately after creation.",
-      "translation": "Предметы, созданные с помощью Летучая мышьtle Mix, используются сразу после создания."
+      "translation": "Предметы, созданные с помощью Боевого синтеза, используются сразу после создания."
     },
     "pack02:3866769": {
       "source": "pack02_text_en",
@@ -1143,7 +1143,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866787",
       "original": "Battle Mix materials can be carried in your Basket as well as taken along with you. In such cases, the materials will be need to be equipped in the Harvest Equipment column.",
-      "translation": "Материалы Летучая мышьtle Mix можно носить как в Корзине, так и брать с собой. В таких случаях материалы необходимо будет разместить в столбце «Оборудование для сбора урожая»."
+      "translation": "Материалы Боевого синтеза можно носить как в Корзине, так и брать с собой. В таких случаях материалы необходимо будет разместить в столбце «Оборудование для сбора урожая»."
     },
     "pack02:3866788": {
       "source": "pack02_text_en",

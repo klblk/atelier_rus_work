@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-20T08:45:10.680898+00:00",
+  "generated_at": "2026-07-21T06:39:29.196791+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -46602,7 +46602,7 @@
       "index": 0,
       "speaker": "Sue",
       "original": "Hey, Lydie. I've been wondering about this for a while...",
-      "translation": "Привет, Лиди. Я некоторое время задавался этим вопросом..."
+      "translation": "Эй, Лиди. Я некоторое время задавалась вопросом..."
     },
     "ebm:ms04/event_message_ms04_010.ebm:1": {
       "source": "pack01_ebm",
@@ -46610,7 +46610,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "We find these all around in the mysterious worlds, but what do you think these are?",
-      "translation": "Мы находим их повсюду в таинственных мирах, но как вы думаете, что это такое?"
+      "translation": "Мы находим их повсюду в таинственных мирах, но как ты думаешь, что это такое?"
     },
     "ebm:ms04/event_message_ms04_010.ebm:2": {
       "source": "pack01_ebm",
@@ -46634,7 +46634,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "Count me in. Coming from the worlds inside those paintings, I bet they'll make something amazing!",
-      "translation": "Присоединяйтесь ко мне. Я уверен, что выходцы из миров, находящихся внутри этих картин, сделают что-то потрясающее!"
+      "translation": "Я в деле! Учитывая миры, изображенные на этих картинах, я уверена, что получится что-то потрясающее!"
     },
     "ebm:ms04/event_message_ms04_010.ebm:5": {
       "source": "pack01_ebm",
@@ -46642,7 +46642,7 @@
       "index": 5,
       "speaker": "Lydie",
       "original": "Sue. This is even more incredible than I expected!",
-      "translation": "Сью. Это даже более невероятно, чем я ожидал!"
+      "translation": "Сью. Это даже более невероятно, чем я ожидала!"
     },
     "ebm:ms04/event_message_ms04_010.ebm:6": {
       "source": "pack01_ebm",
@@ -46658,7 +46658,7 @@
       "index": 7,
       "speaker": "Lydie",
       "original": "Mix gunpowder and it makes bombs. Mix herbs and it becomes medicine.",
-      "translation": "Смешайте порох, и получится бомба. Смешайте травы и получится лекарство."
+      "translation": "Смешайте порох, и получится бомба. Смешайте травы, и получится лекарство."
     },
     "ebm:ms04/event_message_ms04_010.ebm:8": {
       "source": "pack01_ebm",
@@ -46666,7 +46666,7 @@
       "index": 8,
       "speaker": "Lydie",
       "original": "How do you think it works? It is like a portable alchemy cauldron? Or could it be...",
-      "translation": "Как вы думаете, как это работает? Это что-то вроде портативного алхимического котла? Или может быть..."
+      "translation": "Как ты думаешь, как это работает? Это что-то вроде карманного алхимического котла? Или может быть..."
     },
     "ebm:ms04/event_message_ms04_010.ebm:9": {
       "source": "pack01_ebm",
@@ -46674,7 +46674,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Enough fussing over the details! The important thing now is how to use this in the future!",
-      "translation": "Хватит возиться с деталями! Сейчас важно то, как использовать это в будущем!"
+      "translation": "Хватит уже вдаваться в детали! Сейчас важно понять, как это использовать в будущем!"
     },
     "ebm:ms04/event_message_ms04_010.ebm:10": {
       "source": "pack01_ebm",
@@ -46682,7 +46682,7 @@
       "index": 10,
       "speaker": "Sue",
       "original": "Luckily for you, I've had an idea already! Show me that notebook for a moment!",
-      "translation": "К счастью для вас, у меня уже возникла идея! Покажите мне на минутку этот блокнот!"
+      "translation": "К счастью для тебя, у меня уже возникла идея! Покажите мне на минутку этот блокнот!"
     },
     "ebm:ms04/event_message_ms04_010.ebm:11": {
       "source": "pack01_ebm",
@@ -46698,7 +46698,7 @@
       "index": 12,
       "speaker": "Sue",
       "original": "Ta-dah! Leave it to me! A revolutionary idea that will let us synthesize during battle!",
-      "translation": "Та-да! Оставьте это мне! Революционная идея, которая позволит нам синтезировать во время боя!"
+      "translation": "Та-дам! Оставьте это мне! Революционная идея, которая позволит нам синтезировать во время боя!"
     },
     "ebm:ms04/event_message_ms04_010.ebm:13": {
       "source": "pack01_ebm",
@@ -46706,7 +46706,7 @@
       "index": 13,
       "speaker": "Sue",
       "original": "I call it... The Battle Mix!",
-      "translation": "Я называю это... Боевой микс!"
+      "translation": "Я называю это... Боевой синтез!"
     },
     "ebm:ms04/event_message_ms04_010.ebm:14": {
       "source": "pack01_ebm",
@@ -46762,7 +46762,7 @@
       "index": 20,
       "speaker": "System",
       "original": "<CLEG>[Tutorial] ~Battle Mix~<CLNR>",
-      "translation": "<CLEG>[Учебное пособие] ~Боевой микс~<CLNR>"
+      "translation": "<CLEG>[Учебное пособие] ~Боевой синтез~<CLNR>"
     },
     "ebm:ms04/event_message_ms04_010.ebm:21": {
       "source": "pack01_ebm",
@@ -46770,7 +46770,7 @@
       "index": 21,
       "speaker": "System",
       "original": "<CLEG>Battle Mix<CLNR> is a unique approach to alchemy, that can be used during a battle under certain conditions.",
-      "translation": "<CLEG>Боевой микс<CLNR> — это уникальный подход к алхимии, который можно использовать во время битвы при определенных условиях."
+      "translation": "<CLEG>Боевой синтез<CLNR> — это уникальный подход к алхимии, который можно использовать во время битвы при определенных условиях."
     },
     "ebm:ms04/event_message_ms04_010.ebm:22": {
       "source": "pack01_ebm",
@@ -46914,7 +46914,7 @@
       "index": 14,
       "speaker": "System",
       "original": "As with Battle Mix, Extra Mix requires that certain conditions first be fulfilled.",
-      "translation": "Как и в случае с Battle Mix, Extra Mix требует сначала выполнения определенных условий."
+      "translation": "Как и в случае с Боевым синтезом, Extra Mix требует сначала выполнения определенных условий."
     },
     "ebm:ms04/event_message_ms04_020.ebm:15": {
       "source": "pack01_ebm",
@@ -77282,7 +77282,7 @@
       "index": 12,
       "speaker": "Lucia",
       "original": "Observing Lucia Style Battle Mix will be to see true art in motion! Ohohohoho!",
-      "translation": "Наблюдение за Люсия Style Battle Mix позволит увидеть настоящее искусство в движении! Охохохохо!"
+      "translation": "Наблюдение за Боевым синтезом в стиле Люсии позволит увидеть настоящее искусство в движении! Охохохохо!"
     },
     "ebm:qc07_rog/event_message_qc07_rog_010.ebm:0": {
       "source": "pack01_ebm",
@@ -104938,7 +104938,7 @@
       "index": 10,
       "speaker": "Firis",
       "original": "Huh? Oh, it was \"Battle Mix.\" You know, the technique you use to synthesize things in-battle.",
-      "translation": "Хм? О, это был «Боевой микс». Ну, вы знаете, технику, которую вы используете для синтеза вещей в бою."
+      "translation": "Хм? О, это был «Боевой синтез». Ну, вы знаете, технику, которую вы используете для синтеза вещей в бою."
     },
     "ebm:xx05/event_message_xx05_050.ebm:11": {
       "source": "pack01_ebm",
@@ -104978,7 +104978,7 @@
       "index": 15,
       "speaker": "Ilmeria",
       "original": "But \"Battle Mix\" makes use of Anima, allowing you to synthesize without any vessel.",
-      "translation": "Но в «Battle Mix» используется Анима, позволяющая синтезировать без какого-либо сосуда."
+      "translation": "Но в «Боевом синтезе» используется Анима, позволяющая синтезировать без какого-либо сосуда."
     },
     "ebm:xx05/event_message_xx05_050.ebm:16": {
       "source": "pack01_ebm",
@@ -115309,7 +115309,7 @@
       "file": "str_action_comment.xml",
       "string_no": "19988494",
       "original": "Increase the damage of Battle Mix items.",
-      "translation": "Увеличивает урон предметов боевого синтеза."
+      "translation": "Увеличивает урон предметов Боевого синтеза."
     },
     "pack02:19988495": {
       "source": "pack02_text_en",
@@ -124787,7 +124787,7 @@
       "file": "str_btl_define.xml",
       "string_no": "20447288",
       "original": "Do you want to cancel the Battle Mix?",
-      "translation": "Вы хотите отменить Летучая мышьtle Mix?"
+      "translation": "Вы хотите отменить Боевой синтез?"
     },
     "pack02:20447289": {
       "source": "pack02_text_en",
@@ -124801,7 +124801,7 @@
       "file": "str_btl_define.xml",
       "string_no": "20447291",
       "original": "Battle Mix - &lt;STR1&gt; Synthesis",
-      "translation": "Боевой микс — синтез &lt;STR1&gt;"
+      "translation": "Боевой синтез — синтез &lt;STR1&gt;"
     },
     "pack02:20447292": {
       "source": "pack02_text_en",
@@ -136988,7 +136988,7 @@
       "file": "str_dlc_title_ps.xml",
       "string_no": "52625473",
       "original": "・&quot;Battle Mix Secret Teachings&quot;",
-      "translation": "・&quot;Battle Mix Secret Teachings&quot;"
+      "translation": "・&quot;Тайные учения Боевого синтеза&quot;"
     },
     "pack02:52756481": {
       "source": "pack02_text_en",
@@ -137338,7 +137338,7 @@
       "file": "str_dlc_title_steam.xml",
       "string_no": "52756545",
       "original": "・&quot;Battle Mix Secret Teachings&quot;",
-      "translation": "・&quot;Battle Mix Secret Teachings&quot;"
+      "translation": "・&quot;Тайные учения Боевого синтеза&quot;"
     },
     "pack02:52690945": {
       "source": "pack02_text_en",
@@ -137688,7 +137688,7 @@
       "file": "str_dlc_title_switch.xml",
       "string_no": "52691009",
       "original": "・&quot;Battle Mix Secret Teachings&quot;",
-      "translation": "・&quot;Battle Mix Secret Teachings&quot;"
+      "translation": "・&quot;Тайные учения Боевого синтеза&quot;"
     },
     "pack02:262145": {
       "source": "pack02_text_en",
@@ -138591,14 +138591,14 @@
       "file": "str_event_chara_name.xml",
       "string_no": "262283",
       "original": "Coolheaded Madam",
-      "translation": "Спокойная хозяйка"
+      "translation": "Хладнокровная мадам"
     },
     "pack02:262284": {
       "source": "pack02_text_en",
       "file": "str_event_chara_name.xml",
       "string_no": "262284",
       "original": "Hotheaded Mister",
-      "translation": "Горячий муж"
+      "translation": "Неугомонный мистер"
     },
     "pack02:262285": {
       "source": "pack02_text_en",
@@ -146627,7 +146627,7 @@
       "file": "str_fm_tweet.xml",
       "string_no": "131280",
       "original": "Oh, I’ve found a plant! What’s this called again, Lydie?",
-      "translation": "О, я нашел растение! Как это называется, Лидия?"
+      "translation": "О, я нашла растение! Как оно называется, Лиди?"
     },
     "pack02:131281": {
       "source": "pack02_text_en",
@@ -146858,7 +146858,7 @@
       "file": "str_fm_tweet.xml",
       "string_no": "131313",
       "original": "Paper... I could use this to practice drawing.",
-      "translation": "Бумага... Я мог бы использовать ее, чтобы попрактиковаться в рисовании."
+      "translation": "Бумага... Я могла бы использовать ее, чтобы попрактиковаться в рисовании."
     },
     "pack02:131314": {
       "source": "pack02_text_en",
@@ -181739,7 +181739,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866649",
       "original": "Battles: Battle Mix",
-      "translation": "Битвы: Боевой микс"
+      "translation": "Битвы: Боевой синтез"
     },
     "pack02:3866650": {
       "source": "pack02_text_en",
@@ -182026,21 +182026,21 @@
       "file": "str_library_help.xml",
       "string_no": "3866690",
       "original": "&lt;CLGR&gt;Battle Mix&lt;CLNR&gt; is a special Follow-up Skill unique for Lydie and Sue. Follow-up Skills require that certain conditions are fulfilled before they can be used.",
-      "translation": "&lt;CLGR&gt;Летучая мышьtle Mix&lt;CLNR&gt; — это особый дополнительный навык, уникальный для Лидии и Сью. Последующие навыки требуют выполнения определенных условий, прежде чем их можно будет использовать."
+      "translation": "&lt;CLGR&gt;Боевой синтез&lt;CLNR&gt; — это особый дополнительный навык, уникальный для Лидии и Сью. Последующие навыки требуют выполнения определенных условий, прежде чем их можно будет использовать."
     },
     "pack02:3866691": {
       "source": "pack02_text_en",
       "file": "str_library_help.xml",
       "string_no": "3866691",
       "original": "&lt;CLGR&gt;Extra Mix&lt;CLNR&gt; is a command derived from Battle Mix. Its usage conditions are the same as for Battle Mix.",
-      "translation": "&lt;CLGR&gt;Extra Mix&lt;CLNR&gt; — это команда, полученная из Летучая мышьtle Mix. Условия его использования такие же, как и у Летучая мышьtle Mix."
+      "translation": "&lt;CLGR&gt;Extra Mix&lt;CLNR&gt; — это команда, полученная из Боевого синтеза. Условия его использования такие же, как и у Боевого синтеза."
     },
     "pack02:3866692": {
       "source": "pack02_text_en",
       "file": "str_library_help.xml",
       "string_no": "3866692",
       "original": "&lt;CLGR&gt;Archeus Anima&lt;CLNR&gt; is a special material used only for Battle Mix.",
-      "translation": "&lt;CLGR&gt;Аркеус-анима&lt;CLNR&gt; — специальный материал, используемый только для Летучая мышьtle Mix."
+      "translation": "&lt;CLGR&gt;Аркеус-анима&lt;CLNR&gt; — специальный материал, используемый только для Боевого синтеза."
     },
     "pack02:3866693": {
       "source": "pack02_text_en",
@@ -182313,7 +182313,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866731",
       "original": "With the Battle Mix, you can use the materials in your Basket and Archeus Anima to synthesize items from Battle Recipes.",
-      "translation": "С помощью Летучая мышьtle Mix вы можете использовать материалы из вашей Корзины и Аркеус-анима для синтеза предметов из боевых рецептов."
+      "translation": "С помощью Боевого синтеза вы можете использовать материалы из вашей Корзины и Аркеус-анима для синтеза предметов из боевых рецептов."
     },
     "pack02:3866732": {
       "source": "pack02_text_en",
@@ -182572,7 +182572,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866768",
       "original": "Items made with Battle Mix are used immediately after creation.",
-      "translation": "Предметы, созданные с помощью Летучая мышьtle Mix, используются сразу после создания."
+      "translation": "Предметы, созданные с помощью Боевого синтеза, используются сразу после создания."
     },
     "pack02:3866769": {
       "source": "pack02_text_en",
@@ -182705,7 +182705,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866787",
       "original": "Battle Mix materials can be carried in your Basket as well as taken along with you. In such cases, the materials will be need to be equipped in the Harvest Equipment column.",
-      "translation": "Материалы Летучая мышьtle Mix можно носить как в Корзине, так и брать с собой. В таких случаях материалы необходимо будет разместить в столбце «Оборудование для сбора урожая»."
+      "translation": "Материалы Боевого синтеза можно носить как в Корзине, так и брать с собой. В таких случаях материалы необходимо будет разместить в столбце «Оборудование для сбора урожая»."
     },
     "pack02:3866788": {
       "source": "pack02_text_en",
@@ -205700,7 +205700,7 @@
       "file": "str_rankup_command.xml",
       "string_no": "2818049",
       "original": "Confirm task",
-      "translation": "Подтвердить задание"
+      "translation": "Проверить задание"
     },
     "pack02:2818050": {
       "source": "pack02_text_en",
@@ -205742,7 +205742,7 @@
       "file": "str_rankup_description.xml",
       "string_no": "2686977",
       "original": "&lt;CLGR&gt;Create “Dream Paintbrushes.” ^00Recipe will be provided.^00*Adaptation permitted.&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;Создайте «Кисти сновидений». ^00Рецепт будет предоставлен.^00*Адаптация разрешена.&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;Создайте «Кисти сновидений». ^00Рецепт будет предоставлен.^00*Разрешено менять рецепт.&lt;CLNR&gt;"
     },
     "pack02:2686978": {
       "source": "pack02_text_en",
@@ -220981,7 +220981,7 @@
       "file": "str_system_message.xml",
       "string_no": "66164",
       "original": "Ohoho, welcome! I'm glad you two came to see me!",
-      "translation": "Ого-хо, добро пожаловать! Я рад, что вы двое пришли ко мне!"
+      "translation": "О-хо-хо, добро пожаловать! Как я рада, что вы обе пришли меня проведать!"
     },
     "pack02:66165": {
       "source": "pack02_text_en",
@@ -223515,7 +223515,7 @@
       "file": "str_ui_untranslated.xml",
       "string_no": "6029323",
       "original": "Cancel Battle Mix",
-      "translation": "Отмена боевого синтеза"
+      "translation": "Отмена Боевого синтеза"
     },
     "pack02:6029325": {
       "source": "pack02_text_en",
