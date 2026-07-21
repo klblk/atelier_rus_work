@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-21T07:20:05.960855+00:00",
+  "generated_at": "2026-07-21T07:25:14.709657+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -4194,7 +4194,7 @@
       "index": 21,
       "speaker": "System",
       "original": "<CLEG>[Tutorial] ~Recipe Ideas~<CLNR>",
-      "translation": "<CLEG>[Урок] ~Идеи рецептов~<CLNR>"
+      "translation": "<CLEG>[Учебное пособие] ~Идеи рецептов~<CLNR>"
     },
     "ebm:mm02/event_message_mm02_150.ebm:22": {
       "source": "pack01_ebm",
@@ -4266,7 +4266,7 @@
       "index": 6,
       "speaker": "System",
       "original": "<CLEG>[Tutorial] ~Quests~<CLNR>",
-      "translation": "<CLEG>[Обучение] ~Задания~<CLNR>"
+      "translation": "<CLEG>[Учебное пособие] ~Задания~<CLNR>"
     },
     "ebm:mm02/event_message_mm02_160.ebm:7": {
       "source": "pack01_ebm",
@@ -9026,7 +9026,7 @@
       "index": 24,
       "speaker": "System",
       "original": "<CLEG>[Tutorial] ~Painting Map~<CLNR>",
-      "translation": "<CLEG>[Урок] ~Карта рисования~<CLNR>"
+      "translation": "<CLEG>[Учебное пособие] ~Карта рисования~<CLNR>"
     },
     "ebm:mm04/event_message_mm04_020.ebm:25": {
       "source": "pack01_ebm",
@@ -46882,7 +46882,7 @@
       "index": 10,
       "speaker": "System",
       "original": "<CLEG>[Tutorial] ~Extra Mix~<CLNR>",
-      "translation": "<CLEG>[Урок] ~Дополнительный синтез~<CLNR>"
+      "translation": "<CLEG>[Учебное пособие] ~Дополнительный синтез~<CLNR>"
     },
     "ebm:ms04/event_message_ms04_020.ebm:11": {
       "source": "pack01_ebm",
@@ -77434,7 +77434,7 @@
       "index": 18,
       "speaker": "System",
       "original": "<CLEG>[Tutorial] ~Crazy Recipes~<CLNR>",
-      "translation": "<CLEG>[Урок] ~Безумные рецепты~<CLNR>"
+      "translation": "<CLEG>[Учебное пособие] ~Безумные рецепты~<CLNR>"
     },
     "ebm:qc07_rog/event_message_qc07_rog_010.ebm:19": {
       "source": "pack01_ebm",
