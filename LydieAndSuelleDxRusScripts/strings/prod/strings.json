@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-06T04:09:50.380448+00:00",
+  "generated_at": "2026-08-06T04:33:03.800796+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -47666,7 +47666,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Good! I've made a Special Nutrient!",
-      "translation": "Отлично! Я приготовила особое питательное вещество!"
+      "translation": "Отлично! Я приготовила Особую подкормку!"
     },
     "ebm:ms04/event_message_ms04_070.ebm:1": {
       "source": "pack01_ebm",
@@ -47738,7 +47738,7 @@
       "index": 9,
       "speaker": "System",
       "original": "<CLEG>[Tutorial] ~Special Nutrients~<CLNR>",
-      "translation": "<CLEG>[Учебное пособие] ~Особые питательные вещества~<CLNR>"
+      "translation": "<CLEG>[Учебное пособие] ~Особая подкормка~<CLNR>"
     },
     "ebm:ms04/event_message_ms04_070.ebm:10": {
       "source": "pack01_ebm",
@@ -47746,7 +47746,7 @@
       "index": 10,
       "speaker": "System",
       "original": "Using a Special Nutrient will temporarily boost the quality of materials in the vicinity.",
-      "translation": "Использование специального питательного вещества временно повысит качество материалов поблизости."
+      "translation": "Использование Особой подкормки временно повысит качество материалов поблизости."
     },
     "ebm:ms04/event_message_ms04_070.ebm:11": {
       "source": "pack01_ebm",
@@ -47754,7 +47754,7 @@
       "index": 11,
       "speaker": "System",
       "original": "<CLR1>Collect higher quality materials by using Special Nutrients and synthesize better items!<CLNR>",
-      "translation": "<CLR1>Собирайте материалы более высокого качества, используя специальные питательные вещества, и синтезируйте более качественные предметы!<CLNR>"
+      "translation": "<CLR1>Собирайте материалы более высокого качества, используя Особую подкормку, и синтезируйте более качественные предметы!<CLNR>"
     },
     "ebm:ms04/event_message_ms04_080.ebm:0": {
       "source": "pack01_ebm",
@@ -103906,7 +103906,7 @@
       "index": 1,
       "speaker": "System",
       "original": "<CLGR>Spiked Boots<CLNR>, <CLGR>Special Elixir Nutrients<CLNR>, <CLGR>Secret Bag<CLNR>.",
-      "translation": "<CLGR>Ботинки с шипами<CLNR>, <CLGR>Особые питательные вещества эликсира<CLNR>, <CLGR>Секретная сумка<CLNR>."
+      "translation": "<CLGR>Ботинки с шипами<CLNR>, <CLGR>Особый эликсир-подкормка<CLNR>, <CLGR>Секретная сумка<CLNR>."
     },
     "ebm:xx04/event_message_xx04_040.ebm:0": {
       "source": "pack01_ebm",
@@ -168418,7 +168418,7 @@
       "file": "str_item_name.xml",
       "string_no": "6750484",
       "original": "Special Nutrient",
-      "translation": "Особое питание"
+      "translation": "Особая подкормка"
     },
     "pack02:6750485": {
       "source": "pack02_text_en",
@@ -170560,7 +170560,7 @@
       "file": "str_item_name.xml",
       "string_no": "6750884",
       "original": "Special Elixir Nutrients",
-      "translation": "Особый питательный эликсир"
+      "translation": "Особый эликсир-подкормка"
     },
     "pack02:6750885": {
       "source": "pack02_text_en",
@@ -184308,7 +184308,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473681",
       "original": "“These are special nutrients used in alchemy. They grow anything, from trees to rocks to metal to monsters!”^00“Not monsters, geez! Then again... I’ve never tried it, but in theory... Hmm...”",
-      "translation": "«Особые питательные вещества для алхимии. Выращивают что угодно — деревья, камни, металл, монстров!»^00«Не монстров, боже! Хотя... Никогда не пробовала, но теоретически... Хм...»"
+      "translation": "«Особая подкормка для алхимии. Выращивает что угодно — деревья, камни, металл, монстров!»^00«Не монстров, боже! Хотя... Никогда не пробовала, но теоретически... Хм...»"
     },
     "pack02:3473682": {
       "source": "pack02_text_en",
@@ -186289,7 +186289,7 @@
       "file": "str_library_item.xml",
       "string_no": "3474072",
       "original": "“This is the powered-up version of the Special Nutrients! With this, even the most barren...”^00“Don't say that! You mustn't make promises you can't keep! There are some people who have no hope, you know!”",
-      "translation": "«Это усиленная версия особого питания! С ним даже самая бесплодная...»^00«Не говори этого! Нельзя давать обещания, которые не сможешь сдержать! Есть люди, у которых нет надежды, знаешь ли!»"
+      "translation": "«Это усиленная версия Особой подкормки! С ней даже самая бесплодная...»^00«Не говори этого! Нельзя давать обещания, которые не сможешь сдержать! Есть люди, у которых нет надежды, знаешь ли!»"
     },
     "pack02:3474073": {
       "source": "pack02_text_en",
@@ -205777,7 +205777,7 @@
       "file": "str_rankup_description.xml",
       "string_no": "2686982",
       "original": "&lt;CLGR&gt;Deliver “Special Nutrients.” ^00Any method allowed.^00*Number and quality will affect evaluation.&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;Доставьте «Особые питательные вещества». ^00Разрешен любой метод.^00*Количество и качество будут влиять на оценку.&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;Доставьте «Особую подкормку». ^00Разрешен любой метод.^00*Количество и качество будут влиять на оценку.&lt;CLNR&gt;"
     },
     "pack02:2686983": {
       "source": "pack02_text_en",
@@ -205980,7 +205980,7 @@
       "file": "str_rankup_overview.xml",
       "string_no": "2621445",
       "original": "Deliver “Special Nutrients.”",
-      "translation": "Доставьте «специальные питательные вещества»."
+      "translation": "Доставьте «Особую подкормку»."
     },
     "pack02:2621446": {
       "source": "pack02_text_en",
@@ -211510,7 +211510,7 @@
       "file": "str_saveload_define.xml",
       "string_no": "4456467",
       "original": "Chapter 2 &quot;A Mentor and an Official Notice&quot;",
-      "translation": "Глава 2 &quot;Наставник и официальное уведомление&quot;"
+      "translation": "Глава 2 &quot;Наставница и объявление&quot;"
     },
     "pack02:4456468": {
       "source": "pack02_text_en",
@@ -214989,7 +214989,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422690",
       "original": "&lt;CLGR&gt;- Let’s make some “Special Nutrients”^00　and hand them to Mireille.&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;- Давайте приготовим «Особые питательные вещества»^00　и передадим их Мирей.&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;- Давайте приготовим «Особую подкормку»^00　и передадим её Мирей.&lt;CLNR&gt;"
     },
     "pack02:6422691": {
       "source": "pack02_text_en",
