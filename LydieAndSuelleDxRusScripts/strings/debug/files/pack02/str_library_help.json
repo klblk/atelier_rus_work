@@ -93,7 +93,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866637",
       "original": "Exploration: Harvest Equipment",
-      "translation": "Исследование: Снаряжение для сбора"
+      "translation": "Исследование: Инструменты для сбора"
     },
     "pack02:3866638": {
       "source": "pack02_text_en",
@@ -380,7 +380,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866678",
       "original": "Some tools can be equipped to make searching easier. These tools are referred to as &lt;CLGR&gt;Harvest Equipment&lt;CLNR&gt;.",
-      "translation": "Некоторые инструменты можно оборудовать для облегчения поиска. Эти инструменты называются &lt;CLGR&gt;Снаряжение для сбора&lt;CLNR&gt;."
+      "translation": "Некоторые инструменты можно оборудовать для облегчения поиска. Эти инструменты называются &lt;CLGR&gt;Инструменты для сбора&lt;CLNR&gt;."
     },
     "pack02:3866679": {
       "source": "pack02_text_en",
@@ -660,14 +660,14 @@
       "file": "str_library_help.xml",
       "string_no": "3866718",
       "original": "To use an item, go to the Harvest Equipment screen and equip the desired item.",
-      "translation": "Чтобы использовать предмет, перейдите на экран «Снаряжение для сбора» и экипируйте нужный предмет."
+      "translation": "Чтобы использовать предмет, перейдите на экран «Походная сумка» и экипируйте нужный предмет."
     },
     "pack02:3866719": {
       "source": "pack02_text_en",
       "file": "str_library_help.xml",
       "string_no": "3866719",
       "original": "Basically, Harvest Equipment offers its effects simply by equipping it. Additionally, some types of Harvest Equipment can increase the number of actions you can perform while searching.",
-      "translation": "По сути, Снаряжение для сбора даёт свои эффекты, просто экипировав его. Кроме того, некоторые типы Снаряжения для сбора могут увеличить количество действий, которые вы можете выполнить во время поиска."
+      "translation": "По сути, Инструмент для сбора даёт свои эффекты, после того как вы экипируйте его. Кроме того, некоторые типы инструментов могут увеличить количество действий, которые вы можете выполнить во время поиска."
     },
     "pack02:3866720": {
       "source": "pack02_text_en",
@@ -1143,7 +1143,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866787",
       "original": "Battle Mix materials can be carried in your Basket as well as taken along with you. In such cases, the materials will be need to be equipped in the Harvest Equipment column.",
-      "translation": "Материалы Боевого синтеза можно носить как в Корзине, так и брать с собой. В таких случаях материалы необходимо будет разместить в столбце «Снаряжение для сбора»."
+      "translation": "Материалы Боевого синтеза можно носить как в Корзине, так и брать с собой. В таких случаях материалы необходимо будет разместить в «Походной сумке»."
     },
     "pack02:3866788": {
       "source": "pack02_text_en",

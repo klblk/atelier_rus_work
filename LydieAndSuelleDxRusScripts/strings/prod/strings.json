@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-21T15:13:54.552814+00:00",
+  "generated_at": "2026-08-06T04:09:50.380448+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -47642,7 +47642,7 @@
       "index": 16,
       "speaker": "System",
       "original": "You can equip tools from \"Harvest Equip\" from the Main Menu.",
-      "translation": "Вы можете экипировать инструменты из раздела «Снаряжение для сбора» в главном меню."
+      "translation": "Вы можете экипировать инструменты в разделе «Походная сумка» в главном меню."
     },
     "ebm:ms04/event_message_ms04_060.ebm:17": {
       "source": "pack01_ebm",
@@ -47650,7 +47650,7 @@
       "index": 17,
       "speaker": "System",
       "original": "The items each character can use can differ. Watch out for that!",
-      "translation": "Предметы, которые может использовать каждый персонаж, могут различаться. Берегитесь этого!"
+      "translation": "Предметы, которые может использовать каждый персонаж, могут различаться. Будьте внимательны!"
     },
     "ebm:ms04/event_message_ms04_060.ebm:18": {
       "source": "pack01_ebm",
@@ -47954,7 +47954,7 @@
       "index": 11,
       "speaker": "System",
       "original": "You can equip the Fishing Rod from Harvest Equip from the Main Menu.",
-      "translation": "Вы можете экипировать удочку в разделе «Снаряжение для сбора» в главном меню."
+      "translation": "Вы можете экипировать удочку в разделе «Походная сумка» в главном меню."
     },
     "ebm:ms04/event_message_ms04_090.ebm:12": {
       "source": "pack01_ebm",
@@ -48082,7 +48082,7 @@
       "index": 12,
       "speaker": "System",
       "original": "You can equip the Insect Net from Harvest Equip from the Main Menu.",
-      "translation": "Вы можете экипировать сачок для насекомых в разделе «Снаряжение для сбора» в главном меню."
+      "translation": "Вы можете экипировать сачок для насекомых в разделе «Походная сумка» в главном меню."
     },
     "ebm:ms04/event_message_ms04_100.ebm:13": {
       "source": "pack01_ebm",
@@ -48194,7 +48194,7 @@
       "index": 11,
       "speaker": "System",
       "original": "You can equip the Gathering Gloves from Harvest Equip from the Main Menu.",
-      "translation": "Вы можете надеть перчатки для сбора урожая в разделе «Снаряжение для сбора» в главном меню."
+      "translation": "Вы можете надеть перчатки для сбора урожая в разделе «Походная сумка» в главном меню."
     },
     "ebm:ms04/event_message_ms04_110.ebm:12": {
       "source": "pack01_ebm",
@@ -48306,7 +48306,7 @@
       "index": 12,
       "speaker": "System",
       "original": "You can equip the Water Bag from Harvest Equip from the Main Menu.",
-      "translation": "Вы можете экипировать мешок с водой из Снаряжения для сбора в главном меню."
+      "translation": "Вы можете экипировать мешок с водой из Походной сумки в главном меню."
     },
     "ebm:ms04/event_message_ms04_120.ebm:13": {
       "source": "pack01_ebm",
@@ -181655,7 +181655,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866637",
       "original": "Exploration: Harvest Equipment",
-      "translation": "Исследование: Снаряжение для сбора"
+      "translation": "Исследование: Инструменты для сбора"
     },
     "pack02:3866638": {
       "source": "pack02_text_en",
@@ -181942,7 +181942,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866678",
       "original": "Some tools can be equipped to make searching easier. These tools are referred to as &lt;CLGR&gt;Harvest Equipment&lt;CLNR&gt;.",
-      "translation": "Некоторые инструменты можно оборудовать для облегчения поиска. Эти инструменты называются &lt;CLGR&gt;Снаряжение для сбора&lt;CLNR&gt;."
+      "translation": "Некоторые инструменты можно оборудовать для облегчения поиска. Эти инструменты называются &lt;CLGR&gt;Инструменты для сбора&lt;CLNR&gt;."
     },
     "pack02:3866679": {
       "source": "pack02_text_en",
@@ -182222,14 +182222,14 @@
       "file": "str_library_help.xml",
       "string_no": "3866718",
       "original": "To use an item, go to the Harvest Equipment screen and equip the desired item.",
-      "translation": "Чтобы использовать предмет, перейдите на экран «Снаряжение для сбора» и экипируйте нужный предмет."
+      "translation": "Чтобы использовать предмет, перейдите на экран «Походная сумка» и экипируйте нужный предмет."
     },
     "pack02:3866719": {
       "source": "pack02_text_en",
       "file": "str_library_help.xml",
       "string_no": "3866719",
       "original": "Basically, Harvest Equipment offers its effects simply by equipping it. Additionally, some types of Harvest Equipment can increase the number of actions you can perform while searching.",
-      "translation": "По сути, Снаряжение для сбора даёт свои эффекты, просто экипировав его. Кроме того, некоторые типы Снаряжения для сбора могут увеличить количество действий, которые вы можете выполнить во время поиска."
+      "translation": "По сути, Инструмент для сбора даёт свои эффекты, после того как вы экипируйте его. Кроме того, некоторые типы инструментов могут увеличить количество действий, которые вы можете выполнить во время поиска."
     },
     "pack02:3866720": {
       "source": "pack02_text_en",
@@ -182705,7 +182705,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866787",
       "original": "Battle Mix materials can be carried in your Basket as well as taken along with you. In such cases, the materials will be need to be equipped in the Harvest Equipment column.",
-      "translation": "Материалы Боевого синтеза можно носить как в Корзине, так и брать с собой. В таких случаях материалы необходимо будет разместить в столбце «Снаряжение для сбора»."
+      "translation": "Материалы Боевого синтеза можно носить как в Корзине, так и брать с собой. В таких случаях материалы необходимо будет разместить в «Походной сумке»."
     },
     "pack02:3866788": {
       "source": "pack02_text_en",
