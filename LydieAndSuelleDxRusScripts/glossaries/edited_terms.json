@@ -39,6 +39,12 @@
     "Special Elixir Nutrients": {
       "ru": "Особый эликсир-подкормка",
       "notes": "склоняется; с большой «О»"
+    },
+    "painting world": {
+      "ru": "нарисованный мир",
+      "plural_ru": "нарисованные миры",
+      "aliases_en": ["Painting World", "Painting Worlds"],
+      "notes": "склоняется; EN title case → с большой «Н»"
     }
   }
 }

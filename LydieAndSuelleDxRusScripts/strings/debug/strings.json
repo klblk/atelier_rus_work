@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-06T05:49:33.377014+00:00",
+  "generated_at": "2026-08-06T06:38:57.825619+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -20042,7 +20042,7 @@
       "index": 18,
       "speaker": "Neige",
       "original": "Falgior can't use his powers in the painting world. That's why I'm giving this to you.",
-      "translation": "Фальгиор не может использовать свои способности в мире живописи. Вот почему я даю это тебе."
+      "translation": "Фальгиор не может использовать свои способности в нарисованном мире. Вот почему я даю это тебе."
     },
     "ebm:mm06/event_message_mm06_450.ebm:19": {
       "source": "pack01_ebm",
@@ -20090,7 +20090,7 @@
       "index": 24,
       "speaker": "Neige",
       "original": "Focus on the Palette and the Color Fragments and the Painting World will materialize in the real world.",
-      "translation": "Сосредоточьтесь на палитре и цветовых фрагментах, и мир живописи материализуется в реальном мире."
+      "translation": "Сосредоточьтесь на палитре и цветовых фрагментах, и Нарисованный мир материализуется в реальном мире."
     },
     "ebm:mm06/event_message_mm06_450.ebm:25": {
       "source": "pack01_ebm",
@@ -26538,7 +26538,7 @@
       "index": 31,
       "speaker": "Sue",
       "original": "Ah! People who've been inside painting worlds leave parts of their soul inside after they die!",
-      "translation": "Ах! Люди, побывавшие в живописных мирах, после смерти оставляют внутри части своей души!"
+      "translation": "Ах! Люди, побывавшие в нарисованных мирах, после смерти оставляют внутри части своей души!"
     },
     "ebm:mm08/event_message_mm08_210.ebm:32": {
       "source": "pack01_ebm",
@@ -29074,7 +29074,7 @@
       "index": 14,
       "speaker": "Honnete",
       "original": "I can move between painting worlds, so that's how I've been passing the time.",
-      "translation": "Я могу перемещаться между мирами живописи, вот как я провожу время."
+      "translation": "Я могу перемещаться между нарисованными мирами, вот как я провожу время."
     },
     "ebm:mm09/event_message_mm09_200.ebm:15": {
       "source": "pack01_ebm",
@@ -35026,7 +35026,7 @@
       "index": 10,
       "speaker": "Lydie",
       "original": "That we'd all travel the painting worlds together. This seems like our chance!",
-      "translation": "Что мы все вместе будем путешествовать по мирам живописи. Кажется, это наш шанс!"
+      "translation": "Что мы все вместе будем путешествовать по нарисованным мирам. Кажется, это наш шанс!"
     },
     "ebm:mm10/event_message_mm10_470.ebm:11": {
       "source": "pack01_ebm",
@@ -35066,7 +35066,7 @@
       "index": 15,
       "speaker": "Lydie",
       "original": "Ah, that was fun! These painting worlds are such fun!",
-      "translation": "Ах, это было весело! Эти рисованные миры такие забавные!"
+      "translation": "Ах, это было весело! Эти нарисованные миры такие забавные!"
     },
     "ebm:mm10/event_message_mm10_470.ebm:16": {
       "source": "pack01_ebm",
@@ -35538,7 +35538,7 @@
       "index": 4,
       "speaker": "Neige",
       "original": "Tell me. Have you seen black monsters in the painting worlds?",
-      "translation": "Скажи мне. Вы видели черных монстров в живописных мирах?"
+      "translation": "Скажи мне. Вы видели черных монстров в нарисованных мирах?"
     },
     "ebm:mm11/event_message_mm11_070.ebm:5": {
       "source": "pack01_ebm",
@@ -35562,7 +35562,7 @@
       "index": 7,
       "speaker": "Neige",
       "original": "Remplir take the form of monsters, but they are really distortions of the painting worlds.",
-      "translation": "Ремплиры принимают форму монстров, но на самом деле они являются искажением рисуемых миров."
+      "translation": "Ремплиры принимают форму монстров, но на самом деле они являются искажением нарисованных миров."
     },
     "ebm:mm11/event_message_mm11_070.ebm:8": {
       "source": "pack01_ebm",
@@ -35570,7 +35570,7 @@
       "index": 8,
       "speaker": "Neige",
       "original": "They occur, then spread, eventually turning the entire painting world black, consuming it.",
-      "translation": "Они возникают, затем распространяются, в конечном итоге превращая весь мир живописи в черный цвет, поглощая его."
+      "translation": "Они возникают, затем распространяются, в конечном итоге превращая весь нарисованный мир в черный цвет, поглощая его."
     },
     "ebm:mm11/event_message_mm11_070.ebm:9": {
       "source": "pack01_ebm",
@@ -36034,7 +36034,7 @@
       "index": 16,
       "speaker": "Lydie",
       "original": "\"A way to safely defeat the cores is required in order to secure a future for the painting worlds.\"",
-      "translation": "«Чтобы обеспечить будущее рисующим мирам, необходим способ безопасно победить ядра»."
+      "translation": "«Чтобы обеспечить будущее нарисованных миров, необходим способ безопасно победить ядра»."
     },
     "ebm:mm11/event_message_mm11_130.ebm:17": {
       "source": "pack01_ebm",
@@ -48330,7 +48330,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "When we used the Rainbow Palette and changed all of the scenery around us. That felt good, right?",
-      "translation": "Когда мы использовали палитру «Радуга» и изменили все пейзажи вокруг нас. Это было приятно, правда?"
+      "translation": "Когда мы использовали Радужную палитру и изменили все пейзажи вокруг нас. Это было приятно, правда?"
     },
     "ebm:ms04/event_message_ms04_130.ebm:2": {
       "source": "pack01_ebm",
@@ -48346,7 +48346,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "But it also really took it out of me. Like, mentally wore me down.",
-      "translation": "Но это и правда меня вымотало. Ну, морально утомило."
+      "translation": "Но это меня вымотало. Ну, морально утомило."
     },
     "ebm:ms04/event_message_ms04_130.ebm:4": {
       "source": "pack01_ebm",
@@ -48474,7 +48474,7 @@
       "index": 6,
       "speaker": "System",
       "original": "Using certain items can transform the battlefield into the world of a Mysterious Painting.",
-      "translation": "Использование определенных предметов может превратить поле битвы в мир загадочной картины."
+      "translation": "Использование определенных предметов может превратить поле битвы в мир таинственной картины."
     },
     "ebm:ms04/event_message_ms04_140.ebm:7": {
       "source": "pack01_ebm",
@@ -48514,7 +48514,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "Wow, really? So even if we've been to a painting before...",
-      "translation": "Вау, правда? Значит, даже если мы уже бывали в картине..."
+      "translation": "Ух ты, правда? Значит, даже если мы уже бывали в картине..."
     },
     "ebm:ms04/event_message_ms04_150.ebm:4": {
       "source": "pack01_ebm",
@@ -48522,7 +48522,7 @@
       "index": 4,
       "speaker": "Mireille",
       "original": "Yes. Visit it again and something may be different. You should investigate all of that, too.",
-      "translation": "Да. Посетите его еще раз, и что-то может измениться. Вам тоже следует все это расследовать."
+      "translation": "Именно. Загляните туда ещё разок, и всё может быть уже по-другому. Так что советую вам разузнать и об этом."
     },
     "ebm:ms04/event_message_ms04_150.ebm:5": {
       "source": "pack01_ebm",
@@ -48530,7 +48530,7 @@
       "index": 5,
       "speaker": "System",
       "original": "<CLEG>[Tutorial] ~Changes to the Painting Worlds~<CLNR>",
-      "translation": "<CLEG>[Учебное пособие] ~Изменения в рисованных мирах~<CLNR>"
+      "translation": "<CLEG>[Учебное пособие] ~Изменения в Нарисованных мирах~<CLNR>"
     },
     "ebm:ms04/event_message_ms04_150.ebm:6": {
       "source": "pack01_ebm",
@@ -48538,7 +48538,7 @@
       "index": 6,
       "speaker": "System",
       "original": "Painting worlds you have already visited may differ if you visit them again.",
-      "translation": "Миры картин, которые вы уже посетили, могут отличаться, если вы зайдёте в них снова."
+      "translation": "Нарисованные миры, которые вы уже посетили, могут отличаться, если вы зайдёте в них снова."
     },
     "ebm:ms04/event_message_ms04_150.ebm:7": {
       "source": "pack01_ebm",
@@ -48594,7 +48594,7 @@
       "index": 3,
       "speaker": "Mireille",
       "original": "When you come back from the painting worlds, time has passed here, right?",
-      "translation": "Когда вы возвращаетесь из миров картин, здесь время уже прошло, верно?"
+      "translation": "Когда вы возвращаетесь из нарисованных миров, здесь время уже прошло, верно?"
     },
     "ebm:ms04/event_message_ms04_160.ebm:4": {
       "source": "pack01_ebm",
@@ -64466,7 +64466,7 @@
       "index": 10,
       "speaker": "Lydie",
       "original": "Hold on. If they can't exist in this world, what about inside a painting world?",
-      "translation": "Подожди. Если они не могут существовать в этом мире, то как насчет мира живописи?"
+      "translation": "Подожди. Если они не могут существовать в этом мире, то как насчет нарисованного мира?"
     },
     "ebm:qc03_sop/event_message_qc03_sop_150.ebm:11": {
       "source": "pack01_ebm",
@@ -64490,7 +64490,7 @@
       "index": 13,
       "speaker": "Firis",
       "original": "Miss Sophie... Painting worlds are raw alchemy. It's used to make the very worlds themselves...",
-      "translation": "Мисс Софи... Живописные миры - это грубая алхимия. Он использовался для создания самих миров..."
+      "translation": "Мисс Софи... Нарисованные миры — это грубая алхимия. Она использовалась для создания самих миров..."
     },
     "ebm:qc03_sop/event_message_qc03_sop_150.ebm:14": {
       "source": "pack01_ebm",
@@ -80002,7 +80002,7 @@
       "index": 6,
       "speaker": "Sue",
       "original": "There are monsters in the painting worlds. We don't want you to get hurt, Mom.",
-      "translation": "В живописных мирах есть монстры. Мы не хотим, чтобы ты пострадала, мама."
+      "translation": "В нарисованных мирах есть монстры. Мы не хотим, чтобы ты пострадала, мама."
     },
     "ebm:qc08_hon/event_message_qc08_hon_030.ebm:7": {
       "source": "pack01_ebm",
@@ -99682,7 +99682,7 @@
       "index": 15,
       "speaker": "Sue",
       "original": "Come on then. We'll tell you the truth. These painting worlds...",
-      "translation": "Давай тогда. Мы скажем вам правду. Эти живописные миры..."
+      "translation": "Давай тогда. Мы скажем вам правду. Эти нарисованные миры..."
     },
     "ebm:qc16_fri/event_message_qc16_fri_090.ebm:16": {
       "source": "pack01_ebm",
@@ -104642,7 +104642,7 @@
       "index": 17,
       "speaker": "Ilmeria",
       "original": "If I restore it, I should be able to enter the painting world too... I must return and begin at once! Thank you!",
-      "translation": "Если я его восстановлю, я тоже смогу войти в мир живописи... Я должен вернуться и начать немедленно! Спасибо!"
+      "translation": "Если я его восстановлю, я тоже смогу войти в нарисованный мир... Я должен вернуться и начать немедленно! Спасибо!"
     },
     "ebm:xx05/event_message_xx05_030.ebm:18": {
       "source": "pack01_ebm",
@@ -123968,7 +123968,7 @@
       "file": "str_ambition_page_headline.xml",
       "string_no": "589842",
       "original": "Let’s find some unusual materials in the painting worlds!",
-      "translation": "Давайте найдём необычные материалы в мирах картин!"
+      "translation": "Давайте найдём необычные материалы в нарисованных мирах!"
     },
     "pack02:589843": {
       "source": "pack02_text_en",
@@ -143001,28 +143001,28 @@
       "file": "str_extra_view.xml",
       "string_no": "2031783",
       "original": "Painting World Fairy 01",
-      "translation": "Картина Мировая Фея 01"
+      "translation": "Фея Нарисованного мира 01"
     },
     "pack02:2031784": {
       "source": "pack02_text_en",
       "file": "str_extra_view.xml",
       "string_no": "2031784",
       "original": "Painting World Fairy 02",
-      "translation": "Картина Мировая Фея 02"
+      "translation": "Фея Нарисованного мира 02"
     },
     "pack02:2031785": {
       "source": "pack02_text_en",
       "file": "str_extra_view.xml",
       "string_no": "2031785",
       "original": "Painting World Fairy 03",
-      "translation": "Картина Мировая Фея 03"
+      "translation": "Фея Нарисованного мира 03"
     },
     "pack02:2031786": {
       "source": "pack02_text_en",
       "file": "str_extra_view.xml",
       "string_no": "2031786",
       "original": "Painting World Fairy 04",
-      "translation": "Картина Мировая Фея 04"
+      "translation": "Фея Нарисованного мира 04"
     },
     "pack02:2031787": {
       "source": "pack02_text_en",
@@ -143057,28 +143057,28 @@
       "file": "str_extra_view.xml",
       "string_no": "2031791",
       "original": "Painting World Gargoyle 01",
-      "translation": "Картина Мира Горгульи 01"
+      "translation": "Горгулья Нарисованного мира 01"
     },
     "pack02:2031792": {
       "source": "pack02_text_en",
       "file": "str_extra_view.xml",
       "string_no": "2031792",
       "original": "Painting World Gargoyle 02",
-      "translation": "Картина Мира Горгульи 02"
+      "translation": "Горгулья Нарисованного мира 02"
     },
     "pack02:2031793": {
       "source": "pack02_text_en",
       "file": "str_extra_view.xml",
       "string_no": "2031793",
       "original": "Painting World Gargoyle 03",
-      "translation": "Картина Мира Горгульи 03"
+      "translation": "Горгулья Нарисованного мира 03"
     },
     "pack02:2031794": {
       "source": "pack02_text_en",
       "file": "str_extra_view.xml",
       "string_no": "2031794",
       "original": "Painting World Gargoyle 04",
-      "translation": "Картина Мира Горгульи 04"
+      "translation": "Горгулья Нарисованного мира 04"
     },
     "pack02:2031795": {
       "source": "pack02_text_en",
@@ -170098,7 +170098,7 @@
       "file": "str_item_name.xml",
       "string_no": "6750777",
       "original": "Painting World Scrap",
-      "translation": "Осколок мира картин"
+      "translation": "Осколок Нарисованного мира"
     },
     "pack02:6750783": {
       "source": "pack02_text_en",
@@ -182047,7 +182047,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866693",
       "original": "Battles fought within the painting worlds can often feature special effects known as &lt;CLGR&gt;Area Effects&lt;CLNR&gt;.",
-      "translation": "Сражения в мирах рисования часто могут сопровождаться специальными эффектами, известными как &lt;CLGR&gt;Эффекты области&lt;CLNR&gt;."
+      "translation": "Сражения в нарисованных мирах часто могут сопровождаться специальными эффектами, известными как &lt;CLGR&gt;Эффекты области&lt;CLNR&gt;."
     },
     "pack02:3866694": {
       "source": "pack02_text_en",
@@ -182327,7 +182327,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866733",
       "original": "Anima can be obtained through gathering or fighting battles in the painting worlds, and you can hold up to 99 of them.",
-      "translation": "Аниму можно получить, собирая или сражаясь в битвах в мирах живописи, и вы можете хранить до 99 из них."
+      "translation": "Аниму можно получить, собирая или сражаясь в битвах в нарисованных мирах, и вы можете хранить до 99 из них."
     },
     "pack02:3866734": {
       "source": "pack02_text_en",
@@ -182586,7 +182586,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866770",
       "original": "Archeus Anima obtained in the painting worlds can also be used in the real world as well.",
-      "translation": "Аркеус-анима, полученная в живописных мирах, также может быть использована и в реальном мире."
+      "translation": "Аркеус-анима, полученная в нарисованных мирах, также может быть использована и в реальном мире."
     },
     "pack02:3866771": {
       "source": "pack02_text_en",
@@ -184756,7 +184756,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473752",
       "original": "“Since it’s supposed to be the Frozen Palace, I tried making a paint with a frigid color that looks like it could freeze over, but... You can’t spend too much time with it, huh?”^00“Yup. Better go to the painting world quick!”",
-      "translation": "«Раз это Замёрзший дворец, я попробовала сделать краску с ледяным цветом, будто может вот-вот замёрзнуть, но... С ней нельзя тянуть, да?»^00«Ага. Лучше скорее в мир картины!»"
+      "translation": "«Раз это Замёрзший дворец, я попробовала сделать краску с ледяным цветом, будто может вот-вот замёрзнуть, но... С ней нельзя тянуть, да?»^00«Ага. Лучше скорее в нарисованный мир!»"
     },
     "pack02:3473753": {
       "source": "pack02_text_en",
@@ -186870,7 +186870,7 @@
       "file": "str_library_map.xml",
       "string_no": "3735582",
       "original": "“This painting world is filled with lava. Lava to the right, and lava to the left... Lava lava lava lava everywhere. Hehehe.”^00“As you can see, the heat does funny things to people. Be sure to prepare accordingly.”",
-      "translation": "«Этот мир в картине полон лавы. Лава справа, лава слева... Лава-лава-лава повсюду. Хехехе.»^00«Как видите, жара делает с людьми странные вещи. Не забудьте подготовиться как следует.»"
+      "translation": "«Этот нарисованный мир полон лавы. Лава справа, лава слева... Лава-лава-лава повсюду. Хехехе.»^00«Как видите, жара делает с людьми странные вещи. Не забудьте подготовиться как следует.»"
     },
     "pack02:3735583": {
       "source": "pack02_text_en",
@@ -186912,7 +186912,7 @@
       "file": "str_library_map.xml",
       "string_no": "3735588",
       "original": "“This painting world is covered in black. It’s a little scary, Sue!”^00“I agree! But I’m here, and so is everybody else, so let’s go, Lydie!”",
-      "translation": "«Этот мир в картине покрыт чёрным. Немного страшно, Сью!»^00«Согласна! Но я рядом, и все остальные тоже, так что идём, Лидия!»"
+      "translation": "«Этот нарисованный мир покрыт чёрным. Немного страшно, Сью!»^00«Согласна! Но я рядом, и все остальные тоже, так что идём, Лидия!»"
     },
     "pack02:3735589": {
       "source": "pack02_text_en",
@@ -187003,21 +187003,21 @@
       "file": "str_library_map.xml",
       "string_no": "3735601",
       "original": "[Lydie’s Memo]^00This is a very dark painting world. I often hear a whispering coming from between the trees. However, I can never make out what they’re saying...",
-      "translation": "[Записка Лидии]^00Это очень тёмный мир в картине. Я часто слышу шёпот из-за деревьев. Однако никак не разберу, что они говорят..."
+      "translation": "[Записка Лидии]^00Это очень тёмный нарисованный мир. Я часто слышу шёпот из-за деревьев. Однако никак не разберу, что они говорят..."
     },
     "pack02:3735602": {
       "source": "pack02_text_en",
       "file": "str_library_map.xml",
       "string_no": "3735602",
       "original": "[Lydie’s Memo]^00This painting world contains ice that looks like crystal. It’s very beautiful, but it’s extremely cold to the touch.",
-      "translation": "[Записка Лидии]^00В этом мире в картине лёд похож на кристалл. Очень красиво, но к нему страшно прикасаться — невероятно холодно."
+      "translation": "[Записка Лидии]^00В этом нарисованном мире лёд похож на кристалл. Очень красиво, но к нему страшно прикасаться — невероятно холодно."
     },
     "pack02:3735603": {
       "source": "pack02_text_en",
       "file": "str_library_map.xml",
       "string_no": "3735603",
       "original": "[Lydie’s Memo]^00This painting world is filled with lava. Even though it’s a painting, the lava couldn’t be more real. So it’s really hot, enough to make you drip with sweat.",
-      "translation": "[Записка Лидии]^00В этом мире в картине повсюду лава. Хотя это картина, лава ощущается по-настоящему. Так жарко, что можно весь день потеть."
+      "translation": "[Записка Лидии]^00В этом нарисованном мире повсюду лава. Хотя это картина, лава ощущается по-настоящему. Так жарко, что можно весь день потеть."
     },
     "pack02:3735604": {
       "source": "pack02_text_en",
@@ -187038,7 +187038,7 @@
       "file": "str_library_map.xml",
       "string_no": "3735606",
       "original": "[Lydie’s Memo]^00This amazing painting world can show you the past! It’s also known as a “Time of Uncertainty.” I’m always so excited to walk through it and see what past events await me.",
-      "translation": "[Записка Лидии]^00Этот удивительный мир в картине может показать прошлое! Его ещё называют «Время неопределённости». Я всегда с восторгом захожу туда и смотрю, какие события прошлого меня ждут."
+      "translation": "[Записка Лидии]^00Этот удивительный нарисованный мир может показать прошлое! Его ещё называют «Время неопределённости». Я всегда с восторгом захожу туда и смотрю, какие события прошлого меня ждут."
     },
     "pack02:3735607": {
       "source": "pack02_text_en",
@@ -187052,14 +187052,14 @@
       "file": "str_library_map.xml",
       "string_no": "3735608",
       "original": "[Lydie’s Memo]^00This painting world lets you watch the beautiful night sky. Flowers and fruits of stars... You’re assured of seeing many star-related items here.",
-      "translation": "[Записка Лидии]^00В этом мире в картине можно любоваться прекрасным ночным небом. Цветы и плоды звёзд... Здесь наверняка найдёшь много предметов, связанных со звёздами."
+      "translation": "[Записка Лидии]^00В этом нарисованном мире можно любоваться прекрасным ночным небом. Цветы и плоды звёзд... Здесь наверняка найдёшь много предметов, связанных со звёздами."
     },
     "pack02:3735609": {
       "source": "pack02_text_en",
       "file": "str_library_map.xml",
       "string_no": "3735609",
       "original": "[Lydie’s Memo]^00This painting world was painted over by Remplir. The previous world has lost all of its sights and vistas. It’s so sad...",
-      "translation": "[Записка Лидии]^00Этот мир в картине был переписан Ремплиром. Прежний мир утратил все свои пейзажи и виды. Как грустно..."
+      "translation": "[Записка Лидии]^00Этот нарисованный мир был переписан Ремплиром. Прежний мир утратил все свои пейзажи и виды. Как грустно..."
     },
     "pack02:3735610": {
       "source": "pack02_text_en",
@@ -212770,14 +212770,14 @@
       "file": "str_summary_chara_checkbox.xml",
       "string_no": "6488170",
       "original": "&lt;CLGR&gt;- Let's look for more pieces inside the painting worlds.&lt;CLNR&gt;^00　↑It's a treasure map! We're gonna be rich!^00　　　　　　　　　　　　　　　　[Sue]^00　↑It's a recipe! Though I would like to be rich!^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "&lt;CLGR&gt;- Давай поищем ещё кусочки в мирах рисования.&lt;CLNR&gt;^00　↑Это карта сокровищ! Мы будем богатыми!^00　　　　　　　　　　　　　　　　[Сью]^00　↑Это рецепт! Хотя я хотел бы быть богатым!^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "&lt;CLGR&gt;- Давай поищем ещё кусочки в нарисованных мирах.&lt;CLNR&gt;^00　↑Это карта сокровищ! Мы будем богатыми!^00　　　　　　　　　　　　　　　　[Сью]^00　↑Это рецепт! Хотя я хотел бы быть богатым!^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6488171": {
       "source": "pack02_text_en",
       "file": "str_summary_chara_checkbox.xml",
       "string_no": "6488171",
       "original": "&lt;CLGR&gt;- Let's find lots more pieces inside the painting worlds!&lt;CLNR&gt;^00　↑The pictures join up! I'll get some glue to stick them together.^00　　　　　　　　　　　　　　　　[Sue]^00　↑Please don't…^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "&lt;CLGR&gt;- Давайте найдём ещё больше кусочков в мирах живописи!&lt;CLNR&gt;^00　↑Картинки соединятся! Я принесу клей, чтобы склеить их.^00　　　　　　　　　　　　　　　　[Сью]^00　↑Пожалуйста. не…^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "&lt;CLGR&gt;- Давайте найдём ещё больше кусочков в нарисованных мирах!&lt;CLNR&gt;^00　↑Картинки соединятся! Я принесу клей, чтобы склеить их.^00　　　　　　　　　　　　　　　　[Сью]^00　↑Пожалуйста. не…^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6488172": {
       "source": "pack02_text_en",
@@ -215535,7 +215535,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422768",
       "original": "&lt;CLGR&gt;- Let’s pay another visit to all of the ^00　painting worlds we’ve been to so far,^00　and get rid of the black monsters there!&lt;CLNR&gt;^00　↑We should go to at least three^00　　places... Just to make sure^00　　everyone’s safe.^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "&lt;CLGR&gt;- Давайте еще раз посетим все ^00　рисующие миры, в которых мы побывали до сих пор, ^00　и избавимся от тамошних черных монстров!&lt;CLNR&gt;^00　↑Мы должны посетить как минимум три^00　　места... Просто чтобы сделать конечно^00　　все в безопасности.^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "&lt;CLGR&gt;- Давайте еще раз посетим все ^00　нарисованные миры, в которых мы побывали до сих пор, ^00　и избавимся от тамошних черных монстров!&lt;CLNR&gt;^00　↑Мы должны посетить как минимум три^00　　места... Просто чтобы сделать конечно^00　　все в безопасности.^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6422769": {
       "source": "pack02_text_en",
