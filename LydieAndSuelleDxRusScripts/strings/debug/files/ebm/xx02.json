@@ -10,7 +10,7 @@
       "index": 0,
       "speaker": "System",
       "original": "A new outfit has been unlocked and you now can use \"Change Outfits\"!",
-      "translation": "Новый наряд был разблокирован, и теперь вы можете использовать «Сменить наряд»!"
+      "translation": "Разблокирован новый наряд, и теперь вы можете пользоваться функцией «Сменить наряд»!"
     },
     "ebm:xx02/event_message_xx02_020.ebm:1": {
       "source": "pack01_ebm",
@@ -18,7 +18,7 @@
       "index": 1,
       "speaker": "System",
       "original": "You can select \"Change Outfits\" from the desk in the atelier.",
-      "translation": "Вы можете выбрать «Сменить наряд» на столе в ателье."
+      "translation": "Вы можете выбрать «Сменить наряд» за столом в ателье."
     },
     "ebm:xx02/event_message_xx02_030.ebm:0": {
       "source": "pack01_ebm",
@@ -26,7 +26,7 @@
       "index": 0,
       "speaker": "System",
       "original": "Lydie and Sue can now use the <CLGR>Marie & Elie Dress Up Costumes<CLNR>!",
-      "translation": "Лиди и Сью теперь могут использовать <CLGR>костюмы-одевалки Мари и Эли<CLNR>!"
+      "translation": "Лиди и Сью теперь могут использовать <CLGR>костюмы Мари и Эли<CLNR>!"
     },
     "ebm:xx02/event_message_xx02_040.ebm:0": {
       "source": "pack01_ebm",
@@ -34,7 +34,7 @@
       "index": 0,
       "speaker": "System",
       "original": "The <CLGR>\"Selected Item Set\"<CLNR> has been added! You've received the following items:",
-      "translation": "<CLGR>\"Набор выбранных предметов\"<CLNR> был добавлен! Вы получили следующие предметы:"
+      "translation": "Добавлен <CLGR>«Набор выбранных предметов»<CLNR>! Вы получили следующие предметы:"
     },
     "ebm:xx02/event_message_xx02_040.ebm:1": {
       "source": "pack01_ebm",
@@ -42,7 +42,7 @@
       "index": 1,
       "speaker": "System",
       "original": "<CLGR>Bomb<CLNR>, <CLGR>Puni Jelly<CLNR>, <CLGR>Uni Bag<CLNR>, <CLGR>Plant Oil<CLNR>, <CLGR>Smoke Fungus<CLNR>.",
-      "translation": "<CLGR>Бомба<CLNR>, <CLGR>Пуни-желе<CLNR>, <CLGR>Уни-сумка<CLNR>, <CLGR>Растительное масло<CLNR>, <CLGR>Дымный гриб<CLNR>."
+      "translation": "<CLGR>Бомба<CLNR>, <CLGR>Пуни-желе<CLNR>, <CLGR>Мешочек с Уни<CLNR>, <CLGR>Растительное масло<CLNR>, <CLGR>Дымногриб<CLNR>."
     },
     "ebm:xx02/event_message_xx02_050.ebm:0": {
       "source": "pack01_ebm",
@@ -50,7 +50,7 @@
       "index": 0,
       "speaker": "System",
       "original": "The <CLGR>\"Special Item Set\"<CLNR> has been added! You've received the following items:",
-      "translation": "Добавлен <CLGR> «Набор специальных предметов»<CLNR>! Вы получили следующие предметы:"
+      "translation": "Добавлен <CLGR>«Набор особых предметов»<CLNR>! Вы получили следующие предметы:"
     },
     "ebm:xx02/event_message_xx02_050.ebm:1": {
       "source": "pack01_ebm",
@@ -58,7 +58,7 @@
       "index": 1,
       "speaker": "System",
       "original": "<CLGR>Craft<CLNR>, <CLGR>Ice Bomb<CLNR>, <CLGR>Simple Cookies<CLNR>, <CLGR>Honey Syrup<CLNR>.",
-      "translation": "<CLGR>Создание<CLNR>, <CLGR>Ледяная бомба<CLNR>, <CLGR>Простое печенье<CLNR>, <CLGR>Медовый сироп<CLNR>."
+      "translation": "<CLGR>Шипобомба<CLNR>, <CLGR>Ледобомба<CLNR>, <CLGR>Простое печенье<CLNR>, <CLGR>Медовый сироп<CLNR>."
     },
     "ebm:xx02/event_message_xx02_060.ebm:0": {
       "source": "pack01_ebm",
@@ -66,7 +66,7 @@
       "index": 0,
       "speaker": "System",
       "original": "The item pack ●● has been added! You've received the following items:",
-      "translation": "Пакет предметов ● ● добавлен! Вы получили следующие предметы:"
+      "translation": "Добавлен пакет предметов ●●! Вы получили следующие предметы:"
     },
     "ebm:xx02/event_message_xx02_080.ebm:0": {
       "source": "pack01_ebm",
@@ -74,7 +74,7 @@
       "index": 0,
       "speaker": "System",
       "original": "The <CLGR>\"Arranged Battle BGM\"<CLNR> has been added!",
-      "translation": "Добавлен <CLGR> «Музыка организованного боя»<CLNR>!"
+      "translation": "Добавлен <CLGR>«Аранжированный боевой BGM»<CLNR>!"
     },
     "ebm:xx02/event_message_xx02_080.ebm:1": {
       "source": "pack01_ebm",
@@ -82,7 +82,7 @@
       "index": 1,
       "speaker": "System",
       "original": "The <CLGR>\"Arranged Battle BGM\"<CLNR> has been added!",
-      "translation": "Добавлен <CLGR> «Музыка организованного боя»<CLNR>!"
+      "translation": "Добавлен <CLGR>«Аранжированный боевой BGM»<CLNR>!"
     },
     "ebm:xx02/event_message_xx02_090.ebm:0": {
       "source": "pack01_ebm",
@@ -90,7 +90,7 @@
       "index": 0,
       "speaker": "System",
       "original": "The <CLGR>\"Atelier Series BGM Pack\"<CLNR> has been added!",
-      "translation": "Добавлен <CLGR> «Пакет фоновой музыки Ателье Series»<CLNR>!"
+      "translation": "Добавлен <CLGR>«Пакет BGM серии Atelier»<CLNR>!"
     },
     "ebm:xx02/event_message_xx02_100.ebm:0": {
       "source": "pack01_ebm",
@@ -98,7 +98,7 @@
       "index": 0,
       "speaker": "System",
       "original": "The <CLGR>\"GUST Titles BGM Pack\"<CLNR> has been added!",
-      "translation": "Добавлен <CLGR> «Пакет фоновой музыки GUST Titles»<CLNR>!"
+      "translation": "Добавлен <CLGR>«Пакет BGM игр GUST»<CLNR>!"
     },
     "ebm:xx02/event_message_xx02_190.ebm:0": {
       "source": "pack01_ebm",
@@ -106,7 +106,7 @@
       "index": 0,
       "speaker": "System",
       "original": "Where do you want to go?",
-      "translation": "Куда вы хотите пойти?"
+      "translation": "Куда вы хотите отправиться?"
     },
     "ebm:xx02/event_message_xx02_200.ebm:0": {
       "source": "pack01_ebm",
@@ -114,7 +114,7 @@
       "index": 0,
       "speaker": "System",
       "original": "Where do you want to go?",
-      "translation": "Куда вы хотите пойти?"
+      "translation": "Куда вы хотите отправиться?"
     },
     "ebm:xx02/event_message_xx02_210.ebm:0": {
       "source": "pack01_ebm",
@@ -122,7 +122,7 @@
       "index": 0,
       "speaker": "System",
       "original": "Where do you want to go?",
-      "translation": "Куда вы хотите пойти?"
+      "translation": "Куда вы хотите отправиться?"
     },
     "ebm:xx02/event_message_xx02_220.ebm:0": {
       "source": "pack01_ebm",
@@ -130,7 +130,7 @@
       "index": 0,
       "speaker": "System",
       "original": "Where do you want to go?",
-      "translation": "Куда вы хотите пойти?"
+      "translation": "Куда вы хотите отправиться?"
     },
     "ebm:xx02/event_message_xx02_230.ebm:0": {
       "source": "pack01_ebm",
@@ -138,7 +138,7 @@
       "index": 0,
       "speaker": "System",
       "original": "Where do you want to go?",
-      "translation": "Куда вы хотите пойти?"
+      "translation": "Куда вы хотите отправиться?"
     },
     "ebm:xx02/event_message_xx02_240.ebm:0": {
       "source": "pack01_ebm",
@@ -146,7 +146,7 @@
       "index": 0,
       "speaker": "System",
       "original": "Where do you want to go?",
-      "translation": "Куда вы хотите пойти?"
+      "translation": "Куда вы хотите отправиться?"
     }
   }
 }
