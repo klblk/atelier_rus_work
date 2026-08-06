@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-06T07:33:24.712303+00:00",
+  "generated_at": "2026-08-06T08:45:51.690778+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -49050,7 +49050,7 @@
       "index": 0,
       "speaker": "Corneria",
       "original": "Drum roll please! Fanfare please! Congratulations!",
-      "translation": "Барабанная дробь, пожалуйста! Фанфары, пожалуйста! Поздравляем!"
+      "translation": "Барабанную дробь, пожалуйста! Врубите фанфары! Поздравляю!"
     },
     "ebm:ms04/event_message_ms04_200.ebm:1": {
       "source": "pack01_ebm",
@@ -49058,7 +49058,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "E-Excuse me? What's going on?",
-      "translation": "Э-простите? Что происходит?"
+      "translation": "П-простите? Что происходит?"
     },
     "ebm:ms04/event_message_ms04_200.ebm:2": {
       "source": "pack01_ebm",
@@ -49122,7 +49122,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Gah, enough! We'll use it, alright, but you better eat well too! Do you hear me, Corneria?",
-      "translation": "Га, хватит! Мы воспользуемся этим, хорошо, но тебе тоже лучше хорошо питаться! Ты слышишь меня, Корнерия?"
+      "translation": "Ах, хватит! Мы воспользуемся этим, хорошо, но тебе тоже лучше хорошо питаться! Ты слышишь меня, Корнерия?"
     },
     "ebm:ms04/event_message_ms04_210.ebm:0": {
       "source": "pack01_ebm",
@@ -49194,7 +49194,7 @@
       "index": 8,
       "speaker": "Lydie",
       "original": "Come on then, Sue! Let's aim even higher!",
-      "translation": "Тогда давай, Сью! Давай стремиться ещё выше!"
+      "translation": "Тогда давай, Сью! Давайте поставим перед собой еще более высокие цели!"
     },
     "ebm:ms04/event_message_ms04_210.ebm:9": {
       "source": "pack01_ebm",
@@ -49210,7 +49210,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Sue. Hey, Sue. I need to ask you something...",
-      "translation": "Сью. Привет, Сью. Мне нужно у тебя кое-что спросить..."
+      "translation": "Сью. Эй, Сью. Мне нужно у тебя кое-что спросить..."
     },
     "ebm:ms04/event_message_ms04_220.ebm:1": {
       "source": "pack01_ebm",
@@ -49234,7 +49234,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "Excuse me?",
-      "translation": "Прошу прощения?"
+      "translation": "Извини?"
     },
     "ebm:ms04/event_message_ms04_220.ebm:4": {
       "source": "pack01_ebm",
@@ -49314,7 +49314,7 @@
       "index": 13,
       "speaker": "Lydie",
       "original": "Haha! In which case, you can start from learning all the proper lingo.",
-      "translation": "Хаха! Тогда можешь начать с изучения всего настоящего жаргона."
+      "translation": "Ха-ха! В таком случае, можете начать с изучения всей необходимой терминологии."
     },
     "ebm:ms04/event_message_ms04_220.ebm:14": {
       "source": "pack01_ebm",
@@ -49338,7 +49338,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Mix this in quickly, and if you hit something on the bottom draw it out at once...",
-      "translation": "Быстро вмешиваешь это, а если на дне что-то заденешь — сразу вытаскиваешь..."
+      "translation": "Быстро размешиваешь это, а если на дне что-то заденешь — сразу вытаскиваешь..."
     },
     "ebm:ms04/event_message_ms04_230.ebm:2": {
       "source": "pack01_ebm",
@@ -49346,7 +49346,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "There, all done! Now it's your turn, Lydie!",
-      "translation": "Вот и все готово! Теперь твоя очередь, Лиди!"
+      "translation": "Вот и всё готово! Теперь твоя очередь, Лиди!"
     },
     "ebm:ms04/event_message_ms04_230.ebm:3": {
       "source": "pack01_ebm",
@@ -49370,7 +49370,7 @@
       "index": 5,
       "speaker": "Lydie",
       "original": "Right, all done!",
-      "translation": "Отлично, все готово!"
+      "translation": "Отлично, всё готово!"
     },
     "ebm:ms04/event_message_ms04_230.ebm:6": {
       "source": "pack01_ebm",
@@ -49418,7 +49418,7 @@
       "index": 11,
       "speaker": "Ilmeria",
       "original": "Sue works by instinct. She mixes it up large, based on her gut sensations.",
-      "translation": "Сью действует инстинктивно. Она все смешивает, основываясь на своих внутренних ощущениях."
+      "translation": "Сью действует инстинктивно. Она всё смешивает, основываясь на своих внутренних ощущениях."
     },
     "ebm:ms04/event_message_ms04_230.ebm:12": {
       "source": "pack01_ebm",
@@ -49466,7 +49466,7 @@
       "index": 17,
       "speaker": "Ilmeria",
       "original": "You've become so good at alchemy. Leaps and bounds ahead of where you started.",
-      "translation": "Вы так хорошо освоили алхимию. Далеко впереди того, с чего начали."
+      "translation": "Вы так хорошо освоили алхимию. Вы значительно опередили свои первоначальный уровень."
     },
     "ebm:ms04/event_message_ms04_230.ebm:18": {
       "source": "pack01_ebm",
@@ -49506,7 +49506,7 @@
       "index": 22,
       "speaker": "Ilmeria",
       "original": "I can't believe those two. They've grown as alchemists, but they're still just kids.",
-      "translation": "Не могу поверить этим двоим. Они выросли как алхимики, но всё ещё дети."
+      "translation": "Да уж, я просто поражаюсь этим двоим. Они заметно продвинулись в алхимии, но ведут себя совсем как дети"
     },
     "ebm:ms04/event_message_ms04_230.ebm:23": {
       "source": "pack01_ebm",
@@ -49514,7 +49514,7 @@
       "index": 23,
       "speaker": "Ilmeria",
       "original": "I'd better get home and do some studying myself. I can't afford to hang behind, either, can I...",
-      "translation": "Мне лучше пойти домой и самой немного позаниматься. Я тоже не могу позволить себе отставать..."
+      "translation": "Мне лучше пойти домой и самой немного позаниматься. Я не могу позволить себе отставать..."
     },
     "ebm:ms04/event_message_ms04_240.ebm:0": {
       "source": "pack01_ebm",
@@ -49530,7 +49530,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Yeah. I'll do my best.",
-      "translation": "Ага. Я сделаю все возможное."
+      "translation": "Ага. Я сделаю всё возможное."
     },
     "ebm:ms04/event_message_ms04_240.ebm:2": {
       "source": "pack01_ebm",
@@ -49538,7 +49538,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "Hnn! Hnnnnnn!",
-      "translation": "Хнн! Хннннн!"
+      "translation": "Эх!.. Э-э-эхх!.."
     },
     "ebm:ms04/event_message_ms04_240.ebm:3": {
       "source": "pack01_ebm",
@@ -49546,7 +49546,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "Phew. How was that? What do you think?",
-      "translation": "Уф. Как это было? Что думаешь?"
+      "translation": "Уф. Как тебе? Что думаешь?"
     },
     "ebm:ms04/event_message_ms04_240.ebm:4": {
       "source": "pack01_ebm",
@@ -49570,7 +49570,7 @@
       "index": 6,
       "speaker": "Sue",
       "original": "Five sit-ups and three push-ups isn't really what I'd call working out...",
-      "translation": "Пять скручиваний и три отжимания — это не то, что я бы назвала тренировкой…"
+      "translation": "Пять приседаний и три отжимания — это, честно говоря, не совсем тренировка..."
     },
     "ebm:ms04/event_message_ms04_240.ebm:7": {
       "source": "pack01_ebm",
@@ -49618,7 +49618,7 @@
       "index": 12,
       "speaker": "Lydie",
       "original": "Sue! Thank you, I will!",
-      "translation": "Сью! Спасибо, я сделаю!"
+      "translation": "Сью! Спасибо, я так и сделаю!"
     },
     "ebm:ms04/event_message_ms04_240.ebm:13": {
       "source": "pack01_ebm",
@@ -49626,7 +49626,7 @@
       "index": 13,
       "speaker": "Lydie",
       "original": "Right, I've got a special workout planned for tomorrow! Seven sit-ups and five push-ups!",
-      "translation": "Точно, у меня на завтра запланирована особая тренировка! Семь скручиваний и пять отжиманий!"
+      "translation": "Точно, у меня на завтра запланирована особая тренировка! Семь приседаний и пять отжиманий!"
     },
     "ebm:ms04/event_message_ms04_240.ebm:14": {
       "source": "pack01_ebm",
@@ -49762,7 +49762,7 @@
       "index": 15,
       "speaker": "Sue",
       "original": "So that stuff with the Puni was all a dream? Owww! Now that I'm back my cheek really hurts!",
-      "translation": "Значит, всё это с пуни было сном? Оууу! Теперь, когда я очнулась, у меня очень болит щека!"
+      "translation": "Значит, всё это с Пуни было сном? Оууу! Теперь, когда я очнулась, у меня очень болит щека!"
     },
     "ebm:ms04/event_message_ms04_250.ebm:16": {
       "source": "pack01_ebm",
@@ -49818,7 +49818,7 @@
       "index": 4,
       "speaker": "Lydie",
       "original": "Huaaah!",
-      "translation": "Хуааа!"
+      "translation": "Ху-у-у-у-х!"
     },
     "ebm:ms04/event_message_ms04_260.ebm:5": {
       "source": "pack01_ebm",
@@ -49866,7 +49866,7 @@
       "index": 10,
       "speaker": "Lydie",
       "original": "Umm... 3000 push-ups, 5000 sit-ups, 2500 each of squats and back stretches...",
-      "translation": "Хм... 3000 отжиманий, 5000 скручиваний, по 2500 приседаний и растяжек спины..."
+      "translation": "Э-э-эм... 3000 отжиманий, 5000 раз на пресс, и ещё по 2500 приседаний и наклонов для спины..."
     },
     "ebm:ms04/event_message_ms04_260.ebm:11": {
       "source": "pack01_ebm",
@@ -49970,7 +49970,7 @@
       "index": 23,
       "speaker": "Sue",
       "original": "No! No! Stay baaaaaack!",
-      "translation": "Нет! Нет! Оставайся баааааак!"
+      "translation": "Нет! Нет! Оставайся там!"
     },
     "ebm:ms04/event_message_ms04_260.ebm:24": {
       "source": "pack01_ebm",
@@ -49986,7 +49986,7 @@
       "index": 25,
       "speaker": "Sue",
       "original": "Ugawah, stop it! I don't want a raw egg smoothie! It's all horrible!",
-      "translation": "Угава, прекрати! Я не хочу смузи из сырых яиц! Это все ужасно!"
+      "translation": "Ух, прекрати! Я не хочу смузи из сырых яиц! Это всё ужасно!"
     },
     "ebm:ms04/event_message_ms04_260.ebm:26": {
       "source": "pack01_ebm",
