@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-06T04:32:59.848346+00:00",
+  "generated_at": "2026-08-06T05:49:33.377014+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -47674,7 +47674,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "That's a pretty interesting item. A nutrient you can use with not just plants, but anything.",
-      "translation": "Это довольно интересный предмет. Питательное вещество, которое можно использовать не только с растениями, но и с чем угодно."
+      "translation": "Это довольно интересный предмет. Питательное вещество, которое можно использовать не только с растениями, а с чем угодно."
     },
     "ebm:ms04/event_message_ms04_070.ebm:2": {
       "source": "pack01_ebm",
@@ -47690,7 +47690,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "That could be fun, sure.",
-      "translation": "Это могло бы быть весело, конечно."
+      "translation": "Это, безусловно, может быть весело."
     },
     "ebm:ms04/event_message_ms04_070.ebm:4": {
       "source": "pack01_ebm",
@@ -47714,7 +47714,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "I know exactly who you mean, Sue, but I think we'd better leave it alone...",
-      "translation": "Я точно знаю, кого ты имеешь в виду, Сью, но думаю, нам лучше оставить это в покое..."
+      "translation": "Я прекрасно понимаю, кого ты имеешь в виду, Сью, но думаю, нам лучше оставить это в покое..."
     },
     "ebm:ms04/event_message_ms04_070.ebm:7": {
       "source": "pack01_ebm",
@@ -47722,7 +47722,7 @@
       "index": 7,
       "speaker": "Lydie",
       "original": "Sometimes, you know, not saying anything can be the kinder thing.",
-      "translation": "Знаешь, иногда лучше ничего не говорить — так добрее."
+      "translation": "Иногда, знаешь ли, лучше промолчать."
     },
     "ebm:ms04/event_message_ms04_070.ebm:8": {
       "source": "pack01_ebm",
@@ -47770,7 +47770,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Seriously, we're making pickaxes now? I didn't think being an alchemist involved manual labor!",
-      "translation": "Серьёзно, мы сейчас кирки делаем? Я не думала, что профессия алхимика предполагает ручной труд!"
+      "translation": "Серьёзно, мы сейчас и кирки делаем? Я не думала, что профессия алхимика предполагает ручной труд!"
     },
     "ebm:ms04/event_message_ms04_080.ebm:2": {
       "source": "pack01_ebm",
@@ -47786,7 +47786,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "Oh, Lydie, you just hate exercise! You need some though, or you'll get all fat!",
-      "translation": "О, Лиди, ты просто ненавидишь упражнения! А тебе они нужны, иначе растолстеешь!"
+      "translation": "О, Лиди, ты просто ненавидишь упражнения! А тебе они нужны, иначе потолстеешь!"
     },
     "ebm:ms04/event_message_ms04_080.ebm:4": {
       "source": "pack01_ebm",
@@ -47794,7 +47794,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "I think you've put a little on already, haven't you? Eh? Eh?",
-      "translation": "Я думаю, ты уже немного набралась, не так ли? Э? Э?"
+      "translation": "Мне кажется, ты уже немного поправился, не так ли? А? А?"
     },
     "ebm:ms04/event_message_ms04_080.ebm:5": {
       "source": "pack01_ebm",
@@ -47810,7 +47810,7 @@
       "index": 6,
       "speaker": "Sue",
       "original": "I know everything about you, Lydie dearest! Let me tell you about a brand new diet!",
-      "translation": "Я знаю о тебе всё, Лиди, дорогая! Дай расскажу тебе о совершенно новой диете!"
+      "translation": "Я всё о тебе знаю, дорогая Лиди! Позволь мне рассказать тебе о совершенно новой диете!"
     },
     "ebm:ms04/event_message_ms04_080.ebm:7": {
       "source": "pack01_ebm",
@@ -47818,7 +47818,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "It's called the \"Pickaxe Burn\"! You use a pickaxe to help your little sister and pack on the muscle!",
-      "translation": "Это называется «Ожог киркой»! Используешь кирку, чтобы помочь младшей сестре — и накачиваешь мышцы!"
+      "translation": "Она называется «Кирочный жиросжигатель»! Машешь киркой, помогаешь любимой сестрёнке и заодно качаешь мышцы!"
     },
     "ebm:ms04/event_message_ms04_080.ebm:8": {
       "source": "pack01_ebm",
@@ -47842,7 +47842,7 @@
       "index": 10,
       "speaker": "System",
       "original": "Swinging a <CLEG>Pickaxe<CLNR> allows you to break harder rocks more quickly.",
-      "translation": "Размахивая <CLEG>Киркой<CLNR>, вы сможете быстрее разбивать более твердые камни."
+      "translation": "Размахивая <CLEG>Киркой<CLNR>, вы сможете быстрее разбивать твердые камни."
     },
     "ebm:ms04/event_message_ms04_080.ebm:11": {
       "source": "pack01_ebm",
@@ -47850,7 +47850,7 @@
       "index": 11,
       "speaker": "System",
       "original": "Use <IM08> to change your Harvesting item to the Pickaxe and then press <IM04> to use it.",
-      "translation": "Используйте <IM08>, чтобы сменить предмет сбора урожая на кирку, а затем нажмите <IM04>, чтобы использовать его."
+      "translation": "Используйте <IM08>, чтобы сменить инструмент сбора на кирку, а затем нажмите <IM04>, чтобы использовать её."
     },
     "ebm:ms04/event_message_ms04_080.ebm:12": {
       "source": "pack01_ebm",
@@ -47858,7 +47858,7 @@
       "index": 12,
       "speaker": "System",
       "original": "<CLR1>Even if you can't hear any ores, a little wrecking rampage never hurt anyone!<CLNR>",
-      "translation": "<CLR1>Даже если вы не слышите руду, небольшая разрушительная ярость никому не повредит!<CLNR>"
+      "translation": "<CLR1>Даже если вы не слышите звуков руды, небольшой разрушительный акт никому не повредит!<CLNR>"
     },
     "ebm:ms04/event_message_ms04_090.ebm:0": {
       "source": "pack01_ebm",
@@ -47866,7 +47866,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Ah, we really made a Fishing Rod. It looks really nice, too!",
-      "translation": "Ах, мы действительно сделали удочку. Это тоже выглядит очень красиво!"
+      "translation": "Ах, мы действительно сделали удочку. Это выглядит очень красиво!"
     },
     "ebm:ms04/event_message_ms04_090.ebm:1": {
       "source": "pack01_ebm",
@@ -47874,7 +47874,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Hehe, I'm glad, Lydie. That means we can add some fish to the dinner menu tonight!",
-      "translation": "Хе-хе, я рада, Лиди. Это значит, что сегодня вечером мы можем добавить рыбу в меню ужина!"
+      "translation": "Хе-хе, я рада, Лиди. Это значит, что сегодня вечером мы можем добавить рыбу в меню!"
     },
     "ebm:ms04/event_message_ms04_090.ebm:2": {
       "source": "pack01_ebm",
@@ -47890,7 +47890,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "All those days, suffering without money, holding our rods over the water in the hope of eating some fish!",
-      "translation": "Все эти дни мы страдали без денег, держа удочки над водой в надежде съесть немного рыбы!"
+      "translation": "Все те дни, страдая от нехватки денег, мы держали удочки над водой в надежде поймать хоть какую-нибудь рыбу!"
     },
     "ebm:ms04/event_message_ms04_090.ebm:4": {
       "source": "pack01_ebm",
@@ -47898,7 +47898,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "What was it they called us? The Merveille Fishing Twins?",
-      "translation": "Как они нас называли? Близнецы Мервейль-Рыбалка?"
+      "translation": "Как они нас называли? Близняшки-рыболовы из Мервейля?"
     },
     "ebm:ms04/event_message_ms04_090.ebm:5": {
       "source": "pack01_ebm",
@@ -47914,7 +47914,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "But my skills from that time remain intact!",
-      "translation": "Но мои навыки с того времени остались нетронутыми!"
+      "translation": "Но мои навыки, приобретенные тогда, остались неизменными!"
     },
     "ebm:ms04/event_message_ms04_090.ebm:7": {
       "source": "pack01_ebm",
@@ -47922,7 +47922,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "Muwahahaha! All you fishes! Start trembling in fear!",
-      "translation": "Мувахахаха! Все вы, рыбки! Начинайте дрожать от страха!"
+      "translation": "Ахахаха! Все вы, рыбы! Начинайте дрожать от страха!"
     },
     "ebm:ms04/event_message_ms04_090.ebm:8": {
       "source": "pack01_ebm",
@@ -47930,7 +47930,7 @@
       "index": 8,
       "speaker": "Lydie",
       "original": "Muwahahahahaha!",
-      "translation": "Мувахахахахаха!"
+      "translation": "Авахахахахаха!"
     },
     "ebm:ms04/event_message_ms04_090.ebm:9": {
       "source": "pack01_ebm",
@@ -47978,7 +47978,7 @@
       "index": 14,
       "speaker": "System",
       "original": "<CLR1>You can fish in many places and catch many different things! Take it easy and give it a try!<CLNR>",
-      "translation": "<CLR1>Вы можете ловить рыбу во многих местах и ловить много разных вещей! Расслабьтесь и попробуйте!<CLNR>"
+      "translation": "<CLR1>Вы можете ловить рыбу во многих местах и поймать много разных вещей! Расслабьтесь и попробуйте!<CLNR>"
     },
     "ebm:ms04/event_message_ms04_100.ebm:0": {
       "source": "pack01_ebm",
@@ -47986,7 +47986,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "We made an Insect Net! Now we can go and catch all sorts of bugs and insects!",
-      "translation": "Мы сделали сачок для насекомых! Теперь мы можем ловить всяких жучков и насекомых!"
+      "translation": "Мы сделали сачок! Теперь мы можем ловить всяких жучков и насекомых!"
     },
     "ebm:ms04/event_message_ms04_100.ebm:1": {
       "source": "pack01_ebm",
@@ -48010,7 +48010,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "No way. All those legs, all that flying around, so hard and horrible and glistening and ugh!",
-      "translation": "Ни за что. Все эти ноги, все эти летающие вокруг, такие твердые, ужасные, блестящие и тьфу!"
+      "translation": "Ни за что. Все эти ноги, все эти летающие вокруг, такие твердые, ужасные, блестящие и фу!"
     },
     "ebm:ms04/event_message_ms04_100.ebm:4": {
       "source": "pack01_ebm",
@@ -48042,7 +48042,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "Yaaaaaaaaaaaaaaaaaah! Nooooooooooooo!",
-      "translation": "Даааааааааааа! Неееееееееееет!"
+      "translation": "Аааааааааааа! Неееееееееееет!"
     },
     "ebm:ms04/event_message_ms04_100.ebm:8": {
       "source": "pack01_ebm",
@@ -48066,7 +48066,7 @@
       "index": 10,
       "speaker": "System",
       "original": "<CLEG>[Tutorial] ~Insect Net~<CLNR>",
-      "translation": "<CLEG>[Учебное пособие] ~Сачок для насекомых~<CLNR>"
+      "translation": "<CLEG>[Учебное пособие] ~Сачок~<CLNR>"
     },
     "ebm:ms04/event_message_ms04_100.ebm:11": {
       "source": "pack01_ebm",
@@ -48074,7 +48074,7 @@
       "index": 11,
       "speaker": "System",
       "original": "You can use the <CLEG>Insect Net<CLNR> to gather insect-related materials.",
-      "translation": "Вы можете использовать <CLEG>Сачок для насекомых<CLNR> для сбора материалов, связанных с насекомыми."
+      "translation": "Вы можете использовать <CLEG>Сачок<CLNR> для сбора материалов, связанных с насекомыми."
     },
     "ebm:ms04/event_message_ms04_100.ebm:12": {
       "source": "pack01_ebm",
@@ -48082,7 +48082,7 @@
       "index": 12,
       "speaker": "System",
       "original": "You can equip the Insect Net from Harvest Equip from the Main Menu.",
-      "translation": "Вы можете экипировать сачок для насекомых в разделе «Походная сумка» в главном меню."
+      "translation": "Вы можете экипировать сачок в разделе «Походная сумка» в главном меню."
     },
     "ebm:ms04/event_message_ms04_100.ebm:13": {
       "source": "pack01_ebm",
@@ -48098,7 +48098,7 @@
       "index": 14,
       "speaker": "System",
       "original": "<CLR1>You can have the bug-hating Sue do this, but whether you choose to is up to you.<CLNR>",
-      "translation": "<CLR1>Вы можете поручить это Сью, ненавидящей насекомых, но решите ли вы это сделать.<CLNR>"
+      "translation": "<CLR1>Вы можете поручить это Сью, которая ненавидит насекомых, но решать вам.<CLNR>"
     },
     "ebm:ms04/event_message_ms04_110.ebm:0": {
       "source": "pack01_ebm",
@@ -48106,7 +48106,7 @@
       "index": 0,
       "speaker": "Sue",
       "original": "Ta-dah! Check out these special gathering gloves! We can get all sorts of rare materials with these!",
-      "translation": "Та-да! Взгляни на эти специальные перчатки для сбора! С их помощью мы можем получить все виды редких материалов!"
+      "translation": "Та-дам! Взгляни на эти специальные перчатки для сбора! С их помощью мы можем получить все виды редких материалов!"
     },
     "ebm:ms04/event_message_ms04_110.ebm:1": {
       "source": "pack01_ebm",
@@ -48154,7 +48154,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "Hey, if you've got time to laugh then you've got time to help! Uggggh, get these things off me!",
-      "translation": "Эй, если у тебя есть время посмеяться, значит, у тебя есть время помочь! Угу, убери от меня эти вещи!"
+      "translation": "Эй, если у тебя есть время посмеяться, значит, у тебя есть время помочь! Ух, убери от меня эти вещи!"
     },
     "ebm:ms04/event_message_ms04_110.ebm:7": {
       "source": "pack01_ebm",
@@ -48162,7 +48162,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "A bit of water and they'll slide right off, but I just want to enjoy this sight a little more first!",
-      "translation": "Немного воды, и они тут же соскользнут, но я просто хочу сначала еще немного насладиться этим зрелищем!"
+      "translation": "Немного воды, и они тут же соскользнут, но я просто хочу ещё немного насладиться этим зрелищем!"
     },
     "ebm:ms04/event_message_ms04_110.ebm:8": {
       "source": "pack01_ebm",
@@ -48170,7 +48170,7 @@
       "index": 8,
       "speaker": "Lydie",
       "original": "Gah, get off me! Waaah! I can't eat like this! Waaah!",
-      "translation": "Га, отойди от меня! Вааа! Я не могу так есть! Вааа!"
+      "translation": "Ах, отойди от меня! Аааа! Я не могу так есть! Аааа!"
     },
     "ebm:ms04/event_message_ms04_110.ebm:9": {
       "source": "pack01_ebm",
@@ -48186,7 +48186,7 @@
       "index": 10,
       "speaker": "System",
       "original": "Wearing <CLEG>Gathering Gloves<CLNR> will let you find rare gathering points.",
-      "translation": "Надев <CLEG>Перчатки сбора<CLNR>, вы сможете находить редкие точки сбора."
+      "translation": "Надев <CLEG>Перчатки для сбора<CLNR>, вы сможете находить редкие точки сбора."
     },
     "ebm:ms04/event_message_ms04_110.ebm:11": {
       "source": "pack01_ebm",
@@ -48194,7 +48194,7 @@
       "index": 11,
       "speaker": "System",
       "original": "You can equip the Gathering Gloves from Harvest Equip from the Main Menu.",
-      "translation": "Вы можете надеть перчатки для сбора урожая в разделе «Походная сумка» в главном меню."
+      "translation": "Вы можете надеть перчатки для сбора в разделе «Походная сумка» в главном меню."
     },
     "ebm:ms04/event_message_ms04_110.ebm:12": {
       "source": "pack01_ebm",
@@ -48202,7 +48202,7 @@
       "index": 12,
       "speaker": "System",
       "original": "<CLR1>Slip these beauties on and you'll find plenty of rare materials! Synthesizing heaven awaits!<CLNR>",
-      "translation": "<CLR1>Наденьте этих красавиц, и вы найдете множество редких материалов! Синтезирующий рай ждет!<CLNR>"
+      "translation": "<CLR1>Наденьте эту прекрасную вещь, и вы найдёте множество редких материалов! Рай синтеза ждёт!<CLNR>"
     },
     "ebm:ms04/event_message_ms04_120.ebm:0": {
       "source": "pack01_ebm",
@@ -48210,7 +48210,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "All done! Hehe, pretty good work, even if I do say so myself.",
-      "translation": "Всё готово! Хе-хе, неплохая работа, даже если я сама так говорю."
+      "translation": "Всё готово! Хе-хе, неплохая работа, даже если я сам так считаю."
     },
     "ebm:ms04/event_message_ms04_120.ebm:1": {
       "source": "pack01_ebm",
@@ -48258,7 +48258,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "Do not say the \"t\" word, Sue! Do not!",
-      "translation": "Не говори слово на букву «Т», Сью! Не!"
+      "translation": "Не говори слово на букву «т», Сью! Не делай этого!"
     },
     "ebm:ms04/event_message_ms04_120.ebm:7": {
       "source": "pack01_ebm",
@@ -48266,7 +48266,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "Guwah!",
-      "translation": "Гува!"
+      "translation": "А-а-ах!"
     },
     "ebm:ms04/event_message_ms04_120.ebm:8": {
       "source": "pack01_ebm",
@@ -48282,7 +48282,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Ah! I've upset the wrong firebrand now, hehe.",
-      "translation": "Ах! Я сейчас расстроила не того смутьяна, хе-хе."
+      "translation": "Ах! Я, пожалуй, разозлила не ту задиру, хе-хе."
     },
     "ebm:ms04/event_message_ms04_120.ebm:10": {
       "source": "pack01_ebm",
@@ -48290,7 +48290,7 @@
       "index": 10,
       "speaker": "System",
       "original": "<CLEG>[Tutorial] ~Water Bag~<CLNR>",
-      "translation": "<CLEG>[Учебное пособие] ~Мешок с водой~<CLNR>"
+      "translation": "<CLEG>[Учебное пособие] ~Мешок для воды~<CLNR>"
     },
     "ebm:ms04/event_message_ms04_120.ebm:11": {
       "source": "pack01_ebm",
@@ -48306,7 +48306,7 @@
       "index": 12,
       "speaker": "System",
       "original": "You can equip the Water Bag from Harvest Equip from the Main Menu.",
-      "translation": "Вы можете экипировать мешок с водой из Походной сумки в главном меню."
+      "translation": "Вы можете экипировать мешок для водой в разделе «Походная сумка» в главном меню."
     },
     "ebm:ms04/event_message_ms04_120.ebm:13": {
       "source": "pack01_ebm",
@@ -48314,7 +48314,7 @@
       "index": 13,
       "speaker": "System",
       "original": "<CLR1>You'll be using water a lot, so make sure to collect all that you need!<CLNR>",
-      "translation": "<CLR1>Вы будете часто использовать воду, поэтому обязательно соберите все, что вам нужно!<CLNR>"
+      "translation": "<CLR1>Вы будете часто использовать воду, поэтому обязательно соберите всё, что вам нужно!<CLNR>"
     },
     "ebm:ms04/event_message_ms04_130.ebm:0": {
       "source": "pack01_ebm",
@@ -168411,7 +168411,7 @@
       "file": "str_item_name.xml",
       "string_no": "6750481",
       "original": "Water Bag",
-      "translation": "Водяной мешок"
+      "translation": "Мешок для воды"
     },
     "pack02:6750484": {
       "source": "pack02_text_en",
@@ -168446,7 +168446,7 @@
       "file": "str_item_name.xml",
       "string_no": "6750488",
       "original": "Gathering Gloves",
-      "translation": "Рабочие перчатки"
+      "translation": "Перчатки для сбора"
     },
     "pack02:6750489": {
       "source": "pack02_text_en",
@@ -184336,7 +184336,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473685",
       "original": "“These are gathering gloves made for efficient picking. They’re great for finding rare ingredients, and they’ve got a highly adhesive surface!”^00“Just don’t get a strand of hair stuck to them. That’s the worst.”",
-      "translation": "«Рабочие перчатки для эффективного сбора. Отлично находят редкие ингредиенты — и очень липкая поверхность!»^00«Только не прилипни волос. Это хуже всего.»"
+      "translation": "«Перчатки для сбора повысят эффективность сбора. Отлично находят редкие ингредиенты — и очень липкая поверхность!»^00«Только не прилипни волос. Это хуже всего.»"
     },
     "pack02:3473686": {
       "source": "pack02_text_en",
@@ -188039,7 +188039,7 @@
       "file": "str_library_monster.xml",
       "string_no": "3670150",
       "original": "“Falgior's true self... He's so terribly strong, and spiky.”^00“I bet those spikes are the source of his mastery over thunder and lightning... Nothing good ever came from spikes like those.”",
-      "translation": "«Истинная форма Фалгиора... Он так ужасно силён, и такой колючий.»^00«Держу пари, эти шипы — источник его власти над громом и молнией... От таких шипов ничего хорошего не бывает.»"
+      "translation": "«Истинная форма Фальгиора... Он так ужасно силён, и такой колючий.»^00«Держу пари, эти шипы — источник его власти над громом и молнией... От таких шипов ничего хорошего не бывает.»"
     },
     "pack02:3670151": {
       "source": "pack02_text_en",
@@ -190685,14 +190685,14 @@
       "file": "str_monster_name.xml",
       "string_no": "19791895",
       "original": "Falgior, Demon Thunder God",
-      "translation": "Фалгиор ~Демон-громовержец~"
+      "translation": "Фальгиор ~Демон-громовержец~"
     },
     "pack02:19791896": {
       "source": "pack02_text_en",
       "file": "str_monster_name.xml",
       "string_no": "19791896",
       "original": "Falgior, Demon Thunder God",
-      "translation": "Фалгиор ~Демон-громовержец~"
+      "translation": "Фальгиор ~Демон-громовержец~"
     },
     "pack02:19791897": {
       "source": "pack02_text_en",
@@ -205672,7 +205672,7 @@
       "file": "str_race_name.xml",
       "string_no": "20119574",
       "original": "Falgior",
-      "translation": "Фалгиор"
+      "translation": "Фальгиор"
     },
     "pack02:20119575": {
       "source": "pack02_text_en",
@@ -208381,21 +208381,21 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425154",
       "original": "Pursue the perfect &lt;CLGR&gt;Insect Net&lt;CLNR&gt;.&lt;CR&gt;Trait: &lt;CLGR&gt;Boost Speed&lt;CLNR&gt;",
-      "translation": "Найдите идеальную &lt;CLGR&gt;Сеть от насекомых&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Повышение скорости&lt;CLNR&gt;"
+      "translation": "Найдите идеальный &lt;CLGR&gt;Сачок&lt;CLNR&gt;.&lt;CR&gt;Свойство: &lt;CLGR&gt;Повышение скорости&lt;CLNR&gt;"
     },
     "pack02:2425155": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425155",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Insect Net&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Сетка от насекомых&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Сачок&lt;CLNR&gt;"
     },
     "pack02:2425156": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425156",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Insect Net&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Сетка от насекомых&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Сачок&lt;CLNR&gt;"
     },
     "pack02:2425157": {
       "source": "pack02_text_en",
