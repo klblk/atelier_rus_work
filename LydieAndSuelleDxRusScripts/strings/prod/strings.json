@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-10T14:38:22.400770+00:00",
+  "generated_at": "2026-08-10T16:41:25.200988+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -146788,7 +146788,7 @@
       "file": "str_fm_tweet.xml",
       "string_no": "131303",
       "original": "Woah, what a strange scent... *Sniff, sniff”... *Sniff, sniff, sniff*...",
-      "translation": "Ого, какой странный аромат... *Нюх, Нюх»... *Нюх, Нюх, Нюх*..."
+      "translation": "Ого, какой странный аромат... *Нюх, Нюх*... *Нюх, Нюх, Нюх*..."
     },
     "pack02:131304": {
       "source": "pack02_text_en",
@@ -169615,35 +169615,35 @@
       "file": "str_item_name.xml",
       "string_no": "6750677",
       "original": "&quot;Summary of Arts&quot;",
-      "translation": "&quot;Свод искусств&quot;"
+      "translation": "«Свод искусств»"
     },
     "pack02:6750678": {
       "source": "pack02_text_en",
       "file": "str_item_name.xml",
       "string_no": "6750678",
       "original": "&quot;Silver Book of Idea&quot;",
-      "translation": "&quot;Серебряная книга идей&quot;"
+      "translation": "«Серебряная книга идей»"
     },
     "pack02:6750679": {
       "source": "pack02_text_en",
       "file": "str_item_name.xml",
       "string_no": "6750679",
       "original": "&quot;Praeteritum&quot;",
-      "translation": "&quot;Праэтеритум&quot;"
+      "translation": "«Праэтеритум»"
     },
     "pack02:6750680": {
       "source": "pack02_text_en",
       "file": "str_item_name.xml",
       "string_no": "6750680",
       "original": "&quot;Book of Secret Arts Lectalion&quot;",
-      "translation": "&quot;Тайная книга искусств Лекталион&quot;"
+      "translation": "«Тайная книга искусств Лекталион»"
     },
     "pack02:6750681": {
       "source": "pack02_text_en",
       "file": "str_item_name.xml",
       "string_no": "6750681",
       "original": "&quot;Book of Darkness Adagies&quot;",
-      "translation": "&quot;Единая тёмная книга Адагиес&quot;"
+      "translation": "«Единая тёмная книга Адагиес»"
     },
     "pack02:6750682": {
       "source": "pack02_text_en",
@@ -170112,77 +170112,77 @@
       "file": "str_item_name.xml",
       "string_no": "6750784",
       "original": "&quot;Decorations&quot;",
-      "translation": "&quot;Украшения&quot;"
+      "translation": "«Украшения»"
     },
     "pack02:6750785": {
       "source": "pack02_text_en",
       "file": "str_item_name.xml",
       "string_no": "6750785",
       "original": "&quot;First Creation&quot;",
-      "translation": "&quot;Первая работа&quot;"
+      "translation": "«Первая работа»"
     },
     "pack02:6750786": {
       "source": "pack02_text_en",
       "file": "str_item_name.xml",
       "string_no": "6750786",
       "original": "&quot;Ore Processing Text&quot;",
-      "translation": "&quot;Трактат по обработке руды&quot;"
+      "translation": "«Трактат по обработке руды»"
     },
     "pack02:6750787": {
       "source": "pack02_text_en",
       "file": "str_item_name.xml",
       "string_no": "6750787",
       "original": "&quot;Encyclopedia of Gems Vol.1&quot;",
-      "translation": "&quot;Энциклопедия самоцветов. Том 1&quot;"
+      "translation": "«Энциклопедия самоцветов. Том 1»"
     },
     "pack02:6750788": {
       "source": "pack02_text_en",
       "file": "str_item_name.xml",
       "string_no": "6750788",
       "original": "&quot;Encyclopedia of Gems Vol.2&quot;",
-      "translation": "&quot;Энциклопедия самоцветов. Том 2&quot;"
+      "translation": "«Энциклопедия самоцветов. Том 2»"
     },
     "pack02:6750789": {
       "source": "pack02_text_en",
       "file": "str_item_name.xml",
       "string_no": "6750789",
       "original": "&quot;Application of Ornaments&quot;",
-      "translation": "&quot;Практика украшений&quot;"
+      "translation": "«Практика украшений»"
     },
     "pack02:6750790": {
       "source": "pack02_text_en",
       "file": "str_item_name.xml",
       "string_no": "6750790",
       "original": "&quot;Polishing Glamour&quot;",
-      "translation": "&quot;Полировка очарования&quot;"
+      "translation": "«Полировка очарования»"
     },
     "pack02:6750791": {
       "source": "pack02_text_en",
       "file": "str_item_name.xml",
       "string_no": "6750791",
       "original": "&quot;Protecting the World&quot;",
-      "translation": "&quot;Защита мира&quot;"
+      "translation": "«Защита мира»"
     },
     "pack02:6750792": {
       "source": "pack02_text_en",
       "file": "str_item_name.xml",
       "string_no": "6750792",
       "original": "&quot;Releasing Hidden Power&quot;",
-      "translation": "&quot;Высвобождение скрытой силы&quot;"
+      "translation": "«Высвобождение скрытой силы»"
     },
     "pack02:6750793": {
       "source": "pack02_text_en",
       "file": "str_item_name.xml",
       "string_no": "6750793",
       "original": "&quot;Legendary Materials&quot;",
-      "translation": "&quot;Легендарные материалы&quot;"
+      "translation": "«Легендарные материалы»"
     },
     "pack02:6750794": {
       "source": "pack02_text_en",
       "file": "str_item_name.xml",
       "string_no": "6750794",
       "original": "&quot;Book of Dragon Divination&quot;",
-      "translation": "&quot;Книга драконьего гадания&quot;"
+      "translation": "«Книга драконьего гадания»"
     },
     "pack02:6750795": {
       "source": "pack02_text_en",
@@ -170287,28 +170287,28 @@
       "file": "str_item_name.xml",
       "string_no": "6750809",
       "original": "&quot;Book of Firis' Recipes&quot;",
-      "translation": "&quot;Кулинарная книга Фирис&quot;"
+      "translation": "«Кулинарная книга Фирис»"
     },
     "pack02:6750810": {
       "source": "pack02_text_en",
       "file": "str_item_name.xml",
       "string_no": "6750810",
       "original": "&quot;Basic Guidebook&quot;",
-      "translation": "&quot;Книга расшифровки начала&quot;"
+      "translation": "«Книга расшифровки начала»"
     },
     "pack02:6750811": {
       "source": "pack02_text_en",
       "file": "str_item_name.xml",
       "string_no": "6750811",
       "original": "&quot;Spirit Fire&quot;",
-      "translation": "&quot;Духовный огонь&quot;"
+      "translation": "«Духовный огонь»"
     },
     "pack02:6750812": {
       "source": "pack02_text_en",
       "file": "str_item_name.xml",
       "string_no": "6750812",
       "original": "&quot;My Way of Life&quot;",
-      "translation": "&quot;Мой образ жизни&quot;"
+      "translation": "«Мой образ жизни»"
     },
     "pack02:6750813": {
       "source": "pack02_text_en",
@@ -181060,56 +181060,56 @@
       "file": "str_library_esp.xml",
       "string_no": "3604820",
       "original": "Increases ATK by 5 during battle, while adding the effect of other attackers' &quot;Resonance Blades&quot; as well.",
-      "translation": "Повышение АТК на 5 в бою с добавлением эффекта &quot;Резонансных клинков&quot; других атакующих."
+      "translation": "Повышение АТК на 5 в бою с добавлением эффекта «Резонансных клинков» других атакующих."
     },
     "pack02:3604821": {
       "source": "pack02_text_en",
       "file": "str_library_esp.xml",
       "string_no": "3604821",
       "original": "Increases ATK by 10 during battle, while adding the effect of other attackers' &quot;Resonance Blades&quot; as well.",
-      "translation": "Повышение АТК на 10 в бою с добавлением эффекта &quot;Резонансных клинков&quot; других атакующих."
+      "translation": "Повышение АТК на 10 в бою с добавлением эффекта «Резонансных клинков» других атакующих."
     },
     "pack02:3604822": {
       "source": "pack02_text_en",
       "file": "str_library_esp.xml",
       "string_no": "3604822",
       "original": "Increases DEF by 5 during battle, while adding the effect of other attackers' &quot;Resonance Shields&quot; as well.",
-      "translation": "Повышение ЗЩТ на 5 в бою с добавлением эффекта &quot;Резонансных щитов&quot; других атакующих."
+      "translation": "Повышение ЗЩТ на 5 в бою с добавлением эффекта «Резонансных щитов» других атакующих."
     },
     "pack02:3604823": {
       "source": "pack02_text_en",
       "file": "str_library_esp.xml",
       "string_no": "3604823",
       "original": "Increases DEF by 10 during battle, while adding the effect of other attackers' &quot;Resonance Shields&quot; as well.",
-      "translation": "Повышение ЗЩТ на 10 в бою с добавлением эффекта &quot;Резонансных щитов&quot; других атакующих."
+      "translation": "Повышение ЗЩТ на 10 в бою с добавлением эффекта «Резонансных щитов» других атакующих."
     },
     "pack02:3604824": {
       "source": "pack02_text_en",
       "file": "str_library_esp.xml",
       "string_no": "3604824",
       "original": "Increases SPD by 5 during battle, while adding the effect of other attackers' &quot;Resonance Arts&quot; as well.",
-      "translation": "Повышение СКР на 5 в бою с добавлением эффекта &quot;Резонансных навыков&quot; других атакующих."
+      "translation": "Повышение СКР на 5 в бою с добавлением эффекта «Резонансных навыков» других атакующих."
     },
     "pack02:3604825": {
       "source": "pack02_text_en",
       "file": "str_library_esp.xml",
       "string_no": "3604825",
       "original": "Increases SPD by 10 during battle, while adding the effect of other attackers' &quot;Resonance Arts&quot; as well.",
-      "translation": "Повышение СКР на 10 в бою с добавлением эффекта &quot;Резонансных навыков&quot; других атакующих."
+      "translation": "Повышение СКР на 10 в бою с добавлением эффекта «Резонансных навыков» других атакующих."
     },
     "pack02:3604826": {
       "source": "pack02_text_en",
       "file": "str_library_esp.xml",
       "string_no": "3604826",
       "original": "Increases ATK, DEF and SPD by 3 during battle, while adding the effect of other attackers' &quot;Resonance All&quot; traits as well.",
-      "translation": "Повышение АТК, ЗЩТ и СКР на 3 в бою с добавлением эффекта свойств &quot;Полного резонанса&quot; других атакующих."
+      "translation": "Повышение АТК, ЗЩТ и СКР на 3 в бою с добавлением эффекта свойств «Полного резонанса» других атакующих."
     },
     "pack02:3604827": {
       "source": "pack02_text_en",
       "file": "str_library_esp.xml",
       "string_no": "3604827",
       "original": "Increases ATK, DEF and SPD by 5 during battle, while adding the effect of other attackers' &quot;Resonance All&quot; traits as well.",
-      "translation": "Повышение АТК, ЗЩТ и СКР на 5 в бою с добавлением эффекта свойств &quot;Полного резонанса&quot; других атакующих."
+      "translation": "Повышение АТК, ЗЩТ и СКР на 5 в бою с добавлением эффекта свойств «Полного резонанса» других атакующих."
     },
     "pack02:3604828": {
       "source": "pack02_text_en",
@@ -181214,7 +181214,7 @@
       "file": "str_library_esp.xml",
       "string_no": "3604842",
       "original": "Allows you to obtain powerful resonance strength, while adding the effect of other attackers' &quot;Resonance All&quot; traits as well.",
-      "translation": "Позволяет получить мощную резонансную силу, добавляя также эффект свойств &quot;Резонанс: АТК/ЗЩТ/СКР&quot; других атакующих."
+      "translation": "Позволяет получить мощную резонансную силу, добавляя также эффект свойств «Резонанс: АТК/ЗЩТ/СКР» других атакующих."
     },
     "pack02:3604843": {
       "source": "pack02_text_en",
@@ -182768,7 +182768,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473409",
       "original": "“This should make a fine synthesis ingredient. It’s go so many uses, it’s also called ‘Magic Grass’.”^00“It thrives just about anywhere— Between flagstones, of course, and it’s even grown from the floor in my house.”",
-      "translation": "«Из этого получится отличный ингредиент для синтеза. У него столько применений, что его ещё называют „волшебной травой”.»^00«Он приживается где угодно — между плитами на дорожке, а у меня дома даже из пола растёт.»"
+      "translation": "«Из этого получится отличный ингредиент для синтеза. У него столько применений, что его ещё называют “волшебной травой”.»^00«Он приживается где угодно — между плитами на дорожке, а у меня дома даже из пола растёт.»"
     },
     "pack02:3473410": {
       "source": "pack02_text_en",
@@ -182789,7 +182789,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473412",
       "original": "“This is a mystical herb that glows ever so slightly! Ahh, what a mystical aroma it gives off... Yep, this is as mystical as it gets, right here!”^00“You don’t even know what mystical means, do you?”",
-      "translation": "«Это мистическая трава, которая слегка светится! Ах, какой у неё мистический аромат... Да, это предел мистичности, прямо здесь!»^00«Ты же даже не знаешь, что значит „мистический”, да?»"
+      "translation": "«Это мистическая трава, которая слегка светится! Ах, какой у неё мистический аромат... Да, это предел мистичности, прямо здесь!»^00«Ты же даже не знаешь, что значит “мистический”, да?»"
     },
     "pack02:3473413": {
       "source": "pack02_text_en",
@@ -183055,7 +183055,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473450",
       "original": "“That’s a bat wing. Or would you call it a wing of bat...?”^00“Even the academics argue over that. So we just settle on bat wing, and call it a day.”",
-      "translation": "«Крыло летучей мыши. Или всё-таки крыло нетопыря...?»^00«Даже учёные спорят об этом. Поэтому мы просто говорим „крыло летучей мыши” и точка.»"
+      "translation": "«Крыло летучей мыши. Или всё-таки крыло нетопыря...?»^00«Даже учёные спорят об этом. Поэтому мы просто говорим “крыло летучей мыши” и точка.»"
     },
     "pack02:3473451": {
       "source": "pack02_text_en",
@@ -183097,7 +183097,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473456",
       "original": "“Hold this up to your mouth, and...”^00“If you’re about to go ‘Ooh, spooky!’ then just don’t. That’s something little kids do.”^00“Urgh... Such embarrassment...”",
-      "translation": "«Поднеси ко рту, и...»^00«Если собираешься сказать „Ох, жутко!” — лучше не надо. Это для малышей.»^00«Урх... Какой позор...»"
+      "translation": "«Поднеси ко рту, и...»^00«Если собираешься сказать “Ох, жутко!” — лучше не надо. Это для малышей.»^00«Урх... Какой позор...»"
     },
     "pack02:3473457": {
       "source": "pack02_text_en",
@@ -183111,7 +183111,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473458",
       "original": "“This is fluffy fur ripped—hrk! I mean, BORROWED, from wild rabbits!”^00“You were about to say ripped off of rabbits!”^00“Ahaha... Oh, Sue. You have such a wild imagination.”",
-      "translation": "«Пушистый мех, сорванный— кхм! То есть ЗАИМСТРОВАННЫЙ у диких кроликов!»^00«Ты чуть не сказала „сорванный с кроликов”!»^00«Ахаха... Ох, Сью. У тебя такое буйное воображение.»"
+      "translation": "«Пушистый мех, сорванный— кхм! То есть ЗАИМСТРОВАННЫЙ у диких кроликов!»^00«Ты чуть не сказала “сорванный с кроликов”!»^00«Ахаха... Ох, Сью. У тебя такое буйное воображение.»"
     },
     "pack02:3473459": {
       "source": "pack02_text_en",
@@ -183181,7 +183181,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473468",
       "original": "“It’s a grasshopper that looks like it’s wearing a helmet. It’s got some serious springing power, and its head-butt move, the helmbutt, is the nastiest move any bug can pull off.”^00“Sue PSA: Are you a horned beetle or a grasshopper? Make up your mind!”",
-      "translation": "«Кузнечик в шлеме. Мощные прыжки, а удар головой — „шлемоудар” — самый злой приём среди всех жуков.»^00«Совет Сью: ты рогатый жук или кузнечик? Решись уже!»"
+      "translation": "«Кузнечик в шлеме. Мощные прыжки, а удар головой — “шлемоудар” — самый злой приём среди всех жуков.»^00«Совет Сью: ты рогатый жук или кузнечик? Решись уже!»"
     },
     "pack02:3473469": {
       "source": "pack02_text_en",
@@ -183363,7 +183363,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473494",
       "original": "“Ooh, so cold and delicious! I could have another sip...”^00“Don’t, Sue! If you drink too much, you’ll have to go to the bathroom in the middle of the night!&quot;^00“Oh, I’ll be fine. I’ll just make you come with me!”",
-      "translation": "«Ох, такая холодная и вкусная! Ещё бы глоток...»^00«Не надо, Сью! Напьёшься слишком — придётся ночью в туалет!&quot;^00«О, всё нормально. Ты пойдёшь со мной!»"
+      "translation": "«Ох, такая холодная и вкусная! Ещё бы глоток...»^00«Не надо, Сью! Напьёшься слишком — придётся ночью в туалет!»^00«О, всё нормально. Ты пойдёшь со мной!»"
     },
     "pack02:3473495": {
       "source": "pack02_text_en",
@@ -183391,7 +183391,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473498",
       "original": "“Suspicious is such a vague word. How suspicious are we talking here?”^00“Hmm... About as much as Dad?”^00“Ooh, that’s dangerous. Better be careful handling this.”",
-      "translation": "«„Подозрительная” — такое расплывчатое слово. Насколько подозрительная?»^00«Хм... Примерно как папа?»^00«Ох, это опасно. Лучше осторожно с этим.»"
+      "translation": "«“Подозрительная” — такое расплывчатое слово. Насколько подозрительная?»^00«Хм... Примерно как папа?»^00«Ох, это опасно. Лучше осторожно с этим.»"
     },
     "pack02:3473499": {
       "source": "pack02_text_en",
@@ -183643,7 +183643,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473534",
       "original": "“This has a wave-like pattern on it, so they call it a ripple stone. They’re light and brittle, so sometimes hermit crabs live in ‘em. It’s adorable!”^00“It’s also got a distinctive briny smell.”",
-      "translation": "«Волнообразный узор — отсюда „рябый камень”. Лёгкие и хрупкие — иногда в них живут рачки-отшельники. Мило!»^00«Ещё характерный солоноватый запах.»"
+      "translation": "«Волнообразный узор — отсюда “рябый камень”. Лёгкие и хрупкие — иногда в них живут рачки-отшельники. Мило!»^00«Ещё характерный солоноватый запах.»"
     },
     "pack02:3473535": {
       "source": "pack02_text_en",
@@ -183874,7 +183874,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473589",
       "original": "“This is the Bomb, the most archetypal explosive! Definitely what comes to mind when you say bomb.”^00“Heh heh... One of these days, I’ll be so big, my name will be emblematic of all alchemy...”",
-      "translation": "«Это Бомба — самая типичная взрывчатка! Первое, что приходит в голову, когда говоришь «бомба».»^00«Хе-хе... Когда-нибудь я стану настолько известной, что моё имя станет символом всей алхимии...»"
+      "translation": "«Это Бомба — самая типичная взрывчатка! Первое, что приходит в голову, когда говоришь “бомба”.»^00«Хе-хе... Когда-нибудь я стану настолько известной, что моё имя станет символом всей алхимии...»"
     },
     "pack02:3473590": {
       "source": "pack02_text_en",
@@ -184399,7 +184399,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473701",
       "original": "“This is pure, distilled water.”^00“Hey Lydie, what does distilled mean?”^00“Basically, it’s when you heat up a liquid, make it evaporate, then cool it and collect it again.”",
-      "translation": "«Чистая очищенная вода.»^00«Эй, Лидия, что значит «очищенная»?»^00«В общем, нагреваешь жидкость, она испаряется, потом охлаждаешь и собираешь снова.»"
+      "translation": "«Чистая очищенная вода.»^00«Эй, Лидия, что значит “очищенная”?»^00«В общем, нагреваешь жидкость, она испаряется, потом охлаждаешь и собираешь снова.»"
     },
     "pack02:3473702": {
       "source": "pack02_text_en",
@@ -184553,7 +184553,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473723",
       "original": "&quot;This is a raw jet, but... Will this really become a jet after you polish it? It looks like a black lump to me...&quot;^00&quot;You just have to keep polishing and have faith, I guess...&quot;",
-      "translation": "&quot;Это сырой обсидиан, но... Правда станет джетом после полировки? Мне кажется, это чёрный комок...&quot;^00&quot;Просто полируй и верь, наверное...&quot;"
+      "translation": "«Это сырой обсидиан, но... Правда станет джетом после полировки? Мне кажется, это чёрный комок...»^00«Просто полируй и верь, наверное...»"
     },
     "pack02:3473724": {
       "source": "pack02_text_en",
@@ -184868,7 +184868,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473768",
       "original": "“This is a device for measuring the frequency and scale of lightning. You’ll just have to deal with the size. You might “find” it “shocking”! Ahahaha!”^00“Someone... Someone, bring me a blanket...”",
-      "translation": "«Это прибор для измерения частоты и мощности молнии. С размерами придётся смириться. Может, он вас... «поразит»! Ахахаха!»^00«Кто-нибудь... Кто-нибудь, принесите мне одеяло...»"
+      "translation": "«Это прибор для измерения частоты и мощности молнии. С размерами придётся смириться. Может, он вас... “поразит”! Ахахаха!»^00«Кто-нибудь... Кто-нибудь, принесите мне одеяло...»"
     },
     "pack02:3473769": {
       "source": "pack02_text_en",
@@ -185043,7 +185043,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473794",
       "original": "&quot;Nutrient for the Gran... something Tree! This should strengthen its magic!&quot;^00&quot;You still don't know the tree's name, Sue?&quot;^00&quot;I remembered the ‘Gran'! That's enough!&quot;",
-      "translation": "&quot;Удобрение для Гран... чего-то там дерева! Это должно усилить его магию!&quot;^00&quot;Ты до сих пор не знаешь название дерева, Сью?&quot;^00&quot;Я запомнила «Гран»! Этого достаточно!&quot;"
+      "translation": "«Удобрение для Гран... чего-то там дерева! Это должно усилить его магию!»^00«Ты до сих пор не знаешь название дерева, Сью?»^00«Я запомнила “Гран”! Этого достаточно!»"
     },
     "pack02:3473799": {
       "source": "pack02_text_en",
@@ -185295,7 +185295,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473834",
       "original": "“Final? What’s final about it?”^00“Maybe it’s the best and there’s no improving on it?”^00“But... What if you come up with a way to improve it later?”^00“Slap a name like Luft Returns on it.”",
-      "translation": "«Финальный? Что в нём финального?»^00«Может, это лучший и улучшать нечего?»^00«Но... А если потом придумаешь, как улучшить?»^00«Назови «Люфт возвращается».»"
+      "translation": "«Финальный? Что в нём финального?»^00«Может, это лучший и улучшать нечего?»^00«Но... А если потом придумаешь, как улучшить?»^00«Назови “Люфт возвращается”.»"
     },
     "pack02:3473835": {
       "source": "pack02_text_en",
@@ -185372,7 +185372,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473855",
       "original": "“I dub this the Backen model! It’s a scurvy gun fit for a pirate, the captain’s favorite!”^00“Carry this gun, put on an eyepatch, and wear a bandanna, and anyone could pass as a pirate!”",
-      "translation": "«Называю это модель «Бэкен»! Морской пистолет, как у пирата — любимец капитана!»^00«С этим пистолетом, повязкой на глаз и банданой любой сойдёт за пирата!»"
+      "translation": "«Называю это модель “Бэкен”! Морской пистолет, как у пирата — любимец капитана!»^00«С этим пистолетом, повязкой на глаз и банданой любой сойдёт за пирата!»"
     },
     "pack02:3473856": {
       "source": "pack02_text_en",
@@ -185512,28 +185512,28 @@
       "file": "str_library_item.xml",
       "string_no": "3473875",
       "original": "“This is a magic book with jewels embedded in the front cover. If it loses its jewels, something terrible happens.”^00“Like what?!”^00“Bristletails abound. That jewel is a bug repellent.”",
-      "translation": "&quot;Это волшебная книга с драгоценными камнями на обложке. Если потерять камни, случится что-то ужасное.&quot;^00&quot;Что именно?!&quot;^00&quot;Трихин пользуют. Этот камень — репеллент от насекомых.&quot;"
+      "translation": "«Это волшебная книга с драгоценными камнями на обложке. Если потерять камни, случится что-то ужасное.»^00«Что именно?!»^00«Трихин пользуют. Этот камень — репеллент от насекомых.»"
     },
     "pack02:3473876": {
       "source": "pack02_text_en",
       "file": "str_library_item.xml",
       "string_no": "3473876",
       "original": "“This is a rare text known for its black leather binding. And by the way, this is a replica.”^00“Oh... So the original is gone?”^00“No, I have it. Would you like to read it later?”",
-      "translation": "&quot;Это редкий текст с чёрным кожаным переплётом. И, кстати, это реплика.&quot;^00&quot;О... Значит, оригинал пропал?&quot;^00&quot;Нет, у меня он есть. Хочешь почитать позже?&quot;"
+      "translation": "«Это редкий текст с чёрным кожаным переплётом. И, кстати, это реплика.»^00«О... Значит, оригинал пропал?»^00«Нет, у меня он есть. Хочешь почитать позже?»"
     },
     "pack02:3473877": {
       "source": "pack02_text_en",
       "file": "str_library_item.xml",
       "string_no": "3473877",
       "original": "“This book has all kinds of secret and forbidden arts in it.”^00“Forbidden? If I had those, I could—”^00“I wouldn’t bother if I were you. It’s actually a book about housecleaning. There’s nothing about alchemy in it, haha.”",
-      "translation": "&quot;В этой книге всякие тайные и запретные искусства.&quot;^00&quot;Запретные? С ними я могла бы—&quot;^00&quot;Не стоит. На самом деле это книга об уборке. Про алхимию там ничего, ха-ха.&quot;"
+      "translation": "«В этой книге всякие тайные и запретные искусства.»^00«Запретные? С ними я могла бы—»^00«Не стоит. На самом деле это книга об уборке. Про алхимию там ничего, ха-ха.»"
     },
     "pack02:3473878": {
       "source": "pack02_text_en",
       "file": "str_library_item.xml",
       "string_no": "3473878",
       "original": "“This is a book that reveals the truths of alchemy. You can read it too, if you’d like.”^00“May I?! Let’s see. ...It’s blank?”^00“Hehe. There you have it, in a nutshell.”",
-      "translation": "&quot;Это книга, раскрывающая истины алхимии. Можешь почитать, если хочешь.&quot;^00&quot;Можно?! Давай посмотрю. ...Пустая?&quot;^00&quot;Хе-хе. В двух словах — вот оно.&quot;"
+      "translation": "«Это книга, раскрывающая истины алхимии. Можешь почитать, если хочешь.»^00«Можно?! Давай посмотрю. ...Пустая?»^00«Хе-хе. В двух словах — вот оно.»"
     },
     "pack02:3473879": {
       "source": "pack02_text_en",
@@ -185659,7 +185659,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473906",
       "original": "“Heheheh, did you know that pro craftsmen can craft this armor while eating muffins?”^00“Ah, I get it. You’re about to call them stud-muffins.”^00“Well, now you’ve ruined the whole joke!!”",
-      "translation": "«Хе-хе-хе, знаешь, профи-мастера могут делать эту броню, одновременно еся маффины?»^00«А, понятно. Сейчас назовёшь их «маффинами-красавчиками».»^00«Ну вот, ты всю шутку испортила!!»"
+      "translation": "«Хе-хе-хе, знаешь, профи-мастера могут делать эту броню, одновременно еся маффины?»^00«А, понятно. Сейчас назовёшь их “маффинами-красавчиками”.»^00«Ну вот, ты всю шутку испортила!!»"
     },
     "pack02:3473907": {
       "source": "pack02_text_en",
@@ -185834,7 +185834,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473951",
       "original": "“Hey, look at this. There’s a name written here. It says, ‘Neige Chintreuil’ quite clearly...”^00“It looks like this bear has been around for a long time. We should try to repair it!”",
-      "translation": "«Эй, смотри. Тут написано имя. Чётко видно: «Нейдж Шантрёй»...»^00«Похоже, этот медведь давно с нами. Надо попробовать его починить!»"
+      "translation": "«Эй, смотри. Тут написано имя. Чётко видно: “Нейдж Шантрёй”...»^00«Похоже, этот медведь давно с нами. Надо попробовать его починить!»"
     },
     "pack02:3473952": {
       "source": "pack02_text_en",
@@ -185883,7 +185883,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473958",
       "original": "“Okay, it looks as good as new. Although, it says ‘Secret Key’ here. I wonder what it’s for...”^00“Forget it. I’m sure it’s nothing. Okay?”",
-      "translation": "«Ладно, выглядит как новенький. Хотя тут написано «Секретный ключ». Интересно, от чего он...»^00«Забудь. Уверена, ничего особенного. Ладно?»"
+      "translation": "«Ладно, выглядит как новенький. Хотя тут написано “Секретный ключ”. Интересно, от чего он...»^00«Забудь. Уверена, ничего особенного. Ладно?»"
     },
     "pack02:3473959": {
       "source": "pack02_text_en",
@@ -185918,42 +185918,42 @@
       "file": "str_library_item.xml",
       "string_no": "3473963",
       "original": "“These crystals are created within the mysterious paintings and represent the artist’s feelings. They’re known as ‘color fragments’.”^00“In other words, those are your feelings. Right, Neige? Thank you. I’ll be sure to take good care of them.”",
-      "translation": "«Эти кристаллы создаются внутри загадочных картин и отражают чувства художника. Их называют «цветовыми осколками».»^00«То есть это твои чувства. Верно, Нейдж? Спасибо. Я буду их беречь.»"
+      "translation": "«Эти кристаллы создаются внутри загадочных картин и отражают чувства художника. Их называют “цветовыми осколками”.»^00«То есть это твои чувства. Верно, Нейдж? Спасибо. Я буду их беречь.»"
     },
     "pack02:3473964": {
       "source": "pack02_text_en",
       "file": "str_library_item.xml",
       "string_no": "3473964",
       "original": "“If you look at them just right, these ‘color fragments’ kinda look like gold pieces. Maybe they’re a keepsake of the Captain’s...”^00“Yes, the Captain! The Treasury at the Sea Bottom was absolutely fascinating!”",
-      "translation": "«Если посмотреть под правильным углом, эти «цветовые осколки» похожи на золотые монеты. Может, это память капитана...»^00«Да, капитан! Сокровищница на дне моря была просто потрясающей!»"
+      "translation": "«Если посмотреть под правильным углом, эти “цветовые осколки” похожи на золотые монеты. Может, это память капитана...»^00«Да, капитан! Сокровищница на дне моря была просто потрясающей!»"
     },
     "pack02:3473965": {
       "source": "pack02_text_en",
       "file": "str_library_item.xml",
       "string_no": "3473965",
       "original": "“These are ‘color fragments’ that I picked up in Etel Nepica. They’re all stretched out, just like the world itself.”^00“Hmm... The person that painted ‘Etel Nepica’ must’ve had a pretty strange past...”",
-      "translation": "«Это «цветовые осколки», которые я подобрала в Этель Непике. Все вытянутые, как и сам мир.»^00«Хм... Тот, кто нарисовал «Этель Непику», наверное, жил довольно странно...»"
+      "translation": "«Это “цветовые осколки”, которые я подобрала в Этель Непике. Все вытянутые, как и сам мир.»^00«Хм... Тот, кто нарисовал “Этель Непику”, наверное, жил довольно странно...»"
     },
     "pack02:3473966": {
       "source": "pack02_text_en",
       "file": "str_library_item.xml",
       "string_no": "3473966",
       "original": "“These are ‘color fragments’ I found in the Starlight Plain. Hehe. They’re like proof of our newfound friendship!”^00“Indeed! We’ll never let anything come between us! We swear on these very fragments themselves!”",
-      "translation": "«Это «цветовые осколки», которые я нашла на Звёздной равнине. Хехе. Они как доказательство нашей новой дружбы!»^00«Верно! Мы никогда не позволим ничему нас разлучить! Клянёмся на этих самых осколках!»"
+      "translation": "«Это “цветовые осколки”, которые я нашла на Звёздной равнине. Хехе. Они как доказательство нашей новой дружбы!»^00«Верно! Мы никогда не позволим ничему нас разлучить! Клянёмся на этих самых осколках!»"
     },
     "pack02:3473967": {
       "source": "pack02_text_en",
       "file": "str_library_item.xml",
       "string_no": "3473967",
       "original": "“I found these ‘color fragments’ in The Black Horizon. Unlike the other fragments, I can’t seem to detect any sense of feeling within them...”^00“Yes, they do seem to be rather sad.”",
-      "translation": "«Я нашла эти «цветовые осколки» на Чёрном горизонте. В отличие от других, в них словно нет никаких чувств...»^00«Да, они кажутся довольно печальными.»"
+      "translation": "«Я нашла эти “цветовые осколки” на Чёрном горизонте. В отличие от других, в них словно нет никаких чувств...»^00«Да, они кажутся довольно печальными.»"
     },
     "pack02:3473968": {
       "source": "pack02_text_en",
       "file": "str_library_item.xml",
       "string_no": "3473968",
       "original": "“Hmm... This must be what they refer to as ‘color fragments.’ The crystallized form of one’s thoughts and feelings... Looking at them now... I think we should take along as much as we can carry!”^00“Hey! One is enough! Let’s just leave it at that, Termina!”",
-      "translation": "«Хм... Наверное, это то, что называют «цветовыми осколками». Кристаллизованная форма мыслей и чувств... Смотря на них... Думаю, нам стоит взять столько, сколько сможем унести!»^00«Эй! Хватит одного! Давай на этом остановимся, Термина!»"
+      "translation": "«Хм... Наверное, это то, что называют “цветовыми осколками”. Кристаллизованная форма мыслей и чувств... Смотря на них... Думаю, нам стоит взять столько, сколько сможем унести!»^00«Эй! Хватит одного! Давай на этом остановимся, Термина!»"
     },
     "pack02:3473969": {
       "source": "pack02_text_en",
@@ -185981,14 +185981,14 @@
       "file": "str_library_item.xml",
       "string_no": "3473972",
       "original": "“Here’s my letter of recommendation! Okay, now... Take this letter and head for Reisenberg...”^00“Firis, are you okay? You seem even stranger than usual.”^00“H-Huh?! What do you mean ‘than usual’?”",
-      "translation": "«Вот моё рекомендательное письмо! Ладно, а теперь... Возьми это письмо и отправляйся в Райзенберг...»^00«Фирис, ты в порядке? Ты сегодня ещё страннее обычного.»^00«А?! Что значит «обычного»?!»"
+      "translation": "«Вот моё рекомендательное письмо! Ладно, а теперь... Возьми это письмо и отправляйся в Райзенберг...»^00«Фирис, ты в порядке? Ты сегодня ещё страннее обычного.»^00«А?! Что значит “обычного”?!»"
     },
     "pack02:3473974": {
       "source": "pack02_text_en",
       "file": "str_library_item.xml",
       "string_no": "3473974",
       "original": "&quot;It's some sort of scrap of paper. But it seems more than that!&quot;^00&quot;It seems very sturdy, too. I have a feeling we should keep it safe!&quot;",
-      "translation": "&quot;Какой-то обрывок бумаги. Но кажется, что это нечто большее!&quot;^00&quot;Он ещё и очень прочный. Кажется, стоит хранить его в безопасности!&quot;"
+      "translation": "«Какой-то обрывок бумаги. Но кажется, что это нечто большее!»^00«Он ещё и очень прочный. Кажется, стоит хранить его в безопасности!»"
     },
     "pack02:3473980": {
       "source": "pack02_text_en",
@@ -186002,7 +186002,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473981",
       "original": "“This book is about the many medals of Merveille and the tools behind them.”^00“Hey! I want this medal! The one that says ‘Grand Punipuni Meister Cross’ on it!”",
-      "translation": "«Эта книга о множестве медалей Мервейля и инструментах за ними.»^00«Эй! Я хочу эту медаль! Ту, на которой написано «Большой крест пуни-пуни-майстера»!»"
+      "translation": "«Эта книга о множестве медалей Мервейля и инструментах за ними.»^00«Эй! Я хочу эту медаль! Ту, на которой написано “Большой крест пуни-пуни-майстера”!»"
     },
     "pack02:3473982": {
       "source": "pack02_text_en",
@@ -186121,7 +186121,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473998",
       "original": "“Hmm... Is this an ‘o’ or maybe it’s supposed to be an ‘a’ instead?”^00“I have no idea! Not only is this recipe’s content difficult, but the handwriting is simply atrocious!”^00“I think we need to force Alt to work on his penmanship!”",
-      "translation": "«Хм... Это «о» или, может, «а»?»^00«Без понятия! Не только содержание рецепта сложное — почерк просто ужасный!»^00«Думаю, надо заставить Альта поработать над почерком!»"
+      "translation": "«Хм... Это “о” или, может, “а”?»^00«Без понятия! Не только содержание рецепта сложное — почерк просто ужасный!»^00«Думаю, надо заставить Альта поработать над почерком!»"
     },
     "pack02:3473999": {
       "source": "pack02_text_en",
@@ -186170,7 +186170,7 @@
       "file": "str_library_item.xml",
       "string_no": "3474005",
       "original": "“Um, Ilmeria... About this recipe... It says Homework #1 on it...”^00“That’s right. It’s because I’ve prepared a 1,000 lessons for you. Hey, where you going?! Come back here!”",
-      "translation": "«Эм, Ильмерия... По этому рецепту... Тут написано «Домашнее задание №1»...»^00«Верно. Я подготовила для вас 1000 уроков. Эй, куда ты?! Вернись!»"
+      "translation": "«Эм, Ильмерия... По этому рецепту... Тут написано “Домашнее задание №1”...»^00«Верно. Я подготовила для вас 1000 уроков. Эй, куда ты?! Вернись!»"
     },
     "pack02:3474006": {
       "source": "pack02_text_en",
@@ -186450,7 +186450,7 @@
       "file": "str_library_item.xml",
       "string_no": "3474095",
       "original": "“I hate ghosts! I hate them! I don't care if this is the best item ever!”^00“...Uh, Sue? Just because it has “spirit” in the name, it doesn't mean it has anything to do with ghosts...”",
-      "translation": "«Ненавижу призраков! Ненавижу! Мне всё равно, лучший ли это предмет на свете!»^00«...Эм, Сью? Просто потому что в названии есть слово «дух», это не значит, что речь о призраках...»"
+      "translation": "«Ненавижу призраков! Ненавижу! Мне всё равно, лучший ли это предмет на свете!»^00«...Эм, Сью? Просто потому что в названии есть слово “дух”, это не значит, что речь о призраках...»"
     },
     "pack02:3474096": {
       "source": "pack02_text_en",
@@ -186625,42 +186625,42 @@
       "file": "str_library_item.xml",
       "string_no": "3474120",
       "original": "&quot;It's some sort of scrap of paper. But it seems more than that!&quot;^00&quot;It seems very sturdy, too. I have a feeling we should keep it safe!&quot;",
-      "translation": "&quot;Какой-то обрывок бумаги. Но кажется, что это нечто большее!&quot;^00&quot;Он ещё и очень прочный. Кажется, стоит хранить его в безопасности!&quot;"
+      "translation": "«Какой-то обрывок бумаги. Но кажется, что это нечто большее!»^00«Он ещё и очень прочный. Кажется, стоит хранить его в безопасности!»"
     },
     "pack02:3474121": {
       "source": "pack02_text_en",
       "file": "str_library_item.xml",
       "string_no": "3474121",
       "original": "&quot;Nutrient for the Gran... something Tree! This should strengthen its magic!&quot;^00&quot;You still don't know the tree's name, Sue?&quot;^00&quot;I remembered the ‘Gran'! That's enough!&quot;",
-      "translation": "&quot;Питание для Гран... какого-то дерева! Это должно усилить его магию!&quot;^00&quot;Ты до сих пор не знаешь название дерева, Сью?&quot;^00&quot;Я же запомнила «Гран»! Этого достаточно!&quot;"
+      "translation": "«Питание для Гран... какого-то дерева! Это должно усилить его магию!»^00«Ты до сих пор не знаешь название дерева, Сью?»^00«Я же запомнила “Гран”! Этого достаточно!»"
     },
     "pack02:3474122": {
       "source": "pack02_text_en",
       "file": "str_library_item.xml",
       "string_no": "3474122",
       "original": "&quot;Milk from Chariot Goats. It's rich, creamy and delicious!&quot;^00&quot;People have drunk it forever. It's nutritious and good for the skin!&quot;",
-      "translation": "&quot;Молоко шарио-коз. Густое, сливочное и вкусное!&quot;^00&quot;Люди пьют его с давних времён. Питательное и полезное для кожи!&quot;"
+      "translation": "«Молоко шарио-коз. Густое, сливочное и вкусное!»^00«Люди пьют его с давних времён. Питательное и полезное для кожи!»"
     },
     "pack02:3474123": {
       "source": "pack02_text_en",
       "file": "str_library_item.xml",
       "string_no": "3474123",
       "original": "&quot;Everyone says to chop them up finely, but I still can't stand them!&quot;^00&quot;(How many times has that happened?)&quot;^00&quot;(How many times has that happened?)&quot;",
-      "translation": "&quot;Все говорят мелко нарезать, но я всё равно их не переношу!&quot;^00&quot;(Сколько раз это уже случалось?)&quot;^00&quot;(Сколько раз это уже случалось?)&quot;"
+      "translation": "«Все говорят мелко нарезать, но я всё равно их не переношу!»^00«(Сколько раз это уже случалось?)»^00«(Сколько раз это уже случалось?)»"
     },
     "pack02:3474124": {
       "source": "pack02_text_en",
       "file": "str_library_item.xml",
       "string_no": "3474124",
       "original": "&quot;This is just garbage... right?&quot;^00&quot;No, sometimes you can find real treasure. It's the thrill of not knowing!&quot;^00&quot;Ah, I can see why you'd like that.&quot;",
-      "translation": "&quot;Это просто мусор... да?&quot;^00&quot;Нет, иногда можно найти настоящее сокровище. В этом и кайф — не знать наверняка!&quot;^00&quot;А, понимаю, почему тебе это нравится.&quot;"
+      "translation": "«Это просто мусор... да?»^00«Нет, иногда можно найти настоящее сокровище. В этом и кайф — не знать наверняка!»^00«А, понимаю, почему тебе это нравится.»"
     },
     "pack02:3474125": {
       "source": "pack02_text_en",
       "file": "str_library_item.xml",
       "string_no": "3474125",
       "original": "&quot;Gyopiiiiiiyaaaaaahhh!&quot;^00&quot;Are you okay, Sue? Are you ill? Shall I make you some medicine...?&quot;^00&quot;That's the noise it makes when uprooted!&quot;",
-      "translation": "&quot;Гёпииииияааааххх!&quot;^00&quot;Ты в порядке, Сью? Тебе плохо? Сделать тебе лекарство...?&quot;^00&quot;Это звук, который она издаёт, когда её вырывают с корнем!&quot;"
+      "translation": "«Гёпииииияааааххх!»^00«Ты в порядке, Сью? Тебе плохо? Сделать тебе лекарство...?»^00«Это звук, который она издаёт, когда её вырывают с корнем!»"
     },
     "pack02:3735553": {
       "source": "pack02_text_en",
@@ -187759,7 +187759,7 @@
       "file": "str_library_monster.xml",
       "string_no": "3670107",
       "original": "“Cosmic sounds like a hero out of a novel or something! Look out! Here comes Cosmic Lydie of the Magical Mist!”^00“You need to decide if you want to be a wizard or an alchemist.”",
-      "translation": "««Космический» звучит как герой из романа! Берегись! На сцену выходит Космическая Лидия из Волшебного тумана!»^00«Тебе нужно решить, кем ты хочешь быть — волшебницей или алхимиком.»"
+      "translation": "«“Космический” звучит как герой из романа! Берегись! На сцену выходит Космическая Лидия из Волшебного тумана!»^00«Тебе нужно решить, кем ты хочешь быть — волшебницей или алхимиком.»"
     },
     "pack02:3670108": {
       "source": "pack02_text_en",
@@ -187808,7 +187808,7 @@
       "file": "str_library_monster.xml",
       "string_no": "3670114",
       "original": "“This is a golem made from wood, a wild golem.”^00“A wild golem? Are there domesticated ones?”^00“Of course. They even know tricks, like how to shake.”^00“I’d like to see that, but it sounds fishy...”",
-      "translation": "«Это голем из дерева, дикий голем.»^00«Дикий голем? А бывают домашние?»^00«Конечно. Они даже знают трюки, например «дай лапу».»^00«Хотелось бы увидеть, но звучит подозрительно...»"
+      "translation": "«Это голем из дерева, дикий голем.»^00«Дикий голем? А бывают домашние?»^00«Конечно. Они даже знают трюки, например “дай лапу”.»^00«Хотелось бы увидеть, но звучит подозрительно...»"
     },
     "pack02:3670115": {
       "source": "pack02_text_en",
@@ -188074,7 +188074,7 @@
       "file": "str_library_monster.xml",
       "string_no": "3670155",
       "original": "“All right, it's time again to play “Let's Listen to the Ore”! Just what is this monster trying to say? Firis, it's your turn!”^00“...It's saying... “I forgot to take out the trash”...”",
-      "translation": "«Ладно, снова время игры «Послушаем руду»! Что же пытается сказать этот монстр? Фирис, твой ход!»^00«...Он говорит... «Я забыл вынести мусор»...»"
+      "translation": "«Ладно, снова время игры “Послушаем руду”! Что же пытается сказать этот монстр? Фирис, твой ход!»^00«...Он говорит... “Я забыл вынести мусор”...»"
     },
     "pack02:3670156": {
       "source": "pack02_text_en",
@@ -188193,14 +188193,14 @@
       "file": "str_library_monster.xml",
       "string_no": "3670172",
       "original": "“The ultimate Puni - even greater than the Admiral Puni! Yes, it's finally here - the General Puni!”^00“...Huh.&quot;^00“...I'm leaving. Don't come after me.”",
-      "translation": "«Высший Пуни — ещё круче, чем Пуни-адмирал! Да, наконец-то он здесь — Генерал-пуни!»^00«...А?&quot;^00«...Я ухожу. Не иди за мной.»"
+      "translation": "«Высший Пуни — ещё круче, чем Пуни-адмирал! Да, наконец-то он здесь — Генерал-пуни!»^00«...А?»^00«...Я ухожу. Не иди за мной.»"
     },
     "pack02:3670173": {
       "source": "pack02_text_en",
       "file": "str_library_monster.xml",
       "string_no": "3670173",
       "original": "&quot;The monster sealed beneath the Granzweit Tree by the great sage and the alchemists.&quot;^00&quot;But we beat it. So what, is it just a mindless ball of muscle?&quot;",
-      "translation": "&quot;Монстр, запечатанный под Деревом Гранцвайт великим мудрецом и алхимиками.&quot;^00&quot;Но мы его победили. Так что он просто безмозглый комок мышц?&quot;"
+      "translation": "«Монстр, запечатанный под Деревом Гранцвайт великим мудрецом и алхимиками.»^00«Но мы его победили. Так что он просто безмозглый комок мышц?»"
     },
     "pack02:1179649": {
       "source": "pack02_text_en",
@@ -191987,7 +191987,7 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423414",
       "original": "Some Mysterious Paintings need Restoration. They may be &quot;mysterious,&quot; but they’re still paintings, after all.",
-      "translation": "Некоторые таинственные картины требуют восстановления. Они, может, и &quot;таинственные,&quot; но ведь всё равно картины."
+      "translation": "Некоторые таинственные картины требуют восстановления. Они, может, и «таинственные», но ведь всё равно картины."
     },
     "pack02:33423415": {
       "source": "pack02_text_en",
@@ -201871,7 +201871,7 @@
       "file": "str_npc_s90_mess.xml",
       "string_no": "34865165",
       "original": "This bridge was broken, but a strange traveler fixed it with mysterious powers. It's been called the &quot;Traveler's Bridge&quot; ever since.",
-      "translation": "Этот мост был сломан, но странный путешественник починил его таинственной силой. С тех пор его зовут &quot;Мостом путешественника&quot;."
+      "translation": "Этот мост был сломан, но странный путешественник починил его таинственной силой. С тех пор его зовут «Мостом путешественника»."
     },
     "pack02:34865166": {
       "source": "pack02_text_en",
@@ -211503,84 +211503,84 @@
       "file": "str_saveload_define.xml",
       "string_no": "4456466",
       "original": "Chapter 1 &quot;The Twins&quot;",
-      "translation": "Глава 1 &quot;Близнецы&quot;"
+      "translation": "Глава 1 «Близнецы»"
     },
     "pack02:4456467": {
       "source": "pack02_text_en",
       "file": "str_saveload_define.xml",
       "string_no": "4456467",
       "original": "Chapter 2 &quot;A Mentor and an Official Notice&quot;",
-      "translation": "Глава 2 &quot;Наставница и объявление&quot;"
+      "translation": "Глава 2 «Наставница и объявление»"
     },
     "pack02:4456468": {
       "source": "pack02_text_en",
       "file": "str_saveload_define.xml",
       "string_no": "4456468",
       "original": "Chapter 3 &quot;A Mysterious World&quot;",
-      "translation": "Глава 3 &quot;Таинственный мир&quot;"
+      "translation": "Глава 3 «Таинственный мир»"
     },
     "pack02:4456469": {
       "source": "pack02_text_en",
       "file": "str_saveload_define.xml",
       "string_no": "4456469",
       "original": "Chapter 4 &quot;Rivals&quot;",
-      "translation": "Глава 4 &quot;Соперники&quot;"
+      "translation": "Глава 4 «Соперники»"
     },
     "pack02:4456470": {
       "source": "pack02_text_en",
       "file": "str_saveload_define.xml",
       "string_no": "4456470",
       "original": "Chapter 5 &quot;An Omen&quot;",
-      "translation": "Глава 5 &quot;Предзнаменование&quot;"
+      "translation": "Глава 5 «Предзнаменование»"
     },
     "pack02:4456471": {
       "source": "pack02_text_en",
       "file": "str_saveload_define.xml",
       "string_no": "4456471",
       "original": "Chapter 6 &quot;Ancient Times&quot;",
-      "translation": "Глава 6 &quot;Древние времена&quot;"
+      "translation": "Глава 6 «Древние времена»"
     },
     "pack02:4456472": {
       "source": "pack02_text_en",
       "file": "str_saveload_define.xml",
       "string_no": "4456472",
       "original": "Chapter 7 &quot;A Vacation?...&quot;",
-      "translation": "Глава 7 &quot;Отпуск?...&quot;"
+      "translation": "Глава 7 «Отпуск?...»"
     },
     "pack02:4456473": {
       "source": "pack02_text_en",
       "file": "str_saveload_define.xml",
       "string_no": "4456473",
       "original": "Chapter 8 &quot;Time Travelers&quot;",
-      "translation": "Глава 8 &quot;Путешественники во времени&quot;"
+      "translation": "Глава 8 «Путешественники во времени»"
     },
     "pack02:4456474": {
       "source": "pack02_text_en",
       "file": "str_saveload_define.xml",
       "string_no": "4456474",
       "original": "Chapter 9 &quot;Miracle&quot;",
-      "translation": "Глава 9 &quot;Чудо&quot;"
+      "translation": "Глава 9 «Чудо»"
     },
     "pack02:4456475": {
       "source": "pack02_text_en",
       "file": "str_saveload_define.xml",
       "string_no": "4456475",
       "original": "Chapter 10 &quot;Voices and Dreams&quot;",
-      "translation": "Глава 10 &quot;Голоса и сны&quot;"
+      "translation": "Глава 10 «Голоса и сны»"
     },
     "pack02:4456476": {
       "source": "pack02_text_en",
       "file": "str_saveload_define.xml",
       "string_no": "4456476",
       "original": "Chapter 11 &quot;The Black Paint&quot;",
-      "translation": "Глава 11 &quot;Чёрная краска&quot;"
+      "translation": "Глава 11 «Чёрная краска»"
     },
     "pack02:4456477": {
       "source": "pack02_text_en",
       "file": "str_saveload_define.xml",
       "string_no": "4456477",
       "original": "Final Chapter &quot;The Promise&quot;",
-      "translation": "Финальная глава &quot;Обещание&quot;"
+      "translation": "Финальная глава «Обещание»"
     },
     "pack02:4456479": {
       "source": "pack02_text_en",
@@ -212231,7 +212231,7 @@
       "file": "str_summary_chara_checkbox.xml",
       "string_no": "6488090",
       "original": "&lt;CLGR&gt;- We need to deliver three lots of ^00　“Strength Meat” to Alt.^00　&lt;CLNR&gt;^00　↑We need to give him something tasty ^00　　and nutritious!^00　　　　　　　　　　　　　　　[Lydie]^00　↑Uh, yeah... sure. ^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "&lt;CLGR&gt;- Нам нужно доставить три партии ^00　“Сильного мяса” на Альт.^00　&lt;CLNR&gt;^00　↑Нужно дать ему что-нибудь вкусненькое ^00　　и питательно!^00　　　　　　　　　　　　　　　[Лидия]^00　↑А, да... конечно. ^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "&lt;CLGR&gt;- Нам нужно доставить три партии ^00　«Сильного мяса» на Альт.^00　&lt;CLNR&gt;^00　↑Нужно дать ему что-нибудь вкусненькое ^00　　и питательно!^00　　　　　　　　　　　　　　　[Лидия]^00　↑А, да... конечно. ^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6488091": {
       "source": "pack02_text_en",
@@ -214562,7 +214562,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422629",
       "original": "^00　↑“Proud Heart”... Hehe.^00　　Sounds awfully melodramatic for paint.^00　　　　　　　　　　　　　　　　[Sue]^00^00",
-      "translation": "^00　↑“Гордое сердце”... Хе-хе.^00　　Звучит ужасно мелодраматично для краска.^00　　　　　　　　　　　　　　　　[Сью]^00^00"
+      "translation": "^00　↑«Гордое сердце»... Хе-хе.^00　　Звучит ужасно мелодраматично для краска.^00　　　　　　　　　　　　　　　　[Сью]^00^00"
     },
     "pack02:6422630": {
       "source": "pack02_text_en",
@@ -215934,7 +215934,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422825",
       "original": "&lt;CLGR&gt;- Let’s go visit the “Starlight Plain” in the ^00　gallery and use the “Paint of Dreaming ^00　Night Sky.”^00　&lt;CLNR&gt;^00　↑Idiot.^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "&lt;CLGR&gt;- Давайте посетим «Звездную равнину» в галерее ^00　и воспользуемся «Краской сновидений ^00　Ночью». Небо.»^00　&lt;CLNR&gt;^00　↑Идиот.^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "&lt;CLGR&gt;- Давайте посетим «Звездную равнину» в галерее ^00　и воспользуемся «Краской мечтательного ночного неба»^00　&lt;CLNR&gt;^00　↑Идиот.^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6422826": {
       "source": "pack02_text_en",
@@ -215962,7 +215962,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422829",
       "original": "&lt;CLGR&gt;- Let’s gather some “Starfruit” in the ^00　“Starlight Plain.”^00　&lt;CLNR&gt;^00　↑Whatever...^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "&lt;CLGR&gt;- Давайте соберем немного «Звездных фруктов» в ^00　«Звездном свете». Обычный.»^00　&lt;CLNR&gt;^00　↑Как угодно...^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "&lt;CLGR&gt;- Давайте соберем немного «Звездных фруктов» на ^00　«Звёздной равнине»^00　&lt;CLNR&gt;^00　↑Как угодно...^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6422830": {
       "source": "pack02_text_en",

@@ -639,7 +639,7 @@
       "file": "str_library_monster.xml",
       "string_no": "3670107",
       "original": "“Cosmic sounds like a hero out of a novel or something! Look out! Here comes Cosmic Lydie of the Magical Mist!”^00“You need to decide if you want to be a wizard or an alchemist.”",
-      "translation": "««Космический» звучит как герой из романа! Берегись! На сцену выходит Космическая Лидия из Волшебного тумана!»^00«Тебе нужно решить, кем ты хочешь быть — волшебницей или алхимиком.»"
+      "translation": "«“Космический” звучит как герой из романа! Берегись! На сцену выходит Космическая Лидия из Волшебного тумана!»^00«Тебе нужно решить, кем ты хочешь быть — волшебницей или алхимиком.»"
     },
     "pack02:3670108": {
       "source": "pack02_text_en",
@@ -688,7 +688,7 @@
       "file": "str_library_monster.xml",
       "string_no": "3670114",
       "original": "“This is a golem made from wood, a wild golem.”^00“A wild golem? Are there domesticated ones?”^00“Of course. They even know tricks, like how to shake.”^00“I’d like to see that, but it sounds fishy...”",
-      "translation": "«Это голем из дерева, дикий голем.»^00«Дикий голем? А бывают домашние?»^00«Конечно. Они даже знают трюки, например «дай лапу».»^00«Хотелось бы увидеть, но звучит подозрительно...»"
+      "translation": "«Это голем из дерева, дикий голем.»^00«Дикий голем? А бывают домашние?»^00«Конечно. Они даже знают трюки, например “дай лапу”.»^00«Хотелось бы увидеть, но звучит подозрительно...»"
     },
     "pack02:3670115": {
       "source": "pack02_text_en",
@@ -954,7 +954,7 @@
       "file": "str_library_monster.xml",
       "string_no": "3670155",
       "original": "“All right, it's time again to play “Let's Listen to the Ore”! Just what is this monster trying to say? Firis, it's your turn!”^00“...It's saying... “I forgot to take out the trash”...”",
-      "translation": "«Ладно, снова время игры «Послушаем руду»! Что же пытается сказать этот монстр? Фирис, твой ход!»^00«...Он говорит... «Я забыл вынести мусор»...»"
+      "translation": "«Ладно, снова время игры “Послушаем руду”! Что же пытается сказать этот монстр? Фирис, твой ход!»^00«...Он говорит... “Я забыл вынести мусор”...»"
     },
     "pack02:3670156": {
       "source": "pack02_text_en",
@@ -1073,14 +1073,14 @@
       "file": "str_library_monster.xml",
       "string_no": "3670172",
       "original": "“The ultimate Puni - even greater than the Admiral Puni! Yes, it's finally here - the General Puni!”^00“...Huh.&quot;^00“...I'm leaving. Don't come after me.”",
-      "translation": "«Высший Пуни — ещё круче, чем Пуни-адмирал! Да, наконец-то он здесь — Генерал-пуни!»^00«...А?&quot;^00«...Я ухожу. Не иди за мной.»"
+      "translation": "«Высший Пуни — ещё круче, чем Пуни-адмирал! Да, наконец-то он здесь — Генерал-пуни!»^00«...А?»^00«...Я ухожу. Не иди за мной.»"
     },
     "pack02:3670173": {
       "source": "pack02_text_en",
       "file": "str_library_monster.xml",
       "string_no": "3670173",
       "original": "&quot;The monster sealed beneath the Granzweit Tree by the great sage and the alchemists.&quot;^00&quot;But we beat it. So what, is it just a mindless ball of muscle?&quot;",
-      "translation": "&quot;Монстр, запечатанный под Деревом Гранцвайт великим мудрецом и алхимиками.&quot;^00&quot;Но мы его победили. Так что он просто безмозглый комок мышц?&quot;"
+      "translation": "«Монстр, запечатанный под Деревом Гранцвайт великим мудрецом и алхимиками.»^00«Но мы его победили. Так что он просто безмозглый комок мышц?»"
     }
   }
 }
