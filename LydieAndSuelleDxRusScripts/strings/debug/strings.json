@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-10T16:41:20.057457+00:00",
+  "generated_at": "2026-08-10T17:47:43.362549+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -121546,7 +121546,7 @@
       "file": "str_ambition_article_text.xml",
       "string_no": "655418",
       "original": "After Demon Queens come the Demon Gods... Hmm... Next, we should set our sights on the Gods of Destruction! Let’s go to the &lt;CLGR&gt;Lightning Wasteland&lt;CLNR&gt; and &lt;CLGR&gt;The Great Cascades of Anfel&lt;CLNR&gt; and fight some toughest monsters!",
-      "translation": "После Королев демонов идут демонические боги... Хм... Дальше нужно нацелиться на Богов разрушения! Давайте отправимся в &lt;CLGR&gt;Молниевую пустошь&lt;CLNR&gt; и &lt;CLGR&gt;«Великие каскады Анфела»&lt;CLNR&gt; и сразимся с самыми крепкими монстрами!"
+      "translation": "После Королев демонов идут демонические боги... Хм... Дальше нужно нацелиться на Богов разрушения! Давайте отправимся в &lt;CLGR&gt;Молниевую пустошь&lt;CLNR&gt; и &lt;CLGR&gt;Великие каскады Анфела&lt;CLNR&gt; и сразимся с самыми крепкими монстрами!"
     },
     "pack02:655419": {
       "source": "pack02_text_en",
@@ -122407,7 +122407,7 @@
       "file": "str_ambition_entry_system.xml",
       "string_no": "852053",
       "original": "Obtain some &lt;CLGR&gt;(Puniballs)&lt;CLNR&gt;.",
-      "translation": "Получить &lt;CLGR&gt;(Пуниболы)&lt;CLNR&gt;."
+      "translation": "Получить &lt;CLGR&gt;(Пунибол)&lt;CLNR&gt;."
     },
     "pack02:852054": {
       "source": "pack02_text_en",
@@ -148531,7 +148531,7 @@
       "file": "str_item_category.xml",
       "string_no": "6815745",
       "original": "(Plants)",
-      "translation": "(Растения)"
+      "translation": "(Растение)"
     },
     "pack02:6815746": {
       "source": "pack02_text_en",
@@ -148545,7 +148545,7 @@
       "file": "str_item_category.xml",
       "string_no": "6815747",
       "original": "(Beehives)",
-      "translation": "(Ульи)"
+      "translation": "(Улей)"
     },
     "pack02:6815748": {
       "source": "pack02_text_en",
@@ -148566,7 +148566,7 @@
       "file": "str_item_category.xml",
       "string_no": "6815750",
       "original": "(Foodstuff)",
-      "translation": "(Ингредиент)"
+      "translation": "(Продукт питания)"
     },
     "pack02:6815751": {
       "source": "pack02_text_en",
@@ -148601,7 +148601,7 @@
       "file": "str_item_category.xml",
       "string_no": "6815755",
       "original": "(Puniballs)",
-      "translation": "(Пуниболы)"
+      "translation": "(Пунибол)"
     },
     "pack02:6815756": {
       "source": "pack02_text_en",
@@ -148657,7 +148657,7 @@
       "file": "str_item_category.xml",
       "string_no": "6815763",
       "original": "(Gunpowder)",
-      "translation": "(Порошок)"
+      "translation": "(Порох)"
     },
     "pack02:6815764": {
       "source": "pack02_text_en",
@@ -153683,14 +153683,14 @@
       "file": "str_item_effect.xml",
       "string_no": "6882363",
       "original": "Add (Gunpowder)",
-      "translation": "Добавление (порох)"
+      "translation": "Добавление (Порох)"
     },
     "pack02:6882364": {
       "source": "pack02_text_en",
       "file": "str_item_effect.xml",
       "string_no": "6882364",
       "original": "Add (Aroma)",
-      "translation": "Добавление (аромат)"
+      "translation": "Добавление (Аромат)"
     },
     "pack02:6882365": {
       "source": "pack02_text_en",
@@ -153704,14 +153704,14 @@
       "file": "str_item_effect.xml",
       "string_no": "6882366",
       "original": "Add (Food)",
-      "translation": "Добавление (еда)"
+      "translation": "Добавление (Еда)"
     },
     "pack02:6882367": {
       "source": "pack02_text_en",
       "file": "str_item_effect.xml",
       "string_no": "6882367",
       "original": "Add (Oil)",
-      "translation": "Добавление (масло)"
+      "translation": "Добавление (Масло)"
     },
     "pack02:6882368": {
       "source": "pack02_text_en",
@@ -178225,14 +178225,14 @@
       "file": "str_library_eff_detail.xml",
       "string_no": "3539868",
       "original": "Adds the &lt;CLGR&gt;(Medical Materials)&lt;CLNR&gt; category.",
-      "translation": "Добавляет категорию &lt;CLGR&gt;(Мед. материалы)&lt;CLNR&gt;."
+      "translation": "Добавляет категорию &lt;CLGR&gt;(Лекарств. мат.)&lt;CLNR&gt;."
     },
     "pack02:3539869": {
       "source": "pack02_text_en",
       "file": "str_library_eff_detail.xml",
       "string_no": "3539869",
       "original": "Adds the &lt;CLGR&gt;(Foodstuff)&lt;CLNR&gt; category.",
-      "translation": "Добавляет категорию &lt;CLGR&gt;(Ингредиент)&lt;CLNR&gt;."
+      "translation": "Добавляет категорию &lt;CLGR&gt;(Продукт питания)&lt;CLNR&gt;."
     },
     "pack02:3539870": {
       "source": "pack02_text_en",
@@ -181879,7 +181879,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866669",
       "original": "The &lt;CLGR&gt;Effect&lt;CLNR&gt; of an item is a unique ability attached to the item. For example, the Uni Bag has an Effect of “Physical Damage S” attached to it.",
-      "translation": "&lt;CLGR&gt;Эффект&lt;CLNR&gt; предмета — это уникальная способность, прикрепленная к предмету. Например, к универсальной сумке прикреплен эффект «Физический урон S»."
+      "translation": "&lt;CLGR&gt;Эффект&lt;CLNR&gt; предмета — это уникальная способность, прикрепленная к предмету. Например, у «Мешочка с Уни» есть эффект «Физический урон S»."
     },
     "pack02:3866670": {
       "source": "pack02_text_en",
@@ -182159,7 +182159,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866709",
       "original": "For example, when (Medical Materials) are specified, you can use any of the synthesis materials in the (Medical Materials) category.",
-      "translation": "Например, если указаны (Медицинские материалы), вы можете использовать любой материал синтеза в категории (Медицинские материалы)."
+      "translation": "Например, если указаны (Лекарств. мат.), вы можете использовать любой материал синтеза в категории (Лекарств. мат.)."
     },
     "pack02:3866710": {
       "source": "pack02_text_en",
@@ -190475,7 +190475,7 @@
       "file": "str_mix_tutorial.xml",
       "string_no": "10027032",
       "original": "There are two types of materials, those &lt;CLGR&gt;specified by item&lt;CLNR&gt; and those &lt;CLGR&gt;specified by category&lt;CLNR&gt;, such as (Water).",
-      "translation": "Существует два типа материалов: &lt;CLGR&gt;конкретный материал&lt;CLNR&gt; и &lt;CLGR&gt;конкретная категория&lt;CLNR&gt;, например (Вода)."
+      "translation": "Существует два типа материалов: &lt;CLGR&gt;конкретный материал&lt;CLNR&gt; и &lt;CLGR&gt;конкретная категория&lt;CLNR&gt;, например (Жидкость)."
     },
     "pack02:10027033": {
       "source": "pack02_text_en",
@@ -202669,7 +202669,7 @@
       "file": "str_quest_flavor.xml",
       "string_no": "4915237",
       "original": "I really need some Princess Grass for my friend’s wedding. If you can find some lovely white Princess Grass, I’ll reward you handsomely!",
-      "translation": "Мне очень нужно немного Принцессы Травы на свадьбу моего друга. Если вам удастся найти прекрасную белую принцессу траву, я вас щедро награжу!"
+      "translation": "Мне очень нужно немного Принцессы травы на свадьбу моего друга. Если вам удастся найти прекрасную белую принцессу траву, я вас щедро награжу!"
     },
     "pack02:4915238": {
       "source": "pack02_text_en",
@@ -202872,7 +202872,7 @@
       "file": "str_quest_flavor.xml",
       "string_no": "4915266",
       "original": "I am conducting research into monsters. Do you think you could bring me a Wicked Fang, which is dropped by certain monsters? Handle it with care, now.",
-      "translation": "Я провожу исследования монстров. Как думаешь, сможешь принести мне Злой Клык, который падает с некоторых монстров? Обращайтесь с ним осторожно."
+      "translation": "Я провожу исследования монстров. Как думаешь, сможешь принести мне Грешный клык, который падает с некоторых монстров? Обращайтесь с ним осторожно."
     },
     "pack02:4915267": {
       "source": "pack02_text_en",
@@ -202921,14 +202921,14 @@
       "file": "str_quest_flavor.xml",
       "string_no": "4915273",
       "original": "Is a Turtle Claw really from a turtle? No, it can’t be... Anyway, if you can bring me a few of these things that look like turtle claws, that would be great.",
-      "translation": "Действительно ли черепаховый коготь принадлежит черепахе? Нет, этого не может быть... В любом случае, если бы вы могли принести мне несколько таких штук, похожих на черепашьи когти, было бы здорово."
+      "translation": "Действительно ли коготь черепахи принадлежит черепахе? Нет, этого не может быть... В любом случае, если бы вы могли принести мне несколько таких штук, похожих на черепашьи когти, было бы здорово."
     },
     "pack02:4915274": {
       "source": "pack02_text_en",
       "file": "str_quest_flavor.xml",
       "string_no": "4915274",
       "original": "I just can’t get enough of that feeling! Have you got any Crackling Water? That sensation as it snaps and crackles in your mouth - it’s unforgettable!",
-      "translation": "Я просто не могу насытиться этим чувством! У вас есть хрустящая вода? Это ощущение, когда он хрустит и хрустнет во рту — это незабываемо!"
+      "translation": "Я просто не могу насытиться этим чувством! У вас есть газированная вода? Это ощущение, когда он хрустит и хрустнет во рту — это незабываемо!"
     },
     "pack02:4915275": {
       "source": "pack02_text_en",
@@ -202949,7 +202949,7 @@
       "file": "str_quest_flavor.xml",
       "string_no": "4915277",
       "original": "Hohoho... Are there any in this town who have what it takes to fish up an Old Master? If anyone could bring me one, I’d give them my own favorite fish.",
-      "translation": "Хо-хо-хо... Есть ли в этом городе люди, способные выловить Старого Мастера? Если бы кто-нибудь мог принести мне одну, я бы подарил им свою любимую рыбу."
+      "translation": "Хо-хо-хо... Есть ли в этом городе люди, способные выловить Владыку? Если бы кто-нибудь мог принести мне одну, я бы подарил им свою любимую рыбу."
     },
     "pack02:4915278": {
       "source": "pack02_text_en",
@@ -203152,7 +203152,7 @@
       "file": "str_quest_flavor.xml",
       "string_no": "4915306",
       "original": "There’s a new monster around known as a Guardian. I want to hire it to work for us. Can you test it and see if it’s up to it?",
-      "translation": "Вокруг появился новый монстр, известный как Страж. Я хочу нанять его работать на нас. Можете ли вы протестировать его и посмотреть, подходит ли он?"
+      "translation": "Вокруг появился новый монстр, известный как Голем-защитник. Я хочу нанять его работать на нас. Можете ли вы протестировать его и посмотреть, подходит ли он?"
     },
     "pack02:4915307": {
       "source": "pack02_text_en",
@@ -203173,7 +203173,7 @@
       "file": "str_quest_flavor.xml",
       "string_no": "4915309",
       "original": "Are you familiar with the Balloon Fish? Hehe, it’s round and really adorable. I want to keep one as a pet - can someone fish one up for me?",
-      "translation": "Вы знакомы с рыбой-воздушным шаром? Хе-хе, он круглый и очень милый. Я хочу держать его в качестве домашнего животного. Может ли кто-нибудь выловить его для меня?"
+      "translation": "Вы знакомы с рыбой-шаром? Хе-хе, он круглый и очень милый. Я хочу держать его в качестве домашнего животного. Может ли кто-нибудь выловить его для меня?"
     },
     "pack02:4915310": {
       "source": "pack02_text_en",
@@ -203250,7 +203250,7 @@
       "file": "str_quest_flavor.xml",
       "string_no": "4915320",
       "original": "There’s apparently a monster called a Shadow Eater. What a great name. I’ll use it as a stepping stone on my path to greatness. But for now, can you tell me where one might be?",
-      "translation": "Судя по всему, существует монстр по имени Пожиратель теней. Какое великолепное имя. Я буду использовать это как ступеньку на пути к величию. А пока, можешь ли ты сказать мне, где он может быть?"
+      "translation": "Судя по всему, существует монстр по имени Тенеед. Какое великолепное имя. Я буду использовать это как ступеньку на пути к величию. А пока, можешь ли ты сказать мне, где он может быть?"
     },
     "pack02:4915321": {
       "source": "pack02_text_en",
@@ -203474,7 +203474,7 @@
       "file": "str_quest_flavor.xml",
       "string_no": "4915352",
       "original": "I want to give my children a Triple Taun, so that they will always remain friends. Does anyone have one?",
-      "translation": "Я хочу подарить своим детям Тройной Таун, чтобы они всегда оставались друзьями. Есть ли у кого-нибудь такой?"
+      "translation": "Я хочу подарить своим детям Тройной Тоон, чтобы они всегда оставались друзьями. Есть ли у кого-нибудь такой?"
     },
     "pack02:4915353": {
       "source": "pack02_text_en",
@@ -205840,7 +205840,7 @@
       "file": "str_rankup_description.xml",
       "string_no": "2686991",
       "original": "&lt;CLGR&gt;Prepare “(Bombs)” to be used as materials for an incredibly powerful bomb.^00*Number prepared will affect evaluation.&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;Подготовьте «(Бомбы)», которые будут использоваться в качестве материалов для невероятно мощной бомбы.^00*Подготовленное количество повлияет на оценку.&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;Подготовьте «(Бомба)», которые будут использоваться в качестве материалов для невероятно мощной бомбы.^00*Подготовленное количество повлияет на оценку.&lt;CLNR&gt;"
     },
     "pack02:2752513": {
       "source": "pack02_text_en",
@@ -206155,77 +206155,77 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424834",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Uni&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Универ&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Уни&lt;CLNR&gt;"
     },
     "pack02:2424835": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424835",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Uni&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Универ&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Уни&lt;CLNR&gt;"
     },
     "pack02:2424836": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424836",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;Princess Grass&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Принцесса Трава&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Принцесса травы&lt;CLNR&gt;"
     },
     "pack02:2424837": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424837",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Princess Grass&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Принцесса Трава&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Принцесса травы&lt;CLNR&gt;"
     },
     "pack02:2424838": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424838",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Princess Grass&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Принцесса Трава&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Принцесса травы&lt;CLNR&gt;"
     },
     "pack02:2424839": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424839",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;(Plants)&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Растения)&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Растение)&lt;CLNR&gt;"
     },
     "pack02:2424840": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424840",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;(Plants)&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Растения)&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Растение)&lt;CLNR&gt;"
     },
     "pack02:2424841": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424841",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;(Plants)&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Растения)&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Растение)&lt;CLNR&gt;"
     },
     "pack02:2424842": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424842",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;(Water)&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Вода)&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Жидкость)&lt;CLNR&gt;"
     },
     "pack02:2424843": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424843",
       "original": "I’ll use &lt;CLGR&gt;battle&lt;CLNR&gt; as a starting point.&lt;CR&gt;Memo: &lt;CLGR&gt;Blue Puni&lt;CLNR&gt;",
-      "translation": "Я буду использовать &lt;CLGR&gt;Летучая мышьtle&lt;CLNR&gt; в качестве отправной точки.&lt;CR&gt;Заметка: &lt;CLGR&gt;Синий пуни&lt;CLNR&gt;"
+      "translation": "Я буду использовать &lt;CLGR&gt;битва&lt;CLNR&gt; в качестве отправной точки.&lt;CR&gt;Заметка: &lt;CLGR&gt;Синий пуни&lt;CLNR&gt;"
     },
     "pack02:2424844": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424844",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Blue Puni&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Синий Пуни&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Синий пуни&lt;CLNR&gt;"
     },
     "pack02:2424845": {
       "source": "pack02_text_en",
@@ -206239,14 +206239,14 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424846",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Weiss Wheat&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Вайс Пшеница&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Вайс-пшеница&lt;CLNR&gt;"
     },
     "pack02:2424847": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424847",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Weiss Wheat&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Вайс Пшеница&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Вайс-пшеница&lt;CLNR&gt;"
     },
     "pack02:2424848": {
       "source": "pack02_text_en",
@@ -206274,49 +206274,49 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424851",
       "original": "I’ll use &lt;CLGR&gt;battle&lt;CLNR&gt; as a starting point.&lt;CR&gt;Memo: &lt;CLGR&gt;Species - Plant&lt;CLNR&gt;",
-      "translation": "Я буду использовать &lt;CLGR&gt;Летучая мышьtle&lt;CLNR&gt; в качестве отправной точки.&lt;CR&gt;Заметка: &lt;CLGR&gt;Виды — Растения&lt;CLNR&gt;"
+      "translation": "Я буду использовать &lt;CLGR&gt;битва&lt;CLNR&gt; в качестве отправной точки.&lt;CR&gt;Заметка: &lt;CLGR&gt;Виды — Растения&lt;CLNR&gt;"
     },
     "pack02:2424852": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424852",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Species - Plant&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Вид — Растение&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Виды — Растения&lt;CLNR&gt;"
     },
     "pack02:2424853": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424853",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Species - Plant&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Вид — Растение&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Виды — Растения&lt;CLNR&gt;"
     },
     "pack02:2424854": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424854",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;Mineral Oil&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Минеральное масло&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Масляный минерал&lt;CLNR&gt;"
     },
     "pack02:2424855": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424855",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Mineral Oil&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Минеральное масло&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Масляный минерал&lt;CLNR&gt;"
     },
     "pack02:2424856": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424856",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Mineral Oil&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Минеральное масло&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Масляный минерал&lt;CLNR&gt;"
     },
     "pack02:2424857": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424857",
       "original": "Let's &lt;CLGR&gt;collect&lt;CLNR&gt; something new.&lt;CR&gt;Memo: &lt;CLGR&gt;(Thread)&lt;CLNR&gt;",
-      "translation": "Давайте &lt;CLGR&gt;соберём&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Тема)&lt;CLNR&gt;"
+      "translation": "Давайте &lt;CLGR&gt;соберём&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Нить)&lt;CLNR&gt;"
     },
     "pack02:2424858": {
       "source": "pack02_text_en",
@@ -206358,63 +206358,63 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424863",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;Kaen Stone&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Каен Стоун&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Каенский камень&lt;CLNR&gt;"
     },
     "pack02:2424864": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424864",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Kaen Stone&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Каен Стоун&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Каенский камень&lt;CLNR&gt;"
     },
     "pack02:2424865": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424865",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Kaen Stone&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Каен Стоун&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Каенский камень&lt;CLNR&gt;"
     },
     "pack02:2424866": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424866",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;(Fuel)&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Топливо)&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Горючий мат.)&lt;CLNR&gt;"
     },
     "pack02:2424867": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424867",
       "original": "I’ll use &lt;CLGR&gt;battle&lt;CLNR&gt; as a starting point.&lt;CR&gt;Memo: &lt;CLGR&gt;Red Puni&lt;CLNR&gt;",
-      "translation": "Я буду использовать &lt;CLGR&gt;Летучая мышьtle&lt;CLNR&gt; в качестве отправной точки.&lt;CR&gt;Заметка: &lt;CLGR&gt;Красный Пуни&lt;CLNR&gt;"
+      "translation": "Я буду использовать &lt;CLGR&gt;битва&lt;CLNR&gt; в качестве отправной точки.&lt;CR&gt;Заметка: &lt;CLGR&gt;Красный пуни&lt;CLNR&gt;"
     },
     "pack02:2424868": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424868",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Red Puni&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Красный Пуни&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Красный пуни&lt;CLNR&gt;"
     },
     "pack02:2424869": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424869",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;(Beehives)&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Ульи)&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Улей)&lt;CLNR&gt;"
     },
     "pack02:2424870": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424870",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;(Beehives)&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Ульи)&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Улей)&lt;CLNR&gt;"
     },
     "pack02:2424871": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424871",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;(Beehives)&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Ульи)&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Улей)&lt;CLNR&gt;"
     },
     "pack02:2424872": {
       "source": "pack02_text_en",
@@ -206428,14 +206428,14 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424873",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Uni Bag&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Униформа-сумка&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Мешочек с Уни&lt;CLNR&gt;"
     },
     "pack02:2424874": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424874",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Uni Bag&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Униформа-сумка&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Мешочек с Уни&lt;CLNR&gt;"
     },
     "pack02:2424875": {
       "source": "pack02_text_en",
@@ -206463,7 +206463,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424878",
       "original": "Let's &lt;CLGR&gt;collect&lt;CLNR&gt; something new.&lt;CR&gt;Memo: &lt;CLGR&gt;Crystal Shards&lt;CLNR&gt;",
-      "translation": "Давайте &lt;CLGR&gt;соберём&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Осколки кристалла&lt;CLNR&gt;"
+      "translation": "Давайте &lt;CLGR&gt;соберём&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Кристальные осколки&lt;CLNR&gt;"
     },
     "pack02:2424879": {
       "source": "pack02_text_en",
@@ -206519,14 +206519,14 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424888",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;(Flowers)&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Цветы)&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Цветок)&lt;CLNR&gt;"
     },
     "pack02:2424889": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424889",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;(Flowers)&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Цветы)&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Цветок)&lt;CLNR&gt;"
     },
     "pack02:2424890": {
       "source": "pack02_text_en",
@@ -206582,35 +206582,35 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424897",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;(Neutralizers)&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Нейтрализаторы)&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Нейтрализатор)&lt;CLNR&gt;"
     },
     "pack02:2424898": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424898",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;(Neutralizers)&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Нейтрализаторы)&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Нейтрализатор)&lt;CLNR&gt;"
     },
     "pack02:2424899": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424899",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;Hakurei Stone&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;собирания&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Камень Хакурей&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;собирания&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Хакурейский камень&lt;CLNR&gt;"
     },
     "pack02:2424900": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424900",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Hakurei Stone&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Камень Хакурей&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Хакурейский камень&lt;CLNR&gt;"
     },
     "pack02:2424901": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424901",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Hakurei Stone&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Камень Хакурей&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Хакурейский камень&lt;CLNR&gt;"
     },
     "pack02:2424902": {
       "source": "pack02_text_en",
@@ -206638,42 +206638,42 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424905",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Honey&lt;CLNR&gt;",
-      "translation": "В качестве вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Милая&lt;CLNR&gt;"
+      "translation": "В качестве вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Мёд&lt;CLNR&gt;"
     },
     "pack02:2424906": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424906",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Honey&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Милая&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Мёд&lt;CLNR&gt;"
     },
     "pack02:2424907": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424907",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Honey&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Милая&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Мёд&lt;CLNR&gt;"
     },
     "pack02:2424908": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424908",
       "original": "I’ll use &lt;CLGR&gt;battle&lt;CLNR&gt; as a starting point.&lt;CR&gt;Memo: &lt;CLGR&gt;Species - Bat&lt;CLNR&gt;",
-      "translation": "Я буду использовать &lt;CLGR&gt;Летучая мышьtle&lt;CLNR&gt; в качестве отправной точки.&lt;CR&gt;Заметка: &lt;CLGR&gt;Виды — Летучая мышь&lt;CLNR&gt;"
+      "translation": "Я буду использовать &lt;CLGR&gt;битва&lt;CLNR&gt; в качестве отправной точки.&lt;CR&gt;Заметка: &lt;CLGR&gt;Виды — Летучая мышь&lt;CLNR&gt;"
     },
     "pack02:2424909": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424909",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Species - Bat&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Виды — Летучие мыши&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Виды — Летучая мышь&lt;CLNR&gt;"
     },
     "pack02:2424910": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424910",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Species - Bat&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Виды — Летучие мыши&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Виды — Летучая мышь&lt;CLNR&gt;"
     },
     "pack02:2424911": {
       "source": "pack02_text_en",
@@ -206729,21 +206729,21 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424918",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Cloth&lt;CLNR&gt;",
-      "translation": "В качестве вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Ткань&lt;CLNR&gt;"
+      "translation": "В качестве вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Обычная ткань&lt;CLNR&gt;"
     },
     "pack02:2424919": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424919",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Cloth&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Ткань&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Обычная ткань&lt;CLNR&gt;"
     },
     "pack02:2424920": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424920",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;(Gems)&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Драгоценные камни)&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Самоцвет)&lt;CLNR&gt;"
     },
     "pack02:2424921": {
       "source": "pack02_text_en",
@@ -206855,126 +206855,126 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424936",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Jet&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Самолет&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Джет&lt;CLNR&gt;"
     },
     "pack02:2424937": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424937",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Jet&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Самолет&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Джет&lt;CLNR&gt;"
     },
     "pack02:2424938": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424938",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;(Plants)&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Растения)&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Растение)&lt;CLNR&gt;"
     },
     "pack02:2424939": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424939",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;(Plants)&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Растения)&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Растение)&lt;CLNR&gt;"
     },
     "pack02:2424940": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424940",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;(Plants)&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Растения)&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Растение)&lt;CLNR&gt;"
     },
     "pack02:2424941": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424941",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;Blue Crystal&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Синий кристалл&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Лазурный кристалл&lt;CLNR&gt;"
     },
     "pack02:2424942": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424942",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;(Plants)&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Растения)&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Растение)&lt;CLNR&gt;"
     },
     "pack02:2424943": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424943",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;(Plants)&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Растения)&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Растение)&lt;CLNR&gt;"
     },
     "pack02:2424944": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424944",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;Suspicious Liquid&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Подозрительная жидкость&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Странная жидкость&lt;CLNR&gt;"
     },
     "pack02:2424945": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424945",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Suspicious Liquid&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Подозрительная жидкость&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Странная жидкость&lt;CLNR&gt;"
     },
     "pack02:2424946": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424946",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Suspicious Liquid&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Подозрительная жидкость&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Странная жидкость&lt;CLNR&gt;"
     },
     "pack02:2424947": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424947",
       "original": "Let's &lt;CLGR&gt;collect&lt;CLNR&gt; something new.&lt;CR&gt;Memo: &lt;CLGR&gt;(Puniballs)&lt;CLNR&gt;",
-      "translation": "Давайте &lt;CLGR&gt;соберём&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Пуниболлы)&lt;CLNR&gt;"
+      "translation": "Давайте &lt;CLGR&gt;соберём&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Пунибол)&lt;CLNR&gt;"
     },
     "pack02:2424948": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424948",
       "original": "Pursue the perfect &lt;CLGR&gt;Honey Syrup&lt;CLNR&gt;.&lt;CR&gt;Trait: &lt;CLGR&gt;Uses +1&lt;CLNR&gt;",
-      "translation": "Найдите идеальный &lt;CLGR&gt;Медовый сироп&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Использует +1&lt;CLNR&gt;"
+      "translation": "Найдите идеальный &lt;CLGR&gt;Медовый сироп&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Использований +1&lt;CLNR&gt;"
     },
     "pack02:2424949": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424949",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Honey&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Милая&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Мёд&lt;CLNR&gt;"
     },
     "pack02:2424950": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424950",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;Leiden Ore&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Лейденская руда&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Лейден-руда&lt;CLNR&gt;"
     },
     "pack02:2424951": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424951",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Leiden Ore&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Лейденская руда&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Лейден-руда&lt;CLNR&gt;"
     },
     "pack02:2424952": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424952",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Leiden Ore&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Лейденская руда&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Лейден-руда&lt;CLNR&gt;"
     },
     "pack02:2424953": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424953",
       "original": "Let's &lt;CLGR&gt;collect&lt;CLNR&gt; something new.&lt;CR&gt;Memo: &lt;CLGR&gt;Beast Meat&lt;CLNR&gt;",
-      "translation": "Давайте &lt;CLGR&gt;соберем&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Мясо зверя&lt;CLNR&gt;"
+      "translation": "Давайте &lt;CLGR&gt;соберем&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Мясо животного&lt;CLNR&gt;"
     },
     "pack02:2424954": {
       "source": "pack02_text_en",
@@ -206988,28 +206988,28 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424955",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Tough Bone&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Крепкая кость&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Прочная кость&lt;CLNR&gt;"
     },
     "pack02:2424956": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424956",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;Golden Rock&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Золотая скала&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Златокамень&lt;CLNR&gt;"
     },
     "pack02:2424957": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424957",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Golden Rock&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Золотая скала&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Златокамень&lt;CLNR&gt;"
     },
     "pack02:2424958": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424958",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Golden Rock&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Золотая скала&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Златокамень&lt;CLNR&gt;"
     },
     "pack02:2424959": {
       "source": "pack02_text_en",
@@ -207023,14 +207023,14 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424960",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Steel Balls&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Стальные шары&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Камень тамахагане&lt;CLNR&gt;"
     },
     "pack02:2424961": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424961",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Steel Balls&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Стальные шары&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Камень тамахагане&lt;CLNR&gt;"
     },
     "pack02:2424962": {
       "source": "pack02_text_en",
@@ -207086,7 +207086,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424969",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;(Medicine)&lt;CLNR&gt;",
-      "translation": "В качестве вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Медицина)&lt;CLNR&gt;"
+      "translation": "В качестве вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Лекарство)&lt;CLNR&gt;"
     },
     "pack02:2424970": {
       "source": "pack02_text_en",
@@ -207100,7 +207100,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424971",
       "original": "Pursue the perfect &lt;CLGR&gt;Alchemic Clay&lt;CLNR&gt;.&lt;CR&gt;Trait: &lt;CLGR&gt;Enhance Attack&lt;CLNR&gt;",
-      "translation": "Найдите идеальную &lt;CLGR&gt;Алхимическую глину&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Усиление атаки&lt;CLNR&gt;"
+      "translation": "Найдите идеальную &lt;CLGR&gt;Алхимическая глина&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Усиление атаки&lt;CLNR&gt;"
     },
     "pack02:2424972": {
       "source": "pack02_text_en",
@@ -207233,14 +207233,14 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424990",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Black Tree Stone&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Камень чёрного дерева&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Древесный камень&lt;CLNR&gt;"
     },
     "pack02:2424991": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424991",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Black Tree Stone&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Камень чёрного дерева&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Древесный камень&lt;CLNR&gt;"
     },
     "pack02:2424992": {
       "source": "pack02_text_en",
@@ -207268,7 +207268,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424995",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;Darkshroom&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Тёмный Гриб&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Мрачногриб&lt;CLNR&gt;"
     },
     "pack02:2424996": {
       "source": "pack02_text_en",
@@ -207289,77 +207289,77 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424998",
       "original": "Let's &lt;CLGR&gt;collect&lt;CLNR&gt; something new.&lt;CR&gt;Memo: &lt;CLGR&gt;Shiny Crystal Fragments&lt;CLNR&gt;",
-      "translation": "Давайте &lt;CLGR&gt;соберем&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Блестящие фрагменты кристалла&lt;CLNR&gt;"
+      "translation": "Давайте &lt;CLGR&gt;соберем&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Осколки сияющего кристалла&lt;CLNR&gt;"
     },
     "pack02:2424999": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424999",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Shiny Crystal Fragments&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Блестящие фрагменты кристаллов&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Осколки сияющего кристалла&lt;CLNR&gt;"
     },
     "pack02:2425000": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425000",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Shiny Crystal Fragments&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Блестящие фрагменты кристаллов&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Осколки сияющего кристалла&lt;CLNR&gt;"
     },
     "pack02:2425001": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425001",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;Leaf Pattern Fragments&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Фрагменты узора листьев&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Осколки листового узора&lt;CLNR&gt;"
     },
     "pack02:2425002": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425002",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Leaf Pattern Fragments&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Фрагменты узора листьев&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Осколки листового узора&lt;CLNR&gt;"
     },
     "pack02:2425003": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425003",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Leaf Pattern Fragments&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Фрагменты узора листьев&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Осколки листового узора&lt;CLNR&gt;"
     },
     "pack02:2425004": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425004",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;Nectar Fruit&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Плодовый нектар&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Нектарный фрукт&lt;CLNR&gt;"
     },
     "pack02:2425005": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425005",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Nectar Fruit&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Фруктовый нектар&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Нектарный фрукт&lt;CLNR&gt;"
     },
     "pack02:2425006": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425006",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Nectar Fruit&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Фруктовый нектар&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Нектарный фрукт&lt;CLNR&gt;"
     },
     "pack02:2425007": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425007",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;(Poison Materials)&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Ядовитые материалы)&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Ядовитый мат.)&lt;CLNR&gt;"
     },
     "pack02:2425008": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425008",
       "original": "Pursue the perfect &lt;CLGR&gt;Yellow Neutralizer&lt;CLNR&gt;.&lt;CR&gt;Trait: &lt;CLGR&gt;Fixed Recovery&lt;CLNR&gt;",
-      "translation": "Найдите идеальный &lt;CLGR&gt;Желтый нейтрализатор&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Фиксированное восстановление&lt;CLNR&gt;"
+      "translation": "Найдите идеальный &lt;CLGR&gt;Жёлтый нейтрализатор&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Фикс-е восстановление&lt;CLNR&gt;"
     },
     "pack02:2425009": {
       "source": "pack02_text_en",
@@ -207373,7 +207373,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425010",
       "original": "Pursue the perfect &lt;CLGR&gt;Bomb&lt;CLNR&gt;.&lt;CR&gt;Effect: &lt;CLGR&gt;Fire Damage L&lt;CLNR&gt;",
-      "translation": "Преследуйте идеальную &lt;CLGR&gt;Бомбу&lt;CLNR&gt;.&lt;CR&gt;Эффект: &lt;CLGR&gt;Урон от огня L&lt;CLNR&gt;"
+      "translation": "Преследуйте идеальную &lt;CLGR&gt;Бомба&lt;CLNR&gt;.&lt;CR&gt;Эффект: &lt;CLGR&gt;Атака огнём L&lt;CLNR&gt;"
     },
     "pack02:2425011": {
       "source": "pack02_text_en",
@@ -207394,28 +207394,28 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425013",
       "original": "Let's &lt;CLGR&gt;collect&lt;CLNR&gt; something new.&lt;CR&gt;Memo: &lt;CLGR&gt;Surging Hell Fire Fragments&lt;CLNR&gt;",
-      "translation": "Давайте &lt;CLGR&gt;соберём&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Быстрые фрагменты адского огня&lt;CLNR&gt;"
+      "translation": "Давайте &lt;CLGR&gt;соберём&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Осколки бушующего адского пламени&lt;CLNR&gt;"
     },
     "pack02:2425014": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425014",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Surging Hell Fire Fragments&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Быстрые фрагменты адского огня&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Осколки бушующего адского пламени&lt;CLNR&gt;"
     },
     "pack02:2425015": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425015",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Surging Hell Fire Fragments&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Быстрые фрагменты адского огня&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Осколки бушующего адского пламени&lt;CLNR&gt;"
     },
     "pack02:2425016": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425016",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;(Wood)&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Дерево)&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Древесина)&lt;CLNR&gt;"
     },
     "pack02:2425017": {
       "source": "pack02_text_en",
@@ -207436,49 +207436,49 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425019",
       "original": "Let's &lt;CLGR&gt;collect&lt;CLNR&gt; something new.&lt;CR&gt;Memo: &lt;CLGR&gt;(Insects)&lt;CLNR&gt;",
-      "translation": "Давайте &lt;CLGR&gt;соберём&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Насекомые)&lt;CLNR&gt;"
+      "translation": "Давайте &lt;CLGR&gt;соберём&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Насекомое)&lt;CLNR&gt;"
     },
     "pack02:2425020": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425020",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;(Insects)&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Насекомые)&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Насекомое)&lt;CLNR&gt;"
     },
     "pack02:2425021": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425021",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;(Insects)&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Насекомые)&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Насекомое)&lt;CLNR&gt;"
     },
     "pack02:2425022": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425022",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Leather&lt;CLNR&gt;",
-      "translation": "В качестве вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Кожа&lt;CLNR&gt;"
+      "translation": "В качестве вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Дублёная кожа&lt;CLNR&gt;"
     },
     "pack02:2425023": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425023",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Leather&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Кожа&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Дублёная кожа&lt;CLNR&gt;"
     },
     "pack02:2425024": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425024",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Leather&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Кожа&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Дублёная кожа&lt;CLNR&gt;"
     },
     "pack02:2425025": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425025",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;Kupfer Ore&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Купферская руда&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Купфер-руда&lt;CLNR&gt;"
     },
     "pack02:2425026": {
       "source": "pack02_text_en",
@@ -207499,28 +207499,28 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425028",
       "original": "Pursue the perfect &lt;CLGR&gt;Raw Diamonds&lt;CLNR&gt;.&lt;CR&gt;Trait: &lt;CLGR&gt;Increase HPMP&lt;CLNR&gt;",
-      "translation": "Добивайтесь идеальных &lt;CLGR&gt;Необработанных алмазов&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Увеличение HPMP&lt;CLNR&gt;"
+      "translation": "Добивайтесь идеальных &lt;CLGR&gt;Сырой алмаз&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Увеличение ОЗ и ОМ&lt;CLNR&gt;"
     },
     "pack02:2425029": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425029",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Raw Diamonds&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Необработанные алмазы&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Сырой алмаз&lt;CLNR&gt;"
     },
     "pack02:2425030": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425030",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Raw Diamonds&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Необработанные алмазы&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Сырой алмаз&lt;CLNR&gt;"
     },
     "pack02:2425031": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425031",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;Gravistone&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Гравистон&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Гравикамень&lt;CLNR&gt;"
     },
     "pack02:2425032": {
       "source": "pack02_text_en",
@@ -207548,14 +207548,14 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425035",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Raw Smaragd&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Сырой Смарагд&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Сырой смарагд&lt;CLNR&gt;"
     },
     "pack02:2425036": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425036",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Raw Smaragd&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Сырой Смарагд&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Сырой смарагд&lt;CLNR&gt;"
     },
     "pack02:2425037": {
       "source": "pack02_text_en",
@@ -207569,14 +207569,14 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425038",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Raw Sapphire&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Необработанный сапфир&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Сырой сапфир&lt;CLNR&gt;"
     },
     "pack02:2425039": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425039",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Raw Sapphire&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Необработанный сапфир&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Сырой сапфир&lt;CLNR&gt;"
     },
     "pack02:2425040": {
       "source": "pack02_text_en",
@@ -207590,105 +207590,105 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425041",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Raw Ruby&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Необработанный рубин&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Сырой рубин&lt;CLNR&gt;"
     },
     "pack02:2425042": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425042",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Raw Ruby&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Необработанный рубин&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Сырой рубин&lt;CLNR&gt;"
     },
     "pack02:2425043": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425043",
       "original": "Let's &lt;CLGR&gt;collect&lt;CLNR&gt; something new.&lt;CR&gt;Memo: &lt;CLGR&gt;Ancient Frost Fragments&lt;CLNR&gt;",
-      "translation": "Давайте &lt;CLGR&gt;соберём&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Древние Морозные Фрагменты&lt;CLNR&gt;"
+      "translation": "Давайте &lt;CLGR&gt;соберём&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Осколки вечного мороза&lt;CLNR&gt;"
     },
     "pack02:2425044": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425044",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Ancient Frost Fragments&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Древние ледяные фрагменты&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Осколки вечного мороза&lt;CLNR&gt;"
     },
     "pack02:2425045": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425045",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Ancient Frost Fragments&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Древние ледяные фрагменты&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Осколки вечного мороза&lt;CLNR&gt;"
     },
     "pack02:2425046": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425046",
       "original": "Pursue the perfect &lt;CLGR&gt;Pure Aroma&lt;CLNR&gt;.&lt;CR&gt;Trait: &lt;CLGR&gt;Area Bonus&lt;CLNR&gt;",
-      "translation": "Стремитесь к идеальному &lt;CLGR&gt;Чистому аромату&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Бонус области&lt;CLNR&gt;"
+      "translation": "Стремитесь к идеальному &lt;CLGR&gt;Чистая свеча&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Бонус от радиуса дейст.&lt;CLNR&gt;"
     },
     "pack02:2425047": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425047",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Pure Aroma&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Чистый аромат&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Чистая свеча&lt;CLNR&gt;"
     },
     "pack02:2425048": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425048",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Pure Aroma&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Чистый аромат&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Чистая свеча&lt;CLNR&gt;"
     },
     "pack02:2425049": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425049",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;Eternal Ice&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Вечный лед&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Вечный лёд&lt;CLNR&gt;"
     },
     "pack02:2425050": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425050",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Eternal Ice&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Вечный лед&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Вечный лёд&lt;CLNR&gt;"
     },
     "pack02:2425051": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425051",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Eternal Ice&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Вечный лед&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Вечный лёд&lt;CLNR&gt;"
     },
     "pack02:2425052": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425052",
       "original": "Pursue the perfect &lt;CLGR&gt;Ori Bomb&lt;CLNR&gt;.&lt;CR&gt;Effect: &lt;CLGR&gt;Pinpoint Flare&lt;CLNR&gt;",
-      "translation": "Преследуйте идеальную &lt;CLGR&gt;Ори-бомбу&lt;CLNR&gt;.&lt;CR&gt;Эффект: &lt;CLGR&gt;Точная вспышка&lt;CLNR&gt;"
+      "translation": "Преследуйте идеальную &lt;CLGR&gt;Ори бомба&lt;CLNR&gt;.&lt;CR&gt;Эффект: &lt;CLGR&gt;Точечная вспышка&lt;CLNR&gt;"
     },
     "pack02:2425053": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425053",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Ori Bomb&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Ори Бомба&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Ори бомба&lt;CLNR&gt;"
     },
     "pack02:2425054": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425054",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Ori Bomb&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Ори Бомба&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Ори бомба&lt;CLNR&gt;"
     },
     "pack02:2425055": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425055",
       "original": "Pursue the perfect &lt;CLGR&gt;Fishing Rod&lt;CLNR&gt;.&lt;CR&gt;Trait: &lt;CLGR&gt;High Class&lt;CLNR&gt;",
-      "translation": "Найдите идеальную &lt;CLGR&gt;Удочку&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Высокий класс&lt;CLNR&gt;"
+      "translation": "Найдите идеальную &lt;CLGR&gt;Удочка&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Роскошный предмет&lt;CLNR&gt;"
     },
     "pack02:2425056": {
       "source": "pack02_text_en",
@@ -207709,63 +207709,63 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425058",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;Eisen Ore&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Эйзенская руда&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Айзен-руда&lt;CLNR&gt;"
     },
     "pack02:2425059": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425059",
       "original": "Pursue the perfect &lt;CLGR&gt;Silvalia&lt;CLNR&gt;.&lt;CR&gt;Trait: &lt;CLGR&gt;High Class&lt;CLNR&gt;",
-      "translation": "Преследуйте идеальную &lt;CLGR&gt;Сильвалию&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Высокий класс&lt;CLNR&gt;"
+      "translation": "Преследуйте идеальную &lt;CLGR&gt;Серебрия&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Роскошный предмет&lt;CLNR&gt;"
     },
     "pack02:2425060": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425060",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Silvalia&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Сильвалия&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Серебрия&lt;CLNR&gt;"
     },
     "pack02:2425061": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425061",
       "original": "Let's &lt;CLGR&gt;collect&lt;CLNR&gt; something new.&lt;CR&gt;Memo: &lt;CLGR&gt;Monster Bird Feather&lt;CLNR&gt;",
-      "translation": "Давайте &lt;CLGR&gt;соберем&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Перо птицы-монстра&lt;CLNR&gt;"
+      "translation": "Давайте &lt;CLGR&gt;соберем&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Перо чудо-птицы&lt;CLNR&gt;"
     },
     "pack02:2425062": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425062",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Monster Bird Feather&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Перо птицы-монстра&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Перо чудо-птицы&lt;CLNR&gt;"
     },
     "pack02:2425063": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425063",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Monster Bird Feather&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Перо птицы-монстра&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Перо чудо-птицы&lt;CLNR&gt;"
     },
     "pack02:2425064": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425064",
       "original": "Pursue the perfect &lt;CLGR&gt;Leather&lt;CLNR&gt;.&lt;CR&gt;Trait: &lt;CLGR&gt;Fast Use +&lt;CLNR&gt;",
-      "translation": "Добивайтесь идеальной &lt;CLGR&gt;Кожи&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Быстрое использование +&lt;CLNR&gt;"
+      "translation": "Добивайтесь идеальной &lt;CLGR&gt;Дублёная кожа&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Быстрое использование +&lt;CLNR&gt;"
     },
     "pack02:2425065": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425065",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Leather&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Кожа&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Дублёная кожа&lt;CLNR&gt;"
     },
     "pack02:2425066": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425066",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Leather&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Кожа&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Дублёная кожа&lt;CLNR&gt;"
     },
     "pack02:2425067": {
       "source": "pack02_text_en",
@@ -207779,14 +207779,14 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425068",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Pendant Rock&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Подвеска-камень&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Подвесной камень&lt;CLNR&gt;"
     },
     "pack02:2425069": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425069",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Pendant Rock&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Подвеска-камень&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Подвесной камень&lt;CLNR&gt;"
     },
     "pack02:2425070": {
       "source": "pack02_text_en",
@@ -207821,14 +207821,14 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425074",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;(Gems)&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Драгоценные камни)&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Самоцвет)&lt;CLNR&gt;"
     },
     "pack02:2425075": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425075",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;(Gems)&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Драгоценные камни)&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;(Самоцвет)&lt;CLNR&gt;"
     },
     "pack02:2425076": {
       "source": "pack02_text_en",
@@ -207863,77 +207863,77 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425080",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Raw Diamonds&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Необработанные алмазы&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Сырой алмаз&lt;CLNR&gt;"
     },
     "pack02:2425081": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425081",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Raw Diamonds&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Необработанные алмазы&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Сырой алмаз&lt;CLNR&gt;"
     },
     "pack02:2425082": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425082",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Fairy Dust Bag&lt;CLNR&gt;",
-      "translation": "В качестве вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Мешок для пыли Феи&lt;CLNR&gt;"
+      "translation": "В качестве вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Мешочек с феей-пылью&lt;CLNR&gt;"
     },
     "pack02:2425083": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425083",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Fairy Dust Bag&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Мешок для пыли Феи&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Мешочек с феей-пылью&lt;CLNR&gt;"
     },
     "pack02:2425084": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425084",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Fairy Dust Bag&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Мешок для пыли Феи&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Мешочек с феей-пылью&lt;CLNR&gt;"
     },
     "pack02:2425085": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425085",
       "original": "Pursue the perfect &lt;CLGR&gt;Leather&lt;CLNR&gt;.&lt;CR&gt;Trait: &lt;CLGR&gt;Full of Life&lt;CLNR&gt;",
-      "translation": "Добивайтесь идеальной &lt;CLGR&gt;Кожи&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Полна жизни&lt;CLNR&gt;"
+      "translation": "Добивайтесь идеальной &lt;CLGR&gt;Дублёная кожа&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Полнота жизни&lt;CLNR&gt;"
     },
     "pack02:2425086": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425086",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Leather&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Кожа&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Дублёная кожа&lt;CLNR&gt;"
     },
     "pack02:2425087": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425087",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Leather&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Кожа&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Дублёная кожа&lt;CLNR&gt;"
     },
     "pack02:2425088": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425088",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Luft&lt;CLNR&gt;",
-      "translation": "В качестве вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Люфт&lt;CLNR&gt;"
+      "translation": "В качестве вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Луфт&lt;CLNR&gt;"
     },
     "pack02:2425089": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425089",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Luft&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Люфт&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Луфт&lt;CLNR&gt;"
     },
     "pack02:2425090": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425090",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Luft&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Люфт&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Луфт&lt;CLNR&gt;"
     },
     "pack02:2425091": {
       "source": "pack02_text_en",
@@ -207982,28 +207982,28 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425097",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;Tall Taun&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Высокий Таун&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Высокий Тоон&lt;CLNR&gt;"
     },
     "pack02:2425098": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425098",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Tall Taun&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Высокий Таун&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Высокий Тоон&lt;CLNR&gt;"
     },
     "pack02:2425099": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425099",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Tall Taun&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Высокий Таун&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Высокий Тоон&lt;CLNR&gt;"
     },
     "pack02:2425100": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425100",
       "original": "Pursue the perfect &lt;CLGR&gt;Honey Syrup&lt;CLNR&gt;.&lt;CR&gt;Trait: &lt;CLGR&gt;Great Recovery&lt;CLNR&gt;",
-      "translation": "Добейтесь идеального &lt;CLGR&gt;Медового сиропа&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Великое восстановление&lt;CLNR&gt;"
+      "translation": "Добейтесь идеального &lt;CLGR&gt;Медовый сироп&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Большое восстановление&lt;CLNR&gt;"
     },
     "pack02:2425101": {
       "source": "pack02_text_en",
@@ -208024,35 +208024,35 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425103",
       "original": "Let's &lt;CLGR&gt;collect&lt;CLNR&gt; something new.&lt;CR&gt;Memo: &lt;CLGR&gt;Coin Pattern Fragments&lt;CLNR&gt;",
-      "translation": "Давайте &lt;CLGR&gt;соберем&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Фрагменты узора монет&lt;CLNR&gt;"
+      "translation": "Давайте &lt;CLGR&gt;соберем&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Осколки с монетным узором&lt;CLNR&gt;"
     },
     "pack02:2425104": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425104",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Coin Pattern Fragments&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Фрагменты узора монет&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Осколки с монетным узором&lt;CLNR&gt;"
     },
     "pack02:2425105": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425105",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Coin Pattern Fragments&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Фрагменты узора монет&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Осколки с монетным узором&lt;CLNR&gt;"
     },
     "pack02:2425106": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425106",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;(Seafood)&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Морепродукты)&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Морепродукт)&lt;CLNR&gt;"
     },
     "pack02:2425107": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425107",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;(Medical Materials)&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Медицинские материалы)&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Лекарств. мат.)&lt;CLNR&gt;"
     },
     "pack02:2425108": {
       "source": "pack02_text_en",
@@ -208066,28 +208066,28 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425109",
       "original": "Pursue the perfect &lt;CLGR&gt;Lightning Bomb&lt;CLNR&gt;.&lt;CR&gt;Effect: &lt;CLGR&gt;Slightly Slow Movement&lt;CLNR&gt;",
-      "translation": "Преследуйте идеальную &lt;CLGR&gt;Бомбу-молнию&lt;CLNR&gt;.&lt;CR&gt;Эффект: &lt;CLGR&gt;Слегка замедленное движение&lt;CLNR&gt;"
+      "translation": "Преследуйте идеальную &lt;CLGR&gt;Молниевая бомба&lt;CLNR&gt;.&lt;CR&gt;Эффект: &lt;CLGR&gt;Небольшая задержка&lt;CLNR&gt;"
     },
     "pack02:2425110": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425110",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Lightning Bomb&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Бомба-молния&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Молниевая бомба&lt;CLNR&gt;"
     },
     "pack02:2425111": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425111",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Lightning Bomb&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Бомба-молния&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Молниевая бомба&lt;CLNR&gt;"
     },
     "pack02:2425112": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425112",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Mining Bomb&lt;CLNR&gt;",
-      "translation": "В качестве вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Горная бомба&lt;CLNR&gt;"
+      "translation": "В качестве вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Шахтёрская бомба&lt;CLNR&gt;"
     },
     "pack02:2425113": {
       "source": "pack02_text_en",
@@ -208108,7 +208108,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425115",
       "original": "Let's &lt;CLGR&gt;collect&lt;CLNR&gt; something new.&lt;CR&gt;Memo: &lt;CLGR&gt;Big Scale&lt;CLNR&gt;",
-      "translation": "Давайте &lt;CLGR&gt;соберем&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Большие масштабы&lt;CLNR&gt;"
+      "translation": "Давайте &lt;CLGR&gt;соберем&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Большая чешуя&lt;CLNR&gt;"
     },
     "pack02:2425116": {
       "source": "pack02_text_en",
@@ -208136,14 +208136,14 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425119",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Gold Eisen&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Золотой Эйзен&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Гольт-айзен&lt;CLNR&gt;"
     },
     "pack02:2425120": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425120",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Gold Eisen&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Золотой Эйзен&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Гольт-айзен&lt;CLNR&gt;"
     },
     "pack02:2425121": {
       "source": "pack02_text_en",
@@ -208234,91 +208234,91 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425133",
       "original": "Let's &lt;CLGR&gt;collect&lt;CLNR&gt; something new.&lt;CR&gt;Memo: &lt;CLGR&gt;Dragon Scale&lt;CLNR&gt;",
-      "translation": "Давайте &lt;CLGR&gt;соберем&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Чешуйка Дракона&lt;CLNR&gt;"
+      "translation": "Давайте &lt;CLGR&gt;соберем&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Чешуя дракона&lt;CLNR&gt;"
     },
     "pack02:2425134": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425134",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Dragon Scale&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Чешуйка Дракона&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Чешуя дракона&lt;CLNR&gt;"
     },
     "pack02:2425135": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425135",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Dragon Scale&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Чешуйка Дракона&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Чешуя дракона&lt;CLNR&gt;"
     },
     "pack02:2425136": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425136",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;Golden Tree Leaf&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Лист золотого дерева&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Листок золотого дерева&lt;CLNR&gt;"
     },
     "pack02:2425137": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425137",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Golden Tree Leaf&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Лист золотого дерева&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Листок золотого дерева&lt;CLNR&gt;"
     },
     "pack02:2425138": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425138",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Golden Tree Leaf&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Лист золотого дерева&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Листок золотого дерева&lt;CLNR&gt;"
     },
     "pack02:2425139": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425139",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;Ertona Crystal&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Кристалл Эртона&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Эртонский кристалл&lt;CLNR&gt;"
     },
     "pack02:2425140": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425140",
       "original": "Pursue the perfect &lt;CLGR&gt;Stahl Ice Bomb&lt;CLNR&gt;.&lt;CR&gt;Effect: &lt;CLGR&gt;Speed Down M&lt;CLNR&gt;",
-      "translation": "Преследуйте идеальную &lt;CLGR&gt;Ледяную бомбу Шталь&lt;CLNR&gt;.&lt;CR&gt;Эффект: &lt;CLGR&gt;Снижение скорости M&lt;CLNR&gt;"
+      "translation": "Преследуйте идеальную &lt;CLGR&gt;Шталевая ледобомба&lt;CLNR&gt;.&lt;CR&gt;Эффект: &lt;CLGR&gt;Скорость ↓ M&lt;CLNR&gt;"
     },
     "pack02:2425141": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425141",
       "original": "Pursue the perfect &lt;CLGR&gt;Eisen Luft&lt;CLNR&gt;.&lt;CR&gt;Effect: &lt;CLGR&gt;Erase Enhancements&lt;CLNR&gt;",
-      "translation": "Добивайтесь идеального &lt;CLGR&gt;Люфт-айзен&lt;CLNR&gt;.&lt;CR&gt;Эффект: &lt;CLGR&gt;Стереть улучшения&lt;CLNR&gt;"
+      "translation": "Добивайтесь идеального &lt;CLGR&gt;Люфт-айзен&lt;CLNR&gt;.&lt;CR&gt;Эффект: &lt;CLGR&gt;Снятие усилений+&lt;CLNR&gt;"
     },
     "pack02:2425142": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425142",
       "original": "Pursue the perfect &lt;CLGR&gt;Apcol&lt;CLNR&gt;.&lt;CR&gt;Trait: &lt;CLGR&gt;Boost Count +&lt;CLNR&gt;",
-      "translation": "Добивайтесь идеального &lt;CLGR&gt;Апкол&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Счетчик усиления +&lt;CLNR&gt;"
+      "translation": "Добивайтесь идеального &lt;CLGR&gt;Апкол&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Повышение от числа исп. +&lt;CLNR&gt;"
     },
     "pack02:2425143": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425143",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Honey&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Милая&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Мёд&lt;CLNR&gt;"
     },
     "pack02:2425144": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425144",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Honey&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Милая&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Мёд&lt;CLNR&gt;"
     },
     "pack02:2425145": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425145",
       "original": "Let's &lt;CLGR&gt;collect&lt;CLNR&gt; something new.&lt;CR&gt;Memo: &lt;CLGR&gt;Spiral Fragments&lt;CLNR&gt;",
-      "translation": "Давайте &lt;CLGR&gt;соберем&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Спиральные фрагменты&lt;CLNR&gt;"
+      "translation": "Давайте &lt;CLGR&gt;соберем&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Спиральные осколки&lt;CLNR&gt;"
     },
     "pack02:2425146": {
       "source": "pack02_text_en",
@@ -208332,49 +208332,49 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425147",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Gravistone&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Гравистон&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Гравикамень&lt;CLNR&gt;"
     },
     "pack02:2425148": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425148",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;Ertona Crystal&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Кристалл Эртона&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Эртонский кристалл&lt;CLNR&gt;"
     },
     "pack02:2425149": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425149",
       "original": "Pursue the perfect &lt;CLGR&gt;Ori Bomb&lt;CLNR&gt;.&lt;CR&gt;Effect: &lt;CLGR&gt;Defense Down S&lt;CLNR&gt;",
-      "translation": "Преследуйте идеальную &lt;CLGR&gt;Ори-бомбу&lt;CLNR&gt;.&lt;CR&gt;Эффект: &lt;CLGR&gt;Защита вниз S&lt;CLNR&gt;"
+      "translation": "Преследуйте идеальную &lt;CLGR&gt;Ори бомба&lt;CLNR&gt;.&lt;CR&gt;Эффект: &lt;CLGR&gt;Защита ↓ S&lt;CLNR&gt;"
     },
     "pack02:2425150": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425150",
       "original": "Pursue the perfect &lt;CLGR&gt;Lightning Crystal&lt;CLNR&gt;.&lt;CR&gt;Effect: &lt;CLGR&gt;Activate Split&lt;CLNR&gt;",
-      "translation": "Преследуйте идеальный &lt;CLGR&gt;Кристалл молнии&lt;CLNR&gt;.&lt;CR&gt;Эффект: &lt;CLGR&gt;Активировать раскол&lt;CLNR&gt;"
+      "translation": "Преследуйте идеальный &lt;CLGR&gt;Молникристалл&lt;CLNR&gt;.&lt;CR&gt;Эффект: &lt;CLGR&gt;Ещё раз&lt;CLNR&gt;"
     },
     "pack02:2425151": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425151",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;(Magic Tools)&lt;CLNR&gt;",
-      "translation": "В качестве вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Магические инструменты)&lt;CLNR&gt;"
+      "translation": "В качестве вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Магич. инструм.)&lt;CLNR&gt;"
     },
     "pack02:2425152": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425152",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Golden Tree Leaf&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Лист золотого дерева&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Листок золотого дерева&lt;CLNR&gt;"
     },
     "pack02:2425153": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425153",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Golden Tree Leaf&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Лист золотого дерева&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Листок золотого дерева&lt;CLNR&gt;"
     },
     "pack02:2425154": {
       "source": "pack02_text_en",
@@ -208409,14 +208409,14 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425158",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Multicolor Dye&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Многоцветная краска&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Многоцветный краситель&lt;CLNR&gt;"
     },
     "pack02:2425159": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425159",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Multicolor Dye&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Многоцветная краска&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Многоцветный краситель&lt;CLNR&gt;"
     },
     "pack02:2425160": {
       "source": "pack02_text_en",
@@ -208430,14 +208430,14 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425161",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Zapping Water&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Быстрая вода&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Электровода&lt;CLNR&gt;"
     },
     "pack02:2425162": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425162",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Zapping Water&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Быстрая вода&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Электровода&lt;CLNR&gt;"
     },
     "pack02:2425163": {
       "source": "pack02_text_en",
@@ -208465,7 +208465,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425166",
       "original": "Pursue the perfect &lt;CLGR&gt;Gold Eisen&lt;CLNR&gt;.&lt;CR&gt;Trait: &lt;CLGR&gt;Magician’s Wisdom&lt;CLNR&gt;",
-      "translation": "Добивайтесь идеального &lt;CLGR&gt;Золотого Эйзена&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Мудрость волшебника&lt;CLNR&gt;"
+      "translation": "Добивайтесь идеального &lt;CLGR&gt;Гольт-айзен&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Мудрость волшебника&lt;CLNR&gt;"
     },
     "pack02:2425167": {
       "source": "pack02_text_en",
@@ -208556,14 +208556,14 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425179",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Golden Rock&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Золотая скала&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Златокамень&lt;CLNR&gt;"
     },
     "pack02:2425180": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425180",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Golden Rock&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Золотая скала&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Златокамень&lt;CLNR&gt;"
     },
     "pack02:2425181": {
       "source": "pack02_text_en",
@@ -208577,14 +208577,14 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425182",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Distilled Water&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Дистиллированная вода&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Очищенная вода&lt;CLNR&gt;"
     },
     "pack02:2425183": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425183",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Distilled Water&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Дистиллированная вода&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Очищенная вода&lt;CLNR&gt;"
     },
     "pack02:2425184": {
       "source": "pack02_text_en",
@@ -208598,35 +208598,35 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425185",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Globe Ball&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Глобусный шар&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Шар глобуса&lt;CLNR&gt;"
     },
     "pack02:2425186": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425186",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Globe Ball&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Глобусный шар&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Шар глобуса&lt;CLNR&gt;"
     },
     "pack02:2425187": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425187",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;Star Powder Water&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Звездная порошковая вода&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Звёздная порошковая вода&lt;CLNR&gt;"
     },
     "pack02:2425188": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425188",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Star Powder Water&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Звездная порошковая вода&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Звёздная порошковая вода&lt;CLNR&gt;"
     },
     "pack02:2425189": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425189",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Star Powder Water&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Звездная порошковая вода&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Звёздная порошковая вода&lt;CLNR&gt;"
     },
     "pack02:2425190": {
       "source": "pack02_text_en",
@@ -208661,98 +208661,98 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425194",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Blue Crystal&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Синий кристалл&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Лазурный кристалл&lt;CLNR&gt;"
     },
     "pack02:2425195": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425195",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Blue Crystal&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Синий кристалл&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Лазурный кристалл&lt;CLNR&gt;"
     },
     "pack02:2425196": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425196",
       "original": "Let's &lt;CLGR&gt;collect&lt;CLNR&gt; something new.&lt;CR&gt;Memo: &lt;CLGR&gt;Colorful Garden Fragments&lt;CLNR&gt;",
-      "translation": "Давайте &lt;CLGR&gt;соберем&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Разноцветные фрагменты сада&lt;CLNR&gt;"
+      "translation": "Давайте &lt;CLGR&gt;соберем&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Осколки красочного сада&lt;CLNR&gt;"
     },
     "pack02:2425197": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425197",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Multicolor Dye&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Многоцветная краска&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Многоцветный краситель&lt;CLNR&gt;"
     },
     "pack02:2425198": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425198",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Multicolor Dye&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Многоцветная краска&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Многоцветный краситель&lt;CLNR&gt;"
     },
     "pack02:2425199": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425199",
       "original": "Let's &lt;CLGR&gt;collect&lt;CLNR&gt; something new.&lt;CR&gt;Memo: &lt;CLGR&gt;Dragon Bloodstone&lt;CLNR&gt;",
-      "translation": "Давайте &lt;CLGR&gt;соберём&lt;CLNR&gt; что-нибудь новенькое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Драконий Кровавый Камень&lt;CLNR&gt;"
+      "translation": "Давайте &lt;CLGR&gt;соберём&lt;CLNR&gt; что-нибудь новенькое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Драконий кровекристалл&lt;CLNR&gt;"
     },
     "pack02:2425200": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425200",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Dragon Bloodstone&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Драконий Кровавый Камень&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Драконий кровекристалл&lt;CLNR&gt;"
     },
     "pack02:2425201": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425201",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Dragon Bloodstone&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Драконий Кровавый Камень&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Драконий кровекристалл&lt;CLNR&gt;"
     },
     "pack02:2425202": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425202",
       "original": "Pursue the perfect &lt;CLGR&gt;Diamonds&lt;CLNR&gt;.&lt;CR&gt;Trait: &lt;CLGR&gt;Final Blow&lt;CLNR&gt;",
-      "translation": "Преследуйте идеальные &lt;CLGR&gt;Бриллианты&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Последний удар&lt;CLNR&gt;"
+      "translation": "Преследуйте идеальные &lt;CLGR&gt;Алмазы&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Финальный удар&lt;CLNR&gt;"
     },
     "pack02:2425203": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425203",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Diamonds&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Бриллианты&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Алмазы&lt;CLNR&gt;"
     },
     "pack02:2425204": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425204",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Diamonds&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Бриллианты&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Алмазы&lt;CLNR&gt;"
     },
     "pack02:2425205": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425205",
       "original": "Let's &lt;CLGR&gt;collect&lt;CLNR&gt; something new.&lt;CR&gt;Memo: &lt;CLGR&gt;Horn&lt;CLNR&gt;",
-      "translation": "Давайте &lt;CLGR&gt;соберём&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Рога&lt;CLNR&gt;"
+      "translation": "Давайте &lt;CLGR&gt;соберём&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Рог&lt;CLNR&gt;"
     },
     "pack02:2425206": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425206",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Horn&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Горн&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Рог&lt;CLNR&gt;"
     },
     "pack02:2425207": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425207",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Horn&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Горн&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Рог&lt;CLNR&gt;"
     },
     "pack02:2425208": {
       "source": "pack02_text_en",
@@ -208780,21 +208780,21 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425211",
       "original": "Pursue the perfect &lt;CLGR&gt;High Grade Rod&lt;CLNR&gt;.&lt;CR&gt;Trait: &lt;CLGR&gt;Rare Item&lt;CLNR&gt;",
-      "translation": "Найдите идеальный &lt;CLGR&gt;Жезл высокого качества&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Редкий предмет&lt;CLNR&gt;"
+      "translation": "Найдите идеальный &lt;CLGR&gt;Качественная удочка&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Редкий предмет&lt;CLNR&gt;"
     },
     "pack02:2425212": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425212",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;High Grade Rod&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Жезл высокого качества&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Качественная удочка&lt;CLNR&gt;"
     },
     "pack02:2425213": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425213",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;High Grade Rod&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Жезл высокого качества&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Качественная удочка&lt;CLNR&gt;"
     },
     "pack02:2425214": {
       "source": "pack02_text_en",
@@ -208822,7 +208822,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425217",
       "original": "Pursue the perfect &lt;CLGR&gt;Harmonium&lt;CLNR&gt;.&lt;CR&gt;Trait: &lt;CLGR&gt;Boost ATK-DEF&lt;CLNR&gt;",
-      "translation": "Добивайтесь идеального &lt;CLGR&gt;Гармония&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Увеличение АТК-ЗАЩ&lt;CLNR&gt;"
+      "translation": "Добивайтесь идеального &lt;CLGR&gt;Гармониум&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Повышение АТК-ЗЩТ&lt;CLNR&gt;"
     },
     "pack02:2425218": {
       "source": "pack02_text_en",
@@ -208843,84 +208843,84 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425220",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Malmore Comet&lt;CLNR&gt;",
-      "translation": "В качестве вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Комета Малмора&lt;CLNR&gt;"
+      "translation": "В качестве вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Кометный мальмор&lt;CLNR&gt;"
     },
     "pack02:2425221": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425221",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Malmore Comet&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Малморская комета&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Кометный мальмор&lt;CLNR&gt;"
     },
     "pack02:2425222": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425222",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Malmore Comet&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Малморская комета&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Кометный мальмор&lt;CLNR&gt;"
     },
     "pack02:2425223": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425223",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;Black Star Stone&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Черный звездный камень&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Чёрнозвёздный камень&lt;CLNR&gt;"
     },
     "pack02:2425224": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425224",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Black Star Stone&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Черный Звездный Камень&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Чёрнозвёздный камень&lt;CLNR&gt;"
     },
     "pack02:2425225": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425225",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Black Star Stone&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Черный Звездный Камень&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Чёрнозвёздный камень&lt;CLNR&gt;"
     },
     "pack02:2425226": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425226",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;Rainbow Corundum&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Радужный корунд&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Радужная корунда&lt;CLNR&gt;"
     },
     "pack02:2425227": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425227",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Malmore Comet&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Малморская комета&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Кометный мальмор&lt;CLNR&gt;"
     },
     "pack02:2425228": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425228",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Malmore Comet&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Малморская комета&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Кометный мальмор&lt;CLNR&gt;"
     },
     "pack02:2425229": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425229",
       "original": "Pursue the perfect &lt;CLGR&gt;Malmore Comet&lt;CLNR&gt;.&lt;CR&gt;Trait: &lt;CLGR&gt;Effective vs Many&lt;CLNR&gt;",
-      "translation": "Преследуйте идеальную &lt;CLGR&gt;Малморскую комету&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Эффективна против многих&lt;CLNR&gt;"
+      "translation": "Преследуйте идеальную &lt;CLGR&gt;Кометный мальмор&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Эффективно против многих&lt;CLNR&gt;"
     },
     "pack02:2425230": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425230",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Malmore Comet&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Малморская комета&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Кометный мальмор&lt;CLNR&gt;"
     },
     "pack02:2425231": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425231",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Malmore Comet&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Малморская комета&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Кометный мальмор&lt;CLNR&gt;"
     },
     "pack02:2425232": {
       "source": "pack02_text_en",
@@ -208948,63 +208948,63 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425235",
       "original": "Let's &lt;CLGR&gt;collect&lt;CLNR&gt; something new.&lt;CR&gt;Memo: &lt;CLGR&gt;Falling Star Fragments&lt;CLNR&gt;",
-      "translation": "Давайте &lt;CLGR&gt;соберем&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Фрагменты падающей звезды&lt;CLNR&gt;"
+      "translation": "Давайте &lt;CLGR&gt;соберем&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Осколки падающей звезды&lt;CLNR&gt;"
     },
     "pack02:2425236": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425236",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Star Powder Water&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Звездная порошковая вода&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Звёздная порошковая вода&lt;CLNR&gt;"
     },
     "pack02:2425237": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425237",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Star Powder Water&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Звездная порошковая вода&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Звёздная порошковая вода&lt;CLNR&gt;"
     },
     "pack02:2425238": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425238",
       "original": "Let's &lt;CLGR&gt;collect&lt;CLNR&gt; something new.&lt;CR&gt;Memo: &lt;CLGR&gt;Sea Horse&lt;CLNR&gt;",
-      "translation": "Давайте &lt;CLGR&gt;соберём&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Морской конек&lt;CLNR&gt;"
+      "translation": "Давайте &lt;CLGR&gt;соберём&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Морской конёк&lt;CLNR&gt;"
     },
     "pack02:2425239": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425239",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Sea Horse&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Морской Конёк&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Морской конёк&lt;CLNR&gt;"
     },
     "pack02:2425240": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425240",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Sea Horse&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Морской Конёк&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Морской конёк&lt;CLNR&gt;"
     },
     "pack02:2425241": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425241",
       "original": "Pursue the perfect &lt;CLGR&gt;God’s Gift&lt;CLNR&gt;.&lt;CR&gt;Effect: &lt;CLGR&gt;Falling ???&lt;CLNR&gt;",
-      "translation": "Следуйте за совершенным &lt;CLGR&gt;Божьим Даром&lt;CLNR&gt;.&lt;CR&gt;Эффект: &lt;CLGR&gt;Падение ???&lt;CLNR&gt;"
+      "translation": "Следуйте за совершенным &lt;CLGR&gt;Божьим Даром&lt;CLNR&gt;.&lt;CR&gt;Эффект: &lt;CLGR&gt;Падающий ???&lt;CLNR&gt;"
     },
     "pack02:2425242": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425242",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Malmore Comet&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Малморская комета&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Кометный мальмор&lt;CLNR&gt;"
     },
     "pack02:2425243": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425243",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Malmore Comet&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Малморская комета&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Кометный мальмор&lt;CLNR&gt;"
     },
     "pack02:2425244": {
       "source": "pack02_text_en",
@@ -209032,21 +209032,21 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425247",
       "original": "Pursue the perfect &lt;CLGR&gt;Multicolor Dye&lt;CLNR&gt;.&lt;CR&gt;Trait: &lt;CLGR&gt;Uses +2&lt;CLNR&gt;",
-      "translation": "Найдите идеальную &lt;CLGR&gt;Многоцветную краску&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Использует +2&lt;CLNR&gt;"
+      "translation": "Найдите идеальную &lt;CLGR&gt;Многоцветный краситель&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Использований +2&lt;CLNR&gt;"
     },
     "pack02:2425248": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425248",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Broken Rock&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Расколотая скала&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Разбитый камень&lt;CLNR&gt;"
     },
     "pack02:2425249": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425249",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Broken Rock&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Расколотая скала&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Разбитый камень&lt;CLNR&gt;"
     },
     "pack02:2425250": {
       "source": "pack02_text_en",
@@ -209060,14 +209060,14 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425251",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Wicked Fang&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Злой Клык&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Грешный клык&lt;CLNR&gt;"
     },
     "pack02:2425252": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425252",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Wicked Fang&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Злой Клык&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Грешный клык&lt;CLNR&gt;"
     },
     "pack02:2425253": {
       "source": "pack02_text_en",
@@ -209081,14 +209081,14 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425254",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Deep Core&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Глубокое Ядро&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Ядро монстра&lt;CLNR&gt;"
     },
     "pack02:2425255": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425255",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Deep Core&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Глубокое Ядро&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Ядро монстра&lt;CLNR&gt;"
     },
     "pack02:2425256": {
       "source": "pack02_text_en",
@@ -209102,35 +209102,35 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425257",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Ashes of Origin&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Пепел происхождения&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Пепел начала&lt;CLNR&gt;"
     },
     "pack02:2425258": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425258",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Ashes of Origin&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Пепел происхождения&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Пепел начала&lt;CLNR&gt;"
     },
     "pack02:2425259": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425259",
       "original": "Pursue the perfect &lt;CLGR&gt;Diamonds&lt;CLNR&gt;.&lt;CR&gt;Trait: &lt;CLGR&gt;Overflowing Life&lt;CLNR&gt;",
-      "translation": "Стремитесь к совершенству &lt;CLGR&gt;Бриллиантов&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Переполненная жизнь&lt;CLNR&gt;"
+      "translation": "Стремитесь к совершенству &lt;CLGR&gt;Алмазы&lt;CLNR&gt;.&lt;CR&gt;Черта: &lt;CLGR&gt;Переполняющая жизнь&lt;CLNR&gt;"
     },
     "pack02:2425260": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425260",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Diamonds&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Бриллианты&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Алмазы&lt;CLNR&gt;"
     },
     "pack02:2425261": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425261",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Diamonds&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Бриллианты&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Алмазы&lt;CLNR&gt;"
     },
     "pack02:2425262": {
       "source": "pack02_text_en",
@@ -209165,14 +209165,14 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425266",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Merry Toy Box&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Коробка с веселыми игрушками&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Весёлый ящик с игрушками&lt;CLNR&gt;"
     },
     "pack02:2425267": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425267",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Merry Toy Box&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Коробка с веселыми игрушками&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Весёлый ящик с игрушками&lt;CLNR&gt;"
     },
     "pack02:2425268": {
       "source": "pack02_text_en",
@@ -209186,14 +209186,14 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425269",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Honey&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Милая&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Мёд&lt;CLNR&gt;"
     },
     "pack02:2425270": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425270",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Honey&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Милая&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Мёд&lt;CLNR&gt;"
     },
     "pack02:2425271": {
       "source": "pack02_text_en",
@@ -209249,21 +209249,21 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425278",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Dunkelheit&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Данкельхейт&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Дункельхайт&lt;CLNR&gt;"
     },
     "pack02:2425279": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425279",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Dunkelheit&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Данкельхейт&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Дункельхайт&lt;CLNR&gt;"
     },
     "pack02:2425280": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425280",
       "original": "Let's &lt;CLGR&gt;collect&lt;CLNR&gt; something new.&lt;CR&gt;Memo: &lt;CLGR&gt;Bloodstained Fragments&lt;CLNR&gt;",
-      "translation": "Давайте &lt;CLGR&gt;соберем&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Окровавленные фрагменты&lt;CLNR&gt;"
+      "translation": "Давайте &lt;CLGR&gt;соберем&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Окровавленные осколки&lt;CLNR&gt;"
     },
     "pack02:2425281": {
       "source": "pack02_text_en",
@@ -209284,7 +209284,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425283",
       "original": "Let's &lt;CLGR&gt;collect&lt;CLNR&gt; something new.&lt;CR&gt;Memo: &lt;CLGR&gt;Jet Black Tile Fragments&lt;CLNR&gt;",
-      "translation": "Давайте &lt;CLGR&gt;соберем&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Черные фрагменты плитки&lt;CLNR&gt;"
+      "translation": "Давайте &lt;CLGR&gt;соберем&lt;CLNR&gt; что-нибудь новое.&lt;CR&gt;Заметка: &lt;CLGR&gt;Осколки чёрной плитки&lt;CLNR&gt;"
     },
     "pack02:2425284": {
       "source": "pack02_text_en",
@@ -209312,14 +209312,14 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425287",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Ori Bomb&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Ори Бомба&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Ори бомба&lt;CLNR&gt;"
     },
     "pack02:2425288": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425288",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Ori Bomb&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Ори Бомба&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Заметка: &lt;CLGR&gt;Ори бомба&lt;CLNR&gt;"
     },
     "pack02:2425289": {
       "source": "pack02_text_en",
@@ -209683,7 +209683,7 @@
       "file": "str_recipe_idea_text.xml",
       "string_no": "2359297",
       "original": "[Battle Attack]&lt;CR&gt;A bag stuffed full of delicious uni?&lt;CR&gt;",
-      "translation": "[Боевая атака]&lt;CR&gt;Сумка, набитая вкуснейшим универом?&lt;CR&gt;"
+      "translation": "[Боевая атака]&lt;CR&gt;Сумка, набитая вкуснейшим уни?&lt;CR&gt;"
     },
     "pack02:2359298": {
       "source": "pack02_text_en",
@@ -209711,7 +209711,7 @@
       "file": "str_recipe_idea_text.xml",
       "string_no": "2359301",
       "original": "[Battle Attack]&lt;CR&gt;A bomb stuffed full of uni?&lt;CR&gt;",
-      "translation": "[Боевая атака]&lt;CR&gt;Бомба, начиненная универом?&lt;CR&gt;"
+      "translation": "[Боевая атака]&lt;CR&gt;Бомба, начиненная уни?&lt;CR&gt;"
     },
     "pack02:2359302": {
       "source": "pack02_text_en",
@@ -211937,7 +211937,7 @@
       "file": "str_shop_name.xml",
       "string_no": "2883589",
       "original": "Atelier Petitail",
-      "translation": "Ателье «Петитейл»"
+      "translation": "Ателье Петитейл"
     },
     "pack02:2883590": {
       "source": "pack02_text_en",
@@ -214870,7 +214870,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422673",
       "original": "　So hot^00　↑Yeah... Kaen Stones are hot...^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "　Так жарко^00　↑Да... Каен Стоунз горячие...^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "　Так жарко^00　↑Да... Каенские камни горячие...^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6422674": {
       "source": "pack02_text_en",

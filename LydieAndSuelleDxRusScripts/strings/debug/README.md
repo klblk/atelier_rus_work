@@ -11,7 +11,7 @@ python3 strings/update_debug_readme.py
 ```
 
 **Summary:** 178 files, 29965 strings;
-MT done: 178/178; manual edits: 10/178.
+MT done: 178/178; manual edits: 11/178.
 
 Statuses are stored in [`translation_status.json`](translation_status.json)
 (`default` applies to files without an explicit entry).
@@ -107,7 +107,7 @@ Statuses are stored in [`translation_status.json`](translation_status.json)
 | `pack02/str_fm_tweet.json` | 368 | ✓ | — |
 | `pack02/str_follow_comment.json` | 55 | ✓ | — |
 | `pack02/str_item_btl_mix.json` | 50 | ✓ | — |
-| `pack02/str_item_category.json` | 55 | ✓ | — |
+| `pack02/str_item_category.json` | 55 | ✓ | ✓ |
 | `pack02/str_item_define.json` | 59 | ✓ | — |
 | `pack02/str_item_effect.json` | 892 | ✓ | ✓ |
 | `pack02/str_item_factor.json` | 1600 | ✓ | — |
