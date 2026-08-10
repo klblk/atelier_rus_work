@@ -11,7 +11,7 @@ python3 strings/update_debug_readme.py
 ```
 
 **Summary:** 178 files, 29965 strings;
-MT done: 178/178; manual edits: 5/178.
+MT done: 178/178; manual edits: 10/178.
 
 Statuses are stored in [`translation_status.json`](translation_status.json)
 (`default` applies to files without an explicit entry).
@@ -109,11 +109,11 @@ Statuses are stored in [`translation_status.json`](translation_status.json)
 | `pack02/str_item_btl_mix.json` | 50 | ✓ | — |
 | `pack02/str_item_category.json` | 55 | ✓ | — |
 | `pack02/str_item_define.json` | 59 | ✓ | — |
-| `pack02/str_item_effect.json` | 892 | ✓ | — |
+| `pack02/str_item_effect.json` | 892 | ✓ | ✓ |
 | `pack02/str_item_factor.json` | 1600 | ✓ | — |
 | `pack02/str_item_kind.json` | 15 | ✓ | — |
-| `pack02/str_item_name.json` | 574 | ✓ | — |
-| `pack02/str_item_potential.json` | 377 | ✓ | — |
+| `pack02/str_item_name.json` | 574 | ✓ | ✓ |
+| `pack02/str_item_potential.json` | 377 | ✓ | ✓ |
 | `pack02/str_library_build.json` | 45 | ✓ | — |
 | `pack02/str_library_define.json` | 53 | ✓ | — |
 | `pack02/str_library_eff_detail.json` | 678 | ✓ | — |
@@ -123,7 +123,7 @@ Statuses are stored in [`translation_status.json`](translation_status.json)
 | `pack02/str_library_map.json` | 66 | ✓ | — |
 | `pack02/str_library_monster.json` | 154 | ✓ | — |
 | `pack02/str_map_common.json` | 4 | ✓ | — |
-| `pack02/str_map_item_name.json` | 51 | ✓ | — |
+| `pack02/str_map_item_name.json` | 51 | ✓ | ✓ |
 | `pack02/str_menu_define.json` | 134 | ✓ | — |
 | `pack02/str_mix_activation_effect_description.json` | 24 | ✓ | — |
 | `pack02/str_mix_activation_effect_name.json` | 24 | ✓ | — |
@@ -131,7 +131,7 @@ Statuses are stored in [`translation_status.json`](translation_status.json)
 | `pack02/str_mix_catalyst_bonus_name.json` | 11 | ✓ | — |
 | `pack02/str_mix_define.json` | 42 | ✓ | — |
 | `pack02/str_mix_tutorial.json` | 31 | ✓ | — |
-| `pack02/str_monster_name.json` | 155 | ✓ | — |
+| `pack02/str_monster_name.json` | 155 | ✓ | ✓ |
 | `pack02/str_npc_s01_mess.json` | 212 | ✓ | — |
 | `pack02/str_npc_s04_mess.json` | 61 | ✓ | — |
 | `pack02/str_npc_s05_mess.json` | 54 | ✓ | — |
