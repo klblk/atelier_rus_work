@@ -17,6 +17,7 @@ EXTRA = "«»≥"
 TARGET_LETTERS = UPPER + LOWER + EXTRA
 
 UPPER_M0_EXCEPTIONS = frozenset("ЁЙ")
+LOWER_M0_EXCEPTIONS = frozenset("й")
 GUILLEMETS = frozenset("«»")
 DEFAULT_TAIL = "0xFFFFFFFF"
 
@@ -43,7 +44,7 @@ def m0_for_letter(letter: str) -> int:
     if letter in UPPER:
         return 3 if letter in UPPER_M0_EXCEPTIONS else 10
     if letter in LOWER:
-        return 9
+        return 8 if letter in LOWER_M0_EXCEPTIONS else 9
     if letter == "≥":
         return 10
     raise ValueError(f"unknown letter for m0: {letter!r}")
@@ -58,7 +59,7 @@ def build_entry(letter: str, rect: dict[str, int]) -> dict[str, int | str]:
         "h": rect["h"],
         "m0": m0_for_letter(letter),
         "m1": 0,
-        "m2": w,
+        "m2": w - 1,
         "tail": DEFAULT_TAIL,
     }
 
