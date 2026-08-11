@@ -7,6 +7,7 @@ Sources:
 
 Only entries containing Latin letters [A-Za-z] are collected.
 EBM entries include a speaker field resolved from str_event_chara_name.xml.
+str_system_message entries include a speaker field resolved from sysmess.xml.
 """
 
 from __future__ import annotations
@@ -27,6 +28,7 @@ from strings_common import (
     PACK02_TEXT_EN_DIR,
     ROOT,
     STRINGS_JSON,
+    SYSMESS_XML,
     build_catalog,
     catalog_stats,
     ebm_block_from_path,
@@ -37,6 +39,7 @@ from strings_common import (
     load_entries_from_shards,
     load_gust_json,
     load_name_id_speakers,
+    load_sysmess_speakers,
     normalize_name_id,
     pack02_entry_id,
     speaker_name,
@@ -74,11 +77,16 @@ def collect_pack01_ebm_strings(
     return entries
 
 
-def collect_pack02_strings(text_en_dir: Path) -> dict[str, dict[str, Any]]:
+def collect_pack02_strings(
+    text_en_dir: Path,
+    sysmess_speakers: dict[str, str] | None = None,
+) -> dict[str, dict[str, Any]]:
     entries: dict[str, dict[str, Any]] = {}
+    sysmess_speakers = sysmess_speakers or {}
     for xml_path in sorted(text_en_dir.glob("str_*.xml")):
         if xml_path.name == "strcombineall.xml":
             continue
+        is_system_message = xml_path.name == "str_system_message.xml"
         data = xml_path.read_bytes()
         for match in PACK02_STR_RE.finditer(data):
             original = match.group(1).decode("utf-8", errors="replace")
@@ -86,13 +94,18 @@ def collect_pack02_strings(text_en_dir: Path) -> dict[str, dict[str, Any]]:
                 continue
             string_no = match.group(2).decode("ascii")
             entry_id = pack02_entry_id(string_no)
-            entries[entry_id] = {
+            entry: dict[str, Any] = {
                 "source": "pack02_text_en",
                 "file": xml_path.name,
                 "string_no": string_no,
                 "original": original,
                 "translation": "",
             }
+            if is_system_message:
+                speaker = sysmess_speakers.get(string_no)
+                if speaker:
+                    entry["speaker"] = speaker
+            entries[entry_id] = entry
     return entries
 
 
@@ -101,9 +114,10 @@ def collect_all_strings(
     ebm_json_root: Path,
     text_en_dir: Path,
     speakers: dict[int, str],
+    sysmess_speakers: dict[str, str] | None = None,
 ) -> dict[str, dict[str, Any]]:
     entries = collect_pack01_ebm_strings(ebm_json_root, speakers)
-    entries.update(collect_pack02_strings(text_en_dir))
+    entries.update(collect_pack02_strings(text_en_dir, sysmess_speakers))
     return entries
 
 
@@ -247,6 +261,12 @@ def main() -> None:
         default=EVENT_CHARA_NAMES_XML,
         help="PACK02 str_event_chara_name.xml for EBM speaker names",
     )
+    parser.add_argument(
+        "--sysmess-xml",
+        type=Path,
+        default=SYSMESS_XML,
+        help="PACK02 sysmess.xml for str_system_message speaker names",
+    )
     parser.add_argument("--merge", action="store_true", help="Rebuild and preserve translations where original matches")
     parser.add_argument("--force", action="store_true", help="Rebuild even if regression check would fail")
     parser.add_argument("--dry-run", action="store_true", help="Print stats only, do not write output")
@@ -267,6 +287,7 @@ def main() -> None:
     out_path = args.output.resolve()
     files_dir = args.files_dir.resolve()
     chara_xml = args.chara_names_xml.resolve()
+    sysmess_xml = args.sysmess_xml.resolve()
 
     if (out_path.is_file() or shards_exist(files_dir)) and not args.merge and not args.force:
         print(f"Skip (exists): catalog or shards under {files_dir}")
@@ -278,12 +299,16 @@ def main() -> None:
         raise SystemExit(f"PACK02 text_en not found: {text_en_dir}")
     if not chara_xml.is_file():
         raise SystemExit(f"Character names XML not found: {chara_xml}")
+    if not sysmess_xml.is_file():
+        raise SystemExit(f"sysmess.xml not found: {sysmess_xml}")
 
     speakers = load_name_id_speakers(chara_xml)
+    sysmess_speakers = load_sysmess_speakers(sysmess_xml)
     collected = collect_all_strings(
         ebm_json_root=ebm_root,
         text_en_dir=text_en_dir,
         speakers=speakers,
+        sysmess_speakers=sysmess_speakers,
     )
     merge_meta: dict[str, Any] = {}
 

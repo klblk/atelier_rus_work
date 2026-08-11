@@ -22,6 +22,7 @@ BUILD_DIR = SCRIPTS_DIR / "build"
 EXTRACTS_DIR = SCRIPTS_DIR / "extracts"
 
 PACK02_TEXT_EN_DIR = EXTRACTS_DIR / "pack_extracts/PACK02_extract/saves/text_en"
+PACK02_EXTRACT_DIR = EXTRACTS_DIR / "pack_extracts/PACK02_extract"
 PACK01_EBM_JSON_ROOT = EXTRACTS_DIR / "PACK01_event_ebm_extract/event/event_en"
 
 DEBUG_DIR = SCRIPTS_DIR / "strings/debug"
@@ -37,10 +38,13 @@ PROD_BACKUPS_DIR = PROD_DIR / "backups"
 EVENT_CHARA_NAME_STRING_NO_BASE = 262145
 NAME_ID_NONE = 0xFFFFFFFF
 EVENT_CHARA_NAMES_XML = PACK02_TEXT_EN_DIR / "str_event_chara_name.xml"
+SYSMESS_XML = PACK02_EXTRACT_DIR / "saves/systemmessage/sysmess.xml"
 
 CHARA_NAME_STR_RE = re.compile(
     r'<str(?: Text="([^"]*)")? String_No="(\d+)"\s*/>',
 )
+SYSMESS_ATTR_RE = re.compile(r'<SysMess\s+([^/]+?)\s*/>')
+SYSMESS_KV_RE = re.compile(r'(\w+)="([^"]*)"')
 
 
 def utc_now_iso() -> str:
@@ -149,6 +153,36 @@ def speaker_name(name_id: int | None, speakers: dict[int, str]) -> str:
     if name_id == NAME_ID_NONE:
         return "(no speaker)"
     return speakers.get(name_id, f"unknown(name_id={name_id})")
+
+
+def chara_tag_to_speaker(tag: str) -> str | None:
+    """Map sysmess CharaTag to ebm-style EN speaker name; None if no speaker."""
+    if not tag or tag == "CHARA_NONE" or tag.startswith("CHARA_NPC"):
+        return None
+    if not tag.startswith("CHARA_"):
+        return None
+    rest = tag[len("CHARA_") :]
+    if rest.endswith("_B"):
+        rest = rest[:-2]
+    if not rest:
+        return None
+    return "_".join(part.capitalize() for part in rest.split("_"))
+
+
+def load_sysmess_speakers(sysmess_xml: Path) -> dict[str, str]:
+    """STRING_ID -> display speaker name from sysmess.xml (skips NONE/NPC)."""
+    text = sysmess_xml.read_text(encoding="utf-8", errors="replace")
+    speakers: dict[str, str] = {}
+    for attrs in SYSMESS_ATTR_RE.findall(text):
+        kv = dict(SYSMESS_KV_RE.findall(attrs))
+        string_id = kv.get("STRING_ID")
+        if not string_id:
+            continue
+        name = chara_tag_to_speaker(kv.get("CharaTag", ""))
+        if name is None:
+            continue
+        speakers[string_id] = name
+    return speakers
 
 
 def iter_shard_paths(files_dir: Path) -> list[Path]:
