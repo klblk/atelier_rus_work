@@ -2,7 +2,7 @@
   "version": 1,
   "source": "pack01_ebm",
   "block": "qc18_pam",
-  "generated_at": "2026-07-14T14:48:53.420805+00:00",
+  "generated_at": "2026-08-11T16:33:27.762382+00:00",
   "entries": {
     "ebm:qc18_pam/event_message_qc18_pam_010.ebm:0": {
       "source": "pack01_ebm",
@@ -98,7 +98,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "That sounds a bit suspicious to me! What do you think, Sister Grace?",
-      "translation": "Для меня это звучит немного подозрительно! Что скажете, сестра Грейс?"
+      "translation": "Для меня это звучит немного подозрительно! Что скажешь, сестра Грейс?"
     },
     "ebm:qc18_pam/event_message_qc18_pam_010.ebm:12": {
       "source": "pack01_ebm",
@@ -122,7 +122,7 @@
       "index": 14,
       "speaker": "Grace",
       "original": "Ahem. I don't think we should go quite that far.",
-      "translation": "Кхм. Думаю, так далеко заходить не стоит."
+      "translation": "Хм. Думаю, так далеко заходить не стоит."
     },
     "ebm:qc18_pam/event_message_qc18_pam_010.ebm:15": {
       "source": "pack01_ebm",
@@ -234,7 +234,7 @@
       "index": 11,
       "speaker": "Lydie",
       "original": "Ugh...",
-      "translation": "Угх..."
+      "translation": "Ух..."
     },
     "ebm:qc18_pam/event_message_qc18_pam_020.ebm:12": {
       "source": "pack01_ebm",
@@ -330,7 +330,7 @@
       "index": 1,
       "speaker": "Ines",
       "original": "Uwah! I'm sorry!",
-      "translation": "Уваа! Прости!"
+      "translation": "Ух! Прости!"
     },
     "ebm:qc18_pam/event_message_qc18_pam_030.ebm:2": {
       "source": "pack01_ebm",
@@ -378,7 +378,7 @@
       "index": 7,
       "speaker": "Pamela",
       "original": "Everyone makes a mistake sometimes. No need to get vindictive!",
-      "translation": "Каждый иногда ошибается. Не надо мстить!"
+      "translation": "Каждый иногда ошибается. Не стоит злиться на неё за это!"
     },
     "ebm:qc18_pam/event_message_qc18_pam_030.ebm:8": {
       "source": "pack01_ebm",
@@ -530,7 +530,7 @@
       "index": 5,
       "speaker": "Chloe",
       "original": "Uwah, hey! No hugging on church grounds!",
-      "translation": "Уваа, эй! Никаких объятий на территории церкви!"
+      "translation": "Ух, эй! Никаких объятий на территории церкви!"
     },
     "ebm:qc18_pam/event_message_qc18_pam_040.ebm:6": {
       "source": "pack01_ebm",
@@ -570,7 +570,7 @@
       "index": 10,
       "speaker": "Sue",
       "original": "Ah, Sister Grace! Hello!",
-      "translation": "Ах, сестра Грейс! Здравствуйте!"
+      "translation": "Ах, сестра Грейс! Здравствуй!"
     },
     "ebm:qc18_pam/event_message_qc18_pam_040.ebm:11": {
       "source": "pack01_ebm",
@@ -642,7 +642,7 @@
       "index": 19,
       "speaker": "Ines",
       "original": "I-I-It wasn't me this time! Not me!",
-      "translation": "Я-я-это был не я! Не я!"
+      "translation": "Я-я-это была не я! Не я!"
     },
     "ebm:qc18_pam/event_message_qc18_pam_040.ebm:20": {
       "source": "pack01_ebm",
@@ -778,7 +778,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "Uwah! I can't believe I just said that...",
-      "translation": "Уваа! Не могу поверить, что я это сказала..."
+      "translation": "Ух! Не могу поверить, что я это сказала..."
     },
     "ebm:qc18_pam/event_message_qc18_pam_050.ebm:8": {
       "source": "pack01_ebm",
@@ -834,7 +834,7 @@
       "index": 14,
       "speaker": "Lydie",
       "original": "Very well... Ahem. Mom!",
-      "translation": "Хорошо... Кхм. Мама!"
+      "translation": "Хорошо... хм. Мама!"
     },
     "ebm:qc18_pam/event_message_qc18_pam_050.ebm:15": {
       "source": "pack01_ebm",
@@ -882,7 +882,7 @@
       "index": 0,
       "speaker": "Sue",
       "original": "Ah, I've got one question. What's your hometown like, Pamela?",
-      "translation": "Ах, один вопрос. Какой у тебя родной город, Памела?"
+      "translation": "Ах, один вопрос. Какой твой родной город, Памела?"
     },
     "ebm:qc18_pam/event_message_qc18_pam_060.ebm:1": {
       "source": "pack01_ebm",
@@ -906,7 +906,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "Uwah, Lydie! We don't usually compare people and places, do we?",
-      "translation": "Уваа, Лиди! Мы обычно не сравниваем людей и места, правда?"
+      "translation": "Ух, Лиди! Мы обычно не сравниваем людей и места, правда?"
     },
     "ebm:qc18_pam/event_message_qc18_pam_060.ebm:4": {
       "source": "pack01_ebm",
@@ -986,7 +986,7 @@
       "index": 13,
       "speaker": "Grace",
       "original": "Pamela, sorry... I can borrow you for a moment?",
-      "translation": "Памела, прости... Могу я тебя на минутку?"
+      "translation": "Памела, прости... Можно тебя на минутку?"
     },
     "ebm:qc18_pam/event_message_qc18_pam_060.ebm:14": {
       "source": "pack01_ebm",
@@ -1050,7 +1050,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "What, about being 300 years old? Hahaha, that was just a Pamela-style joke!",
-      "translation": "Что, про триста лет? Ха-ха-ха, это просто шутка в стиле Памелы!"
+      "translation": "Ты про триста лет? Ха-ха-ха, это просто шутка в стиле Памелы!"
     },
     "ebm:qc18_pam/event_message_qc18_pam_070.ebm:5": {
       "source": "pack01_ebm",
@@ -1082,7 +1082,7 @@
       "index": 8,
       "speaker": "Sue",
       "original": "Uwaaaaah! P-P-P-Pamela! W-What are you doing here?!",
-      "translation": "Уваааа! П-п-п-Памела! Ч-что ты здесь делаешь?!"
+      "translation": "Аааа! П-п-п-Памела! Ч-что ты здесь делаешь?!"
     },
     "ebm:qc18_pam/event_message_qc18_pam_070.ebm:9": {
       "source": "pack01_ebm",
@@ -1106,7 +1106,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "Uwah! So you really are a g-g-g-g...!",
-      "translation": "Уваа! Так ты и правда п-п-п-п...!"
+      "translation": "Аааа! Так ты и правда п-п-п-п...!"
     },
     "ebm:qc18_pam/event_message_qc18_pam_070.ebm:12": {
       "source": "pack01_ebm",
@@ -1122,7 +1122,7 @@
       "index": 13,
       "speaker": "Sue",
       "original": "Howah!",
-      "translation": "Хауа!"
+      "translation": "Ой-мамочки!"
     },
     "ebm:qc18_pam/event_message_qc18_pam_070.ebm:14": {
       "source": "pack01_ebm",
@@ -1154,7 +1154,7 @@
       "index": 17,
       "speaker": "Sue",
       "original": "Aaaaaaah, don't look! Don't look! She ghosted her way out of here again! Noooooo!",
-      "translation": "Аааааа, не смотри! Не смотри! Она снова ускользнула отсюда призраком! Неееееет!"
+      "translation": "Аааааа, не смотрю! Не смотрю! Она снова ускользнула отсюда призраком! Неееееет!"
     },
     "ebm:qc18_pam/event_message_qc18_pam_070.ebm:18": {
       "source": "pack01_ebm",
@@ -1170,7 +1170,7 @@
       "index": 19,
       "speaker": "Sue",
       "original": "Uwaaaah! I can't take any more! I can't believeeeee anything any moooooore!",
-      "translation": "Уваааа! Больше не могу! Я ни во что больше не веееерю!"
+      "translation": "Аааа! Больше не могу! Я ни во что больше не веееерю!"
     },
     "ebm:qc18_pam/event_message_qc18_pam_070.ebm:20": {
       "source": "pack01_ebm",
@@ -1266,7 +1266,7 @@
       "index": 10,
       "speaker": "Lydie",
       "original": "Oh dear, has Sue been triggered again? It's alright, it's all fine!",
-      "translation": "О боже, Сью снова сорвало? Всё хорошо, всё в порядке!"
+      "translation": "Ох, у Сью опять паника? Всё хорошо, всё в порядке!"
     },
     "ebm:qc18_pam/event_message_qc18_pam_080.ebm:11": {
       "source": "pack01_ebm",
@@ -1306,7 +1306,7 @@
       "index": 16,
       "speaker": "Sue",
       "original": "Gyaaaah! Nooo! I understand! I'm not scared anymore! Don't scare me!",
-      "translation": "Гияааа! Нееет! Поняла! Я больше не боюсь! Не пугай меня!"
+      "translation": "Ааааа! Нееет! Поняла! Я больше не боюсь! Не пугай меня!"
     },
     "ebm:qc18_pam/event_message_qc18_pam_080.ebm:17": {
       "source": "pack01_ebm",
@@ -1346,7 +1346,7 @@
       "index": 1,
       "speaker": "Grace",
       "original": "You are more than qualified. Please, Pamela.",
-      "translation": "Вы более чем подходите. Пожалуйста, Памела."
+      "translation": "Ты более чем подходишь. Пожалуйста, Памела."
     },
     "ebm:qc18_pam/event_message_qc18_pam_090.ebm:2": {
       "source": "pack01_ebm",
@@ -1354,7 +1354,7 @@
       "index": 2,
       "speaker": "Grace",
       "original": "Will you become Head Sister, and lead this church into an even better future?",
-      "translation": "Станете ли вы старшей сестрой и поведёте эту церковь к ещё лучшему будущему?"
+      "translation": "Станешь ли ты старшей сестрой и поведёшь эту церковь к ещё лучшему будущему?"
     },
     "ebm:qc18_pam/event_message_qc18_pam_090.ebm:3": {
       "source": "pack01_ebm",
@@ -1362,7 +1362,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "H-Head Sister? I wonder what Pamela will do?",
-      "translation": "С-старшая сестра? Интересно, что сделает Памела?"
+      "translation": "С-старшая сестра? Интересно, что скажет Памела?"
     },
     "ebm:qc18_pam/event_message_qc18_pam_090.ebm:4": {
       "source": "pack01_ebm",
@@ -1514,7 +1514,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "Wow, that's great! Congratulations!",
-      "translation": "Вау, это здорово! Поздравляем!"
+      "translation": "Ого, это здорово! Поздравляем!"
     },
     "ebm:qc18_pam/event_message_qc18_pam_100.ebm:4": {
       "source": "pack01_ebm",
@@ -1594,7 +1594,7 @@
       "index": 13,
       "speaker": "Pamela",
       "original": "I'm going to become a nun who travels between both Kirchen Bell and Merveille!",
-      "translation": "Я стану монахиней, которая путешествует между Кирхен-Белл и Мервейлем!"
+      "translation": "Я стану монахиней, которая путешествует между Кирхенбеллом и Мервейлем!"
     },
     "ebm:qc18_pam/event_message_qc18_pam_100.ebm:14": {
       "source": "pack01_ebm",
@@ -1682,7 +1682,7 @@
       "index": 24,
       "speaker": "Pamela",
       "original": "I hope everyone in Kirchen Bell is doing well!",
-      "translation": "Надеюсь, у всех в Кирхен-Белл всё хорошо!"
+      "translation": "Надеюсь, у всех в Кирхенбелле всё хорошо!"
     },
     "ebm:qc18_pam/event_message_qc18_pam_100.ebm:25": {
       "source": "pack01_ebm",
