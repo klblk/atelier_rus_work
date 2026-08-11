@@ -1,12 +1,17 @@
 #!/usr/bin/env python3
-"""Patch recipe condition UI copy limits in Atelier Lydie & Suelle DX exe.
+"""Patch recipe / quest-reward UI copy limits in Atelier Lydie & Suelle DX exe.
 
-WinDbg:
+WinDbg (recipe conditions):
 - v2 (work/errors/quality_str_error/windbg_v2.txt): cluster A +0x4136AA -> +0xa9a0
 - v3 (work/errors/quality_str_error/windbg_v3.txt): cluster B +0x3E5D4A -> +0xa9a0
 - Both: +0x85ad18 -> +0x85C0D7; mov edx,32/64; RU 6619426 = 33 B > 32
 
-Two mirror clusters, mov edx before call +0xa9a0 for str_ui 6619426–6619429.
+WinDbg (quest item reward):
+- work/errors/reward_item_error/windbg_v1.txt: +0x414bb0 <- +0xa9a0; mov edx,64
+  @ 0x140414BA2 formats %s[%d/%d] (item name); same CRT FAST_FAIL
+
+Two mirror clusters for recipe str_ui 6619426–6619429, plus five %s[%d/%d]
+reward sites in the same A/B regions (quest receive/report + summary UI).
 """
 
 from __future__ import annotations
@@ -99,11 +104,62 @@ _RECIPE_CLUSTER_B_PATCHES: list[PatchEntry] = [
     ),
 ]
 
-_RECIPE_FIXED_PATCHES: list[PatchEntry] = _RECIPE_CLUSTER_A_PATCHES + _RECIPE_CLUSTER_B_PATCHES
+# Quest/summary item reward: sprintf %s[%d/%d] with mov edx,64 before call +0xa9a0
+_REWARD_ITEM_CLUSTER_A_PATCHES: list[PatchEntry] = [
+    (
+        "mov edx, 64 -> 128 (%s[%d/%d] reward, cluster A #1)",
+        0x14041432B,
+        _MOV_EDX_64,
+        _MOV_EDX_128,
+        RECIPE_COPY_LIMIT_64,
+        RECIPE_COPY_LIMIT_PATCHED,
+    ),
+    (
+        "mov edx, 64 -> 128 (%s[%d/%d] reward, cluster A #2)",
+        0x14041449B,
+        _MOV_EDX_64,
+        _MOV_EDX_128,
+        RECIPE_COPY_LIMIT_64,
+        RECIPE_COPY_LIMIT_PATCHED,
+    ),
+    (
+        "mov edx, 64 -> 128 (%s[%d/%d] reward, cluster A crash)",
+        0x140414BA2,
+        _MOV_EDX_64,
+        _MOV_EDX_128,
+        RECIPE_COPY_LIMIT_64,
+        RECIPE_COPY_LIMIT_PATCHED,
+    ),
+]
+
+_REWARD_ITEM_CLUSTER_B_PATCHES: list[PatchEntry] = [
+    (
+        "mov edx, 64 -> 128 (%s[%d/%d] reward, cluster B #1)",
+        0x1403E5B4B,
+        _MOV_EDX_64,
+        _MOV_EDX_128,
+        RECIPE_COPY_LIMIT_64,
+        RECIPE_COPY_LIMIT_PATCHED,
+    ),
+    (
+        "mov edx, 64 -> 128 (%s[%d/%d] reward, cluster B #2)",
+        0x1403E600A,
+        _MOV_EDX_64,
+        _MOV_EDX_128,
+        RECIPE_COPY_LIMIT_64,
+        RECIPE_COPY_LIMIT_PATCHED,
+    ),
+]
+
+_RECIPE_FIXED_PATCHES: list[PatchEntry] = (
+    _RECIPE_CLUSTER_A_PATCHES
+    + _RECIPE_CLUSTER_B_PATCHES
+    + _REWARD_ITEM_CLUSTER_A_PATCHES
+    + _REWARD_ITEM_CLUSTER_B_PATCHES
+)
 
 
 def apply_recipe_ui_copy_limit_patch(exe: bytearray) -> list[dict]:
-    vanilla = bytes(exe)
     applied: list[dict] = []
 
     for desc, va, old, new, limit_vanilla, limit_patched in _RECIPE_FIXED_PATCHES:
@@ -111,6 +167,8 @@ def apply_recipe_ui_copy_limit_patch(exe: bytearray) -> list[dict]:
             raise ValueError(f"{desc}: old/new length mismatch")
         fo = va_to_file_offset(va)
         got = bytes(exe[fo : fo + len(old)])
+        if got == new:
+            continue
         if got != old:
             raise ValueError(
                 f"{desc}: expected {old.hex()} at file 0x{fo:X} (va 0x{va:X}), got {got.hex()}"

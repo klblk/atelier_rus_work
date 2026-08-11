@@ -1,6 +1,6 @@
 # Length patches — EBM, dialog, recipe и quest UI copy limits
 
-In-place патчи steamless-unpacked exe: увеличение лимитов буферов строк в коде загрузчика EBM, hot-функции диалога, кластера условий рецепта и целей квеста.
+In-place патчи steamless-unpacked exe: увеличение лимитов буферов строк в коде загрузчика EBM, hot-функции диалога, кластера условий рецепта / награды-предмета и целей квеста.
 Часть release-пайплайна `LydieAndSuelleDxRusScripts/`.
 
 ## Лимиты
@@ -9,7 +9,7 @@ In-place патчи steamless-unpacked exe: увеличение лимитов 
 |------|---------|---------|--------|
 | EBM event message | 400 B | 800 B | 49 |
 | Dialog string | 256 B | 512 B | 9 |
-| Recipe UI copy | 32 / 64 B | 128 B | 8 |
+| Recipe UI copy (+ quest item reward) | 32 / 64 B | 128 B | 13 |
 | Quest etc copy | 64 B @ [rbp-0x40] | 128 B @ [rbp-0x80] | 14 |
 
 Все замены **одинакового размера** — размер exe не меняется.
@@ -22,6 +22,8 @@ In-place патчи steamless-unpacked exe: увеличение лимитов 
 | Dialog | `0x140303020`–`0x1403031A0` |
 | Recipe UI copy A | `0x1404136A5`, `0x14041372E`, `0x1404137DC`, `0x140413882` |
 | Recipe UI copy B | `0x1403E5D45`, `0x1403E5DDD`, `0x1403E5E85`, `0x1403E5F25` |
+| Reward `%s[%d/%d]` A | `0x14041432B`, `0x14041449B`, `0x140414BA2` (crash) |
+| Reward `%s[%d/%d]` B | `0x1403E5B4B`, `0x1403E600A` |
 | Quest etc copy | `0x14003A0AA` (sub rsp), `0x14003A174` (struct[0]), `0x14003A1D0`/`0x14003A312` (lea copy/read), `0x14003A238`/`0x14003A2A1` (alt-path), `0x14003A215`/`0x14003A3CA`/`0x14003A3D2`/`0x14003A3DA` (rsp restore), `0x14003A3ED`/`0x14003A402`/`0x14003A410` (add rsp) |
 
 Не пересекаются с phys_glyph (glyph table data ~`0xC1FFxx` / `~0xC236xx`).
@@ -37,6 +39,10 @@ In-place патчи steamless-unpacked exe: увеличение лимитов 
 
 Патч `+0x37e040` (ui_string_length) **не участвует** — см. архив ниже.
 
+### Краш item reward (`%s[%d/%d]`)
+
+WinDbg `work/errors/reward_item_error/windbg_v1.txt`: caller `+0x414bb0` ← `+0xa9a0`; `mov edx,64` @ `0x140414BA2` formats **`%s[%d/%d]`** (длинное RU-имя предмета). Те же три UI (`quest_receive` / `quest_report` / `summary01`, рядом с `STR_UI_0073` / `6619210`). Пять сайтов 64→128 в кластерах A/B рядом с recipe.
+
 ### Краш 4980738 (quest objective)
 
 WinDbg `work/errors/unknow_error/windbg_v1.txt`: caller `+0x3A1E1`, stack arg `0x004C0002` = String_No **4980738** (`Obtain %s.` / `Получить %s.`). Тот же путь покрывает **4980737** (`Defeat %s.` / `Победить %s.`).
@@ -51,7 +57,7 @@ WinDbg `work/errors/unknow_error/windbg_v1.txt`: caller `+0x3A1E1`, stack arg `0
 |------|----------|
 | `ebm_length_patches.json` | manifest EBM |
 | `dialog_length_patches.json` | manifest dialog |
-| `recipe_ui_copy_limit_patches.json` | manifest recipe UI copy (8 sites) |
+| `recipe_ui_copy_limit_patches.json` | manifest recipe UI copy + reward (13 sites) |
 | `quest_etc_copy_limit_patches.json` | manifest quest etc copy (14 sites, v6.1) |
 
 ## Скрипты
