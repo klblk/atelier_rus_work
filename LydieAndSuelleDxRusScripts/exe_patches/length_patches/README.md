@@ -49,7 +49,19 @@ WinDbg `work/errors/unknow_error/windbg_v1.txt`: caller `+0x3A1E1`, stack arg `0
 
 Патч v6.1 (partial shift + rsp restore): frame `sub/add rsp 0x80→0xC0`; main buffer write/read @ `[rbp-0x80]` + `mov edx,128`; struct meta @ `[rbp-0x38..-0x08]` без изменений; alt-path через `lea rcx,[rbp-0x80]` + `movaps [rcx-0x20]` (alt @ `[rbp-0xA0]`); rsp restore imm32 `+0x40` для r12/r14/rsi/rbx (windbg_v3: AV @ `+0x3A6A0`, rbx=0). 14 same-size sites.
 
+v6.2 (PATH_B je rel8): `lea rdx,[rbp-0xA0]` на 7 B сдвинул null-ветки; `je +0x28/+0x1A` правим на `+0x2B/+0x1D` (join `+0x3A30D`).
+
+v6.3 (HUD «999 ост. дн.»): переписанные PATH_A/B сохранили vanilla rel32 при сдвиге VA. PATH_B `lea r8`/`lea rdx` попадали в `"ays"`/`"3d"` вместо `"%3d"`/`"days"` → `GetString` null → `SetText` дней пропускается, на поле остаётся XML-заглушка `999`. Заодно E8: PATH_B copy/GetString на −3, PATH_A все три call на −13; PATH_A dest/SetText — `lea [rbp-0xA0]`.
+
 Откат на v2 (2 sites: только `lea rcx` + `mov edx`, read @ `[rbp-0x40]`) — если save-load или HUD ломается.
+
+### Краш get_item (PATH_B join)
+
+WinDbg `work/errors/get_item_error/windbg_v1.txt`: AV read `0x78` @ `+0x3a30f` (`push [rax+48h]`, `rax=0x30`), стек пустой. Подбор предмета идёт в PATH_B (`0x14003A2A1`); после v6 `lea rdx,[rbp-0xA0]` (4 B → 7 B) `je +0x28` / `je +0x1A` попадали в `+0x3A30A` (середина инструкции) вместо join `+0x3A30D`. v6.2: `je +0x2B` @ `0x14003A2E0`, `je +0x1D` @ `0x14003A2EE`; `EB 0C` без изменений. PATH_A не затронут.
+
+### HUD 999 дней (PATH_B RIP/E8)
+
+После v6.2 подбор не крашится, но полевой HUD показывает **«999 ост. дн.»** (XML-заглушка `days` + `STR_UI_0054`). Vanilla PATH_B: `sprintf("%3d", r14d)` @ `0x140986C74`, `GetString(..., "days")` @ `0x140986C78`, `SetText`. v6 сдвинул insn VA, сырой disp32 остался — format/name стали `"ays"`/`"3d"`. v6.3 пересчитывает RIP/E8 в PATH_A и PATH_B; PATH_A dest/SetText — `[rbp-0xA0]`.
 
 ## JSON-артефакты (`build/exe/length_patches/`)
 
@@ -58,7 +70,7 @@ WinDbg `work/errors/unknow_error/windbg_v1.txt`: caller `+0x3A1E1`, stack arg `0
 | `ebm_length_patches.json` | manifest EBM |
 | `dialog_length_patches.json` | manifest dialog |
 | `recipe_ui_copy_limit_patches.json` | manifest recipe UI copy + reward (13 sites) |
-| `quest_etc_copy_limit_patches.json` | manifest quest etc copy (14 sites, v6.1) |
+| `quest_etc_copy_limit_patches.json` | manifest quest etc copy (14 sites, v6.3) |
 
 ## Скрипты
 
@@ -116,11 +128,16 @@ python3 exe_patches/length_patches/patch_quest_etc_copy_limit.py \
 ```
 u Atelier_Lydie_and_Suelle_DX+0x3a0aa L2   # sub rsp,0C0h
 u Atelier_Lydie_and_Suelle_DX+0x3a1d0 L2   # lea rcx,[rbp-80h]
+u Atelier_Lydie_and_Suelle_DX+0x3a2e0 L1   # je +0x2B -> +0x3A30D
+u Atelier_Lydie_and_Suelle_DX+0x3a2ee L1   # je +0x1D -> +0x3A30D
 u Atelier_Lydie_and_Suelle_DX+0x3a312 L2   # lea rdx,[rbp-80h]
 u Atelier_Lydie_and_Suelle_DX+0x3a3d6 L1   # mov rbx,[rsp+0E0h]
 u Atelier_Lydie_and_Suelle_DX+0x3a211 L1   # mov r12,[rsp+0F0h]
 u Atelier_Lydie_and_Suelle_DX+0x3a410 L2   # add rsp,0C0h
-bp Atelier_Lydie_and_Suelle_DX+0x3a1dc
-g
-# edx=128, copy dest = rbp-0x80
+u Atelier_Lydie_and_Suelle_DX+0x3a2b3 L1   # lea r8, "%3d" @ 0x140986C74
+u Atelier_Lydie_and_Suelle_DX+0x3a2cd L1   # lea rdx, "days" @ 0x140986C78
+u Atelier_Lydie_and_Suelle_DX+0x3a2c3 L1   # call copy 0x14000A9A0
+u Atelier_Lydie_and_Suelle_DX+0x3a2d8 L1   # call GetString 0x140339190
+u Atelier_Lydie_and_Suelle_DX+0x3a254 L1   # PATH_A lea rcx,[rbp-0A0h]
+u Atelier_Lydie_and_Suelle_DX+0x3a26d L1   # PATH_A lea rdx,[rbp-0A0h]
 ```

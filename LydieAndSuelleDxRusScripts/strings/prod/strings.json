@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-11T16:40:10.448876+00:00",
+  "generated_at": "2026-08-14T15:17:04.918941+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -202270,14 +202270,14 @@
       "file": "str_quest_etc.xml",
       "string_no": "4980737",
       "original": "Defeat %s.",
-      "translation": "Победить %s."
+      "translation": "Одолеть: %s."
     },
     "pack02:4980738": {
       "source": "pack02_text_en",
       "file": "str_quest_etc.xml",
       "string_no": "4980738",
       "original": "Obtain %s.",
-      "translation": "Получить %s."
+      "translation": "Добыть: %s."
     },
     "pack02:4980740": {
       "source": "pack02_text_en",
