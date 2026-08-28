@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-14T15:17:00.705865+00:00",
+  "generated_at": "2026-08-28T02:06:17.567446+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -4882,7 +4882,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "You find that amusing, do you? Yes, we have signed up.",
-      "translation": "Ты находишь это забавным, не так ли? Да, мы записались."
+      "translation": "Ты находишь это забавным, не так ли? Да, мы присоединились."
     },
     "ebm:mm03/event_message_mm03_010.ebm:5": {
       "source": "pack01_ebm",
@@ -4890,7 +4890,7 @@
       "index": 5,
       "speaker": "Lucia",
       "original": "But do you understand? Taking part in the ranking system means competing with Atelier Borthayre.",
-      "translation": "Но понимаете ли вы? Принять участие в Системе рангов ателье — значит конкурировать с Ателье Бортайр."
+      "translation": "Но осознаёте ли вы? Принять участие в Системе рангов ателье — значит конкурировать с Ателье Бортайр."
     },
     "ebm:mm03/event_message_mm03_010.ebm:6": {
       "source": "pack01_ebm",
@@ -4914,7 +4914,7 @@
       "index": 8,
       "speaker": "Lucia",
       "original": "Ohohohoho! It's like a Puni fighting a Dragon! What else would you call it, if not amusing!",
-      "translation": "Охохохохо! Это как Пуни сражается с Драконом! Как бы это еще назвать, как не забавным!"
+      "translation": "Охохохохо! Это как Пуни сражается с Драконом! Как бы это ещё назвать, как не забавным!"
     },
     "ebm:mm03/event_message_mm03_010.ebm:9": {
       "source": "pack01_ebm",
@@ -4962,7 +4962,7 @@
       "index": 14,
       "speaker": "Lucia",
       "original": "C? C? Rank C? That's impossible! I can't believe such preferential treatment for anyone!",
-      "translation": "С? С? Ранг С? Это невозможно! Я не могу поверить в такие преференции ни для кого!"
+      "translation": "С? С? Ранг С? Да это невозможно! Я не верю, что кому-то могут делать такие поблажки!"
     },
     "ebm:mm03/event_message_mm03_010.ebm:15": {
       "source": "pack01_ebm",
@@ -4994,7 +4994,7 @@
       "index": 18,
       "speaker": "Lydie",
       "original": "Hey, great idea. Something easily relatable is the perfect way to start.",
-      "translation": "Эй, отличная идея. Что-то легко узнаваемое — идеальный способ начать."
+      "translation": "Эй, отличная идея. Что-нибудь легкодоступное — идеальный способ начать."
     },
     "ebm:mm03/event_message_mm03_010.ebm:19": {
       "source": "pack01_ebm",
@@ -5018,7 +5018,7 @@
       "index": 21,
       "speaker": "Lucia",
       "original": "U-U-Uwaaah! Sob! I'm leaving!",
-      "translation": "У-у-увааа! Соб! Я ухожу!"
+      "translation": "У-у-уа-а-а! А-а-а... Всё, я ухожу!"
     },
     "ebm:mm03/event_message_mm03_010.ebm:22": {
       "source": "pack01_ebm",
@@ -5034,7 +5034,7 @@
       "index": 23,
       "speaker": "Sue",
       "original": "Still a crybaby, isn't she! Anyway, do you even know how we raise our rank?",
-      "translation": "Все еще плакса, не так ли! И вообще, ты хоть знаешь, как мы повышаем свой ранг?"
+      "translation": "Всё ещё плакса, не так ли! И вообще, ты знаешь, как нам повысить свой ранг?"
     },
     "ebm:mm03/event_message_mm03_010.ebm:24": {
       "source": "pack01_ebm",
@@ -5042,7 +5042,7 @@
       "index": 24,
       "speaker": "Lydie",
       "original": "We have to take more exams, I guess. Maybe we should start by talking to Mireille.",
-      "translation": "Думаю, нам придется сдавать еще экзамены. Возможно, нам стоит начать с разговора с Мирей."
+      "translation": "Думаю, нам придётся сдавать ещё экзамены. Возможно, нам стоит начать с разговора с Мирей."
     },
     "ebm:mm03/event_message_mm03_010.ebm:25": {
       "source": "pack01_ebm",
@@ -5050,7 +5050,7 @@
       "index": 25,
       "speaker": "Sue",
       "original": "Hmm. So what are we doing standing around here?",
-      "translation": "Хм. Так что же мы делаем, стоя здесь?"
+      "translation": "Хм. Так зачем мы здесь стоим?"
     },
     "ebm:mm03/event_message_mm03_020.ebm:0": {
       "source": "pack01_ebm",
@@ -5058,7 +5058,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "What's this here? This wasn't always here, right?",
-      "translation": "Что это здесь? Это не всегда было здесь, верно?"
+      "translation": "Что это? Этого не было здесь, верно?"
     },
     "ebm:mm03/event_message_mm03_020.ebm:1": {
       "source": "pack01_ebm",
@@ -5074,7 +5074,7 @@
       "index": 0,
       "speaker": "Mireille",
       "original": "Ah, the twins return! Are you here to ask about raising your rank, by any chance?",
-      "translation": "О, близнецы вернулись! Вы случайно не пришли спросить о повышении вашего звания?"
+      "translation": "О, близняшки вернулись! Вы здесь случайно не для того, чтобы узнать насчёт повышения ранга?"
     },
     "ebm:mm03/event_message_mm03_030.ebm:1": {
       "source": "pack01_ebm",
@@ -5082,7 +5082,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "That's right! We actually don't have a clue how to do it.",
-      "translation": "Это верно! На самом деле мы понятия не имеем, как это сделать."
+      "translation": "Верно! На самом деле мы понятия не имеем, как это сделать."
     },
     "ebm:mm03/event_message_mm03_030.ebm:2": {
       "source": "pack01_ebm",
@@ -5114,7 +5114,7 @@
       "index": 5,
       "speaker": "Mireille",
       "original": "Hahaha. Give it a try and you'll pick it up. Just increase your reputation and take exams!",
-      "translation": "Ха-ха-ха. Попробуйте, и вы поймете это. Просто повышайте свою репутацию и сдавайте экзамены!"
+      "translation": "Ха-ха-ха. Попробуйте, и вы поймёте это. Просто повышайте свою репутацию и сдавайте экзамены!"
     },
     "ebm:mm03/event_message_mm03_030.ebm:6": {
       "source": "pack01_ebm",
@@ -5122,7 +5122,7 @@
       "index": 6,
       "speaker": "Mireille",
       "original": "It will mean leaving the city, though. I'm a bit worried about sending you two out there alone.",
-      "translation": "Однако это будет означать выезд из города. Я немного волнуюсь по поводу того, что отправлю вас двоих туда одних."
+      "translation": "Однако это будет означать выход из города. Я немного волнуюсь по поводу того, что отправлю вас двоих туда одних."
     },
     "ebm:mm03/event_message_mm03_030.ebm:7": {
       "source": "pack01_ebm",
@@ -5130,7 +5130,7 @@
       "index": 7,
       "speaker": "???",
       "original": "Si... ahem, I mean, Receptionist Mireille! Monsters have been sighted nearby!",
-      "translation": "Си... хм, я имею в виду секретаршу Мирей! Неподалеку были замечены монстры!"
+      "translation": "Се... хм, я имею в виду секретарша Мирей! Неподалеку были замечены монстры!"
     },
     "ebm:mm03/event_message_mm03_030.ebm:8": {
       "source": "pack01_ebm",
@@ -5146,7 +5146,7 @@
       "index": 9,
       "speaker": "Mireille",
       "original": "Perfect time, actually. Twins, you're up. Could you go and take care of this monster problem?",
-      "translation": "На самом деле идеальное время. Близнецы, ваш выход. Не могли бы вы пойти и разобраться с этой проблемой с монстрами?"
+      "translation": "На самом деле идеальное время. Близняшки, ваш выход. Не могли бы вы пойти и разобраться с этой проблемой с монстрами?"
     },
     "ebm:mm03/event_message_mm03_030.ebm:10": {
       "source": "pack01_ebm",
@@ -5154,7 +5154,7 @@
       "index": 10,
       "speaker": "Mireille",
       "original": "I want to see if the two of you can handle this.",
-      "translation": "Я хочу посмотреть, справитесь ли вы двое с этим."
+      "translation": "Я хочу посмотреть, справитесь ли вы обе с этим."
     },
     "ebm:mm03/event_message_mm03_030.ebm:11": {
       "source": "pack01_ebm",
@@ -5226,7 +5226,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "Hahaha. Actually, we're on our way to deal with that problem right now.",
-      "translation": "Ха-ха-ха. На самом деле, мы сейчас находимся на пути решения этой проблемы."
+      "translation": "Ха-ха-ха. На самом деле, мы прямо сейчас направляемся решать эту проблему."
     },
     "ebm:mm03/event_message_mm03_040.ebm:3": {
       "source": "pack01_ebm",
@@ -5250,7 +5250,7 @@
       "index": 5,
       "speaker": "Sue",
       "original": "That's right! We're going to blow those monsters away with a few quick bombs! Bang, boom!",
-      "translation": "Это верно! Мы собираемся разнести этих монстров несколькими быстрыми бомбами! Бам, бум!"
+      "translation": "Верно! Мы собираемся разнести этих монстров несколькими быстрыми бомбами! Бам, бум!"
     },
     "ebm:mm03/event_message_mm03_040.ebm:6": {
       "source": "pack01_ebm",
@@ -5258,7 +5258,7 @@
       "index": 6,
       "speaker": "???",
       "original": "Hey, is that so? My sister is also an alchemist!",
-      "translation": "Эй, это так? Моя сестра тоже алхимик!"
+      "translation": "Эй, действительно? Моя сестра тоже алхимик!"
     },
     "ebm:mm03/event_message_mm03_040.ebm:7": {
       "source": "pack01_ebm",
@@ -5274,7 +5274,7 @@
       "index": 8,
       "speaker": "Lydie",
       "original": "Liane. I'm Lydie.",
-      "translation": "Лианэ. Я Лидия."
+      "translation": "Лианэ. Я Лиди."
     },
     "ebm:mm03/event_message_mm03_040.ebm:9": {
       "source": "pack01_ebm",
@@ -5282,7 +5282,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "And I'm her twin sister Suelle! You can call me Sue!",
-      "translation": "А я ее сестра-близнец Сюэль! Можешь звать меня Сью!"
+      "translation": "А я ее сестра-близняшка Сюэль! Можешь звать меня Сью!"
     },
     "ebm:mm03/event_message_mm03_040.ebm:10": {
       "source": "pack01_ebm",
@@ -5290,7 +5290,7 @@
       "index": 10,
       "speaker": "Liane",
       "original": "Lydie and Sue, is it. Nice to meet you both!",
-      "translation": "Лидия и Сью, не так ли? Приятно познакомиться с вами обеими!"
+      "translation": "Лиди и Сью, не так ли? Приятно познакомиться с вами обеими!"
     },
     "ebm:mm03/event_message_mm03_040.ebm:11": {
       "source": "pack01_ebm",
@@ -5346,7 +5346,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Yes! We won! I guess you really don't know until you try, do you?",
-      "translation": "Да! Мы выиграли! Думаю, ты действительно не узнаешь, пока не попробуешь, не так ли?"
+      "translation": "Да! Мы победили! Полагаю, по-настоящему узнать можно только на собственном опыте, не так ли?"
     },
     "ebm:mm03/event_message_mm03_070.ebm:1": {
       "source": "pack01_ebm",
@@ -5362,7 +5362,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "H-Hello. Are you the family of those monsters we just... defeated?",
-      "translation": "Х-Привет. Вы семья тех монстров, которых мы только что... победили?"
+      "translation": "П-Привет. Вы семья тех монстров, которых мы только что... победили?"
     },
     "ebm:mm03/event_message_mm03_070.ebm:3": {
       "source": "pack01_ebm",
@@ -5386,7 +5386,7 @@
       "index": 5,
       "speaker": "Ilmeria",
       "original": "Girls! What are you doing?! Are you hurt?",
-      "translation": "Девушки! Что вы делаете?! Вам не больно?"
+      "translation": "Девочки! Что вы делаете?! Вам не больно?"
     },
     "ebm:mm03/event_message_mm03_070.ebm:6": {
       "source": "pack01_ebm",
@@ -5394,7 +5394,7 @@
       "index": 6,
       "speaker": "Sue",
       "original": "T-Ilmeria! What're you doing here?!",
-      "translation": "Т-Ильмерия! Что ты здесь делаешь?!"
+      "translation": "И-Ильмерия! Что ты здесь делаешь?!"
     },
     "ebm:mm03/event_message_mm03_070.ebm:7": {
       "source": "pack01_ebm",
@@ -5418,7 +5418,7 @@
       "index": 9,
       "speaker": "Lydie",
       "original": "Waaah! Ilmeria! Teach! I was so scared!",
-      "translation": "Вааа! Ильмерия! Учитель! Я так испугалась!"
+      "translation": "Аааа! Ильмерия! Учитель! Я так испугалась!"
     },
     "ebm:mm03/event_message_mm03_070.ebm:10": {
       "source": "pack01_ebm",
@@ -5490,7 +5490,7 @@
       "index": 2,
       "speaker": "Ilmeria",
       "original": "Mireille. I think it is too dangerous for them to be out there alone.",
-      "translation": "Мирей. Я думаю, что им слишком опасно оставаться там в одиночестве."
+      "translation": "Мирей. Я думаю, что им слишком опасно оставаться там одним."
     },
     "ebm:mm03/event_message_mm03_080.ebm:3": {
       "source": "pack01_ebm",
@@ -5506,7 +5506,7 @@
       "index": 4,
       "speaker": "Mireille",
       "original": "Wait, Ilmeria. You've already got too much on your plate.",
-      "translation": "Подожди, Ильмерия. У тебя уже слишком много на тарелке."
+      "translation": "Подожди, Ильмерия. У тебя и так дел по горло."
     },
     "ebm:mm03/event_message_mm03_080.ebm:5": {
       "source": "pack01_ebm",
@@ -5514,7 +5514,7 @@
       "index": 5,
       "speaker": "Ilmeria",
       "original": "True, you're keeping me very busy. But still...",
-      "translation": "Правда, ты меня совсем задергала. Но всё же..."
+      "translation": "Да уж, скучать вы мне точно не даёте. Но всё же..."
     },
     "ebm:mm03/event_message_mm03_080.ebm:6": {
       "source": "pack01_ebm",
@@ -5570,7 +5570,7 @@
       "index": 12,
       "speaker": "Ilmeria",
       "original": "No I didn't. I just cleaned up the stragglers. Right?",
-      "translation": "Нет, я этого не сделала. Я лишь разобралась с отставшими. Верно?"
+      "translation": "Нет, я этого не делала. Я лишь разобралась с отставшими. Верно?"
     },
     "ebm:mm03/event_message_mm03_080.ebm:13": {
       "source": "pack01_ebm",
@@ -5586,7 +5586,7 @@
       "index": 14,
       "speaker": "Mireille",
       "original": "Once the kingdom recognizes the deeds of your atelier, you can take the Promotion Test.",
-      "translation": "Как только королевство признает деяния вашего ателье, вы сможете пройти Испытание ранга."
+      "translation": "Как только королевство признает достижения вашего ателье, вы сможете пройти Испытание ранга."
     },
     "ebm:mm03/event_message_mm03_080.ebm:15": {
       "source": "pack01_ebm",
@@ -5634,7 +5634,7 @@
       "index": 20,
       "speaker": "Mireille",
       "original": "So, a bodyguard, huh... Luckily, I have just the person in mind.",
-      "translation": "Итак, телохранитель, да... К счастью, у меня как раз есть на примете подходящий человек."
+      "translation": "Итак, защитник, да... К счастью, у меня как раз есть на примете подходящий человек."
     },
     "ebm:mm03/event_message_mm03_090.ebm:0": {
       "source": "pack01_ebm",
@@ -5642,7 +5642,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "I read the requirements. Basically, like she said, we need to increase our reputation.",
-      "translation": "Я прочитала требования. По сути, как она сказала, нам нужно повысить свою репутацию."
+      "translation": "Я прочитала требования. По сути, как она и сказала, нам нужно повысить свою репутацию."
     },
     "ebm:mm03/event_message_mm03_090.ebm:1": {
       "source": "pack01_ebm",
@@ -5706,7 +5706,7 @@
       "index": 8,
       "speaker": "System",
       "original": "You can check it by opening the Ambitions Journal in the Main Menu.",
-      "translation": "Проверить это можно, открыв Журнал Амбиций в Главном меню."
+      "translation": "Проверить это можно, открыв Журнал амбиций в Главном меню."
     },
     "ebm:mm03/event_message_mm03_090.ebm:9": {
       "source": "pack01_ebm",
@@ -5714,7 +5714,7 @@
       "index": 9,
       "speaker": "System",
       "original": "The Ambitions Journal contains ideas to increase the reputation of the Atelier.",
-      "translation": "Журнал «Амбиции» содержит идеи по повышению репутации Ателье."
+      "translation": "Журнал амбиций содержит идеи по повышению репутации Ателье."
     },
     "ebm:mm03/event_message_mm03_090.ebm:10": {
       "source": "pack01_ebm",
@@ -5722,7 +5722,7 @@
       "index": 10,
       "speaker": "System",
       "original": "<CLR1>Check the Ambitions Journal often in order to increase the reputation of your atelier!<CLNR>",
-      "translation": "<CLR1>Часто проверяйте журнал «Амбиции», чтобы повысить репутацию вашего ателье!<CLNR>"
+      "translation": "<CLR1>Часто проверяйте Журнал амбиций, чтобы повысить репутацию вашего ателье!<CLNR>"
     },
     "ebm:mm03/event_message_mm03_090.ebm:11": {
       "source": "pack01_ebm",
@@ -181851,7 +181851,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866665",
       "original": "Reputation: Ambitions Journal",
-      "translation": "Репутация: Журнал «Амбиции»"
+      "translation": "Репутация: Журнал амбиций"
     },
     "pack02:3866666": {
       "source": "pack02_text_en",
@@ -214429,7 +214429,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422610",
       "original": "&lt;CLGR&gt;- Let’s use the Ambitions Journal as a ^00　guide to raise our atelier’s reputation!&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;- Давайте использовать журнал «Амбиции» как руководство по повышению репутации нашего ателье!&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;- Давайте использовать Журнал амбиций как руководство по повышению репутации нашего ателье!&lt;CLNR&gt;"
     },
     "pack02:6422611": {
       "source": "pack02_text_en",
@@ -214653,7 +214653,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422642",
       "original": "&lt;CLGR&gt;- Let’s use the Ambitions Journal as a ^00　guide to raise our atelier’s reputation!&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;- Давайте использовать журнал «Амбиции» как руководство по повышению репутации нашего ателье!&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;- Давайте использовать Журнал амбиций как руководство по повышению репутации нашего ателье!&lt;CLNR&gt;"
     },
     "pack02:6422643": {
       "source": "pack02_text_en",
@@ -214961,7 +214961,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422686",
       "original": "&lt;CLGR&gt;- Let’s use the Ambitions Journal as a ^00　guide to raise our atelier’s reputation!&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;- Давайте использовать журнал «Амбиции» как руководство по повышению репутации нашего ателье!&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;- Давайте использовать Журнал амбиций как руководство по повышению репутации нашего ателье!&lt;CLNR&gt;"
     },
     "pack02:6422687": {
       "source": "pack02_text_en",
@@ -215507,7 +215507,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422764",
       "original": "&lt;CLGR&gt;- Let’s use the Ambitions Journal as a ^00　guide to raise our atelier’s reputation!&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;- Давайте использовать журнал «Амбиции» как руководство по повышению репутации нашего ателье!&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;- Давайте использовать Журнал амбиций как руководство по повышению репутации нашего ателье!&lt;CLNR&gt;"
     },
     "pack02:6422765": {
       "source": "pack02_text_en",
@@ -215654,14 +215654,14 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422785",
       "original": "&lt;CLGR&gt;- Let’s use the Ambitions Journal as a ^00　guide to raise our atelier’s reputation.&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;- Давайте использовать журнал «Амбиции» как руководство по повышению репутации нашего ателье.&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;- Давайте использовать Журнал амбиций как руководство по повышению репутации нашего ателье.&lt;CLNR&gt;"
     },
     "pack02:6422786": {
       "source": "pack02_text_en",
       "file": "str_summary_checkbox.xml",
       "string_no": "6422786",
       "original": "　↑Have you filled in a lot in the ^00　　Ambitions Journal?^00　　　　　　　　　　　　　　　[Lydie]^00　↑Quite a lot. I should have used a ^00　　thicker notebook.^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "　↑Вы много заполняли в Журнале Амбиций?^00　　　　　　　　　　　　　　[Лидия]^00　↑Довольно много. Мне следовало использовать блокнот на потолще.^00　　　　　　　　　　　　　　　[Сью]"
+      "translation": "　↑Вы много заполняли в Журнале амбиций?^00　　　　　　　　　　　　　　[Лидия]^00　↑Довольно много. Мне следовало использовать блокнот на потолще.^00　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6422787": {
       "source": "pack02_text_en",
@@ -215738,7 +215738,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422797",
       "original": "&lt;CLGR&gt;- Let’s use the Ambitions Journal as a ^00　guide to raise our atelier’s reputation.&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;- Давайте использовать журнал «Амбиции» как руководство по повышению репутации нашего ателье.&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;- Давайте использовать Журнал амбиций как руководство по повышению репутации нашего ателье.&lt;CLNR&gt;"
     },
     "pack02:6422798": {
       "source": "pack02_text_en",
@@ -216095,7 +216095,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422849",
       "original": "&lt;CLGR&gt;- Let’s use the Ambitions Journal as a ^00　guide to raise our atelier’s reputation.&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;- Давайте использовать журнал «Амбиции» как руководство по повышению репутации нашего ателье.&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;- Давайте использовать Журнал амбиций как руководство по повышению репутации нашего ателье.&lt;CLNR&gt;"
     },
     "pack02:6422850": {
       "source": "pack02_text_en",
@@ -216452,7 +216452,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6225949",
       "original": "Sue’s made an Ambitions Journal for us, which we can use as a guide to raise the reputation of the atelier. Plus, we don’t know what kind of test we might have to take, so we need to keep practicing our alchemy too. ^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Сью подготовила для нас журнал «Амбиции», который мы можем использовать в качестве руководства для повышения репутации ателье. Кроме того, мы не знаем, какой тест нам, возможно, придется пройти, поэтому нам также нужно продолжать практиковать алхимию. ^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Сью подготовила для нас Журнал амбиций, который мы можем использовать в качестве руководства для повышения репутации ателье. Кроме того, мы не знаем, какой тест нам, возможно, придется пройти, поэтому нам также нужно продолжать практиковать алхимию. ^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6225950": {
       "source": "pack02_text_en",
