@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-28T05:44:16.802476+00:00",
+  "generated_at": "2026-08-28T06:55:49.653645+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -1834,7 +1834,7 @@
       "index": 0,
       "speaker": "Sue",
       "original": "This place really is mysterious. Do you think there are worlds like this inside every painting?",
-      "translation": "Это место действительно загадочное. Как ты думаешь, внутри каждой картины есть такие миры?"
+      "translation": "Это место действительно таинственное. Как ты думаешь, внутри каждой картины есть такие миры?"
     },
     "ebm:mm01/event_message_mm01_280.ebm:1": {
       "source": "pack01_ebm",
@@ -6650,7 +6650,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Uwah! I thought we were here for eggs? We have to defeat that monster first?",
-      "translation": "Ува! Я думала, мы здесь за яйцами? Нам сначала нужно победить этого монстра?"
+      "translation": "Ой! Я думала, мы здесь за яйцами? Нам сначала нужно победить этого монстра?"
     },
     "ebm:mm03/event_message_mm03_170.ebm:2": {
       "source": "pack01_ebm",
@@ -6658,7 +6658,7 @@
       "index": 2,
       "speaker": "Mathias",
       "original": "That won't be an easy battle. Wouldn't it be faster to just pick up the eggs we can find?",
-      "translation": "Это будет нелегкая битва. Не быстрее ли было бы просто собрать яйца, которые мы сможем найти?"
+      "translation": "Это будет нелёгкая битва. Не быстрее ли было бы просто собрать яйца, которые мы сможем найти?"
     },
     "ebm:mm03/event_message_mm03_170.ebm:3": {
       "source": "pack01_ebm",
@@ -6666,7 +6666,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "Hey, \"bodyguard\". You're getting cold feet already?",
-      "translation": "Эй, «телохранитель». Уже струсил?"
+      "translation": "Эй, «защитник». Уже струсил?"
     },
     "ebm:mm03/event_message_mm03_170.ebm:4": {
       "source": "pack01_ebm",
@@ -6674,7 +6674,7 @@
       "index": 4,
       "speaker": "Mathias",
       "original": "Not exactly. Teaching you to avoid unnecessary battles is one of the key parts of being a bodyguard.",
-      "translation": "Не совсем. Научить вас избегать ненужных сражений — одна из ключевых частей работы телохранителя."
+      "translation": "Не совсем. Научить вас избегать ненужных сражений — одна из ключевых частей работы защитника."
     },
     "ebm:mm03/event_message_mm03_170.ebm:5": {
       "source": "pack01_ebm",
@@ -6738,7 +6738,7 @@
       "index": 0,
       "speaker": "Mireille",
       "original": "Hehe, great work. You passed. Congratulations on advancing to G Rank, both of you!",
-      "translation": "Хе-хе, отличная работа. Вы прошли. Поздравляем вас обоих с повышением ранга G!"
+      "translation": "Хе-хе, отличная работа. Вы прошли. Поздравляем вас обеих с повышением до ранга G!"
     },
     "ebm:mm03/event_message_mm03_180.ebm:1": {
       "source": "pack01_ebm",
@@ -6754,7 +6754,7 @@
       "index": 2,
       "speaker": "Mireille",
       "original": "I'm glad you're pleased. Tell me, was Mathias any help?",
-      "translation": "Я рада, что ты довольна. Скажи мне, помог ли Матиас?"
+      "translation": "Я рада, что ты довольна. Скажите мне, помог ли Матиас?"
     },
     "ebm:mm03/event_message_mm03_180.ebm:3": {
       "source": "pack01_ebm",
@@ -6826,7 +6826,7 @@
       "index": 11,
       "speaker": "Lydie",
       "original": "I also heard it last time we were here. Is there anyone back there?",
-      "translation": "Я тоже слышала его, когда мы были здесь в прошлый раз. Там сзади есть кто-нибудь?"
+      "translation": "Я также слышала его, когда мы были здесь в прошлый раз. Там кто-нибудь есть?"
     },
     "ebm:mm03/event_message_mm03_180.ebm:12": {
       "source": "pack01_ebm",
@@ -6842,7 +6842,7 @@
       "index": 13,
       "speaker": "Mireille",
       "original": "Say, girls. Would you like to go somewhere fun with me?",
-      "translation": "Скажите, девочки. Хотите пойти со мной куда-нибудь повеселиться?"
+      "translation": "Скажите, девочки. Хотите пойти со мной куда-нибудь весело провести время?"
     },
     "ebm:mm03/event_message_mm03_180.ebm:14": {
       "source": "pack01_ebm",
@@ -6858,7 +6858,7 @@
       "index": 15,
       "speaker": "Mireille",
       "original": "Good. You can go on ahead to the gallery.",
-      "translation": "Хорошо. Можете идти вперёд в галерею."
+      "translation": "Хорошо. Можете идти в галерею."
     },
     "ebm:mm03/event_message_mm03_180.ebm:16": {
       "source": "pack01_ebm",
@@ -6866,7 +6866,7 @@
       "index": 16,
       "speaker": "Mireille",
       "original": "I'm going to show you a mysterious world.",
-      "translation": "Я покажу вам загадочный мир."
+      "translation": "Я покажу вам таинственный мир."
     },
     "ebm:mm03/event_message_mm03_190.ebm:0": {
       "source": "pack01_ebm",
@@ -6874,7 +6874,7 @@
       "index": 0,
       "speaker": "Mireille",
       "original": "Will you both head down to the gallery?",
-      "translation": "Вы оба спуститесь в галерею?"
+      "translation": "Вы обе отправитесь в галерею?"
     },
     "ebm:mm03/event_message_mm03_200.ebm:0": {
       "source": "pack01_ebm",
@@ -6890,7 +6890,7 @@
       "index": 1,
       "speaker": "Mireille",
       "original": "Its title is \"The Spooky Forest\", and it's what we call a \"Mysterious Painting\".",
-      "translation": "Его название — «Жуткий лес», и это то, что мы называем «Таинственной картиной»."
+      "translation": "Её название — «Жуткий лес», и это то, что мы называем «Таинственной картиной»."
     },
     "ebm:mm03/event_message_mm03_200.ebm:2": {
       "source": "pack01_ebm",
@@ -6930,7 +6930,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "Wow! So the one in our basement was also a Mysterious Painting...",
-      "translation": "Ух ты! Значит, та, что в нашем подвале, тоже была загадочной картиной..."
+      "translation": "Ух ты! Значит, та, что в нашем подвале, тоже была Таинственной картиной..."
     },
     "ebm:mm03/event_message_mm03_200.ebm:7": {
       "source": "pack01_ebm",
@@ -7018,7 +7018,7 @@
       "index": 17,
       "speaker": "Lydie",
       "original": "A voice from a Mysterious Painting? Is that possible?",
-      "translation": "Голос с загадочной картины? Возможно ли это?"
+      "translation": "Голос с Таинственной картины? Возможно ли это?"
     },
     "ebm:mm03/event_message_mm03_200.ebm:18": {
       "source": "pack01_ebm",
@@ -7034,7 +7034,7 @@
       "index": 19,
       "speaker": "Mireille",
       "original": "If you can hear such a voice, you'd be perfect for investigating Mysterious Paintings.",
-      "translation": "Если вы слышите такой голос, вы идеально подходите для исследования загадочных картин."
+      "translation": "Если вы слышите такой голос, вы идеально подходите для исследования Таинственных картин."
     },
     "ebm:mm03/event_message_mm03_200.ebm:20": {
       "source": "pack01_ebm",
@@ -7114,7 +7114,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "Count me in! We're going into this mysterious world!",
-      "translation": "Я с вами! Мы отправляемся в этот загадочный мир!"
+      "translation": "Я с вами! Мы отправляемся в этот таинственный мир!"
     },
     "ebm:mm03/event_message_mm03_220.ebm:5": {
       "source": "pack01_ebm",
@@ -8410,7 +8410,7 @@
       "index": 11,
       "speaker": "Lucia",
       "original": "What a mysterious color. I've never seen stones like this before.",
-      "translation": "Какой загадочный цвет. Я никогда раньше не видела таких камней."
+      "translation": "Какой таинственный цвет. Я никогда раньше не видела таких камней."
     },
     "ebm:mm03/event_message_mm03_410.ebm:12": {
       "source": "pack01_ebm",
@@ -8562,7 +8562,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "So there are other Mysterious Paintings? We'd love to help you, of course!",
-      "translation": "Значит, существуют и другие загадочные картины? Конечно, мы будем рады вам помочь!"
+      "translation": "Значит, существуют и другие Таинственные картины? Конечно, мы будем рады вам помочь!"
     },
     "ebm:mm03/event_message_mm03_420.ebm:10": {
       "source": "pack01_ebm",
@@ -8866,7 +8866,7 @@
       "index": 4,
       "speaker": "Mireille",
       "original": "I've obtained a new Mysterious Painting! As we promised, you can go in once you raise your rank.",
-      "translation": "Я получила новую загадочную картину! Как мы и обещали, вы сможете войти, как только повысите свой ранг."
+      "translation": "Я получила новую Таинственную картину! Как мы и обещали, вы сможете войти, как только повысите свой ранг."
     },
     "ebm:mm04/event_message_mm04_020.ebm:5": {
       "source": "pack01_ebm",
@@ -8898,7 +8898,7 @@
       "index": 8,
       "speaker": "Sue",
       "original": "Just how are you collecting these Mysterious Paintings? Are they just lying around somewhere?",
-      "translation": "Как ты собираешь эти загадочные картины? Они просто где-то валяются?"
+      "translation": "Как ты собираешь эти Таинственные картины? Они просто где-то валяются?"
     },
     "ebm:mm04/event_message_mm04_020.ebm:9": {
       "source": "pack01_ebm",
@@ -9170,7 +9170,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "Whatever. Does that mean you know about Mysterious Paintings?",
-      "translation": "Как бы там ни было. Означает ли это, что ты знаешь о загадочных картинах?"
+      "translation": "Как бы там ни было. Означает ли это, что ты знаешь о Таинственных картинах?"
     },
     "ebm:mm04/event_message_mm04_040.ebm:3": {
       "source": "pack01_ebm",
@@ -9274,7 +9274,7 @@
       "index": 15,
       "speaker": "Roger",
       "original": "Nope, that can't be. I painted that picture! I can't make Mysterious Paintings, never! Hahaha!",
-      "translation": "Нет, этого не может быть. Я нарисовал эту картину! Я не могу создавать загадочные картины, никогда! Ха-ха-ха!"
+      "translation": "Нет, этого не может быть. Я нарисовал эту картину! Я не могу создавать Таинственные картины, никогда! Ха-ха-ха!"
     },
     "ebm:mm04/event_message_mm04_040.ebm:16": {
       "source": "pack01_ebm",
@@ -9386,7 +9386,7 @@
       "index": 10,
       "speaker": "Sue",
       "original": "Inside a Mysterious Painting, actually. You know about them, Ilmeria, don't you?",
-      "translation": "Собственно, внутри загадочной картины. Ты знаешь о них, Ильмерия, не так ли?"
+      "translation": "Собственно, внутри Таинственной картины. Ты знаешь о них, Ильмерия, не так ли?"
     },
     "ebm:mm04/event_message_mm04_050.ebm:11": {
       "source": "pack01_ebm",
@@ -10466,7 +10466,7 @@
       "index": 5,
       "speaker": "Mireille",
       "original": "You see, \"The Luminous Ice Grotto\" is very old. It's lost its power as a Mysterious Painting.",
-      "translation": "Видите ли, «Светящийся ледяной грот» очень старый. Она потеряла свою силу как Таинственная Картина."
+      "translation": "Видите ли, «Светящийся ледяной грот» очень старый. Она потеряла свою силу как Таинственная картина."
     },
     "ebm:mm04/event_message_mm04_150.ebm:6": {
       "source": "pack01_ebm",
@@ -10498,7 +10498,7 @@
       "index": 9,
       "speaker": "Mireille",
       "original": "Ahem. In any case, that's how we return the lost power of a Mysterious Painting.",
-      "translation": "Кхм. В любом случае, именно так мы возвращаем утраченную силу Таинственной Картины."
+      "translation": "Кхм. В любом случае, именно так мы возвращаем утраченную силу Таинственной картины."
     },
     "ebm:mm04/event_message_mm04_150.ebm:10": {
       "source": "pack01_ebm",
@@ -10834,7 +10834,7 @@
       "index": 4,
       "speaker": "Roger",
       "original": "They are also called \"Neige's Paints\", after the first person to make a Mysterious Painting.",
-      "translation": "Их также называют «Красками Нейдж» в честь первой, кто создала загадочную картину."
+      "translation": "Их также называют «Красками Нейдж» в честь первой, кто создала Таинственную картину."
     },
     "ebm:mm04/event_message_mm04_170.ebm:5": {
       "source": "pack01_ebm",
@@ -10874,7 +10874,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Huh. Dad's like a different person when it comes to Mysterious Paintings.",
-      "translation": "Хм. Когда дело доходит до загадочных картин, папа становится другим человеком."
+      "translation": "Хм. Когда дело доходит до Таинственных картин, папа становится другим человеком."
     },
     "ebm:mm04/event_message_mm04_170.ebm:10": {
       "source": "pack01_ebm",
@@ -11050,7 +11050,7 @@
       "index": 0,
       "speaker": "Firis",
       "original": "Hey, this is a Mysterious Painting! I heard a bit about these from Ilmeria.",
-      "translation": "Эй, это загадочная картина! Я кое-что слышала об этом от Ильмерии."
+      "translation": "Эй, это Таинственная картина! Я кое-что слышала об этом от Ильмерии."
     },
     "ebm:mm04/event_message_mm04_210.ebm:1": {
       "source": "pack01_ebm",
@@ -11594,7 +11594,7 @@
       "index": 7,
       "speaker": "Lucia",
       "original": "One thing I have to say, though. Investigating these Mysterious Paintings is a bit dangerous!",
-      "translation": "Однако я должна сказать одну вещь. Исследовать эти загадочные картины немного опасно!"
+      "translation": "Однако я должна сказать одну вещь. Исследовать эти Таинственные картины немного опасно!"
     },
     "ebm:mm04/event_message_mm04_260.ebm:8": {
       "source": "pack01_ebm",
@@ -13426,7 +13426,7 @@
       "index": 13,
       "speaker": "Mathias",
       "original": "And that there's another world inside it. In other words, a Mysterious Painting.",
-      "translation": "И что внутри него есть другой мир. Другими словами, загадочная картина."
+      "translation": "И что внутри него есть другой мир. Другими словами, Таинственная картина."
     },
     "ebm:mm05/event_message_mm05_100.ebm:14": {
       "source": "pack01_ebm",
@@ -18706,7 +18706,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "This is \"The Frozen Palace\"? The first of the Mysterious Paintings...",
-      "translation": "Это «Ледяной дворец»? Первая из загадочных картин..."
+      "translation": "Это «Ледяной дворец»? Первая из Таинственных картин..."
     },
     "ebm:mm06/event_message_mm06_310.ebm:1": {
       "source": "pack01_ebm",
@@ -20010,7 +20010,7 @@
       "index": 14,
       "speaker": "Lydie",
       "original": "W-Wow... these Mysterious Paintings really are complex!",
-      "translation": "Н-ух... эти загадочные картины действительно сложны!"
+      "translation": "Н-ух... эти Таинственные картины действительно сложны!"
     },
     "ebm:mm06/event_message_mm06_450.ebm:15": {
       "source": "pack01_ebm",
@@ -29546,7 +29546,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Hey, Dad? Have you ever heard a mysterious voice?",
-      "translation": "Эй, пап? Ты когда-нибудь слышал загадочный голос?"
+      "translation": "Эй, пап? Ты когда-нибудь слышал таинственный голос?"
     },
     "ebm:mm10/event_message_mm10_020.ebm:1": {
       "source": "pack01_ebm",
@@ -29666,7 +29666,7 @@
       "index": 15,
       "speaker": "Roger",
       "original": "Hmm, I see. Mysterious indeed.",
-      "translation": "Хм, понятно. И правда загадочно."
+      "translation": "Хм, понятно. И правда таинственно."
     },
     "ebm:mm10/event_message_mm10_020.ebm:16": {
       "source": "pack01_ebm",
@@ -41850,7 +41850,7 @@
       "index": 4,
       "speaker": "Grace",
       "original": "You really are mysterious, Pamela. Although I guess that isn't news to anyone.",
-      "translation": "Ты и правда загадочная, Памела. Хотя, думаю, это ни для кого не новость."
+      "translation": "Ты и правда таинственная, Памела. Хотя, думаю, это ни для кого не новость."
     },
     "ebm:mm12/event_message_mm12_370.ebm:5": {
       "source": "pack01_ebm",
@@ -48474,7 +48474,7 @@
       "index": 6,
       "speaker": "System",
       "original": "Using certain items can transform the battlefield into the world of a Mysterious Painting.",
-      "translation": "Использование определенных предметов может превратить поле битвы в мир таинственной картины."
+      "translation": "Использование определенных предметов может превратить поле битвы в мир Таинственной картины."
     },
     "ebm:ms04/event_message_ms04_140.ebm:7": {
       "source": "pack01_ebm",
@@ -51682,7 +51682,7 @@
       "index": 2,
       "speaker": "Mathias",
       "original": "Hello, my divine dear. You have such a mysterious air about you! Such a biblical beauty!",
-      "translation": "Здравствуй, моя божественная. В тебе такая загадочная аура! Такая библейская красота!"
+      "translation": "Здравствуй, моя божественная. В тебе такая таинственная аура! Такая библейская красота!"
     },
     "ebm:ms06/event_message_ms06_010.ebm:3": {
       "source": "pack01_ebm",
@@ -71386,7 +71386,7 @@
       "index": 5,
       "speaker": "Alt",
       "original": "Mysterious Paintings, actually...",
-      "translation": "О загадочных картинах, если честно..."
+      "translation": "О Таинственных картинах, если честно..."
     },
     "ebm:qc05_alt/event_message_qc05_alt_100.ebm:6": {
       "source": "pack01_ebm",
@@ -104594,7 +104594,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "I may not be able to move the Mysterious Paintings, but I do have a \"Slightly Mysterious Painting\" on me!",
-      "translation": "Я, может, и не смогу переместить Таинственные картины, но у меня с собой есть «Слегка таинственная картина»!"
+      "translation": "Я, может, и не смогу переместить Таинственные картины, но у меня с собой есть «Слегка Таинственная картина»!"
     },
     "ebm:xx05/event_message_xx05_030.ebm:12": {
       "source": "pack01_ebm",
@@ -104602,7 +104602,7 @@
       "index": 12,
       "speaker": "Lydie",
       "original": "A \"Slightly Mysterious Painting\"?! S-Sue, how did you...?",
-      "translation": "«Слегка таинственная картина»?! С-Сью, как ты...?"
+      "translation": "«Слегка Таинственная картина»?! С-Сью, как ты...?"
     },
     "ebm:xx05/event_message_xx05_030.ebm:13": {
       "source": "pack01_ebm",
@@ -104634,7 +104634,7 @@
       "index": 16,
       "speaker": "Ilmeria",
       "original": "I see... This is your \"Slightly Mysterious Painting\"... It's a fascinating work indeed... Very peculiar style...",
-      "translation": "Понятно... Это ваша «Слегка таинственная картина»... Действительно увлекательная работа... Очень своеобразный стиль..."
+      "translation": "Понятно... Это ваша «Слегка Таинственная картина»... Действительно увлекательная работа... Очень своеобразный стиль..."
     },
     "ebm:xx05/event_message_xx05_030.ebm:17": {
       "source": "pack01_ebm",
@@ -104674,7 +104674,7 @@
       "index": 21,
       "speaker": "Lydie",
       "original": "Only as a \"Slightly Mysterious Painting\"! Hmph, of course she'd think my paintings are \"mysterious\"...!",
-      "translation": "Только как «Слегка таинственную картину»! Хмф, конечно, она подумает, что мои картины «таинственные»...!"
+      "translation": "Только как «Слегка Таинственную картину»! Хмф, конечно, она подумает, что мои картины «таинственные»...!"
     },
     "ebm:xx05/event_message_xx05_030.ebm:22": {
       "source": "pack01_ebm",
@@ -117080,7 +117080,7 @@
       "file": "str_action_name.xml",
       "string_no": "19922995",
       "original": "Mysterious Capsule",
-      "translation": "Загадочная капсула"
+      "translation": "Таинственная капсула"
     },
     "pack02:19922996": {
       "source": "pack02_text_en",
@@ -124416,7 +124416,7 @@
       "file": "str_balloon_select.xml",
       "string_no": "52822025",
       "original": "Create Mysterious Paintings.",
-      "translation": "Создайте загадочные картины."
+      "translation": "Создайте Таинственные картины."
     },
     "pack02:52822026": {
       "source": "pack02_text_en",
@@ -140110,7 +140110,7 @@
       "file": "str_extra_bgm.xml",
       "string_no": "1769607",
       "original": "This tune is played when playing as Lydie in the Heavenly Flower Garden. In order to express the mysteriousness of the situation the twins find themselves in, I chose some more esoteric sounds than usually found in the Atelier tracks. The idea is to produce a light, happy feeling, like waking up in the middle of a dream. Most Atelier tracks have a well-defined melody, so the difficulty here was in balancing that with the ambience I wanted to achieve. (Yano)",
-      "translation": "Эта мелодия звучит при игре за Лидия в Небесном цветочном саду. Чтобы передать загадочность ситуации, в которой оказались близнецы, я выбрал несколько более эзотерических звуков, чем обычно можно встретить в треках Ателье. Идея состоит в том, чтобы вызвать ощущение легкости и счастья, как будто вы просыпаетесь посреди сна. Большинство треков Ателье имеют четко выраженную мелодию, поэтому сложность заключалась в том, чтобы сбалансировать ее с атмосферой, которую я хотел достичь. (Яно)"
+      "translation": "Эта мелодия звучит при игре за Лидия в Небесном цветочном саду. Чтобы передать таинственность ситуации, в которой оказались близнецы, я выбрал несколько более эзотерических звуков, чем обычно можно встретить в треках Ателье. Идея состоит в том, чтобы вызвать ощущение легкости и счастья, как будто вы просыпаетесь посреди сна. Большинство треков Ателье имеют четко выраженную мелодию, поэтому сложность заключалась в том, чтобы сбалансировать ее с атмосферой, которую я хотел достичь. (Яно)"
     },
     "pack02:1769608": {
       "source": "pack02_text_en",
@@ -140747,7 +140747,7 @@
       "file": "str_extra_bgm.xml",
       "string_no": "1769698",
       "original": "I was kind of at a loss regarding this title, but I think I came up with something good here (he says boastfully). There’s something about the word “mystery” that really makes the heart beat faster. I always loved the mysterious, even when I was a kid - monsters, ghosts, cryptozoology... It’s that love of the mysterious that led to this job in a way. I always really look forward to seeing the monster designs in each title. (Achiwa)",
-      "translation": "Я как-то растерялся в этом названии, но думаю, что придумал здесь что-то хорошее (хвастливо говорит он). В слове «тайна» есть что-то такое, что действительно заставляет сердце биться быстрее. Я всегда любил загадочное, даже когда был ребенком — монстров, призраков, криптозоологию... Именно эта любовь к таинственному в каком-то смысле и привела к этой работе. Я всегда с нетерпением жду возможности увидеть изображения монстров в каждой игре. (Ачива)"
+      "translation": "Я как-то растерялся в этом названии, но думаю, что придумал здесь что-то хорошее (хвастливо говорит он). В слове «тайна» есть что-то такое, что действительно заставляет сердце биться быстрее. Я всегда любил таинственное, даже когда был ребенком — монстров, призраков, криптозоологию... Именно эта любовь к таинственному в каком-то смысле и привела к этой работе. Я всегда с нетерпением жду возможности увидеть изображения монстров в каждой игре. (Ачива)"
     },
     "pack02:1769699": {
       "source": "pack02_text_en",
@@ -140859,7 +140859,7 @@
       "file": "str_extra_bgm.xml",
       "string_no": "1769714",
       "original": "The title, “Prism,” is meant to suggest something that, with a little effort, can turn a single thing into a wide range of varied possibilities. It also relates to the central theme of colors, tying in nicely to the image of the mysterious paintings. I’m quite proud of it. (Achiwa)^00",
-      "translation": "Название «Призма» призвано намекнуть на то, что при небольшом усилии может превратить одну вещь в широкий спектр разнообразных возможностей. Это также связано с центральной темой цветов, прекрасно сочетающейся с изображением загадочных картин. Я этим очень горжусь. (Ачива)^00"
+      "translation": "Название «Призма» призвано намекнуть на то, что при небольшом усилии может превратить одну вещь в широкий спектр разнообразных возможностей. Это также связано с центральной темой цветов, прекрасно сочетающейся с изображением таинственных картин. Я этим очень горжусь. (Ачива)^00"
     },
     "pack02:1769715": {
       "source": "pack02_text_en",
@@ -141391,7 +141391,7 @@
       "file": "str_extra_ipu.xml",
       "string_no": "1835040",
       "original": "A Mysterious, Mysterious Tale",
-      "translation": "Таинственная, загадочная история"
+      "translation": "Таинственная, таинственная история"
     },
     "pack02:1835041": {
       "source": "pack02_text_en",
@@ -163077,7 +163077,7 @@
       "file": "str_item_factor.xml",
       "string_no": "7078961",
       "original": "Mysterious Smell",
-      "translation": "Загадочный запах"
+      "translation": "Таинственный запах"
     },
     "pack02:7078962": {
       "source": "pack02_text_en",
@@ -184784,7 +184784,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473756",
       "original": "“Urgh... To think you’d make a painting tool in case you find a mysterious painting you can’t make sense of...”^00“Ahaha... I think it’s fine. My gut instinct never lies.”",
-      "translation": "«Уф... Подумать только, ты сделала живописный инструмент на случай, если найдёшь загадочную картину, которую не понимаешь...»^00«Ахаха... Думаю, нормально. Моя интуиция меня никогда не подводит.»"
+      "translation": "«Уф... Подумать только, ты сделала живописный инструмент на случай, если найдёшь таинственную картину, которую не понимаешь...»^00«Ахаха... Думаю, нормально. Моя интуиция меня никогда не подводит.»"
     },
     "pack02:3473757": {
       "source": "pack02_text_en",
@@ -184798,7 +184798,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473758",
       "original": "“I, Lydie...”^00“...and I, Sue, have made this!”^00“It’s the new and improved mysterious paint! You can make lots of mysterious paintings with this, ooh!”",
-      "translation": "«Я, Лидия...»^00«...а я, Сью, сделали это!»^00«Это новая и улучшенная таинственная краска! С ней можно нарисовать кучу загадочных картин, о-о-о!»"
+      "translation": "«Я, Лидия...»^00«...а я, Сью, сделали это!»^00«Это новая и улучшенная таинственная краска! С ней можно нарисовать кучу таинственных картин, о-о-о!»"
     },
     "pack02:3473759": {
       "source": "pack02_text_en",
@@ -185918,7 +185918,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473963",
       "original": "“These crystals are created within the mysterious paintings and represent the artist’s feelings. They’re known as ‘color fragments’.”^00“In other words, those are your feelings. Right, Neige? Thank you. I’ll be sure to take good care of them.”",
-      "translation": "«Эти кристаллы создаются внутри загадочных картин и отражают чувства художника. Их называют “цветовыми осколками”.»^00«То есть это твои чувства. Верно, Нейдж? Спасибо. Я буду их беречь.»"
+      "translation": "«Эти кристаллы создаются внутри таинственных картин и отражают чувства художника. Их называют “цветовыми осколками”.»^00«То есть это твои чувства. Верно, Нейдж? Спасибо. Я буду их беречь.»"
     },
     "pack02:3473964": {
       "source": "pack02_text_en",
@@ -187094,7 +187094,7 @@
       "file": "str_library_map.xml",
       "string_no": "3735614",
       "original": "[Lydie's Memo]^00This place has a particularly mysterious atmosphere even by the standards of the worlds within the paintings. Everything is so different to our world; it's a thrilling place to go scavenging for materials!",
-      "translation": "[Записка Лидии]^00У этого места особенно загадочная атмосфера даже по меркам миров в картинах. Всё так не похоже на наш мир — захватывающее место для поиска материалов!"
+      "translation": "[Записка Лидии]^00У этого места особенно таинственная атмосфера даже по меркам миров в картинах. Всё так не похоже на наш мир — захватывающее место для поиска материалов!"
     },
     "pack02:3735615": {
       "source": "pack02_text_en",
@@ -191980,14 +191980,14 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423413",
       "original": "Hehe, we’ve been promoted to the F Rank! I wonder what the next Mysterious Painting will be!",
-      "translation": "Хехе, нас повысили до ранга F! Интересно, какой будет следующая таинственная картина!"
+      "translation": "Хехе, нас повысили до ранга F! Интересно, какой будет следующая Таинственная картина!"
     },
     "pack02:33423414": {
       "source": "pack02_text_en",
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423414",
       "original": "Some Mysterious Paintings need Restoration. They may be &quot;mysterious,&quot; but they’re still paintings, after all.",
-      "translation": "Некоторые таинственные картины требуют восстановления. Они, может, и «таинственные», но ведь всё равно картины."
+      "translation": "Некоторые Таинственные картины требуют восстановления. Они, может, и «таинственные», но ведь всё равно картины."
     },
     "pack02:33423415": {
       "source": "pack02_text_en",
@@ -192064,7 +192064,7 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423425",
       "original": "Someone who’s brought in a Mysterious Painting... I wonder where they found it.",
-      "translation": "Кто-то принёс таинственную картину... Интересно, где он её нашёл."
+      "translation": "Кто-то принёс Таинственную картину... Интересно, где он её нашёл."
     },
     "pack02:33423426": {
       "source": "pack02_text_en",
@@ -192337,14 +192337,14 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423464",
       "original": "Only one away from the ultimate S Rank... *Gulp* But before that, let’s enjoy this new Mysterious Painting!",
-      "translation": "Остался всего один шаг до высшего ранга S... *Сглатывает* Но перед этим давай насладимся новой таинственной картиной!"
+      "translation": "Остался всего один шаг до высшего ранга S... *Сглатывает* Но перед этим давай насладимся новой Таинственной картиной!"
     },
     "pack02:33423465": {
       "source": "pack02_text_en",
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423465",
       "original": "The final Mysterious Painting... What a shame... But I’m going to make sure we enjoy this last investigation fully!",
-      "translation": "Последняя таинственная картина... Как жаль... Но я сделаю всё, чтобы мы в полной мере насладились этим последним исследованием!"
+      "translation": "Последняя Таинственная картина... Как жаль... Но я сделаю всё, чтобы мы в полной мере насладились этим последним исследованием!"
     },
     "pack02:33423466": {
       "source": "pack02_text_en",
@@ -192652,7 +192652,7 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423509",
       "original": "We’ve made it to rank F! Hehe... And now, it’s the time we’ve been looking forward to - we get to investigate the Mysterious Paintings!",
-      "translation": "Мы дошли до ранга F! Хехе... И вот наконец то, чего мы ждали — можно исследовать таинственные картины!"
+      "translation": "Мы дошли до ранга F! Хехе... И вот наконец то, чего мы ждали — можно исследовать Таинственные картины!"
     },
     "pack02:33423510": {
       "source": "pack02_text_en",
@@ -192729,14 +192729,14 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423520",
       "original": "We came across some mysterious stranger, but we’ll ignore that. Come on, we need to go report to Mireille.",
-      "translation": "Мы встретили какого-то загадочного незнакомца, но проигнорируем это. Ну же, надо идти докладывать Мирей."
+      "translation": "Мы встретили какого-то таинственного незнакомца, но проигнорируем это. Ну же, надо идти докладывать Мирей."
     },
     "pack02:33423521": {
       "source": "pack02_text_en",
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423521",
       "original": "If we can find whoever has the Mysterious Painting, it’ll be time for your negotiating magic... Hehehe...",
-      "translation": "Если найдём того, у кого таинственная картина, придёт время твоей переговорной магии... Хехехе..."
+      "translation": "Если найдём того, у кого Таинственная картина, придёт время твоей переговорной магии... Хехехе..."
     },
     "pack02:33423522": {
       "source": "pack02_text_en",
@@ -192820,7 +192820,7 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423533",
       "original": "If we look inside the Mysterious Paintings, then I know we can find some clue as to how to defeat Falgior!",
-      "translation": "Если заглянуть внутрь таинственных картин, я уверена — мы найдём подсказку, как победить Фальгиора!"
+      "translation": "Если заглянуть внутрь Таинственных картин, я уверена — мы найдём подсказку, как победить Фальгиора!"
     },
     "pack02:33423534": {
       "source": "pack02_text_en",
@@ -194892,7 +194892,7 @@
       "file": "str_npc_s09_mess.xml",
       "string_no": "32899074",
       "original": "Try and raise your rank as much as you can! If you do, I’ll be able to show you new Mysterious Paintings that will shock and amaze you!",
-      "translation": "Старайтесь поднять свой ранг как можно выше! Тогда я смогу показать вам новые таинственные картины, которые вас поразят!"
+      "translation": "Старайтесь поднять свой ранг как можно выше! Тогда я смогу показать вам новые Таинственные картины, которые вас поразят!"
     },
     "pack02:32899075": {
       "source": "pack02_text_en",
@@ -195004,7 +195004,7 @@
       "file": "str_npc_s09_mess.xml",
       "string_no": "32899090",
       "original": "Hehe. Just as you suspected, the power of the Mysterious Paintings is the key...!",
-      "translation": "Хехе. Как вы и догадывались, сила таинственных картин — это ключ...!"
+      "translation": "Хехе. Как вы и догадывались, сила Таинственных картин — это ключ...!"
     },
     "pack02:32899091": {
       "source": "pack02_text_en",
@@ -212574,7 +212574,7 @@
       "file": "str_summary_chara_checkbox.xml",
       "string_no": "6488142",
       "original": "&lt;CLGR&gt;- Let’s give Liane three of “Merveille ^00　Rouge.”　&lt;CLNR&gt;^00　↑Special people... How mysterious and ^00　　exciting!　I wonder who they’re for!^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "&lt;CLGR&gt;- Давай отдадим Лиане три «Мервейль Руж».　&lt;CLNR&gt;^00　↑Особые люди... Как загадочно и волнующе!　Интересно, для кого они!^00　　　　　　　　　　　　　　　[Сью]"
+      "translation": "&lt;CLGR&gt;- Давай отдадим Лиане три «Мервейль Руж».　&lt;CLNR&gt;^00　↑Особые люди... Как таинственно и волнующе!　Интересно, для кого они!^00　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6488143": {
       "source": "pack02_text_en",
@@ -212791,7 +212791,7 @@
       "file": "str_summary_chara_checkbox.xml",
       "string_no": "6488173",
       "original": "&lt;CLGR&gt;- Let's head off on a new adventure inside the new painting.&lt;CLNR&gt;^00　↑We're gonna look like a couple of dummies if it isn't a mysterious painting.^00　　　　　　　　　　　　　　　[Lydie]^00　↑That'd be awful…^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "&lt;CLGR&gt;- Отправимся в новое приключение внутри новой картины.&lt;CLNR&gt;^00　↑Будем выглядеть как две дуры, если это не загадочная картина.^00　　　　　　　　　　　　　　[Лидия]^00　↑Ужас какой…^00　　　　　　　　　　　　　　　[Сью]"
+      "translation": "&lt;CLGR&gt;- Отправимся в новое приключение внутри новой картины.&lt;CLNR&gt;^00　↑Будем выглядеть как две дуры, если это не таинственная картина.^00　　　　　　　　　　　　　　[Лидия]^00　↑Ужас какой…^00　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6488174": {
       "source": "pack02_text_en",
@@ -213169,21 +213169,21 @@
       "file": "str_summary_chara_text.xml",
       "string_no": "6357040",
       "original": "We’ve found a picture buried in the snow. There’s no way an ordinary picture would just be lying there on a mountain in the middle of nowhere... This could be one of the mysterious paintings! Mireille might know more about it. Let’s take it home and show her!^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Мы нашли картину, закопанную в снегу. Не может быть, чтобы обычная картина просто валялась на горе посреди ниоткуда... Это могла быть одна из загадочных картин! Возможно, Мирей знает об этом больше. Давайте возьмем его домой и покажем ей!^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Мы нашли картину, закопанную в снегу. Не может быть, чтобы обычная картина просто валялась на горе посреди ниоткуда... Это могла быть одна из таинственных картин! Возможно, Мирей знает об этом больше. Давайте возьмем его домой и покажем ей!^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6357041": {
       "source": "pack02_text_en",
       "file": "str_summary_chara_text.xml",
       "string_no": "6357041",
       "original": "Even Mireille doesn’t seem to know if what we found was a Mysterious Painting or not. The only way we can be sure is to restore it and see if we can go inside... Not exactly a simple task! But I guess we have no other choice...^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Кажется, даже Мирей не знает, было ли то, что мы нашли, загадочной картиной или нет. Единственный способ убедиться в этом — восстановить его и посмотреть, сможем ли мы войти внутрь... Не совсем простая задача! Но, думаю, у нас нет другого выбора...^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Кажется, даже Мирей не знает, было ли то, что мы нашли, Таинственной картиной или нет. Единственный способ убедиться в этом — восстановить его и посмотреть, сможем ли мы войти внутрь... Не совсем простая задача! Но, думаю, у нас нет другого выбора...^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6357042": {
       "source": "pack02_text_en",
       "file": "str_summary_chara_text.xml",
       "string_no": "6357042",
       "original": "It turns out the picture we found was a Mysterious Painting after all. But I can hear it... That little voice warning me that entering inside will place my very life in danger... This is somehow different from the other Mysterious Paintings. If we’re going to explore it, we need to be fully prepared.^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Оказывается, найденная нами картина все-таки была загадочной картиной. Но я слышу это... Этот тихий голос, предупреждающий меня, что вход внутрь подвергнет опасности мою жизнь... Это чем-то отличается от других Таинственных картин. Если мы собираемся его исследовать, нам нужно быть полностью готовыми.^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Оказывается, найденная нами картина все-таки была Таинственной картиной. Но я слышу это... Этот тихий голос, предупреждающий меня, что вход внутрь подвергнет опасности мою жизнь... Это чем-то отличается от других Таинственных картин. Если мы собираемся его исследовать, нам нужно быть полностью готовыми.^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6357043": {
       "source": "pack02_text_en",
@@ -213260,7 +213260,7 @@
       "file": "str_summary_chara_text.xml",
       "string_no": "6357053",
       "original": "Ohh, I really want to be able to paint a Mysterious Painting, but it just doesn’t seem to work... Perhaps it’s time to ask for help. After all, we know Neige, who painted the very first Mysterious Painting... We should get her to give us some pointers!^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Ох, я очень хочу нарисовать Загадочную картину, но, похоже, это не получается... Возможно, пришло время обратиться за помощью. В конце концов, мы знаем Нейдж, которая нарисовала самую первую Таинственную картину... Мы должны попросить ее дать нам несколько советов!^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Ох, я очень хочу нарисовать Таинственную картину, но, похоже, это не получается... Возможно, пришло время обратиться за помощью. В конце концов, мы знаем Нейдж, которая нарисовала самую первую Таинственную картину... Мы должны попросить ее дать нам несколько советов!^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6357054": {
       "source": "pack02_text_en",
@@ -213281,7 +213281,7 @@
       "file": "str_summary_chara_text.xml",
       "string_no": "6357056",
       "original": "I don't know exactly what this mysterious fragment we found inside the painting is, but it's so romantic! I bet there are others, too. I'm gonna search everywhere, and who knows? We might even end up rich!^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Я не знаю точно, что это за загадочный фрагмент, который мы нашли внутри картины, но это так романтично! Могу поспорить, что есть и другие. Я буду искать повсюду, и кто знает? Возможно, мы даже разбогатеем!^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Я не знаю точно, что это за таинственный фрагмент, который мы нашли внутри картины, но это так романтично! Могу поспорить, что есть и другие. Я буду искать повсюду, и кто знает? Возможно, мы даже разбогатеем!^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6357057": {
       "source": "pack02_text_en",
@@ -213295,7 +213295,7 @@
       "file": "str_summary_chara_text.xml",
       "string_no": "6357058",
       "original": "All we had to do was line the pieces up, and they joined together of their own accord! This is definitely a mysterious painting! Which means, we need to go ask Mireille if we can hang it in the gallery!^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Все, что нам нужно было сделать, это выстроить детали в ряд, и они соединились сами собой! Это определенно загадочная картина! А это значит, что нам нужно пойти спросить Мирей, можно ли повесить это в галерее!^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Все, что нам нужно было сделать, это выстроить детали в ряд, и они соединились сами собой! Это определенно таинственная картина! А это значит, что нам нужно пойти спросить Мирей, можно ли повесить это в галерее!^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6357059": {
       "source": "pack02_text_en",
@@ -213309,7 +213309,7 @@
       "file": "str_summary_chara_text.xml",
       "string_no": "6357060",
       "original": "I knew it was a mysterious painting! But I never imagined there'd be an entire town inside it... And this Nelke apparently knows us already! Let's go check out that tree while we get over the surprise!^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Я знал, что это загадочная картина! Но я никогда не предполагал, что внутри него будет целый город... А эта Нельке, видимо, нас уже знает! Пойдем осмотрим это дерево, пока переживаем сюрприз!^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Я знал, что это таинственная картина! Но я никогда не предполагал, что внутри него будет целый город... А эта Нельке, видимо, нас уже знает! Пойдем осмотрим это дерево, пока переживаем сюрприз!^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6357061": {
       "source": "pack02_text_en",
@@ -215626,7 +215626,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422781",
       "original": "　↑If the past we saw was true, ^00　　then it explains how Dad was so ^00　　familiar with the mysterious paintings...^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "　↑Если прошлое, которое мы видели, было правдой, то это объясняет, почему папа был так знаком с загадочными картинами...^00　　　　　　　　　　　　　　[Лидия]"
+      "translation": "　↑Если прошлое, которое мы видели, было правдой, то это объясняет, почему папа был так знаком с таинственными картинами...^00　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6422782": {
       "source": "pack02_text_en",
@@ -215927,7 +215927,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422824",
       "original": "　↑It’s kind of a shame that this is ^00　　the last mysterious painting...^00　　　　　　　　　　　　　　　[Lydie]^00　↑Yeah. But I have a feeling we’ll find ^00　　more someday, somewhere!^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "　↑Как-то обидно, что это последняя загадочная картина...^00　　　　　　　　　　　　　　[Лидия]^00　↑Да. Но у меня такое чувство, что когда-нибудь и где-нибудь мы найдём ещё ещё ^00　　　　　　　　　　　　　　　[Сью]"
+      "translation": "　↑Как-то обидно, что это последняя таинственная картина...^00　　　　　　　　　　　　　　[Лидия]^00　↑Да. Но у меня такое чувство, что когда-нибудь и где-нибудь мы найдём ещё ещё ^00　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6422825": {
       "source": "pack02_text_en",
@@ -217019,7 +217019,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6226030",
       "original": "Mireille has invited us to accompany her on her vacation. Ah, vacation! What a sweet and alluring sound that word has! The destination for our vacation will be inside of a Mysterious Painting. Are you ready, Sue?! Let’s have some real fun!^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Мирей пригласила нас сопровождать ее в отпуске. Ах, отпуск! Какой сладкий и манящий звук у этого слова! Местом нашего отпуска станет таинственная картина. Ты готова, Сью?! Давайте повеселимся!^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Мирей пригласила нас сопровождать ее в отпуске. Ах, отпуск! Какой сладкий и манящий звук у этого слова! Местом нашего отпуска станет Таинственная картина. Ты готова, Сью?! Давайте повеселимся!^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6226031": {
       "source": "pack02_text_en",
@@ -217117,7 +217117,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6226044",
       "original": "Mireille showed us another of the Mysterious Paintings, entitled “Etel Nepica.” Apparently it has the terrifying power to look into a person’s past! Hehe... I’m really looking forward to seeing what it can uncover about everyone...! Hehe...^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Мирей показала нам еще одну загадочную картину под названием «Этель Непика». Видимо, он обладает ужасающей силой заглядывать в прошлое человека! Хе-хе... Я действительно с нетерпением жду возможности увидеть, что он сможет узнать обо всех...! Хе-хе...^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Мирей показала нам еще одну Таинственную картину под названием «Этель Непика». Видимо, он обладает ужасающей силой заглядывать в прошлое человека! Хе-хе... Я действительно с нетерпением жду возможности увидеть, что он сможет узнать обо всех...! Хе-хе...^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6226045": {
       "source": "pack02_text_en",
@@ -217327,7 +217327,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6226074",
       "original": "We did it! We’ve made it to the A Rank! There’s just one rank left above us - the coveted S Rank! With this joyous achievement fresh in our minds, let’s indulge in our other great joy - exploring Mysterious Paintings!^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Мы сделали это! Мы добрались до ранга А! Над нами остался всего один ранг — заветный S-ранг! Пока это радостное достижение свежо в нашей памяти, давайте предаемся другой нашей великой радости - исследованию Таинственных Картин!^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Мы сделали это! Мы добрались до ранга А! Над нами остался всего один ранг — заветный S-ранг! Пока это радостное достижение свежо в нашей памяти, давайте предаемся другой нашей великой радости - исследованию Таинственных картин!^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6226075": {
       "source": "pack02_text_en",
@@ -217775,70 +217775,70 @@
       "file": "str_summary_title.xml",
       "string_no": "6160419",
       "original": "In the Spooky Forest 1",
-      "translation": "В жутком лесу 1"
+      "translation": "В Жутком лесу 1"
     },
     "pack02:6160420": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160420",
       "original": "In the Spooky Forest 2",
-      "translation": "В жутком лесу 2"
+      "translation": "В Жутком лесу 2"
     },
     "pack02:6160421": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160421",
       "original": "In the Spooky Forest 3",
-      "translation": "В жутком лесу 3"
+      "translation": "В Жутком лесу 3"
     },
     "pack02:6160422": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160422",
       "original": "In the Spooky Forest 4",
-      "translation": "В жутком лесу 4"
+      "translation": "В Жутком лесу 4"
     },
     "pack02:6160423": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160423",
       "original": "In the Spooky Forest 5",
-      "translation": "В жутком лесу 5"
+      "translation": "В Жутком лесу 5"
     },
     "pack02:6160424": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160424",
       "original": "In the Spooky Forest 6",
-      "translation": "В жутком лесу 6"
+      "translation": "В Жутком лесу 6"
     },
     "pack02:6160425": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160425",
       "original": "In the Spooky Forest 7",
-      "translation": "В жутком лесу 7"
+      "translation": "В Жутком лесу 7"
     },
     "pack02:6160426": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160426",
       "original": "In the Spooky Forest 8",
-      "translation": "В жутком лесу 8"
+      "translation": "В Жутком лесу 8"
     },
     "pack02:6160427": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160427",
       "original": "In the Spooky Forest 8",
-      "translation": "В жутком лесу 8"
+      "translation": "В Жутком лесу 8"
     },
     "pack02:6160428": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160428",
       "original": "In the Spooky Forest 9",
-      "translation": "В жутком лесу 9"
+      "translation": "В Жутком лесу 9"
     },
     "pack02:6160429": {
       "source": "pack02_text_en",
@@ -217901,7 +217901,7 @@
       "file": "str_summary_title.xml",
       "string_no": "6160437",
       "original": "A New Mysterious Painting",
-      "translation": "Новая загадочная картина"
+      "translation": "Новая Таинственная картина"
     },
     "pack02:6160438": {
       "source": "pack02_text_en",
@@ -218013,21 +218013,21 @@
       "file": "str_summary_title.xml",
       "string_no": "6160453",
       "original": "In Search of a Mysterious Painting 1",
-      "translation": "В поисках загадочной картины 1"
+      "translation": "В поисках Таинственной картины 1"
     },
     "pack02:6160454": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160454",
       "original": "In Search of a Mysterious Painting 2",
-      "translation": "В поисках загадочной картины 2"
+      "translation": "В поисках Таинственной картины 2"
     },
     "pack02:6160455": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160455",
       "original": "In Search of a Mysterious Painting 3",
-      "translation": "В поисках загадочной картины 3"
+      "translation": "В поисках Таинственной картины 3"
     },
     "pack02:6160456": {
       "source": "pack02_text_en",
@@ -218608,7 +218608,7 @@
       "file": "str_summary_title.xml",
       "string_no": "6160538",
       "original": "To an Even More Mysterious World",
-      "translation": "В еще более загадочный мир"
+      "translation": "В еще более таинственный мир"
     },
     "pack02:6160539": {
       "source": "pack02_text_en",
