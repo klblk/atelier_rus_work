@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-14T15:17:04.918941+00:00",
+  "generated_at": "2026-08-28T12:27:34.353441+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -1834,7 +1834,7 @@
       "index": 0,
       "speaker": "Sue",
       "original": "This place really is mysterious. Do you think there are worlds like this inside every painting?",
-      "translation": "Это место действительно загадочное. Как ты думаешь, внутри каждой картины есть такие миры?"
+      "translation": "Это место действительно таинственное. Как ты думаешь, внутри каждой картины есть такие миры?"
     },
     "ebm:mm01/event_message_mm01_280.ebm:1": {
       "source": "pack01_ebm",
@@ -4882,7 +4882,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "You find that amusing, do you? Yes, we have signed up.",
-      "translation": "Ты находишь это забавным, не так ли? Да, мы записались."
+      "translation": "Ты находишь это забавным, не так ли? Да, мы присоединились."
     },
     "ebm:mm03/event_message_mm03_010.ebm:5": {
       "source": "pack01_ebm",
@@ -4890,7 +4890,7 @@
       "index": 5,
       "speaker": "Lucia",
       "original": "But do you understand? Taking part in the ranking system means competing with Atelier Borthayre.",
-      "translation": "Но понимаете ли вы? Принять участие в Системе рангов ателье — значит конкурировать с Ателье Бортайр."
+      "translation": "Но осознаёте ли вы? Принять участие в Системе рангов ателье — значит конкурировать с Ателье Бортайр."
     },
     "ebm:mm03/event_message_mm03_010.ebm:6": {
       "source": "pack01_ebm",
@@ -4914,7 +4914,7 @@
       "index": 8,
       "speaker": "Lucia",
       "original": "Ohohohoho! It's like a Puni fighting a Dragon! What else would you call it, if not amusing!",
-      "translation": "Охохохохо! Это как Пуни сражается с Драконом! Как бы это еще назвать, как не забавным!"
+      "translation": "Охохохохо! Это как Пуни сражается с Драконом! Как бы это ещё назвать, как не забавным!"
     },
     "ebm:mm03/event_message_mm03_010.ebm:9": {
       "source": "pack01_ebm",
@@ -4962,7 +4962,7 @@
       "index": 14,
       "speaker": "Lucia",
       "original": "C? C? Rank C? That's impossible! I can't believe such preferential treatment for anyone!",
-      "translation": "С? С? Ранг С? Это невозможно! Я не могу поверить в такие преференции ни для кого!"
+      "translation": "С? С? Ранг С? Да это невозможно! Я не верю, что кому-то могут делать такие поблажки!"
     },
     "ebm:mm03/event_message_mm03_010.ebm:15": {
       "source": "pack01_ebm",
@@ -4994,7 +4994,7 @@
       "index": 18,
       "speaker": "Lydie",
       "original": "Hey, great idea. Something easily relatable is the perfect way to start.",
-      "translation": "Эй, отличная идея. Что-то легко узнаваемое — идеальный способ начать."
+      "translation": "Эй, отличная идея. Что-нибудь легкодоступное — идеальный способ начать."
     },
     "ebm:mm03/event_message_mm03_010.ebm:19": {
       "source": "pack01_ebm",
@@ -5018,7 +5018,7 @@
       "index": 21,
       "speaker": "Lucia",
       "original": "U-U-Uwaaah! Sob! I'm leaving!",
-      "translation": "У-у-увааа! Соб! Я ухожу!"
+      "translation": "У-у-уа-а-а! А-а-а... Всё, я ухожу!"
     },
     "ebm:mm03/event_message_mm03_010.ebm:22": {
       "source": "pack01_ebm",
@@ -5034,7 +5034,7 @@
       "index": 23,
       "speaker": "Sue",
       "original": "Still a crybaby, isn't she! Anyway, do you even know how we raise our rank?",
-      "translation": "Все еще плакса, не так ли! И вообще, ты хоть знаешь, как мы повышаем свой ранг?"
+      "translation": "Всё ещё плакса, не так ли! И вообще, ты знаешь, как нам повысить свой ранг?"
     },
     "ebm:mm03/event_message_mm03_010.ebm:24": {
       "source": "pack01_ebm",
@@ -5042,7 +5042,7 @@
       "index": 24,
       "speaker": "Lydie",
       "original": "We have to take more exams, I guess. Maybe we should start by talking to Mireille.",
-      "translation": "Думаю, нам придется сдавать еще экзамены. Возможно, нам стоит начать с разговора с Мирей."
+      "translation": "Думаю, нам придётся сдавать ещё экзамены. Возможно, нам стоит начать с разговора с Мирей."
     },
     "ebm:mm03/event_message_mm03_010.ebm:25": {
       "source": "pack01_ebm",
@@ -5050,7 +5050,7 @@
       "index": 25,
       "speaker": "Sue",
       "original": "Hmm. So what are we doing standing around here?",
-      "translation": "Хм. Так что же мы делаем, стоя здесь?"
+      "translation": "Хм. Так зачем мы здесь стоим?"
     },
     "ebm:mm03/event_message_mm03_020.ebm:0": {
       "source": "pack01_ebm",
@@ -5058,7 +5058,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "What's this here? This wasn't always here, right?",
-      "translation": "Что это здесь? Это не всегда было здесь, верно?"
+      "translation": "Что это? Этого не было здесь, верно?"
     },
     "ebm:mm03/event_message_mm03_020.ebm:1": {
       "source": "pack01_ebm",
@@ -5074,7 +5074,7 @@
       "index": 0,
       "speaker": "Mireille",
       "original": "Ah, the twins return! Are you here to ask about raising your rank, by any chance?",
-      "translation": "О, близнецы вернулись! Вы случайно не пришли спросить о повышении вашего звания?"
+      "translation": "О, близняшки вернулись! Вы здесь случайно не для того, чтобы узнать насчёт повышения ранга?"
     },
     "ebm:mm03/event_message_mm03_030.ebm:1": {
       "source": "pack01_ebm",
@@ -5082,7 +5082,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "That's right! We actually don't have a clue how to do it.",
-      "translation": "Это верно! На самом деле мы понятия не имеем, как это сделать."
+      "translation": "Верно! На самом деле мы понятия не имеем, как это сделать."
     },
     "ebm:mm03/event_message_mm03_030.ebm:2": {
       "source": "pack01_ebm",
@@ -5114,7 +5114,7 @@
       "index": 5,
       "speaker": "Mireille",
       "original": "Hahaha. Give it a try and you'll pick it up. Just increase your reputation and take exams!",
-      "translation": "Ха-ха-ха. Попробуйте, и вы поймете это. Просто повышайте свою репутацию и сдавайте экзамены!"
+      "translation": "Ха-ха-ха. Попробуйте, и вы поймёте это. Просто повышайте свою репутацию и сдавайте экзамены!"
     },
     "ebm:mm03/event_message_mm03_030.ebm:6": {
       "source": "pack01_ebm",
@@ -5122,7 +5122,7 @@
       "index": 6,
       "speaker": "Mireille",
       "original": "It will mean leaving the city, though. I'm a bit worried about sending you two out there alone.",
-      "translation": "Однако это будет означать выезд из города. Я немного волнуюсь по поводу того, что отправлю вас двоих туда одних."
+      "translation": "Однако это будет означать выход из города. Я немного волнуюсь по поводу того, что отправлю вас двоих туда одних."
     },
     "ebm:mm03/event_message_mm03_030.ebm:7": {
       "source": "pack01_ebm",
@@ -5130,7 +5130,7 @@
       "index": 7,
       "speaker": "???",
       "original": "Si... ahem, I mean, Receptionist Mireille! Monsters have been sighted nearby!",
-      "translation": "Си... хм, я имею в виду секретаршу Мирей! Неподалеку были замечены монстры!"
+      "translation": "Се... хм, я имею в виду секретарша Мирей! Неподалеку были замечены монстры!"
     },
     "ebm:mm03/event_message_mm03_030.ebm:8": {
       "source": "pack01_ebm",
@@ -5146,7 +5146,7 @@
       "index": 9,
       "speaker": "Mireille",
       "original": "Perfect time, actually. Twins, you're up. Could you go and take care of this monster problem?",
-      "translation": "На самом деле идеальное время. Близнецы, ваш выход. Не могли бы вы пойти и разобраться с этой проблемой с монстрами?"
+      "translation": "На самом деле идеальное время. Близняшки, ваш выход. Не могли бы вы пойти и разобраться с этой проблемой с монстрами?"
     },
     "ebm:mm03/event_message_mm03_030.ebm:10": {
       "source": "pack01_ebm",
@@ -5154,7 +5154,7 @@
       "index": 10,
       "speaker": "Mireille",
       "original": "I want to see if the two of you can handle this.",
-      "translation": "Я хочу посмотреть, справитесь ли вы двое с этим."
+      "translation": "Я хочу посмотреть, справитесь ли вы обе с этим."
     },
     "ebm:mm03/event_message_mm03_030.ebm:11": {
       "source": "pack01_ebm",
@@ -5226,7 +5226,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "Hahaha. Actually, we're on our way to deal with that problem right now.",
-      "translation": "Ха-ха-ха. На самом деле, мы сейчас находимся на пути решения этой проблемы."
+      "translation": "Ха-ха-ха. На самом деле, мы прямо сейчас направляемся решать эту проблему."
     },
     "ebm:mm03/event_message_mm03_040.ebm:3": {
       "source": "pack01_ebm",
@@ -5250,7 +5250,7 @@
       "index": 5,
       "speaker": "Sue",
       "original": "That's right! We're going to blow those monsters away with a few quick bombs! Bang, boom!",
-      "translation": "Это верно! Мы собираемся разнести этих монстров несколькими быстрыми бомбами! Бам, бум!"
+      "translation": "Верно! Мы собираемся разнести этих монстров несколькими быстрыми бомбами! Бам, бум!"
     },
     "ebm:mm03/event_message_mm03_040.ebm:6": {
       "source": "pack01_ebm",
@@ -5258,7 +5258,7 @@
       "index": 6,
       "speaker": "???",
       "original": "Hey, is that so? My sister is also an alchemist!",
-      "translation": "Эй, это так? Моя сестра тоже алхимик!"
+      "translation": "Эй, действительно? Моя сестра тоже алхимик!"
     },
     "ebm:mm03/event_message_mm03_040.ebm:7": {
       "source": "pack01_ebm",
@@ -5274,7 +5274,7 @@
       "index": 8,
       "speaker": "Lydie",
       "original": "Liane. I'm Lydie.",
-      "translation": "Лианэ. Я Лидия."
+      "translation": "Лианэ. Я Лиди."
     },
     "ebm:mm03/event_message_mm03_040.ebm:9": {
       "source": "pack01_ebm",
@@ -5282,7 +5282,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "And I'm her twin sister Suelle! You can call me Sue!",
-      "translation": "А я ее сестра-близнец Сюэль! Можешь звать меня Сью!"
+      "translation": "А я ее сестра-близняшка Сюэль! Можешь звать меня Сью!"
     },
     "ebm:mm03/event_message_mm03_040.ebm:10": {
       "source": "pack01_ebm",
@@ -5290,7 +5290,7 @@
       "index": 10,
       "speaker": "Liane",
       "original": "Lydie and Sue, is it. Nice to meet you both!",
-      "translation": "Лидия и Сью, не так ли? Приятно познакомиться с вами обеими!"
+      "translation": "Лиди и Сью, не так ли? Приятно познакомиться с вами обеими!"
     },
     "ebm:mm03/event_message_mm03_040.ebm:11": {
       "source": "pack01_ebm",
@@ -5346,7 +5346,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Yes! We won! I guess you really don't know until you try, do you?",
-      "translation": "Да! Мы выиграли! Думаю, ты действительно не узнаешь, пока не попробуешь, не так ли?"
+      "translation": "Да! Мы победили! Полагаю, по-настоящему узнать можно только на собственном опыте, не так ли?"
     },
     "ebm:mm03/event_message_mm03_070.ebm:1": {
       "source": "pack01_ebm",
@@ -5362,7 +5362,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "H-Hello. Are you the family of those monsters we just... defeated?",
-      "translation": "Х-Привет. Вы семья тех монстров, которых мы только что... победили?"
+      "translation": "П-Привет. Вы семья тех монстров, которых мы только что... победили?"
     },
     "ebm:mm03/event_message_mm03_070.ebm:3": {
       "source": "pack01_ebm",
@@ -5386,7 +5386,7 @@
       "index": 5,
       "speaker": "Ilmeria",
       "original": "Girls! What are you doing?! Are you hurt?",
-      "translation": "Девушки! Что вы делаете?! Вам не больно?"
+      "translation": "Девочки! Что вы делаете?! Вам не больно?"
     },
     "ebm:mm03/event_message_mm03_070.ebm:6": {
       "source": "pack01_ebm",
@@ -5394,7 +5394,7 @@
       "index": 6,
       "speaker": "Sue",
       "original": "T-Ilmeria! What're you doing here?!",
-      "translation": "Т-Ильмерия! Что ты здесь делаешь?!"
+      "translation": "И-Ильмерия! Что ты здесь делаешь?!"
     },
     "ebm:mm03/event_message_mm03_070.ebm:7": {
       "source": "pack01_ebm",
@@ -5418,7 +5418,7 @@
       "index": 9,
       "speaker": "Lydie",
       "original": "Waaah! Ilmeria! Teach! I was so scared!",
-      "translation": "Вааа! Ильмерия! Учитель! Я так испугалась!"
+      "translation": "Аааа! Ильмерия! Учитель! Я так испугалась!"
     },
     "ebm:mm03/event_message_mm03_070.ebm:10": {
       "source": "pack01_ebm",
@@ -5490,7 +5490,7 @@
       "index": 2,
       "speaker": "Ilmeria",
       "original": "Mireille. I think it is too dangerous for them to be out there alone.",
-      "translation": "Мирей. Я думаю, что им слишком опасно оставаться там в одиночестве."
+      "translation": "Мирей. Я думаю, что им слишком опасно оставаться там одним."
     },
     "ebm:mm03/event_message_mm03_080.ebm:3": {
       "source": "pack01_ebm",
@@ -5506,7 +5506,7 @@
       "index": 4,
       "speaker": "Mireille",
       "original": "Wait, Ilmeria. You've already got too much on your plate.",
-      "translation": "Подожди, Ильмерия. У тебя уже слишком много на тарелке."
+      "translation": "Подожди, Ильмерия. У тебя и так дел по горло."
     },
     "ebm:mm03/event_message_mm03_080.ebm:5": {
       "source": "pack01_ebm",
@@ -5514,7 +5514,7 @@
       "index": 5,
       "speaker": "Ilmeria",
       "original": "True, you're keeping me very busy. But still...",
-      "translation": "Правда, ты меня совсем задергала. Но всё же..."
+      "translation": "Да уж, скучать вы мне точно не даёте. Но всё же..."
     },
     "ebm:mm03/event_message_mm03_080.ebm:6": {
       "source": "pack01_ebm",
@@ -5570,7 +5570,7 @@
       "index": 12,
       "speaker": "Ilmeria",
       "original": "No I didn't. I just cleaned up the stragglers. Right?",
-      "translation": "Нет, я этого не сделала. Я лишь разобралась с отставшими. Верно?"
+      "translation": "Нет, я этого не делала. Я лишь разобралась с отставшими. Верно?"
     },
     "ebm:mm03/event_message_mm03_080.ebm:13": {
       "source": "pack01_ebm",
@@ -5586,7 +5586,7 @@
       "index": 14,
       "speaker": "Mireille",
       "original": "Once the kingdom recognizes the deeds of your atelier, you can take the Promotion Test.",
-      "translation": "Как только королевство признает деяния вашего ателье, вы сможете пройти Испытание ранга."
+      "translation": "Как только королевство признает достижения вашего ателье, вы сможете пройти Испытание ранга."
     },
     "ebm:mm03/event_message_mm03_080.ebm:15": {
       "source": "pack01_ebm",
@@ -5634,7 +5634,7 @@
       "index": 20,
       "speaker": "Mireille",
       "original": "So, a bodyguard, huh... Luckily, I have just the person in mind.",
-      "translation": "Итак, телохранитель, да... К счастью, у меня как раз есть на примете подходящий человек."
+      "translation": "Итак, защитник, да... К счастью, у меня как раз есть на примете подходящий человек."
     },
     "ebm:mm03/event_message_mm03_090.ebm:0": {
       "source": "pack01_ebm",
@@ -5642,7 +5642,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "I read the requirements. Basically, like she said, we need to increase our reputation.",
-      "translation": "Я прочитала требования. По сути, как она сказала, нам нужно повысить свою репутацию."
+      "translation": "Я прочитала требования. По сути, как она и сказала, нам нужно повысить свою репутацию."
     },
     "ebm:mm03/event_message_mm03_090.ebm:1": {
       "source": "pack01_ebm",
@@ -5674,7 +5674,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "Keeping a record of what we've already done will be useful, too.",
-      "translation": "Также будет полезно вести учет того, что мы уже сделали."
+      "translation": "Также будет полезно вести учёт того, что мы уже сделали."
     },
     "ebm:mm03/event_message_mm03_090.ebm:5": {
       "source": "pack01_ebm",
@@ -5682,7 +5682,7 @@
       "index": 5,
       "speaker": "Lydie",
       "original": "I see! Great idea, Sue! Let's fill that notebook up with ideas!",
-      "translation": "Я понимаю! Отличная идея, Сью! Давайте наполним этот блокнот идеями!"
+      "translation": "Я понимаю! Отличная идея, Сью! Давай наполним этот блокнот идеями!"
     },
     "ebm:mm03/event_message_mm03_090.ebm:6": {
       "source": "pack01_ebm",
@@ -5706,7 +5706,7 @@
       "index": 8,
       "speaker": "System",
       "original": "You can check it by opening the Ambitions Journal in the Main Menu.",
-      "translation": "Проверить это можно, открыв Журнал Амбиций в Главном меню."
+      "translation": "Проверить это можно, открыв Журнал амбиций в Главном меню."
     },
     "ebm:mm03/event_message_mm03_090.ebm:9": {
       "source": "pack01_ebm",
@@ -5714,7 +5714,7 @@
       "index": 9,
       "speaker": "System",
       "original": "The Ambitions Journal contains ideas to increase the reputation of the Atelier.",
-      "translation": "Журнал «Амбиции» содержит идеи по повышению репутации Ателье."
+      "translation": "Журнал амбиций содержит идеи по повышению репутации Ателье."
     },
     "ebm:mm03/event_message_mm03_090.ebm:10": {
       "source": "pack01_ebm",
@@ -5722,7 +5722,7 @@
       "index": 10,
       "speaker": "System",
       "original": "<CLR1>Check the Ambitions Journal often in order to increase the reputation of your atelier!<CLNR>",
-      "translation": "<CLR1>Часто проверяйте журнал «Амбиции», чтобы повысить репутацию вашего ателье!<CLNR>"
+      "translation": "<CLR1>Почаще проверяйте Журнал амбиций, чтобы повысить репутацию вашего ателье!<CLNR>"
     },
     "ebm:mm03/event_message_mm03_090.ebm:11": {
       "source": "pack01_ebm",
@@ -5746,7 +5746,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Yep, all of it. Dad, can we leave yet?",
-      "translation": "Да, все это. Папа, мы можем уже уйти?"
+      "translation": "Да, всё тут. Папа, мы можем уже идти?"
     },
     "ebm:mm03/event_message_mm03_100.ebm:2": {
       "source": "pack01_ebm",
@@ -5770,7 +5770,7 @@
       "index": 4,
       "speaker": "Lydie",
       "original": "Heheh. We've been working really hard! We've got a mentor and we're even better alchemists now!",
-      "translation": "Хехех. Мы очень много работали! У нас появился наставник, и теперь мы стали еще лучшими алхимиками!"
+      "translation": "Хе-хе. Мы очень упорно трудились! У нас теперь есть наставник, и мы стали ещё лучше в алхимии!"
     },
     "ebm:mm03/event_message_mm03_100.ebm:5": {
       "source": "pack01_ebm",
@@ -5778,7 +5778,7 @@
       "index": 5,
       "speaker": "Sue",
       "original": "That's right! We'll have the greatest atelier in the kingdom before you know it. Just watch over us!",
-      "translation": "Это верно! У нас будет величайшее ателье в королевстве, прежде чем вы это заметите. Просто наблюдайте за нами!"
+      "translation": "Верно! У нас будет величайшее ателье в королевстве, прежде чем ты это заметишь. Просто наблюдай за нами!"
     },
     "ebm:mm03/event_message_mm03_100.ebm:6": {
       "source": "pack01_ebm",
@@ -5794,7 +5794,7 @@
       "index": 7,
       "speaker": "Roger",
       "original": "I know. I disappoint them at every turn! They're getting a bit rebellious, too, for their part.",
-      "translation": "Я знаю. Я разочаровываю их на каждом шагу! Со своей стороны, они тоже становятся немного бунтующими."
+      "translation": "Знаю. Я разочаровываю их на каждом шагу! Да и они, признаться, стали какими-то бунтарками."
     },
     "ebm:mm03/event_message_mm03_100.ebm:8": {
       "source": "pack01_ebm",
@@ -5802,7 +5802,7 @@
       "index": 8,
       "speaker": "Grace",
       "original": "Isn't that also because of your behavior?",
-      "translation": "Разве это не из-за твоего поведения?"
+      "translation": "А не из-за твоего ли собственного поведения они себя так ведут?"
     },
     "ebm:mm03/event_message_mm03_100.ebm:9": {
       "source": "pack01_ebm",
@@ -5810,7 +5810,7 @@
       "index": 9,
       "speaker": "Roger",
       "original": "You don't hold back, do you, Sister? They need their mother, that's all.",
-      "translation": "Ты не сдерживаешься, не так ли, сестра? Им нужна мать, вот и все."
+      "translation": "Ты как всегда прямолинейна, Cестра. Им просто нужна мать, вот и всё."
     },
     "ebm:mm03/event_message_mm03_100.ebm:10": {
       "source": "pack01_ebm",
@@ -5818,7 +5818,7 @@
       "index": 10,
       "speaker": "Roger",
       "original": "There's so much they want to say to Honnete. Things they can't really say to me.",
-      "translation": "Они так много хотят сказать Оннет. Вещи, которые они не могут мне сказать."
+      "translation": "Им столько всего хочется сказать Оннет. Вещей, которыми со мной они поделиться не могут."
     },
     "ebm:mm03/event_message_mm03_100.ebm:11": {
       "source": "pack01_ebm",
@@ -5826,7 +5826,7 @@
       "index": 11,
       "speaker": "Grace",
       "original": "That's probably because they understand too, in their own way.",
-      "translation": "Наверное, потому, что они тоже понимают, по-своему."
+      "translation": "Наверное, это потому, что они тоже всё понимают. По-своему, конечно."
     },
     "ebm:mm03/event_message_mm03_100.ebm:12": {
       "source": "pack01_ebm",
@@ -5834,7 +5834,7 @@
       "index": 12,
       "speaker": "Grace",
       "original": "That the one suffering the most from losing Honnete is you.",
-      "translation": "Что больше всего от потери Оннет страдаешь ты."
+      "translation": "Они видят, что сильнее всех из-за потери Оннет страдаешь именно ты."
     },
     "ebm:mm03/event_message_mm03_100.ebm:13": {
       "source": "pack01_ebm",
@@ -5842,7 +5842,7 @@
       "index": 13,
       "speaker": "Roger",
       "original": "I wonder...",
-      "translation": "Я думаю..."
+      "translation": "Кто знает..."
     },
     "ebm:mm03/event_message_mm03_100.ebm:14": {
       "source": "pack01_ebm",
@@ -5858,7 +5858,7 @@
       "index": 15,
       "speaker": "Roger",
       "original": "Girls! We're heading back. Get ready, come on!",
-      "translation": "Девушки! Мы возвращаемся. Готовьтесь, давайте!"
+      "translation": "Девушки! Мы возвращаемся. Готовьтесь, быстрее!"
     },
     "ebm:mm03/event_message_mm03_100.ebm:16": {
       "source": "pack01_ebm",
@@ -5874,7 +5874,7 @@
       "index": 17,
       "speaker": "Roger",
       "original": "I'm sorry, Sister. I'm a weak man, that's all there is to it.",
-      "translation": "Мне очень жаль, сестра. Я слабый человек, вот и все."
+      "translation": "Мне очень жаль, Сестра. Я слабый человек, вот и все."
     },
     "ebm:mm03/event_message_mm03_100.ebm:18": {
       "source": "pack01_ebm",
@@ -5882,7 +5882,7 @@
       "index": 18,
       "speaker": "Lydie",
       "original": "Dad, what were you talking to the Sister about?",
-      "translation": "Папа, о чем ты говорил с сестрой?"
+      "translation": "Папа, о чем ты говорил с Сестрой?"
     },
     "ebm:mm03/event_message_mm03_100.ebm:19": {
       "source": "pack01_ebm",
@@ -5890,7 +5890,7 @@
       "index": 19,
       "speaker": "Roger",
       "original": "Grace? Ah, she chewed me out. She told me to provide a better life for you.",
-      "translation": "Грейс? Ах, она меня отчитала. Сказала обеспечить вам лучшую жизнь."
+      "translation": "С Грейс? Ах, она меня отчитала. Сказала обеспечить вам лучшую жизнь."
     },
     "ebm:mm03/event_message_mm03_100.ebm:20": {
       "source": "pack01_ebm",
@@ -5906,7 +5906,7 @@
       "index": 21,
       "speaker": "Roger",
       "original": "That's not going to happen. No one can quell the fires of creation in my heart!",
-      "translation": "Этого не произойдет. Никто не сможет погасить огни творения в моем сердце!"
+      "translation": "Это невозможно. Никто не сможет погасить огни творения в моем сердце!"
     },
     "ebm:mm03/event_message_mm03_100.ebm:22": {
       "source": "pack01_ebm",
@@ -5938,7 +5938,7 @@
       "index": 2,
       "speaker": "???",
       "original": "Stop right there, you delightful twins!",
-      "translation": "Остановитесь, очаровательные близнецы!"
+      "translation": "Остановитесь, очаровательные близняшки!"
     },
     "ebm:mm03/event_message_mm03_110.ebm:3": {
       "source": "pack01_ebm",
@@ -5954,7 +5954,7 @@
       "index": 4,
       "speaker": "???",
       "original": "I always make such a strong impression. We did meet briefly, in the castle.",
-      "translation": "Я всегда произвожу такое сильное впечатление. Мы встретились ненадолго в замке."
+      "translation": "Я всегда произвожу такое сильное впечатление. Мы встретились недавно в замке."
     },
     "ebm:mm03/event_message_mm03_110.ebm:5": {
       "source": "pack01_ebm",
@@ -5962,7 +5962,7 @@
       "index": 5,
       "speaker": "???",
       "original": "Our meeting here, however, is surely due to the guidance of god himself.",
-      "translation": "Однако наша встреча здесь, несомненно, произошла благодаря водительству самого бога."
+      "translation": "Однако наша встреча здесь, несомненно, состоялась по указанию самого Бога."
     },
     "ebm:mm03/event_message_mm03_110.ebm:6": {
       "source": "pack01_ebm",
@@ -6002,7 +6002,7 @@
       "index": 10,
       "speaker": "Sue",
       "original": "Sure, but this creepy guy is super suspicious. I hate this kind of slimy smooth talkers.",
-      "translation": "Конечно, но этот жуткий парень очень подозрительный. Ненавижу таких скользких и гладких болтунов."
+      "translation": "Конечно, но этот жуткий парень очень подозрительный. Я ненавижу таких скользких, красноречивых болтунов."
     },
     "ebm:mm03/event_message_mm03_110.ebm:11": {
       "source": "pack01_ebm",
@@ -6010,7 +6010,7 @@
       "index": 11,
       "speaker": "Lydie",
       "original": "Smooth talker? You think that's what he is trying to be?",
-      "translation": "Гладкий собеседник? Думаешь, он именно этим и пытается быть?"
+      "translation": "Красноречивый болтун? Думаешь, он именно этого и пытается добиться?"
     },
     "ebm:mm03/event_message_mm03_110.ebm:12": {
       "source": "pack01_ebm",
@@ -6034,7 +6034,7 @@
       "index": 14,
       "speaker": "Lydie",
       "original": "Hahaha, looks like her mind is made up. Hope we don't see you around! Bye-bye!",
-      "translation": "Ха-ха-ха, похоже, ее решение принято. Надеюсь, мы не увидим тебя здесь! Пока-пока!"
+      "translation": "Ха-ха-ха, похоже, её решение принято. Надеюсь, мы не увидим тебя здесь! Пока-пока!"
     },
     "ebm:mm03/event_message_mm03_110.ebm:15": {
       "source": "pack01_ebm",
@@ -6042,7 +6042,7 @@
       "index": 15,
       "speaker": "???",
       "original": "Gah, mission failed. I guess I pushed my normal approach too hard?",
-      "translation": "Ха, миссия провалена. Думаю, я слишком сильно навязал свой обычный подход?"
+      "translation": "Ха, миссия провалена. Наверное, я слишком увлекся своим обычным подходом?"
     },
     "ebm:mm03/event_message_mm03_110.ebm:16": {
       "source": "pack01_ebm",
@@ -6050,7 +6050,7 @@
       "index": 16,
       "speaker": "???",
       "original": "This is a problem, though. My sister is going to kick my butt again! Man, this sucks.",
-      "translation": "Однако это проблема. Моя сестра снова надерет мне задницу! Чувак, это отстой."
+      "translation": "И всё-таки это проблема. Сестра мне за такое опять башку оторвёт! Блин, ну что за отстой..."
     },
     "ebm:mm03/event_message_mm03_120.ebm:0": {
       "source": "pack01_ebm",
@@ -6058,7 +6058,7 @@
       "index": 0,
       "speaker": "Roger",
       "original": "Girls! I sold a painting, so I picked up some cookies!",
-      "translation": "Девушки! Я продал картину и купил печенье!"
+      "translation": "Девочки! Я продал картину и купил печенье!"
     },
     "ebm:mm03/event_message_mm03_120.ebm:1": {
       "source": "pack01_ebm",
@@ -6082,7 +6082,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "Gulp! Normally I let Sue eat most of the sweet stuff, so today... I'll just snaffle one first.",
-      "translation": "Глоток! Обычно я позволяю Сью съесть большую часть сладостей, так что сегодня... сначала я стащу одну."
+      "translation": "Ох... Обычно я позволяю Сью съесть большую часть сладостей, так что сегодня... сначала я стащу одну."
     },
     "ebm:mm03/event_message_mm03_120.ebm:4": {
       "source": "pack01_ebm",
@@ -6106,7 +6106,7 @@
       "index": 6,
       "speaker": "Sue",
       "original": "I'm here! Ah! The Prince Charming of cookies, I presume? Come to me, sugar prince!",
-      "translation": "Я здесь! Ах! Полагаю, Прекрасный принц из печенья? Иди ко мне, сахарный принц!"
+      "translation": "Я на месте! О-о-о! Вы, надо полагать, тот самый Прекрасный Принц из мира печенек? Иди ко мне, мой сахарный принц!"
     },
     "ebm:mm03/event_message_mm03_120.ebm:7": {
       "source": "pack01_ebm",
@@ -6114,7 +6114,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "You too, Lydie. Let's eat these together! I bet these beauties are mind-blowing!",
-      "translation": "Ты тоже, Лиди. Давайте съедим это вместе! Могу поспорить, эти красавицы просто сводят с ума!"
+      "translation": "Ты тоже тут, Лиди. Давайте съедим это вместе! Могу поспорить, эти красавцы просто сводят с ума!"
     },
     "ebm:mm03/event_message_mm03_120.ebm:8": {
       "source": "pack01_ebm",
@@ -6122,7 +6122,7 @@
       "index": 8,
       "speaker": "Lydie",
       "original": "Sure, OK. Let's try.",
-      "translation": "Конечно, ок. Давайте попробуем."
+      "translation": "Конечно, хорошо. Давай попробуем."
     },
     "ebm:mm03/event_message_mm03_120.ebm:9": {
       "source": "pack01_ebm",
@@ -6130,7 +6130,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Wow, they are amazing! Melt in the mouth!",
-      "translation": "Вау, они потрясающие! Тают во рту!"
+      "translation": "Ого, они потрясающие! Тают во рту!"
     },
     "ebm:mm03/event_message_mm03_120.ebm:10": {
       "source": "pack01_ebm",
@@ -6146,7 +6146,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "Heheh, there's plenty more! Let's finish them off!",
-      "translation": "Хе-хе, есть еще много чего! Давайте прикончим их!"
+      "translation": "Хе-хе, их ещё много! Давай покончим с ними!"
     },
     "ebm:mm03/event_message_mm03_120.ebm:12": {
       "source": "pack01_ebm",
@@ -6186,7 +6186,7 @@
       "index": 0,
       "speaker": "Mireille",
       "original": "Your reputation isn't high enough yet to take the next exam. Keep it up! You'll get there!",
-      "translation": "Ваша репутация еще недостаточно высока, чтобы сдавать следующий экзамен. Так держать! Вы доберетесь туда!"
+      "translation": "Ваша репутация еще недостаточно высока, чтобы сдавать следующий экзамен. Продолжайте в том же духе! У вас всё получится!"
     },
     "ebm:mm03/event_message_mm03_140.ebm:1": {
       "source": "pack01_ebm",
@@ -6242,7 +6242,7 @@
       "index": 3,
       "speaker": "Mireille",
       "original": "Monsters have been causing a lot of damage, too, so this is kind of two birds with one stone!",
-      "translation": "Монстры тоже наносят большой урон, так что это своего рода два зайца одним выстрелом!"
+      "translation": "Монстры тоже причиняют немало вреда, так что это, по сути, два зайца одним выстрелом!"
     },
     "ebm:mm03/event_message_mm03_150.ebm:4": {
       "source": "pack01_ebm",
@@ -6282,7 +6282,7 @@
       "index": 8,
       "speaker": "Sue",
       "original": "Come on. Anyone can collect eggs. And you've just taught us so much about synthesis, too!",
-      "translation": "Ну давай же. Собирать яйца может каждый. И ты только что научила нас так многому о синтезе!"
+      "translation": "Да ладно. Собирать яйца может каждый. И ты только что многому нас научила в области синтеза!"
     },
     "ebm:mm03/event_message_mm03_150.ebm:9": {
       "source": "pack01_ebm",
@@ -6298,7 +6298,7 @@
       "index": 10,
       "speaker": "Ilmeria",
       "original": "Gathering, synthesizing and fighting monsters. Alchemists take on anything they are needed for.",
-      "translation": "Собирайте, синтезируйте и сражайтесь с монстрами. Алхимики берутся за все, для чего они нужны."
+      "translation": "Собирайте, синтезируйте и сражайтесь с монстрами. Алхимики берутся за всё, для чего они нужны."
     },
     "ebm:mm03/event_message_mm03_150.ebm:11": {
       "source": "pack01_ebm",
@@ -6314,7 +6314,7 @@
       "index": 12,
       "speaker": "Sue",
       "original": "Yes. I'm sorry, Mireille. We'll do our best and find those eggs!",
-      "translation": "Да. Мне очень жаль, Мирей. Мы сделаем все возможное и найдем эти яйца!"
+      "translation": "Да. Мне очень жаль, Мирей. Мы сделаем всё возможное и найдем эти яйца!"
     },
     "ebm:mm03/event_message_mm03_150.ebm:13": {
       "source": "pack01_ebm",
@@ -6338,7 +6338,7 @@
       "index": 15,
       "speaker": "Mireille",
       "original": "Girls, I'll be counting on you. Oh, and about that bodyguard we talked about!",
-      "translation": "Девочки, я рассчитываю на вас. О, и о том телохранителе, о котором мы говорили!"
+      "translation": "Девочки, я рассчитываю на вас. О, и о том защитнике, о котором мы говорили!"
     },
     "ebm:mm03/event_message_mm03_150.ebm:16": {
       "source": "pack01_ebm",
@@ -6354,7 +6354,7 @@
       "index": 17,
       "speaker": "Lydie",
       "original": "Wow, really! Hehe, I wonder what they're like?",
-      "translation": "Вау, правда! Хе-хе, интересно, какие они?"
+      "translation": "Ого, правда! Хе-хе, интересно, кто он?"
     },
     "ebm:mm03/event_message_mm03_150.ebm:18": {
       "source": "pack01_ebm",
@@ -6378,7 +6378,7 @@
       "index": 0,
       "speaker": "Sue",
       "original": "Here we are. This is where our bodyguard should be waiting, right?",
-      "translation": "Вот мы и здесь. Именно здесь должен ждать наш телохранитель, верно?"
+      "translation": "Вот мы и здесь. Именно здесь должен ждать наш защитник, верно?"
     },
     "ebm:mm03/event_message_mm03_160.ebm:2": {
       "source": "pack01_ebm",
@@ -6386,7 +6386,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "Don't tell me, that's our bodyguard...?",
-      "translation": "Только не говори мне, это наш телохранитель...?"
+      "translation": "Только не говори мне, что это наш защитник...?"
     },
     "ebm:mm03/event_message_mm03_160.ebm:3": {
       "source": "pack01_ebm",
@@ -6442,7 +6442,7 @@
       "index": 9,
       "speaker": "???",
       "original": "I knew this wouldn't work, either! I didn't want to dress like this!",
-      "translation": "Я тоже знал, что это не сработает! Я не хотел так одеваться!"
+      "translation": "Я знал, что это не сработает! Я не хотел так одеваться!"
     },
     "ebm:mm03/event_message_mm03_160.ebm:10": {
       "source": "pack01_ebm",
@@ -6450,7 +6450,7 @@
       "index": 10,
       "speaker": "???",
       "original": "Damn! This stupid thing!",
-      "translation": "Проклятие! Эта глупая вещь!"
+      "translation": "Проклятие! Эта глупая идея!"
     },
     "ebm:mm03/event_message_mm03_160.ebm:11": {
       "source": "pack01_ebm",
@@ -6458,7 +6458,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "Ah! It's that slimy guy again! You've gotten into weird masks now, have you? What a life you lead!",
-      "translation": "Ах! Это снова тот скользкий парень! Ты теперь надел странные маски, да? Какую жизнь ты ведешь!"
+      "translation": "Ах! Это снова тот скользкий парень! Ты теперь надел странную маску, да? Какую жизнь ты ведешь!"
     },
     "ebm:mm03/event_message_mm03_160.ebm:12": {
       "source": "pack01_ebm",
@@ -6466,7 +6466,7 @@
       "index": 12,
       "speaker": "???",
       "original": "Laugh it up, little girl. We're just getting started and I already can't see how this can work.",
-      "translation": "Смейся, маленькая девочка. Мы только начинаем, и я уже не понимаю, как это может работать."
+      "translation": "Смейся, маленькая девочка. Мы только начали, а я уже ума не приложу, как у нас вообще что-то получится."
     },
     "ebm:mm03/event_message_mm03_160.ebm:13": {
       "source": "pack01_ebm",
@@ -6474,7 +6474,7 @@
       "index": 13,
       "speaker": "Lydie",
       "original": "What does that mean? Mask creep, you really are meant to be our bodyguard?",
-      "translation": "Что это значит? Подозрительный в маске, ты и правда наш телохранитель?"
+      "translation": "Что это значит? Подозрительный в маске, ты и правда наш защитник?"
     },
     "ebm:mm03/event_message_mm03_160.ebm:14": {
       "source": "pack01_ebm",
@@ -6490,7 +6490,7 @@
       "index": 15,
       "speaker": "Lydie",
       "original": "Cree... I mean, Mathias. My name is...",
-      "translation": "Кри... То есть Матиас. Меня зовут..."
+      "translation": "Подо... То есть Матиас. Меня зовут..."
     },
     "ebm:mm03/event_message_mm03_160.ebm:16": {
       "source": "pack01_ebm",
@@ -6506,7 +6506,7 @@
       "index": 17,
       "speaker": "Sue",
       "original": "Wow! We've only met briefly, but you already know our names? Creepy!",
-      "translation": "Ух ты! Мы виделись совсем недолго, но ты уже знаешь наши имена? Противный!"
+      "translation": "Ух ты! Мы ведь виделись совсем недолго, а ты уже знаешь наши имена? Жутковато!"
     },
     "ebm:mm03/event_message_mm03_160.ebm:18": {
       "source": "pack01_ebm",
@@ -6530,7 +6530,7 @@
       "index": 20,
       "speaker": "Mathias",
       "original": "That's right. She made this mask in order to help put the two of you at ease.",
-      "translation": "Это верно. Она сделала эту маску, чтобы помочь вам двоим расслабиться."
+      "translation": "Верно. Она сделала эту маску, чтобы помочь вам двоим расслабиться."
     },
     "ebm:mm03/event_message_mm03_160.ebm:21": {
       "source": "pack01_ebm",
@@ -6570,7 +6570,7 @@
       "index": 25,
       "speaker": "Sue",
       "original": "Do anything odd and we'll tell Mireille right away, you hear? Just remember that, Mathias.",
-      "translation": "Сделай что-нибудь странное, и мы сразу же скажем Мирей, слышишь? Просто запомни это, Матиас."
+      "translation": "Сделай что-нибудь странное, и мы сразу же скажем Мирей, понял? Просто запомни это, Матиас."
     },
     "ebm:mm03/event_message_mm03_160.ebm:26": {
       "source": "pack01_ebm",
@@ -6578,7 +6578,7 @@
       "index": 26,
       "speaker": "Mathias",
       "original": "Ugah! They're bossing me around already. These kids are evil beyond their years.",
-      "translation": "Уга! Они уже мной командуют. Эти дети злы не по годам."
+      "translation": "Ох! Они уже мной командуют. Эти дети злы не по годам."
     },
     "ebm:mm03/event_message_mm03_160.ebm:27": {
       "source": "pack01_ebm",
@@ -6586,7 +6586,7 @@
       "index": 27,
       "speaker": "Mathias",
       "original": "Can I really make it work with them? My stomach is aching already.",
-      "translation": "Могу ли я действительно заставить это работать с ними? У меня уже живот болит."
+      "translation": "У меня действительно получится с ними наладить отношения? У меня уже болит живот."
     },
     "ebm:mm03/event_message_mm03_160.ebm:28": {
       "source": "pack01_ebm",
@@ -6602,7 +6602,7 @@
       "index": 29,
       "speaker": "System",
       "original": "<CLEG>[Tutorial] ~Stand-in Defense~<CLNR>",
-      "translation": "<CLEG>[Учебное пособие] ~Дежурная защита~<CLNR>"
+      "translation": "<CLEG>[Учебное пособие] ~Перехват удара~<CLNR>"
     },
     "ebm:mm03/event_message_mm03_160.ebm:30": {
       "source": "pack01_ebm",
@@ -6618,7 +6618,7 @@
       "index": 31,
       "speaker": "System",
       "original": "This is called \"Stand-in Defense\".",
-      "translation": "Это называется «Дежурная оборона»."
+      "translation": "Это называется «Перехват удара»."
     },
     "ebm:mm03/event_message_mm03_160.ebm:32": {
       "source": "pack01_ebm",
@@ -6626,7 +6626,7 @@
       "index": 32,
       "speaker": "System",
       "original": "You can activate it by pressing the corresponding button when Lydie or Sue are targeted.",
-      "translation": "Вы можете активировать его, нажав соответствующую кнопку, когда Лиди или Сью станут целью."
+      "translation": "Вы можете активировать его, нажав соответствующую кнопку, когда Лиди или Сью станут целью атаки."
     },
     "ebm:mm03/event_message_mm03_160.ebm:33": {
       "source": "pack01_ebm",
@@ -6634,7 +6634,7 @@
       "index": 33,
       "speaker": "System",
       "original": "<CLR1>Have your allies keep the twins safe as much as possible!<CLNR>",
-      "translation": "<CLR1>Пусть ваши союзники обеспечат безопасность близнецов, насколько это возможно!<CLNR>"
+      "translation": "<CLR1>Пусть ваши союзники обеспечат безопасность близняшек, насколько это возможно!<CLNR>"
     },
     "ebm:mm03/event_message_mm03_170.ebm:0": {
       "source": "pack01_ebm",
@@ -6650,7 +6650,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Uwah! I thought we were here for eggs? We have to defeat that monster first?",
-      "translation": "Ува! Я думала, мы здесь за яйцами? Нам сначала нужно победить этого монстра?"
+      "translation": "Ой! Я думала, мы здесь за яйцами? Нам сначала нужно победить этого монстра?"
     },
     "ebm:mm03/event_message_mm03_170.ebm:2": {
       "source": "pack01_ebm",
@@ -6658,7 +6658,7 @@
       "index": 2,
       "speaker": "Mathias",
       "original": "That won't be an easy battle. Wouldn't it be faster to just pick up the eggs we can find?",
-      "translation": "Это будет нелегкая битва. Не быстрее ли было бы просто собрать яйца, которые мы сможем найти?"
+      "translation": "Это будет нелёгкая битва. Не быстрее ли было бы просто собрать яйца, которые мы сможем найти?"
     },
     "ebm:mm03/event_message_mm03_170.ebm:3": {
       "source": "pack01_ebm",
@@ -6666,7 +6666,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "Hey, \"bodyguard\". You're getting cold feet already?",
-      "translation": "Эй, «телохранитель». Уже струсил?"
+      "translation": "Эй, «защитник». Уже струсил?"
     },
     "ebm:mm03/event_message_mm03_170.ebm:4": {
       "source": "pack01_ebm",
@@ -6674,7 +6674,7 @@
       "index": 4,
       "speaker": "Mathias",
       "original": "Not exactly. Teaching you to avoid unnecessary battles is one of the key parts of being a bodyguard.",
-      "translation": "Не совсем. Научить вас избегать ненужных сражений — одна из ключевых частей работы телохранителя."
+      "translation": "Не совсем. Научить вас избегать ненужных сражений — одна из ключевых частей работы защитника."
     },
     "ebm:mm03/event_message_mm03_170.ebm:5": {
       "source": "pack01_ebm",
@@ -6738,7 +6738,7 @@
       "index": 0,
       "speaker": "Mireille",
       "original": "Hehe, great work. You passed. Congratulations on advancing to G Rank, both of you!",
-      "translation": "Хе-хе, отличная работа. Вы прошли. Поздравляем вас обоих с повышением ранга G!"
+      "translation": "Хе-хе, отличная работа. Вы прошли. Поздравляем вас обеих с повышением до ранга G!"
     },
     "ebm:mm03/event_message_mm03_180.ebm:1": {
       "source": "pack01_ebm",
@@ -6754,7 +6754,7 @@
       "index": 2,
       "speaker": "Mireille",
       "original": "I'm glad you're pleased. Tell me, was Mathias any help?",
-      "translation": "Я рада, что ты довольна. Скажи мне, помог ли Матиас?"
+      "translation": "Я рада, что ты довольна. Скажите мне, помог ли Матиас?"
     },
     "ebm:mm03/event_message_mm03_180.ebm:3": {
       "source": "pack01_ebm",
@@ -6826,7 +6826,7 @@
       "index": 11,
       "speaker": "Lydie",
       "original": "I also heard it last time we were here. Is there anyone back there?",
-      "translation": "Я тоже слышала его, когда мы были здесь в прошлый раз. Там сзади есть кто-нибудь?"
+      "translation": "Я также слышала его, когда мы были здесь в прошлый раз. Там кто-нибудь есть?"
     },
     "ebm:mm03/event_message_mm03_180.ebm:12": {
       "source": "pack01_ebm",
@@ -6858,7 +6858,7 @@
       "index": 15,
       "speaker": "Mireille",
       "original": "Good. You can go on ahead to the gallery.",
-      "translation": "Хорошо. Можете идти вперёд в галерею."
+      "translation": "Хорошо. Вы можете сразу идти в галерею."
     },
     "ebm:mm03/event_message_mm03_180.ebm:16": {
       "source": "pack01_ebm",
@@ -6866,7 +6866,7 @@
       "index": 16,
       "speaker": "Mireille",
       "original": "I'm going to show you a mysterious world.",
-      "translation": "Я покажу вам загадочный мир."
+      "translation": "Я покажу вам таинственный мир."
     },
     "ebm:mm03/event_message_mm03_190.ebm:0": {
       "source": "pack01_ebm",
@@ -6874,7 +6874,7 @@
       "index": 0,
       "speaker": "Mireille",
       "original": "Will you both head down to the gallery?",
-      "translation": "Вы оба спуститесь в галерею?"
+      "translation": "Вы обе отправитесь в галерею?"
     },
     "ebm:mm03/event_message_mm03_200.ebm:0": {
       "source": "pack01_ebm",
@@ -6882,7 +6882,7 @@
       "index": 0,
       "speaker": "Mireille",
       "original": "Now! Look at this wonderful painting!",
-      "translation": "Сейчас! Посмотрите на эту замечательную картину!"
+      "translation": "Посмотрите на эту замечательную картину!"
     },
     "ebm:mm03/event_message_mm03_200.ebm:1": {
       "source": "pack01_ebm",
@@ -6890,7 +6890,7 @@
       "index": 1,
       "speaker": "Mireille",
       "original": "Its title is \"The Spooky Forest\", and it's what we call a \"Mysterious Painting\".",
-      "translation": "Его название — «Жуткий лес», и это то, что мы называем «Таинственной картиной»."
+      "translation": "Её название — «Жуткий лес», и это то, что мы называем «Таинственной картиной»."
     },
     "ebm:mm03/event_message_mm03_200.ebm:2": {
       "source": "pack01_ebm",
@@ -6930,7 +6930,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "Wow! So the one in our basement was also a Mysterious Painting...",
-      "translation": "Ух ты! Значит, та, что в нашем подвале, тоже была загадочной картиной..."
+      "translation": "Ух ты! Значит, та, что в нашем подвале, тоже была Таинственной картиной..."
     },
     "ebm:mm03/event_message_mm03_200.ebm:7": {
       "source": "pack01_ebm",
@@ -6962,7 +6962,7 @@
       "index": 10,
       "speaker": "Mireille",
       "original": "What are you two talking about over there?",
-      "translation": "О чем вы там говорите?"
+      "translation": "О чём вы там говорите?"
     },
     "ebm:mm03/event_message_mm03_200.ebm:11": {
       "source": "pack01_ebm",
@@ -6970,7 +6970,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "Nothing, nothing at all! Please, tell us more!",
-      "translation": "Ничего, совсем ничего! Пожалуйста, расскажите нам больше!"
+      "translation": "Ничего, совсем ничего! Пожалуйста, расскажи нам больше!"
     },
     "ebm:mm03/event_message_mm03_200.ebm:12": {
       "source": "pack01_ebm",
@@ -6978,7 +6978,7 @@
       "index": 12,
       "speaker": "Mireille",
       "original": "There's still plenty we don't know about them. Our best alchemists are working on it diligently.",
-      "translation": "Мы еще многого о них не знаем. Наши лучшие алхимики усердно над этим работают."
+      "translation": "Мы ещё многого о них не знаем. Наши лучшие алхимики усердно над этим работают."
     },
     "ebm:mm03/event_message_mm03_200.ebm:13": {
       "source": "pack01_ebm",
@@ -6986,7 +6986,7 @@
       "index": 13,
       "speaker": "Mireille",
       "original": "And now I want to bring both of you on board.",
-      "translation": "И теперь я хочу привлечь вас обоих к участию."
+      "translation": "И теперь я хочу привлечь вас обеих к участию."
     },
     "ebm:mm03/event_message_mm03_200.ebm:14": {
       "source": "pack01_ebm",
@@ -6994,7 +6994,7 @@
       "index": 14,
       "speaker": "Lydie",
       "original": "I see. That does sound like a great opportunity, but why us?",
-      "translation": "Я понимаю. Это звучит как отличная возможность, но почему именно мы?"
+      "translation": "Понимаю. Это звучит как отличная возможность, но почему именно мы?"
     },
     "ebm:mm03/event_message_mm03_200.ebm:15": {
       "source": "pack01_ebm",
@@ -7018,7 +7018,7 @@
       "index": 17,
       "speaker": "Lydie",
       "original": "A voice from a Mysterious Painting? Is that possible?",
-      "translation": "Голос с загадочной картины? Возможно ли это?"
+      "translation": "Голос с Таинственной картины? Возможно ли это?"
     },
     "ebm:mm03/event_message_mm03_200.ebm:18": {
       "source": "pack01_ebm",
@@ -7026,7 +7026,7 @@
       "index": 18,
       "speaker": "Mireille",
       "original": "Maybe. Alchemists can sometimes hear the voice of materials, after all.",
-      "translation": "Может быть. В конце концов, алхимики иногда могут услышать голос материалов."
+      "translation": "Может быть. В конце концов, алхимики иногда могут слышать голос материалов."
     },
     "ebm:mm03/event_message_mm03_200.ebm:19": {
       "source": "pack01_ebm",
@@ -7034,7 +7034,7 @@
       "index": 19,
       "speaker": "Mireille",
       "original": "If you can hear such a voice, you'd be perfect for investigating Mysterious Paintings.",
-      "translation": "Если вы слышите такой голос, вы идеально подходите для исследования загадочных картин."
+      "translation": "Если вы слышите такой голос, вы идеально подходите для исследования Таинственных картин."
     },
     "ebm:mm03/event_message_mm03_200.ebm:20": {
       "source": "pack01_ebm",
@@ -7050,7 +7050,7 @@
       "index": 21,
       "speaker": "Sue",
       "original": "Yes, please! We're both really interested in the worlds inside paintings!",
-      "translation": "Да, пожалуйста! Нас обоих очень интересует мир внутри картин!"
+      "translation": "Да, пожалуйста! Нас обеих очень интересует мир внутри картин!"
     },
     "ebm:mm03/event_message_mm03_200.ebm:22": {
       "source": "pack01_ebm",
@@ -7074,7 +7074,7 @@
       "index": 0,
       "speaker": "Mireille",
       "original": "Will you both please stand in front of the painting?",
-      "translation": "Не могли бы вы оба встать перед картиной?"
+      "translation": "Не могли бы вы обе встать перед картиной?"
     },
     "ebm:mm03/event_message_mm03_220.ebm:0": {
       "source": "pack01_ebm",
@@ -7106,7 +7106,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "Hahaha, sounds like it. Come on then, Sue. Let's go.",
-      "translation": "Ха-ха-ха, звучит так. Тогда давай, Сью. Пойдем."
+      "translation": "Ха-ха-ха, звучит так. Давай, Сью. Пойдём."
     },
     "ebm:mm03/event_message_mm03_220.ebm:4": {
       "source": "pack01_ebm",
@@ -7114,7 +7114,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "Count me in! We're going into this mysterious world!",
-      "translation": "Я с вами! Мы отправляемся в этот загадочный мир!"
+      "translation": "Я с тобой! Мы отправляемся в этот таинственный мир!"
     },
     "ebm:mm03/event_message_mm03_220.ebm:5": {
       "source": "pack01_ebm",
@@ -7138,7 +7138,7 @@
       "index": 7,
       "speaker": "Mireille",
       "original": "There's a lot we don't know about the world in there. There might be dangerous monsters in there.",
-      "translation": "Мы многого не знаем о мире там. Там могут быть опасные монстры."
+      "translation": "Мы многого не знаем о том мире. Там могут быть опасные монстры."
     },
     "ebm:mm03/event_message_mm03_220.ebm:8": {
       "source": "pack01_ebm",
@@ -7162,7 +7162,7 @@
       "index": 0,
       "speaker": "System",
       "original": "Whispering voices mutter rumors from amid the trees.",
-      "translation": "Шепчущие голоса доносят слухи из-за деревьев."
+      "translation": "Шёпот и невнятный ропот доносятся из-за деревьев."
     },
     "ebm:mm03/event_message_mm03_230.ebm:1": {
       "source": "pack01_ebm",
@@ -7170,7 +7170,7 @@
       "index": 1,
       "speaker": "System",
       "original": "From the glooming darkness, you sense the eyes of someone,<CR>something... watching you.",
-      "translation": "Из мрачной тьмы вы чувствуете чьи-то глаза,<CR>что-то... наблюдающее за вами."
+      "translation": "Из непроглядной тьмы вы чувствуете чей-то взгляд...Кто-то или что-то... пристально следит за вами."
     },
     "ebm:mm03/event_message_mm03_230.ebm:2": {
       "source": "pack01_ebm",
@@ -7178,7 +7178,7 @@
       "index": 2,
       "speaker": "System",
       "original": "Looking around, those gnarly trees are all you can see.<CR>All who visit this place are bound to feel the same breath of fear.",
-      "translation": "Оглянувшись вокруг, вы увидите только эти корявые деревья.<CR>Все, кто посещают это место, обязательно почувствуют одно и то же дыхание страха."
+      "translation": "Куда ни посмотри, вокруг лишь искривлённые зловещие деревья.<CR>Каждый, кто приходит сюда, неизбежно ощущает леденящее дыхание страха."
     },
     "ebm:mm03/event_message_mm03_230.ebm:3": {
       "source": "pack01_ebm",
@@ -7186,7 +7186,7 @@
       "index": 3,
       "speaker": "System",
       "original": "And with good reason. For this place is the intersection<CR>between the world of living and the spectral plain.",
-      "translation": "И не без оснований. Ибо это место является пересечением<CR>между миром живых и призрачной равниной."
+      "translation": "И не без причины. Ведь это место — самый стык<CR>между миром живых и призрачной обителью."
     },
     "ebm:mm03/event_message_mm03_230.ebm:4": {
       "source": "pack01_ebm",
@@ -7194,7 +7194,7 @@
       "index": 4,
       "speaker": "System",
       "original": "This is the Spooky Forest.<CR>Beware of the tricks that might be played on you here...",
-      "translation": "Это Жуткий Лес.<CR>Остерегайтесь шуток, которые могут быть с вами здесь сыграны..."
+      "translation": "Вы вошли в Жуткий Лес.<CR>Берегитесь коварных иллюзий, что поджидают вас здесь..."
     },
     "ebm:mm03/event_message_mm03_240.ebm:0": {
       "source": "pack01_ebm",
@@ -7202,7 +7202,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Wow! This is amazing! Nothing like the last world we visited!",
-      "translation": "Ух ты! Это потрясающе! Ничего похожего на последний мир, который мы посетили!"
+      "translation": "Ух ты! Это потрясающе! Ничего похожего на тот мир, который мы посетили!"
     },
     "ebm:mm03/event_message_mm03_240.ebm:1": {
       "source": "pack01_ebm",
@@ -7210,7 +7210,7 @@
       "index": 1,
       "speaker": "Mathias",
       "original": "What was that? You've visited a different world already?",
-      "translation": "Что это было? Вы уже побывали в другом мире?"
+      "translation": "Что такое? Вы уже побывали в другом мире?"
     },
     "ebm:mm03/event_message_mm03_240.ebm:2": {
       "source": "pack01_ebm",
@@ -7218,7 +7218,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "Oh, Mathias! No, I mean, outside! Nothing like the world outside, ahaha!",
-      "translation": "О, Матиас! Нет, я имею в виду снаружи! Ничего подобного внешнему миру, ахаха!"
+      "translation": "Ой, Матиас! Да нет же, я имела в виду — снаружи! Да тут всё совсем не так, как во внешнем мире, ха-ха!"
     },
     "ebm:mm03/event_message_mm03_240.ebm:3": {
       "source": "pack01_ebm",
@@ -7234,7 +7234,7 @@
       "index": 4,
       "speaker": "Mathias",
       "original": "Sue? Is something wrong? You don't seem your normal cheerful self.",
-      "translation": "Сью? Что-то не так? Ты не похожа на себя обычную весёлую."
+      "translation": "Сью? Что-то не так? Ты не похожа на обычную весёлую себя."
     },
     "ebm:mm03/event_message_mm03_240.ebm:5": {
       "source": "pack01_ebm",
@@ -7282,7 +7282,7 @@
       "index": 10,
       "speaker": "Mathias",
       "original": "What do you want to do? Go back on your own, Sue?",
-      "translation": "Что ты хочешь делать? Вернешься сама, Сью?"
+      "translation": "Что ты хочешь делать? Вернешься, Сью?"
     },
     "ebm:mm03/event_message_mm03_240.ebm:11": {
       "source": "pack01_ebm",
@@ -7290,7 +7290,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "No. I'll go with you... I'm scared, but I can't leave Lydie alone.",
-      "translation": "Нет, я пойду с тобой... Мне страшно, но я не могу оставить Лиди одну."
+      "translation": "Нет, я пойду с вами... Мне страшно, но я не могу оставить Лиди одну."
     },
     "ebm:mm03/event_message_mm03_240.ebm:12": {
       "source": "pack01_ebm",
@@ -7362,7 +7362,7 @@
       "index": 4,
       "speaker": "System",
       "original": "<CLR1>You don't want to lose those precious materials! Retreat is always an option!<CLNR>",
-      "translation": "<CLR1>Вы не хотите потерять эти драгоценные материалы! Отступление всегда возможно!<CLNR>"
+      "translation": "<CLR1>Вы же не хотите потерять эти драгоценные материалы! Всегда можно отступить!<CLNR>"
     },
     "ebm:mm03/event_message_mm03_260.ebm:0": {
       "source": "pack01_ebm",
@@ -7386,7 +7386,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "Look at that. What does it say?",
-      "translation": "Посмотрите на это. Что это говорит?"
+      "translation": "Давате посмотрим. Что там написано?"
     },
     "ebm:mm03/event_message_mm03_260.ebm:3": {
       "source": "pack01_ebm",
@@ -7410,7 +7410,7 @@
       "index": 5,
       "speaker": "Mathias",
       "original": "Uwah!",
-      "translation": "Ува!"
+      "translation": "Ой!"
     },
     "ebm:mm03/event_message_mm03_260.ebm:6": {
       "source": "pack01_ebm",
@@ -7426,7 +7426,7 @@
       "index": 7,
       "speaker": "Lydie",
       "original": "Hey, Sue! Wipe those tears from your eyes, okay? It's just some dumb old sign...",
-      "translation": "Привет, Сью! Вытри слезы с глаз, ладно? Это просто какой-то тупой старый знак..."
+      "translation": "Эй, Сью! Вытри слезы с глаз, ладно? Это просто какой-то тупой старый знак..."
     },
     "ebm:mm03/event_message_mm03_260.ebm:8": {
       "source": "pack01_ebm",
@@ -7434,7 +7434,7 @@
       "index": 8,
       "speaker": "Ghost",
       "original": "Keh keh keh! Cursed children! We're here to take you away!",
-      "translation": "Ке ке ке! Проклятые дети! Мы здесь, чтобы забрать вас!"
+      "translation": "Хе-хе-хе! Проклятые дети! Мы здесь, чтобы забрать вас!"
     },
     "ebm:mm03/event_message_mm03_260.ebm:9": {
       "source": "pack01_ebm",
@@ -7442,7 +7442,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Hyaaaaah! G-G-Ghosts? No way! Get away from me!",
-      "translation": "Хааааа! Призраки? Ни за что! Отойди от меня!"
+      "translation": "А-а-а-а-а! При-при-призраки? Ни за что! Отойди от меня!"
     },
     "ebm:mm03/event_message_mm03_260.ebm:10": {
       "source": "pack01_ebm",
@@ -7522,7 +7522,7 @@
       "index": 7,
       "speaker": "Lydie",
       "original": "Sue, you'll be fine. Come on. We'll all head to the graveyard together!",
-      "translation": "Сью, с тобой все будет в порядке. Ну давай же. Мы все вместе отправимся на кладбище!"
+      "translation": "Сью, с тобой всё будет в порядке. Ну давай же. Мы все вместе отправимся на кладбище!"
     },
     "ebm:mm03/event_message_mm03_280.ebm:8": {
       "source": "pack01_ebm",
@@ -7538,7 +7538,7 @@
       "index": 0,
       "speaker": "Lucia",
       "original": "Hyaaaaaaaaagh!",
-      "translation": "Хаааааааа!"
+      "translation": "А-а-а-а-а!"
     },
     "ebm:mm03/event_message_mm03_290.ebm:1": {
       "source": "pack01_ebm",
@@ -7562,7 +7562,7 @@
       "index": 0,
       "speaker": "Lucia",
       "original": "I taste terrible, I'm telling you! I'm so slim, there's almost no meat on me, either!",
-      "translation": "У меня ужасный вкус, говорю вам! Я такая стройная, мяса на мне тоже почти нет!"
+      "translation": "Я ужасная на вкус, говорю вам! Я такая худая, мяса на мне тоже почти нет!"
     },
     "ebm:mm03/event_message_mm03_300.ebm:1": {
       "source": "pack01_ebm",
@@ -7586,7 +7586,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "Long story. Anyway, it looks like you could use a hand!",
-      "translation": "Долгая история. В любом случае, похоже, тебе не помешает рука!"
+      "translation": "Долгая история. В любом случае, похоже, тебе не помешает помощь!"
     },
     "ebm:mm03/event_message_mm03_300.ebm:4": {
       "source": "pack01_ebm",
@@ -7594,7 +7594,7 @@
       "index": 4,
       "speaker": "Lucia",
       "original": "Ah, be careful! That black monster is really strong!",
-      "translation": "Ах, будьте осторожны! Этот черный монстр действительно силен!"
+      "translation": "Ах, будьте осторожны! Этот чёрный монстр действительно силён!"
     },
     "ebm:mm03/event_message_mm03_300.ebm:5": {
       "source": "pack01_ebm",
@@ -7610,7 +7610,7 @@
       "index": 0,
       "speaker": "Lucia",
       "original": "Father, mother... Forgive me... I will now become a glorious meal for this monster...",
-      "translation": "Отец, мать... Прости меня... Я теперь стану славной трапезой для этого чудовища..."
+      "translation": "Папа, мама... Прости меня... Я теперь стану славной трапезой для этого чудовища..."
     },
     "ebm:mm03/event_message_mm03_310.ebm:1": {
       "source": "pack01_ebm",
@@ -7626,7 +7626,7 @@
       "index": 0,
       "speaker": "Lucia",
       "original": "Phew! I really thought I was about to become a lunch for a moment there!",
-      "translation": "Уф! Я и правда думала, что вот-вот стану там обедом!"
+      "translation": "Уф! Я и правда думала, что вот-вот стану обедом!"
     },
     "ebm:mm03/event_message_mm03_320.ebm:1": {
       "source": "pack01_ebm",
@@ -7642,7 +7642,7 @@
       "index": 2,
       "speaker": "Mathias",
       "original": "What's the plan? Do you want me to take you home?",
-      "translation": "Каков план? Хочешь, я отвезу тебя домой?"
+      "translation": "Какие планы? Хочешь, я отведу тебя домой?"
     },
     "ebm:mm03/event_message_mm03_320.ebm:3": {
       "source": "pack01_ebm",
@@ -7650,7 +7650,7 @@
       "index": 3,
       "speaker": "Lucia",
       "original": "I'd very much like to take you up on that offer, but there's a reason I can't leave...",
-      "translation": "Мне бы очень хотелось принять ваше предложение, но есть причина, по которой я не могу уйти..."
+      "translation": "Мне бы очень хотелось принять твоё предложение, но есть причина, по которой я не могу уйти..."
     },
     "ebm:mm03/event_message_mm03_320.ebm:4": {
       "source": "pack01_ebm",
@@ -7666,7 +7666,7 @@
       "index": 5,
       "speaker": "Sue",
       "original": "What! You too, Lucia?! We read the same sign!",
-      "translation": "Что! Ты тоже, Люсия?! Мы читали тот же знак!"
+      "translation": "Что! Ты тоже, Люсия?! Я прочитала тот же знак!"
     },
     "ebm:mm03/event_message_mm03_320.ebm:6": {
       "source": "pack01_ebm",
@@ -7706,7 +7706,7 @@
       "index": 10,
       "speaker": "Mathias",
       "original": "No need to worry about that. Just stick near me and I'll keep you safe.",
-      "translation": "Не нужно об этом беспокоиться. Просто держись рядом со мной, и я буду держать тебя в безопасности."
+      "translation": "Не нужно об этом беспокоиться. Просто оставайся рядом со мной, и я тебя защищу."
     },
     "ebm:mm03/event_message_mm03_320.ebm:11": {
       "source": "pack01_ebm",
@@ -7714,7 +7714,7 @@
       "index": 11,
       "speaker": "Lucia",
       "original": "You will? In which case, I'll tag along. Thank you, all three of you.",
-      "translation": "Вы будете? В таком случае, я присоединюсь. Спасибо вам всем троим."
+      "translation": "Ты сделаешь это? В таком случае, я присоединюсь. Спасибо вам всем троим."
     },
     "ebm:mm03/event_message_mm03_330.ebm:0": {
       "source": "pack01_ebm",
@@ -7738,7 +7738,7 @@
       "index": 2,
       "speaker": "Mathias",
       "original": "Wicked Trees, is it? Just who painted this picture?",
-      "translation": "Злые деревья, не так ли? Вот только кто нарисовал эту картину?"
+      "translation": "Злые деревья, не так ли? Кто же написал эту картину?"
     },
     "ebm:mm03/event_message_mm03_330.ebm:3": {
       "source": "pack01_ebm",
@@ -7754,7 +7754,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "No way. This isn't happening. Talking trees? Impossible. I didn't see a thing. Not a thing!",
-      "translation": "Ни за что. Этого не происходит. Говорящие деревья? Невозможно. Я ничего не видела. Ничего!"
+      "translation": "Да быть не может. Этого просто не происходит. Говорящие деревья? Невозможно! Я ничего не видела. Вообще ничего!"
     },
     "ebm:mm03/event_message_mm03_330.ebm:5": {
       "source": "pack01_ebm",
@@ -7762,7 +7762,7 @@
       "index": 5,
       "speaker": "Lucia",
       "original": "You think you can extort us for passage? A few quick bombs will clear this up!",
-      "translation": "Думаешь, сможешь вымогать у нас пропуск? Несколько быстрых бомб прояснят ситуацию!"
+      "translation": "Думаете, у вас получится вымогать у нас плату за проход? Несколько быстрых бомб прояснят ситуацию!"
     },
     "ebm:mm03/event_message_mm03_330.ebm:6": {
       "source": "pack01_ebm",
@@ -7770,7 +7770,7 @@
       "index": 6,
       "speaker": "Wicked Tree A",
       "original": "Hey, that's pretty gangster of you, Sister! But we can handle folks who try to cheat the system!",
-      "translation": "Эй, это очень гангстерски с твоей стороны, сестра! Но мы справимся с людьми, которые пытаются обмануть систему!"
+      "translation": "Ого, а ты дерзкая, сестрёнка! Но мы мигом обламаем тех, кто пытается обойти наши правила!"
     },
     "ebm:mm03/event_message_mm03_330.ebm:7": {
       "source": "pack01_ebm",
@@ -7810,7 +7810,7 @@
       "index": 11,
       "speaker": "Mathias",
       "original": "They've got us over a barrel. A wooden barrel! Seems we have to do what they want.",
-      "translation": "Они нас загнали в тупик. Деревянная бочка! Кажется, мы должны делать то, что они хотят."
+      "translation": "Они прижали нас к стене. К настоящей деревянной стене! Похоже, придётся делать то, что они требуют."
     },
     "ebm:mm03/event_message_mm03_330.ebm:12": {
       "source": "pack01_ebm",
@@ -7818,7 +7818,7 @@
       "index": 12,
       "speaker": "Wicked Tree B",
       "original": "Heh, glad you see things from our perspective. Go on, find us some of the good stuff!",
-      "translation": "Хех, рад, что ты видишь вещи с нашей точки зрения. Давай, найди нам что-нибудь хорошее!"
+      "translation": "Хе, рад, что ты видишь вещи с нашей точки зрения. Давай, найдите нам что-нибудь хорошее!"
     },
     "ebm:mm03/event_message_mm03_340.ebm:0": {
       "source": "pack01_ebm",
@@ -7826,7 +7826,7 @@
       "index": 0,
       "speaker": "Wicked Tree A",
       "original": "I can smell if from here! That's some quality fertilizer! Get it on my roots, quick!",
-      "translation": "Я чувствую запах отсюда! Вот это качественное удобрение! Живо на мои корни!"
+      "translation": "Я чувствую запах отсюда! Вот это качественное удобрение! Живо лей на мои корни!"
     },
     "ebm:mm03/event_message_mm03_340.ebm:1": {
       "source": "pack01_ebm",
@@ -7842,7 +7842,7 @@
       "index": 2,
       "speaker": "Lucia",
       "original": "Phew, it all worked out in the end. I wasn't warned about greedy trees!",
-      "translation": "Уф, в конце концов все получилось. Меня не предупредили о жадных деревьях!"
+      "translation": "Уф, в конце концов всё получилось. Меня не предупредили о жадных деревьях!"
     },
     "ebm:mm03/event_message_mm03_340.ebm:3": {
       "source": "pack01_ebm",
@@ -7850,7 +7850,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "You're just as bad though, Lucia. Trying to blow your way through...",
-      "translation": "Но ты такая же плохая, Люсия. Пытаешься пробиться силой..."
+      "translation": "Но ты не лучше, Люсия. Пытаешься пробиться силой..."
     },
     "ebm:mm03/event_message_mm03_340.ebm:4": {
       "source": "pack01_ebm",
@@ -7866,7 +7866,7 @@
       "index": 5,
       "speaker": "Lucia",
       "original": "Let's get moving, anyway. I want to break this curse as quickly as possible.",
-      "translation": "Давай, в любом случае, подвигаемся. Я хочу разрушить это проклятие как можно быстрее."
+      "translation": "Давайте, в любом случае, подвигаемся. Я хочу разрушить это проклятие как можно быстрее."
     },
     "ebm:mm03/event_message_mm03_350.ebm:0": {
       "source": "pack01_ebm",
@@ -7906,7 +7906,7 @@
       "index": 4,
       "speaker": "Mathias",
       "original": "Me? Why? Very well. I guess I don't have much choice.",
-      "translation": "Мне? Почему? Очень хорошо. Думаю, у меня нет особого выбора."
+      "translation": "Я? Почему? Очень хорошо. Думаю, у меня нет особого выбора."
     },
     "ebm:mm03/event_message_mm03_350.ebm:5": {
       "source": "pack01_ebm",
@@ -7922,7 +7922,7 @@
       "index": 6,
       "speaker": "Lucia",
       "original": "Really? Even if it breaks the curse, that sounds like a bit of a hassle.",
-      "translation": "Действительно? Даже если это снимет проклятие, это будет немного хлопотно."
+      "translation": "Правда? Даже если это снимет проклятие, это будет немного хлопотно."
     },
     "ebm:mm03/event_message_mm03_350.ebm:7": {
       "source": "pack01_ebm",
@@ -7946,7 +7946,7 @@
       "index": 9,
       "speaker": "Lucia",
       "original": "You're right, of course! Very well, I'll do it! I'll sprinkle water like you wouldn't believe!",
-      "translation": "Вы правы, конечно! Очень хорошо, я сделаю это! Я окроплю водой так, как вы не поверите!"
+      "translation": "Вы правы, конечно! Очень хорошо, я сделаю это! Я буду разбрызгивать воду так, как вы даже представить себе не можете!"
     },
     "ebm:mm03/event_message_mm03_350.ebm:10": {
       "source": "pack01_ebm",
@@ -7954,7 +7954,7 @@
       "index": 10,
       "speaker": "Lucia",
       "original": "Ohohoho! Get ready, graves! I'm going to drench you all in water!",
-      "translation": "Ого-хо-хо! Готовьтесь, могилы! Я залью вас всех водой!"
+      "translation": "О-хо-хо-хо! Готовьтесь, могилы! Я залью вас все водой!"
     },
     "ebm:mm03/event_message_mm03_350.ebm:11": {
       "source": "pack01_ebm",
@@ -7962,7 +7962,7 @@
       "index": 11,
       "speaker": "Mathias",
       "original": "I don't think we need to go that far, unless you are asking to be cursed even more...",
-      "translation": "Я не думаю, что нам нужно заходить так далеко, если только вы не просите, чтобы вас проклинали еще больше..."
+      "translation": "Я не думаю, что нам нужно заходить так далеко, если только вы не желаете, чтобы нас прокляли ещё сильнее..."
     },
     "ebm:mm03/event_message_mm03_360.ebm:0": {
       "source": "pack01_ebm",
@@ -8002,7 +8002,7 @@
       "index": 4,
       "speaker": "Lucia",
       "original": "Ohohoho! The ultimate idea! This is your chance to get on board, Sue?",
-      "translation": "Ого-хо-хо! Идея века! Это твой шанс присоединиться, Сью?"
+      "translation": "О-хо-хо-хо! Идея века! Это твой шанс присоединиться, Сью?"
     },
     "ebm:mm03/event_message_mm03_360.ebm:5": {
       "source": "pack01_ebm",
@@ -8042,7 +8042,7 @@
       "index": 3,
       "speaker": "Lucia",
       "original": "Lydie. Sue has made her choice. She's going to take part in my incredible plan!",
-      "translation": "Лиди. Сью сделала свой выбор. Она примет участие в моем невероятном плане!"
+      "translation": "Лиди. Сью сделала свой выбор. Она примет участие в моём невероятном плане!"
     },
     "ebm:mm03/event_message_mm03_370.ebm:4": {
       "source": "pack01_ebm",
@@ -8066,7 +8066,7 @@
       "index": 6,
       "speaker": "Lucia",
       "original": "Come on then, Sue. Let's put an end to this.",
-      "translation": "Тогда давай, Сью. Давайте положим этому конец."
+      "translation": "Тогда давай, Сью. Давай положим этому конец."
     },
     "ebm:mm03/event_message_mm03_370.ebm:7": {
       "source": "pack01_ebm",
@@ -8090,7 +8090,7 @@
       "index": 9,
       "speaker": "Ghost",
       "original": "You cheated! Cheaters get punished!",
-      "translation": "Вы обманули! Мошенников наказывают!"
+      "translation": "Вы обманщики! Мошенников наказывают!"
     },
     "ebm:mm03/event_message_mm03_370.ebm:10": {
       "source": "pack01_ebm",
@@ -8098,7 +8098,7 @@
       "index": 10,
       "speaker": "Sue",
       "original": "E-eh?! S-S-Sorry!",
-      "translation": "Э-э?! Т-С-Прости!"
+      "translation": "Э-э?! П-П-Простите!"
     },
     "ebm:mm03/event_message_mm03_370.ebm:11": {
       "source": "pack01_ebm",
@@ -8114,7 +8114,7 @@
       "index": 0,
       "speaker": "Ghost",
       "original": "You cheated! Cheaters get punished!",
-      "translation": "Вы обманули! Мошенников наказывают!"
+      "translation": "Вы обманщики! Мошенников наказывают!"
     },
     "ebm:mm03/event_message_mm03_390.ebm:0": {
       "source": "pack01_ebm",
@@ -8138,7 +8138,7 @@
       "index": 2,
       "speaker": "Together",
       "original": "Gyaaah! Another ghost!",
-      "translation": "Гияаа! Ещё один призрак!"
+      "translation": "Аааа! Ещё один призрак!"
     },
     "ebm:mm03/event_message_mm03_390.ebm:3": {
       "source": "pack01_ebm",
@@ -8146,7 +8146,7 @@
       "index": 3,
       "speaker": "System",
       "original": "Gyaaah! Another ghost!",
-      "translation": "Гияаа! Ещё один призрак!"
+      "translation": "Аааа! Ещё один призрак!"
     },
     "ebm:mm03/event_message_mm03_390.ebm:4": {
       "source": "pack01_ebm",
@@ -8178,7 +8178,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "Phew. We finally did them all.",
-      "translation": "Уф. Наконец-то мы сделали их все."
+      "translation": "Уф. Наконец-то мы сделали всё это."
     },
     "ebm:mm03/event_message_mm03_390.ebm:8": {
       "source": "pack01_ebm",
@@ -8186,7 +8186,7 @@
       "index": 8,
       "speaker": "Lydie",
       "original": "You two, honestly... This is what happens when you try to cheat!",
-      "translation": "Вы двое, честно... Вот что бывает, когда пытаетесь схитрить!"
+      "translation": "Ну и ну, девчонки, честное слово... Вот что бывает, когда пытаешься схитрить!"
     },
     "ebm:mm03/event_message_mm03_390.ebm:9": {
       "source": "pack01_ebm",
@@ -8234,7 +8234,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "I'm just going to take it slow and steady. I feel we'll just get in more trouble for not taking this seriously.",
-      "translation": "Я просто буду действовать медленно и уверенно. Я чувствую, что у нас будут еще большие проблемы, если мы не отнесемся к этому серьезно."
+      "translation": "Я просто буду действовать медленно и уверенно. Я чувствую, что у нас будут ещё большие проблемы, если мы не отнесемся к этому серьезно."
     },
     "ebm:mm03/event_message_mm03_400.ebm:3": {
       "source": "pack01_ebm",
@@ -8250,7 +8250,7 @@
       "index": 4,
       "speaker": "Lucia",
       "original": "Ohohoho! I can feel the curse breaking already!",
-      "translation": "Ого-хо-хо! Я уже чувствую, как проклятие разрушается!"
+      "translation": "О-хо-хо-хо! Я уже чувствую, как проклятие разрушается!"
     },
     "ebm:mm03/event_message_mm03_400.ebm:5": {
       "source": "pack01_ebm",
@@ -8258,7 +8258,7 @@
       "index": 5,
       "speaker": "Ghost",
       "original": "You cheated! Cheaters will be cursed FOREVER!",
-      "translation": "Вы обманули! Мошенники будут прокляты НАВСЕГДА!"
+      "translation": "Вы обманщики! Мошенники будут прокляты НАВСЕГДА!"
     },
     "ebm:mm03/event_message_mm03_400.ebm:6": {
       "source": "pack01_ebm",
@@ -8266,7 +8266,7 @@
       "index": 6,
       "speaker": "Lucia",
       "original": "No! No! Gyaaaaah!",
-      "translation": "Нет! Нет! Дааааа!"
+      "translation": "Нет! Нет! Аааааа!"
     },
     "ebm:mm03/event_message_mm03_400.ebm:7": {
       "source": "pack01_ebm",
@@ -8274,7 +8274,7 @@
       "index": 7,
       "speaker": "Lydie",
       "original": "Uwah! It looks like Lucia is having a but of a rough time?",
-      "translation": "Ува! Похоже, у Люсии сейчас тяжелые времена?"
+      "translation": "Ух! Похоже, у Люсии сейчас тяжелые времена?"
     },
     "ebm:mm03/event_message_mm03_400.ebm:8": {
       "source": "pack01_ebm",
@@ -8290,7 +8290,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Phew, that should be all of them.",
-      "translation": "Уф, это должно быть все."
+      "translation": "Уф, это должно быть всё."
     },
     "ebm:mm03/event_message_mm03_400.ebm:10": {
       "source": "pack01_ebm",
@@ -8314,7 +8314,7 @@
       "index": 12,
       "speaker": "Lydie",
       "original": "Hey, the sign... is shining? We should go check it out.",
-      "translation": "Эй, знак... светится? Нам следует пойти и проверить это."
+      "translation": "Эй, знак... светится? Нам следует пойти и проверить его."
     },
     "ebm:mm03/event_message_mm03_410.ebm:0": {
       "source": "pack01_ebm",
@@ -8362,7 +8362,7 @@
       "index": 5,
       "speaker": "Mathias",
       "original": "P.S. We hope you won't try to cut any corners again in the future.”",
-      "translation": "P.S. Мы надеемся, что в будущем вы больше не попытаетесь срезать углы»."
+      "translation": "П.С. Мы надеемся, что в будущем вы больше не попытаетесь срезать углы»."
     },
     "ebm:mm03/event_message_mm03_410.ebm:6": {
       "source": "pack01_ebm",
@@ -8378,7 +8378,7 @@
       "index": 7,
       "speaker": "Lydie",
       "original": "Hahaha. This looks like the gift they mentioned. Some kind of beautiful stones?",
-      "translation": "Ха-ха-ха. Это похоже на тот подарок, о котором они упомянули. Какие-то красивые камни?"
+      "translation": "Ха-ха-ха. Это похоже тот подарок, о котором они упомянули. Какие-то красивые камни?"
     },
     "ebm:mm03/event_message_mm03_410.ebm:8": {
       "source": "pack01_ebm",
@@ -8394,7 +8394,7 @@
       "index": 9,
       "speaker": "Lucia",
       "original": "I know, I know! I certainly don't want to ever be terrified like that again!",
-      "translation": "Я знаю, я знаю! Я, конечно, не хочу когда-либо снова испытывать такой ужас!"
+      "translation": "Я знаю, знаю! Я, конечно, не хочу когда-либо снова испытывать такой ужас!"
     },
     "ebm:mm03/event_message_mm03_410.ebm:10": {
       "source": "pack01_ebm",
@@ -8402,7 +8402,7 @@
       "index": 10,
       "speaker": "Lydie",
       "original": "Hahaha. This looks like the gift they mentioned. Materials, and some kind of beautiful stones?",
-      "translation": "Ха-ха-ха. Это похоже на тот подарок, о котором они упомянули. Материалы и какие-то красивые камни?"
+      "translation": "Ха-ха-ха. Это похоже тот подарок, о котором они упомянули. Материалы и какие-то красивые камни?"
     },
     "ebm:mm03/event_message_mm03_410.ebm:11": {
       "source": "pack01_ebm",
@@ -8410,7 +8410,7 @@
       "index": 11,
       "speaker": "Lucia",
       "original": "What a mysterious color. I've never seen stones like this before.",
-      "translation": "Какой загадочный цвет. Я никогда раньше не видела таких камней."
+      "translation": "Какой таинственный цвет. Я никогда раньше не видела таких камней."
     },
     "ebm:mm03/event_message_mm03_410.ebm:12": {
       "source": "pack01_ebm",
@@ -8458,7 +8458,7 @@
       "index": 17,
       "speaker": "Lucia",
       "original": "Sounds like a plan. Come on, twins. We're leaving. I just want to get home and have a shower.",
-      "translation": "Звучит как план. Давайте, близнецы. Мы уходим. Я просто хочу пойти домой и принять душ."
+      "translation": "Звучит как план. Давайте, близняшки. Мы уходим. Я просто хочу пойти домой и принять душ."
     },
     "ebm:mm03/event_message_mm03_410.ebm:18": {
       "source": "pack01_ebm",
@@ -8490,7 +8490,7 @@
       "index": 0,
       "speaker": "Mireille",
       "original": "Welcome back, everyone! How was the world inside of the painting?",
-      "translation": "С возвращением, все! Каким был мир внутри картины?"
+      "translation": "Добро пожаловать обратно! Каким был мир внутри картины?"
     },
     "ebm:mm03/event_message_mm03_420.ebm:1": {
       "source": "pack01_ebm",
@@ -8562,7 +8562,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "So there are other Mysterious Paintings? We'd love to help you, of course!",
-      "translation": "Значит, существуют и другие загадочные картины? Конечно, мы будем рады вам помочь!"
+      "translation": "Значит, существуют и другие Таинственные картины? Конечно, мы будем рады вам помочь!"
     },
     "ebm:mm03/event_message_mm03_420.ebm:10": {
       "source": "pack01_ebm",
@@ -8602,7 +8602,7 @@
       "index": 14,
       "speaker": "Mireille",
       "original": "Hey, that's one of your better ideas! Let's do that. Unless you three don't want to?",
-      "translation": "Эй, это одна из твоих лучших идей! Давайте сделаем это. Если только вы трое не хотите?"
+      "translation": "Эй, это одна из твоих лучших идей! Давайте сделаем это. Если только вы трое не против?"
     },
     "ebm:mm03/event_message_mm03_420.ebm:15": {
       "source": "pack01_ebm",
@@ -8610,7 +8610,7 @@
       "index": 15,
       "speaker": "Lucia",
       "original": "No, that sounds fine to me. Do you both agree?",
-      "translation": "Нет, для меня это звучит нормально. Вы оба согласны?"
+      "translation": "Нет, для меня это звучит нормально. Вы обе согласны?"
     },
     "ebm:mm03/event_message_mm03_420.ebm:16": {
       "source": "pack01_ebm",
@@ -8634,7 +8634,7 @@
       "index": 18,
       "speaker": "Mireille",
       "original": "You can take back anything you found in the painting, and use it as you like. See you soon!",
-      "translation": "Вы можете забрать все, что нашли на картине, и использовать по своему усмотрению. До скорой встречи!"
+      "translation": "Вы можете забрать всё, что нашли в картине, и использовать по своему усмотрению. До скорой встречи!"
     },
     "ebm:mm03/event_message_mm03_420.ebm:19": {
       "source": "pack01_ebm",
@@ -8650,7 +8650,7 @@
       "index": 20,
       "speaker": "Sue",
       "original": "Hyah! D-Don't make fun of me, Mathias! You dummy!",
-      "translation": "Ха! Д-Не смейся надо мной, Матиас! Ты дурак!"
+      "translation": "А-а! Н-Не смейся надо мной, Матиас! Ты дурак!"
     },
     "ebm:mm03/event_message_mm03_420.ebm:21": {
       "source": "pack01_ebm",
@@ -8666,7 +8666,7 @@
       "index": 0,
       "speaker": "Lucia",
       "original": "They caught up to my rank, and now I'm helping them?",
-      "translation": "Они догнали меня по званию, и теперь я им помогаю?"
+      "translation": "Они догнали меня по рангу, и теперь я им помогаю?"
     },
     "ebm:mm03/event_message_mm03_430.ebm:1": {
       "source": "pack01_ebm",
@@ -8866,7 +8866,7 @@
       "index": 4,
       "speaker": "Mireille",
       "original": "I've obtained a new Mysterious Painting! As we promised, you can go in once you raise your rank.",
-      "translation": "Я получила новую загадочную картину! Как мы и обещали, вы сможете войти, как только повысите свой ранг."
+      "translation": "Я получила новую Таинственную картину! Как мы и обещали, вы сможете войти, как только повысите свой ранг."
     },
     "ebm:mm04/event_message_mm04_020.ebm:5": {
       "source": "pack01_ebm",
@@ -8898,7 +8898,7 @@
       "index": 8,
       "speaker": "Sue",
       "original": "Just how are you collecting these Mysterious Paintings? Are they just lying around somewhere?",
-      "translation": "Как ты собираешь эти загадочные картины? Они просто где-то валяются?"
+      "translation": "Как ты собираешь эти Таинственные картины? Они просто где-то валяются?"
     },
     "ebm:mm04/event_message_mm04_020.ebm:9": {
       "source": "pack01_ebm",
@@ -9170,7 +9170,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "Whatever. Does that mean you know about Mysterious Paintings?",
-      "translation": "Как бы там ни было. Означает ли это, что ты знаешь о загадочных картинах?"
+      "translation": "Как бы там ни было. Означает ли это, что ты знаешь о Таинственных картинах?"
     },
     "ebm:mm04/event_message_mm04_040.ebm:3": {
       "source": "pack01_ebm",
@@ -9274,7 +9274,7 @@
       "index": 15,
       "speaker": "Roger",
       "original": "Nope, that can't be. I painted that picture! I can't make Mysterious Paintings, never! Hahaha!",
-      "translation": "Нет, этого не может быть. Я нарисовал эту картину! Я не могу создавать загадочные картины, никогда! Ха-ха-ха!"
+      "translation": "Нет, этого не может быть. Я нарисовал эту картину! Я не могу создавать Таинственные картины, никогда! Ха-ха-ха!"
     },
     "ebm:mm04/event_message_mm04_040.ebm:16": {
       "source": "pack01_ebm",
@@ -9386,7 +9386,7 @@
       "index": 10,
       "speaker": "Sue",
       "original": "Inside a Mysterious Painting, actually. You know about them, Ilmeria, don't you?",
-      "translation": "Собственно, внутри загадочной картины. Ты знаешь о них, Ильмерия, не так ли?"
+      "translation": "Собственно, внутри Таинственной картины. Ты знаешь о них, Ильмерия, не так ли?"
     },
     "ebm:mm04/event_message_mm04_050.ebm:11": {
       "source": "pack01_ebm",
@@ -10466,7 +10466,7 @@
       "index": 5,
       "speaker": "Mireille",
       "original": "You see, \"The Luminous Ice Grotto\" is very old. It's lost its power as a Mysterious Painting.",
-      "translation": "Видите ли, «Светящийся ледяной грот» очень старый. Она потеряла свою силу как Таинственная Картина."
+      "translation": "Видите ли, «Светящийся ледяной грот» очень старый. Она потеряла свою силу как Таинственная картина."
     },
     "ebm:mm04/event_message_mm04_150.ebm:6": {
       "source": "pack01_ebm",
@@ -10498,7 +10498,7 @@
       "index": 9,
       "speaker": "Mireille",
       "original": "Ahem. In any case, that's how we return the lost power of a Mysterious Painting.",
-      "translation": "Кхм. В любом случае, именно так мы возвращаем утраченную силу Таинственной Картины."
+      "translation": "Кхм. В любом случае, именно так мы возвращаем утраченную силу Таинственной картины."
     },
     "ebm:mm04/event_message_mm04_150.ebm:10": {
       "source": "pack01_ebm",
@@ -10834,7 +10834,7 @@
       "index": 4,
       "speaker": "Roger",
       "original": "They are also called \"Neige's Paints\", after the first person to make a Mysterious Painting.",
-      "translation": "Их также называют «Красками Нейдж» в честь первой, кто создала загадочную картину."
+      "translation": "Их также называют «Красками Нейдж» в честь первой, кто создала Таинственную картину."
     },
     "ebm:mm04/event_message_mm04_170.ebm:5": {
       "source": "pack01_ebm",
@@ -10874,7 +10874,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Huh. Dad's like a different person when it comes to Mysterious Paintings.",
-      "translation": "Хм. Когда дело доходит до загадочных картин, папа становится другим человеком."
+      "translation": "Хм. Когда дело доходит до Таинственных картин, папа становится другим человеком."
     },
     "ebm:mm04/event_message_mm04_170.ebm:10": {
       "source": "pack01_ebm",
@@ -11050,7 +11050,7 @@
       "index": 0,
       "speaker": "Firis",
       "original": "Hey, this is a Mysterious Painting! I heard a bit about these from Ilmeria.",
-      "translation": "Эй, это загадочная картина! Я кое-что слышала об этом от Ильмерии."
+      "translation": "Эй, это Таинственная картина! Я кое-что слышала об этом от Ильмерии."
     },
     "ebm:mm04/event_message_mm04_210.ebm:1": {
       "source": "pack01_ebm",
@@ -11594,7 +11594,7 @@
       "index": 7,
       "speaker": "Lucia",
       "original": "One thing I have to say, though. Investigating these Mysterious Paintings is a bit dangerous!",
-      "translation": "Однако я должна сказать одну вещь. Исследовать эти загадочные картины немного опасно!"
+      "translation": "Однако я должна сказать одну вещь. Исследовать эти Таинственные картины немного опасно!"
     },
     "ebm:mm04/event_message_mm04_260.ebm:8": {
       "source": "pack01_ebm",
@@ -13426,7 +13426,7 @@
       "index": 13,
       "speaker": "Mathias",
       "original": "And that there's another world inside it. In other words, a Mysterious Painting.",
-      "translation": "И что внутри него есть другой мир. Другими словами, загадочная картина."
+      "translation": "И что внутри него есть другой мир. Другими словами, Таинственная картина."
     },
     "ebm:mm05/event_message_mm05_100.ebm:14": {
       "source": "pack01_ebm",
@@ -18706,7 +18706,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "This is \"The Frozen Palace\"? The first of the Mysterious Paintings...",
-      "translation": "Это «Ледяной дворец»? Первая из загадочных картин..."
+      "translation": "Это «Ледяной дворец»? Первая из Таинственных картин..."
     },
     "ebm:mm06/event_message_mm06_310.ebm:1": {
       "source": "pack01_ebm",
@@ -20010,7 +20010,7 @@
       "index": 14,
       "speaker": "Lydie",
       "original": "W-Wow... these Mysterious Paintings really are complex!",
-      "translation": "Н-ух... эти загадочные картины действительно сложны!"
+      "translation": "Н-ух... эти Таинственные картины действительно сложны!"
     },
     "ebm:mm06/event_message_mm06_450.ebm:15": {
       "source": "pack01_ebm",
@@ -29546,7 +29546,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Hey, Dad? Have you ever heard a mysterious voice?",
-      "translation": "Эй, пап? Ты когда-нибудь слышал загадочный голос?"
+      "translation": "Эй, пап? Ты когда-нибудь слышал таинственный голос?"
     },
     "ebm:mm10/event_message_mm10_020.ebm:1": {
       "source": "pack01_ebm",
@@ -29666,7 +29666,7 @@
       "index": 15,
       "speaker": "Roger",
       "original": "Hmm, I see. Mysterious indeed.",
-      "translation": "Хм, понятно. И правда загадочно."
+      "translation": "Хм, понятно. И правда таинственно."
     },
     "ebm:mm10/event_message_mm10_020.ebm:16": {
       "source": "pack01_ebm",
@@ -41850,7 +41850,7 @@
       "index": 4,
       "speaker": "Grace",
       "original": "You really are mysterious, Pamela. Although I guess that isn't news to anyone.",
-      "translation": "Ты и правда загадочная, Памела. Хотя, думаю, это ни для кого не новость."
+      "translation": "Ты и правда таинственная, Памела. Хотя, думаю, это ни для кого не новость."
     },
     "ebm:mm12/event_message_mm12_370.ebm:5": {
       "source": "pack01_ebm",
@@ -48474,7 +48474,7 @@
       "index": 6,
       "speaker": "System",
       "original": "Using certain items can transform the battlefield into the world of a Mysterious Painting.",
-      "translation": "Использование определенных предметов может превратить поле битвы в мир таинственной картины."
+      "translation": "Использование определенных предметов может превратить поле битвы в мир Таинственной картины."
     },
     "ebm:ms04/event_message_ms04_140.ebm:7": {
       "source": "pack01_ebm",
@@ -51682,7 +51682,7 @@
       "index": 2,
       "speaker": "Mathias",
       "original": "Hello, my divine dear. You have such a mysterious air about you! Such a biblical beauty!",
-      "translation": "Здравствуй, моя божественная. В тебе такая загадочная аура! Такая библейская красота!"
+      "translation": "Здравствуй, моя божественная. В тебе такая таинственная аура! Такая библейская красота!"
     },
     "ebm:ms06/event_message_ms06_010.ebm:3": {
       "source": "pack01_ebm",
@@ -71386,7 +71386,7 @@
       "index": 5,
       "speaker": "Alt",
       "original": "Mysterious Paintings, actually...",
-      "translation": "О загадочных картинах, если честно..."
+      "translation": "О Таинственных картинах, если честно..."
     },
     "ebm:qc05_alt/event_message_qc05_alt_100.ebm:6": {
       "source": "pack01_ebm",
@@ -104594,7 +104594,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "I may not be able to move the Mysterious Paintings, but I do have a \"Slightly Mysterious Painting\" on me!",
-      "translation": "Я, может, и не смогу переместить Таинственные картины, но у меня с собой есть «Слегка таинственная картина»!"
+      "translation": "Я, может, и не смогу переместить Таинственные картины, но у меня с собой есть «Слегка Таинственная картина»!"
     },
     "ebm:xx05/event_message_xx05_030.ebm:12": {
       "source": "pack01_ebm",
@@ -104602,7 +104602,7 @@
       "index": 12,
       "speaker": "Lydie",
       "original": "A \"Slightly Mysterious Painting\"?! S-Sue, how did you...?",
-      "translation": "«Слегка таинственная картина»?! С-Сью, как ты...?"
+      "translation": "«Слегка Таинственная картина»?! С-Сью, как ты...?"
     },
     "ebm:xx05/event_message_xx05_030.ebm:13": {
       "source": "pack01_ebm",
@@ -104634,7 +104634,7 @@
       "index": 16,
       "speaker": "Ilmeria",
       "original": "I see... This is your \"Slightly Mysterious Painting\"... It's a fascinating work indeed... Very peculiar style...",
-      "translation": "Понятно... Это ваша «Слегка таинственная картина»... Действительно увлекательная работа... Очень своеобразный стиль..."
+      "translation": "Понятно... Это ваша «Слегка Таинственная картина»... Действительно увлекательная работа... Очень своеобразный стиль..."
     },
     "ebm:xx05/event_message_xx05_030.ebm:17": {
       "source": "pack01_ebm",
@@ -104674,7 +104674,7 @@
       "index": 21,
       "speaker": "Lydie",
       "original": "Only as a \"Slightly Mysterious Painting\"! Hmph, of course she'd think my paintings are \"mysterious\"...!",
-      "translation": "Только как «Слегка таинственную картину»! Хмф, конечно, она подумает, что мои картины «таинственные»...!"
+      "translation": "Только как «Слегка Таинственную картину»! Хмф, конечно, она подумает, что мои картины «таинственные»...!"
     },
     "ebm:xx05/event_message_xx05_030.ebm:22": {
       "source": "pack01_ebm",
@@ -117038,7 +117038,7 @@
       "file": "str_action_name.xml",
       "string_no": "19922989",
       "original": "Stand-in Defense",
-      "translation": "Защита вместо других"
+      "translation": "Перехват удара"
     },
     "pack02:19922990": {
       "source": "pack02_text_en",
@@ -117080,7 +117080,7 @@
       "file": "str_action_name.xml",
       "string_no": "19922995",
       "original": "Mysterious Capsule",
-      "translation": "Загадочная капсула"
+      "translation": "Таинственная капсула"
     },
     "pack02:19922996": {
       "source": "pack02_text_en",
@@ -117143,7 +117143,7 @@
       "file": "str_action_name.xml",
       "string_no": "19923004",
       "original": "Stand-in Defense",
-      "translation": "Защита вместо других"
+      "translation": "Перехват удара"
     },
     "pack02:19923005": {
       "source": "pack02_text_en",
@@ -117248,7 +117248,7 @@
       "file": "str_action_name.xml",
       "string_no": "19923019",
       "original": "Stand-in Defense",
-      "translation": "Защита вместо других"
+      "translation": "Перехват удара"
     },
     "pack02:19923020": {
       "source": "pack02_text_en",
@@ -117353,7 +117353,7 @@
       "file": "str_action_name.xml",
       "string_no": "19923034",
       "original": "Stand-in Defense",
-      "translation": "Защита вместо других"
+      "translation": "Перехват удара"
     },
     "pack02:19923035": {
       "source": "pack02_text_en",
@@ -117458,7 +117458,7 @@
       "file": "str_action_name.xml",
       "string_no": "19923049",
       "original": "Stand-in Defense",
-      "translation": "Защита вместо других"
+      "translation": "Перехват удара"
     },
     "pack02:19923050": {
       "source": "pack02_text_en",
@@ -117570,7 +117570,7 @@
       "file": "str_action_name.xml",
       "string_no": "19923065",
       "original": "Stand-in Defense",
-      "translation": "Защита вместо других"
+      "translation": "Перехват удара"
     },
     "pack02:19923066": {
       "source": "pack02_text_en",
@@ -124416,7 +124416,7 @@
       "file": "str_balloon_select.xml",
       "string_no": "52822025",
       "original": "Create Mysterious Paintings.",
-      "translation": "Создайте загадочные картины."
+      "translation": "Создайте Таинственные картины."
     },
     "pack02:52822026": {
       "source": "pack02_text_en",
@@ -140110,7 +140110,7 @@
       "file": "str_extra_bgm.xml",
       "string_no": "1769607",
       "original": "This tune is played when playing as Lydie in the Heavenly Flower Garden. In order to express the mysteriousness of the situation the twins find themselves in, I chose some more esoteric sounds than usually found in the Atelier tracks. The idea is to produce a light, happy feeling, like waking up in the middle of a dream. Most Atelier tracks have a well-defined melody, so the difficulty here was in balancing that with the ambience I wanted to achieve. (Yano)",
-      "translation": "Эта мелодия звучит при игре за Лидия в Небесном цветочном саду. Чтобы передать загадочность ситуации, в которой оказались близнецы, я выбрал несколько более эзотерических звуков, чем обычно можно встретить в треках Ателье. Идея состоит в том, чтобы вызвать ощущение легкости и счастья, как будто вы просыпаетесь посреди сна. Большинство треков Ателье имеют четко выраженную мелодию, поэтому сложность заключалась в том, чтобы сбалансировать ее с атмосферой, которую я хотел достичь. (Яно)"
+      "translation": "Эта мелодия звучит при игре за Лидия в Небесном цветочном саду. Чтобы передать таинственность ситуации, в которой оказались близнецы, я выбрал несколько более эзотерических звуков, чем обычно можно встретить в треках Ателье. Идея состоит в том, чтобы вызвать ощущение легкости и счастья, как будто вы просыпаетесь посреди сна. Большинство треков Ателье имеют четко выраженную мелодию, поэтому сложность заключалась в том, чтобы сбалансировать ее с атмосферой, которую я хотел достичь. (Яно)"
     },
     "pack02:1769608": {
       "source": "pack02_text_en",
@@ -140747,7 +140747,7 @@
       "file": "str_extra_bgm.xml",
       "string_no": "1769698",
       "original": "I was kind of at a loss regarding this title, but I think I came up with something good here (he says boastfully). There’s something about the word “mystery” that really makes the heart beat faster. I always loved the mysterious, even when I was a kid - monsters, ghosts, cryptozoology... It’s that love of the mysterious that led to this job in a way. I always really look forward to seeing the monster designs in each title. (Achiwa)",
-      "translation": "Я как-то растерялся в этом названии, но думаю, что придумал здесь что-то хорошее (хвастливо говорит он). В слове «тайна» есть что-то такое, что действительно заставляет сердце биться быстрее. Я всегда любил загадочное, даже когда был ребенком — монстров, призраков, криптозоологию... Именно эта любовь к таинственному в каком-то смысле и привела к этой работе. Я всегда с нетерпением жду возможности увидеть изображения монстров в каждой игре. (Ачива)"
+      "translation": "Я как-то растерялся в этом названии, но думаю, что придумал здесь что-то хорошее (хвастливо говорит он). В слове «тайна» есть что-то такое, что действительно заставляет сердце биться быстрее. Я всегда любил таинственное, даже когда был ребенком — монстров, призраков, криптозоологию... Именно эта любовь к таинственному в каком-то смысле и привела к этой работе. Я всегда с нетерпением жду возможности увидеть изображения монстров в каждой игре. (Ачива)"
     },
     "pack02:1769699": {
       "source": "pack02_text_en",
@@ -140859,7 +140859,7 @@
       "file": "str_extra_bgm.xml",
       "string_no": "1769714",
       "original": "The title, “Prism,” is meant to suggest something that, with a little effort, can turn a single thing into a wide range of varied possibilities. It also relates to the central theme of colors, tying in nicely to the image of the mysterious paintings. I’m quite proud of it. (Achiwa)^00",
-      "translation": "Название «Призма» призвано намекнуть на то, что при небольшом усилии может превратить одну вещь в широкий спектр разнообразных возможностей. Это также связано с центральной темой цветов, прекрасно сочетающейся с изображением загадочных картин. Я этим очень горжусь. (Ачива)^00"
+      "translation": "Название «Призма» призвано намекнуть на то, что при небольшом усилии может превратить одну вещь в широкий спектр разнообразных возможностей. Это также связано с центральной темой цветов, прекрасно сочетающейся с изображением таинственных картин. Я этим очень горжусь. (Ачива)^00"
     },
     "pack02:1769715": {
       "source": "pack02_text_en",
@@ -141391,7 +141391,7 @@
       "file": "str_extra_ipu.xml",
       "string_no": "1835040",
       "original": "A Mysterious, Mysterious Tale",
-      "translation": "Таинственная, загадочная история"
+      "translation": "Таинственная, таинственная история"
     },
     "pack02:1835041": {
       "source": "pack02_text_en",
@@ -163077,7 +163077,7 @@
       "file": "str_item_factor.xml",
       "string_no": "7078961",
       "original": "Mysterious Smell",
-      "translation": "Загадочный запах"
+      "translation": "Таинственный запах"
     },
     "pack02:7078962": {
       "source": "pack02_text_en",
@@ -170007,7 +170007,7 @@
       "file": "str_item_name.xml",
       "string_no": "6750763",
       "original": "Leaf Pattern Fragments",
-      "translation": "Осколки листового узора"
+      "translation": "Фрагменты узора листьев"
     },
     "pack02:6750764": {
       "source": "pack02_text_en",
@@ -176811,21 +176811,21 @@
       "file": "str_library_eff_detail.xml",
       "string_no": "3539659",
       "original": "Increases Stand-in Defense effect and Follow-up Skill damage a fair bit.",
-      "translation": "Среднее повышение эффекта защиты подмены и урона навыков поддержки."
+      "translation": "Среднее повышение эффекта перехвата удара и урона навыков поддержки."
     },
     "pack02:3539660": {
       "source": "pack02_text_en",
       "file": "str_library_eff_detail.xml",
       "string_no": "3539660",
       "original": "Increases Stand-in Defense effect and Follow-up Skill damage.",
-      "translation": "Повышение эффекта защиты подмены и урона навыков поддержки."
+      "translation": "Повышение эффекта перехвата удара и урона навыков поддержки."
     },
     "pack02:3539661": {
       "source": "pack02_text_en",
       "file": "str_library_eff_detail.xml",
       "string_no": "3539661",
       "original": "Increases Stand-in Defense effect and Follow-up Skill damage a lot.",
-      "translation": "Сильное повышение эффекта защиты подмены и урона навыков поддержки."
+      "translation": "Сильное повышение эффекта перехвата удара и урона навыков поддержки."
     },
     "pack02:3539662": {
       "source": "pack02_text_en",
@@ -180514,7 +180514,7 @@
       "file": "str_library_esp.xml",
       "string_no": "3604726",
       "original": "Increases the effects of Stand-in Defense and Follow-up Skills, while healing MP each turn.",
-      "translation": "Повышение эффектов защиты подмены и навыков поддержки и восстановление ОМ каждый ход."
+      "translation": "Повышение эффектов перехвата удара и навыков поддержки и восстановление ОМ каждый ход."
     },
     "pack02:3604727": {
       "source": "pack02_text_en",
@@ -181361,7 +181361,7 @@
       "file": "str_library_esp.xml",
       "string_no": "3604863",
       "original": "Gain ultimate support. Increases the effects of Stand-in Defense and Follow-up Skill by 15%.",
-      "translation": "Дарование абсолютной поддержки. Повышение эффекта защиты подмены и навыков поддержки на 15%."
+      "translation": "Дарование абсолютной поддержки. Повышение эффекта перехвата удара и навыков поддержки на 15%."
     },
     "pack02:3604864": {
       "source": "pack02_text_en",
@@ -181459,7 +181459,7 @@
       "file": "str_library_esp.xml",
       "string_no": "3604877",
       "original": "Gain divine support. Increases the effects of Stand-in Defense and Follow-up Skill by 30%.",
-      "translation": "Дарование божественной поддержки. Повышение эффекта защиты подмены и навыков поддержки на 30%."
+      "translation": "Дарование божественной поддержки. Повышение эффекта перехвата удара и навыков поддержки на 30%."
     },
     "pack02:3604878": {
       "source": "pack02_text_en",
@@ -181557,7 +181557,7 @@
       "file": "str_library_esp.xml",
       "string_no": "3604891",
       "original": "Increases the effects of Stand-in Defense and Follow-up Skills, but lowers Max HP.",
-      "translation": "Повышение эффектов защиты подмены и навыков поддержки, но снижение макс. ОЗ."
+      "translation": "Повышение эффектов перехвата удара и навыков поддержки, но снижение макс. ОЗ."
     },
     "pack02:3604892": {
       "source": "pack02_text_en",
@@ -181851,7 +181851,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866665",
       "original": "Reputation: Ambitions Journal",
-      "translation": "Репутация: Журнал «Амбиции»"
+      "translation": "Репутация: Журнал амбиций"
     },
     "pack02:3866666": {
       "source": "pack02_text_en",
@@ -184784,7 +184784,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473756",
       "original": "“Urgh... To think you’d make a painting tool in case you find a mysterious painting you can’t make sense of...”^00“Ahaha... I think it’s fine. My gut instinct never lies.”",
-      "translation": "«Уф... Подумать только, ты сделала живописный инструмент на случай, если найдёшь загадочную картину, которую не понимаешь...»^00«Ахаха... Думаю, нормально. Моя интуиция меня никогда не подводит.»"
+      "translation": "«Уф... Подумать только, ты сделала живописный инструмент на случай, если найдёшь таинственную картину, которую не понимаешь...»^00«Ахаха... Думаю, нормально. Моя интуиция меня никогда не подводит.»"
     },
     "pack02:3473757": {
       "source": "pack02_text_en",
@@ -184798,7 +184798,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473758",
       "original": "“I, Lydie...”^00“...and I, Sue, have made this!”^00“It’s the new and improved mysterious paint! You can make lots of mysterious paintings with this, ooh!”",
-      "translation": "«Я, Лидия...»^00«...а я, Сью, сделали это!»^00«Это новая и улучшенная таинственная краска! С ней можно нарисовать кучу загадочных картин, о-о-о!»"
+      "translation": "«Я, Лидия...»^00«...а я, Сью, сделали это!»^00«Это новая и улучшенная таинственная краска! С ней можно нарисовать кучу таинственных картин, о-о-о!»"
     },
     "pack02:3473759": {
       "source": "pack02_text_en",
@@ -185918,7 +185918,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473963",
       "original": "“These crystals are created within the mysterious paintings and represent the artist’s feelings. They’re known as ‘color fragments’.”^00“In other words, those are your feelings. Right, Neige? Thank you. I’ll be sure to take good care of them.”",
-      "translation": "«Эти кристаллы создаются внутри загадочных картин и отражают чувства художника. Их называют “цветовыми осколками”.»^00«То есть это твои чувства. Верно, Нейдж? Спасибо. Я буду их беречь.»"
+      "translation": "«Эти кристаллы создаются внутри таинственных картин и отражают чувства художника. Их называют “цветовыми осколками”.»^00«То есть это твои чувства. Верно, Нейдж? Спасибо. Я буду их беречь.»"
     },
     "pack02:3473964": {
       "source": "pack02_text_en",
@@ -187094,7 +187094,7 @@
       "file": "str_library_map.xml",
       "string_no": "3735614",
       "original": "[Lydie's Memo]^00This place has a particularly mysterious atmosphere even by the standards of the worlds within the paintings. Everything is so different to our world; it's a thrilling place to go scavenging for materials!",
-      "translation": "[Записка Лидии]^00У этого места особенно загадочная атмосфера даже по меркам миров в картинах. Всё так не похоже на наш мир — захватывающее место для поиска материалов!"
+      "translation": "[Записка Лидии]^00У этого места особенно таинственная атмосфера даже по меркам миров в картинах. Всё так не похоже на наш мир — захватывающее место для поиска материалов!"
     },
     "pack02:3735615": {
       "source": "pack02_text_en",
@@ -191980,14 +191980,14 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423413",
       "original": "Hehe, we’ve been promoted to the F Rank! I wonder what the next Mysterious Painting will be!",
-      "translation": "Хехе, нас повысили до ранга F! Интересно, какой будет следующая таинственная картина!"
+      "translation": "Хехе, нас повысили до ранга F! Интересно, какой будет следующая Таинственная картина!"
     },
     "pack02:33423414": {
       "source": "pack02_text_en",
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423414",
       "original": "Some Mysterious Paintings need Restoration. They may be &quot;mysterious,&quot; but they’re still paintings, after all.",
-      "translation": "Некоторые таинственные картины требуют восстановления. Они, может, и «таинственные», но ведь всё равно картины."
+      "translation": "Некоторые Таинственные картины требуют восстановления. Они, может, и «таинственные», но ведь всё равно картины."
     },
     "pack02:33423415": {
       "source": "pack02_text_en",
@@ -192064,7 +192064,7 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423425",
       "original": "Someone who’s brought in a Mysterious Painting... I wonder where they found it.",
-      "translation": "Кто-то принёс таинственную картину... Интересно, где он её нашёл."
+      "translation": "Кто-то принёс Таинственную картину... Интересно, где он её нашёл."
     },
     "pack02:33423426": {
       "source": "pack02_text_en",
@@ -192337,14 +192337,14 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423464",
       "original": "Only one away from the ultimate S Rank... *Gulp* But before that, let’s enjoy this new Mysterious Painting!",
-      "translation": "Остался всего один шаг до высшего ранга S... *Сглатывает* Но перед этим давай насладимся новой таинственной картиной!"
+      "translation": "Остался всего один шаг до высшего ранга S... *Сглатывает* Но перед этим давай насладимся новой Таинственной картиной!"
     },
     "pack02:33423465": {
       "source": "pack02_text_en",
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423465",
       "original": "The final Mysterious Painting... What a shame... But I’m going to make sure we enjoy this last investigation fully!",
-      "translation": "Последняя таинственная картина... Как жаль... Но я сделаю всё, чтобы мы в полной мере насладились этим последним исследованием!"
+      "translation": "Последняя Таинственная картина... Как жаль... Но я сделаю всё, чтобы мы в полной мере насладились этим последним исследованием!"
     },
     "pack02:33423466": {
       "source": "pack02_text_en",
@@ -192652,7 +192652,7 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423509",
       "original": "We’ve made it to rank F! Hehe... And now, it’s the time we’ve been looking forward to - we get to investigate the Mysterious Paintings!",
-      "translation": "Мы дошли до ранга F! Хехе... И вот наконец то, чего мы ждали — можно исследовать таинственные картины!"
+      "translation": "Мы дошли до ранга F! Хехе... И вот наконец то, чего мы ждали — можно исследовать Таинственные картины!"
     },
     "pack02:33423510": {
       "source": "pack02_text_en",
@@ -192729,14 +192729,14 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423520",
       "original": "We came across some mysterious stranger, but we’ll ignore that. Come on, we need to go report to Mireille.",
-      "translation": "Мы встретили какого-то загадочного незнакомца, но проигнорируем это. Ну же, надо идти докладывать Мирей."
+      "translation": "Мы встретили какого-то таинственного незнакомца, но проигнорируем это. Ну же, надо идти докладывать Мирей."
     },
     "pack02:33423521": {
       "source": "pack02_text_en",
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423521",
       "original": "If we can find whoever has the Mysterious Painting, it’ll be time for your negotiating magic... Hehehe...",
-      "translation": "Если найдём того, у кого таинственная картина, придёт время твоей переговорной магии... Хехехе..."
+      "translation": "Если найдём того, у кого Таинственная картина, придёт время твоей переговорной магии... Хехехе..."
     },
     "pack02:33423522": {
       "source": "pack02_text_en",
@@ -192820,7 +192820,7 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423533",
       "original": "If we look inside the Mysterious Paintings, then I know we can find some clue as to how to defeat Falgior!",
-      "translation": "Если заглянуть внутрь таинственных картин, я уверена — мы найдём подсказку, как победить Фальгиора!"
+      "translation": "Если заглянуть внутрь Таинственных картин, я уверена — мы найдём подсказку, как победить Фальгиора!"
     },
     "pack02:33423534": {
       "source": "pack02_text_en",
@@ -194892,7 +194892,7 @@
       "file": "str_npc_s09_mess.xml",
       "string_no": "32899074",
       "original": "Try and raise your rank as much as you can! If you do, I’ll be able to show you new Mysterious Paintings that will shock and amaze you!",
-      "translation": "Старайтесь поднять свой ранг как можно выше! Тогда я смогу показать вам новые таинственные картины, которые вас поразят!"
+      "translation": "Старайтесь поднять свой ранг как можно выше! Тогда я смогу показать вам новые Таинственные картины, которые вас поразят!"
     },
     "pack02:32899075": {
       "source": "pack02_text_en",
@@ -195004,7 +195004,7 @@
       "file": "str_npc_s09_mess.xml",
       "string_no": "32899090",
       "original": "Hehe. Just as you suspected, the power of the Mysterious Paintings is the key...!",
-      "translation": "Хехе. Как вы и догадывались, сила таинственных картин — это ключ...!"
+      "translation": "Хехе. Как вы и догадывались, сила Таинственных картин — это ключ...!"
     },
     "pack02:32899091": {
       "source": "pack02_text_en",
@@ -207310,21 +207310,21 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425001",
       "original": "I’ll begin by doing some &lt;CLGR&gt;gathering&lt;CLNR&gt;.&lt;CR&gt;Memo: &lt;CLGR&gt;Leaf Pattern Fragments&lt;CLNR&gt;",
-      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Осколки листового узора&lt;CLNR&gt;"
+      "translation": "Я начну с &lt;CLGR&gt;сбора&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Фрагменты узора листьев&lt;CLNR&gt;"
     },
     "pack02:2425002": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425002",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Leaf Pattern Fragments&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Осколки листового узора&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Фрагменты узора листьев&lt;CLNR&gt;"
     },
     "pack02:2425003": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425003",
       "original": "&lt;CR&gt;Memo: &lt;CLGR&gt;Leaf Pattern Fragments&lt;CLNR&gt;",
-      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Осколки листового узора&lt;CLNR&gt;"
+      "translation": "&lt;CR&gt;Памятка: &lt;CLGR&gt;Фрагменты узора листьев&lt;CLNR&gt;"
     },
     "pack02:2425004": {
       "source": "pack02_text_en",
@@ -212574,7 +212574,7 @@
       "file": "str_summary_chara_checkbox.xml",
       "string_no": "6488142",
       "original": "&lt;CLGR&gt;- Let’s give Liane three of “Merveille ^00　Rouge.”　&lt;CLNR&gt;^00　↑Special people... How mysterious and ^00　　exciting!　I wonder who they’re for!^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "&lt;CLGR&gt;- Давай отдадим Лиане три «Мервейль Руж».　&lt;CLNR&gt;^00　↑Особые люди... Как загадочно и волнующе!　Интересно, для кого они!^00　　　　　　　　　　　　　　　[Сью]"
+      "translation": "&lt;CLGR&gt;- Давай отдадим Лиане три «Мервейль Руж».　&lt;CLNR&gt;^00　↑Особые люди... Как таинственно и волнующе!　Интересно, для кого они!^00　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6488143": {
       "source": "pack02_text_en",
@@ -212791,7 +212791,7 @@
       "file": "str_summary_chara_checkbox.xml",
       "string_no": "6488173",
       "original": "&lt;CLGR&gt;- Let's head off on a new adventure inside the new painting.&lt;CLNR&gt;^00　↑We're gonna look like a couple of dummies if it isn't a mysterious painting.^00　　　　　　　　　　　　　　　[Lydie]^00　↑That'd be awful…^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "&lt;CLGR&gt;- Отправимся в новое приключение внутри новой картины.&lt;CLNR&gt;^00　↑Будем выглядеть как две дуры, если это не загадочная картина.^00　　　　　　　　　　　　　　[Лидия]^00　↑Ужас какой…^00　　　　　　　　　　　　　　　[Сью]"
+      "translation": "&lt;CLGR&gt;- Отправимся в новое приключение внутри новой картины.&lt;CLNR&gt;^00　↑Будем выглядеть как две дуры, если это не таинственная картина.^00　　　　　　　　　　　　　　[Лидия]^00　↑Ужас какой…^00　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6488174": {
       "source": "pack02_text_en",
@@ -213169,21 +213169,21 @@
       "file": "str_summary_chara_text.xml",
       "string_no": "6357040",
       "original": "We’ve found a picture buried in the snow. There’s no way an ordinary picture would just be lying there on a mountain in the middle of nowhere... This could be one of the mysterious paintings! Mireille might know more about it. Let’s take it home and show her!^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Мы нашли картину, закопанную в снегу. Не может быть, чтобы обычная картина просто валялась на горе посреди ниоткуда... Это могла быть одна из загадочных картин! Возможно, Мирей знает об этом больше. Давайте возьмем его домой и покажем ей!^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Мы нашли картину, закопанную в снегу. Не может быть, чтобы обычная картина просто валялась на горе посреди ниоткуда... Это могла быть одна из таинственных картин! Возможно, Мирей знает об этом больше. Давайте возьмем его домой и покажем ей!^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6357041": {
       "source": "pack02_text_en",
       "file": "str_summary_chara_text.xml",
       "string_no": "6357041",
       "original": "Even Mireille doesn’t seem to know if what we found was a Mysterious Painting or not. The only way we can be sure is to restore it and see if we can go inside... Not exactly a simple task! But I guess we have no other choice...^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Кажется, даже Мирей не знает, было ли то, что мы нашли, загадочной картиной или нет. Единственный способ убедиться в этом — восстановить его и посмотреть, сможем ли мы войти внутрь... Не совсем простая задача! Но, думаю, у нас нет другого выбора...^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Кажется, даже Мирей не знает, было ли то, что мы нашли, Таинственной картиной или нет. Единственный способ убедиться в этом — восстановить его и посмотреть, сможем ли мы войти внутрь... Не совсем простая задача! Но, думаю, у нас нет другого выбора...^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6357042": {
       "source": "pack02_text_en",
       "file": "str_summary_chara_text.xml",
       "string_no": "6357042",
       "original": "It turns out the picture we found was a Mysterious Painting after all. But I can hear it... That little voice warning me that entering inside will place my very life in danger... This is somehow different from the other Mysterious Paintings. If we’re going to explore it, we need to be fully prepared.^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Оказывается, найденная нами картина все-таки была загадочной картиной. Но я слышу это... Этот тихий голос, предупреждающий меня, что вход внутрь подвергнет опасности мою жизнь... Это чем-то отличается от других Таинственных картин. Если мы собираемся его исследовать, нам нужно быть полностью готовыми.^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Оказывается, найденная нами картина все-таки была Таинственной картиной. Но я слышу это... Этот тихий голос, предупреждающий меня, что вход внутрь подвергнет опасности мою жизнь... Это чем-то отличается от других Таинственных картин. Если мы собираемся его исследовать, нам нужно быть полностью готовыми.^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6357043": {
       "source": "pack02_text_en",
@@ -213260,7 +213260,7 @@
       "file": "str_summary_chara_text.xml",
       "string_no": "6357053",
       "original": "Ohh, I really want to be able to paint a Mysterious Painting, but it just doesn’t seem to work... Perhaps it’s time to ask for help. After all, we know Neige, who painted the very first Mysterious Painting... We should get her to give us some pointers!^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Ох, я очень хочу нарисовать Загадочную картину, но, похоже, это не получается... Возможно, пришло время обратиться за помощью. В конце концов, мы знаем Нейдж, которая нарисовала самую первую Таинственную картину... Мы должны попросить ее дать нам несколько советов!^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Ох, я очень хочу нарисовать Таинственную картину, но, похоже, это не получается... Возможно, пришло время обратиться за помощью. В конце концов, мы знаем Нейдж, которая нарисовала самую первую Таинственную картину... Мы должны попросить ее дать нам несколько советов!^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6357054": {
       "source": "pack02_text_en",
@@ -213281,7 +213281,7 @@
       "file": "str_summary_chara_text.xml",
       "string_no": "6357056",
       "original": "I don't know exactly what this mysterious fragment we found inside the painting is, but it's so romantic! I bet there are others, too. I'm gonna search everywhere, and who knows? We might even end up rich!^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Я не знаю точно, что это за загадочный фрагмент, который мы нашли внутри картины, но это так романтично! Могу поспорить, что есть и другие. Я буду искать повсюду, и кто знает? Возможно, мы даже разбогатеем!^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Я не знаю точно, что это за таинственный фрагмент, который мы нашли внутри картины, но это так романтично! Могу поспорить, что есть и другие. Я буду искать повсюду, и кто знает? Возможно, мы даже разбогатеем!^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6357057": {
       "source": "pack02_text_en",
@@ -213295,7 +213295,7 @@
       "file": "str_summary_chara_text.xml",
       "string_no": "6357058",
       "original": "All we had to do was line the pieces up, and they joined together of their own accord! This is definitely a mysterious painting! Which means, we need to go ask Mireille if we can hang it in the gallery!^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Все, что нам нужно было сделать, это выстроить детали в ряд, и они соединились сами собой! Это определенно загадочная картина! А это значит, что нам нужно пойти спросить Мирей, можно ли повесить это в галерее!^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Все, что нам нужно было сделать, это выстроить детали в ряд, и они соединились сами собой! Это определенно таинственная картина! А это значит, что нам нужно пойти спросить Мирей, можно ли повесить это в галерее!^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6357059": {
       "source": "pack02_text_en",
@@ -213309,7 +213309,7 @@
       "file": "str_summary_chara_text.xml",
       "string_no": "6357060",
       "original": "I knew it was a mysterious painting! But I never imagined there'd be an entire town inside it... And this Nelke apparently knows us already! Let's go check out that tree while we get over the surprise!^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Я знал, что это загадочная картина! Но я никогда не предполагал, что внутри него будет целый город... А эта Нельке, видимо, нас уже знает! Пойдем осмотрим это дерево, пока переживаем сюрприз!^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Я знал, что это таинственная картина! Но я никогда не предполагал, что внутри него будет целый город... А эта Нельке, видимо, нас уже знает! Пойдем осмотрим это дерево, пока переживаем сюрприз!^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6357061": {
       "source": "pack02_text_en",
@@ -214429,7 +214429,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422610",
       "original": "&lt;CLGR&gt;- Let’s use the Ambitions Journal as a ^00　guide to raise our atelier’s reputation!&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;- Давайте использовать журнал «Амбиции» как руководство по повышению репутации нашего ателье!&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;- Давайте использовать Журнал амбиций как руководство по повышению репутации нашего ателье!&lt;CLNR&gt;"
     },
     "pack02:6422611": {
       "source": "pack02_text_en",
@@ -214653,7 +214653,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422642",
       "original": "&lt;CLGR&gt;- Let’s use the Ambitions Journal as a ^00　guide to raise our atelier’s reputation!&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;- Давайте использовать журнал «Амбиции» как руководство по повышению репутации нашего ателье!&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;- Давайте использовать Журнал амбиций как руководство по повышению репутации нашего ателье!&lt;CLNR&gt;"
     },
     "pack02:6422643": {
       "source": "pack02_text_en",
@@ -214961,7 +214961,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422686",
       "original": "&lt;CLGR&gt;- Let’s use the Ambitions Journal as a ^00　guide to raise our atelier’s reputation!&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;- Давайте использовать журнал «Амбиции» как руководство по повышению репутации нашего ателье!&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;- Давайте использовать Журнал амбиций как руководство по повышению репутации нашего ателье!&lt;CLNR&gt;"
     },
     "pack02:6422687": {
       "source": "pack02_text_en",
@@ -215507,7 +215507,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422764",
       "original": "&lt;CLGR&gt;- Let’s use the Ambitions Journal as a ^00　guide to raise our atelier’s reputation!&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;- Давайте использовать журнал «Амбиции» как руководство по повышению репутации нашего ателье!&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;- Давайте использовать Журнал амбиций как руководство по повышению репутации нашего ателье!&lt;CLNR&gt;"
     },
     "pack02:6422765": {
       "source": "pack02_text_en",
@@ -215626,7 +215626,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422781",
       "original": "　↑If the past we saw was true, ^00　　then it explains how Dad was so ^00　　familiar with the mysterious paintings...^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "　↑Если прошлое, которое мы видели, было правдой, то это объясняет, почему папа был так знаком с загадочными картинами...^00　　　　　　　　　　　　　　[Лидия]"
+      "translation": "　↑Если прошлое, которое мы видели, было правдой, то это объясняет, почему папа был так знаком с таинственными картинами...^00　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6422782": {
       "source": "pack02_text_en",
@@ -215654,14 +215654,14 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422785",
       "original": "&lt;CLGR&gt;- Let’s use the Ambitions Journal as a ^00　guide to raise our atelier’s reputation.&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;- Давайте использовать журнал «Амбиции» как руководство по повышению репутации нашего ателье.&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;- Давайте использовать Журнал амбиций как руководство по повышению репутации нашего ателье.&lt;CLNR&gt;"
     },
     "pack02:6422786": {
       "source": "pack02_text_en",
       "file": "str_summary_checkbox.xml",
       "string_no": "6422786",
       "original": "　↑Have you filled in a lot in the ^00　　Ambitions Journal?^00　　　　　　　　　　　　　　　[Lydie]^00　↑Quite a lot. I should have used a ^00　　thicker notebook.^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "　↑Вы много заполняли в Журнале Амбиций?^00　　　　　　　　　　　　　　[Лидия]^00　↑Довольно много. Мне следовало использовать блокнот на потолще.^00　　　　　　　　　　　　　　　[Сью]"
+      "translation": "　↑Вы много заполняли в Журнале амбиций?^00　　　　　　　　　　　　　　[Лидия]^00　↑Довольно много. Мне следовало использовать блокнот на потолще.^00　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6422787": {
       "source": "pack02_text_en",
@@ -215738,7 +215738,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422797",
       "original": "&lt;CLGR&gt;- Let’s use the Ambitions Journal as a ^00　guide to raise our atelier’s reputation.&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;- Давайте использовать журнал «Амбиции» как руководство по повышению репутации нашего ателье.&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;- Давайте использовать Журнал амбиций как руководство по повышению репутации нашего ателье.&lt;CLNR&gt;"
     },
     "pack02:6422798": {
       "source": "pack02_text_en",
@@ -215927,7 +215927,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422824",
       "original": "　↑It’s kind of a shame that this is ^00　　the last mysterious painting...^00　　　　　　　　　　　　　　　[Lydie]^00　↑Yeah. But I have a feeling we’ll find ^00　　more someday, somewhere!^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "　↑Как-то обидно, что это последняя загадочная картина...^00　　　　　　　　　　　　　　[Лидия]^00　↑Да. Но у меня такое чувство, что когда-нибудь и где-нибудь мы найдём ещё ещё ^00　　　　　　　　　　　　　　　[Сью]"
+      "translation": "　↑Как-то обидно, что это последняя таинственная картина...^00　　　　　　　　　　　　　　[Лидия]^00　↑Да. Но у меня такое чувство, что когда-нибудь и где-нибудь мы найдём ещё ещё ^00　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6422825": {
       "source": "pack02_text_en",
@@ -216095,7 +216095,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422849",
       "original": "&lt;CLGR&gt;- Let’s use the Ambitions Journal as a ^00　guide to raise our atelier’s reputation.&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;- Давайте использовать журнал «Амбиции» как руководство по повышению репутации нашего ателье.&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;- Давайте использовать Журнал амбиций как руководство по повышению репутации нашего ателье.&lt;CLNR&gt;"
     },
     "pack02:6422850": {
       "source": "pack02_text_en",
@@ -216452,7 +216452,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6225949",
       "original": "Sue’s made an Ambitions Journal for us, which we can use as a guide to raise the reputation of the atelier. Plus, we don’t know what kind of test we might have to take, so we need to keep practicing our alchemy too. ^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Сью подготовила для нас журнал «Амбиции», который мы можем использовать в качестве руководства для повышения репутации ателье. Кроме того, мы не знаем, какой тест нам, возможно, придется пройти, поэтому нам также нужно продолжать практиковать алхимию. ^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Сью подготовила для нас Журнал амбиций, который мы можем использовать в качестве руководства для повышения репутации ателье. Кроме того, мы не знаем, какой тест нам, возможно, придется пройти, поэтому нам также нужно продолжать практиковать алхимию. ^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6225950": {
       "source": "pack02_text_en",
@@ -217019,7 +217019,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6226030",
       "original": "Mireille has invited us to accompany her on her vacation. Ah, vacation! What a sweet and alluring sound that word has! The destination for our vacation will be inside of a Mysterious Painting. Are you ready, Sue?! Let’s have some real fun!^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Мирей пригласила нас сопровождать ее в отпуске. Ах, отпуск! Какой сладкий и манящий звук у этого слова! Местом нашего отпуска станет таинственная картина. Ты готова, Сью?! Давайте повеселимся!^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Мирей пригласила нас сопровождать ее в отпуске. Ах, отпуск! Какой сладкий и манящий звук у этого слова! Местом нашего отпуска станет Таинственная картина. Ты готова, Сью?! Давайте повеселимся!^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6226031": {
       "source": "pack02_text_en",
@@ -217117,7 +217117,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6226044",
       "original": "Mireille showed us another of the Mysterious Paintings, entitled “Etel Nepica.” Apparently it has the terrifying power to look into a person’s past! Hehe... I’m really looking forward to seeing what it can uncover about everyone...! Hehe...^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Мирей показала нам еще одну загадочную картину под названием «Этель Непика». Видимо, он обладает ужасающей силой заглядывать в прошлое человека! Хе-хе... Я действительно с нетерпением жду возможности увидеть, что он сможет узнать обо всех...! Хе-хе...^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Мирей показала нам еще одну Таинственную картину под названием «Этель Непика». Видимо, он обладает ужасающей силой заглядывать в прошлое человека! Хе-хе... Я действительно с нетерпением жду возможности увидеть, что он сможет узнать обо всех...! Хе-хе...^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6226045": {
       "source": "pack02_text_en",
@@ -217327,7 +217327,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6226074",
       "original": "We did it! We’ve made it to the A Rank! There’s just one rank left above us - the coveted S Rank! With this joyous achievement fresh in our minds, let’s indulge in our other great joy - exploring Mysterious Paintings!^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Мы сделали это! Мы добрались до ранга А! Над нами остался всего один ранг — заветный S-ранг! Пока это радостное достижение свежо в нашей памяти, давайте предаемся другой нашей великой радости - исследованию Таинственных Картин!^00　　　　　　　　　　　　　　　[Лидия]"
+      "translation": "Мы сделали это! Мы добрались до ранга А! Над нами остался всего один ранг — заветный S-ранг! Пока это радостное достижение свежо в нашей памяти, давайте предаемся другой нашей великой радости - исследованию Таинственных картин!^00　　　　　　　　　　　　　　　[Лидия]"
     },
     "pack02:6226075": {
       "source": "pack02_text_en",
@@ -217775,70 +217775,70 @@
       "file": "str_summary_title.xml",
       "string_no": "6160419",
       "original": "In the Spooky Forest 1",
-      "translation": "В жутком лесу 1"
+      "translation": "В Жутком лесу 1"
     },
     "pack02:6160420": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160420",
       "original": "In the Spooky Forest 2",
-      "translation": "В жутком лесу 2"
+      "translation": "В Жутком лесу 2"
     },
     "pack02:6160421": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160421",
       "original": "In the Spooky Forest 3",
-      "translation": "В жутком лесу 3"
+      "translation": "В Жутком лесу 3"
     },
     "pack02:6160422": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160422",
       "original": "In the Spooky Forest 4",
-      "translation": "В жутком лесу 4"
+      "translation": "В Жутком лесу 4"
     },
     "pack02:6160423": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160423",
       "original": "In the Spooky Forest 5",
-      "translation": "В жутком лесу 5"
+      "translation": "В Жутком лесу 5"
     },
     "pack02:6160424": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160424",
       "original": "In the Spooky Forest 6",
-      "translation": "В жутком лесу 6"
+      "translation": "В Жутком лесу 6"
     },
     "pack02:6160425": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160425",
       "original": "In the Spooky Forest 7",
-      "translation": "В жутком лесу 7"
+      "translation": "В Жутком лесу 7"
     },
     "pack02:6160426": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160426",
       "original": "In the Spooky Forest 8",
-      "translation": "В жутком лесу 8"
+      "translation": "В Жутком лесу 8"
     },
     "pack02:6160427": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160427",
       "original": "In the Spooky Forest 8",
-      "translation": "В жутком лесу 8"
+      "translation": "В Жутком лесу 8"
     },
     "pack02:6160428": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160428",
       "original": "In the Spooky Forest 9",
-      "translation": "В жутком лесу 9"
+      "translation": "В Жутком лесу 9"
     },
     "pack02:6160429": {
       "source": "pack02_text_en",
@@ -217901,7 +217901,7 @@
       "file": "str_summary_title.xml",
       "string_no": "6160437",
       "original": "A New Mysterious Painting",
-      "translation": "Новая загадочная картина"
+      "translation": "Новая Таинственная картина"
     },
     "pack02:6160438": {
       "source": "pack02_text_en",
@@ -218013,21 +218013,21 @@
       "file": "str_summary_title.xml",
       "string_no": "6160453",
       "original": "In Search of a Mysterious Painting 1",
-      "translation": "В поисках загадочной картины 1"
+      "translation": "В поисках Таинственной картины 1"
     },
     "pack02:6160454": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160454",
       "original": "In Search of a Mysterious Painting 2",
-      "translation": "В поисках загадочной картины 2"
+      "translation": "В поисках Таинственной картины 2"
     },
     "pack02:6160455": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160455",
       "original": "In Search of a Mysterious Painting 3",
-      "translation": "В поисках загадочной картины 3"
+      "translation": "В поисках Таинственной картины 3"
     },
     "pack02:6160456": {
       "source": "pack02_text_en",
@@ -218608,7 +218608,7 @@
       "file": "str_summary_title.xml",
       "string_no": "6160538",
       "original": "To an Even More Mysterious World",
-      "translation": "В еще более загадочный мир"
+      "translation": "В еще более таинственный мир"
     },
     "pack02:6160539": {
       "source": "pack02_text_en",
