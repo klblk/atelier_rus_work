@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-28T02:06:17.567446+00:00",
+  "generated_at": "2026-08-28T05:44:16.802476+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -5674,7 +5674,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "Keeping a record of what we've already done will be useful, too.",
-      "translation": "Также будет полезно вести учет того, что мы уже сделали."
+      "translation": "Также будет полезно вести учёт того, что мы уже сделали."
     },
     "ebm:mm03/event_message_mm03_090.ebm:5": {
       "source": "pack01_ebm",
@@ -5682,7 +5682,7 @@
       "index": 5,
       "speaker": "Lydie",
       "original": "I see! Great idea, Sue! Let's fill that notebook up with ideas!",
-      "translation": "Я понимаю! Отличная идея, Сью! Давайте наполним этот блокнот идеями!"
+      "translation": "Я понимаю! Отличная идея, Сью! Давай наполним этот блокнот идеями!"
     },
     "ebm:mm03/event_message_mm03_090.ebm:6": {
       "source": "pack01_ebm",
@@ -5722,7 +5722,7 @@
       "index": 10,
       "speaker": "System",
       "original": "<CLR1>Check the Ambitions Journal often in order to increase the reputation of your atelier!<CLNR>",
-      "translation": "<CLR1>Часто проверяйте Журнал амбиций, чтобы повысить репутацию вашего ателье!<CLNR>"
+      "translation": "<CLR1>Почаще проверяйте Журнал амбиций, чтобы повысить репутацию вашего ателье!<CLNR>"
     },
     "ebm:mm03/event_message_mm03_090.ebm:11": {
       "source": "pack01_ebm",
@@ -5746,7 +5746,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Yep, all of it. Dad, can we leave yet?",
-      "translation": "Да, все это. Папа, мы можем уже уйти?"
+      "translation": "Да, всё тут. Папа, мы можем уже идти?"
     },
     "ebm:mm03/event_message_mm03_100.ebm:2": {
       "source": "pack01_ebm",
@@ -5770,7 +5770,7 @@
       "index": 4,
       "speaker": "Lydie",
       "original": "Heheh. We've been working really hard! We've got a mentor and we're even better alchemists now!",
-      "translation": "Хехех. Мы очень много работали! У нас появился наставник, и теперь мы стали еще лучшими алхимиками!"
+      "translation": "Хе-хе. Мы очень упорно трудились! У нас теперь есть наставник, и мы стали ещё лучше в алхимии!"
     },
     "ebm:mm03/event_message_mm03_100.ebm:5": {
       "source": "pack01_ebm",
@@ -5778,7 +5778,7 @@
       "index": 5,
       "speaker": "Sue",
       "original": "That's right! We'll have the greatest atelier in the kingdom before you know it. Just watch over us!",
-      "translation": "Это верно! У нас будет величайшее ателье в королевстве, прежде чем вы это заметите. Просто наблюдайте за нами!"
+      "translation": "Верно! У нас будет величайшее ателье в королевстве, прежде чем ты это заметишь. Просто наблюдай за нами!"
     },
     "ebm:mm03/event_message_mm03_100.ebm:6": {
       "source": "pack01_ebm",
@@ -5794,7 +5794,7 @@
       "index": 7,
       "speaker": "Roger",
       "original": "I know. I disappoint them at every turn! They're getting a bit rebellious, too, for their part.",
-      "translation": "Я знаю. Я разочаровываю их на каждом шагу! Со своей стороны, они тоже становятся немного бунтующими."
+      "translation": "Знаю. Я разочаровываю их на каждом шагу! Да и они, признаться, стали какими-то бунтарками."
     },
     "ebm:mm03/event_message_mm03_100.ebm:8": {
       "source": "pack01_ebm",
@@ -5802,7 +5802,7 @@
       "index": 8,
       "speaker": "Grace",
       "original": "Isn't that also because of your behavior?",
-      "translation": "Разве это не из-за твоего поведения?"
+      "translation": "А не из-за твоего ли собственного поведения они себя так ведут?"
     },
     "ebm:mm03/event_message_mm03_100.ebm:9": {
       "source": "pack01_ebm",
@@ -5810,7 +5810,7 @@
       "index": 9,
       "speaker": "Roger",
       "original": "You don't hold back, do you, Sister? They need their mother, that's all.",
-      "translation": "Ты не сдерживаешься, не так ли, сестра? Им нужна мать, вот и все."
+      "translation": "Ты как всегда прямолинейна, Cестра. Им просто нужна мать, вот и всё."
     },
     "ebm:mm03/event_message_mm03_100.ebm:10": {
       "source": "pack01_ebm",
@@ -5818,7 +5818,7 @@
       "index": 10,
       "speaker": "Roger",
       "original": "There's so much they want to say to Honnete. Things they can't really say to me.",
-      "translation": "Они так много хотят сказать Оннет. Вещи, которые они не могут мне сказать."
+      "translation": "Им столько всего хочется сказать Оннет. Вещей, которыми со мной они поделиться не могут."
     },
     "ebm:mm03/event_message_mm03_100.ebm:11": {
       "source": "pack01_ebm",
@@ -5826,7 +5826,7 @@
       "index": 11,
       "speaker": "Grace",
       "original": "That's probably because they understand too, in their own way.",
-      "translation": "Наверное, потому, что они тоже понимают, по-своему."
+      "translation": "Наверное, это потому, что они тоже всё понимают. По-своему, конечно."
     },
     "ebm:mm03/event_message_mm03_100.ebm:12": {
       "source": "pack01_ebm",
@@ -5834,7 +5834,7 @@
       "index": 12,
       "speaker": "Grace",
       "original": "That the one suffering the most from losing Honnete is you.",
-      "translation": "Что больше всего от потери Оннет страдаешь ты."
+      "translation": "Они видят, что сильнее всех из-за потери Оннет страдаешь именно ты."
     },
     "ebm:mm03/event_message_mm03_100.ebm:13": {
       "source": "pack01_ebm",
@@ -5842,7 +5842,7 @@
       "index": 13,
       "speaker": "Roger",
       "original": "I wonder...",
-      "translation": "Я думаю..."
+      "translation": "Кто знает..."
     },
     "ebm:mm03/event_message_mm03_100.ebm:14": {
       "source": "pack01_ebm",
@@ -5858,7 +5858,7 @@
       "index": 15,
       "speaker": "Roger",
       "original": "Girls! We're heading back. Get ready, come on!",
-      "translation": "Девушки! Мы возвращаемся. Готовьтесь, давайте!"
+      "translation": "Девушки! Мы возвращаемся. Готовьтесь, быстрее!"
     },
     "ebm:mm03/event_message_mm03_100.ebm:16": {
       "source": "pack01_ebm",
@@ -5874,7 +5874,7 @@
       "index": 17,
       "speaker": "Roger",
       "original": "I'm sorry, Sister. I'm a weak man, that's all there is to it.",
-      "translation": "Мне очень жаль, сестра. Я слабый человек, вот и все."
+      "translation": "Мне очень жаль, Сестра. Я слабый человек, вот и все."
     },
     "ebm:mm03/event_message_mm03_100.ebm:18": {
       "source": "pack01_ebm",
@@ -5882,7 +5882,7 @@
       "index": 18,
       "speaker": "Lydie",
       "original": "Dad, what were you talking to the Sister about?",
-      "translation": "Папа, о чем ты говорил с сестрой?"
+      "translation": "Папа, о чем ты говорил с Сестрой?"
     },
     "ebm:mm03/event_message_mm03_100.ebm:19": {
       "source": "pack01_ebm",
@@ -5890,7 +5890,7 @@
       "index": 19,
       "speaker": "Roger",
       "original": "Grace? Ah, she chewed me out. She told me to provide a better life for you.",
-      "translation": "Грейс? Ах, она меня отчитала. Сказала обеспечить вам лучшую жизнь."
+      "translation": "С Грейс? Ах, она меня отчитала. Сказала обеспечить вам лучшую жизнь."
     },
     "ebm:mm03/event_message_mm03_100.ebm:20": {
       "source": "pack01_ebm",
@@ -5906,7 +5906,7 @@
       "index": 21,
       "speaker": "Roger",
       "original": "That's not going to happen. No one can quell the fires of creation in my heart!",
-      "translation": "Этого не произойдет. Никто не сможет погасить огни творения в моем сердце!"
+      "translation": "Это невозможно. Никто не сможет погасить огни творения в моем сердце!"
     },
     "ebm:mm03/event_message_mm03_100.ebm:22": {
       "source": "pack01_ebm",
@@ -5938,7 +5938,7 @@
       "index": 2,
       "speaker": "???",
       "original": "Stop right there, you delightful twins!",
-      "translation": "Остановитесь, очаровательные близнецы!"
+      "translation": "Остановитесь, очаровательные близняшки!"
     },
     "ebm:mm03/event_message_mm03_110.ebm:3": {
       "source": "pack01_ebm",
@@ -5954,7 +5954,7 @@
       "index": 4,
       "speaker": "???",
       "original": "I always make such a strong impression. We did meet briefly, in the castle.",
-      "translation": "Я всегда произвожу такое сильное впечатление. Мы встретились ненадолго в замке."
+      "translation": "Я всегда произвожу такое сильное впечатление. Мы встретились недавно в замке."
     },
     "ebm:mm03/event_message_mm03_110.ebm:5": {
       "source": "pack01_ebm",
@@ -5962,7 +5962,7 @@
       "index": 5,
       "speaker": "???",
       "original": "Our meeting here, however, is surely due to the guidance of god himself.",
-      "translation": "Однако наша встреча здесь, несомненно, произошла благодаря водительству самого бога."
+      "translation": "Однако наша встреча здесь, несомненно, состоялась по указанию самого Бога."
     },
     "ebm:mm03/event_message_mm03_110.ebm:6": {
       "source": "pack01_ebm",
@@ -6002,7 +6002,7 @@
       "index": 10,
       "speaker": "Sue",
       "original": "Sure, but this creepy guy is super suspicious. I hate this kind of slimy smooth talkers.",
-      "translation": "Конечно, но этот жуткий парень очень подозрительный. Ненавижу таких скользких и гладких болтунов."
+      "translation": "Конечно, но этот жуткий парень очень подозрительный. Я ненавижу таких скользких, красноречивых болтунов."
     },
     "ebm:mm03/event_message_mm03_110.ebm:11": {
       "source": "pack01_ebm",
@@ -6010,7 +6010,7 @@
       "index": 11,
       "speaker": "Lydie",
       "original": "Smooth talker? You think that's what he is trying to be?",
-      "translation": "Гладкий собеседник? Думаешь, он именно этим и пытается быть?"
+      "translation": "Красноречивый болтун? Думаешь, он именно этого и пытается добиться?"
     },
     "ebm:mm03/event_message_mm03_110.ebm:12": {
       "source": "pack01_ebm",
@@ -6034,7 +6034,7 @@
       "index": 14,
       "speaker": "Lydie",
       "original": "Hahaha, looks like her mind is made up. Hope we don't see you around! Bye-bye!",
-      "translation": "Ха-ха-ха, похоже, ее решение принято. Надеюсь, мы не увидим тебя здесь! Пока-пока!"
+      "translation": "Ха-ха-ха, похоже, её решение принято. Надеюсь, мы не увидим тебя здесь! Пока-пока!"
     },
     "ebm:mm03/event_message_mm03_110.ebm:15": {
       "source": "pack01_ebm",
@@ -6042,7 +6042,7 @@
       "index": 15,
       "speaker": "???",
       "original": "Gah, mission failed. I guess I pushed my normal approach too hard?",
-      "translation": "Ха, миссия провалена. Думаю, я слишком сильно навязал свой обычный подход?"
+      "translation": "Ха, миссия провалена. Наверное, я слишком увлекся своим обычным подходом?"
     },
     "ebm:mm03/event_message_mm03_110.ebm:16": {
       "source": "pack01_ebm",
@@ -6050,7 +6050,7 @@
       "index": 16,
       "speaker": "???",
       "original": "This is a problem, though. My sister is going to kick my butt again! Man, this sucks.",
-      "translation": "Однако это проблема. Моя сестра снова надерет мне задницу! Чувак, это отстой."
+      "translation": "И всё-таки это проблема. Сестра мне за такое опять башку оторвёт! Блин, ну что за отстой..."
     },
     "ebm:mm03/event_message_mm03_120.ebm:0": {
       "source": "pack01_ebm",
@@ -6058,7 +6058,7 @@
       "index": 0,
       "speaker": "Roger",
       "original": "Girls! I sold a painting, so I picked up some cookies!",
-      "translation": "Девушки! Я продал картину и купил печенье!"
+      "translation": "Девочки! Я продал картину и купил печенье!"
     },
     "ebm:mm03/event_message_mm03_120.ebm:1": {
       "source": "pack01_ebm",
@@ -6082,7 +6082,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "Gulp! Normally I let Sue eat most of the sweet stuff, so today... I'll just snaffle one first.",
-      "translation": "Глоток! Обычно я позволяю Сью съесть большую часть сладостей, так что сегодня... сначала я стащу одну."
+      "translation": "Ох... Обычно я позволяю Сью съесть большую часть сладостей, так что сегодня... сначала я стащу одну."
     },
     "ebm:mm03/event_message_mm03_120.ebm:4": {
       "source": "pack01_ebm",
@@ -6106,7 +6106,7 @@
       "index": 6,
       "speaker": "Sue",
       "original": "I'm here! Ah! The Prince Charming of cookies, I presume? Come to me, sugar prince!",
-      "translation": "Я здесь! Ах! Полагаю, Прекрасный принц из печенья? Иди ко мне, сахарный принц!"
+      "translation": "Я на месте! О-о-о! Вы, надо полагать, тот самый Прекрасный Принц из мира печенек? Иди ко мне, мой сахарный принц!"
     },
     "ebm:mm03/event_message_mm03_120.ebm:7": {
       "source": "pack01_ebm",
@@ -6114,7 +6114,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "You too, Lydie. Let's eat these together! I bet these beauties are mind-blowing!",
-      "translation": "Ты тоже, Лиди. Давайте съедим это вместе! Могу поспорить, эти красавицы просто сводят с ума!"
+      "translation": "Ты тоже тут, Лиди. Давайте съедим это вместе! Могу поспорить, эти красавцы просто сводят с ума!"
     },
     "ebm:mm03/event_message_mm03_120.ebm:8": {
       "source": "pack01_ebm",
@@ -6122,7 +6122,7 @@
       "index": 8,
       "speaker": "Lydie",
       "original": "Sure, OK. Let's try.",
-      "translation": "Конечно, ок. Давайте попробуем."
+      "translation": "Конечно, хорошо. Давай попробуем."
     },
     "ebm:mm03/event_message_mm03_120.ebm:9": {
       "source": "pack01_ebm",
@@ -6130,7 +6130,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Wow, they are amazing! Melt in the mouth!",
-      "translation": "Вау, они потрясающие! Тают во рту!"
+      "translation": "Ого, они потрясающие! Тают во рту!"
     },
     "ebm:mm03/event_message_mm03_120.ebm:10": {
       "source": "pack01_ebm",
@@ -6146,7 +6146,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "Heheh, there's plenty more! Let's finish them off!",
-      "translation": "Хе-хе, есть еще много чего! Давайте прикончим их!"
+      "translation": "Хе-хе, их ещё много! Давай покончим с ними!"
     },
     "ebm:mm03/event_message_mm03_120.ebm:12": {
       "source": "pack01_ebm",
@@ -6186,7 +6186,7 @@
       "index": 0,
       "speaker": "Mireille",
       "original": "Your reputation isn't high enough yet to take the next exam. Keep it up! You'll get there!",
-      "translation": "Ваша репутация еще недостаточно высока, чтобы сдавать следующий экзамен. Так держать! Вы доберетесь туда!"
+      "translation": "Ваша репутация еще недостаточно высока, чтобы сдавать следующий экзамен. Продолжайте в том же духе! У вас всё получится!"
     },
     "ebm:mm03/event_message_mm03_140.ebm:1": {
       "source": "pack01_ebm",
@@ -6242,7 +6242,7 @@
       "index": 3,
       "speaker": "Mireille",
       "original": "Monsters have been causing a lot of damage, too, so this is kind of two birds with one stone!",
-      "translation": "Монстры тоже наносят большой урон, так что это своего рода два зайца одним выстрелом!"
+      "translation": "Монстры тоже причиняют немало вреда, так что это, по сути, два зайца одним выстрелом!"
     },
     "ebm:mm03/event_message_mm03_150.ebm:4": {
       "source": "pack01_ebm",
@@ -6282,7 +6282,7 @@
       "index": 8,
       "speaker": "Sue",
       "original": "Come on. Anyone can collect eggs. And you've just taught us so much about synthesis, too!",
-      "translation": "Ну давай же. Собирать яйца может каждый. И ты только что научила нас так многому о синтезе!"
+      "translation": "Да ладно. Собирать яйца может каждый. И ты только что многому нас научила в области синтеза!"
     },
     "ebm:mm03/event_message_mm03_150.ebm:9": {
       "source": "pack01_ebm",
@@ -6298,7 +6298,7 @@
       "index": 10,
       "speaker": "Ilmeria",
       "original": "Gathering, synthesizing and fighting monsters. Alchemists take on anything they are needed for.",
-      "translation": "Собирайте, синтезируйте и сражайтесь с монстрами. Алхимики берутся за все, для чего они нужны."
+      "translation": "Собирайте, синтезируйте и сражайтесь с монстрами. Алхимики берутся за всё, для чего они нужны."
     },
     "ebm:mm03/event_message_mm03_150.ebm:11": {
       "source": "pack01_ebm",
@@ -6314,7 +6314,7 @@
       "index": 12,
       "speaker": "Sue",
       "original": "Yes. I'm sorry, Mireille. We'll do our best and find those eggs!",
-      "translation": "Да. Мне очень жаль, Мирей. Мы сделаем все возможное и найдем эти яйца!"
+      "translation": "Да. Мне очень жаль, Мирей. Мы сделаем всё возможное и найдем эти яйца!"
     },
     "ebm:mm03/event_message_mm03_150.ebm:13": {
       "source": "pack01_ebm",
@@ -6338,7 +6338,7 @@
       "index": 15,
       "speaker": "Mireille",
       "original": "Girls, I'll be counting on you. Oh, and about that bodyguard we talked about!",
-      "translation": "Девочки, я рассчитываю на вас. О, и о том телохранителе, о котором мы говорили!"
+      "translation": "Девочки, я рассчитываю на вас. О, и о том защитнике, о котором мы говорили!"
     },
     "ebm:mm03/event_message_mm03_150.ebm:16": {
       "source": "pack01_ebm",
@@ -6354,7 +6354,7 @@
       "index": 17,
       "speaker": "Lydie",
       "original": "Wow, really! Hehe, I wonder what they're like?",
-      "translation": "Вау, правда! Хе-хе, интересно, какие они?"
+      "translation": "Ого, правда! Хе-хе, интересно, кто он?"
     },
     "ebm:mm03/event_message_mm03_150.ebm:18": {
       "source": "pack01_ebm",
@@ -6378,7 +6378,7 @@
       "index": 0,
       "speaker": "Sue",
       "original": "Here we are. This is where our bodyguard should be waiting, right?",
-      "translation": "Вот мы и здесь. Именно здесь должен ждать наш телохранитель, верно?"
+      "translation": "Вот мы и здесь. Именно здесь должен ждать наш защитник, верно?"
     },
     "ebm:mm03/event_message_mm03_160.ebm:2": {
       "source": "pack01_ebm",
@@ -6386,7 +6386,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "Don't tell me, that's our bodyguard...?",
-      "translation": "Только не говори мне, это наш телохранитель...?"
+      "translation": "Только не говори мне, что это наш защитник...?"
     },
     "ebm:mm03/event_message_mm03_160.ebm:3": {
       "source": "pack01_ebm",
@@ -6442,7 +6442,7 @@
       "index": 9,
       "speaker": "???",
       "original": "I knew this wouldn't work, either! I didn't want to dress like this!",
-      "translation": "Я тоже знал, что это не сработает! Я не хотел так одеваться!"
+      "translation": "Я знал, что это не сработает! Я не хотел так одеваться!"
     },
     "ebm:mm03/event_message_mm03_160.ebm:10": {
       "source": "pack01_ebm",
@@ -6450,7 +6450,7 @@
       "index": 10,
       "speaker": "???",
       "original": "Damn! This stupid thing!",
-      "translation": "Проклятие! Эта глупая вещь!"
+      "translation": "Проклятие! Эта глупая идея!"
     },
     "ebm:mm03/event_message_mm03_160.ebm:11": {
       "source": "pack01_ebm",
@@ -6458,7 +6458,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "Ah! It's that slimy guy again! You've gotten into weird masks now, have you? What a life you lead!",
-      "translation": "Ах! Это снова тот скользкий парень! Ты теперь надел странные маски, да? Какую жизнь ты ведешь!"
+      "translation": "Ах! Это снова тот скользкий парень! Ты теперь надел странную маску, да? Какую жизнь ты ведешь!"
     },
     "ebm:mm03/event_message_mm03_160.ebm:12": {
       "source": "pack01_ebm",
@@ -6466,7 +6466,7 @@
       "index": 12,
       "speaker": "???",
       "original": "Laugh it up, little girl. We're just getting started and I already can't see how this can work.",
-      "translation": "Смейся, маленькая девочка. Мы только начинаем, и я уже не понимаю, как это может работать."
+      "translation": "Смейся, маленькая девочка. Мы только начали, а я уже ума не приложу, как у нас вообще что-то получится."
     },
     "ebm:mm03/event_message_mm03_160.ebm:13": {
       "source": "pack01_ebm",
@@ -6474,7 +6474,7 @@
       "index": 13,
       "speaker": "Lydie",
       "original": "What does that mean? Mask creep, you really are meant to be our bodyguard?",
-      "translation": "Что это значит? Подозрительный в маске, ты и правда наш телохранитель?"
+      "translation": "Что это значит? Подозрительный в маске, ты и правда наш защитник?"
     },
     "ebm:mm03/event_message_mm03_160.ebm:14": {
       "source": "pack01_ebm",
@@ -6490,7 +6490,7 @@
       "index": 15,
       "speaker": "Lydie",
       "original": "Cree... I mean, Mathias. My name is...",
-      "translation": "Кри... То есть Матиас. Меня зовут..."
+      "translation": "Подо... То есть Матиас. Меня зовут..."
     },
     "ebm:mm03/event_message_mm03_160.ebm:16": {
       "source": "pack01_ebm",
@@ -6506,7 +6506,7 @@
       "index": 17,
       "speaker": "Sue",
       "original": "Wow! We've only met briefly, but you already know our names? Creepy!",
-      "translation": "Ух ты! Мы виделись совсем недолго, но ты уже знаешь наши имена? Противный!"
+      "translation": "Ух ты! Мы ведь виделись совсем недолго, а ты уже знаешь наши имена? Жутковато!"
     },
     "ebm:mm03/event_message_mm03_160.ebm:18": {
       "source": "pack01_ebm",
@@ -6530,7 +6530,7 @@
       "index": 20,
       "speaker": "Mathias",
       "original": "That's right. She made this mask in order to help put the two of you at ease.",
-      "translation": "Это верно. Она сделала эту маску, чтобы помочь вам двоим расслабиться."
+      "translation": "Верно. Она сделала эту маску, чтобы помочь вам двоим расслабиться."
     },
     "ebm:mm03/event_message_mm03_160.ebm:21": {
       "source": "pack01_ebm",
@@ -6570,7 +6570,7 @@
       "index": 25,
       "speaker": "Sue",
       "original": "Do anything odd and we'll tell Mireille right away, you hear? Just remember that, Mathias.",
-      "translation": "Сделай что-нибудь странное, и мы сразу же скажем Мирей, слышишь? Просто запомни это, Матиас."
+      "translation": "Сделай что-нибудь странное, и мы сразу же скажем Мирей, понял? Просто запомни это, Матиас."
     },
     "ebm:mm03/event_message_mm03_160.ebm:26": {
       "source": "pack01_ebm",
@@ -6578,7 +6578,7 @@
       "index": 26,
       "speaker": "Mathias",
       "original": "Ugah! They're bossing me around already. These kids are evil beyond their years.",
-      "translation": "Уга! Они уже мной командуют. Эти дети злы не по годам."
+      "translation": "Ох! Они уже мной командуют. Эти дети злы не по годам."
     },
     "ebm:mm03/event_message_mm03_160.ebm:27": {
       "source": "pack01_ebm",
@@ -6586,7 +6586,7 @@
       "index": 27,
       "speaker": "Mathias",
       "original": "Can I really make it work with them? My stomach is aching already.",
-      "translation": "Могу ли я действительно заставить это работать с ними? У меня уже живот болит."
+      "translation": "У меня действительно получится с ними наладить отношения? У меня уже болит живот."
     },
     "ebm:mm03/event_message_mm03_160.ebm:28": {
       "source": "pack01_ebm",
@@ -6602,7 +6602,7 @@
       "index": 29,
       "speaker": "System",
       "original": "<CLEG>[Tutorial] ~Stand-in Defense~<CLNR>",
-      "translation": "<CLEG>[Учебное пособие] ~Дежурная защита~<CLNR>"
+      "translation": "<CLEG>[Учебное пособие] ~Перехват удара~<CLNR>"
     },
     "ebm:mm03/event_message_mm03_160.ebm:30": {
       "source": "pack01_ebm",
@@ -6618,7 +6618,7 @@
       "index": 31,
       "speaker": "System",
       "original": "This is called \"Stand-in Defense\".",
-      "translation": "Это называется «Дежурная оборона»."
+      "translation": "Это называется «Перехват удара»."
     },
     "ebm:mm03/event_message_mm03_160.ebm:32": {
       "source": "pack01_ebm",
@@ -6626,7 +6626,7 @@
       "index": 32,
       "speaker": "System",
       "original": "You can activate it by pressing the corresponding button when Lydie or Sue are targeted.",
-      "translation": "Вы можете активировать его, нажав соответствующую кнопку, когда Лиди или Сью станут целью."
+      "translation": "Вы можете активировать его, нажав соответствующую кнопку, когда Лиди или Сью станут целью атаки."
     },
     "ebm:mm03/event_message_mm03_160.ebm:33": {
       "source": "pack01_ebm",
@@ -6634,7 +6634,7 @@
       "index": 33,
       "speaker": "System",
       "original": "<CLR1>Have your allies keep the twins safe as much as possible!<CLNR>",
-      "translation": "<CLR1>Пусть ваши союзники обеспечат безопасность близнецов, насколько это возможно!<CLNR>"
+      "translation": "<CLR1>Пусть ваши союзники обеспечат безопасность близняшек, насколько это возможно!<CLNR>"
     },
     "ebm:mm03/event_message_mm03_170.ebm:0": {
       "source": "pack01_ebm",
@@ -117038,7 +117038,7 @@
       "file": "str_action_name.xml",
       "string_no": "19922989",
       "original": "Stand-in Defense",
-      "translation": "Защита вместо других"
+      "translation": "Перехват удара"
     },
     "pack02:19922990": {
       "source": "pack02_text_en",
@@ -117143,7 +117143,7 @@
       "file": "str_action_name.xml",
       "string_no": "19923004",
       "original": "Stand-in Defense",
-      "translation": "Защита вместо других"
+      "translation": "Перехват удара"
     },
     "pack02:19923005": {
       "source": "pack02_text_en",
@@ -117248,7 +117248,7 @@
       "file": "str_action_name.xml",
       "string_no": "19923019",
       "original": "Stand-in Defense",
-      "translation": "Защита вместо других"
+      "translation": "Перехват удара"
     },
     "pack02:19923020": {
       "source": "pack02_text_en",
@@ -117353,7 +117353,7 @@
       "file": "str_action_name.xml",
       "string_no": "19923034",
       "original": "Stand-in Defense",
-      "translation": "Защита вместо других"
+      "translation": "Перехват удара"
     },
     "pack02:19923035": {
       "source": "pack02_text_en",
@@ -117458,7 +117458,7 @@
       "file": "str_action_name.xml",
       "string_no": "19923049",
       "original": "Stand-in Defense",
-      "translation": "Защита вместо других"
+      "translation": "Перехват удара"
     },
     "pack02:19923050": {
       "source": "pack02_text_en",
@@ -117570,7 +117570,7 @@
       "file": "str_action_name.xml",
       "string_no": "19923065",
       "original": "Stand-in Defense",
-      "translation": "Защита вместо других"
+      "translation": "Перехват удара"
     },
     "pack02:19923066": {
       "source": "pack02_text_en",
@@ -176811,21 +176811,21 @@
       "file": "str_library_eff_detail.xml",
       "string_no": "3539659",
       "original": "Increases Stand-in Defense effect and Follow-up Skill damage a fair bit.",
-      "translation": "Среднее повышение эффекта защиты подмены и урона навыков поддержки."
+      "translation": "Среднее повышение эффекта перехвата удара и урона навыков поддержки."
     },
     "pack02:3539660": {
       "source": "pack02_text_en",
       "file": "str_library_eff_detail.xml",
       "string_no": "3539660",
       "original": "Increases Stand-in Defense effect and Follow-up Skill damage.",
-      "translation": "Повышение эффекта защиты подмены и урона навыков поддержки."
+      "translation": "Повышение эффекта перехвата удара и урона навыков поддержки."
     },
     "pack02:3539661": {
       "source": "pack02_text_en",
       "file": "str_library_eff_detail.xml",
       "string_no": "3539661",
       "original": "Increases Stand-in Defense effect and Follow-up Skill damage a lot.",
-      "translation": "Сильное повышение эффекта защиты подмены и урона навыков поддержки."
+      "translation": "Сильное повышение эффекта перехвата удара и урона навыков поддержки."
     },
     "pack02:3539662": {
       "source": "pack02_text_en",
@@ -180514,7 +180514,7 @@
       "file": "str_library_esp.xml",
       "string_no": "3604726",
       "original": "Increases the effects of Stand-in Defense and Follow-up Skills, while healing MP each turn.",
-      "translation": "Повышение эффектов защиты подмены и навыков поддержки и восстановление ОМ каждый ход."
+      "translation": "Повышение эффектов перехвата удара и навыков поддержки и восстановление ОМ каждый ход."
     },
     "pack02:3604727": {
       "source": "pack02_text_en",
@@ -181361,7 +181361,7 @@
       "file": "str_library_esp.xml",
       "string_no": "3604863",
       "original": "Gain ultimate support. Increases the effects of Stand-in Defense and Follow-up Skill by 15%.",
-      "translation": "Дарование абсолютной поддержки. Повышение эффекта защиты подмены и навыков поддержки на 15%."
+      "translation": "Дарование абсолютной поддержки. Повышение эффекта перехвата удара и навыков поддержки на 15%."
     },
     "pack02:3604864": {
       "source": "pack02_text_en",
@@ -181459,7 +181459,7 @@
       "file": "str_library_esp.xml",
       "string_no": "3604877",
       "original": "Gain divine support. Increases the effects of Stand-in Defense and Follow-up Skill by 30%.",
-      "translation": "Дарование божественной поддержки. Повышение эффекта защиты подмены и навыков поддержки на 30%."
+      "translation": "Дарование божественной поддержки. Повышение эффекта перехвата удара и навыков поддержки на 30%."
     },
     "pack02:3604878": {
       "source": "pack02_text_en",
@@ -181557,7 +181557,7 @@
       "file": "str_library_esp.xml",
       "string_no": "3604891",
       "original": "Increases the effects of Stand-in Defense and Follow-up Skills, but lowers Max HP.",
-      "translation": "Повышение эффектов защиты подмены и навыков поддержки, но снижение макс. ОЗ."
+      "translation": "Повышение эффектов перехвата удара и навыков поддержки, но снижение макс. ОЗ."
     },
     "pack02:3604892": {
       "source": "pack02_text_en",
