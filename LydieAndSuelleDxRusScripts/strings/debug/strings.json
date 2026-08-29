@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-28T15:27:53.996380+00:00",
+  "generated_at": "2026-08-29T06:35:28.663732+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -206253,7 +206253,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424848",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Wheat Flour&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Пшеничная мука&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Пшеничная мука&lt;CLNR&gt;"
     },
     "pack02:2424849": {
       "source": "pack02_text_en",
@@ -206323,7 +206323,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424858",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Alchemy Level&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Ур. алхимии&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Ур. алхимии&lt;CLNR&gt;"
     },
     "pack02:2424859": {
       "source": "pack02_text_en",
@@ -206344,7 +206344,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424861",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Alchemy Level&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Ур. алхимии&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Ур. алхимии&lt;CLNR&gt;"
     },
     "pack02:2424862": {
       "source": "pack02_text_en",
@@ -206421,7 +206421,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424872",
       "original": "I think I’ll try &lt;CLGR&gt;using&lt;CLNR&gt; a tool.&lt;CR&gt;Memo: &lt;CLGR&gt;Uni Bag&lt;CLNR&gt;",
-      "translation": "Думаю, я попробую &lt;CLGR&gt;использовать&lt;CLNR&gt; инструмент.&lt;CR&gt;Заметка: &lt;CLGR&gt;Мешочек с Уни&lt;CLNR&gt;"
+      "translation": "Попробую &lt;CLGR&gt;использовать&lt;CLNR&gt; инструмент.&lt;CR&gt;Заметка: &lt;CLGR&gt;Мешочек с Уни&lt;CLNR&gt;"
     },
     "pack02:2424873": {
       "source": "pack02_text_en",
@@ -206638,7 +206638,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424905",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Honey&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Мёд&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Мёд&lt;CLNR&gt;"
     },
     "pack02:2424906": {
       "source": "pack02_text_en",
@@ -206687,21 +206687,21 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424912",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Neutralizer Red&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Красный нейтрализатор&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Красный нейтрализатор&lt;CLNR&gt;"
     },
     "pack02:2424913": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424913",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Neutralizer Blue&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Синий нейтрализатор&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Синий нейтрализатор&lt;CLNR&gt;"
     },
     "pack02:2424914": {
       "source": "pack02_text_en",
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424914",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Alchemy Level&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Ур. алхимии&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Ур. алхимии&lt;CLNR&gt;"
     },
     "pack02:2424915": {
       "source": "pack02_text_en",
@@ -206729,7 +206729,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424918",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Cloth&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Обычная ткань&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Обычная ткань&lt;CLNR&gt;"
     },
     "pack02:2424919": {
       "source": "pack02_text_en",
@@ -206827,7 +206827,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424932",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Granate&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Гранат&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Гранат&lt;CLNR&gt;"
     },
     "pack02:2424933": {
       "source": "pack02_text_en",
@@ -206848,7 +206848,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424935",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Jet&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Джет&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Джет&lt;CLNR&gt;"
     },
     "pack02:2424936": {
       "source": "pack02_text_en",
@@ -207016,7 +207016,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424959",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Alchemy Level&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Ур. алхимии&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Ур. алхимии&lt;CLNR&gt;"
     },
     "pack02:2424960": {
       "source": "pack02_text_en",
@@ -207058,7 +207058,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424965",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Alchemy Level&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Ур. алхимии&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Ур. алхимии&lt;CLNR&gt;"
     },
     "pack02:2424966": {
       "source": "pack02_text_en",
@@ -207086,7 +207086,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2424969",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;(Medicine)&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Лекарство)&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;(Лекарство)&lt;CLNR&gt;"
     },
     "pack02:2424970": {
       "source": "pack02_text_en",
@@ -207457,7 +207457,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425022",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Leather&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Дублёная кожа&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Дублёная кожа&lt;CLNR&gt;"
     },
     "pack02:2425023": {
       "source": "pack02_text_en",
@@ -207485,7 +207485,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425026",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Ingot&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Слиток&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Слиток&lt;CLNR&gt;"
     },
     "pack02:2425027": {
       "source": "pack02_text_en",
@@ -207877,7 +207877,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425082",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Fairy Dust Bag&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Мешочек с феей-пылью&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Мешочек с феей-пылью&lt;CLNR&gt;"
     },
     "pack02:2425083": {
       "source": "pack02_text_en",
@@ -207919,7 +207919,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425088",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Luft&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Луфт&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Луфт&lt;CLNR&gt;"
     },
     "pack02:2425089": {
       "source": "pack02_text_en",
@@ -207961,7 +207961,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425094",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Medea’s Poison&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Яд Медеи&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Яд Медеи&lt;CLNR&gt;"
     },
     "pack02:2425095": {
       "source": "pack02_text_en",
@@ -208087,7 +208087,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425112",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Mining Bomb&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Шахтёрская бомба&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Шахтёрская бомба&lt;CLNR&gt;"
     },
     "pack02:2425113": {
       "source": "pack02_text_en",
@@ -208360,7 +208360,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425151",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;(Magic Tools)&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;(Магич. инструм.)&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;(Магич. инструм.)&lt;CLNR&gt;"
     },
     "pack02:2425152": {
       "source": "pack02_text_en",
@@ -208423,7 +208423,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425160",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Alchemy Level&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Ур. алхимии&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Ур. алхимии&lt;CLNR&gt;"
     },
     "pack02:2425161": {
       "source": "pack02_text_en",
@@ -208444,7 +208444,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425163",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Rainbow Neutralizer&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Радужный нейтрализатор&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Радужный нейтрализатор&lt;CLNR&gt;"
     },
     "pack02:2425164": {
       "source": "pack02_text_en",
@@ -208486,7 +208486,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425169",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Smaragd&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Смарагд&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Смарагд&lt;CLNR&gt;"
     },
     "pack02:2425170": {
       "source": "pack02_text_en",
@@ -208507,7 +208507,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425172",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Ruby&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Рубин&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Рубин&lt;CLNR&gt;"
     },
     "pack02:2425173": {
       "source": "pack02_text_en",
@@ -208528,7 +208528,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425175",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Sapphire&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Сапфир&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Сапфир&lt;CLNR&gt;"
     },
     "pack02:2425176": {
       "source": "pack02_text_en",
@@ -208654,7 +208654,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425193",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Alchemy Level&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Ур. алхимии&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Ур. алхимии&lt;CLNR&gt;"
     },
     "pack02:2425194": {
       "source": "pack02_text_en",
@@ -208801,7 +208801,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425214",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Crimson Stone&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Багровый камень&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Багровый камень&lt;CLNR&gt;"
     },
     "pack02:2425215": {
       "source": "pack02_text_en",
@@ -208843,7 +208843,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425220",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Malmore Comet&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Кометный мальмор&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Кометный мальмор&lt;CLNR&gt;"
     },
     "pack02:2425221": {
       "source": "pack02_text_en",
@@ -209053,7 +209053,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425250",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Alchemy Level&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Ур. алхимии&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Ур. алхимии&lt;CLNR&gt;"
     },
     "pack02:2425251": {
       "source": "pack02_text_en",
@@ -209074,7 +209074,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425253",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Alchemy Level&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Ур. алхимии&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Ур. алхимии&lt;CLNR&gt;"
     },
     "pack02:2425254": {
       "source": "pack02_text_en",
@@ -209095,7 +209095,7 @@
       "file": "str_recipe_idea_cond_text.xml",
       "string_no": "2425256",
       "original": "I’ll use &lt;CLGR&gt;synthesis&lt;CLNR&gt; as my inspiration.&lt;CR&gt;Memo: &lt;CLGR&gt;Alchemy Level&lt;CLNR&gt;",
-      "translation": "Для вдохновения я буду использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;.&lt;CR&gt;Заметка: &lt;CLGR&gt;Ур. алхимии&lt;CLNR&gt;"
+      "translation": "Нужно использовать &lt;CLGR&gt;синтез&lt;CLNR&gt;&lt;CR&gt;Заметка: &lt;CLGR&gt;Ур. алхимии&lt;CLNR&gt;"
     },
     "pack02:2425257": {
       "source": "pack02_text_en",
