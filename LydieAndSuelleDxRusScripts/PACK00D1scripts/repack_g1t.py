@@ -18,6 +18,7 @@ from texture_repack_common import (
     compress_atlas_page,
     load_texture_json,
     merge_sprites,
+    patched_sprites_bbox,
     rebuild_atlas_page,
     repack_g1t_archive,
     resolve_work_path,
@@ -91,6 +92,8 @@ def main() -> None:
 
     for atlas in base["atlases"]:
         atlas_id = int(atlas["id"])
+        if atlas_id not in pages_to_compress:
+            continue
         if atlas_id not in sprites_by_atlas:
             continue
         vanilla_atlas = resolve_work_path(work_dir, atlas["png"])
@@ -110,8 +113,12 @@ def main() -> None:
         if not van_dds.is_file():
             raise SystemExit(f"missing dds page: {van_dds}")
         if atlas_id in pages_to_compress:
-            print(f"compress atlas page {atlas_id:03d} ({rebuilt.width}x{rebuilt.height})")
-            compress_atlas_page(van_dds, rebuilt)
+            bbox = patched_sprites_bbox(sprites_by_atlas[atlas_id], patched_ids)
+            print(
+                f"compress atlas page {atlas_id:03d} ({rebuilt.width}x{rebuilt.height}) "
+                f"bbox {bbox[0]},{bbox[1]}-{bbox[2]},{bbox[3]}"
+            )
+            compress_atlas_page(van_dds, rebuilt, bbox=bbox)
 
     g1t_archive = repack_g1t_archive(dds_dir)
     out_g1t = PACK00D1_PATCH_ROOT / base["g1t_pack_relpath"]

@@ -419,14 +419,29 @@ def rebuild_atlas_page(
                 f"sprite {sprite['id']} out of atlas bounds: "
                 f"({x},{y})+({w},{h}) vs {atlas.size}"
             )
-        atlas.paste(img, (x, y), img)
+        atlas.paste(img, (x, y))
     return atlas
+
+
+def patched_sprites_bbox(
+    sprites: list[dict[str, Any]],
+    patched_ids: set[str],
+) -> tuple[int, int, int, int]:
+    patched = [sprite for sprite in sprites if sprite["id"] in patched_ids]
+    if not patched:
+        raise ValueError("patched_sprites_bbox requires at least one patched sprite")
+    x0 = min(int(sprite["x"]) for sprite in patched)
+    y0 = min(int(sprite["y"]) for sprite in patched)
+    x1 = max(int(sprite["x"]) + int(sprite["w"]) for sprite in patched)
+    y1 = max(int(sprite["y"]) + int(sprite["h"]) for sprite in patched)
+    return x0, y0, x1, y1
 
 
 def compress_atlas_page(
     van_dds: Path,
     atlas: Image.Image,
     *,
+    bbox: tuple[int, int, int, int] | None = None,
     compressor: Path = COMPRESS_BC3,
 ) -> None:
     if not compressor.is_file():
@@ -435,11 +450,26 @@ def compress_atlas_page(
             "Build: make -C tools/compress_bc3_region_src"
         )
     w, h = atlas.size
+    if bbox is None:
+        x0, y0, x1, y1 = 0, 0, w, h
+    else:
+        x0, y0, x1, y1 = bbox
     rgba_path = van_dds.with_suffix(".rgba")
     patched_dds = van_dds.with_name(van_dds.stem + "_patched.dds")
     rgba_path.write_bytes(atlas.tobytes())
     subprocess.run(
-        [str(compressor), str(van_dds), str(patched_dds), str(rgba_path), str(w), str(h), "0", "0", str(w), str(h)],
+        [
+            str(compressor),
+            str(van_dds),
+            str(patched_dds),
+            str(rgba_path),
+            str(w),
+            str(h),
+            str(x0),
+            str(y0),
+            str(x1),
+            str(y1),
+        ],
         check=True,
     )
     shutil.copy2(patched_dds, van_dds)
