@@ -45,7 +45,7 @@
 		<text text="ver. 1.07" name="patch_ver" align="right" bold_size="1.00" string_id="STR_UI_0268"/>
 	</node>
 	<node name="patch_ru" pos="1241.00, 695.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="true" viewer_visible="true">
-		<text text="ru ver. 0.5 by klblk" name="patch_ver_ru" align="right" bold_size="1.00"/>
+		<text text="rus by klblk ver. 0.5 " name="patch_ver_ru" align="right" bold_size="1.00"/>
 	</node>
 	<anim_ctrl name="getin_command_list" viewer_key_assign="1">
 		<bind_node node="title_menu" anim="anm_common_fade_in" start_visible="true"/>
