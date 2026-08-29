@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T13:12:52.542541+00:00",
+  "generated_at": "2026-08-29T16:57:21.919254+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -18450,7 +18450,7 @@
       "index": 2,
       "speaker": "Mireille",
       "original": "The first alchemist to ever paint a Mysterious Painting, and the one who sealed Falgior away.",
-      "translation": "Первая алхимичка, когда-либо нарисовавшая Таинственную картину, и та, кто запечатала Фальгиора."
+      "translation": "Первый алхимик, создавшая Таинственную картину и заточившая Фальгиора."
     },
     "ebm:mm06/event_message_mm06_270.ebm:3": {
       "source": "pack01_ebm",
@@ -93538,7 +93538,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Sue, look. It's that woman we saw!",
-      "translation": "Сью, смотри. Это та женщина, которую мы видели!"
+      "translation": "Сью, смотри. Это та девушка, которую мы видели!"
     },
     "ebm:qc14_cor/event_message_qc14_cor_020.ebm:2": {
       "source": "pack01_ebm",
@@ -93546,7 +93546,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "Wow, you're right. The boss of a secret organization!",
-      "translation": "Вау, ты права. Босс секретной организации!"
+      "translation": "Да, ты права. Босс секретной организации!"
     },
     "ebm:qc14_cor/event_message_qc14_cor_020.ebm:3": {
       "source": "pack01_ebm",
@@ -93650,7 +93650,7 @@
       "index": 15,
       "speaker": "Corneria",
       "original": "So I'm here doing some market research in order to expand into Adalet.",
-      "translation": "Так что я здесь провожу исследование рынка, чтобы выйти на Адалет."
+      "translation": "Так что я здесь провожу исследование, чтобы выйти на рынок Адалет."
     },
     "ebm:qc14_cor/event_message_qc14_cor_020.ebm:16": {
       "source": "pack01_ebm",
@@ -93714,7 +93714,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Uwah! Your shop is packed with some of the best items I've seen!",
-      "translation": "Ух! В твоём магазине полно лучших товаров, какие я когда-либо видела!"
+      "translation": "Ух ты! Твоя лавка прямо ломится от таких крутых товаров! Я подобных вообще нигде не видела!"
     },
     "ebm:qc14_cor/event_message_qc14_cor_030.ebm:1": {
       "source": "pack01_ebm",
@@ -93722,7 +93722,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Tell me about it. We could do some real fine synthesizing with some of those goodies!",
-      "translation": "Ещё бы. С некоторыми из этих вкусностей можно отлично синтезировать!"
+      "translation": "И не говори! Мы могли бы отлично поработать над синтезом с некоторыми из этих полезных вещей!"
     },
     "ebm:qc14_cor/event_message_qc14_cor_030.ebm:2": {
       "source": "pack01_ebm",
@@ -93730,7 +93730,7 @@
       "index": 2,
       "speaker": "Corneria",
       "original": "Synthesizing? Could it be that you are both alchemists?",
-      "translation": "Синтез? Неужели вы обе алхимички?"
+      "translation": "Синтез? Неужели вы обе алхимики?"
     },
     "ebm:qc14_cor/event_message_qc14_cor_030.ebm:3": {
       "source": "pack01_ebm",
@@ -93738,7 +93738,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "That's right. I guess you could tell that from hearing \"synthesizing.\"",
-      "translation": "Верно. Наверное, по слову «синтез» и поняла."
+      "translation": "Верно. Наверное, по слову «синтез» всё поняла."
     },
     "ebm:qc14_cor/event_message_qc14_cor_030.ebm:4": {
       "source": "pack01_ebm",
@@ -93746,7 +93746,7 @@
       "index": 4,
       "speaker": "Corneria",
       "original": "But of course. I see, so you're alchemists?",
-      "translation": "Ну конечно. Понятно, так вы алхимички?"
+      "translation": "Ну конечно. Понятно, так вы алхимики?"
     },
     "ebm:qc14_cor/event_message_qc14_cor_030.ebm:5": {
       "source": "pack01_ebm",
@@ -93842,7 +93842,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Yes, leave it to us! We'll make it so you can bring in all the delicious cakes!",
-      "translation": "Да, оставь это нам! Сделаем так, чтобы ты могла привозить все вкусные пирожные!"
+      "translation": "Да, оставь это нам! Сделаем так, чтобы ты могла привозить все вкусные торты!"
     },
     "ebm:qc14_cor/event_message_qc14_cor_040.ebm:10": {
       "source": "pack01_ebm",
@@ -93866,7 +93866,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "That's great! Now we'll get all the cakes!",
-      "translation": "Замечательно! Теперь достанем все пирожные!"
+      "translation": "Замечательно! Теперь получим все торты!"
     },
     "ebm:qc14_cor/event_message_qc14_cor_050.ebm:2": {
       "source": "pack01_ebm",
@@ -93890,7 +93890,7 @@
       "index": 4,
       "speaker": "Corneria",
       "original": "Trust is an important part of my business. I need to thank you somehow...",
-      "translation": "Доверие — важная часть моего бизнеса. Мне нужно как-то вас отблагодарить..."
+      "translation": "Доверие — важная часть моего дела. Мне нужно как-то вас отблагодарить..."
     },
     "ebm:qc14_cor/event_message_qc14_cor_050.ebm:5": {
       "source": "pack01_ebm",
@@ -93914,7 +93914,7 @@
       "index": 7,
       "speaker": "Corneria",
       "original": "Here's the thing. I have a unique ability. Sue, will you lend me an item for a moment?",
-      "translation": "Вот в чём дело. У меня есть уникальная способность. Сью, одолжишь мне на минутку какую-нибудь вещь?"
+      "translation": "Дело вот в чём. У меня есть уникальная способность. Сью, одолжишь мне на минутку какую-нибудь вещь?"
     },
     "ebm:qc14_cor/event_message_qc14_cor_050.ebm:8": {
       "source": "pack01_ebm",
@@ -93930,7 +93930,7 @@
       "index": 9,
       "speaker": "Corneria",
       "original": "Thank you. Haaaha, teyaaah! There, what do you think?",
-      "translation": "Спасибо. Хаааа, теяаа! Вот, что скажешь?"
+      "translation": "Спасибо! Ха-а-а... Получай! Ну как, что скажете?"
     },
     "ebm:qc14_cor/event_message_qc14_cor_050.ebm:10": {
       "source": "pack01_ebm",
@@ -93970,7 +93970,7 @@
       "index": 14,
       "speaker": "Sue",
       "original": "I bet! Being able to copy items out of thin air like that? That's almost too convenient!",
-      "translation": "Ещё бы! Копировать предметы из воздуха? Это почти слишком удобно!"
+      "translation": "Ещё бы! Копировать предметы из воздуха? Это уж слишком удобно!"
     },
     "ebm:qc14_cor/event_message_qc14_cor_050.ebm:15": {
       "source": "pack01_ebm",
@@ -93978,7 +93978,7 @@
       "index": 15,
       "speaker": "Lydie",
       "original": "Very well, Corneria. Can we ask you to provide us with that volume retail, too?",
-      "translation": "Хорошо, Корнерия. Можем ли мы попросить тебя предоставить нам такие оптовые продажи тоже?"
+      "translation": "Хорошо, Корнерия. Можем ли мы попросить тебя предоставить нам такие оптовые продажи?"
     },
     "ebm:qc14_cor/event_message_qc14_cor_050.ebm:16": {
       "source": "pack01_ebm",
@@ -94042,7 +94042,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Hello, Corneria. Business seems to be booming!",
-      "translation": "Привет, Корнерия. Кажется, бизнес процветает!"
+      "translation": "Привет, Корнерия. Кажется, торговля процветает!"
     },
     "ebm:qc14_cor/event_message_qc14_cor_060.ebm:2": {
       "source": "pack01_ebm",
@@ -94106,7 +94106,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Gah, trying to run away? One thing, though, Corneria. Just don't push yourself too hard, alright?",
-      "translation": "Гах, пытаешься убежать? Но одно, Корнерия. Только не перенапрягайся, ладно?"
+      "translation": "Ага, решила сбежать от ответа? Но вообще, Корнерия... Ты только не перенапрягайся сильно, ладно?"
     },
     "ebm:qc14_cor/event_message_qc14_cor_060.ebm:10": {
       "source": "pack01_ebm",
@@ -94122,7 +94122,7 @@
       "index": 11,
       "speaker": "Corneria",
       "original": "Yes, I will be careful. This Ranking System, though, is a big business opportunity!",
-      "translation": "Да, буду осторожна. Но Система рангов ателье — большая возможность для бизнеса!"
+      "translation": "Да, буду осторожна. Но Система рангов ателье — большая возможность для торговли!"
     },
     "ebm:qc14_cor/event_message_qc14_cor_060.ebm:12": {
       "source": "pack01_ebm",
@@ -94146,7 +94146,7 @@
       "index": 0,
       "speaker": "Drossel",
       "original": "I can't find the shop they were talking about. Gah, where is it?",
-      "translation": "Не могу найти магазин, о котором говорили. Гах, где же он?"
+      "translation": "Не могу найти магазин, о котором говорили. Ах, где же он?"
     },
     "ebm:qc14_cor/event_message_qc14_cor_070.ebm:1": {
       "source": "pack01_ebm",
@@ -94154,7 +94154,7 @@
       "index": 1,
       "speaker": "Drossel",
       "original": "Aaaaaah!",
-      "translation": "Аааааа!"
+      "translation": "А-а-а-а!"
     },
     "ebm:qc14_cor/event_message_qc14_cor_070.ebm:2": {
       "source": "pack01_ebm",
@@ -94162,7 +94162,7 @@
       "index": 2,
       "speaker": "Corneria",
       "original": "S-Sorry? What made you shout like that?",
-      "translation": "П-простите? Что заставило вас так кричать?"
+      "translation": "П-прости? Что заставило тебя так кричать?"
     },
     "ebm:qc14_cor/event_message_qc14_cor_070.ebm:3": {
       "source": "pack01_ebm",
@@ -94170,7 +94170,7 @@
       "index": 3,
       "speaker": "Drossel",
       "original": "Can I ask you one thing? Have you ever been a doll?",
-      "translation": "Могу я спросить об одном? Вы когда-нибудь были куклой?"
+      "translation": "Могу я спросить об одном? Ты когда-нибудь была куклой?"
     },
     "ebm:qc14_cor/event_message_qc14_cor_070.ebm:4": {
       "source": "pack01_ebm",
@@ -94186,7 +94186,7 @@
       "index": 5,
       "speaker": "Drossel",
       "original": "Ah, sorry if that's weird! I just saw a doll that looked exactly like you, once...",
-      "translation": "Ах, простите, если это странно! Просто я однажды видела куклу, которая выглядела точно как вы..."
+      "translation": "Ах, прости, если это странно! Просто я однажды видела куклу, которая выглядела точно как ты..."
     },
     "ebm:qc14_cor/event_message_qc14_cor_070.ebm:6": {
       "source": "pack01_ebm",
@@ -94274,7 +94274,7 @@
       "index": 16,
       "speaker": "Drossel",
       "original": "Yes! I heard you sell lots of wonderful things, so I had to come and check it out!",
-      "translation": "Да! Я слышала, вы продаёте много замечательных вещей, так что пришлось зайти и проверить!"
+      "translation": "Да! Я слышала, ты продаёшь много замечательных вещей, так что пришлось зайти и проверить!"
     },
     "ebm:qc14_cor/event_message_qc14_cor_070.ebm:17": {
       "source": "pack01_ebm",
@@ -94282,7 +94282,7 @@
       "index": 17,
       "speaker": "Corneria",
       "original": "I see. Then please, feel free to take a look around.",
-      "translation": "Понятно. Тогда, пожалуйста, осматривайтесь свободно."
+      "translation": "Понятно. Тогда, пожалуйста, осматривайся свободно."
     },
     "ebm:qc14_cor/event_message_qc14_cor_070.ebm:18": {
       "source": "pack01_ebm",
@@ -94338,7 +94338,7 @@
       "index": 5,
       "speaker": "Sue",
       "original": "Like, the music from it opens the door to a secret treasure?",
-      "translation": "Типа, музыка из неё открывает дверь к тайному сокровищу?"
+      "translation": "Например, музыка из неё открывает дверь к тайному сокровищу?"
     },
     "ebm:qc14_cor/event_message_qc14_cor_080.ebm:6": {
       "source": "pack01_ebm",
@@ -94434,7 +94434,7 @@
       "index": 17,
       "speaker": "Corneria",
       "original": "But I'm not ready to give up yet.",
-      "translation": "Но я ещё не готова сдаваться."
+      "translation": "Но я ещё не готова сдаться."
     },
     "ebm:qc14_cor/event_message_qc14_cor_080.ebm:18": {
       "source": "pack01_ebm",
@@ -94490,7 +94490,7 @@
       "index": 5,
       "speaker": "Corneria",
       "original": "No. As a merchant, once the doors are open I can't close them until closing time...",
-      "translation": "Нет. Как торговка, раз двери открыты, я не могу закрыть их до закрытия..."
+      "translation": "Нет. Как торговец, я не могу закрыть двери после того, как они открыты, до самого закрытия..."
     },
     "ebm:qc14_cor/event_message_qc14_cor_090.ebm:6": {
       "source": "pack01_ebm",
@@ -94498,7 +94498,7 @@
       "index": 6,
       "speaker": "Sue",
       "original": "You take all this too seriously! Very well. At least let us get something for you.",
-      "translation": "Ты слишком всё серьёзно принимаешь! Ладно. По крайней мере, позволь нам принести тебе что-нибудь."
+      "translation": "Ты слишком серьёзно к этому относишься! Ладно. По крайней мере, позволь нам принести тебе что-нибудь."
     },
     "ebm:qc14_cor/event_message_qc14_cor_090.ebm:7": {
       "source": "pack01_ebm",
@@ -94538,7 +94538,7 @@
       "index": 11,
       "speaker": "Lydie",
       "original": "Are you sure that's all you want? Are you sure you're not taking it easy on us?",
-      "translation": "Ты уверена, что это всё? Уверена, что не жалеешь нас?"
+      "translation": "Ты уверена, что это всё? Уверена, что недооцениваешь нас?"
     },
     "ebm:qc14_cor/event_message_qc14_cor_090.ebm:12": {
       "source": "pack01_ebm",
@@ -94570,7 +94570,7 @@
       "index": 1,
       "speaker": "Corneria",
       "original": "Ah, that does look delicious! Let me get some of that right away!",
-      "translation": "Ах, выглядит вкусно! Дайте-ка мне сразу глотнуть!"
+      "translation": "Ах, выглядит вкусно! Дайте-ка мне сразу выпить!"
     },
     "ebm:qc14_cor/event_message_qc14_cor_100.ebm:2": {
       "source": "pack01_ebm",
@@ -94578,7 +94578,7 @@
       "index": 2,
       "speaker": "Corneria",
       "original": "Glug, glug, glug! Uwah!",
-      "translation": "Булк, булк, булк! Ух!"
+      "translation": "Буль, буль, буль! О-о-ох!"
     },
     "ebm:qc14_cor/event_message_qc14_cor_100.ebm:3": {
       "source": "pack01_ebm",
@@ -94642,7 +94642,7 @@
       "index": 10,
       "speaker": "Lydie",
       "original": "If you copy too much stuff, you'll be able to hide in the palm of my hand?!",
-      "translation": "Если скопируешь слишком много, сможешь спрятаться у меня на ладони?!"
+      "translation": "Если скопируешь слишком много, сможешь уместиться у меня на ладони?!"
     },
     "ebm:qc14_cor/event_message_qc14_cor_100.ebm:11": {
       "source": "pack01_ebm",
@@ -94770,7 +94770,7 @@
       "index": 27,
       "speaker": "Lydie",
       "original": "It looks like it. I walked right into that one! Come on then, Corneria, what have you got?",
-      "translation": "Похоже на то. Я прямо попалась! Ну что ж, Корнерия, что у тебя есть?"
+      "translation": "Похоже на то. Видимо я попалась! Ну что ж, Корнерия, что у тебя есть?"
     },
     "ebm:qc14_cor/event_message_qc14_cor_110.ebm:0": {
       "source": "pack01_ebm",
@@ -94890,7 +94890,7 @@
       "index": 14,
       "speaker": "Corneria",
       "original": "Not that hard, haha! What about you, Sophie? You became a certified alchemist?",
-      "translation": "Не так уж и много, ха-ха! А ты, Софи? Стала сертифицированной алхимичкой?"
+      "translation": "Не так уж и много, ха-ха! А ты, Софи? Стала сертифицированным алхимиком?"
     },
     "ebm:qc14_cor/event_message_qc14_cor_110.ebm:15": {
       "source": "pack01_ebm",
@@ -94938,7 +94938,7 @@
       "index": 20,
       "speaker": "Corneria",
       "original": "Yes, I'd like that very much. I'm quite a hard drinker, though, so watch out!",
-      "translation": "Да, мне бы очень этого хотелось. Правда, я крепко пью, так что берегись!"
+      "translation": "Да, с большим удовольствием! Но имей в виду, пью я много, так что берегись!"
     },
     "ebm:qc14_cor/event_message_qc14_cor_110.ebm:21": {
       "source": "pack01_ebm",
@@ -95026,7 +95026,7 @@
       "index": 5,
       "speaker": "Lydie",
       "original": "Yeah! For Corneria, let's do our best! Come on!",
-      "translation": "Ага! Ради Корнерии сделаем всё возможное! Ну давай!"
+      "translation": "Ага! Ради Корнерии сделаем всё возможное! Вперёд!"
     },
     "ebm:qc14_cor/event_message_qc14_cor_120.ebm:6": {
       "source": "pack01_ebm",
@@ -95050,7 +95050,7 @@
       "index": 1,
       "speaker": "Mathias",
       "original": "A man in strange clothes, who can multiply objects? I've never heard of such a person...",
-      "translation": "Мужчина в странной одежде, умеющий умножать предметы? Никогда о таком не слышал..."
+      "translation": "Мужчина в странной одежде, умеющий копировать предметы? Никогда о таком не слышал..."
     },
     "ebm:qc14_cor/event_message_qc14_cor_130.ebm:2": {
       "source": "pack01_ebm",
@@ -95130,7 +95130,7 @@
       "index": 5,
       "speaker": "Sue",
       "original": "I see. Alright, thank you. We'll try someone else.",
-      "translation": "Понятно. Хорошо, спасибо. Попробуем кого-нибудь другого."
+      "translation": "Понятно. Хорошо, спасибо. Попробуем спросить у кого-нибудь другого."
     },
     "ebm:qc14_cor/event_message_qc14_cor_150.ebm:0": {
       "source": "pack01_ebm",
@@ -95322,7 +95322,7 @@
       "index": 14,
       "speaker": "Lydie",
       "original": "That sounds like exactly the place we want! Gah, I can't take this heartbreak!",
-      "translation": "Похоже, это как раз то место, которое нам нужно! Гах, не могу вынести этого горя!"
+      "translation": "Похоже, это как раз то место, которое нам нужно! Ах, не могу вынести этого горя!"
     },
     "ebm:qc14_cor/event_message_qc14_cor_170.ebm:15": {
       "source": "pack01_ebm",
@@ -95330,7 +95330,7 @@
       "index": 15,
       "speaker": "Corneria",
       "original": "It's all right... If you can't remember, you can't remember. I'll just keep on running the shop...",
-      "translation": "Всё в порядке... Если не можешь вспомнить — не можешь. Я просто продолжу вести магазин..."
+      "translation": "Всё в порядке... Если не можешь вспомнить — не можешь. Я просто продолжу управлять магазином..."
     },
     "ebm:qc14_cor/event_message_qc14_cor_170.ebm:16": {
       "source": "pack01_ebm",
@@ -95426,7 +95426,7 @@
       "index": 27,
       "speaker": "Corneria",
       "original": "Yes. For my store. Please give it to the people in that village.",
-      "translation": "Да. Для моего магазина. Пожалуйста, отдай её жителям той деревни."
+      "translation": "Да. Моего магазина. Пожалуйста, отдай её жителям той деревни."
     },
     "ebm:qc14_cor/event_message_qc14_cor_170.ebm:28": {
       "source": "pack01_ebm",
@@ -95514,7 +95514,7 @@
       "index": 3,
       "speaker": "Drossel",
       "original": "Wah, I almost ran past the place! That was close!",
-      "translation": "Вау, я чуть не пробежала мимо! Чуть не случилось!"
+      "translation": "Ого, я чуть не пробежала мимо! Было близко!"
     },
     "ebm:qc14_cor/event_message_qc14_cor_180.ebm:4": {
       "source": "pack01_ebm",
@@ -95530,7 +95530,7 @@
       "index": 5,
       "speaker": "Drossel",
       "original": "Hahah! The promotion was a big success! It just took a bit longer than I expected.",
-      "translation": "Ха-ха! Реклама имела огромный успех! Просто заняло чуть больше времени, чем я ждала."
+      "translation": "Ха-ха! Реклама имела огромный успех! Это заняло немного больше времени, чем я ожидала."
     },
     "ebm:qc14_cor/event_message_qc14_cor_180.ebm:6": {
       "source": "pack01_ebm",
@@ -95634,7 +95634,7 @@
       "index": 18,
       "speaker": "Sue",
       "original": "I don't mind! With my charm and my voice, I'll bring in more customers than you can handle!",
-      "translation": "Я не против! Своим обаянием и голосом привлеку больше клиентов, чем вы сможете обслужить!"
+      "translation": "Я не против! Своим обаянием и голосом привлеку больше клиентов, чем ты сможешь обслужить!"
     },
     "ebm:qc14_cor/event_message_qc14_cor_180.ebm:19": {
       "source": "pack01_ebm",
@@ -95722,7 +95722,7 @@
       "index": 6,
       "speaker": "Corneria",
       "original": "We have a communications network and sales are up. Business in Adalet is going to be good.",
-      "translation": "У нас есть сеть связи, и продажи растут. Дела в Адалете будут идти хорошо."
+      "translation": "У нас налажена сеть снабжения, да и продажи растут. Дела в Адалете будут идти хорошо."
     },
     "ebm:qc14_cor/event_message_qc14_cor_190.ebm:7": {
       "source": "pack01_ebm",
@@ -95746,7 +95746,7 @@
       "index": 9,
       "speaker": "Corneria",
       "original": "Of course, I want to see him. But growing my business is important too.",
-      "translation": "Конечно, я хочу его увидеть. Но развитие бизнеса тоже важно."
+      "translation": "Конечно, я хочу его увидеть. Но развитие магазина тоже важно."
     },
     "ebm:qc14_cor/event_message_qc14_cor_190.ebm:10": {
       "source": "pack01_ebm",
@@ -95778,7 +95778,7 @@
       "index": 13,
       "speaker": "Lydie",
       "original": "Great! We're supporting you, Corneria!",
-      "translation": "Отлично! Мы поддерживаем тебя, Корнерия!"
+      "translation": "Отлично! Мы поддержим тебя, Корнерия!"
     },
     "ebm:qc14_cor/event_message_qc14_cor_190.ebm:14": {
       "source": "pack01_ebm",
@@ -95810,7 +95810,7 @@
       "index": 17,
       "speaker": "Lydie",
       "original": "Hahaha, you two are negotiating already? Come on, Sue, we can't be taking so much of her time.",
-      "translation": "Ха-ха-ха, вы двое уже торгуетесь? Давай, Сью, нельзя отнимать у неё так много времени."
+      "translation": "Ха-ха-ха, вы двое уже торгуетесь? Пойдём, Сью, нельзя отнимать у неё так много времени."
     },
     "ebm:qc14_cor/event_message_qc14_cor_190.ebm:18": {
       "source": "pack01_ebm",
@@ -95874,7 +95874,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "There is? What is it?",
-      "translation": "Есть? Что именно?"
+      "translation": "Да? Что именно?"
     },
     "ebm:qc14_cor/event_message_qc14_cor_200.ebm:2": {
       "source": "pack01_ebm",
@@ -95954,7 +95954,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "Hey, I'd never go that far! Although, if I actually saw her, my resolve...",
-      "translation": "Эй, я бы никогда так далеко не зашла! Хотя, если бы я её правда увидела, моя решимость..."
+      "translation": "Эй, я бы никогда так далеко не зашла! Хотя, если бы я её правда увидела, возможно..."
     },
     "ebm:qc14_cor/event_message_qc14_cor_200.ebm:12": {
       "source": "pack01_ebm",
@@ -96026,7 +96026,7 @@
       "index": 20,
       "speaker": "Corneria",
       "original": "Business is just getting on track here. I can't afford to step away at the moment.",
-      "translation": "Бизнес здесь только набирает обороты. Сейчас я не могу отойти в сторону."
+      "translation": "Торговля здесь только набирает обороты. В данный момент я не могу позволить себе отстраниться от дел."
     },
     "ebm:qc14_cor/event_message_qc14_cor_200.ebm:21": {
       "source": "pack01_ebm",
@@ -96818,7 +96818,7 @@
       "index": 13,
       "speaker": "Lydie",
       "original": "Hmm. Is this because Firis is a great alchemist, or because Liane is actually an airhead?",
-      "translation": "Хм. Это потому, что Фирис — великая алхимичка, или потому, что Лианэ всё-таки немного витает в облаках?"
+      "translation": "Хм. Это потому, что Фирис — великий алхимик, или потому, что Лианэ всё-таки немного витает в облаках?"
     },
     "ebm:qc15_lia/event_message_qc15_lia_050.ebm:14": {
       "source": "pack01_ebm",
@@ -181571,49 +181571,49 @@
       "file": "str_library_help.xml",
       "string_no": "3866625",
       "original": "Synthesis: Basics",
-      "translation": "[Синтез] Основы"
+      "translation": "Синтез: Основы"
     },
     "pack02:3866626": {
       "source": "pack02_text_en",
       "file": "str_library_help.xml",
       "string_no": "3866626",
       "original": "Synthesis: Flow",
-      "translation": "[Синтез] Этапы"
+      "translation": "Синтез: Этапы"
     },
     "pack02:3866627": {
       "source": "pack02_text_en",
       "file": "str_library_help.xml",
       "string_no": "3866627",
       "original": "Synthesis: Categories",
-      "translation": "[Синтез] Категории"
+      "translation": "Синтез: Категории"
     },
     "pack02:3866628": {
       "source": "pack02_text_en",
       "file": "str_library_help.xml",
       "string_no": "3866628",
       "original": "Synthesis: Effects",
-      "translation": "[Синтез] Эффекты"
+      "translation": "Синтез: Эффекты"
     },
     "pack02:3866629": {
       "source": "pack02_text_en",
       "file": "str_library_help.xml",
       "string_no": "3866629",
       "original": "Synthesis: Alchemy Components",
-      "translation": "[Синтез] Алхим. компоненты"
+      "translation": "Синтез: Алхим. компоненты"
     },
     "pack02:3866630": {
       "source": "pack02_text_en",
       "file": "str_library_help.xml",
       "string_no": "3866630",
       "original": "Synthesis: Traits",
-      "translation": "[Синтез] Свойства"
+      "translation": "Синтез: Свойства"
     },
     "pack02:3866631": {
       "source": "pack02_text_en",
       "file": "str_library_help.xml",
       "string_no": "3866631",
       "original": "Synthesis: Catalysts",
-      "translation": "[Синтез] Катализаторы"
+      "translation": "Синтез: Катализаторы"
     },
     "pack02:3866632": {
       "source": "pack02_text_en",
@@ -181627,28 +181627,28 @@
       "file": "str_library_help.xml",
       "string_no": "3866633",
       "original": "Recipe Ideas: Basics",
-      "translation": "[Идеи рецептов] Основы"
+      "translation": "Идеи рецептов: Основы"
     },
     "pack02:3866634": {
       "source": "pack02_text_en",
       "file": "str_library_help.xml",
       "string_no": "3866634",
       "original": "Exploration: Gathering Basics",
-      "translation": "Исследование: сбор основ"
+      "translation": "Исследование: Основы сбора"
     },
     "pack02:3866635": {
       "source": "pack02_text_en",
       "file": "str_library_help.xml",
       "string_no": "3866635",
       "original": "Exploration: Gathering Types",
-      "translation": "Исследование: типы сбора"
+      "translation": "Исследование: Типы сбора"
     },
     "pack02:3866636": {
       "source": "pack02_text_en",
       "file": "str_library_help.xml",
       "string_no": "3866636",
       "original": "Exploration: Usable Items",
-      "translation": "Исследование: полезные предметы"
+      "translation": "Исследование: Полезные предметы"
     },
     "pack02:3866637": {
       "source": "pack02_text_en",
@@ -181662,14 +181662,14 @@
       "file": "str_library_help.xml",
       "string_no": "3866638",
       "original": "Exploration: Time Changes",
-      "translation": "Исследование: изменения времени"
+      "translation": "Исследование: Изменения времени"
     },
     "pack02:3866639": {
       "source": "pack02_text_en",
       "file": "str_library_help.xml",
       "string_no": "3866639",
       "original": "Exploration: Weather",
-      "translation": "[Исследование] Погода"
+      "translation": "Исследование: Погода"
     },
     "pack02:3866640": {
       "source": "pack02_text_en",
@@ -181683,14 +181683,14 @@
       "file": "str_library_help.xml",
       "string_no": "3866641",
       "original": "Battles: Basics",
-      "translation": "Бои: основы"
+      "translation": "Битвы: Основы"
     },
     "pack02:3866642": {
       "source": "pack02_text_en",
       "file": "str_library_help.xml",
       "string_no": "3866642",
       "original": "Battles: Usable Items",
-      "translation": "Битвы: полезные предметы"
+      "translation": "Битвы: Полезные предметы"
     },
     "pack02:3866643": {
       "source": "pack02_text_en",
@@ -181711,7 +181711,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866645",
       "original": "Battles: Break Status",
-      "translation": "Битвы: статус перерыва"
+      "translation": "Битвы: Статус перерыва"
     },
     "pack02:3866646": {
       "source": "pack02_text_en",
@@ -181725,7 +181725,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866647",
       "original": "Battles: Vanguard &amp; Rearguard",
-      "translation": "Бои: авангард и арьергард"
+      "translation": "Битвы: Авангард и арьергард"
     },
     "pack02:3866648": {
       "source": "pack02_text_en",
@@ -181760,7 +181760,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866652",
       "original": "Battles: Area Effects",
-      "translation": "Бои: Эффекты области"
+      "translation": "Битвы: Эффекты области"
     },
     "pack02:3866653": {
       "source": "pack02_text_en",
@@ -181774,7 +181774,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866654",
       "original": "Facilities: Atelier Basics",
-      "translation": "Удобства: Ателье Основы"
+      "translation": "Услуги: Основы ателье"
     },
     "pack02:3866655": {
       "source": "pack02_text_en",
@@ -181802,21 +181802,21 @@
       "file": "str_library_help.xml",
       "string_no": "3866658",
       "original": "Facilities: Volume Retail Store",
-      "translation": "Удобства: Розничный магазин Volume"
+      "translation": "Услуги: Магазин оптовых продаж"
     },
     "pack02:3866659": {
       "source": "pack02_text_en",
       "file": "str_library_help.xml",
       "string_no": "3866659",
       "original": "Facilities: Auto Refills",
-      "translation": "Удобства: Автоматическое заполнение"
+      "translation": "Услуги: Автоматическое заполнение"
     },
     "pack02:3866660": {
       "source": "pack02_text_en",
       "file": "str_library_help.xml",
       "string_no": "3866660",
       "original": "Requests: Request Basics",
-      "translation": "Запросы: основы запросов"
+      "translation": "Запросы: Основы запросов"
     },
     "pack02:3866661": {
       "source": "pack02_text_en",
@@ -181830,14 +181830,14 @@
       "file": "str_library_help.xml",
       "string_no": "3866662",
       "original": "Reputation: Atelier Ranking",
-      "translation": "Репутация: ранг ателье"
+      "translation": "Репутация: Ранг ателье"
     },
     "pack02:3866663": {
       "source": "pack02_text_en",
       "file": "str_library_help.xml",
       "string_no": "3866663",
       "original": "Reputation: Path to the Test",
-      "translation": "Репутация: путь к испытанию"
+      "translation": "Репутация: Путь к испытанию"
     },
     "pack02:3866664": {
       "source": "pack02_text_en",
@@ -185582,7 +185582,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473885",
       "original": "“This staff contains gemstones called spinels. Spinels are often sharp, so it can be used as a stabbing weapon as well.”^00“A true alchemist is not afraid to take out her enemy's eyes - I'll remember that!”",
-      "translation": "«В этом посохе камни-шпинели. Шпинели часто острые, так что им можно и колоть.»^00«Настоящая алхимичка не боится выбить врагу глаза — запомню!»"
+      "translation": "«В этом посохе камни-шпинели. Шпинели часто острые, так что им можно и колоть.»^00«Настоящий алхимик не боится выбить врагу глаза — запомню!»"
     },
     "pack02:3473886": {
       "source": "pack02_text_en",
@@ -199274,7 +199274,7 @@
       "file": "str_npc_s17_mess.xml",
       "string_no": "33226796",
       "original": "I often run across alchemists these days. A really pretty alchemist came by here just the other day... Hehe...",
-      "translation": "В последнее время часто встречаю алхимиков. На днях заходила одна очень красивая алхимичка... Хехе..."
+      "translation": "В последнее время часто встречаю алхимиков. На днях заходила одна очень красивая девушка алхимик... Хехе..."
     },
     "pack02:33226797": {
       "source": "pack02_text_en",
