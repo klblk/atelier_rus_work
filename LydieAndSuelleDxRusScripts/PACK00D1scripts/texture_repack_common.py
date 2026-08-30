@@ -37,8 +37,11 @@ TEXTURE_JSON_NAME = "texture.json"
 GEN_STYLES_DIRS = [
     PACK02_EXTRACT / "saves/ui_en/gen_styles",
     PACK02_EXTRACT / "saves/ui/gen_styles",
-    PACK02_EXTRACT / "saves/ui_tw/gen_styles",
-    PACK02_EXTRACT / "saves/ui_sc/gen_styles",
+]
+
+ETC_STYLES_DIRS = [
+    PACK02_EXTRACT / "saves/ui_en/etc",
+    PACK02_EXTRACT / "saves/ui/etc",
 ]
 
 
@@ -115,6 +118,20 @@ def pack_relpath(path: Path, pack_root: Path) -> str | None:
         return None
 
 
+def read_uis_xml_text(xml_path: Path) -> str:
+    raw = xml_path.read_bytes()
+    if raw.startswith(b"\xef\xbb\xbf"):
+        return raw.decode("utf-8-sig")
+    try:
+        return raw.decode("utf-8")
+    except UnicodeDecodeError:
+        return raw.decode("cp932", errors="replace")
+
+
+def uis_xml_search_dirs() -> list[Path]:
+    return [*GEN_STYLES_DIRS, *ETC_STYLES_DIRS]
+
+
 def find_uis_xml(g1t_path: Path) -> Path | None:
     stem = g1t_path.stem
     for styles_dir in GEN_STYLES_DIRS:
@@ -123,12 +140,11 @@ def find_uis_xml(g1t_path: Path) -> Path | None:
             return candidate
 
     needle = f"{stem}.g1t"
-    for styles_dir in GEN_STYLES_DIRS:
+    for styles_dir in uis_xml_search_dirs():
         if not styles_dir.is_dir():
             continue
-        for xml_path in sorted(styles_dir.glob("uis_gen_*.xml")):
-            text = xml_path.read_bytes().decode("cp932", errors="replace")
-            if needle in text:
+        for xml_path in sorted(styles_dir.glob("uis*.xml")):
+            if needle in read_uis_xml_text(xml_path):
                 return xml_path
     return None
 
@@ -174,7 +190,7 @@ def pixel_to_uvwh(
 
 
 def parse_uis_xml(xml_path: Path, g1t_name: str) -> tuple[int, list[SpriteDef]]:
-    xml_text = xml_path.read_bytes().decode("cp932", errors="replace")
+    xml_text = read_uis_xml_text(xml_path)
     root = ET.fromstring(xml_text)
     resolution_hd = int(root.attrib.get("resolution_hd", DEFAULT_RESOLUTION_HD))
     sprites: list[SpriteDef] = []
@@ -280,33 +296,64 @@ def crop_and_save_sprites(
         page.crop(sprite.pixel_box()).save(out_path)
 
 
+def sprites_from_full_pages(pages: dict[int, Image.Image], stem: str) -> list[SpriteDef]:
+    sprites: list[SpriteDef] = []
+    multi_page = len(pages) > 1
+    for index in sorted(pages):
+        page = pages[index]
+        w, h = page.size
+        image_name = f"{stem}__page{index:03d}" if multi_page else stem
+        sprites.append(
+            SpriteDef(
+                image_list=ROOT_GROUP,
+                image_name=image_name,
+                texture_index=index,
+                uv_x=0,
+                uv_y=0,
+                w=w,
+                h=h,
+                px_x=0,
+                px_y=0,
+                px_w=w,
+                px_h=h,
+            )
+        )
+    return sprites
+
+
 def write_texture_json(
     *,
     work_dir: Path,
     g1t_path: Path,
-    xml_path: Path,
+    xml_path: Path | None,
     resolution_hd: int,
     atlases: list[dict[str, Any]],
     sprites: list[SpriteDef],
+    mode: str = "uis_xml",
 ) -> Path:
     g1t_pack_relpath = pack_relpath(g1t_path, PACK00D1_EXTRACT)
-    xml_pack_relpath = pack_relpath(xml_path, PACK02_EXTRACT)
     if g1t_pack_relpath is None:
         raise SystemExit(f"g1t not under PACK00D1 extract: {g1t_path}")
-    if xml_pack_relpath is None:
-        raise SystemExit(f"xml not under PACK02 extract: {xml_path}")
 
-    payload = {
+    payload: dict[str, Any] = {
         "version": 1,
+        "mode": mode,
         "g1t": rel_to_root(g1t_path),
         "g1t_pack_relpath": g1t_pack_relpath,
-        "xml": rel_to_root(xml_path),
-        "xml_pack_relpath": xml_pack_relpath,
         "resolution_hd": resolution_hd,
         "work_dir": rel_to_root(work_dir),
         "atlases": atlases,
         "sprites": [sprite.to_json() for sprite in sprites],
     }
+    if xml_path is not None:
+        xml_pack_relpath = pack_relpath(xml_path, PACK02_EXTRACT)
+        if xml_pack_relpath is None:
+            raise SystemExit(f"xml not under PACK02 extract: {xml_path}")
+        payload["xml"] = rel_to_root(xml_path)
+        payload["xml_pack_relpath"] = xml_pack_relpath
+    else:
+        payload["xml"] = None
+        payload["xml_pack_relpath"] = None
     out_path = work_dir / TEXTURE_JSON_NAME
     out_path.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     return out_path

@@ -26,11 +26,31 @@
 ```bash
 cd LydieAndSuelleDxRusScripts
 
+# gen_styles UI (uis_gen_*.xml)
 python3 PACK00D1scripts/extract_g1t.py \
   --g1t extracts/pack_extracts/PACK00D1_extract/data/x64/res_en/ui/a19_title.g1t
+
+# etc/ UI: telop (pre-rendered narration strips)
+python3 PACK00D1scripts/extract_g1t.py \
+  --g1t extracts/pack_extracts/PACK00D1_extract/data/x64/res_en/ui/a19_telop_06.g1t
+
+# etc/ UI: monster portrait (single full-page sprite)
+python3 PACK00D1scripts/extract_g1t.py \
+  --g1t extracts/pack_extracts/PACK00D1_extract/data/x64/res_en/ui/a19_monster_l_065.g1t
+
+# no uis XML: full atlas page(s) only (e.g. ipu/*.g1t)
+python3 PACK00D1scripts/extract_g1t.py \
+  --g1t extracts/pack_extracts/PACK00D1_extract/data/x64/res_en/ipu/mm03_250_001.g1t
 ```
 
-Выход: `build/extract_g1t/a19_title/` (`texture.json`, `atlases/`, `sprites/`, `source/`).
+Выход: `build/extract_g1t/<stem>/` (`texture.json`, `atlases/`, `sprites/`, `source/`).
+
+XML ищется в `saves/ui_en/` и `saves/ui/` (без `ui_tw`/`ui_sc`):
+
+- `gen_styles/uis_gen_{stem}.xml` — обычные UI-текстуры
+- `etc/uis_*.xml` — telop, monster portraits и др. (по ссылке на `{stem}.g1t`)
+
+Если XML не найден, extract продолжается в режиме `atlas_only` (целая DDS-страница → один спрайт). Флаг `--require-xml` возвращает старое поведение (ошибка без XML).
 
 Если PACK00D1 ещё не распакован: `python3 PACKutils_scripts/extract_packs.py --pack PACK00D1.PAK`.
 

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T18:50:09.094004+00:00",
+  "generated_at": "2026-08-30T10:20:19.077548+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -5218,7 +5218,7 @@
       "index": 1,
       "speaker": "???",
       "original": "We've got some trouble with monsters nearby.",
-      "translation": "У нас проблемы с монстрами поблизости."
+      "translation": "Тут неподалёку объявились опасные монстры."
     },
     "ebm:mm03/event_message_mm03_040.ebm:2": {
       "source": "pack01_ebm",
@@ -8522,7 +8522,7 @@
       "index": 4,
       "speaker": "Mireille",
       "original": "That's all very interesting. I have a much better understanding of \"The Spooky Forest\" now.",
-      "translation": "Это все очень интересно. Теперь я гораздо лучше понимаю «Жуткий лес»."
+      "translation": "Это всё очень интересно. Теперь я гораздо лучше понимаю «Жуткий лес»."
     },
     "ebm:mm03/event_message_mm03_420.ebm:5": {
       "source": "pack01_ebm",
@@ -73802,7 +73802,7 @@
       "index": 3,
       "speaker": "Lucia",
       "original": "I was just thinking what a lovely picture I must make, looking out over the sea. Ah, art!",
-      "translation": "Просто думала, какую прекрасную картину я составляю, глядя на море. Ах, искусство!"
+      "translation": "Я тут подумала: как же, должно быть, прекрасна эта сцена — я, взирающая на морскую даль... Ах, искусство!"
     },
     "ebm:qc06_luc/event_message_qc06_luc_020.ebm:4": {
       "source": "pack01_ebm",
@@ -122547,7 +122547,7 @@
       "file": "str_ambition_entry_system.xml",
       "string_no": "852073",
       "original": "Make a purchase at a &lt;CLGR&gt;Shop&lt;CLNR&gt;.",
-      "translation": "Создать &lt;CLGR&gt;Магазин&lt;CLNR&gt;."
+      "translation": "Совершите покупку &lt;CLGR&gt;в магазине&lt;CLNR&gt;."
     },
     "pack02:852074": {
       "source": "pack02_text_en",
@@ -218881,7 +218881,7 @@
       "file": "str_system_message.xml",
       "string_no": "65684",
       "original": "Morning! Let’s give it all we’ve got again today!",
-      "translation": "Утро! Давайте сегодня снова отдадим все, что у нас есть!",
+      "translation": "Доброе утро! Давайте сегодня снова выложимся на полную!",
       "speaker": "Hagel"
     },
     "pack02:65685": {

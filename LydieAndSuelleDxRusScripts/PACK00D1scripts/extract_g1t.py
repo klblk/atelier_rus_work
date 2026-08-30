@@ -5,9 +5,11 @@ from __future__ import annotations
 
 import argparse
 import shutil
+import sys
 from pathlib import Path
 
 from texture_repack_common import (
+    DEFAULT_RESOLUTION_HD,
     EXTRACT_G1T_ROOT,
     apply_pixel_coords,
     crop_and_save_sprites,
@@ -15,6 +17,7 @@ from texture_repack_common import (
     load_dds_pages,
     parse_uis_xml,
     save_atlas_pngs,
+    sprites_from_full_pages,
     unpack_g1t,
     write_texture_json,
 )
@@ -27,7 +30,7 @@ def main() -> None:
         "--xml",
         type=Path,
         default=None,
-        help="uis_gen_*.xml (default: auto-detect in PACK02 extract)",
+        help="uis XML (default: auto-detect in PACK02 ui_en/ui gen_styles or etc)",
     )
     parser.add_argument(
         "--work-dir",
@@ -40,6 +43,11 @@ def main() -> None:
         action="store_true",
         help="recreate work directory even if it already exists",
     )
+    parser.add_argument(
+        "--require-xml",
+        action="store_true",
+        help="fail if no uis XML is found (no atlas-only fallback)",
+    )
     args = parser.parse_args()
 
     g1t_path = args.g1t.resolve()
@@ -47,10 +55,10 @@ def main() -> None:
         raise SystemExit(f"g1t not found: {g1t_path}")
 
     xml_path = args.xml.resolve() if args.xml else find_uis_xml(g1t_path)
-    if xml_path is None:
-        raise SystemExit(f"No uis_gen XML found for {g1t_path.name}; pass --xml")
-    if not xml_path.is_file():
+    if xml_path is not None and not xml_path.is_file():
         raise SystemExit(f"xml not found: {xml_path}")
+    if xml_path is None and args.require_xml:
+        raise SystemExit(f"No uis XML found for {g1t_path.name}; pass --xml")
 
     work_dir = (args.work_dir or EXTRACT_G1T_ROOT / g1t_path.stem).resolve()
     if args.force and work_dir.is_dir():
@@ -61,8 +69,19 @@ def main() -> None:
     pages = load_dds_pages(dds_dir)
     atlases = save_atlas_pngs(pages, work_dir)
 
-    resolution_hd, sprites = parse_uis_xml(xml_path, g1t_path.name)
-    apply_pixel_coords(sprites, pages)
+    if xml_path is not None:
+        resolution_hd, sprites = parse_uis_xml(xml_path, g1t_path.name)
+        apply_pixel_coords(sprites, pages)
+        mode = "uis_xml"
+    else:
+        print(
+            f"Warning: no uis XML for {g1t_path.name}; extracting full atlas page(s) only",
+            file=sys.stderr,
+        )
+        resolution_hd = DEFAULT_RESOLUTION_HD
+        sprites = sprites_from_full_pages(pages, g1t_path.stem)
+        mode = "atlas_only"
+
     crop_and_save_sprites(sprites, pages, work_dir)
 
     texture_json = write_texture_json(
@@ -72,11 +91,13 @@ def main() -> None:
         resolution_hd=resolution_hd,
         atlases=atlases,
         sprites=sprites,
+        mode=mode,
     )
 
     print(f"Work dir: {work_dir}")
     print(f"Texture JSON: {texture_json}")
-    print(f"XML: {xml_path}")
+    print(f"Mode: {mode}")
+    print(f"XML: {xml_path if xml_path is not None else '(none)'}")
     print(f"Atlases: {len(atlases)}")
     print(f"Sprites: {len(sprites)}")
 
