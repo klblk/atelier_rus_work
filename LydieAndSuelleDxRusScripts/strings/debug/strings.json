@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-31T16:40:05.347789+00:00",
+  "generated_at": "2026-08-31T17:45:11.414414+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -7178,7 +7178,7 @@
       "index": 2,
       "speaker": "System",
       "original": "Looking around, those gnarly trees are all you can see.<CR>All who visit this place are bound to feel the same breath of fear.",
-      "translation": "Оглянувшись вокруг, вы видите лишь эти корявые деревья.<CR>Все, кто посещает это место, ощущают одно и то же — дыхание страха."
+      "translation": "Оглянувшись вокруг, вы видите лишь эти корявые деревья.<CR>Все, кто посетит это место, непременно почувствуют страх."
     },
     "ebm:mm03/event_message_mm03_230.ebm:3": {
       "source": "pack01_ebm",
@@ -11106,7 +11106,7 @@
       "index": 2,
       "speaker": "System",
       "original": "They almost look like a glossy mirror.<CR>However, you'll have no time to stop and admire your reflection.",
-      "translation": "Они похожи на глянцевое зеркало.<CR>Однако у вас не будет времени остановиться и полюбоваться своим отражением."
+      "translation": "Они похожи на глянцевое зеркало.<CR>Однако у вас не будет времени полюбоваться своим отражением."
     },
     "ebm:mm04/event_message_mm04_220.ebm:3": {
       "source": "pack01_ebm",
@@ -21874,7 +21874,7 @@
       "index": 4,
       "speaker": "System",
       "original": "The so-called Treasury at the Sea Bottom,<CR>where the great pirate treasure supposedly still slumbers...",
-      "translation": "Так называемая Сокровищница на дне моря,<CR>где предположительно до сих пор дремлет великое пиратское сокровище..."
+      "translation": "Так называемая Сокровищница на дне моря,<CR>где вероятно до сих пор дремлет великое пиратское сокровище..."
     },
     "ebm:mm07/event_message_mm07_150.ebm:0": {
       "source": "pack01_ebm",
@@ -27914,7 +27914,7 @@
       "index": 12,
       "speaker": "System",
       "original": "Becoming rebels, soon they came to rule the Merveille's underworld,<CR>known as the twin leaders of a gang... but that's another story.",
-      "translation": "Став бандитками, они вскоре стали править преступным миром Мервейля,<CR>известные как лидеры-близняшки банды... но это уже другая история."
+      "translation": "Став бунтарями, они возглавили преступный мир Мервея,<CR>как лидеры-близняшки одной банды... но это уже другая история."
     },
     "ebm:mm09/event_message_mm09_090.ebm:13": {
       "source": "pack01_ebm",
@@ -33634,7 +33634,7 @@
       "index": 0,
       "speaker": "System",
       "original": "A countless number of shiny star shards rained down on a vast plain.<CR>They were the blessings from the heavens that gave them life.",
-      "translation": "Бесчисленное множество блестящих осколков звёзд упало на обширную равнину.<CR>Это были благословения небес, давшие им жизнь."
+      "translation": "Бесчисленные осколки звёзд пролились дождем на широкую равнину.<CR>Это были благословения небес, давшие им жизнь."
     },
     "ebm:mm10/event_message_mm10_330.ebm:1": {
       "source": "pack01_ebm",
@@ -33658,7 +33658,7 @@
       "index": 3,
       "speaker": "System",
       "original": "They can never go back, but it seems so close, almost reachable,<CR>if only they were to spread their leaves far enough...",
-      "translation": "Они никогда не смогут вернуться, но кажется, что это так близко, почти достижимо,<CR>если бы только они раскинули свои листья достаточно далеко..."
+      "translation": "Они не смогут вернуться, но кажется, что это близко, достижимо,<CR>если бы только они раскинули свои листья достаточно далеко..."
     },
     "ebm:mm10/event_message_mm10_330.ebm:4": {
       "source": "pack01_ebm",
@@ -43010,7 +43010,7 @@
       "index": 6,
       "speaker": "Honnete",
       "original": "Even becoming increasingly busy,<CR>the twins strive to do their very best work.",
-      "translation": "Даже становясь всё более занятыми,<CR>близняшки изо всех сил стараются выполнять свою работу как можно лучше"
+      "translation": "Даже становясь всё более занятыми,<CR>близняшки стремятся выполнять свою работу наилучшим образом."
     },
     "ebm:mm13/event_message_mm13_010.ebm:7": {
       "source": "pack01_ebm",
@@ -103138,7 +103138,7 @@
       "index": 2,
       "speaker": "System",
       "original": "Looking around, those gnarly trees are all you can see.<CR>All who visit this place are bound to feel the same breath of fear.",
-      "translation": "Оглянувшись вокруг, вы видите лишь эти корявые деревья.<CR>Все, кто посещает это место, ощущают одно и то же — дыхание страха."
+      "translation": "Оглянувшись вокруг, вы видите лишь эти корявые деревья.<CR>Все, кто посетит это место, непременно почувствуют страх."
     },
     "ebm:xf06/event_message_xf06_010.ebm:3": {
       "source": "pack01_ebm",
@@ -103178,7 +103178,7 @@
       "index": 2,
       "speaker": "System",
       "original": "They almost look like a glossy mirror.<CR>However, you'll have no time to stop and admire your reflection.",
-      "translation": "Они похожи на глянцевое зеркало.<CR>Однако у вас не будет времени остановиться и полюбоваться своим отражением."
+      "translation": "Они похожи на глянцевое зеркало.<CR>Однако у вас не будет времени полюбоваться своим отражением."
     },
     "ebm:xf06/event_message_xf06_020.ebm:3": {
       "source": "pack01_ebm",
@@ -103314,7 +103314,7 @@
       "index": 4,
       "speaker": "System",
       "original": "The so-called Treasury at the Sea Bottom,<CR>where the great pirate treasure supposedly still slumbers...",
-      "translation": "Так называемая Сокровищница на дне моря,<CR>где предположительно до сих пор дремлет великое пиратское сокровище..."
+      "translation": "Так называемая Сокровищница на дне моря,<CR>где вероятно до сих пор дремлет великое пиратское сокровище..."
     },
     "ebm:xf06/event_message_xf06_060.ebm:0": {
       "source": "pack01_ebm",
@@ -103410,7 +103410,7 @@
       "index": 0,
       "speaker": "System",
       "original": "A countless number of shiny star shards rained down on a vast plain.<CR>They were the blessings from the heavens that gave them life.",
-      "translation": "Бесчисленное множество блестящих осколков звёзд упало на обширную равнину.<CR>Это были благословения небес, давшие им жизнь."
+      "translation": "Бесчисленные осколки звёзд пролились дождем на широкую равнину.<CR>Это были благословения небес, давшие им жизнь."
     },
     "ebm:xf06/event_message_xf06_080.ebm:1": {
       "source": "pack01_ebm",
@@ -103434,7 +103434,7 @@
       "index": 3,
       "speaker": "System",
       "original": "They can never go back, but it seems so close, almost reachable,<CR>if only they were to spread their leaves far enough...",
-      "translation": "Они никогда не смогут вернуться, но кажется, что это так близко, почти достижимо,<CR>если бы только они раскинули свои листья достаточно далеко..."
+      "translation": "Они не смогут вернуться, но кажется, что это близко, достижимо,<CR>если бы только они раскинули свои листья достаточно далеко..."
     },
     "ebm:xf06/event_message_xf06_080.ebm:4": {
       "source": "pack01_ebm",
