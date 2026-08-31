@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-31T12:31:20.177258+00:00",
+  "generated_at": "2026-08-31T12:59:06.710590+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -21570,7 +21570,7 @@
       "index": 12,
       "speaker": "Mireille",
       "original": "I've finally obtained a certain Painting. Its name is \"The Treasury at the Sea Bottom.\"",
-      "translation": "Я наконец получила одну картину. Её название — «Сокровищница на морском дне»."
+      "translation": "Я наконец получила одну картину. Её название — «Сокровищница на дне моря»."
     },
     "ebm:mm07/event_message_mm07_090.ebm:13": {
       "source": "pack01_ebm",
@@ -21634,7 +21634,7 @@
       "index": 0,
       "speaker": "Mireille",
       "original": "You're here! This is the setting for your vacation, \"The Treasury at the Sea Bottom\"!",
-      "translation": "Вы здесь! Вот место вашего отпуска — «Сокровищница на морском дне»!"
+      "translation": "Вы здесь! Вот место вашего отпуска — «Сокровищница на дне моря»!"
     },
     "ebm:mm07/event_message_mm07_100.ebm:1": {
       "source": "pack01_ebm",
@@ -21874,7 +21874,7 @@
       "index": 4,
       "speaker": "System",
       "original": "The so-called Treasury at the Sea Bottom,<CR>where the great pirate treasure supposedly still slumbers...",
-      "translation": "Так называемая Сокровищница на морском дне,<CR>где, говорят, до сих пор дремлет великое пиратское сокровище..."
+      "translation": "Так называемая Сокровищница на дне моря,<CR>где, говорят, до сих пор дремлет великое пиратское сокровище..."
     },
     "ebm:mm07/event_message_mm07_150.ebm:0": {
       "source": "pack01_ebm",
@@ -79978,7 +79978,7 @@
       "index": 3,
       "speaker": "Honnete",
       "original": "Ah, and the Treasury at the Sea Bottom, too! I chatted with the Captain, he was most amusing.",
-      "translation": "А, и Сокровищница на морском дне! Болтала с капитаном — он очень забавный."
+      "translation": "А, и Сокровищница на дне моря! Болтала с капитаном — он очень забавный."
     },
     "ebm:qc08_hon/event_message_qc08_hon_030.ebm:4": {
       "source": "pack01_ebm",
@@ -144534,7 +144534,7 @@
       "file": "str_fm_info.xml",
       "string_no": "917574",
       "original": "Treasury at the Sea Bottom Battle",
-      "translation": "Сокровищница в битве на морском дне"
+      "translation": "Битва в Сокровищнице на дне моря"
     },
     "pack02:917575": {
       "source": "pack02_text_en",
@@ -144604,7 +144604,7 @@
       "file": "str_fm_info.xml",
       "string_no": "917584",
       "original": "The Treasury at the Sea Bottom (Underwater)",
-      "translation": "Сокровищница на морском дне (под водой)"
+      "translation": "Сокровищница на дне моря (под водой)"
     },
     "pack02:917585": {
       "source": "pack02_text_en",
@@ -217047,7 +217047,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6226034",
       "original": "The glamorous lady pirate Lydie! Hehe... I’ve entered the service of the Captain who was in the Treasury at the Sea Bottom. What’s more, he's left all the remaining treasures to us! This is so exciting! Let’s check all the treasure vaults!^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Очаровательная пиратка Лиди! Хе-хе... Я поступил на службу к капитану, который находился в Сокровищнице на Морском Дне. Более того, все оставшиеся сокровища он оставил нам! Это так увлекательно! Давайте проверим все сокровищницы!^00　　　　　　　　　　　　　　　[Лиди]"
+      "translation": "Очаровательная пиратка Лиди! Хе-хе... Я поступил на службу к капитану, который находился в Сокровищнице на дне моря. Более того, все оставшиеся сокровища он оставил нам! Это так увлекательно! Давайте проверим все сокровищницы!^00　　　　　　　　　　　　　　　[Лиди]"
     },
     "pack02:6226035": {
       "source": "pack02_text_en",
