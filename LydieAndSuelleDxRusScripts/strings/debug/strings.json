@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-31T14:05:29.039244+00:00",
+  "generated_at": "2026-08-31T14:33:34.030286+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -103426,7 +103426,7 @@
       "index": 2,
       "speaker": "System",
       "original": "Every night, the Star Flowers on the ground think of their birthplace above them.",
-      "translation": "Каждую ночь Звёздные цветы на земле думают о месте своего рождения над ними."
+      "translation": "Каждую ночь Звёздные цветы<CR>на земле думают о месте своего рождения над ними."
     },
     "ebm:xf06/event_message_xf06_080.ebm:3": {
       "source": "pack01_ebm",
@@ -144513,7 +144513,7 @@
       "file": "str_fm_info.xml",
       "string_no": "917571",
       "original": "Starlight Plain Battle",
-      "translation": "Звездная битва на равнине"
+      "translation": "Битва на Звёздной равнине"
     },
     "pack02:917572": {
       "source": "pack02_text_en",
@@ -210061,7 +210061,7 @@
       "file": "str_recipe_idea_text.xml",
       "string_no": "2359375",
       "original": "[Field Support]&lt;CR&gt;An atomizer capable of recreating the Starlight Plain?&lt;CR&gt;",
-      "translation": "[Полевая поддержка]&lt;CR&gt;Атомайзер, способный воссоздать Равнину Звездного света?&lt;CR&gt;"
+      "translation": "[Полевая поддержка]&lt;CR&gt;Атомайзер, способный воссоздать Звёздную равнину?&lt;CR&gt;"
     },
     "pack02:2359376": {
       "source": "pack02_text_en",
@@ -217341,14 +217341,14 @@
       "file": "str_summary_text.xml",
       "string_no": "6226076",
       "original": "Restore the “Starlight Plain.”^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Восстановите «Равнину Звездного Света».^00　　　　　　　　　　　　　　　[Лиди]"
+      "translation": "Восстановите «Звёздную равнину».^00　　　　　　　　　　　　　　　[Лиди]"
     },
     "pack02:6226077": {
       "source": "pack02_text_en",
       "file": "str_summary_text.xml",
       "string_no": "6226077",
       "original": "Go deeper into the world of the “Starlight Plain.”^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Погрузитесь глубже в мир «Звездной равнины».^00　　　　　　　　　　　　　　　[Лиди]"
+      "translation": "Погрузитесь глубже в мир «Звёздной равнины».^00　　　　　　　　　　　　　　　[Лиди]"
     },
     "pack02:6226078": {
       "source": "pack02_text_en",
@@ -218622,56 +218622,56 @@
       "file": "str_summary_title.xml",
       "string_no": "6160540",
       "original": "In the Starlight Plain 1",
-      "translation": "На равнине звездного света 1"
+      "translation": "На Звёздной равнине 1"
     },
     "pack02:6160541": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160541",
       "original": "In the Starlight Plain 2",
-      "translation": "На равнине звездного света 2"
+      "translation": "На Звёздной равнине 2"
     },
     "pack02:6160542": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160542",
       "original": "In the Starlight Plain 3",
-      "translation": "На равнине звездного света 3"
+      "translation": "На Звёздной равнине 3"
     },
     "pack02:6160543": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160543",
       "original": "In the Starlight Plain 4",
-      "translation": "На равнине звездного света 4"
+      "translation": "На Звёздной равнине 4"
     },
     "pack02:6160544": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160544",
       "original": "In the Starlight Plain 5",
-      "translation": "На равнине звездного света 5"
+      "translation": "На Звёздной равнине 5"
     },
     "pack02:6160545": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160545",
       "original": "In the Starlight Plain 6",
-      "translation": "На равнине звездного света 6"
+      "translation": "На Звёздной равнине 6"
     },
     "pack02:6160546": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160546",
       "original": "In the Starlight Plain 7",
-      "translation": "На равнине звездного света 7"
+      "translation": "На Звёздной равнине 7"
     },
     "pack02:6160547": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160547",
       "original": "In the Starlight Plain 8",
-      "translation": "На Равнине Звездного Света 8"
+      "translation": "На Звёздной равнине 8"
     },
     "pack02:6160548": {
       "source": "pack02_text_en",
