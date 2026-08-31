@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-31T12:59:06.710590+00:00",
+  "generated_at": "2026-08-31T14:05:29.039244+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -28386,7 +28386,7 @@
       "index": 3,
       "speaker": "Roger",
       "original": "Yes. It's called \"Heavenly Flower Garden\". I started painting it for Honnete...",
-      "translation": "Да. Она называется «Небесный цветник». Я начал писать её для Оннет..."
+      "translation": "Да. Она называется «Небесный цветочный сад». Я начал писать её для Оннет..."
     },
     "ebm:mm09/event_message_mm09_130.ebm:4": {
       "source": "pack01_ebm",
@@ -28810,7 +28810,7 @@
       "index": 5,
       "speaker": "System",
       "original": "A paradise of clouds and flowers. The \"Heavenly Flower Garden\".<CR>Lydie... Suelle... How are you both?",
-      "translation": "Рай облаков и цветов. «Небесный цветник».<CR>Лидия... Сюэль... Как вы обе?"
+      "translation": "Рай облаков и цветов. «Небесный цветочный сад».<CR>Лидия... Сюэль... Как вы обе?"
     },
     "ebm:mm09/event_message_mm09_170.ebm:0": {
       "source": "pack01_ebm",
@@ -34298,7 +34298,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "Different again from the Heavenly Flower Garden. These worlds are wonderful, aren't they Sue! Ah!",
-      "translation": "Снова не как в Небесном цветнике. Эти миры чудесны, правда, Сью? Ах!"
+      "translation": "Снова не как в Небесном цветочном саду. Эти миры чудесны, правда, Сью? Ах!"
     },
     "ebm:mm10/event_message_mm10_400.ebm:4": {
       "source": "pack01_ebm",
@@ -103402,7 +103402,7 @@
       "index": 5,
       "speaker": "System",
       "original": "A paradise of clouds and flowers. The \"Heavenly Flower Garden\".<CR>Lydie... Suelle... How are you both?",
-      "translation": "Рай облаков и цветов. «Небесный цветочный сад».<CR>Лиди... Сюэль... Как вы обе?"
+      "translation": "Рай облаков и цветов. «Небесный цветочный сад».<CR>Лидия... Сюэль... Как вы обе?"
     },
     "ebm:xf06/event_message_xf06_080.ebm:0": {
       "source": "pack01_ebm",
@@ -144611,14 +144611,14 @@
       "file": "str_fm_info.xml",
       "string_no": "917585",
       "original": "Atelier (Heavenly Flower Garden)",
-      "translation": "Ателье (Небесный Цветник)"
+      "translation": "Ателье (Небесный цветочный сад)"
     },
     "pack02:917586": {
       "source": "pack02_text_en",
       "file": "str_fm_info.xml",
       "string_no": "917586",
       "original": "Basement (Heavenly Flower Garden)",
-      "translation": "Подвал (Небесный цветник)"
+      "translation": "Подвал (Небесный цветочный сад)"
     },
     "pack02:917587": {
       "source": "pack02_text_en",
@@ -217222,7 +217222,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6226059",
       "original": "Dad has restored the “Heavenly Flower Garden.” Somewhere inside the world of this painting is our Mom...! Let’s work together and find her!^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Папа восстановил «Райский цветник». Где-то внутри мира этой картины находится наша Мама...! Давайте работать вместе и найти ее!^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Папа восстановил «Небесный цветочный сад». Где-то внутри мира этой картины находится наша Мама...! Давайте работать вместе и найти ее!^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6226060": {
       "source": "pack02_text_en",
@@ -218503,7 +218503,7 @@
       "file": "str_summary_title.xml",
       "string_no": "6160523",
       "original": "In the Heavenly Flower Garden 1",
-      "translation": "В райском цветнике 1"
+      "translation": "В Небесном цветочном саду 1"
     },
     "pack02:6160524": {
       "source": "pack02_text_en",
