@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-30T10:20:28.746913+00:00",
+  "generated_at": "2026-08-31T16:44:57.049590+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -322,7 +322,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "Kyaaah! There's been so many thunderstorms recently!",
-      "translation": "Кьяаа! В последнее время было так много гроз!"
+      "translation": "А-а-а-а! В последнее время было так много гроз!"
     },
     "ebm:mm01/event_message_mm01_060.ebm:4": {
       "source": "pack01_ebm",
@@ -362,7 +362,7 @@
       "index": 0,
       "speaker": "System",
       "original": "This is Merveille, the royal capital of the Kingdom of Adalet.<CR>A glorious city with a long history.",
-      "translation": "Это Мервейль, столица Королевства Адалета.<CR>Славный город с долгой историей."
+      "translation": "Это Мервейль, столица королевства Адалет.<CR>Славный город с долгой историей."
     },
     "ebm:mm01/event_message_mm01_070.ebm:1": {
       "source": "pack01_ebm",
@@ -370,7 +370,7 @@
       "index": 1,
       "speaker": "System",
       "original": "Facing the Marle Ocean and enveloped in the smell of the sea,<CR>it is also home to our twin alchemists.",
-      "translation": "С видом на океан Марль и окутанный запахом моря, <CR> также является домом для наших близнецов-алхимиков."
+      "translation": "С видом на океан Марль и окутанный запахом моря,<CR>также является домом для наших близняшек-алхимиков."
     },
     "ebm:mm01/event_message_mm01_070.ebm:2": {
       "source": "pack01_ebm",
@@ -378,7 +378,7 @@
       "index": 2,
       "speaker": "System",
       "original": "The older sister is Lydie. A smart and gentle girl<CR>who prefers to avoid most of physical activities.",
-      "translation": "Старшую сестру зовут Лиди. Умная и нежная девушка<CR>, которая предпочитает избегать большинства физических нагрузок."
+      "translation": "Старшую сестру зовут Лидия. Умная и нежная девушка,<CR>которая предпочитает избегать большинства физических нагрузок."
     },
     "ebm:mm01/event_message_mm01_070.ebm:3": {
       "source": "pack01_ebm",
@@ -386,7 +386,7 @@
       "index": 3,
       "speaker": "System",
       "original": "The younger one is Suelle. She is a tomboy<CR>with a cheerful personality, who can be rather mischievous.",
-      "translation": "Младшую зовут Сюэль. Она сорванец<CR> с веселым характером, которая может быть довольно озорной."
+      "translation": "Младшую зовут Сюэль. Она жизнерадостная девчонка-сорванец,<CR>которая бывает довольно озорной."
     },
     "ebm:mm01/event_message_mm01_070.ebm:4": {
       "source": "pack01_ebm",
@@ -394,7 +394,7 @@
       "index": 4,
       "speaker": "System",
       "original": "Lydie and Sue are always together, <CR>and they run a small atelier along with their father.",
-      "translation": "Лиди и Сью всегда вместе, <CR>, и вместе со своим отцом они владеют небольшим ателье."
+      "translation": "Лиди и Сью всегда вместе,<CR>и вместе со своим отцом они владеют небольшим ателье."
     },
     "ebm:mm01/event_message_mm01_070.ebm:5": {
       "source": "pack01_ebm",
@@ -402,7 +402,7 @@
       "index": 5,
       "speaker": "System",
       "original": "However, truth be told, <CR>their everyday life is not so smooth sailing...",
-      "translation": "Однако, по правде говоря, <CR> их повседневная жизнь не так уж и гладкая..."
+      "translation": "Однако, честно говоря, их повседневная жизнь не такая уж и гладкая..."
     },
     "ebm:mm01/event_message_mm01_080.ebm:0": {
       "source": "pack01_ebm",
@@ -7162,7 +7162,7 @@
       "index": 0,
       "speaker": "System",
       "original": "Whispering voices mutter rumors from amid the trees.",
-      "translation": "Шёпот и невнятный ропот доносятся из-за деревьев."
+      "translation": "Шепчущие голоса разносят слухи из-за деревьев."
     },
     "ebm:mm03/event_message_mm03_230.ebm:1": {
       "source": "pack01_ebm",
@@ -7170,7 +7170,7 @@
       "index": 1,
       "speaker": "System",
       "original": "From the glooming darkness, you sense the eyes of someone,<CR>something... watching you.",
-      "translation": "Из непроглядной тьмы вы чувствуете чей-то взгляд...Кто-то или что-то... пристально следит за вами."
+      "translation": "Из мрачной тьмы вы чувствуете чей-то взгляд,<CR>что-то... наблюдающее за вами."
     },
     "ebm:mm03/event_message_mm03_230.ebm:2": {
       "source": "pack01_ebm",
@@ -7178,7 +7178,7 @@
       "index": 2,
       "speaker": "System",
       "original": "Looking around, those gnarly trees are all you can see.<CR>All who visit this place are bound to feel the same breath of fear.",
-      "translation": "Куда ни посмотри, вокруг лишь искривлённые зловещие деревья.<CR>Каждый, кто приходит сюда, неизбежно ощущает леденящее дыхание страха."
+      "translation": "Оглянувшись вокруг, вы видите лишь эти корявые деревья.<CR>Все, кто посещает это место, ощущают одно и то же — дыхание страха."
     },
     "ebm:mm03/event_message_mm03_230.ebm:3": {
       "source": "pack01_ebm",
@@ -7186,7 +7186,7 @@
       "index": 3,
       "speaker": "System",
       "original": "And with good reason. For this place is the intersection<CR>between the world of living and the spectral plain.",
-      "translation": "И не без причины. Ведь это место — самый стык<CR>между миром живых и призрачной обителью."
+      "translation": "И не без причины. Ведь это место — перекресток<CR>между миром живых и миром призраков."
     },
     "ebm:mm03/event_message_mm03_230.ebm:4": {
       "source": "pack01_ebm",
@@ -7194,7 +7194,7 @@
       "index": 4,
       "speaker": "System",
       "original": "This is the Spooky Forest.<CR>Beware of the tricks that might be played on you here...",
-      "translation": "Вы вошли в Жуткий Лес.<CR>Берегитесь коварных иллюзий, что поджидают вас здесь..."
+      "translation": "Это Жуткий лес.<CR>Остерегайтесь шуток, которые могут сыграть с вами здесь..."
     },
     "ebm:mm03/event_message_mm03_240.ebm:0": {
       "source": "pack01_ebm",
@@ -11090,7 +11090,7 @@
       "index": 0,
       "speaker": "System",
       "original": "A tranquil and cold grotto of eternal winter.<CR>Here bloom the ice flowers of crystals.",
-      "translation": "Спокойный и холодный грот вечной зимы.<CR>Здесь цветут ледяные цветы кристаллов."
+      "translation": "Спокойный и холодный грот вечной зимы.<CR>Здесь цветут ледяные цветы из кристаллов."
     },
     "ebm:mm04/event_message_mm04_220.ebm:1": {
       "source": "pack01_ebm",
@@ -11098,7 +11098,7 @@
       "index": 1,
       "speaker": "System",
       "original": "The passage of time has polished the ice walls clear,<CR>unleashing relentless glimmer.",
-      "translation": "С течением времени ледяные стены отполировались до чистоты, <CR>высвобождая неумолимое мерцание."
+      "translation": "Ход времени отполировал ледяные стены до прозрачности,<CR>и теперь они источают непрерывное сияние."
     },
     "ebm:mm04/event_message_mm04_220.ebm:2": {
       "source": "pack01_ebm",
@@ -11106,7 +11106,7 @@
       "index": 2,
       "speaker": "System",
       "original": "They almost look like a glossy mirror.<CR>However, you'll have no time to stop and admire your reflection.",
-      "translation": "Они почти похожи на глянцевое зеркало.<CR>Однако у вас не будет времени остановиться и полюбоваться своим отражением."
+      "translation": "Они похожи на глянцевое зеркало.<CR>Однако у вас не будет времени остановиться и полюбоваться своим отражением."
     },
     "ebm:mm04/event_message_mm04_220.ebm:3": {
       "source": "pack01_ebm",
@@ -11114,7 +11114,7 @@
       "index": 3,
       "speaker": "System",
       "original": "Just as every rose has its thorn,<CR>dark shadows watch intently from between the frosty blossoms.",
-      "translation": "Как у каждой розы есть шип,<CR>так и тёмные тени пристально наблюдают из-за морозных цветов."
+      "translation": "Как у каждой розы есть шипы,<CR>так и тёмные тени пристально следят из-за морозных цветов."
     },
     "ebm:mm04/event_message_mm04_220.ebm:4": {
       "source": "pack01_ebm",
@@ -11122,7 +11122,7 @@
       "index": 4,
       "speaker": "System",
       "original": "The Luminous Ice Grotto is guarded by the Ruler of Hoarfrost.<CR>So what kind of future does the ice here truly reflect?...",
-      "translation": "Светящийся ледяной грот охраняет Повелитель инея.<CR>Так какое будущее на самом деле отражает здешний лёд?..."
+      "translation": "Светящийся ледяной грот охраняет Повелитель инея.<CR>Так какое же будущее на самом деле отражает здешний лёд?..."
     },
     "ebm:mm04/event_message_mm04_230.ebm:0": {
       "source": "pack01_ebm",
@@ -14002,7 +14002,7 @@
       "index": 0,
       "speaker": "System",
       "original": "With a grating roar, there pours forth a rain of vivid red.",
-      "translation": "С резким ревом льется ярко-красный дождь."
+      "translation": "Со скрежещущим рёвом изливается ливень ярко-красного цвета."
     },
     "ebm:mm05/event_message_mm05_180.ebm:1": {
       "source": "pack01_ebm",
@@ -14010,7 +14010,7 @@
       "index": 1,
       "speaker": "System",
       "original": "The endless, tumbling flow of molten rock scorches the sky,<CR>parches the land, becoming a sea of fire.",
-      "translation": "Бесконечный, падающий поток расплавленной породы опаляет небо,<CR>высушивает землю, превращаясь в море огня."
+      "translation": "Бесконечный, низвергающийся поток расплавленной породы опаляет небо,<CR>высушивает землю, превращаясь в море огня."
     },
     "ebm:mm05/event_message_mm05_180.ebm:2": {
       "source": "pack01_ebm",
@@ -14018,7 +14018,7 @@
       "index": 2,
       "speaker": "System",
       "original": "Amid this tumult of engulfing flame,<CR>no seed of life can hope to find purchase.",
-      "translation": "Среди этого буйства охватывающего пламени,<CR>ни одно семя жизни не может надеяться найти опору."
+      "translation": "Среди этого буйства охватывающего пламени<CR>ни одно семя жизни не может надеяться найти опору."
     },
     "ebm:mm05/event_message_mm05_180.ebm:3": {
       "source": "pack01_ebm",
@@ -14026,7 +14026,7 @@
       "index": 3,
       "speaker": "System",
       "original": "Backed by dragon's roars, this world heads into destruction.<CR>Will you stand witness to that fate?",
-      "translation": "Под рёв дракона этот мир движется к разрушению.<CR>Станете ли вы свидетелями этой судьбы?"
+      "translation": "Под рёв дракона этот мир движется к разрушению.<CR>Станете ли вы свидетелем этой судьбы?"
     },
     "ebm:mm05/event_message_mm05_180.ebm:4": {
       "source": "pack01_ebm",
@@ -14034,7 +14034,7 @@
       "index": 4,
       "speaker": "System",
       "original": "Land of the red apocalypse, The Great Cascades of Anfel.<CR>If only some salvation could be found...",
-      "translation": "Земля красного апокалипсиса, Великие каскады Анфеля.<CR>Если бы только можно было найти какое-то спасение..."
+      "translation": "Земля красного апокалипсиса — Великие каскады Анфела.<CR>Если бы только здесь нашлось спасение..."
     },
     "ebm:mm05/event_message_mm05_190.ebm:0": {
       "source": "pack01_ebm",
@@ -18442,7 +18442,7 @@
       "index": 1,
       "speaker": "Mireille",
       "original": "Yes. It is called \"The Frozen Palace\", and it was painted by Neige Chintreuil.",
-      "translation": "Да. Она называется «Ледяной дворец», и её написала Нейдж Шинтрей."
+      "translation": "Да. Она называется «Замёрзший дворец», и её написала Нейдж Шинтрей."
     },
     "ebm:mm06/event_message_mm06_270.ebm:2": {
       "source": "pack01_ebm",
@@ -18666,7 +18666,7 @@
       "index": 0,
       "speaker": "System",
       "original": "A white forest, and a frozen manor standing silently<CR>among the frost covered trees​.",
-      "translation": "Белый лес и замёрзшая усадьба, молча стоящая<CR> среди покрытых инеем деревьев."
+      "translation": "Белый лес и замёрзшая усадьба, молча стоящая<CR>среди покрытых инеем деревьев."
     },
     "ebm:mm06/event_message_mm06_300.ebm:1": {
       "source": "pack01_ebm",
@@ -18674,7 +18674,7 @@
       "index": 1,
       "speaker": "System",
       "original": "The floor, walls, and even time, are all frozen here,<CR>simply existing, encased in a rime of ice.",
-      "translation": "Пол, стены и даже время здесь заморожены, <CR>просто существуют, окруженные инеем льда."
+      "translation": "Пол, стены и даже время здесь заморожены,<CR>просто существуют, скованные инеем льда."
     },
     "ebm:mm06/event_message_mm06_300.ebm:2": {
       "source": "pack01_ebm",
@@ -18682,7 +18682,7 @@
       "index": 2,
       "speaker": "System",
       "original": "A lone girl lives in the spacious manor,<CR>but her heart, too, is frozen shut in the ice.",
-      "translation": "В просторном поместье живёт одинокая девушка,<CR>но её сердце тоже замерзло во льду."
+      "translation": "В просторном поместье живёт одинокая девушка,<CR>но её сердце тоже замёрзло во льду."
     },
     "ebm:mm06/event_message_mm06_300.ebm:3": {
       "source": "pack01_ebm",
@@ -18690,7 +18690,7 @@
       "index": 3,
       "speaker": "System",
       "original": "Which would make sense. For she is the one<CR>who created this cold world, just as she wished it to be.",
-      "translation": "Это имело бы смысл. Потому что именно она<CR> создала этот холодный мир таким, каким она хотела его видеть."
+      "translation": "И это понятно. Ведь именно она<CR>создала этот холодный мир таким, каким хотела его видеть."
     },
     "ebm:mm06/event_message_mm06_300.ebm:4": {
       "source": "pack01_ebm",
@@ -18698,7 +18698,7 @@
       "index": 4,
       "speaker": "System",
       "original": "The Frozen Palace, created by a certain girl...<CR>Will a thaw ever come to this icebound land?",
-      "translation": "Ледяной дворец, созданный некой девушкой...<CR>Придет ли когда-нибудь оттепель на эту скованную льдом землю?"
+      "translation": "Замёрзший дворец, созданный некой девушкой...<CR>Придёт ли когда-нибудь оттепель на эту скованную льдом землю?"
     },
     "ebm:mm06/event_message_mm06_310.ebm:0": {
       "source": "pack01_ebm",
@@ -18706,7 +18706,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "This is \"The Frozen Palace\"? The first of the Mysterious Paintings...",
-      "translation": "Это «Ледяной дворец»? Первая из Таинственных картин..."
+      "translation": "Это «Замёрзший дворец»? Первая из Таинственных картин..."
     },
     "ebm:mm06/event_message_mm06_310.ebm:1": {
       "source": "pack01_ebm",
@@ -21570,7 +21570,7 @@
       "index": 12,
       "speaker": "Mireille",
       "original": "I've finally obtained a certain Painting. Its name is \"The Treasury at the Sea Bottom.\"",
-      "translation": "Я наконец получила одну картину. Её название — «Сокровищница на морском дне»."
+      "translation": "Я наконец получила одну картину. Её название — «Сокровищница на дне моря»."
     },
     "ebm:mm07/event_message_mm07_090.ebm:13": {
       "source": "pack01_ebm",
@@ -21634,7 +21634,7 @@
       "index": 0,
       "speaker": "Mireille",
       "original": "You're here! This is the setting for your vacation, \"The Treasury at the Sea Bottom\"!",
-      "translation": "Вы здесь! Вот место вашего отпуска — «Сокровищница на морском дне»!"
+      "translation": "Вы здесь! Вот место вашего отпуска — «Сокровищница на дне моря»!"
     },
     "ebm:mm07/event_message_mm07_100.ebm:1": {
       "source": "pack01_ebm",
@@ -21682,7 +21682,7 @@
       "index": 0,
       "speaker": "???",
       "original": "The ocean, heaving with raging waves.<CR>Above it flutters the black flag of... UGH?!",
-      "translation": "Океан, вздымающийся бушующими волнами.<CR>Над ним развевается чёрный флаг... УХ?!"
+      "translation": "Океан, вздымающийся яростными волнами.<CR>Над ним реет чёрный флаг... Э-Э-Э?!"
     },
     "ebm:mm07/event_message_mm07_110.ebm:1": {
       "source": "pack01_ebm",
@@ -21874,7 +21874,7 @@
       "index": 4,
       "speaker": "System",
       "original": "The so-called Treasury at the Sea Bottom,<CR>where the great pirate treasure supposedly still slumbers...",
-      "translation": "Так называемая Сокровищница на морском дне,<CR>где, говорят, до сих пор дремлет великое пиратское сокровище..."
+      "translation": "Так называемая Сокровищница на дне моря,<CR>где предположительно до сих пор дремлет великое пиратское сокровище..."
     },
     "ebm:mm07/event_message_mm07_150.ebm:0": {
       "source": "pack01_ebm",
@@ -25226,7 +25226,7 @@
       "index": 0,
       "speaker": "System",
       "original": "In reality, time can only move one way.<CR>Like an arrow, it simply shoots forward.",
-      "translation": "На самом деле время может двигаться только в одну сторону.<CR>Как стрела, оно просто летит вперёд."
+      "translation": "На самом деле время может двигаться только в одну сторону.<CR>Как стрела, оно просто устремляется вперёд."
     },
     "ebm:mm08/event_message_mm08_120.ebm:1": {
       "source": "pack01_ebm",
@@ -25234,7 +25234,7 @@
       "index": 1,
       "speaker": "System",
       "original": "But what if a world existed in which that was not the case?<CR>If you could meet your lost past again?",
-      "translation": "Но что, если существовал бы мир, где это не так?<CR>Где вы могли бы снова встретить утраченное прошлое?"
+      "translation": "Но что, если бы существовал мир, в котором это было не так?<CR>Если бы вы могли снова встретиться со своим утраченным прошлым?"
     },
     "ebm:mm08/event_message_mm08_120.ebm:2": {
       "source": "pack01_ebm",
@@ -25242,7 +25242,7 @@
       "index": 2,
       "speaker": "System",
       "original": "Joy, anger, sadness, pleasures.<CR>What time of their life would a traveler seek to encounter again?",
-      "translation": "Радость, гнев, печаль, удовольствия.<CR>Какое время своей жизни захотел бы снова увидеть путник?"
+      "translation": "Радость, гнев, печаль, удовольствия.<CR>Какое время своей жизни путешественник хотел бы пережить снова?"
     },
     "ebm:mm08/event_message_mm08_120.ebm:3": {
       "source": "pack01_ebm",
@@ -25250,7 +25250,7 @@
       "index": 3,
       "speaker": "System",
       "original": "However, one thing must never be forgotten.<CR>The past is gone. And it can never be changed.",
-      "translation": "Однако нельзя забывать об одном.<CR>Прошлое ушло. И его уже не изменить."
+      "translation": "Однако никогда нельзя забывать об одном.<CR>Прошлое ушло. И его никогда не изменить."
     },
     "ebm:mm08/event_message_mm08_120.ebm:4": {
       "source": "pack01_ebm",
@@ -25258,7 +25258,7 @@
       "index": 4,
       "speaker": "System",
       "original": "This fickle depiction of time, \"Etel Nepica\".<CR>When faced with the ghosts of the time past, how will you react?",
-      "translation": "Это непостоянное изображение времени — «Этель Непика».<CR>Столкнувшись с призраками былого, как вы поступите?"
+      "translation": "Это непостоянное изображение времени — «Этель Непика».<CR>Как вы отреагируете, столкнувшись с призраками былых времён?"
     },
     "ebm:mm08/event_message_mm08_130.ebm:0": {
       "source": "pack01_ebm",
@@ -27914,7 +27914,7 @@
       "index": 12,
       "speaker": "System",
       "original": "Becoming rebels, soon they came to rule the Merveille's underworld,<CR>known as the twin leaders of a gang... but that's another story.",
-      "translation": "Став бунтарками, они вскоре стали править преступным миром Мервейля,<CR>известные как лидеры-близнецы банды... но это уже другая история."
+      "translation": "Став бандитками, они вскоре стали править преступным миром Мервейля,<CR>известные как лидеры-близняшки банды... но это уже другая история."
     },
     "ebm:mm09/event_message_mm09_090.ebm:13": {
       "source": "pack01_ebm",
@@ -28386,7 +28386,7 @@
       "index": 3,
       "speaker": "Roger",
       "original": "Yes. It's called \"Heavenly Flower Garden\". I started painting it for Honnete...",
-      "translation": "Да. Она называется «Небесный цветник». Я начал писать её для Оннет..."
+      "translation": "Да. Она называется «Небесный цветочный сад». Я начал писать её для Оннет..."
     },
     "ebm:mm09/event_message_mm09_130.ebm:4": {
       "source": "pack01_ebm",
@@ -28778,7 +28778,7 @@
       "index": 1,
       "speaker": "System",
       "original": "The floating clouds, and the flower fields swaying in the breeze.<CR>All so lovely, and so wonderful.",
-      "translation": "Плывущие облака и цветочные поля, колышущиеся на ветру.<CR>Все так мило и так чудесно."
+      "translation": "Плывущие облака и цветочные поля, колышущиеся на ветру.<CR>Всё так мило и так чудесно."
     },
     "ebm:mm09/event_message_mm09_160.ebm:2": {
       "source": "pack01_ebm",
@@ -28794,7 +28794,7 @@
       "index": 3,
       "speaker": "System",
       "original": "My treasures, the ones capable of filling that hole,<CR>have been gone from my life for too long.",
-      "translation": "Мои сокровища, способные заполнить эту дыру,<CR>слишком давно исчезли из моей жизни."
+      "translation": "Мои сокровища, способные заполнить эту дыру,<CR>слишком надолго исчезли из моей жизни."
     },
     "ebm:mm09/event_message_mm09_160.ebm:4": {
       "source": "pack01_ebm",
@@ -28802,7 +28802,7 @@
       "index": 4,
       "speaker": "System",
       "original": "I will walk these flower fields again today,<CR>hoping to see even a glimpse of them. Hoping for a miracle.",
-      "translation": "Сегодня я снова пройдусь по этим цветочным полям,<CR>надеясь хотя бы мельком их увидеть. Надеясь на чудо."
+      "translation": "Сегодня я снова пройдусь по этим цветочным полям,<CR>надеясь увидеть их хотя бы мельком. Надеясь на чудо."
     },
     "ebm:mm09/event_message_mm09_160.ebm:5": {
       "source": "pack01_ebm",
@@ -28810,7 +28810,7 @@
       "index": 5,
       "speaker": "System",
       "original": "A paradise of clouds and flowers. The \"Heavenly Flower Garden\".<CR>Lydie... Suelle... How are you both?",
-      "translation": "Рай облаков и цветов. «Небесный цветник».<CR>Лидия... Сюэль... Как вы обе?"
+      "translation": "Рай облаков и цветов. «Небесный цветочный сад».<CR>Лидия... Сюэль... Как вы обе?"
     },
     "ebm:mm09/event_message_mm09_170.ebm:0": {
       "source": "pack01_ebm",
@@ -33634,7 +33634,7 @@
       "index": 0,
       "speaker": "System",
       "original": "A countless number of shiny star shards rained down on a vast plain.<CR>They were the blessings from the heavens that gave them life.",
-      "translation": "Бесчисленное множество сверкающих осколков звёзд пролилось на обширную равнину.<CR>Это были благословения небес, давшие им жизнь."
+      "translation": "Бесчисленное множество блестящих осколков звёзд упало на обширную равнину.<CR>Это были благословения небес, давшие им жизнь."
     },
     "ebm:mm10/event_message_mm10_330.ebm:1": {
       "source": "pack01_ebm",
@@ -33642,7 +33642,7 @@
       "index": 1,
       "speaker": "System",
       "original": "The falling stars plow the land, become part of it,<CR>and cover the fields in a myriad of flowers to match the night sky.",
-      "translation": "Падающие звёзды вспахивают землю, становятся её частью<CR>и покрывают поля мириадами цветов под стать ночному небу."
+      "translation": "Падающие звёзды вспахивают землю, становятся её частью<CR>и покрывают поля мириадами цветов, гармонирующих с ночным небом."
     },
     "ebm:mm10/event_message_mm10_330.ebm:2": {
       "source": "pack01_ebm",
@@ -33650,7 +33650,7 @@
       "index": 2,
       "speaker": "System",
       "original": "Every night, the Star Flowers on the ground think of their birthplace above them.",
-      "translation": "Каждую ночь звёздные цветы на земле думают о месте своего рождения вверху."
+      "translation": "Каждую ночь Звёздные цветы<CR>на земле думают о месте своего рождения над ними."
     },
     "ebm:mm10/event_message_mm10_330.ebm:3": {
       "source": "pack01_ebm",
@@ -33658,7 +33658,7 @@
       "index": 3,
       "speaker": "System",
       "original": "They can never go back, but it seems so close, almost reachable,<CR>if only they were to spread their leaves far enough...",
-      "translation": "Они никогда не смогут вернуться, но кажется, что так близко, почти досягаемо,<CR>стоит лишь раскинуть листья достаточно далеко..."
+      "translation": "Они никогда не смогут вернуться, но кажется, что это так близко, почти достижимо,<CR>если бы только они раскинули свои листья достаточно далеко..."
     },
     "ebm:mm10/event_message_mm10_330.ebm:4": {
       "source": "pack01_ebm",
@@ -33666,7 +33666,7 @@
       "index": 4,
       "speaker": "System",
       "original": "In Starlight Plain, both the land and the sky are full of stars,<CR>and their light illuminates the important things within your heart.",
-      "translation": "На Звёздной равнине и земля, и небо полны звёзд,<CR>и их свет освещает то важное, что живёт в вашем сердце."
+      "translation": "На Звёздной равнине и земля, и небо полны звёзд,<CR>и их свет освещает важное в вашем сердце."
     },
     "ebm:mm10/event_message_mm10_340.ebm:0": {
       "source": "pack01_ebm",
@@ -34298,7 +34298,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "Different again from the Heavenly Flower Garden. These worlds are wonderful, aren't they Sue! Ah!",
-      "translation": "Снова не как в Небесном цветнике. Эти миры чудесны, правда, Сью? Ах!"
+      "translation": "Снова не как в Небесном цветочном саду. Эти миры чудесны, правда, Сью? Ах!"
     },
     "ebm:mm10/event_message_mm10_400.ebm:4": {
       "source": "pack01_ebm",
@@ -36362,7 +36362,7 @@
       "index": 0,
       "speaker": "System",
       "original": "Powerful emotions can call on miracles. But, on the opposite side of the coin,<CR>they can also bring out unyielding crookedness.",
-      "translation": "Сильные чувства могут творить чудеса. Но с другой стороны монеты<CR>они способны породить и непреклонную кривизну."
+      "translation": "Сильные чувства способны призывать чудеса.<CR>Но у этой медали есть и обратная сторона:<CR>они также могут породить непреклонную порочность."
     },
     "ebm:mm11/event_message_mm11_160.ebm:1": {
       "source": "pack01_ebm",
@@ -36378,7 +36378,7 @@
       "index": 2,
       "speaker": "System",
       "original": "Even the voice of bitter resentment will eventually dry out,<CR>sinking into nothingness with everything else.",
-      "translation": "Даже голос горькой обиды со временем иссякнет,<CR>канет в небытие вместе со всем остальным."
+      "translation": "Даже голос горькой обиды со временем иссякнет,<CR>канув в небытие вместе со всем остальным."
     },
     "ebm:mm11/event_message_mm11_160.ebm:3": {
       "source": "pack01_ebm",
@@ -36386,7 +36386,7 @@
       "index": 3,
       "speaker": "System",
       "original": "The Black Horizon. This is the conclusion of this Mysterious Painting<CR>of distorted and broken miracles, a world ruled only by black and white.",
-      "translation": "Чёрный горизонт. Таков итог этой Таинственной картины<CR>искажённых и разбитых чудес — мира, где правят лишь чёрное и белое."
+      "translation": "Чёрный горизонт. Это финал этой Таинственной картины<CR>искаженных и сломленных чудес — мира, где правят лишь чёрный и белый цвета."
     },
     "ebm:mm11/event_message_mm11_160.ebm:4": {
       "source": "pack01_ebm",
@@ -43010,7 +43010,7 @@
       "index": 6,
       "speaker": "Honnete",
       "original": "Even becoming increasingly busy,<CR>the twins strive to do their very best work.",
-      "translation": "Даже становясь всё занятее,<CR>близнецы стараются работать как можно лучше."
+      "translation": "Даже становясь всё более занятыми,<CR>близняшки изо всех сил стараются выполнять свою работу как можно лучше"
     },
     "ebm:mm13/event_message_mm13_010.ebm:7": {
       "source": "pack01_ebm",
@@ -43018,7 +43018,7 @@
       "index": 7,
       "speaker": "Honnete",
       "original": "Their mother is gone, but their new promise supports them from within -<CR>they are going to use their alchemy to bring happiness to everyone.",
-      "translation": "Матери больше нет, но новое обещание поддерживает их изнутри —<CR>они будут использовать алхимию, чтобы нести счастье всем."
+      "translation": "Мамы больше нет, но новое обещание поддерживает их изнутри —<CR>они будут использовать алхимию, чтобы нести счастье всем."
     },
     "ebm:mm13/event_message_mm13_010.ebm:8": {
       "source": "pack01_ebm",
@@ -43154,7 +43154,7 @@
       "index": 7,
       "speaker": "Honnete",
       "original": "They will run the best atelier in the world,<CR>and use it to make the world a happier place.",
-      "translation": "Они будут вести лучшее ателье в мире<CR>и с его помощью делать мир счастливее."
+      "translation": "Они будут управлять лучшим ателье в мире<CR>и с его помощью делать мир счастливее."
     },
     "ebm:mm13/event_message_mm13_020.ebm:8": {
       "source": "pack01_ebm",
@@ -43162,7 +43162,7 @@
       "index": 8,
       "speaker": "Honnete",
       "original": "These were their words, on the day when the twins finally left their nest.<CR>What kind of story will they paint in the wide-wide world outside?...",
-      "translation": "Так они сказали в тот день, когда близнецы наконец покинули гнездо.<CR>Какую историю они нарисуют в огромном внешнем мире?..."
+      "translation": "Так они сказали в тот день, когда наконец покинули гнездо.<CR>Какую историю они нарисуют в огромном внешнем мире?.."
     },
     "ebm:mm13/event_message_mm13_020.ebm:9": {
       "source": "pack01_ebm",
@@ -43298,7 +43298,7 @@
       "index": 2,
       "speaker": "Honnete",
       "original": "And, with Suelle's newly discovered talent for business,<CR>their enterprise will only continue to grow.",
-      "translation": "А благодаря только что открывшемуся у Сюэль таланту к бизнесу,<CR>их дело будет лишь расти."
+      "translation": "И, благодаря новооткрытой деловой хватке Суэль,<CR>их предприятие будет только процветать."
     },
     "ebm:mm13/event_message_mm13_030.ebm:3": {
       "source": "pack01_ebm",
@@ -43306,7 +43306,7 @@
       "index": 3,
       "speaker": "Honnete",
       "original": "Today again, many clients are gathering<CR>to wait for the opening time of their new grand atelier.",
-      "translation": "И сегодня снова множество клиентов собирается,<CR>ожидая открытия их нового гранд-ателье."
+      "translation": "И сегодня снова множество клиентов собирается,<CR>ожидая открытия их нового величайшего ателье"
     },
     "ebm:mm13/event_message_mm13_030.ebm:4": {
       "source": "pack01_ebm",
@@ -43434,7 +43434,7 @@
       "index": 2,
       "speaker": "Honnete",
       "original": "With the help from their father, Roger, eventually<CR>they really managed to create the first Mysterious Painting of their own.",
-      "translation": "С помощью отца, Роджера, в конце концов<CR>им действительно удалось создать первую собственную Таинственную картину."
+      "translation": "С помощью отца, Роджера, в конце концов им действительно удалось<CR>создать первую собственную Таинственную картину."
     },
     "ebm:mm13/event_message_mm13_040.ebm:3": {
       "source": "pack01_ebm",
@@ -43442,7 +43442,7 @@
       "index": 3,
       "speaker": "Honnete",
       "original": "Very soon, the whole world was buzzing with their names,<CR>and the twins became known everywhere as the \"Mysterious Painters.\"",
-      "translation": "Очень скоро весь мир загудел от их имён,<CR>и близнецы повсюду стали известны как «Таинственные художницы»."
+      "translation": "Очень скоро весь мир загудел от их имён,<CR>и близняшки повсюду стали известны как «Таинственные художницы»."
     },
     "ebm:mm13/event_message_mm13_040.ebm:4": {
       "source": "pack01_ebm",
@@ -43946,7 +43946,7 @@
       "index": 48,
       "speaker": "Sue",
       "original": "Right, Lydie!",
-      "translation": "Точно, Лидия!"
+      "translation": "Точно, Лиди!"
     },
     "ebm:mm13/event_message_mm13_050.ebm:49": {
       "source": "pack01_ebm",
@@ -45226,7 +45226,7 @@
       "index": 0,
       "speaker": "System",
       "original": "This is a world created by a certain Goddess.<CR>As if painted by the final moments of the setting sun,<CR>this world is covered in darkness and crimson.",
-      "translation": "Это мир, созданный некой богиней.<CR>Словно написанный последними мгновениями заходящего солнца,<CR>этот мир покрыт тьмой и багрянцем."
+      "translation": "Это мир, созданный некой Богиней.<CR>Словно нарисованный последними мгновениями заходящего солнца,<CR>этот мир покрыт тьмой и багрянцем."
     },
     "ebm:ms02/event_message_ms02_040.ebm:1": {
       "source": "pack01_ebm",
@@ -45234,7 +45234,7 @@
       "index": 1,
       "speaker": "System",
       "original": "This is a world forged by a certain Goddess.<CR>A world of controversy, which rejects all intruders while craving for their company.",
-      "translation": "Это мир, выкованный некой богиней.<CR>Мир противоречий, отвергающий всех чужаков и в то же время жаждущий их компании."
+      "translation": "Это мир, выкованный некой Богиней.<CR>Мир противоречий, отвергающий всех пришельцев<CR>и в то же время жаждущий их общества."
     },
     "ebm:ms02/event_message_ms02_040.ebm:2": {
       "source": "pack01_ebm",
@@ -45242,7 +45242,7 @@
       "index": 2,
       "speaker": "System",
       "original": "A holder of superfluous power,<CR>She wished to be surrounded by solitude, because of that power.",
-      "translation": "Обладательница чрезмерной силы,<CR>Она желала окружить себя одиночеством из-за этой силы."
+      "translation": "Обладательница избыточной силы,<CR>Она желала быть окружённой одиночеством из-за этой силы."
     },
     "ebm:ms02/event_message_ms02_040.ebm:3": {
       "source": "pack01_ebm",
@@ -45250,7 +45250,7 @@
       "index": 3,
       "speaker": "System",
       "original": "And yet, that solitude She had wished for,<CR>is now the very thing that suffocates her.",
-      "translation": "И всё же то одиночество, которого Она желала,<CR>теперь само душит её."
+      "translation": "И всё же то одиночество, которого Она желала,<CR>теперь именно то, что душит её."
     },
     "ebm:ms02/event_message_ms02_040.ebm:4": {
       "source": "pack01_ebm",
@@ -45258,7 +45258,7 @@
       "index": 4,
       "speaker": "System",
       "original": "The Domain of Despair rejects any connections to the outside world,<CR>to protect the heart of its Crimson Goddess...",
-      "translation": "Владения Отчаяния отвергают любые связи с внешним миром,<CR>чтобы защитить сердце своей Багровой богини..."
+      "translation": "Владения отчаяния отвергают любые связи с внешним миром,<CR>чтобы защитить сердце своей Багровой Богини..."
     },
     "ebm:ms02/event_message_ms02_050.ebm:0": {
       "source": "pack01_ebm",
@@ -79978,7 +79978,7 @@
       "index": 3,
       "speaker": "Honnete",
       "original": "Ah, and the Treasury at the Sea Bottom, too! I chatted with the Captain, he was most amusing.",
-      "translation": "А, и Сокровищница на морском дне! Болтала с капитаном — он очень забавный."
+      "translation": "А, и Сокровищница на дне моря! Болтала с капитаном — он очень забавный."
     },
     "ebm:qc08_hon/event_message_qc08_hon_030.ebm:4": {
       "source": "pack01_ebm",
@@ -103138,7 +103138,7 @@
       "index": 2,
       "speaker": "System",
       "original": "Looking around, those gnarly trees are all you can see.<CR>All who visit this place are bound to feel the same breath of fear.",
-      "translation": "Оглянувшись вокруг, вы видите лишь эти корявые деревья.<CR>Все, кто посещает это место, ощущают одно и то же дыхание страха."
+      "translation": "Оглянувшись вокруг, вы видите лишь эти корявые деревья.<CR>Все, кто посещает это место, ощущают одно и то же — дыхание страха."
     },
     "ebm:xf06/event_message_xf06_010.ebm:3": {
       "source": "pack01_ebm",
@@ -103146,7 +103146,7 @@
       "index": 3,
       "speaker": "System",
       "original": "And with good reason. For this place is the intersection<CR>between the world of living and the spectral plain.",
-      "translation": "И не без причины. Ибо это место — пересечение<CR>мира живых и призрачной равнины."
+      "translation": "И не без причины. Ведь это место — перекресток<CR>между миром живых и миром призраков."
     },
     "ebm:xf06/event_message_xf06_010.ebm:4": {
       "source": "pack01_ebm",
@@ -103170,7 +103170,7 @@
       "index": 1,
       "speaker": "System",
       "original": "The passage of time has polished the ice walls clear,<CR>unleashing relentless glimmer.",
-      "translation": "С течением времени ледяные стены отполировались до прозрачности,<CR>испуская неумолимое мерцание."
+      "translation": "Ход времени отполировал ледяные стены до прозрачности,<CR>и теперь они источают непрерывное сияние."
     },
     "ebm:xf06/event_message_xf06_020.ebm:2": {
       "source": "pack01_ebm",
@@ -103178,7 +103178,7 @@
       "index": 2,
       "speaker": "System",
       "original": "They almost look like a glossy mirror.<CR>However, you'll have no time to stop and admire your reflection.",
-      "translation": "Они почти похожи на глянцевое зеркало.<CR>Однако у вас не будет времени остановиться и полюбоваться своим отражением."
+      "translation": "Они похожи на глянцевое зеркало.<CR>Однако у вас не будет времени остановиться и полюбоваться своим отражением."
     },
     "ebm:xf06/event_message_xf06_020.ebm:3": {
       "source": "pack01_ebm",
@@ -103202,7 +103202,7 @@
       "index": 0,
       "speaker": "System",
       "original": "With a grating roar, there pours forth a rain of vivid red.",
-      "translation": "С резким рёвом льётся дождь ярко-красного цвета."
+      "translation": "Со скрежещущим рёвом изливается ливень ярко-красного цвета."
     },
     "ebm:xf06/event_message_xf06_030.ebm:1": {
       "source": "pack01_ebm",
@@ -103402,7 +103402,7 @@
       "index": 5,
       "speaker": "System",
       "original": "A paradise of clouds and flowers. The \"Heavenly Flower Garden\".<CR>Lydie... Suelle... How are you both?",
-      "translation": "Рай облаков и цветов. «Небесный цветочный сад».<CR>Лиди... Сюэль... Как вы обе?"
+      "translation": "Рай облаков и цветов. «Небесный цветочный сад».<CR>Лидия... Сюэль... Как вы обе?"
     },
     "ebm:xf06/event_message_xf06_080.ebm:0": {
       "source": "pack01_ebm",
@@ -103426,7 +103426,7 @@
       "index": 2,
       "speaker": "System",
       "original": "Every night, the Star Flowers on the ground think of their birthplace above them.",
-      "translation": "Каждую ночь Звёздные цветы на земле думают о месте своего рождения над ними."
+      "translation": "Каждую ночь Звёздные цветы<CR>на земле думают о месте своего рождения над ними."
     },
     "ebm:xf06/event_message_xf06_080.ebm:3": {
       "source": "pack01_ebm",
@@ -103450,7 +103450,7 @@
       "index": 0,
       "speaker": "System",
       "original": "Powerful emotions can call on miracles. But, on the opposite side of the coin,<CR>they can also bring out unyielding crookedness.",
-      "translation": "Сильные эмоции могут творить чудеса. Но, с другой стороны,<CR>они также могут породить непреклонную кривизну."
+      "translation": "Сильные чувства способны призывать чудеса.<CR>Но у этой медали есть и обратная сторона:<CR>они также могут породить непреклонную порочность."
     },
     "ebm:xf06/event_message_xf06_090.ebm:1": {
       "source": "pack01_ebm",
@@ -103474,7 +103474,7 @@
       "index": 3,
       "speaker": "System",
       "original": "The Black Horizon. This is the conclusion of this Mysterious Painting<CR>of distorted and broken miracles, a world ruled only by black and white.",
-      "translation": "Чёрный горизонт. Таков итог этой Таинственной картины<CR>искажённых и разбитых чудес — мира, где правят лишь чёрное и белое."
+      "translation": "Чёрный горизонт. Это финал этой Таинственной картины<CR>искаженных и сломленных чудес — мира, где правят лишь чёрный и белый цвета."
     },
     "ebm:xf06/event_message_xf06_090.ebm:4": {
       "source": "pack01_ebm",
@@ -103482,7 +103482,7 @@
       "index": 4,
       "speaker": "System",
       "original": "Lydie, Suelle... Please, be careful.",
-      "translation": "Лиди, Сюэль... Пожалуйста, будьте осторожны."
+      "translation": "Лидия, Сюэль... Пожалуйста, будьте осторожны."
     },
     "ebm:xf06/event_message_xf06_100.ebm:0": {
       "source": "pack01_ebm",
@@ -103498,7 +103498,7 @@
       "index": 1,
       "speaker": "System",
       "original": "This is a world forged by a certain Goddess.<CR>A world of controversy, which rejects all intruders while craving for their company.",
-      "translation": "Это мир, выкованный некой Богиней.<CR>Мир противоречий, отвергающий всех пришельцев и в то же время жаждущий их общества."
+      "translation": "Это мир, выкованный некой Богиней.<CR>Мир противоречий, отвергающий всех пришельцев<CR>и в то же время жаждущий их общества."
     },
     "ebm:xf06/event_message_xf06_100.ebm:2": {
       "source": "pack01_ebm",
@@ -103930,7 +103930,7 @@
       "index": 0,
       "speaker": "System",
       "original": "A new area, <CLGR>\"Nightless Ruined City\"<CLNR>, has been unlocked! It can be accessed from the Painting Map.",
-      "translation": "Разблокирована новая область <CLGR>«Разрушенный город без ночи»<CLNR>! Доступ к ней открыт с карты картин."
+      "translation": "Разблокирована новая область <CLGR>«Руины города без ночи»<CLNR>! Доступ к ней открыт с карты картин."
     },
     "ebm:xx04/event_message_xx04_080.ebm:0": {
       "source": "pack01_ebm",
@@ -103962,7 +103962,7 @@
       "index": 0,
       "speaker": "System",
       "original": "A new area, <CLGR>\"Blue Sentiment Land\"<CLNR>, has been unlocked! It can be accessed from the Painting Map.",
-      "translation": "Разблокирована новая область <CLGR>«Земля синих чувств»<CLNR>! Доступ к ней открыт с карты картин."
+      "translation": "Разблокирована новая область <CLGR>«Земля синей меланхолии»<CLNR>! Доступ к ней открыт с карты картин."
     },
     "ebm:xx04/event_message_xx04_120.ebm:0": {
       "source": "pack01_ebm",
@@ -109674,7 +109674,7 @@
       "index": 5,
       "speaker": "Girl in Love",
       "original": "A town rooted in a new land. A symbol of the diligence of its people.",
-      "translation": "Город, укоренённый в новой земле. Символ трудолюбия своего народа."
+      "translation": "Город, укоренённый в новой земле.<CR>Символ трудолюбия своего народа."
     },
     "ebm:yy01/event_message_yy01_050.ebm:6": {
       "source": "pack01_ebm",
@@ -109682,7 +109682,7 @@
       "index": 6,
       "speaker": "Girl in Love",
       "original": "The seed sprouts, with the promise of future bloom. This world grows with the water of new meetings.",
-      "translation": "Семя прорастает, обещая будущее цветение. Этот мир растёт водой новых встреч."
+      "translation": "Семя прорастает, обещая будущее цветение.<CR>Этот мир растёт водой новых встреч."
     },
     "ebm:yy01/event_message_yy01_050.ebm:7": {
       "source": "pack01_ebm",
@@ -109690,7 +109690,7 @@
       "index": 7,
       "speaker": "Girl in Love",
       "original": "Born from a miraculous encounter, this land extends its branches to tell a new story.",
-      "translation": "Рождённая чудесной встречей, эта земля простирает ветви, чтобы рассказать новую историю."
+      "translation": "Рождённая чудесной встречей, эта земля<CR>простирает ветви, чтобы рассказать новую историю."
     },
     "ebm:yy01/event_message_yy01_050.ebm:8": {
       "source": "pack01_ebm",
@@ -109698,7 +109698,7 @@
       "index": 8,
       "speaker": "Girl in Love",
       "original": "Gaining strength from the legacy of the wise men of yore, and hoping for new meetings...",
-      "translation": "Черпая силу из наследия мудрецов былых времён и надеясь на новые встречи..."
+      "translation": "Черпая силу из наследия мудрецов былых времён<CR>и надеясь на новые встречи..."
     },
     "ebm:yy01/event_message_yy01_050.ebm:9": {
       "source": "pack01_ebm",
@@ -109706,7 +109706,7 @@
       "index": 9,
       "speaker": "Girl in Love",
       "original": "The \"Land of Rich Encounters\"... Does its mighty tree house hope, or something else...?",
-      "translation": "«Земля богатых встреч»... Хранит ли её могучее древо надежду — или что-то иное...?"
+      "translation": "«Земля судьбоносных встреч»...<CR>Хранит ли её могучее древо надежду — или что-то иное...?"
     },
     "ebm:yy01/event_message_yy01_050.ebm:10": {
       "source": "pack01_ebm",
@@ -144513,7 +144513,7 @@
       "file": "str_fm_info.xml",
       "string_no": "917571",
       "original": "Starlight Plain Battle",
-      "translation": "Звездная битва на равнине"
+      "translation": "Битва на Звёздной равнине"
     },
     "pack02:917572": {
       "source": "pack02_text_en",
@@ -144534,14 +144534,14 @@
       "file": "str_fm_info.xml",
       "string_no": "917574",
       "original": "Treasury at the Sea Bottom Battle",
-      "translation": "Сокровищница в битве на морском дне"
+      "translation": "Битва в Сокровищнице на дне моря"
     },
     "pack02:917575": {
       "source": "pack02_text_en",
       "file": "str_fm_info.xml",
       "string_no": "917575",
       "original": "Frozen Palace Battle",
-      "translation": "Битва за Ледяным Дворцом"
+      "translation": "Битва в Замёрзшем дворце"
     },
     "pack02:917576": {
       "source": "pack02_text_en",
@@ -144562,7 +144562,7 @@
       "file": "str_fm_info.xml",
       "string_no": "917578",
       "original": "Domain of Despair Battle",
-      "translation": "Битва Доменов Отчаяния"
+      "translation": "Битва во Владениях отчаяния"
     },
     "pack02:917579": {
       "source": "pack02_text_en",
@@ -144604,21 +144604,21 @@
       "file": "str_fm_info.xml",
       "string_no": "917584",
       "original": "The Treasury at the Sea Bottom (Underwater)",
-      "translation": "Сокровищница на морском дне (под водой)"
+      "translation": "Сокровищница на дне моря (под водой)"
     },
     "pack02:917585": {
       "source": "pack02_text_en",
       "file": "str_fm_info.xml",
       "string_no": "917585",
       "original": "Atelier (Heavenly Flower Garden)",
-      "translation": "Ателье (Небесный Цветник)"
+      "translation": "Ателье (Небесный цветочный сад)"
     },
     "pack02:917586": {
       "source": "pack02_text_en",
       "file": "str_fm_info.xml",
       "string_no": "917586",
       "original": "Basement (Heavenly Flower Garden)",
-      "translation": "Подвал (Небесный цветник)"
+      "translation": "Подвал (Небесный цветочный сад)"
     },
     "pack02:917587": {
       "source": "pack02_text_en",
@@ -144786,7 +144786,7 @@
       "file": "str_fm_info.xml",
       "string_no": "917618",
       "original": "Nightless Ruined City",
-      "translation": "Разрушенный город без ночи"
+      "translation": "Руины города без ночи"
     },
     "pack02:917619": {
       "source": "pack02_text_en",
@@ -144828,7 +144828,7 @@
       "file": "str_fm_info.xml",
       "string_no": "917624",
       "original": "Blue Sentiment Land",
-      "translation": "Земля синих чувств"
+      "translation": "Земля синей меланхолии"
     },
     "pack02:917625": {
       "source": "pack02_text_en",
@@ -144856,7 +144856,7 @@
       "file": "str_fm_info.xml",
       "string_no": "917628",
       "original": "Land of Rich Encounters",
-      "translation": "Земля богатых встреч"
+      "translation": "Земля судьбоносных встреч"
     },
     "pack02:55771137": {
       "source": "pack02_text_en",
@@ -186786,7 +186786,7 @@
       "file": "str_library_map.xml",
       "string_no": "3735570",
       "original": "Nightless Ruined City",
-      "translation": "Разрушенный город без ночи"
+      "translation": "Руины города без ночи"
     },
     "pack02:3735571": {
       "source": "pack02_text_en",
@@ -186800,7 +186800,7 @@
       "file": "str_library_map.xml",
       "string_no": "3735572",
       "original": "Blue Sentiment Land",
-      "translation": "Земля синих чувств"
+      "translation": "Земля синей меланхолии"
     },
     "pack02:3735573": {
       "source": "pack02_text_en",
@@ -186933,7 +186933,7 @@
       "file": "str_library_map.xml",
       "string_no": "3735591",
       "original": "“Nightless...? So night never falls...? But it's so dark... How does that work...? Oh...”^00“You mustn't overthink the logic of the worlds inside paintings!”",
-      "translation": "«Безночный...? То есть ночь никогда не наступает...? Но так темно... Как это работает...? Ох...»^00«Не стоит слишком вдумываться в логику миров внутри картин!»"
+      "translation": "«Без ночи...? То есть ночь никогда не наступает...? Но так темно... Как это работает...? Ох...»^00«Не стоит слишком вдумываться в логику миров внутри картин!»"
     },
     "pack02:3735592": {
       "source": "pack02_text_en",
@@ -187108,7 +187108,7 @@
       "file": "str_library_map.xml",
       "string_no": "3735616",
       "original": "Land of Rich Encounters",
-      "translation": "Земля богатых встреч"
+      "translation": "Земля судьбоносных встреч"
     },
     "pack02:3735617": {
       "source": "pack02_text_en",
@@ -188522,14 +188522,14 @@
       "file": "str_map_item_name.xml",
       "string_no": "1114185",
       "original": "Nightless Ruined City",
-      "translation": "Разрушенный город без ночи"
+      "translation": "Руины города без ночи"
     },
     "pack02:1114186": {
       "source": "pack02_text_en",
       "file": "str_map_item_name.xml",
       "string_no": "1114186",
       "original": "Blue Sentiment Land",
-      "translation": "Земля синих чувств"
+      "translation": "Земля синей меланхолии"
     },
     "pack02:1114187": {
       "source": "pack02_text_en",
@@ -188543,7 +188543,7 @@
       "file": "str_map_item_name.xml",
       "string_no": "1114188",
       "original": "Land of Rich Encounters",
-      "translation": "Земля богатых встреч"
+      "translation": "Земля судьбоносных встреч"
     },
     "pack02:1114193": {
       "source": "pack02_text_en",
@@ -210040,7 +210040,7 @@
       "file": "str_recipe_idea_text.xml",
       "string_no": "2359372",
       "original": "[Field Support]&lt;CR&gt;A staff capable of recreating The Frozen Palace?&lt;CR&gt;",
-      "translation": "[Полевая поддержка]&lt;CR&gt;Сотрудник, способный воссоздать Ледяной дворец?&lt;CR&gt;"
+      "translation": "[Полевая поддержка]&lt;CR&gt;Сотрудник, способный воссоздать Замёрзший дворец?&lt;CR&gt;"
     },
     "pack02:2359373": {
       "source": "pack02_text_en",
@@ -210061,7 +210061,7 @@
       "file": "str_recipe_idea_text.xml",
       "string_no": "2359375",
       "original": "[Field Support]&lt;CR&gt;An atomizer capable of recreating the Starlight Plain?&lt;CR&gt;",
-      "translation": "[Полевая поддержка]&lt;CR&gt;Атомайзер, способный воссоздать Равнину Звездного света?&lt;CR&gt;"
+      "translation": "[Полевая поддержка]&lt;CR&gt;Атомайзер, способный воссоздать Звёздную равнину?&lt;CR&gt;"
     },
     "pack02:2359376": {
       "source": "pack02_text_en",
@@ -212812,7 +212812,7 @@
       "file": "str_summary_chara_checkbox.xml",
       "string_no": "6488176",
       "original": "&lt;CLGR&gt;- We need to defeat the monsters at “Farm Outside Town” ^00in “The Land of Profound Encounters”.&lt;CLNR&gt;^00　↑Pesky monsters should just get kicked by Puni and disappear!^00　　　　　　　　　　　　　　　　[Sue]^00　↑They're going to lose to Puni…^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "&lt;CLGR&gt;- Нужно победить монстров на «Ферме за городом» в «Земле богатых встреч».&lt;CLNR&gt;^00　↑Надоедливых монстров пусть пуни просто пнёт — и пусть пропадают!^00　　　　　　　　　　　　　　　[Сью]^00　↑Они проиграют пуни…^00　　　　　　　　　　　　　　[Лиди]"
+      "translation": "&lt;CLGR&gt;- Нужно победить монстров на «Ферме за городом» в «Земле судьбоносных встреч».&lt;CLNR&gt;^00　↑Надоедливых монстров пусть пуни просто пнёт — и пусть пропадают!^00　　　　　　　　　　　　　　　[Сью]^00　↑Они проиграют пуни…^00　　　　　　　　　　　　　　[Лиди]"
     },
     "pack02:6488177": {
       "source": "pack02_text_en",
@@ -213820,42 +213820,42 @@
       "file": "str_summary_chara_title.xml",
       "string_no": "6291524",
       "original": "Rich Encounters 1",
-      "translation": "Богатые встречи 1"
+      "translation": "Судьбоносные встречи 1"
     },
     "pack02:6291525": {
       "source": "pack02_text_en",
       "file": "str_summary_chara_title.xml",
       "string_no": "6291525",
       "original": "Rich Encounters 2",
-      "translation": "Богатые встречи 2"
+      "translation": "Судьбоносные встречи 2"
     },
     "pack02:6291526": {
       "source": "pack02_text_en",
       "file": "str_summary_chara_title.xml",
       "string_no": "6291526",
       "original": "Rich Encounters 3",
-      "translation": "Богатые встречи 3"
+      "translation": "Судьбоносные встречи 3"
     },
     "pack02:6291527": {
       "source": "pack02_text_en",
       "file": "str_summary_chara_title.xml",
       "string_no": "6291527",
       "original": "Rich Encounters 4",
-      "translation": "Богатые встречи 4"
+      "translation": "Судьбоносные встречи 4"
     },
     "pack02:6291528": {
       "source": "pack02_text_en",
       "file": "str_summary_chara_title.xml",
       "string_no": "6291528",
       "original": "Rich Encounters 5",
-      "translation": "Богатые встречи 5"
+      "translation": "Судьбоносные встречи 5"
     },
     "pack02:6291529": {
       "source": "pack02_text_en",
       "file": "str_summary_chara_title.xml",
       "string_no": "6291529",
       "original": "Rich Encounters 6",
-      "translation": "Богатые встречи 6"
+      "translation": "Судьбоносные встречи 6"
     },
     "pack02:6422529": {
       "source": "pack02_text_en",
@@ -217047,7 +217047,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6226034",
       "original": "The glamorous lady pirate Lydie! Hehe... I’ve entered the service of the Captain who was in the Treasury at the Sea Bottom. What’s more, he's left all the remaining treasures to us! This is so exciting! Let’s check all the treasure vaults!^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Очаровательная пиратка Лиди! Хе-хе... Я поступил на службу к капитану, который находился в Сокровищнице на Морском Дне. Более того, все оставшиеся сокровища он оставил нам! Это так увлекательно! Давайте проверим все сокровищницы!^00　　　　　　　　　　　　　　　[Лиди]"
+      "translation": "Очаровательная пиратка Лиди! Хе-хе... Я поступил на службу к капитану, который находился в Сокровищнице на дне моря. Более того, все оставшиеся сокровища он оставил нам! Это так увлекательно! Давайте проверим все сокровищницы!^00　　　　　　　　　　　　　　　[Лиди]"
     },
     "pack02:6226035": {
       "source": "pack02_text_en",
@@ -217222,7 +217222,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6226059",
       "original": "Dad has restored the “Heavenly Flower Garden.” Somewhere inside the world of this painting is our Mom...! Let’s work together and find her!^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Папа восстановил «Райский цветник». Где-то внутри мира этой картины находится наша Мама...! Давайте работать вместе и найти ее!^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Папа восстановил «Небесный цветочный сад». Где-то внутри мира этой картины находится наша Мама...! Давайте работать вместе и найти ее!^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6226060": {
       "source": "pack02_text_en",
@@ -217341,14 +217341,14 @@
       "file": "str_summary_text.xml",
       "string_no": "6226076",
       "original": "Restore the “Starlight Plain.”^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Восстановите «Равнину Звездного Света».^00　　　　　　　　　　　　　　　[Лиди]"
+      "translation": "Восстановите «Звёздную равнину».^00　　　　　　　　　　　　　　　[Лиди]"
     },
     "pack02:6226077": {
       "source": "pack02_text_en",
       "file": "str_summary_text.xml",
       "string_no": "6226077",
       "original": "Go deeper into the world of the “Starlight Plain.”^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Погрузитесь глубже в мир «Звездной равнины».^00　　　　　　　　　　　　　　　[Лиди]"
+      "translation": "Погрузитесь глубже в мир «Звёздной равнины».^00　　　　　　　　　　　　　　　[Лиди]"
     },
     "pack02:6226078": {
       "source": "pack02_text_en",
@@ -218188,56 +218188,56 @@
       "file": "str_summary_title.xml",
       "string_no": "6160478",
       "original": "In the Frozen Palace 1",
-      "translation": "В Ледяном Дворце 1"
+      "translation": "В Замёрзшем дворце 1"
     },
     "pack02:6160479": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160479",
       "original": "In the Frozen Palace 2",
-      "translation": "В Ледяном Дворце 2"
+      "translation": "В Замёрзшем дворце 2"
     },
     "pack02:6160480": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160480",
       "original": "In the Frozen Palace 3",
-      "translation": "В Ледяном Дворце 3"
+      "translation": "В Замёрзшем дворце 3"
     },
     "pack02:6160481": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160481",
       "original": "In the Frozen Palace 4",
-      "translation": "В Ледяном Дворце 4"
+      "translation": "В Замёрзшем дворце 4"
     },
     "pack02:6160482": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160482",
       "original": "In the Frozen Palace 5",
-      "translation": "В Ледяном Дворце 5"
+      "translation": "В Замёрзшем дворце 5"
     },
     "pack02:6160483": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160483",
       "original": "In the Frozen Palace 6",
-      "translation": "В Ледяном Дворце 6"
+      "translation": "В Замёрзшем дворце 6"
     },
     "pack02:6160484": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160484",
       "original": "In the Frozen Palace 7",
-      "translation": "В Ледяном Дворце 7"
+      "translation": "В Замёрзшем дворце 7"
     },
     "pack02:6160485": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160485",
       "original": "In the Frozen Palace 8",
-      "translation": "В Ледяном Дворце 8"
+      "translation": "В Замёрзшем дворце 8"
     },
     "pack02:6160486": {
       "source": "pack02_text_en",
@@ -218503,7 +218503,7 @@
       "file": "str_summary_title.xml",
       "string_no": "6160523",
       "original": "In the Heavenly Flower Garden 1",
-      "translation": "В райском цветнике 1"
+      "translation": "В Небесном цветочном саду 1"
     },
     "pack02:6160524": {
       "source": "pack02_text_en",
@@ -218622,56 +218622,56 @@
       "file": "str_summary_title.xml",
       "string_no": "6160540",
       "original": "In the Starlight Plain 1",
-      "translation": "На равнине звездного света 1"
+      "translation": "На Звёздной равнине 1"
     },
     "pack02:6160541": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160541",
       "original": "In the Starlight Plain 2",
-      "translation": "На равнине звездного света 2"
+      "translation": "На Звёздной равнине 2"
     },
     "pack02:6160542": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160542",
       "original": "In the Starlight Plain 3",
-      "translation": "На равнине звездного света 3"
+      "translation": "На Звёздной равнине 3"
     },
     "pack02:6160543": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160543",
       "original": "In the Starlight Plain 4",
-      "translation": "На равнине звездного света 4"
+      "translation": "На Звёздной равнине 4"
     },
     "pack02:6160544": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160544",
       "original": "In the Starlight Plain 5",
-      "translation": "На равнине звездного света 5"
+      "translation": "На Звёздной равнине 5"
     },
     "pack02:6160545": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160545",
       "original": "In the Starlight Plain 6",
-      "translation": "На равнине звездного света 6"
+      "translation": "На Звёздной равнине 6"
     },
     "pack02:6160546": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160546",
       "original": "In the Starlight Plain 7",
-      "translation": "На равнине звездного света 7"
+      "translation": "На Звёздной равнине 7"
     },
     "pack02:6160547": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160547",
       "original": "In the Starlight Plain 8",
-      "translation": "На Равнине Звездного Света 8"
+      "translation": "На Звёздной равнине 8"
     },
     "pack02:6160548": {
       "source": "pack02_text_en",

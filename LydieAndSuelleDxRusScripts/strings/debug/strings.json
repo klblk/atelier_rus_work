@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-31T16:25:07.147901+00:00",
+  "generated_at": "2026-08-31T16:40:05.347789+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -7162,7 +7162,7 @@
       "index": 0,
       "speaker": "System",
       "original": "Whispering voices mutter rumors from amid the trees.",
-      "translation": "Шёпот и невнятный ропот доносятся из-за деревьев."
+      "translation": "Шепчущие голоса разносят слухи из-за деревьев."
     },
     "ebm:mm03/event_message_mm03_230.ebm:1": {
       "source": "pack01_ebm",
@@ -7170,7 +7170,7 @@
       "index": 1,
       "speaker": "System",
       "original": "From the glooming darkness, you sense the eyes of someone,<CR>something... watching you.",
-      "translation": "Из непроглядной тьмы вы чувствуете чей-то взгляд...Кто-то или что-то... пристально следит за вами."
+      "translation": "Из мрачной тьмы вы чувствуете чей-то взгляд,<CR>что-то... наблюдающее за вами."
     },
     "ebm:mm03/event_message_mm03_230.ebm:2": {
       "source": "pack01_ebm",
@@ -7178,7 +7178,7 @@
       "index": 2,
       "speaker": "System",
       "original": "Looking around, those gnarly trees are all you can see.<CR>All who visit this place are bound to feel the same breath of fear.",
-      "translation": "Куда ни посмотри, вокруг лишь искривлённые зловещие деревья.<CR>Каждый, кто приходит сюда, неизбежно ощущает леденящее дыхание страха."
+      "translation": "Оглянувшись вокруг, вы видите лишь эти корявые деревья.<CR>Все, кто посещает это место, ощущают одно и то же — дыхание страха."
     },
     "ebm:mm03/event_message_mm03_230.ebm:3": {
       "source": "pack01_ebm",
@@ -7186,7 +7186,7 @@
       "index": 3,
       "speaker": "System",
       "original": "And with good reason. For this place is the intersection<CR>between the world of living and the spectral plain.",
-      "translation": "И не без причины. Ведь это место — самый стык<CR>между миром живых и призрачной обителью."
+      "translation": "И не без причины. Ведь это место — перекресток<CR>между миром живых и миром призраков."
     },
     "ebm:mm03/event_message_mm03_230.ebm:4": {
       "source": "pack01_ebm",
@@ -7194,7 +7194,7 @@
       "index": 4,
       "speaker": "System",
       "original": "This is the Spooky Forest.<CR>Beware of the tricks that might be played on you here...",
-      "translation": "Вы вошли в Жуткий Лес.<CR>Берегитесь коварных иллюзий, что поджидают вас здесь..."
+      "translation": "Это Жуткий лес.<CR>Остерегайтесь шуток, которые могут сыграть с вами здесь..."
     },
     "ebm:mm03/event_message_mm03_240.ebm:0": {
       "source": "pack01_ebm",
@@ -11090,7 +11090,7 @@
       "index": 0,
       "speaker": "System",
       "original": "A tranquil and cold grotto of eternal winter.<CR>Here bloom the ice flowers of crystals.",
-      "translation": "Спокойный и холодный грот вечной зимы.<CR>Здесь цветут ледяные цветы кристаллов."
+      "translation": "Спокойный и холодный грот вечной зимы.<CR>Здесь цветут ледяные цветы из кристаллов."
     },
     "ebm:mm04/event_message_mm04_220.ebm:1": {
       "source": "pack01_ebm",
@@ -11098,7 +11098,7 @@
       "index": 1,
       "speaker": "System",
       "original": "The passage of time has polished the ice walls clear,<CR>unleashing relentless glimmer.",
-      "translation": "С течением времени ледяные стены отполировались до чистоты, <CR>высвобождая неумолимое мерцание."
+      "translation": "Ход времени отполировал ледяные стены до прозрачности,<CR>и теперь они источают непрерывное сияние."
     },
     "ebm:mm04/event_message_mm04_220.ebm:2": {
       "source": "pack01_ebm",
@@ -11106,7 +11106,7 @@
       "index": 2,
       "speaker": "System",
       "original": "They almost look like a glossy mirror.<CR>However, you'll have no time to stop and admire your reflection.",
-      "translation": "Они почти похожи на глянцевое зеркало.<CR>Однако у вас не будет времени остановиться и полюбоваться своим отражением."
+      "translation": "Они похожи на глянцевое зеркало.<CR>Однако у вас не будет времени остановиться и полюбоваться своим отражением."
     },
     "ebm:mm04/event_message_mm04_220.ebm:3": {
       "source": "pack01_ebm",
@@ -11114,7 +11114,7 @@
       "index": 3,
       "speaker": "System",
       "original": "Just as every rose has its thorn,<CR>dark shadows watch intently from between the frosty blossoms.",
-      "translation": "Как у каждой розы есть шип,<CR>так и тёмные тени пристально наблюдают из-за морозных цветов."
+      "translation": "Как у каждой розы есть шипы,<CR>так и тёмные тени пристально следят из-за морозных цветов."
     },
     "ebm:mm04/event_message_mm04_220.ebm:4": {
       "source": "pack01_ebm",
@@ -11122,7 +11122,7 @@
       "index": 4,
       "speaker": "System",
       "original": "The Luminous Ice Grotto is guarded by the Ruler of Hoarfrost.<CR>So what kind of future does the ice here truly reflect?...",
-      "translation": "Светящийся ледяной грот охраняет Повелитель инея.<CR>Так какое будущее на самом деле отражает здешний лёд?..."
+      "translation": "Светящийся ледяной грот охраняет Повелитель инея.<CR>Так какое же будущее на самом деле отражает здешний лёд?..."
     },
     "ebm:mm04/event_message_mm04_230.ebm:0": {
       "source": "pack01_ebm",
@@ -14002,7 +14002,7 @@
       "index": 0,
       "speaker": "System",
       "original": "With a grating roar, there pours forth a rain of vivid red.",
-      "translation": "С резким ревом льется ярко-красный дождь."
+      "translation": "Со скрежещущим рёвом изливается ливень ярко-красного цвета."
     },
     "ebm:mm05/event_message_mm05_180.ebm:1": {
       "source": "pack01_ebm",
@@ -14010,7 +14010,7 @@
       "index": 1,
       "speaker": "System",
       "original": "The endless, tumbling flow of molten rock scorches the sky,<CR>parches the land, becoming a sea of fire.",
-      "translation": "Бесконечный, падающий поток расплавленной породы опаляет небо,<CR>высушивает землю, превращаясь в море огня."
+      "translation": "Бесконечный, низвергающийся поток расплавленной породы опаляет небо,<CR>высушивает землю, превращаясь в море огня."
     },
     "ebm:mm05/event_message_mm05_180.ebm:2": {
       "source": "pack01_ebm",
@@ -14018,7 +14018,7 @@
       "index": 2,
       "speaker": "System",
       "original": "Amid this tumult of engulfing flame,<CR>no seed of life can hope to find purchase.",
-      "translation": "Среди этого буйства охватывающего пламени,<CR>ни одно семя жизни не может надеяться найти опору."
+      "translation": "Среди этого буйства охватывающего пламени<CR>ни одно семя жизни не может надеяться найти опору."
     },
     "ebm:mm05/event_message_mm05_180.ebm:3": {
       "source": "pack01_ebm",
@@ -14026,7 +14026,7 @@
       "index": 3,
       "speaker": "System",
       "original": "Backed by dragon's roars, this world heads into destruction.<CR>Will you stand witness to that fate?",
-      "translation": "Под рёв дракона этот мир движется к разрушению.<CR>Станете ли вы свидетелями этой судьбы?"
+      "translation": "Под рёв дракона этот мир движется к разрушению.<CR>Станете ли вы свидетелем этой судьбы?"
     },
     "ebm:mm05/event_message_mm05_180.ebm:4": {
       "source": "pack01_ebm",
@@ -14034,7 +14034,7 @@
       "index": 4,
       "speaker": "System",
       "original": "Land of the red apocalypse, The Great Cascades of Anfel.<CR>If only some salvation could be found...",
-      "translation": "Земля красного апокалипсиса, Великие каскады Анфеля.<CR>Если бы только можно было найти какое-то спасение..."
+      "translation": "Земля красного апокалипсиса — Великие каскады Анфела.<CR>Если бы только здесь нашлось спасение..."
     },
     "ebm:mm05/event_message_mm05_190.ebm:0": {
       "source": "pack01_ebm",
@@ -18666,7 +18666,7 @@
       "index": 0,
       "speaker": "System",
       "original": "A white forest, and a frozen manor standing silently<CR>among the frost covered trees​.",
-      "translation": "Белый лес и замёрзшая усадьба, молча стоящая<CR> среди покрытых инеем деревьев."
+      "translation": "Белый лес и замёрзшая усадьба, молча стоящая<CR>среди покрытых инеем деревьев."
     },
     "ebm:mm06/event_message_mm06_300.ebm:1": {
       "source": "pack01_ebm",
@@ -18674,7 +18674,7 @@
       "index": 1,
       "speaker": "System",
       "original": "The floor, walls, and even time, are all frozen here,<CR>simply existing, encased in a rime of ice.",
-      "translation": "Пол, стены и даже время здесь заморожены, <CR>просто существуют, окруженные инеем льда."
+      "translation": "Пол, стены и даже время здесь заморожены,<CR>просто существуют, скованные инеем льда."
     },
     "ebm:mm06/event_message_mm06_300.ebm:2": {
       "source": "pack01_ebm",
@@ -18682,7 +18682,7 @@
       "index": 2,
       "speaker": "System",
       "original": "A lone girl lives in the spacious manor,<CR>but her heart, too, is frozen shut in the ice.",
-      "translation": "В просторном поместье живёт одинокая девушка,<CR>но её сердце тоже замерзло во льду."
+      "translation": "В просторном поместье живёт одинокая девушка,<CR>но её сердце тоже замёрзло во льду."
     },
     "ebm:mm06/event_message_mm06_300.ebm:3": {
       "source": "pack01_ebm",
@@ -18690,7 +18690,7 @@
       "index": 3,
       "speaker": "System",
       "original": "Which would make sense. For she is the one<CR>who created this cold world, just as she wished it to be.",
-      "translation": "Это имело бы смысл. Потому что именно она<CR> создала этот холодный мир таким, каким она хотела его видеть."
+      "translation": "И это понятно. Ведь именно она<CR>создала этот холодный мир таким, каким хотела его видеть."
     },
     "ebm:mm06/event_message_mm06_300.ebm:4": {
       "source": "pack01_ebm",
@@ -18698,7 +18698,7 @@
       "index": 4,
       "speaker": "System",
       "original": "The Frozen Palace, created by a certain girl...<CR>Will a thaw ever come to this icebound land?",
-      "translation": "Замёрзший дворец, созданный некой девушкой...<CR>Придет ли когда-нибудь оттепель на эту скованную льдом землю?"
+      "translation": "Замёрзший дворец, созданный некой девушкой...<CR>Придёт ли когда-нибудь оттепель на эту скованную льдом землю?"
     },
     "ebm:mm06/event_message_mm06_310.ebm:0": {
       "source": "pack01_ebm",
@@ -21874,7 +21874,7 @@
       "index": 4,
       "speaker": "System",
       "original": "The so-called Treasury at the Sea Bottom,<CR>where the great pirate treasure supposedly still slumbers...",
-      "translation": "Так называемая Сокровищница на дне моря,<CR>где, говорят, до сих пор дремлет великое пиратское сокровище..."
+      "translation": "Так называемая Сокровищница на дне моря,<CR>где предположительно до сих пор дремлет великое пиратское сокровище..."
     },
     "ebm:mm07/event_message_mm07_150.ebm:0": {
       "source": "pack01_ebm",
@@ -25226,7 +25226,7 @@
       "index": 0,
       "speaker": "System",
       "original": "In reality, time can only move one way.<CR>Like an arrow, it simply shoots forward.",
-      "translation": "На самом деле время может двигаться только в одну сторону.<CR>Как стрела, оно просто летит вперёд."
+      "translation": "На самом деле время может двигаться только в одну сторону.<CR>Как стрела, оно просто устремляется вперёд."
     },
     "ebm:mm08/event_message_mm08_120.ebm:1": {
       "source": "pack01_ebm",
@@ -25234,7 +25234,7 @@
       "index": 1,
       "speaker": "System",
       "original": "But what if a world existed in which that was not the case?<CR>If you could meet your lost past again?",
-      "translation": "Но что, если существовал бы мир, где это не так?<CR>Где вы могли бы снова встретить утраченное прошлое?"
+      "translation": "Но что, если бы существовал мир, в котором это было не так?<CR>Если бы вы могли снова встретиться со своим утраченным прошлым?"
     },
     "ebm:mm08/event_message_mm08_120.ebm:2": {
       "source": "pack01_ebm",
@@ -25242,7 +25242,7 @@
       "index": 2,
       "speaker": "System",
       "original": "Joy, anger, sadness, pleasures.<CR>What time of their life would a traveler seek to encounter again?",
-      "translation": "Радость, гнев, печаль, удовольствия.<CR>Какое время своей жизни захотел бы снова увидеть путник?"
+      "translation": "Радость, гнев, печаль, удовольствия.<CR>Какое время своей жизни путешественник хотел бы пережить снова?"
     },
     "ebm:mm08/event_message_mm08_120.ebm:3": {
       "source": "pack01_ebm",
@@ -25250,7 +25250,7 @@
       "index": 3,
       "speaker": "System",
       "original": "However, one thing must never be forgotten.<CR>The past is gone. And it can never be changed.",
-      "translation": "Однако нельзя забывать об одном.<CR>Прошлое ушло. И его уже не изменить."
+      "translation": "Однако никогда нельзя забывать об одном.<CR>Прошлое ушло. И его никогда не изменить."
     },
     "ebm:mm08/event_message_mm08_120.ebm:4": {
       "source": "pack01_ebm",
@@ -25258,7 +25258,7 @@
       "index": 4,
       "speaker": "System",
       "original": "This fickle depiction of time, \"Etel Nepica\".<CR>When faced with the ghosts of the time past, how will you react?",
-      "translation": "Это непостоянное изображение времени — «Этель Непика».<CR>Столкнувшись с призраками былого, как вы поступите?"
+      "translation": "Это непостоянное изображение времени — «Этель Непика».<CR>Как вы отреагируете, столкнувшись с призраками былых времён?"
     },
     "ebm:mm08/event_message_mm08_130.ebm:0": {
       "source": "pack01_ebm",
@@ -28778,7 +28778,7 @@
       "index": 1,
       "speaker": "System",
       "original": "The floating clouds, and the flower fields swaying in the breeze.<CR>All so lovely, and so wonderful.",
-      "translation": "Плывущие облака и цветочные поля, колышущиеся на ветру.<CR>Все так мило и так чудесно."
+      "translation": "Плывущие облака и цветочные поля, колышущиеся на ветру.<CR>Всё так мило и так чудесно."
     },
     "ebm:mm09/event_message_mm09_160.ebm:2": {
       "source": "pack01_ebm",
@@ -28794,7 +28794,7 @@
       "index": 3,
       "speaker": "System",
       "original": "My treasures, the ones capable of filling that hole,<CR>have been gone from my life for too long.",
-      "translation": "Мои сокровища, способные заполнить эту дыру,<CR>слишком давно исчезли из моей жизни."
+      "translation": "Мои сокровища, способные заполнить эту дыру,<CR>слишком надолго исчезли из моей жизни."
     },
     "ebm:mm09/event_message_mm09_160.ebm:4": {
       "source": "pack01_ebm",
@@ -28802,7 +28802,7 @@
       "index": 4,
       "speaker": "System",
       "original": "I will walk these flower fields again today,<CR>hoping to see even a glimpse of them. Hoping for a miracle.",
-      "translation": "Сегодня я снова пройдусь по этим цветочным полям,<CR>надеясь хотя бы мельком их увидеть. Надеясь на чудо."
+      "translation": "Сегодня я снова пройдусь по этим цветочным полям,<CR>надеясь увидеть их хотя бы мельком. Надеясь на чудо."
     },
     "ebm:mm09/event_message_mm09_160.ebm:5": {
       "source": "pack01_ebm",
@@ -33634,7 +33634,7 @@
       "index": 0,
       "speaker": "System",
       "original": "A countless number of shiny star shards rained down on a vast plain.<CR>They were the blessings from the heavens that gave them life.",
-      "translation": "Бесчисленное множество сверкающих осколков звёзд пролилось на обширную равнину.<CR>Это были благословения небес, давшие им жизнь."
+      "translation": "Бесчисленное множество блестящих осколков звёзд упало на обширную равнину.<CR>Это были благословения небес, давшие им жизнь."
     },
     "ebm:mm10/event_message_mm10_330.ebm:1": {
       "source": "pack01_ebm",
@@ -33642,7 +33642,7 @@
       "index": 1,
       "speaker": "System",
       "original": "The falling stars plow the land, become part of it,<CR>and cover the fields in a myriad of flowers to match the night sky.",
-      "translation": "Падающие звёзды вспахивают землю, становятся её частью<CR>и покрывают поля мириадами цветов под стать ночному небу."
+      "translation": "Падающие звёзды вспахивают землю, становятся её частью<CR>и покрывают поля мириадами цветов, гармонирующих с ночным небом."
     },
     "ebm:mm10/event_message_mm10_330.ebm:2": {
       "source": "pack01_ebm",
@@ -33650,7 +33650,7 @@
       "index": 2,
       "speaker": "System",
       "original": "Every night, the Star Flowers on the ground think of their birthplace above them.",
-      "translation": "Каждую ночь звёздные цветы на земле думают о месте своего рождения вверху."
+      "translation": "Каждую ночь Звёздные цветы<CR>на земле думают о месте своего рождения над ними."
     },
     "ebm:mm10/event_message_mm10_330.ebm:3": {
       "source": "pack01_ebm",
@@ -33658,7 +33658,7 @@
       "index": 3,
       "speaker": "System",
       "original": "They can never go back, but it seems so close, almost reachable,<CR>if only they were to spread their leaves far enough...",
-      "translation": "Они никогда не смогут вернуться, но кажется, что так близко, почти досягаемо,<CR>стоит лишь раскинуть листья достаточно далеко..."
+      "translation": "Они никогда не смогут вернуться, но кажется, что это так близко, почти достижимо,<CR>если бы только они раскинули свои листья достаточно далеко..."
     },
     "ebm:mm10/event_message_mm10_330.ebm:4": {
       "source": "pack01_ebm",
@@ -33666,7 +33666,7 @@
       "index": 4,
       "speaker": "System",
       "original": "In Starlight Plain, both the land and the sky are full of stars,<CR>and their light illuminates the important things within your heart.",
-      "translation": "На Звёздной равнине и земля, и небо полны звёзд,<CR>и их свет освещает то важное, что живёт в вашем сердце."
+      "translation": "На Звёздной равнине и земля, и небо полны звёзд,<CR>и их свет освещает важное в вашем сердце."
     },
     "ebm:mm10/event_message_mm10_340.ebm:0": {
       "source": "pack01_ebm",
@@ -36362,7 +36362,7 @@
       "index": 0,
       "speaker": "System",
       "original": "Powerful emotions can call on miracles. But, on the opposite side of the coin,<CR>they can also bring out unyielding crookedness.",
-      "translation": "Сильные чувства могут творить чудеса. Но с другой стороны монеты<CR>они способны породить и непреклонную кривизну."
+      "translation": "Сильные чувства способны призывать чудеса.<CR>Но у этой медали есть и обратная сторона:<CR>они также могут породить непреклонную порочность."
     },
     "ebm:mm11/event_message_mm11_160.ebm:1": {
       "source": "pack01_ebm",
@@ -36378,7 +36378,7 @@
       "index": 2,
       "speaker": "System",
       "original": "Even the voice of bitter resentment will eventually dry out,<CR>sinking into nothingness with everything else.",
-      "translation": "Даже голос горькой обиды со временем иссякнет,<CR>канет в небытие вместе со всем остальным."
+      "translation": "Даже голос горькой обиды со временем иссякнет,<CR>канув в небытие вместе со всем остальным."
     },
     "ebm:mm11/event_message_mm11_160.ebm:3": {
       "source": "pack01_ebm",
@@ -36386,7 +36386,7 @@
       "index": 3,
       "speaker": "System",
       "original": "The Black Horizon. This is the conclusion of this Mysterious Painting<CR>of distorted and broken miracles, a world ruled only by black and white.",
-      "translation": "Чёрный горизонт. Таков итог этой Таинственной картины<CR>искажённых и разбитых чудес — мира, где правят лишь чёрное и белое."
+      "translation": "Чёрный горизонт. Это финал этой Таинственной картины<CR>искаженных и сломленных чудес — мира, где правят лишь чёрный и белый цвета."
     },
     "ebm:mm11/event_message_mm11_160.ebm:4": {
       "source": "pack01_ebm",
@@ -45226,7 +45226,7 @@
       "index": 0,
       "speaker": "System",
       "original": "This is a world created by a certain Goddess.<CR>As if painted by the final moments of the setting sun,<CR>this world is covered in darkness and crimson.",
-      "translation": "Это мир, созданный некой богиней.<CR>Словно написанный последними мгновениями заходящего солнца,<CR>этот мир покрыт тьмой и багрянцем."
+      "translation": "Это мир, созданный некой Богиней.<CR>Словно нарисованный последними мгновениями заходящего солнца,<CR>этот мир покрыт тьмой и багрянцем."
     },
     "ebm:ms02/event_message_ms02_040.ebm:1": {
       "source": "pack01_ebm",
@@ -45234,7 +45234,7 @@
       "index": 1,
       "speaker": "System",
       "original": "This is a world forged by a certain Goddess.<CR>A world of controversy, which rejects all intruders while craving for their company.",
-      "translation": "Это мир, выкованный некой богиней.<CR>Мир противоречий, отвергающий всех чужаков и в то же время жаждущий их компании."
+      "translation": "Это мир, выкованный некой Богиней.<CR>Мир противоречий, отвергающий всех пришельцев<CR>и в то же время жаждущий их общества."
     },
     "ebm:ms02/event_message_ms02_040.ebm:2": {
       "source": "pack01_ebm",
@@ -45242,7 +45242,7 @@
       "index": 2,
       "speaker": "System",
       "original": "A holder of superfluous power,<CR>She wished to be surrounded by solitude, because of that power.",
-      "translation": "Обладательница чрезмерной силы,<CR>Она желала окружить себя одиночеством из-за этой силы."
+      "translation": "Обладательница избыточной силы,<CR>Она желала быть окружённой одиночеством из-за этой силы."
     },
     "ebm:ms02/event_message_ms02_040.ebm:3": {
       "source": "pack01_ebm",
@@ -45250,7 +45250,7 @@
       "index": 3,
       "speaker": "System",
       "original": "And yet, that solitude She had wished for,<CR>is now the very thing that suffocates her.",
-      "translation": "И всё же то одиночество, которого Она желала,<CR>теперь само душит её."
+      "translation": "И всё же то одиночество, которого Она желала,<CR>теперь именно то, что душит её."
     },
     "ebm:ms02/event_message_ms02_040.ebm:4": {
       "source": "pack01_ebm",
@@ -45258,7 +45258,7 @@
       "index": 4,
       "speaker": "System",
       "original": "The Domain of Despair rejects any connections to the outside world,<CR>to protect the heart of its Crimson Goddess...",
-      "translation": "Владения отчаяния отвергают любые связи с внешним миром,<CR>чтобы защитить сердце своей Багровой богини..."
+      "translation": "Владения отчаяния отвергают любые связи с внешним миром,<CR>чтобы защитить сердце своей Багровой Богини..."
     },
     "ebm:ms02/event_message_ms02_050.ebm:0": {
       "source": "pack01_ebm",
