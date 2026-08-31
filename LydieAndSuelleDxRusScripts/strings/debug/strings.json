@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-31T14:33:34.030286+00:00",
+  "generated_at": "2026-08-31T15:17:21.794516+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -45258,7 +45258,7 @@
       "index": 4,
       "speaker": "System",
       "original": "The Domain of Despair rejects any connections to the outside world,<CR>to protect the heart of its Crimson Goddess...",
-      "translation": "Владения Отчаяния отвергают любые связи с внешним миром,<CR>чтобы защитить сердце своей Багровой богини..."
+      "translation": "Владения отчаяния отвергают любые связи с внешним миром,<CR>чтобы защитить сердце своей Багровой богини..."
     },
     "ebm:ms02/event_message_ms02_050.ebm:0": {
       "source": "pack01_ebm",
@@ -103450,7 +103450,7 @@
       "index": 0,
       "speaker": "System",
       "original": "Powerful emotions can call on miracles. But, on the opposite side of the coin,<CR>they can also bring out unyielding crookedness.",
-      "translation": "Сильные эмоции могут творить чудеса. Но, с другой стороны,<CR>они также могут породить непреклонную кривизну."
+      "translation": "Сильные чувства способны призывать чудеса.<CR>Но у этой медали есть и обратная сторона:<CR>они также могут породить непреклонную порочность."
     },
     "ebm:xf06/event_message_xf06_090.ebm:1": {
       "source": "pack01_ebm",
@@ -103474,7 +103474,7 @@
       "index": 3,
       "speaker": "System",
       "original": "The Black Horizon. This is the conclusion of this Mysterious Painting<CR>of distorted and broken miracles, a world ruled only by black and white.",
-      "translation": "Чёрный горизонт. Таков итог этой Таинственной картины<CR>искажённых и разбитых чудес — мира, где правят лишь чёрное и белое."
+      "translation": "Чёрный горизонт. Это финал этой Таинственной картины<CR>искаженных и сломленных чудес — мира, где правят лишь чёрный и белый цвета."
     },
     "ebm:xf06/event_message_xf06_090.ebm:4": {
       "source": "pack01_ebm",
@@ -103482,7 +103482,7 @@
       "index": 4,
       "speaker": "System",
       "original": "Lydie, Suelle... Please, be careful.",
-      "translation": "Лиди, Сюэль... Пожалуйста, будьте осторожны."
+      "translation": "Лидия, Сюэль... Пожалуйста, будьте осторожны."
     },
     "ebm:xf06/event_message_xf06_100.ebm:0": {
       "source": "pack01_ebm",
@@ -103498,7 +103498,7 @@
       "index": 1,
       "speaker": "System",
       "original": "This is a world forged by a certain Goddess.<CR>A world of controversy, which rejects all intruders while craving for their company.",
-      "translation": "Это мир, выкованный некой Богиней.<CR>Мир противоречий, отвергающий всех пришельцев и в то же время жаждущий их общества."
+      "translation": "Это мир, выкованный некой Богиней.<CR>Мир противоречий, отвергающий всех пришельцев<CR>и в то же время жаждущий их общества."
     },
     "ebm:xf06/event_message_xf06_100.ebm:2": {
       "source": "pack01_ebm",
@@ -144562,7 +144562,7 @@
       "file": "str_fm_info.xml",
       "string_no": "917578",
       "original": "Domain of Despair Battle",
-      "translation": "Битва Доменов Отчаяния"
+      "translation": "Битва во Владениях отчаяния"
     },
     "pack02:917579": {
       "source": "pack02_text_en",
