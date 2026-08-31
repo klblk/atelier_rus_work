@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-30T10:20:19.077548+00:00",
+  "generated_at": "2026-08-31T12:31:20.177258+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -322,7 +322,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "Kyaaah! There's been so many thunderstorms recently!",
-      "translation": "Кьяаа! В последнее время было так много гроз!"
+      "translation": "А-а-а-а! В последнее время было так много гроз!"
     },
     "ebm:mm01/event_message_mm01_060.ebm:4": {
       "source": "pack01_ebm",
@@ -362,7 +362,7 @@
       "index": 0,
       "speaker": "System",
       "original": "This is Merveille, the royal capital of the Kingdom of Adalet.<CR>A glorious city with a long history.",
-      "translation": "Это Мервейль, столица Королевства Адалета.<CR>Славный город с долгой историей."
+      "translation": "Это Мервейль, столица королевства Адалет.<CR>Славный город с долгой историей."
     },
     "ebm:mm01/event_message_mm01_070.ebm:1": {
       "source": "pack01_ebm",
@@ -370,7 +370,7 @@
       "index": 1,
       "speaker": "System",
       "original": "Facing the Marle Ocean and enveloped in the smell of the sea,<CR>it is also home to our twin alchemists.",
-      "translation": "С видом на океан Марль и окутанный запахом моря, <CR> также является домом для наших близнецов-алхимиков."
+      "translation": "С видом на океан Марль и окутанный запахом моря,<CR>также является домом для наших близняшек-алхимиков."
     },
     "ebm:mm01/event_message_mm01_070.ebm:2": {
       "source": "pack01_ebm",
@@ -378,7 +378,7 @@
       "index": 2,
       "speaker": "System",
       "original": "The older sister is Lydie. A smart and gentle girl<CR>who prefers to avoid most of physical activities.",
-      "translation": "Старшую сестру зовут Лиди. Умная и нежная девушка<CR>, которая предпочитает избегать большинства физических нагрузок."
+      "translation": "Старшую сестру зовут Лидия. Умная и нежная девушка,<CR>которая предпочитает избегать большинства физических нагрузок."
     },
     "ebm:mm01/event_message_mm01_070.ebm:3": {
       "source": "pack01_ebm",
@@ -386,7 +386,7 @@
       "index": 3,
       "speaker": "System",
       "original": "The younger one is Suelle. She is a tomboy<CR>with a cheerful personality, who can be rather mischievous.",
-      "translation": "Младшую зовут Сюэль. Она сорванец<CR> с веселым характером, которая может быть довольно озорной."
+      "translation": "Младшую зовут Сюэль. Она жизнерадостная девчонка-сорванец,<CR>которая бывает довольно озорной."
     },
     "ebm:mm01/event_message_mm01_070.ebm:4": {
       "source": "pack01_ebm",
@@ -394,7 +394,7 @@
       "index": 4,
       "speaker": "System",
       "original": "Lydie and Sue are always together, <CR>and they run a small atelier along with their father.",
-      "translation": "Лиди и Сью всегда вместе, <CR>, и вместе со своим отцом они владеют небольшим ателье."
+      "translation": "Лиди и Сью всегда вместе,<CR>и вместе со своим отцом они владеют небольшим ателье."
     },
     "ebm:mm01/event_message_mm01_070.ebm:5": {
       "source": "pack01_ebm",
@@ -402,7 +402,7 @@
       "index": 5,
       "speaker": "System",
       "original": "However, truth be told, <CR>their everyday life is not so smooth sailing...",
-      "translation": "Однако, по правде говоря, <CR> их повседневная жизнь не так уж и гладкая..."
+      "translation": "Однако, честно говоря, их повседневная жизнь не такая уж и гладкая..."
     },
     "ebm:mm01/event_message_mm01_080.ebm:0": {
       "source": "pack01_ebm",
@@ -18442,7 +18442,7 @@
       "index": 1,
       "speaker": "Mireille",
       "original": "Yes. It is called \"The Frozen Palace\", and it was painted by Neige Chintreuil.",
-      "translation": "Да. Она называется «Ледяной дворец», и её написала Нейдж Шинтрей."
+      "translation": "Да. Она называется «Замёрзший дворец», и её написала Нейдж Шинтрей."
     },
     "ebm:mm06/event_message_mm06_270.ebm:2": {
       "source": "pack01_ebm",
@@ -18698,7 +18698,7 @@
       "index": 4,
       "speaker": "System",
       "original": "The Frozen Palace, created by a certain girl...<CR>Will a thaw ever come to this icebound land?",
-      "translation": "Ледяной дворец, созданный некой девушкой...<CR>Придет ли когда-нибудь оттепель на эту скованную льдом землю?"
+      "translation": "Замёрзший дворец, созданный некой девушкой...<CR>Придет ли когда-нибудь оттепель на эту скованную льдом землю?"
     },
     "ebm:mm06/event_message_mm06_310.ebm:0": {
       "source": "pack01_ebm",
@@ -18706,7 +18706,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "This is \"The Frozen Palace\"? The first of the Mysterious Paintings...",
-      "translation": "Это «Ледяной дворец»? Первая из Таинственных картин..."
+      "translation": "Это «Замёрзший дворец»? Первая из Таинственных картин..."
     },
     "ebm:mm06/event_message_mm06_310.ebm:1": {
       "source": "pack01_ebm",
@@ -21682,7 +21682,7 @@
       "index": 0,
       "speaker": "???",
       "original": "The ocean, heaving with raging waves.<CR>Above it flutters the black flag of... UGH?!",
-      "translation": "Океан, вздымающийся бушующими волнами.<CR>Над ним развевается чёрный флаг... УХ?!"
+      "translation": "Океан, вздымающийся яростными волнами.<CR>Над ним реет чёрный флаг... Э-Э-Э?!"
     },
     "ebm:mm07/event_message_mm07_110.ebm:1": {
       "source": "pack01_ebm",
@@ -27914,7 +27914,7 @@
       "index": 12,
       "speaker": "System",
       "original": "Becoming rebels, soon they came to rule the Merveille's underworld,<CR>known as the twin leaders of a gang... but that's another story.",
-      "translation": "Став бунтарками, они вскоре стали править преступным миром Мервейля,<CR>известные как лидеры-близнецы банды... но это уже другая история."
+      "translation": "Став бандитками, они вскоре стали править преступным миром Мервейля,<CR>известные как лидеры-близняшки банды... но это уже другая история."
     },
     "ebm:mm09/event_message_mm09_090.ebm:13": {
       "source": "pack01_ebm",
@@ -43010,7 +43010,7 @@
       "index": 6,
       "speaker": "Honnete",
       "original": "Even becoming increasingly busy,<CR>the twins strive to do their very best work.",
-      "translation": "Даже становясь всё занятее,<CR>близнецы стараются работать как можно лучше."
+      "translation": "Даже становясь всё более занятыми,<CR>близняшки изо всех сил стараются выполнять свою работу как можно лучше"
     },
     "ebm:mm13/event_message_mm13_010.ebm:7": {
       "source": "pack01_ebm",
@@ -43018,7 +43018,7 @@
       "index": 7,
       "speaker": "Honnete",
       "original": "Their mother is gone, but their new promise supports them from within -<CR>they are going to use their alchemy to bring happiness to everyone.",
-      "translation": "Матери больше нет, но новое обещание поддерживает их изнутри —<CR>они будут использовать алхимию, чтобы нести счастье всем."
+      "translation": "Мамы больше нет, но новое обещание поддерживает их изнутри —<CR>они будут использовать алхимию, чтобы нести счастье всем."
     },
     "ebm:mm13/event_message_mm13_010.ebm:8": {
       "source": "pack01_ebm",
@@ -43154,7 +43154,7 @@
       "index": 7,
       "speaker": "Honnete",
       "original": "They will run the best atelier in the world,<CR>and use it to make the world a happier place.",
-      "translation": "Они будут вести лучшее ателье в мире<CR>и с его помощью делать мир счастливее."
+      "translation": "Они будут управлять лучшим ателье в мире<CR>и с его помощью делать мир счастливее."
     },
     "ebm:mm13/event_message_mm13_020.ebm:8": {
       "source": "pack01_ebm",
@@ -43162,7 +43162,7 @@
       "index": 8,
       "speaker": "Honnete",
       "original": "These were their words, on the day when the twins finally left their nest.<CR>What kind of story will they paint in the wide-wide world outside?...",
-      "translation": "Так они сказали в тот день, когда близнецы наконец покинули гнездо.<CR>Какую историю они нарисуют в огромном внешнем мире?..."
+      "translation": "Так они сказали в тот день, когда наконец покинули гнездо.<CR>Какую историю они нарисуют в огромном внешнем мире?.."
     },
     "ebm:mm13/event_message_mm13_020.ebm:9": {
       "source": "pack01_ebm",
@@ -43298,7 +43298,7 @@
       "index": 2,
       "speaker": "Honnete",
       "original": "And, with Suelle's newly discovered talent for business,<CR>their enterprise will only continue to grow.",
-      "translation": "А благодаря только что открывшемуся у Сюэль таланту к бизнесу,<CR>их дело будет лишь расти."
+      "translation": "И, благодаря новооткрытой деловой хватке Суэль,<CR>их предприятие будет только процветать."
     },
     "ebm:mm13/event_message_mm13_030.ebm:3": {
       "source": "pack01_ebm",
@@ -43306,7 +43306,7 @@
       "index": 3,
       "speaker": "Honnete",
       "original": "Today again, many clients are gathering<CR>to wait for the opening time of their new grand atelier.",
-      "translation": "И сегодня снова множество клиентов собирается,<CR>ожидая открытия их нового гранд-ателье."
+      "translation": "И сегодня снова множество клиентов собирается,<CR>ожидая открытия их нового величайшего ателье"
     },
     "ebm:mm13/event_message_mm13_030.ebm:4": {
       "source": "pack01_ebm",
@@ -43434,7 +43434,7 @@
       "index": 2,
       "speaker": "Honnete",
       "original": "With the help from their father, Roger, eventually<CR>they really managed to create the first Mysterious Painting of their own.",
-      "translation": "С помощью отца, Роджера, в конце концов<CR>им действительно удалось создать первую собственную Таинственную картину."
+      "translation": "С помощью отца, Роджера, в конце концов им действительно удалось<CR>создать первую собственную Таинственную картину."
     },
     "ebm:mm13/event_message_mm13_040.ebm:3": {
       "source": "pack01_ebm",
@@ -43442,7 +43442,7 @@
       "index": 3,
       "speaker": "Honnete",
       "original": "Very soon, the whole world was buzzing with their names,<CR>and the twins became known everywhere as the \"Mysterious Painters.\"",
-      "translation": "Очень скоро весь мир загудел от их имён,<CR>и близнецы повсюду стали известны как «Таинственные художницы»."
+      "translation": "Очень скоро весь мир загудел от их имён,<CR>и близняшки повсюду стали известны как «Таинственные художницы»."
     },
     "ebm:mm13/event_message_mm13_040.ebm:4": {
       "source": "pack01_ebm",
@@ -43946,7 +43946,7 @@
       "index": 48,
       "speaker": "Sue",
       "original": "Right, Lydie!",
-      "translation": "Точно, Лидия!"
+      "translation": "Точно, Лиди!"
     },
     "ebm:mm13/event_message_mm13_050.ebm:49": {
       "source": "pack01_ebm",
@@ -103138,7 +103138,7 @@
       "index": 2,
       "speaker": "System",
       "original": "Looking around, those gnarly trees are all you can see.<CR>All who visit this place are bound to feel the same breath of fear.",
-      "translation": "Оглянувшись вокруг, вы видите лишь эти корявые деревья.<CR>Все, кто посещает это место, ощущают одно и то же дыхание страха."
+      "translation": "Оглянувшись вокруг, вы видите лишь эти корявые деревья.<CR>Все, кто посещает это место, ощущают одно и то же — дыхание страха."
     },
     "ebm:xf06/event_message_xf06_010.ebm:3": {
       "source": "pack01_ebm",
@@ -103146,7 +103146,7 @@
       "index": 3,
       "speaker": "System",
       "original": "And with good reason. For this place is the intersection<CR>between the world of living and the spectral plain.",
-      "translation": "И не без причины. Ибо это место — пересечение<CR>мира живых и призрачной равнины."
+      "translation": "И не без причины. Ведь это место — перекресток<CR>между миром живых и миром призраков."
     },
     "ebm:xf06/event_message_xf06_010.ebm:4": {
       "source": "pack01_ebm",
@@ -103170,7 +103170,7 @@
       "index": 1,
       "speaker": "System",
       "original": "The passage of time has polished the ice walls clear,<CR>unleashing relentless glimmer.",
-      "translation": "С течением времени ледяные стены отполировались до прозрачности,<CR>испуская неумолимое мерцание."
+      "translation": "Ход времени отполировал ледяные стены до прозрачности,<CR>и теперь они источают непрерывное сияние."
     },
     "ebm:xf06/event_message_xf06_020.ebm:2": {
       "source": "pack01_ebm",
@@ -103178,7 +103178,7 @@
       "index": 2,
       "speaker": "System",
       "original": "They almost look like a glossy mirror.<CR>However, you'll have no time to stop and admire your reflection.",
-      "translation": "Они почти похожи на глянцевое зеркало.<CR>Однако у вас не будет времени остановиться и полюбоваться своим отражением."
+      "translation": "Они похожи на глянцевое зеркало.<CR>Однако у вас не будет времени остановиться и полюбоваться своим отражением."
     },
     "ebm:xf06/event_message_xf06_020.ebm:3": {
       "source": "pack01_ebm",
@@ -103202,7 +103202,7 @@
       "index": 0,
       "speaker": "System",
       "original": "With a grating roar, there pours forth a rain of vivid red.",
-      "translation": "С резким рёвом льётся дождь ярко-красного цвета."
+      "translation": "Со скрежещущим рёвом изливается ливень ярко-красного цвета."
     },
     "ebm:xf06/event_message_xf06_030.ebm:1": {
       "source": "pack01_ebm",
@@ -144541,7 +144541,7 @@
       "file": "str_fm_info.xml",
       "string_no": "917575",
       "original": "Frozen Palace Battle",
-      "translation": "Битва за Ледяным Дворцом"
+      "translation": "Битва в Замёрзшем дворце"
     },
     "pack02:917576": {
       "source": "pack02_text_en",
@@ -210040,7 +210040,7 @@
       "file": "str_recipe_idea_text.xml",
       "string_no": "2359372",
       "original": "[Field Support]&lt;CR&gt;A staff capable of recreating The Frozen Palace?&lt;CR&gt;",
-      "translation": "[Полевая поддержка]&lt;CR&gt;Сотрудник, способный воссоздать Ледяной дворец?&lt;CR&gt;"
+      "translation": "[Полевая поддержка]&lt;CR&gt;Сотрудник, способный воссоздать Замёрзший дворец?&lt;CR&gt;"
     },
     "pack02:2359373": {
       "source": "pack02_text_en",
@@ -218188,56 +218188,56 @@
       "file": "str_summary_title.xml",
       "string_no": "6160478",
       "original": "In the Frozen Palace 1",
-      "translation": "В Ледяном Дворце 1"
+      "translation": "В Замёрзшем дворце 1"
     },
     "pack02:6160479": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160479",
       "original": "In the Frozen Palace 2",
-      "translation": "В Ледяном Дворце 2"
+      "translation": "В Замёрзшем дворце 2"
     },
     "pack02:6160480": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160480",
       "original": "In the Frozen Palace 3",
-      "translation": "В Ледяном Дворце 3"
+      "translation": "В Замёрзшем дворце 3"
     },
     "pack02:6160481": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160481",
       "original": "In the Frozen Palace 4",
-      "translation": "В Ледяном Дворце 4"
+      "translation": "В Замёрзшем дворце 4"
     },
     "pack02:6160482": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160482",
       "original": "In the Frozen Palace 5",
-      "translation": "В Ледяном Дворце 5"
+      "translation": "В Замёрзшем дворце 5"
     },
     "pack02:6160483": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160483",
       "original": "In the Frozen Palace 6",
-      "translation": "В Ледяном Дворце 6"
+      "translation": "В Замёрзшем дворце 6"
     },
     "pack02:6160484": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160484",
       "original": "In the Frozen Palace 7",
-      "translation": "В Ледяном Дворце 7"
+      "translation": "В Замёрзшем дворце 7"
     },
     "pack02:6160485": {
       "source": "pack02_text_en",
       "file": "str_summary_title.xml",
       "string_no": "6160485",
       "original": "In the Frozen Palace 8",
-      "translation": "В Ледяном Дворце 8"
+      "translation": "В Замёрзшем дворце 8"
     },
     "pack02:6160486": {
       "source": "pack02_text_en",
