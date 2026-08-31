@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-31T15:17:21.794516+00:00",
+  "generated_at": "2026-08-31T16:25:07.147901+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -103930,7 +103930,7 @@
       "index": 0,
       "speaker": "System",
       "original": "A new area, <CLGR>\"Nightless Ruined City\"<CLNR>, has been unlocked! It can be accessed from the Painting Map.",
-      "translation": "Разблокирована новая область <CLGR>«Разрушенный город без ночи»<CLNR>! Доступ к ней открыт с карты картин."
+      "translation": "Разблокирована новая область <CLGR>«Руины города без ночи»<CLNR>! Доступ к ней открыт с карты картин."
     },
     "ebm:xx04/event_message_xx04_080.ebm:0": {
       "source": "pack01_ebm",
@@ -103962,7 +103962,7 @@
       "index": 0,
       "speaker": "System",
       "original": "A new area, <CLGR>\"Blue Sentiment Land\"<CLNR>, has been unlocked! It can be accessed from the Painting Map.",
-      "translation": "Разблокирована новая область <CLGR>«Земля синих чувств»<CLNR>! Доступ к ней открыт с карты картин."
+      "translation": "Разблокирована новая область <CLGR>«Земля синей меланхолии»<CLNR>! Доступ к ней открыт с карты картин."
     },
     "ebm:xx04/event_message_xx04_120.ebm:0": {
       "source": "pack01_ebm",
@@ -109674,7 +109674,7 @@
       "index": 5,
       "speaker": "Girl in Love",
       "original": "A town rooted in a new land. A symbol of the diligence of its people.",
-      "translation": "Город, укоренённый в новой земле. Символ трудолюбия своего народа."
+      "translation": "Город, укоренённый в новой земле.<CR>Символ трудолюбия своего народа."
     },
     "ebm:yy01/event_message_yy01_050.ebm:6": {
       "source": "pack01_ebm",
@@ -109682,7 +109682,7 @@
       "index": 6,
       "speaker": "Girl in Love",
       "original": "The seed sprouts, with the promise of future bloom. This world grows with the water of new meetings.",
-      "translation": "Семя прорастает, обещая будущее цветение. Этот мир растёт водой новых встреч."
+      "translation": "Семя прорастает, обещая будущее цветение.<CR>Этот мир растёт водой новых встреч."
     },
     "ebm:yy01/event_message_yy01_050.ebm:7": {
       "source": "pack01_ebm",
@@ -109690,7 +109690,7 @@
       "index": 7,
       "speaker": "Girl in Love",
       "original": "Born from a miraculous encounter, this land extends its branches to tell a new story.",
-      "translation": "Рождённая чудесной встречей, эта земля простирает ветви, чтобы рассказать новую историю."
+      "translation": "Рождённая чудесной встречей, эта земля<CR>простирает ветви, чтобы рассказать новую историю."
     },
     "ebm:yy01/event_message_yy01_050.ebm:8": {
       "source": "pack01_ebm",
@@ -109698,7 +109698,7 @@
       "index": 8,
       "speaker": "Girl in Love",
       "original": "Gaining strength from the legacy of the wise men of yore, and hoping for new meetings...",
-      "translation": "Черпая силу из наследия мудрецов былых времён и надеясь на новые встречи..."
+      "translation": "Черпая силу из наследия мудрецов былых времён<CR>и надеясь на новые встречи..."
     },
     "ebm:yy01/event_message_yy01_050.ebm:9": {
       "source": "pack01_ebm",
@@ -109706,7 +109706,7 @@
       "index": 9,
       "speaker": "Girl in Love",
       "original": "The \"Land of Rich Encounters\"... Does its mighty tree house hope, or something else...?",
-      "translation": "«Земля богатых встреч»... Хранит ли её могучее древо надежду — или что-то иное...?"
+      "translation": "«Земля судьбоносных встреч»...<CR>Хранит ли её могучее древо надежду — или что-то иное...?"
     },
     "ebm:yy01/event_message_yy01_050.ebm:10": {
       "source": "pack01_ebm",
@@ -144786,7 +144786,7 @@
       "file": "str_fm_info.xml",
       "string_no": "917618",
       "original": "Nightless Ruined City",
-      "translation": "Разрушенный город без ночи"
+      "translation": "Руины города без ночи"
     },
     "pack02:917619": {
       "source": "pack02_text_en",
@@ -144828,7 +144828,7 @@
       "file": "str_fm_info.xml",
       "string_no": "917624",
       "original": "Blue Sentiment Land",
-      "translation": "Земля синих чувств"
+      "translation": "Земля синей меланхолии"
     },
     "pack02:917625": {
       "source": "pack02_text_en",
@@ -144856,7 +144856,7 @@
       "file": "str_fm_info.xml",
       "string_no": "917628",
       "original": "Land of Rich Encounters",
-      "translation": "Земля богатых встреч"
+      "translation": "Земля судьбоносных встреч"
     },
     "pack02:55771137": {
       "source": "pack02_text_en",
@@ -186786,7 +186786,7 @@
       "file": "str_library_map.xml",
       "string_no": "3735570",
       "original": "Nightless Ruined City",
-      "translation": "Разрушенный город без ночи"
+      "translation": "Руины города без ночи"
     },
     "pack02:3735571": {
       "source": "pack02_text_en",
@@ -186800,7 +186800,7 @@
       "file": "str_library_map.xml",
       "string_no": "3735572",
       "original": "Blue Sentiment Land",
-      "translation": "Земля синих чувств"
+      "translation": "Земля синей меланхолии"
     },
     "pack02:3735573": {
       "source": "pack02_text_en",
@@ -186933,7 +186933,7 @@
       "file": "str_library_map.xml",
       "string_no": "3735591",
       "original": "“Nightless...? So night never falls...? But it's so dark... How does that work...? Oh...”^00“You mustn't overthink the logic of the worlds inside paintings!”",
-      "translation": "«Безночный...? То есть ночь никогда не наступает...? Но так темно... Как это работает...? Ох...»^00«Не стоит слишком вдумываться в логику миров внутри картин!»"
+      "translation": "«Без ночи...? То есть ночь никогда не наступает...? Но так темно... Как это работает...? Ох...»^00«Не стоит слишком вдумываться в логику миров внутри картин!»"
     },
     "pack02:3735592": {
       "source": "pack02_text_en",
@@ -187108,7 +187108,7 @@
       "file": "str_library_map.xml",
       "string_no": "3735616",
       "original": "Land of Rich Encounters",
-      "translation": "Земля богатых встреч"
+      "translation": "Земля судьбоносных встреч"
     },
     "pack02:3735617": {
       "source": "pack02_text_en",
@@ -188522,14 +188522,14 @@
       "file": "str_map_item_name.xml",
       "string_no": "1114185",
       "original": "Nightless Ruined City",
-      "translation": "Разрушенный город без ночи"
+      "translation": "Руины города без ночи"
     },
     "pack02:1114186": {
       "source": "pack02_text_en",
       "file": "str_map_item_name.xml",
       "string_no": "1114186",
       "original": "Blue Sentiment Land",
-      "translation": "Земля синих чувств"
+      "translation": "Земля синей меланхолии"
     },
     "pack02:1114187": {
       "source": "pack02_text_en",
@@ -188543,7 +188543,7 @@
       "file": "str_map_item_name.xml",
       "string_no": "1114188",
       "original": "Land of Rich Encounters",
-      "translation": "Земля богатых встреч"
+      "translation": "Земля судьбоносных встреч"
     },
     "pack02:1114193": {
       "source": "pack02_text_en",
@@ -212812,7 +212812,7 @@
       "file": "str_summary_chara_checkbox.xml",
       "string_no": "6488176",
       "original": "&lt;CLGR&gt;- We need to defeat the monsters at “Farm Outside Town” ^00in “The Land of Profound Encounters”.&lt;CLNR&gt;^00　↑Pesky monsters should just get kicked by Puni and disappear!^00　　　　　　　　　　　　　　　　[Sue]^00　↑They're going to lose to Puni…^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "&lt;CLGR&gt;- Нужно победить монстров на «Ферме за городом» в «Земле богатых встреч».&lt;CLNR&gt;^00　↑Надоедливых монстров пусть пуни просто пнёт — и пусть пропадают!^00　　　　　　　　　　　　　　　[Сью]^00　↑Они проиграют пуни…^00　　　　　　　　　　　　　　[Лиди]"
+      "translation": "&lt;CLGR&gt;- Нужно победить монстров на «Ферме за городом» в «Земле судьбоносных встреч».&lt;CLNR&gt;^00　↑Надоедливых монстров пусть пуни просто пнёт — и пусть пропадают!^00　　　　　　　　　　　　　　　[Сью]^00　↑Они проиграют пуни…^00　　　　　　　　　　　　　　[Лиди]"
     },
     "pack02:6488177": {
       "source": "pack02_text_en",
@@ -213820,42 +213820,42 @@
       "file": "str_summary_chara_title.xml",
       "string_no": "6291524",
       "original": "Rich Encounters 1",
-      "translation": "Богатые встречи 1"
+      "translation": "Судьбоносные встречи 1"
     },
     "pack02:6291525": {
       "source": "pack02_text_en",
       "file": "str_summary_chara_title.xml",
       "string_no": "6291525",
       "original": "Rich Encounters 2",
-      "translation": "Богатые встречи 2"
+      "translation": "Судьбоносные встречи 2"
     },
     "pack02:6291526": {
       "source": "pack02_text_en",
       "file": "str_summary_chara_title.xml",
       "string_no": "6291526",
       "original": "Rich Encounters 3",
-      "translation": "Богатые встречи 3"
+      "translation": "Судьбоносные встречи 3"
     },
     "pack02:6291527": {
       "source": "pack02_text_en",
       "file": "str_summary_chara_title.xml",
       "string_no": "6291527",
       "original": "Rich Encounters 4",
-      "translation": "Богатые встречи 4"
+      "translation": "Судьбоносные встречи 4"
     },
     "pack02:6291528": {
       "source": "pack02_text_en",
       "file": "str_summary_chara_title.xml",
       "string_no": "6291528",
       "original": "Rich Encounters 5",
-      "translation": "Богатые встречи 5"
+      "translation": "Судьбоносные встречи 5"
     },
     "pack02:6291529": {
       "source": "pack02_text_en",
       "file": "str_summary_chara_title.xml",
       "string_no": "6291529",
       "original": "Rich Encounters 6",
-      "translation": "Богатые встречи 6"
+      "translation": "Судьбоносные встречи 6"
     },
     "pack02:6422529": {
       "source": "pack02_text_en",
