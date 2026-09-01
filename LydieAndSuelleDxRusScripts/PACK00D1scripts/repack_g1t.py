@@ -76,6 +76,12 @@ def main() -> None:
         raise SystemExit(f"source dds dir not found: {dds_dir}; run extract_g1t.py first")
 
     xml_path = args.xml.resolve() if args.xml else (ROOT / base["xml"]).resolve()
+    if base.get("xml_pack_relpath"):
+        patch_xml = PACK02_PATCH_ROOT / base["xml_pack_relpath"]
+        if patch_xml.is_file():
+            xml_path = patch_xml.resolve()
+            if "uis_a19_telop.xml" in base["xml_pack_relpath"]:
+                print(f"using shared telop XML: {xml_path}")
     if not xml_path.is_file():
         raise SystemExit(f"xml not found: {xml_path}")
 
@@ -89,6 +95,8 @@ def main() -> None:
     for sprite in base["sprites"]:
         if sprite["id"] in patched_ids:
             pages_to_compress.add(int(sprite["atlas"]))
+
+    atlas_sizes = {int(item["id"]): (int(item["width"]), int(item["height"])) for item in base["atlases"]}
 
     for atlas in base["atlases"]:
         atlas_id = int(atlas["id"])
@@ -108,6 +116,7 @@ def main() -> None:
         )
         preview_path = work_dir / "atlases" / f"{atlas_id:03d}_repacked.png"
         rebuilt.save(preview_path)
+        atlas_sizes[atlas_id] = (rebuilt.width, rebuilt.height)
 
         van_dds = dds_dir / f"{atlas_id:03d}.dds"
         if not van_dds.is_file():
@@ -127,7 +136,11 @@ def main() -> None:
     print(f"wrote {out_g1t}")
 
     out_xml = PACK02_PATCH_ROOT / base["xml_pack_relpath"]
-    update_uis_xml_uvwh(xml_path, final_sprites, base["atlases"], out_xml)
+    atlases_for_uv = [
+        {"id": atlas_id, "width": width, "height": height}
+        for atlas_id, (width, height) in sorted(atlas_sizes.items())
+    ]
+    update_uis_xml_uvwh(xml_path, final_sprites, atlases_for_uv, out_xml)
     print(f"wrote {out_xml}")
 
     for uil_path in sorted(patch_dir.glob("uil_*.xml")):

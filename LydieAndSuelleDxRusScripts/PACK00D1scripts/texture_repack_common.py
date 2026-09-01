@@ -5,6 +5,7 @@ from __future__ import annotations
 import json
 import re
 import shutil
+import struct
 import subprocess
 import sys
 import xml.etree.ElementTree as ET
@@ -126,6 +127,19 @@ def read_uis_xml_text(xml_path: Path) -> str:
         return raw.decode("utf-8")
     except UnicodeDecodeError:
         return raw.decode("cp932", errors="replace")
+
+
+def write_uis_xml_text(path: Path, text: str, source_bytes: bytes | None = None) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    if source_bytes is not None and source_bytes.startswith(b"\xef\xbb\xbf"):
+        path.write_bytes(b"\xef\xbb\xbf" + text.encode("utf-8"))
+        return
+    try:
+        text.encode("cp932")
+    except UnicodeEncodeError:
+        path.write_bytes(text.encode("utf-8"))
+        return
+    path.write_bytes(text.encode("cp932", errors="replace"))
 
 
 def uis_xml_search_dirs() -> list[Path]:
@@ -442,6 +456,17 @@ def rebuild_atlas_page(
 ) -> Image.Image:
     atlas = Image.open(vanilla_path).convert("RGBA")
 
+    req_w, req_h = atlas.width, atlas.height
+    for sprite in final_sprites:
+        req_w = max(req_w, int(sprite["x"]) + int(sprite["w"]))
+        req_h = max(req_h, int(sprite["y"]) + int(sprite["h"]))
+    req_w = (req_w + 3) // 4 * 4
+    req_h = (req_h + 3) // 4 * 4
+    if (req_w, req_h) != atlas.size:
+        expanded = Image.new("RGBA", (req_w, req_h), (0, 0, 0, 0))
+        expanded.paste(atlas, (0, 0))
+        atlas = expanded
+
     for sprite in base_sprites:
         if sprite["id"] not in patched_ids:
             continue
@@ -461,11 +486,6 @@ def rebuild_atlas_page(
         h = int(sprite["h"])
         if img.size != (w, h):
             img = img.resize((w, h), Image.Resampling.LANCZOS)
-        if x + w > atlas.width or y + h > atlas.height:
-            raise ValueError(
-                f"sprite {sprite['id']} out of atlas bounds: "
-                f"({x},{y})+({w},{h}) vs {atlas.size}"
-            )
         atlas.paste(img, (x, y))
     return atlas
 
@@ -482,6 +502,34 @@ def patched_sprites_bbox(
     x1 = max(int(sprite["x"]) + int(sprite["w"]) for sprite in patched)
     y1 = max(int(sprite["y"]) + int(sprite["h"]) for sprite in patched)
     return x0, y0, x1, y1
+
+
+def dds_mip0_byte_size(width: int, height: int) -> int:
+    blocks_w = (width + 3) // 4
+    blocks_h = (height + 3) // 4
+    return 128 + blocks_w * blocks_h * 16
+
+
+def read_dds_dimensions(dds_path: Path) -> tuple[int, int]:
+    data = dds_path.read_bytes()
+    if data[:4] != b"DDS ":
+        raise ValueError(f"not a DDS file: {dds_path}")
+    height, width = struct.unpack_from("<II", data, 12)
+    return int(width), int(height)
+
+
+def resize_dds_mip0(dds_path: Path, new_width: int, new_height: int) -> None:
+    data = bytearray(dds_path.read_bytes())
+    if data[:4] != b"DDS ":
+        raise ValueError(f"not a DDS file: {dds_path}")
+    struct.pack_into("<I", data, 12, new_height)
+    struct.pack_into("<I", data, 16, new_width)
+    new_size = dds_mip0_byte_size(new_width, new_height)
+    if len(data) < new_size:
+        data.extend(b"\x00" * (new_size - len(data)))
+    elif len(data) > new_size:
+        del data[new_size:]
+    dds_path.write_bytes(data)
 
 
 def compress_atlas_page(
@@ -504,10 +552,14 @@ def compress_atlas_page(
     rgba_path = van_dds.with_suffix(".rgba")
     patched_dds = van_dds.with_name(van_dds.stem + "_patched.dds")
     rgba_path.write_bytes(atlas.tobytes())
+    shutil.copy2(van_dds, patched_dds)
+    van_w, van_h = read_dds_dimensions(patched_dds)
+    if (w, h) != (van_w, van_h):
+        resize_dds_mip0(patched_dds, w, h)
     subprocess.run(
         [
             str(compressor),
-            str(van_dds),
+            str(patched_dds),
             str(patched_dds),
             str(rgba_path),
             str(w),
@@ -555,7 +607,8 @@ def update_uis_xml_uvwh(
         )
         uv_by_id[sprite["id"]] = f"{uv_x},{uv_y},{uv_w},{uv_h}"
 
-    text = xml_path.read_bytes().decode("cp932", errors="replace")
+    source_bytes = xml_path.read_bytes()
+    text = read_uis_xml_text(xml_path)
     for sprite_id, uvwh in uv_by_id.items():
         pattern = rf'(name="{re.escape(sprite_id)}"[^>]*uvwh=")[^"]*(")'
         repl = rf"\g<1>{uvwh}\2"
@@ -564,5 +617,4 @@ def update_uis_xml_uvwh(
             raise KeyError(f"sprite not found in xml: {sprite_id}")
         text = new_text
 
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_bytes(text.encode("cp932", errors="replace"))
+    write_uis_xml_text(out_path, text, source_bytes)

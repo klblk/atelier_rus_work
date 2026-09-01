@@ -1,0 +1,1996 @@
+{
+  "version": 1,
+  "source_xml": "extracts/pack_extracts/PACK02_extract/saves/ui_en/etc/uis_a19_telop.xml",
+  "sprites": [
+    {
+      "index": 0,
+      "id": "etc_a19_telop_0000",
+      "g1t": "a19_telop_01",
+      "w": 1536,
+      "h": 96,
+      "text": "Это Мервейль, столица королевства Адалет.",
+      "ebm": "ebm:mm01/event_message_mm01_070.ebm:0",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 1,
+      "id": "etc_a19_telop_0001",
+      "g1t": "a19_telop_01",
+      "w": 1536,
+      "h": 96,
+      "text": "Славный город с долгой историей.",
+      "ebm": "ebm:mm01/event_message_mm01_070.ebm:0",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 2,
+      "id": "etc_a19_telop_0002",
+      "g1t": "a19_telop_01",
+      "w": 1536,
+      "h": 96,
+      "text": "С видом на океан Марль и окутанный запахом моря,",
+      "ebm": "ebm:mm01/event_message_mm01_070.ebm:1",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 3,
+      "id": "etc_a19_telop_0003",
+      "g1t": "a19_telop_01",
+      "w": 1536,
+      "h": 96,
+      "text": "также является домом для наших близняшек-алхимиков.",
+      "ebm": "ebm:mm01/event_message_mm01_070.ebm:1",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 4,
+      "id": "etc_a19_telop_0004",
+      "g1t": "a19_telop_01",
+      "w": 1536,
+      "h": 96,
+      "text": "Старшую сестру зовут Лидия. Умная и нежная девушка,",
+      "ebm": "ebm:mm01/event_message_mm01_070.ebm:2",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 5,
+      "id": "etc_a19_telop_0005",
+      "g1t": "a19_telop_01",
+      "w": 1536,
+      "h": 96,
+      "text": "которая предпочитает избегать большинства физических нагрузок.",
+      "ebm": "ebm:mm01/event_message_mm01_070.ebm:2",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 6,
+      "id": "etc_a19_telop_0006",
+      "g1t": "a19_telop_01",
+      "w": 1536,
+      "h": 96,
+      "text": "Младшую зовут Сюэль. Она жизнерадостная девчонка-сорванец,",
+      "ebm": "ebm:mm01/event_message_mm01_070.ebm:3",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 7,
+      "id": "etc_a19_telop_0007",
+      "g1t": "a19_telop_01",
+      "w": 1536,
+      "h": 96,
+      "text": "которая бывает довольно озорной.",
+      "ebm": "ebm:mm01/event_message_mm01_070.ebm:3",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 8,
+      "id": "etc_a19_telop_0008",
+      "g1t": "a19_telop_01",
+      "w": 1536,
+      "h": 96,
+      "text": "Лиди и Сью всегда вместе,",
+      "ebm": "ebm:mm01/event_message_mm01_070.ebm:4",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 9,
+      "id": "etc_a19_telop_0009",
+      "g1t": "a19_telop_01",
+      "w": 1536,
+      "h": 96,
+      "text": "и вместе со своим отцом они владеют небольшим ателье.",
+      "ebm": "ebm:mm01/event_message_mm01_070.ebm:4",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 10,
+      "id": "etc_a19_telop_0010",
+      "g1t": "a19_telop_01",
+      "w": 1536,
+      "h": 96,
+      "text": "Однако, честно говоря, их повседневная жизнь не такая уж и гладкая...",
+      "ebm": "ebm:mm01/event_message_mm01_070.ebm:5",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 11,
+      "id": "etc_a19_telop_0011",
+      "g1t": "a19_telop_01",
+      "w": 1536,
+      "h": 96,
+      "text": "Океан, вздымающийся яростными волнами.",
+      "ebm": "ebm:mm07/event_message_mm07_110.ebm:0",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 12,
+      "id": "etc_a19_telop_0012",
+      "g1t": "a19_telop_01",
+      "w": 1536,
+      "h": 96,
+      "text": "Над ним реет чёрный флаг...",
+      "ebm": "ebm:mm07/event_message_mm07_110.ebm:0",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 13,
+      "id": "etc_a19_telop_0013",
+      "g1t": "a19_telop_01",
+      "w": 1536,
+      "h": 96,
+      "text": "Лидия и Сюэль проиграли Роджеру.",
+      "ebm": "ebm:mm09/event_message_mm09_090.ebm:10",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 14,
+      "id": "etc_a19_telop_0014",
+      "g1t": "a19_telop_01",
+      "w": 1536,
+      "h": 96,
+      "text": "Поражение вызвало у них взрыв гнева на него.",
+      "ebm": "ebm:mm09/event_message_mm09_090.ebm:10",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 15,
+      "id": "etc_a19_telop_0015",
+      "g1t": "a19_telop_01",
+      "w": 1536,
+      "h": 96,
+      "text": "Подгоняемые эмоциями,",
+      "ebm": "ebm:mm09/event_message_mm09_090.ebm:11",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 16,
+      "id": "etc_a19_telop_0016",
+      "g1t": "a19_telop_02",
+      "w": 1536,
+      "h": 96,
+      "text": "они вдвоём выбежали из ателье.",
+      "ebm": "ebm:mm09/event_message_mm09_090.ebm:11",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 17,
+      "id": "etc_a19_telop_0017",
+      "g1t": "a19_telop_02",
+      "w": 1536,
+      "h": 96,
+      "text": "Став бунтарями, они возглавили преступный мир Мервея,",
+      "ebm": "ebm:mm09/event_message_mm09_090.ebm:12",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 18,
+      "id": "etc_a19_telop_0018",
+      "g1t": "a19_telop_02",
+      "w": 1536,
+      "h": 96,
+      "text": "как лидеры-близняшки одной банды... но это уже другая история.",
+      "ebm": "ebm:mm09/event_message_mm09_090.ebm:12",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 19,
+      "id": "etc_a19_telop_0019",
+      "g1t": "a19_telop_02",
+      "w": 1536,
+      "h": 96,
+      "text": "Что девочки думали о своей жизни после того, как оставили алхимию?",
+      "ebm": "ebm:mm09/event_message_mm09_090.ebm:13",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 20,
+      "id": "etc_a19_telop_0020",
+      "g1t": "a19_telop_02",
+      "w": 1536,
+      "h": 96,
+      "text": "Правду знают только они.",
+      "ebm": "ebm:mm09/event_message_mm09_090.ebm:13",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 21,
+      "id": "etc_a19_telop_0021",
+      "g1t": "a19_telop_02",
+      "w": 1536,
+      "h": 96,
+      "text": "Лидия и Сюэль наконец осуществили свою давнюю мечту",
+      "ebm": "ebm:mm13/event_message_mm13_010.ebm:4",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 22,
+      "id": "etc_a19_telop_0022",
+      "g1t": "a19_telop_02",
+      "w": 1536,
+      "h": 96,
+      "text": "управлять лучшим ателье в королевстве.",
+      "ebm": "ebm:mm13/event_message_mm13_010.ebm:4",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 23,
+      "id": "etc_a19_telop_0023",
+      "g1t": "a19_telop_02",
+      "w": 1536,
+      "h": 96,
+      "text": "Теперь каждый день в их ателье приходит множество людей,",
+      "ebm": "ebm:mm13/event_message_mm13_010.ebm:5",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 24,
+      "id": "etc_a19_telop_0024",
+      "g1t": "a19_telop_02",
+      "w": 1536,
+      "h": 96,
+      "text": "ведь они, пожалуй, самые известные алхимики в стране.",
+      "ebm": "ebm:mm13/event_message_mm13_010.ebm:5",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 25,
+      "id": "etc_a19_telop_0025",
+      "g1t": "a19_telop_02",
+      "w": 1536,
+      "h": 96,
+      "text": "Даже становясь всё более занятыми,",
+      "ebm": "ebm:mm13/event_message_mm13_010.ebm:6",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 26,
+      "id": "etc_a19_telop_0026",
+      "g1t": "a19_telop_02",
+      "w": 1536,
+      "h": 96,
+      "text": "близняшки стремятся выполнять свою работу наилучшим образом.",
+      "ebm": "ebm:mm13/event_message_mm13_010.ebm:6",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 27,
+      "id": "etc_a19_telop_0027",
+      "g1t": "a19_telop_02",
+      "w": 1536,
+      "h": 96,
+      "text": "Мамы больше нет, но новое обещание поддерживает их изнутри —",
+      "ebm": "ebm:mm13/event_message_mm13_010.ebm:7",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 28,
+      "id": "etc_a19_telop_0028",
+      "g1t": "a19_telop_02",
+      "w": 1536,
+      "h": 96,
+      "text": "они будут использовать алхимию, чтобы нести счастье всем.",
+      "ebm": "ebm:mm13/event_message_mm13_010.ebm:7",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 29,
+      "id": "etc_a19_telop_0029",
+      "g1t": "a19_telop_02",
+      "w": 1536,
+      "h": 96,
+      "text": "Лидия и Сюэль наконец осуществили свою давнюю мечту",
+      "ebm": "ebm:mm13/event_message_mm13_020.ebm:5",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 30,
+      "id": "etc_a19_telop_0030",
+      "g1t": "a19_telop_02",
+      "w": 1536,
+      "h": 96,
+      "text": "управлять лучшим ателье в королевстве.",
+      "ebm": "ebm:mm13/event_message_mm13_020.ebm:5",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 31,
+      "id": "etc_a19_telop_0031",
+      "g1t": "a19_telop_02",
+      "w": 1536,
+      "h": 96,
+      "text": "Теперь пора целиться ещё выше — ",
+      "ebm": "ebm:mm13/event_message_mm13_020.ebm:6",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 32,
+      "id": "etc_a19_telop_0032",
+      "g1t": "a19_telop_03",
+      "w": 1536,
+      "h": 96,
+      "text": "сделать своё ателье лучшим в мире!",
+      "ebm": "ebm:mm13/event_message_mm13_020.ebm:6",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 33,
+      "id": "etc_a19_telop_0033",
+      "g1t": "a19_telop_03",
+      "w": 1536,
+      "h": 96,
+      "text": "Они будут управлять лучшим ателье в мире",
+      "ebm": "ebm:mm13/event_message_mm13_020.ebm:7",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 34,
+      "id": "etc_a19_telop_0034",
+      "g1t": "a19_telop_03",
+      "w": 1536,
+      "h": 96,
+      "text": "и с его помощью делать мир счастливее.",
+      "ebm": "ebm:mm13/event_message_mm13_020.ebm:7",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 35,
+      "id": "etc_a19_telop_0035",
+      "g1t": "a19_telop_03",
+      "w": 1536,
+      "h": 96,
+      "text": "Так они сказали в тот день, когда наконец покинули гнездо.",
+      "ebm": "ebm:mm13/event_message_mm13_020.ebm:8",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 36,
+      "id": "etc_a19_telop_0036",
+      "g1t": "a19_telop_03",
+      "w": 1536,
+      "h": 96,
+      "text": "Какую историю они нарисуют в огромном внешнем мире?..",
+      "ebm": "ebm:mm13/event_message_mm13_020.ebm:8",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 37,
+      "id": "etc_a19_telop_0037",
+      "g1t": "a19_telop_03",
+      "w": 1536,
+      "h": 96,
+      "text": "Чтобы стать алхимиками, способными помочь каждому,",
+      "ebm": "ebm:mm13/event_message_mm13_030.ebm:0",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 38,
+      "id": "etc_a19_telop_0038",
+      "g1t": "a19_telop_03",
+      "w": 1536,
+      "h": 96,
+      "text": "Лиди и Сью решили, что им понадобится более крупное ателье.",
+      "ebm": "ebm:mm13/event_message_mm13_030.ebm:0",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 39,
+      "id": "etc_a19_telop_0039",
+      "g1t": "a19_telop_03",
+      "w": 1536,
+      "h": 96,
+      "text": "Все усилия, которые они лихорадочно тратили, собирая деньги",
+      "ebm": "ebm:mm13/event_message_mm13_030.ebm:1",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 40,
+      "id": "etc_a19_telop_0040",
+      "g1t": "a19_telop_03",
+      "w": 1536,
+      "h": 96,
+      "text": "на открытие, в конце концов того стоили. Ателье процветает!",
+      "ebm": "ebm:mm13/event_message_mm13_030.ebm:1",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 41,
+      "id": "etc_a19_telop_0041",
+      "g1t": "a19_telop_03",
+      "w": 1536,
+      "h": 96,
+      "text": "И, благодаря новооткрытой деловой хватке Суэль,",
+      "ebm": "ebm:mm13/event_message_mm13_030.ebm:2",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 42,
+      "id": "etc_a19_telop_0042",
+      "g1t": "a19_telop_03",
+      "w": 1536,
+      "h": 96,
+      "text": "их предприятие будет только процветать.",
+      "ebm": "ebm:mm13/event_message_mm13_030.ebm:2",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 43,
+      "id": "etc_a19_telop_0043",
+      "g1t": "a19_telop_03",
+      "w": 1536,
+      "h": 96,
+      "text": "И сегодня снова множество клиентов собирается,",
+      "ebm": "ebm:mm13/event_message_mm13_030.ebm:3",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 44,
+      "id": "etc_a19_telop_0044",
+      "g1t": "a19_telop_03",
+      "w": 1536,
+      "h": 96,
+      "text": "ожидая открытия их нового величайшего ателье",
+      "ebm": "ebm:mm13/event_message_mm13_030.ebm:3",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 45,
+      "id": "etc_a19_telop_0045",
+      "g1t": "a19_telop_03",
+      "w": 1536,
+      "h": 96,
+      "text": "Чтобы стать алхимиками, способными помочь каждому,",
+      "ebm": "ebm:mm13/event_message_mm13_040.ebm:0",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 46,
+      "id": "etc_a19_telop_0046",
+      "g1t": "a19_telop_03",
+      "w": 1536,
+      "h": 96,
+      "text": "Лиди и Сью решили сосредоточиться на Таинственных картинах.",
+      "ebm": "ebm:mm13/event_message_mm13_040.ebm:0",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 47,
+      "id": "etc_a19_telop_0047",
+      "g1t": "a19_telop_03",
+      "w": 1536,
+      "h": 96,
+      "text": "С целью писать Таинственные картины, которые помогут всем,",
+      "ebm": "ebm:mm13/event_message_mm13_040.ebm:1",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 48,
+      "id": "etc_a19_telop_0048",
+      "g1t": "a19_telop_04",
+      "w": 1536,
+      "h": 96,
+      "text": "Лиди и Сью начали упорные тренировки.",
+      "ebm": "ebm:mm13/event_message_mm13_040.ebm:1",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 49,
+      "id": "etc_a19_telop_0049",
+      "g1t": "a19_telop_04",
+      "w": 1536,
+      "h": 96,
+      "text": "С помощью отца, Роджера, в конце концов им действительно удалось",
+      "ebm": "ebm:mm13/event_message_mm13_040.ebm:2",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 50,
+      "id": "etc_a19_telop_0050",
+      "g1t": "a19_telop_04",
+      "w": 1536,
+      "h": 96,
+      "text": "создать первую собственную Таинственную картину.",
+      "ebm": "ebm:mm13/event_message_mm13_040.ebm:2",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 51,
+      "id": "etc_a19_telop_0051",
+      "g1t": "a19_telop_04",
+      "w": 1536,
+      "h": 96,
+      "text": "Очень скоро весь мир загудел от их имён,",
+      "ebm": "ebm:mm13/event_message_mm13_040.ebm:3",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 52,
+      "id": "etc_a19_telop_0052",
+      "g1t": "a19_telop_04",
+      "w": 1536,
+      "h": 96,
+      "text": "и близняшки повсюду стали известны как «Таинственные художницы».",
+      "ebm": "ebm:mm13/event_message_mm13_040.ebm:3",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 53,
+      "id": "etc_a19_telop_0053",
+      "g1t": "a19_telop_04",
+      "w": 1536,
+      "h": 96,
+      "text": "~Год спустя~",
+      "ebm": "",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 54,
+      "id": "etc_a19_telop_0054",
+      "g1t": "a19_telop_04",
+      "w": 1536,
+      "h": 96,
+      "text": "Лидия и Сюэль наконец осуществили свою давнюю мечту",
+      "ebm": "ebm:mm13/event_message_mm13_050.ebm:21",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 55,
+      "id": "etc_a19_telop_0055",
+      "g1t": "a19_telop_04",
+      "w": 1536,
+      "h": 96,
+      "text": "управлять лучшим ателье в королевстве,",
+      "ebm": "ebm:mm13/event_message_mm13_050.ebm:21",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 56,
+      "id": "etc_a19_telop_0056",
+      "g1t": "a19_telop_04",
+      "w": 1536,
+      "h": 96,
+      "text": "Они покинули родной город Мервейль",
+      "ebm": "ebm:mm13/event_message_mm13_050.ebm:22",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 57,
+      "id": "etc_a19_telop_0057",
+      "g1t": "a19_telop_04",
+      "w": 1536,
+      "h": 96,
+      "text": "и теперь путешествуют по миру вместе с Софи и Фирис.",
+      "ebm": "ebm:mm13/event_message_mm13_050.ebm:22",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 58,
+      "id": "etc_a19_telop_0058",
+      "g1t": "a19_telop_04",
+      "w": 1536,
+      "h": 96,
+      "text": "И сейчас, наверняка, где-то в дальнем уголке этого огромного мира",
+      "ebm": "ebm:mm13/event_message_mm13_050.ebm:23",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 59,
+      "id": "etc_a19_telop_0059",
+      "g1t": "a19_telop_04",
+      "w": 1536,
+      "h": 96,
+      "text": "они своей алхимией делают кого-то счастливым.",
+      "ebm": "ebm:mm13/event_message_mm13_050.ebm:23",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 60,
+      "id": "etc_a19_telop_0060",
+      "g1t": "a19_telop_04",
+      "w": 1536,
+      "h": 96,
+      "text": "Конец",
+      "ebm": "",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 61,
+      "id": "etc_a19_telop_0061",
+      "g1t": "a19_telop_05",
+      "w": 1536,
+      "h": 96,
+      "text": "Куда бы они ни ушли,",
+      "ebm": "ebm:mm13/event_message_mm13_050.ebm:51",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 62,
+      "id": "etc_a19_telop_0062",
+      "g1t": "a19_telop_05",
+      "w": 1536,
+      "h": 96,
+      "text": "какие бы следы ни оставили их дела...",
+      "ebm": "ebm:mm13/event_message_mm13_050.ebm:51",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 63,
+      "id": "etc_a19_telop_0063",
+      "g1t": "a19_telop_05",
+      "w": 1536,
+      "h": 96,
+      "text": "Рассказы об их приключениях",
+      "ebm": "ebm:mm13/event_message_mm13_050.ebm:52",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 64,
+      "id": "etc_a19_telop_0064",
+      "g1t": "a19_telop_05",
+      "w": 1536,
+      "h": 96,
+      "text": "стали предметом многих книг и картин.",
+      "ebm": "ebm:mm13/event_message_mm13_050.ebm:52",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 65,
+      "id": "etc_a19_telop_0065",
+      "g1t": "a19_telop_05",
+      "w": 1536,
+      "h": 96,
+      "text": "И все последующие поколения единодушно называют эту эпоху",
+      "ebm": "ebm:mm13/event_message_mm13_050.ebm:53",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 66,
+      "id": "etc_a19_telop_0066",
+      "g1t": "a19_telop_05",
+      "w": 1536,
+      "h": 96,
+      "text": "временем, когда алхимия процветала и обогащала жизнь людей,",
+      "ebm": "ebm:mm13/event_message_mm13_050.ebm:53",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 67,
+      "id": "etc_a19_telop_0067",
+      "g1t": "a19_telop_05",
+      "w": 1536,
+      "h": 96,
+      "text": "жизнь, полную чудес и неоспоримого счастья,",
+      "ebm": "ebm:mm13/event_message_mm13_050.ebm:54",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 68,
+      "id": "etc_a19_telop_0068",
+      "g1t": "a19_telop_05",
+      "w": 1536,
+      "h": 96,
+      "text": "",
+      "ebm": "",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 69,
+      "id": "etc_a19_telop_0069",
+      "g1t": "a19_telop_05",
+      "w": 1536,
+      "h": 96,
+      "text": "— «Эпохой Таинственного».",
+      "ebm": "ebm:mm13/event_message_mm13_050.ebm:55",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 70,
+      "id": "etc_a19_telop_0070",
+      "g1t": "a19_telop_06",
+      "w": 1536,
+      "h": 96,
+      "text": "Шепчущие голоса разносят слухи из-за деревьев.",
+      "ebm": "ebm:xf06/event_message_xf06_010.ebm:0",
+      "gradient": "gradient2"
+    },
+    {
+      "index": 71,
+      "id": "etc_a19_telop_0071",
+      "g1t": "a19_telop_06",
+      "w": 1536,
+      "h": 96,
+      "text": "",
+      "ebm": "",
+      "gradient": "gradient2"
+    },
+    {
+      "index": 72,
+      "id": "etc_a19_telop_0072",
+      "g1t": "a19_telop_06",
+      "w": 1536,
+      "h": 96,
+      "text": "Из мрачной тьмы вы чувствуете чей-то взгляд,",
+      "ebm": "ebm:xf06/event_message_xf06_010.ebm:1",
+      "gradient": "gradient2"
+    },
+    {
+      "index": 73,
+      "id": "etc_a19_telop_0073",
+      "g1t": "a19_telop_06",
+      "w": 1536,
+      "h": 96,
+      "text": "что-то... наблюдающее за вами.",
+      "ebm": "ebm:xf06/event_message_xf06_010.ebm:1",
+      "gradient": "gradient2"
+    },
+    {
+      "index": 74,
+      "id": "etc_a19_telop_0074",
+      "g1t": "a19_telop_06",
+      "w": 1536,
+      "h": 96,
+      "text": "Оглянувшись вокруг, вы видите лишь эти корявые деревья.",
+      "ebm": "ebm:xf06/event_message_xf06_010.ebm:2",
+      "gradient": "gradient2"
+    },
+    {
+      "index": 75,
+      "id": "etc_a19_telop_0075",
+      "g1t": "a19_telop_06",
+      "w": 1536,
+      "h": 96,
+      "text": "Все, кто посетит это место, непременно почувствуют страх.",
+      "ebm": "ebm:xf06/event_message_xf06_010.ebm:2",
+      "gradient": "gradient2"
+    },
+    {
+      "index": 76,
+      "id": "etc_a19_telop_0076",
+      "g1t": "a19_telop_06",
+      "w": 1536,
+      "h": 96,
+      "text": "И не без причины. Ведь это место — перекресток",
+      "ebm": "ebm:xf06/event_message_xf06_010.ebm:3",
+      "gradient": "gradient2"
+    },
+    {
+      "index": 77,
+      "id": "etc_a19_telop_0077",
+      "g1t": "a19_telop_06",
+      "w": 1536,
+      "h": 96,
+      "text": "между миром живых и миром призраков.",
+      "ebm": "ebm:xf06/event_message_xf06_010.ebm:3",
+      "gradient": "gradient2"
+    },
+    {
+      "index": 78,
+      "id": "etc_a19_telop_0078",
+      "g1t": "a19_telop_06",
+      "w": 1536,
+      "h": 96,
+      "text": "Это Жуткий лес.",
+      "ebm": "ebm:xf06/event_message_xf06_010.ebm:4",
+      "gradient": "gradient2"
+    },
+    {
+      "index": 79,
+      "id": "etc_a19_telop_0079",
+      "g1t": "a19_telop_06",
+      "w": 1536,
+      "h": 96,
+      "text": "Остерегайтесь шуток, которые могут сыграть с вами здесь...",
+      "ebm": "ebm:xf06/event_message_xf06_010.ebm:4",
+      "gradient": "gradient2"
+    },
+    {
+      "index": 80,
+      "id": "etc_a19_telop_0080",
+      "g1t": "a19_telop_06",
+      "w": 1536,
+      "h": 96,
+      "text": "Спокойный и холодный грот вечной зимы.",
+      "ebm": "",
+      "gradient": "gradient3"
+    },
+    {
+      "index": 81,
+      "id": "etc_a19_telop_0081",
+      "g1t": "a19_telop_06",
+      "w": 1536,
+      "h": 96,
+      "text": "Здесь цветут ледяные цветы из кристаллов.",
+      "ebm": "ebm:xf06/event_message_xf06_020.ebm:0",
+      "gradient": "gradient3"
+    },
+    {
+      "index": 82,
+      "id": "etc_a19_telop_0082",
+      "g1t": "a19_telop_06",
+      "w": 1536,
+      "h": 96,
+      "text": "Ход времени отполировал ледяные стены до прозрачности,",
+      "ebm": "ebm:xf06/event_message_xf06_020.ebm:1",
+      "gradient": "gradient3"
+    },
+    {
+      "index": 83,
+      "id": "etc_a19_telop_0083",
+      "g1t": "a19_telop_06",
+      "w": 1536,
+      "h": 96,
+      "text": "и теперь они источают непрерывное сияние.",
+      "ebm": "ebm:xf06/event_message_xf06_020.ebm:1",
+      "gradient": "gradient3"
+    },
+    {
+      "index": 84,
+      "id": "etc_a19_telop_0084",
+      "g1t": "a19_telop_06",
+      "w": 1536,
+      "h": 96,
+      "text": "Они похожи на глянцевое зеркало.",
+      "ebm": "ebm:xf06/event_message_xf06_020.ebm:2",
+      "gradient": "gradient3"
+    },
+    {
+      "index": 85,
+      "id": "etc_a19_telop_0085",
+      "g1t": "a19_telop_06",
+      "w": 1536,
+      "h": 96,
+      "text": "Однако у вас не будет времени полюбоваться своим отражением.",
+      "ebm": "ebm:xf06/event_message_xf06_020.ebm:2",
+      "gradient": "gradient3"
+    },
+    {
+      "index": 86,
+      "id": "etc_a19_telop_0086",
+      "g1t": "a19_telop_07",
+      "w": 1536,
+      "h": 96,
+      "text": "Как у каждой розы есть шипы,",
+      "ebm": "ebm:xf06/event_message_xf06_020.ebm:3",
+      "gradient": "gradient3"
+    },
+    {
+      "index": 87,
+      "id": "etc_a19_telop_0087",
+      "g1t": "a19_telop_07",
+      "w": 1536,
+      "h": 96,
+      "text": "так и тёмные тени пристально следят из-за морозных цветов.",
+      "ebm": "ebm:xf06/event_message_xf06_020.ebm:3",
+      "gradient": "gradient3"
+    },
+    {
+      "index": 88,
+      "id": "etc_a19_telop_0088",
+      "g1t": "a19_telop_07",
+      "w": 1536,
+      "h": 96,
+      "text": "Светящийся ледяной грот охраняет Повелитель инея.",
+      "ebm": "ebm:xf06/event_message_xf06_020.ebm:4",
+      "gradient": "gradient3"
+    },
+    {
+      "index": 89,
+      "id": "etc_a19_telop_0089",
+      "g1t": "a19_telop_07",
+      "w": 1536,
+      "h": 96,
+      "text": "Так какое же будущее на самом деле отражает здешний лёд?..",
+      "ebm": "ebm:xf06/event_message_xf06_020.ebm:4",
+      "gradient": "gradient3"
+    },
+    {
+      "index": 90,
+      "id": "etc_a19_telop_0090",
+      "g1t": "a19_telop_07",
+      "w": 1536,
+      "h": 96,
+      "text": "Со скрежещущим рёвом изливается ливень ярко-красного цвета.",
+      "ebm": "ebm:xf06/event_message_xf06_030.ebm:0",
+      "gradient": "gradient4"
+    },
+    {
+      "index": 91,
+      "id": "etc_a19_telop_0091",
+      "g1t": "a19_telop_07",
+      "w": 1536,
+      "h": 96,
+      "text": "",
+      "ebm": "",
+      "gradient": "gradient4"
+    },
+    {
+      "index": 92,
+      "id": "etc_a19_telop_0092",
+      "g1t": "a19_telop_07",
+      "w": 1536,
+      "h": 96,
+      "text": "Бесконечный, низвергающийся поток расплавленной породы опаляет небо,",
+      "ebm": "ebm:xf06/event_message_xf06_030.ebm:1",
+      "gradient": "gradient4"
+    },
+    {
+      "index": 93,
+      "id": "etc_a19_telop_0093",
+      "g1t": "a19_telop_07",
+      "w": 1536,
+      "h": 96,
+      "text": "высушивает землю, превращаясь в море огня.",
+      "ebm": "ebm:xf06/event_message_xf06_030.ebm:1",
+      "gradient": "gradient4"
+    },
+    {
+      "index": 94,
+      "id": "etc_a19_telop_0094",
+      "g1t": "a19_telop_07",
+      "w": 1536,
+      "h": 96,
+      "text": "Среди этого буйства охватывающего пламени",
+      "ebm": "ebm:xf06/event_message_xf06_030.ebm:2",
+      "gradient": "gradient4"
+    },
+    {
+      "index": 95,
+      "id": "etc_a19_telop_0095",
+      "g1t": "a19_telop_07",
+      "w": 1536,
+      "h": 96,
+      "text": "ни одно семя жизни не может надеяться найти опору.",
+      "ebm": "ebm:xf06/event_message_xf06_030.ebm:2",
+      "gradient": "gradient4"
+    },
+    {
+      "index": 96,
+      "id": "etc_a19_telop_0096",
+      "g1t": "a19_telop_07",
+      "w": 1536,
+      "h": 96,
+      "text": "Под рёв дракона этот мир движется к разрушению.",
+      "ebm": "ebm:xf06/event_message_xf06_030.ebm:3",
+      "gradient": "gradient4"
+    },
+    {
+      "index": 97,
+      "id": "etc_a19_telop_0097",
+      "g1t": "a19_telop_07",
+      "w": 1536,
+      "h": 96,
+      "text": "Станете ли вы свидетелем этой судьбы?",
+      "ebm": "ebm:xf06/event_message_xf06_030.ebm:3",
+      "gradient": "gradient4"
+    },
+    {
+      "index": 98,
+      "id": "etc_a19_telop_0098",
+      "g1t": "a19_telop_07",
+      "w": 1536,
+      "h": 96,
+      "text": "Земля красного апокалипсиса — Великие каскады Анфела.",
+      "ebm": "ebm:xf06/event_message_xf06_030.ebm:4",
+      "gradient": "gradient4"
+    },
+    {
+      "index": 99,
+      "id": "etc_a19_telop_0099",
+      "g1t": "a19_telop_07",
+      "w": 1536,
+      "h": 96,
+      "text": "Если бы только здесь нашлось спасение...",
+      "ebm": "ebm:xf06/event_message_xf06_030.ebm:4",
+      "gradient": "gradient4"
+    },
+    {
+      "index": 100,
+      "id": "etc_a19_telop_0100",
+      "g1t": "a19_telop_07",
+      "w": 1536,
+      "h": 96,
+      "text": "Белый лес и замёрзшая усадьба, молча стоящая",
+      "ebm": "ebm:xf06/event_message_xf06_040.ebm:0",
+      "gradient": "gradient5"
+    },
+    {
+      "index": 101,
+      "id": "etc_a19_telop_0101",
+      "g1t": "a19_telop_07",
+      "w": 1536,
+      "h": 96,
+      "text": "среди покрытых инеем деревьев.",
+      "ebm": "ebm:xf06/event_message_xf06_040.ebm:0",
+      "gradient": "gradient5"
+    },
+    {
+      "index": 102,
+      "id": "etc_a19_telop_0102",
+      "g1t": "a19_telop_08",
+      "w": 1536,
+      "h": 96,
+      "text": "Пол, стены и даже время здесь заморожены,",
+      "ebm": "ebm:xf06/event_message_xf06_040.ebm:1",
+      "gradient": "gradient5"
+    },
+    {
+      "index": 103,
+      "id": "etc_a19_telop_0103",
+      "g1t": "a19_telop_08",
+      "w": 1536,
+      "h": 96,
+      "text": "просто существуют, скованные инеем льда.",
+      "ebm": "ebm:xf06/event_message_xf06_040.ebm:1",
+      "gradient": "gradient5"
+    },
+    {
+      "index": 104,
+      "id": "etc_a19_telop_0104",
+      "g1t": "a19_telop_08",
+      "w": 1536,
+      "h": 96,
+      "text": "В просторном поместье живёт одинокая девушка,",
+      "ebm": "ebm:xf06/event_message_xf06_040.ebm:2",
+      "gradient": "gradient5"
+    },
+    {
+      "index": 105,
+      "id": "etc_a19_telop_0105",
+      "g1t": "a19_telop_08",
+      "w": 1536,
+      "h": 96,
+      "text": "но её сердце тоже замёрзло во льду.",
+      "ebm": "ebm:xf06/event_message_xf06_040.ebm:2",
+      "gradient": "gradient5"
+    },
+    {
+      "index": 106,
+      "id": "etc_a19_telop_0106",
+      "g1t": "a19_telop_08",
+      "w": 1536,
+      "h": 96,
+      "text": "И это понятно. Ведь именно она",
+      "ebm": "ebm:xf06/event_message_xf06_040.ebm:3",
+      "gradient": "gradient5"
+    },
+    {
+      "index": 107,
+      "id": "etc_a19_telop_0107",
+      "g1t": "a19_telop_08",
+      "w": 1536,
+      "h": 96,
+      "text": "создала этот холодный мир таким, каким хотела его видеть.",
+      "ebm": "ebm:xf06/event_message_xf06_040.ebm:3",
+      "gradient": "gradient5"
+    },
+    {
+      "index": 108,
+      "id": "etc_a19_telop_0108",
+      "g1t": "a19_telop_08",
+      "w": 1536,
+      "h": 96,
+      "text": "Замёрзший дворец, созданный некой девушкой...",
+      "ebm": "ebm:xf06/event_message_xf06_040.ebm:4",
+      "gradient": "gradient5"
+    },
+    {
+      "index": 109,
+      "id": "etc_a19_telop_0109",
+      "g1t": "a19_telop_08",
+      "w": 1536,
+      "h": 96,
+      "text": "Придёт ли когда-нибудь оттепель на эту скованную льдом землю?",
+      "ebm": "ebm:xf06/event_message_xf06_040.ebm:4",
+      "gradient": "gradient5"
+    },
+    {
+      "index": 110,
+      "id": "etc_a19_telop_0110",
+      "g1t": "a19_telop_08",
+      "w": 1536,
+      "h": 96,
+      "text": "Океан, вздымающийся бушующими волнами.",
+      "ebm": "ebm:xf06/event_message_xf06_050.ebm:0",
+      "gradient": "gradient6"
+    },
+    {
+      "index": 111,
+      "id": "etc_a19_telop_0111",
+      "g1t": "a19_telop_08",
+      "w": 1536,
+      "h": 96,
+      "text": "Над ним развевается чёрный флаг пиратского судна.",
+      "ebm": "ebm:xf06/event_message_xf06_050.ebm:0",
+      "gradient": "gradient6"
+    },
+    {
+      "index": 112,
+      "id": "etc_a19_telop_0112",
+      "g1t": "a19_telop_08",
+      "w": 1536,
+      "h": 96,
+      "text": "В этих кишащих разбойниками водах известна легенда",
+      "ebm": "ebm:xf06/event_message_xf06_050.ebm:1",
+      "gradient": "gradient6"
+    },
+    {
+      "index": 113,
+      "id": "etc_a19_telop_0113",
+      "g1t": "a19_telop_08",
+      "w": 1536,
+      "h": 96,
+      "text": "об одном пирате, что возвысился над всеми остальными.",
+      "ebm": "ebm:xf06/event_message_xf06_050.ebm:1",
+      "gradient": "gradient6"
+    },
+    {
+      "index": 114,
+      "id": "etc_a19_telop_0114",
+      "g1t": "a19_telop_08",
+      "w": 1536,
+      "h": 96,
+      "text": "Поджигая всё на своём пути и утопая в богатствах,",
+      "ebm": "ebm:xf06/event_message_xf06_050.ebm:2",
+      "gradient": "gradient6"
+    },
+    {
+      "index": 115,
+      "id": "etc_a19_telop_0115",
+      "g1t": "a19_telop_08",
+      "w": 1536,
+      "h": 96,
+      "text": "был известен один... Пылающий Бакен.",
+      "ebm": "ebm:xf06/event_message_xf06_050.ebm:2",
+      "gradient": "gradient6"
+    },
+    {
+      "index": 116,
+      "id": "etc_a19_telop_0116",
+      "g1t": "a19_telop_08",
+      "w": 1536,
+      "h": 96,
+      "text": "Все пираты до сих пор ищут его самые ценные сокровища,",
+      "ebm": "ebm:xf06/event_message_xf06_050.ebm:3",
+      "gradient": "gradient6"
+    },
+    {
+      "index": 117,
+      "id": "etc_a19_telop_0117",
+      "g1t": "a19_telop_08",
+      "w": 1536,
+      "h": 96,
+      "text": "спрятанные где-то в пещере под морскими водами.",
+      "ebm": "ebm:xf06/event_message_xf06_050.ebm:3",
+      "gradient": "gradient6"
+    },
+    {
+      "index": 118,
+      "id": "etc_a19_telop_0118",
+      "g1t": "a19_telop_09",
+      "w": 1536,
+      "h": 96,
+      "text": "Так называемая Сокровищница на дне моря,",
+      "ebm": "ebm:xf06/event_message_xf06_050.ebm:4",
+      "gradient": "gradient6"
+    },
+    {
+      "index": 119,
+      "id": "etc_a19_telop_0119",
+      "g1t": "a19_telop_09",
+      "w": 1536,
+      "h": 96,
+      "text": "где вероятно до сих пор дремлет великое пиратское сокровище...",
+      "ebm": "ebm:xf06/event_message_xf06_050.ebm:4",
+      "gradient": "gradient6"
+    },
+    {
+      "index": 120,
+      "id": "etc_a19_telop_0120",
+      "g1t": "a19_telop_09",
+      "w": 1536,
+      "h": 96,
+      "text": "На самом деле время может двигаться только в одну сторону.",
+      "ebm": "ebm:xf06/event_message_xf06_060.ebm:0",
+      "gradient": "gradient7"
+    },
+    {
+      "index": 121,
+      "id": "etc_a19_telop_0121",
+      "g1t": "a19_telop_09",
+      "w": 1536,
+      "h": 96,
+      "text": "Как стрела, оно просто устремляется вперёд.",
+      "ebm": "ebm:xf06/event_message_xf06_060.ebm:0",
+      "gradient": "gradient7"
+    },
+    {
+      "index": 122,
+      "id": "etc_a19_telop_0122",
+      "g1t": "a19_telop_09",
+      "w": 1536,
+      "h": 96,
+      "text": "Но что, если бы существовал мир, в котором это было не так?",
+      "ebm": "ebm:xf06/event_message_xf06_060.ebm:1",
+      "gradient": "gradient7"
+    },
+    {
+      "index": 123,
+      "id": "etc_a19_telop_0123",
+      "g1t": "a19_telop_09",
+      "w": 1536,
+      "h": 96,
+      "text": "Если бы вы могли снова встретиться со своим утраченным прошлым?",
+      "ebm": "ebm:xf06/event_message_xf06_060.ebm:1",
+      "gradient": "gradient7"
+    },
+    {
+      "index": 124,
+      "id": "etc_a19_telop_0124",
+      "g1t": "a19_telop_09",
+      "w": 1536,
+      "h": 96,
+      "text": "Радость, гнев, печаль, удовольствия.",
+      "ebm": "ebm:xf06/event_message_xf06_060.ebm:2",
+      "gradient": "gradient7"
+    },
+    {
+      "index": 125,
+      "id": "etc_a19_telop_0125",
+      "g1t": "a19_telop_09",
+      "w": 1536,
+      "h": 96,
+      "text": "Какое время своей жизни путешественник хотел бы пережить снова?",
+      "ebm": "ebm:xf06/event_message_xf06_060.ebm:2",
+      "gradient": "gradient7"
+    },
+    {
+      "index": 126,
+      "id": "etc_a19_telop_0126",
+      "g1t": "a19_telop_09",
+      "w": 1536,
+      "h": 96,
+      "text": "Однако никогда нельзя забывать об одном.",
+      "ebm": "ebm:xf06/event_message_xf06_060.ebm:3",
+      "gradient": "gradient7"
+    },
+    {
+      "index": 127,
+      "id": "etc_a19_telop_0127",
+      "g1t": "a19_telop_09",
+      "w": 1536,
+      "h": 96,
+      "text": "Прошлое ушло. И его никогда не изменить.",
+      "ebm": "ebm:xf06/event_message_xf06_060.ebm:3",
+      "gradient": "gradient7"
+    },
+    {
+      "index": 128,
+      "id": "etc_a19_telop_0128",
+      "g1t": "a19_telop_09",
+      "w": 1536,
+      "h": 96,
+      "text": "Это непостоянное изображение времени — «Этель Непика».",
+      "ebm": "ebm:xf06/event_message_xf06_060.ebm:4",
+      "gradient": "gradient7"
+    },
+    {
+      "index": 129,
+      "id": "etc_a19_telop_0129",
+      "g1t": "a19_telop_09",
+      "w": 1536,
+      "h": 96,
+      "text": "Как вы отреагируете, столкнувшись с призраками былых времён?",
+      "ebm": "ebm:xf06/event_message_xf06_060.ebm:4",
+      "gradient": "gradient7"
+    },
+    {
+      "index": 130,
+      "id": "etc_a19_telop_0130",
+      "g1t": "a19_telop_09",
+      "w": 1536,
+      "h": 96,
+      "text": "Это картина, созданная человеком, которого я люблю.",
+      "ebm": "ebm:xf06/event_message_xf06_070.ebm:0",
+      "gradient": "gradient8"
+    },
+    {
+      "index": 131,
+      "id": "etc_a19_telop_0131",
+      "g1t": "a19_telop_09",
+      "w": 1536,
+      "h": 96,
+      "text": "Тем, кто так много обо мне думает. Особое место.",
+      "ebm": "ebm:xf06/event_message_xf06_070.ebm:0",
+      "gradient": "gradient8"
+    },
+    {
+      "index": 132,
+      "id": "etc_a19_telop_0132",
+      "g1t": "a19_telop_09",
+      "w": 1536,
+      "h": 96,
+      "text": "Плывущие облака и цветочные поля, колышущиеся на ветру.",
+      "ebm": "ebm:xf06/event_message_xf06_070.ebm:1",
+      "gradient": "gradient8"
+    },
+    {
+      "index": 133,
+      "id": "etc_a19_telop_0133",
+      "g1t": "a19_telop_09",
+      "w": 1536,
+      "h": 96,
+      "text": "Всё так мило и так чудесно.",
+      "ebm": "ebm:xf06/event_message_xf06_070.ebm:1",
+      "gradient": "gradient8"
+    },
+    {
+      "index": 134,
+      "id": "etc_a19_telop_0134",
+      "g1t": "a19_telop_10",
+      "w": 1536,
+      "h": 96,
+      "text": "Но даже здесь, в этом сказочном месте,",
+      "ebm": "ebm:xf06/event_message_xf06_070.ebm:2",
+      "gradient": "gradient8"
+    },
+    {
+      "index": 135,
+      "id": "etc_a19_telop_0135",
+      "g1t": "a19_telop_10",
+      "w": 1536,
+      "h": 96,
+      "text": "я всё ещё чувствую дыру в своём сердце.",
+      "ebm": "ebm:xf06/event_message_xf06_070.ebm:2",
+      "gradient": "gradient8"
+    },
+    {
+      "index": 136,
+      "id": "etc_a19_telop_0136",
+      "g1t": "a19_telop_10",
+      "w": 1536,
+      "h": 96,
+      "text": "Мои сокровища, способные заполнить эту дыру,",
+      "ebm": "ebm:xf06/event_message_xf06_070.ebm:3",
+      "gradient": "gradient8"
+    },
+    {
+      "index": 137,
+      "id": "etc_a19_telop_0137",
+      "g1t": "a19_telop_10",
+      "w": 1536,
+      "h": 96,
+      "text": "слишком надолго исчезли из моей жизни.",
+      "ebm": "ebm:xf06/event_message_xf06_070.ebm:3",
+      "gradient": "gradient8"
+    },
+    {
+      "index": 138,
+      "id": "etc_a19_telop_0138",
+      "g1t": "a19_telop_10",
+      "w": 1536,
+      "h": 96,
+      "text": "Сегодня я снова пройдусь по этим цветочным полям,",
+      "ebm": "ebm:xf06/event_message_xf06_070.ebm:4",
+      "gradient": "gradient8"
+    },
+    {
+      "index": 139,
+      "id": "etc_a19_telop_0139",
+      "g1t": "a19_telop_10",
+      "w": 1536,
+      "h": 96,
+      "text": "надеясь увидеть их хотя бы мельком. Надеясь на чудо.",
+      "ebm": "ebm:xf06/event_message_xf06_070.ebm:4",
+      "gradient": "gradient8"
+    },
+    {
+      "index": 140,
+      "id": "etc_a19_telop_0140",
+      "g1t": "a19_telop_10",
+      "w": 1536,
+      "h": 96,
+      "text": "Рай облаков и цветов. «Небесный цветочный сад».",
+      "ebm": "ebm:xf06/event_message_xf06_070.ebm:5",
+      "gradient": "gradient8"
+    },
+    {
+      "index": 141,
+      "id": "etc_a19_telop_0141",
+      "g1t": "a19_telop_10",
+      "w": 1536,
+      "h": 96,
+      "text": "Лидия... Сюэль... Как вы обе?",
+      "ebm": "ebm:xf06/event_message_xf06_070.ebm:5",
+      "gradient": "gradient8"
+    },
+    {
+      "index": 142,
+      "id": "etc_a19_telop_0142",
+      "g1t": "a19_telop_10",
+      "w": 1536,
+      "h": 96,
+      "text": "Бесчисленные осколки звёзд пролились дождем на широкую равнину.",
+      "ebm": "ebm:xf06/event_message_xf06_080.ebm:0",
+      "gradient": "gradient9"
+    },
+    {
+      "index": 143,
+      "id": "etc_a19_telop_0143",
+      "g1t": "a19_telop_10",
+      "w": 1536,
+      "h": 96,
+      "text": "Это были благословения небес, давшие им жизнь.",
+      "ebm": "ebm:xf06/event_message_xf06_080.ebm:0",
+      "gradient": "gradient9"
+    },
+    {
+      "index": 144,
+      "id": "etc_a19_telop_0144",
+      "g1t": "a19_telop_10",
+      "w": 1536,
+      "h": 96,
+      "text": "Падающие звёзды вспахивают землю, становятся её частью",
+      "ebm": "ebm:xf06/event_message_xf06_080.ebm:1",
+      "gradient": "gradient9"
+    },
+    {
+      "index": 145,
+      "id": "etc_a19_telop_0145",
+      "g1t": "a19_telop_10",
+      "w": 1536,
+      "h": 96,
+      "text": "и покрывают поля мириадами цветов, гармонирующих с ночным небом.",
+      "ebm": "ebm:xf06/event_message_xf06_080.ebm:1",
+      "gradient": "gradient9"
+    },
+    {
+      "index": 146,
+      "id": "etc_a19_telop_0146",
+      "g1t": "a19_telop_10",
+      "w": 1536,
+      "h": 96,
+      "text": "Каждую ночь Звёздные цветы",
+      "ebm": "ebm:xf06/event_message_xf06_080.ebm:2",
+      "gradient": "gradient9"
+    },
+    {
+      "index": 147,
+      "id": "etc_a19_telop_0147",
+      "g1t": "a19_telop_10",
+      "w": 1536,
+      "h": 96,
+      "text": "на земле думают о месте своего рождения над ними.",
+      "ebm": "ebm:xf06/event_message_xf06_080.ebm:2",
+      "gradient": "gradient9"
+    },
+    {
+      "index": 148,
+      "id": "etc_a19_telop_0148",
+      "g1t": "a19_telop_10",
+      "w": 1536,
+      "h": 96,
+      "text": "Они не смогут вернуться, но кажется, что это близко, достижимо,",
+      "ebm": "ebm:xf06/event_message_xf06_080.ebm:3",
+      "gradient": "gradient9"
+    },
+    {
+      "index": 149,
+      "id": "etc_a19_telop_0149",
+      "g1t": "a19_telop_10",
+      "w": 1536,
+      "h": 96,
+      "text": "если бы только они раскинули свои листья достаточно далеко...",
+      "ebm": "ebm:xf06/event_message_xf06_080.ebm:3",
+      "gradient": "gradient9"
+    },
+    {
+      "index": 150,
+      "id": "etc_a19_telop_0150",
+      "g1t": "a19_telop_11",
+      "w": 1536,
+      "h": 96,
+      "text": "На Звёздной равнине и земля, и небо полны звёзд,",
+      "ebm": "ebm:xf06/event_message_xf06_080.ebm:4",
+      "gradient": "gradient9"
+    },
+    {
+      "index": 151,
+      "id": "etc_a19_telop_0151",
+      "g1t": "a19_telop_11",
+      "w": 1536,
+      "h": 96,
+      "text": "и их свет освещает важное в вашем сердце.",
+      "ebm": "ebm:xf06/event_message_xf06_080.ebm:4",
+      "gradient": "gradient9"
+    },
+    {
+      "index": 152,
+      "id": "etc_a19_telop_0152",
+      "g1t": "a19_telop_11",
+      "w": 1536,
+      "h": 96,
+      "text": "Сильные чувства способны призывать чудеса.",
+      "ebm": "ebm:xf06/event_message_xf06_090.ebm:0",
+      "gradient": "gradient10"
+    },
+    {
+      "index": 153,
+      "id": "etc_a19_telop_0153",
+      "g1t": "a19_telop_11",
+      "w": 1536,
+      "h": 96,
+      "text": "Но у этой медали есть и обратная сторона:",
+      "ebm": "ebm:xf06/event_message_xf06_090.ebm:0",
+      "gradient": "gradient10"
+    },
+    {
+      "index": 154,
+      "id": "etc_a19_telop_0154",
+      "g1t": "a19_telop_11",
+      "w": 1536,
+      "h": 96,
+      "text": "Здесь лежит бесконечная тьма.",
+      "ebm": "ebm:xf06/event_message_xf06_090.ebm:1",
+      "gradient": "gradient10"
+    },
+    {
+      "index": 155,
+      "id": "etc_a19_telop_0155",
+      "g1t": "a19_telop_11",
+      "w": 1536,
+      "h": 96,
+      "text": "Здесь скорбит мир, закрашенный чёрным.",
+      "ebm": "ebm:xf06/event_message_xf06_090.ebm:1",
+      "gradient": "gradient10"
+    },
+    {
+      "index": 156,
+      "id": "etc_a19_telop_0156",
+      "g1t": "a19_telop_11",
+      "w": 1536,
+      "h": 96,
+      "text": "Даже голос горькой обиды со временем иссякнет,",
+      "ebm": "ebm:xf06/event_message_xf06_090.ebm:2",
+      "gradient": "gradient10"
+    },
+    {
+      "index": 157,
+      "id": "etc_a19_telop_0157",
+      "g1t": "a19_telop_11",
+      "w": 1536,
+      "h": 96,
+      "text": "канув в небытие вместе со всем остальным.",
+      "ebm": "ebm:xf06/event_message_xf06_090.ebm:2",
+      "gradient": "gradient10"
+    },
+    {
+      "index": 158,
+      "id": "etc_a19_telop_0158",
+      "g1t": "a19_telop_11",
+      "w": 1536,
+      "h": 96,
+      "text": "Чёрный горизонт. Это финал этой Таинственной картины",
+      "ebm": "ebm:xf06/event_message_xf06_090.ebm:3",
+      "gradient": "gradient10"
+    },
+    {
+      "index": 159,
+      "id": "etc_a19_telop_0159",
+      "g1t": "a19_telop_11",
+      "w": 1536,
+      "h": 96,
+      "text": "искаженных и сломленных чудес — мира, где правят лишь чёрное и белое.",
+      "ebm": "ebm:xf06/event_message_xf06_090.ebm:3",
+      "gradient": "gradient10"
+    },
+    {
+      "index": 160,
+      "id": "etc_a19_telop_0160",
+      "g1t": "a19_telop_11",
+      "w": 1536,
+      "h": 96,
+      "text": "Лидия, Сюэль... Пожалуйста, будьте осторожны.",
+      "ebm": "ebm:xf06/event_message_xf06_090.ebm:4",
+      "gradient": "gradient10"
+    },
+    {
+      "index": 161,
+      "id": "etc_a19_telop_0161",
+      "g1t": "a19_telop_11",
+      "w": 1536,
+      "h": 96,
+      "text": "",
+      "ebm": "",
+      "gradient": "gradient10"
+    },
+    {
+      "index": 162,
+      "id": "etc_a19_telop_0162",
+      "g1t": "a19_telop_11",
+      "w": 1536,
+      "h": 96,
+      "text": "Это мир, созданный некой Богиней.",
+      "ebm": "ebm:xf06/event_message_xf06_100.ebm:0",
+      "gradient": "gradient11"
+    },
+    {
+      "index": 163,
+      "id": "etc_a19_telop_0163",
+      "g1t": "a19_telop_11",
+      "w": 1536,
+      "h": 96,
+      "text": "Словно нарисованный последними мгновениями заходящего солнца,",
+      "ebm": "ebm:xf06/event_message_xf06_100.ebm:0",
+      "gradient": "gradient11"
+    },
+    {
+      "index": 164,
+      "id": "etc_a19_telop_0164",
+      "g1t": "a19_telop_11",
+      "w": 1536,
+      "h": 96,
+      "text": "Это мир, выкованный некой Богиней.",
+      "ebm": "ebm:xf06/event_message_xf06_100.ebm:1",
+      "gradient": "gradient11"
+    },
+    {
+      "index": 165,
+      "id": "etc_a19_telop_0165",
+      "g1t": "a19_telop_11",
+      "w": 1536,
+      "h": 96,
+      "text": "Мир противоречий, отвергающий всех пришельцев",
+      "ebm": "ebm:xf06/event_message_xf06_100.ebm:1",
+      "gradient": "gradient11"
+    },
+    {
+      "index": 166,
+      "id": "etc_a19_telop_0166",
+      "g1t": "a19_telop_12",
+      "w": 1536,
+      "h": 96,
+      "text": "Обладательница избыточной силы,",
+      "ebm": "ebm:xf06/event_message_xf06_100.ebm:2",
+      "gradient": "gradient11"
+    },
+    {
+      "index": 167,
+      "id": "etc_a19_telop_0167",
+      "g1t": "a19_telop_12",
+      "w": 1536,
+      "h": 96,
+      "text": "Она желала быть окружённой одиночеством из-за этой силы.",
+      "ebm": "ebm:xf06/event_message_xf06_100.ebm:2",
+      "gradient": "gradient11"
+    },
+    {
+      "index": 168,
+      "id": "etc_a19_telop_0168",
+      "g1t": "a19_telop_12",
+      "w": 1536,
+      "h": 96,
+      "text": "И всё же то одиночество, которого Она желала,",
+      "ebm": "ebm:xf06/event_message_xf06_100.ebm:3",
+      "gradient": "gradient11"
+    },
+    {
+      "index": 169,
+      "id": "etc_a19_telop_0169",
+      "g1t": "a19_telop_12",
+      "w": 1536,
+      "h": 96,
+      "text": "теперь именно то, что душит её.",
+      "ebm": "ebm:xf06/event_message_xf06_100.ebm:3",
+      "gradient": "gradient11"
+    },
+    {
+      "index": 170,
+      "id": "etc_a19_telop_0170",
+      "g1t": "a19_telop_12",
+      "w": 1536,
+      "h": 96,
+      "text": "Владения отчаяния отвергают любые связи с внешним миром,",
+      "ebm": "ebm:xf06/event_message_xf06_100.ebm:4",
+      "gradient": "gradient11"
+    },
+    {
+      "index": 171,
+      "id": "etc_a19_telop_0171",
+      "g1t": "a19_telop_12",
+      "w": 1536,
+      "h": 96,
+      "text": "чтобы защитить сердце своей Багровой Богини...",
+      "ebm": "ebm:xf06/event_message_xf06_100.ebm:4",
+      "gradient": "gradient11"
+    },
+    {
+      "index": 172,
+      "id": "etc_a19_telop_0172",
+      "g1t": "a19_telop_13",
+      "w": 1536,
+      "h": 192,
+      "text": "«Жуткий лес»",
+      "ebm": "",
+      "gradient": "gradient12"
+    },
+    {
+      "index": 173,
+      "id": "etc_a19_telop_0173",
+      "g1t": "a19_telop_13",
+      "w": 1536,
+      "h": 192,
+      "text": "«Светящийся ледяной грот»",
+      "ebm": "",
+      "gradient": "gradient12"
+    },
+    {
+      "index": 174,
+      "id": "etc_a19_telop_0174",
+      "g1t": "a19_telop_13",
+      "w": 1536,
+      "h": 192,
+      "text": "«Великие каскады Анфела»",
+      "ebm": "",
+      "gradient": "gradient12"
+    },
+    {
+      "index": 175,
+      "id": "etc_a19_telop_0175",
+      "g1t": "a19_telop_13",
+      "w": 1536,
+      "h": 192,
+      "text": "«Замёрзший дворец»",
+      "ebm": "",
+      "gradient": "gradient12"
+    },
+    {
+      "index": 176,
+      "id": "etc_a19_telop_0176",
+      "g1t": "a19_telop_13",
+      "w": 1536,
+      "h": 192,
+      "text": "«Сокровищница на дне моря»",
+      "ebm": "",
+      "gradient": "gradient12"
+    },
+    {
+      "index": 177,
+      "id": "etc_a19_telop_0177",
+      "g1t": "a19_telop_13",
+      "w": 1536,
+      "h": 192,
+      "text": "«Этель Непика»",
+      "ebm": "",
+      "gradient": "gradient12"
+    },
+    {
+      "index": 178,
+      "id": "etc_a19_telop_0178",
+      "g1t": "a19_telop_13",
+      "w": 1536,
+      "h": 192,
+      "text": "«Небесный цветочный сад»",
+      "ebm": "",
+      "gradient": "gradient12"
+    },
+    {
+      "index": 179,
+      "id": "etc_a19_telop_0179",
+      "g1t": "a19_telop_13",
+      "w": 1536,
+      "h": 192,
+      "text": "«Звёздная равнина»",
+      "ebm": "",
+      "gradient": "gradient12"
+    },
+    {
+      "index": 180,
+      "id": "etc_a19_telop_0180",
+      "g1t": "a19_telop_13",
+      "w": 1536,
+      "h": 192,
+      "text": "«Чёрный горизонт»",
+      "ebm": "",
+      "gradient": "gradient12"
+    },
+    {
+      "index": 181,
+      "id": "etc_a19_telop_0181",
+      "g1t": "a19_telop_13",
+      "w": 1536,
+      "h": 192,
+      "text": "«Владения отчаяния»",
+      "ebm": "",
+      "gradient": "gradient12"
+    },
+    {
+      "index": 182,
+      "id": "etc_a19_telop_0182",
+      "g1t": "a19_telop_14",
+      "w": 1536,
+      "h": 96,
+      "text": "и теперь стремятся стать алхимиками, способными помочь всем.",
+      "ebm": "ebm:mm13/event_message_mm13_050.ebm:21",
+      "gradient": "gradient1"
+    },
+    {
+      "index": 183,
+      "id": "etc_a19_telop_0183",
+      "g1t": "a19_telop_14",
+      "w": 1536,
+      "h": 96,
+      "text": "они также могут породить непреклонную порочность.",
+      "ebm": "ebm:xf06/event_message_xf06_090.ebm:0",
+      "gradient": "gradient10"
+    },
+    {
+      "index": 184,
+      "id": "etc_a19_telop_0184",
+      "g1t": "a19_telop_14",
+      "w": 1536,
+      "h": 96,
+      "text": "этот мир покрыт тьмой и багрянцем.",
+      "ebm": "ebm:xf06/event_message_xf06_100.ebm:0",
+      "gradient": "gradient11"
+    },
+    {
+      "index": 185,
+      "id": "etc_a19_telop_0185",
+      "g1t": "a19_telop_14",
+      "w": 1536,
+      "h": 96,
+      "text": "и в то же время жаждущий их общества.",
+      "ebm": "ebm:xf06/event_message_xf06_100.ebm:1",
+      "gradient": "gradient11"
+    },
+    {
+      "index": 186,
+      "id": "etc_a19_telop_0186",
+      "g1t": "a19_telop_15",
+      "w": 1536,
+      "h": 192,
+      "text": "«Руины города без ночи»",
+      "ebm": "",
+      "gradient": "gradient12"
+    },
+    {
+      "index": 187,
+      "id": "etc_a19_telop_0187",
+      "g1t": "a19_telop_15",
+      "w": 1536,
+      "h": 192,
+      "text": "«Земля синей меланхолии»",
+      "ebm": "",
+      "gradient": "gradient12"
+    },
+    {
+      "index": 188,
+      "id": "etc_a19_telop_0188",
+      "g1t": "a19_telop_16",
+      "w": 1536,
+      "h": 96,
+      "text": "Город, укоренённый в новой земле.",
+      "ebm": "ebm:yy01/event_message_yy01_050.ebm:5",
+      "gradient": "gradient13"
+    },
+    {
+      "index": 189,
+      "id": "etc_a19_telop_0189",
+      "g1t": "a19_telop_16",
+      "w": 1536,
+      "h": 96,
+      "text": "Символ трудолюбия своего народа.",
+      "ebm": "ebm:yy01/event_message_yy01_050.ebm:5",
+      "gradient": "gradient13"
+    },
+    {
+      "index": 190,
+      "id": "etc_a19_telop_0190",
+      "g1t": "a19_telop_16",
+      "w": 1536,
+      "h": 96,
+      "text": "Семя прорастает, обещая будущее цветение.",
+      "ebm": "ebm:yy01/event_message_yy01_050.ebm:6",
+      "gradient": "gradient13"
+    },
+    {
+      "index": 191,
+      "id": "etc_a19_telop_0191",
+      "g1t": "a19_telop_16",
+      "w": 1536,
+      "h": 96,
+      "text": "Этот мир растёт водой новых встреч.",
+      "ebm": "ebm:yy01/event_message_yy01_050.ebm:6",
+      "gradient": "gradient13"
+    },
+    {
+      "index": 192,
+      "id": "etc_a19_telop_0192",
+      "g1t": "a19_telop_16",
+      "w": 1536,
+      "h": 96,
+      "text": "Рождённая чудесной встречей, эта земля",
+      "ebm": "ebm:yy01/event_message_yy01_050.ebm:7",
+      "gradient": "gradient13"
+    },
+    {
+      "index": 193,
+      "id": "etc_a19_telop_0193",
+      "g1t": "a19_telop_16",
+      "w": 1536,
+      "h": 96,
+      "text": "простирает ветви, чтобы рассказать новую историю.",
+      "ebm": "ebm:yy01/event_message_yy01_050.ebm:7",
+      "gradient": "gradient13"
+    },
+    {
+      "index": 194,
+      "id": "etc_a19_telop_0194",
+      "g1t": "a19_telop_16",
+      "w": 1536,
+      "h": 96,
+      "text": "Черпая силу из наследия мудрецов былых времён",
+      "ebm": "ebm:yy01/event_message_yy01_050.ebm:8",
+      "gradient": "gradient13"
+    },
+    {
+      "index": 195,
+      "id": "etc_a19_telop_0195",
+      "g1t": "a19_telop_16",
+      "w": 1536,
+      "h": 96,
+      "text": "и надеясь на новые встречи...",
+      "ebm": "ebm:yy01/event_message_yy01_050.ebm:8",
+      "gradient": "gradient13"
+    },
+    {
+      "index": 196,
+      "id": "etc_a19_telop_0196",
+      "g1t": "a19_telop_16",
+      "w": 1536,
+      "h": 96,
+      "text": "«Земля судьбоносных встреч»...",
+      "ebm": "ebm:yy01/event_message_yy01_050.ebm:9",
+      "gradient": "gradient13"
+    },
+    {
+      "index": 197,
+      "id": "etc_a19_telop_0197",
+      "g1t": "a19_telop_16",
+      "w": 1536,
+      "h": 96,
+      "text": "Хранит ли её могучее древо надежду — или что-то иное...?",
+      "ebm": "ebm:yy01/event_message_yy01_050.ebm:9",
+      "gradient": "gradient13"
+    },
+    {
+      "index": 198,
+      "id": "etc_a19_telop_0198",
+      "g1t": "a19_telop_17",
+      "w": 1536,
+      "h": 192,
+      "text": "«Земля судьбоносных встреч»",
+      "ebm": "",
+      "gradient": "gradient12"
+    }
+  ]
+}
