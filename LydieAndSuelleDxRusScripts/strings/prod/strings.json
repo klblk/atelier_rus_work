@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T10:55:38.460859+00:00",
+  "generated_at": "2026-11-01T11:13:02.905821+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -9802,7 +9802,7 @@
       "index": 23,
       "speaker": "Sue",
       "original": "There's only one way to find out. I take it you're coming too, Lucia?",
-      "translation": "Есть только один способ это узнать. Я так понимаю, ты тоже придешь, Люсия?"
+      "translation": "Есть только один способ это узнать. Я так понимаю, ты тоже придёшь, Люсия?"
     },
     "ebm:mm04/event_message_mm04_080.ebm:24": {
       "source": "pack01_ebm",
@@ -9906,7 +9906,7 @@
       "index": 7,
       "speaker": "Firis",
       "original": "Surprise! This tent was made using alchemy. It twists space, expanding the insides!",
-      "translation": "Сюрприз! Эта палатка сделана с помощью алхимии. Она искривляет пространство, расширяя внутренности!"
+      "translation": "Сюрприз! Эта палатка сделана с помощью алхимии. Она искривляет пространство, расширяя его размеры!"
     },
     "ebm:mm04/event_message_mm04_100.ebm:8": {
       "source": "pack01_ebm",
@@ -9978,7 +9978,7 @@
       "index": 16,
       "speaker": "Sue",
       "original": "Wah!",
-      "translation": "Ва!"
+      "translation": "Ах!"
     },
     "ebm:mm04/event_message_mm04_100.ebm:17": {
       "source": "pack01_ebm",
@@ -37842,7 +37842,7 @@
       "index": 0,
       "speaker": "Sue",
       "original": "Hello... wah! Look at all these customers!",
-      "translation": "Здравствуй... вау! Посмотрите, сколько клиентов!"
+      "translation": "Здравствуй... ах! Посмотрите, сколько клиентов!"
     },
     "ebm:mm12/event_message_mm12_040.ebm:1": {
       "source": "pack01_ebm",
@@ -52482,7 +52482,7 @@
       "index": 16,
       "speaker": "Lydie",
       "original": "Wah, Sue! It's not what you think!",
-      "translation": "Вах, Сью! Всё не так, как ты думаешь!"
+      "translation": "Ах, Сью! Всё не так, как ты думаешь!"
     },
     "ebm:ms06/event_message_ms06_060.ebm:17": {
       "source": "pack01_ebm",
@@ -60450,7 +60450,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "... Wah. Didn't you say c-cute?",
-      "translation": "...Уа. Ты же говорила м-мило?"
+      "translation": "...Ах. Ты же говорила м-мило?"
     },
     "ebm:qc02_fir/event_message_qc02_fir_120.ebm:12": {
       "source": "pack01_ebm",
@@ -62706,7 +62706,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "Wah, I'm sorry Sue. W-What should we do?",
-      "translation": "Вааа, прости, Сью. Ч-что нам делать?"
+      "translation": "Ах, прости, Сью. Ч-что нам делать?"
     },
     "ebm:qc03_sop/event_message_qc03_sop_030.ebm:7": {
       "source": "pack01_ebm",
@@ -69722,7 +69722,7 @@
       "index": 12,
       "speaker": "Lydie",
       "original": "Wah! What about this bomb, then?",
-      "translation": "Ваа! А эта бомба?"
+      "translation": "Ах! А эта бомба?"
     },
     "ebm:qc05_alt/event_message_qc05_alt_010.ebm:13": {
       "source": "pack01_ebm",
@@ -97866,7 +97866,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "You're kidding! That can't be... wah, it is! We could mix some of these up right away!",
-      "translation": "Ты шутишь! Быть не может... вау, правда! Некоторые можно сразу смешать!"
+      "translation": "Ты шутишь! Быть не может... ах, правда! Некоторые можно сразу смешать!"
     },
     "ebm:qc15_lia/event_message_qc15_lia_100.ebm:12": {
       "source": "pack01_ebm",
@@ -106434,7 +106434,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Wahh, Ilmeria! Wh-What's the matter?! Why are you apologizing?! What happened?!",
-      "translation": "Ваа, Ильмерия! Ч-что случилось?! Почему вы извиняетесь?! Что произошло?!"
+      "translation": "Ах, Ильмерия! Ч-что случилось?! Почему вы извиняетесь?! Что произошло?!"
     },
     "ebm:xx05/event_message_xx05_130.ebm:2": {
       "source": "pack01_ebm",
@@ -147551,7 +147551,7 @@
       "file": "str_fm_tweet.xml",
       "string_no": "131417",
       "original": "Ah, wahh, c-calm down! Take it easy! Sue, you need to relax!",
-      "translation": "Ах, вау, успокойся! Не принимайте близко к сердцу! Сью, тебе нужно расслабиться!"
+      "translation": "Ах, ах, успокойся! Не принимайте близко к сердцу! Сью, тебе нужно расслабиться!"
     },
     "pack02:131418": {
       "source": "pack02_text_en",
@@ -184672,7 +184672,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473740",
       "original": "“Wah! It crumbled apart! Now I’ve got black stuff all over my hands! What is this?!”^00“Um, it seems to be a metal that acts as a substitute activator... But it’s pretty tricky to handle...”",
-      "translation": "«Ва-ах! Рассыпалось! Чёрное по всем рукам! Что это?!»^00«Эм, похоже, металл — замена активатора... Но с ним довольно сложно...»"
+      "translation": "«Ах! Рассыпалось! Чёрное по всем рукам! Что это?!»^00«Эм, похоже, металл — замена активатора... Но с ним довольно сложно...»"
     },
     "pack02:3473741": {
       "source": "pack02_text_en",
@@ -185365,7 +185365,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473854",
       "original": "“This is a beginner-friendly gun. It’s standard and easy to use, so it’s good for pros, too.”^00“If it’s beginner-friendly, maybe I could fire it. Yah! Ow, ow! Wah, my shoulder slipped!”",
-      "translation": "«Это пистолет для новичков. Стандартный и удобный — подойдёт и профи.»^00«Раз для новичков, может, я смогу выстрелить. Я! Ай, ай! Уа, плечо выскочило!»"
+      "translation": "«Это пистолет для новичков. Стандартный и удобный — подойдёт и профи.»^00«Раз для новичков, может, я смогу выстрелить. Я! Ай, ай! Ах, плечо выскочило!»"
     },
     "pack02:3473855": {
       "source": "pack02_text_en",
@@ -186212,7 +186212,7 @@
       "file": "str_library_item.xml",
       "string_no": "3474061",
       "original": "“The ice version of the Blitz Core! ...Not that I need it - I can control the power of ice anyway!”^00“Huh, really?! How can you...?! Wah, that's cold!”^00“Face the wrath of my special snowball attack... Hey, no! Not down my clothes!”",
-      "translation": "«Ледяная версия огненного блиц-ядра! ...Хотя мне она не нужна — я и так управляю силой льда!»^00«А, правда?! Как ты...?! Уаа, холодно!»^00«Вкуси ярости моей особой снежковой атаки... Эй, нет! Не за шиворот!»"
+      "translation": "«Ледяная версия огненного блиц-ядра! ...Хотя мне она не нужна — я и так управляю силой льда!»^00«А, правда?! Как ты...?! Ах, холодно!»^00«Вкуси ярости моей особой снежковой атаки... Эй, нет! Не за шиворот!»"
     },
     "pack02:3474062": {
       "source": "pack02_text_en",
@@ -186457,7 +186457,7 @@
       "file": "str_library_item.xml",
       "string_no": "3474096",
       "original": "“Wah, Mathias looks really suspicious in those glasses! Really suspicious!”^00“Ah, you're right. I think we'll have to report him to the authorities.”^00“...Hey, what did I do to deserve this treatment?”",
-      "translation": "«Уаа, Маттиас выглядит очень подозрительно в этих очках! Очень подозрительно!»^00«А, правда. Думаю, придётся сообщить о нём властям.»^00«...Эй, что я такого сделал, чтобы заслужить такое обращение?»"
+      "translation": "«Ах, Маттиас выглядит очень подозрительно в этих очках! Очень подозрительно!»^00«А, правда. Думаю, придётся сообщить о нём властям.»^00«...Эй, что я такого сделал, чтобы заслужить такое обращение?»"
     },
     "pack02:3474097": {
       "source": "pack02_text_en",
