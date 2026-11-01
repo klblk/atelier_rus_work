@@ -83,6 +83,12 @@
       "plural_ru": "Испытания ранга",
       "aliases_en": ["Promotion Tests", "promotion test", "promotion tests"],
       "notes": "склоняется; с большой «И»; не «испытание на повышение ранга»"
+    },
+    "Follow-up Skills": {
+      "ru": "Навыки поддержки",
+      "singular_ru": "Навык поддержки",
+      "aliases_en": ["Follow-up Skill", "Follow-up skills", "follow-up skills", "follow-up skill"],
+      "notes": "склоняется (навыков/навыка поддержки); UI с большой «Н»; не «последующие навыки»; не путать с Follow-up: … → Доп. атака"
     }
   }
 }

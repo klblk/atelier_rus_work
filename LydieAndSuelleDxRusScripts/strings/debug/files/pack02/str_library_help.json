@@ -443,14 +443,14 @@
       "file": "str_library_help.xml",
       "string_no": "3866687",
       "original": "For teams with an attacker and a supporter, the supporters will be able to use &lt;CLGR&gt;Follow-up Skills&lt;CLNR&gt;.",
-      "translation": "В командах, в которых есть нападающий и болельщик, болельщики смогут использовать &lt;CLGR&gt;Навыки последующих действий&lt;CLNR&gt;."
+      "translation": "В командах, в которых есть нападающий и болельщик, болельщики смогут использовать &lt;CLGR&gt;Навыки поддержки&lt;CLNR&gt;."
     },
     "pack02:3866688": {
       "source": "pack02_text_en",
       "file": "str_library_help.xml",
       "string_no": "3866688",
       "original": "The &lt;CLGR&gt;attackers&lt;CLNR&gt; engage the enemies directly. Although the attackers are unable to use Follow-up Skills, they can select from all other commands, and use Active Skills or items.",
-      "translation": "Атакующие &lt;CLGR&gt;&lt;CLNR&gt; атакуют врагов напрямую. Хотя злоумышленники не могут использовать последующие навыки, они могут выбирать из всех других команд и использовать активные навыки или предметы."
+      "translation": "Атакующие &lt;CLGR&gt;&lt;CLNR&gt; атакуют врагов напрямую. Хотя злоумышленники не могут использовать навыки поддержки, они могут выбирать из всех других команд и использовать активные навыки или предметы."
     },
     "pack02:3866689": {
       "source": "pack02_text_en",
@@ -464,7 +464,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866690",
       "original": "&lt;CLGR&gt;Battle Mix&lt;CLNR&gt; is a special Follow-up Skill unique for Lydie and Sue. Follow-up Skills require that certain conditions are fulfilled before they can be used.",
-      "translation": "&lt;CLGR&gt;Боевой синтез&lt;CLNR&gt; — это особый дополнительный навык, уникальный для Лидии и Сью. Последующие навыки требуют выполнения определенных условий, прежде чем их можно будет использовать."
+      "translation": "&lt;CLGR&gt;Боевой синтез&lt;CLNR&gt; — это особый навык поддержки, уникальный для Лидии и Сью. Навыки поддержки требуют выполнения определенных условий, прежде чем их можно будет использовать."
     },
     "pack02:3866691": {
       "source": "pack02_text_en",
@@ -730,14 +730,14 @@
       "file": "str_library_help.xml",
       "string_no": "3866728",
       "original": "Follow-up Skills are the skills specific to characters who are acting as the support, and they are triggered automatically once certain conditions are met.",
-      "translation": "Последующие навыки — это навыки, специфичные для персонажей, выступающих в роли поддержки, и они активируются автоматически при выполнении определенных условий."
+      "translation": "Навыки поддержки — это навыки, специфичные для персонажей, выступающих в роли поддержки, и они активируются автоматически при выполнении определенных условий."
     },
     "pack02:3866729": {
       "source": "pack02_text_en",
       "file": "str_library_help.xml",
       "string_no": "3866729",
       "original": "The &lt;CLGR&gt;supporters&lt;CLNR&gt; can only use Follow-up Skills. Additionally, their HP and MP replenishes over time.",
-      "translation": "Сторонники &lt;CLGR&gt;&lt;CLNR&gt; могут использовать только последующие навыки. Кроме того, их HP и MP со временем восполняются."
+      "translation": "Сторонники &lt;CLGR&gt;&lt;CLNR&gt; могут использовать только навыки поддержки. Кроме того, их HP и MP со временем восполняются."
     },
     "pack02:3866730": {
       "source": "pack02_text_en",
@@ -989,7 +989,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866765",
       "original": "When the members in the rearguard know multiple Follow-up Skills, you can perform them consecutively if all of the necessary conditions are met.",
-      "translation": "Когда члены арьергарда знают несколько последующих навыков, вы можете применять их последовательно, если соблюдены все необходимые условия."
+      "translation": "Когда члены арьергарда знают несколько навыков поддержки, вы можете применять их последовательно, если соблюдены все необходимые условия."
     },
     "pack02:3866766": {
       "source": "pack02_text_en",
@@ -1003,7 +1003,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866767",
       "original": "When the Combination Gauge is full, it will trigger your Follow-up Skill, and then your Combination Arts next.",
-      "translation": "Когда шкала комбинаций заполнится, активируется ваш последующий навык, а затем ваши Комбинированные искусства."
+      "translation": "Когда шкала комбинаций заполнится, активируется ваш навык поддержки, а затем ваши Комбинированные искусства."
     },
     "pack02:3866768": {
       "source": "pack02_text_en",
@@ -1129,7 +1129,7 @@
       "file": "str_library_help.xml",
       "string_no": "3866785",
       "original": "However, some skills have set use counts and probabilities. Be sure to understand the limits of your Follow-up Skills and then plan your battle tactics accordingly.",
-      "translation": "Однако для некоторых навыков установлено количество и вероятность использования. Обязательно осознавайте пределы своих Последующих Навыков, а затем соответствующим образом планируйте свою тактику боя."
+      "translation": "Однако для некоторых навыков установлено количество и вероятность использования. Обязательно осознавайте пределы своих навыков поддержки, а затем соответствующим образом планируйте свою тактику боя."
     },
     "pack02:3866786": {
       "source": "pack02_text_en",
