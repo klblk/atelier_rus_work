@@ -21,9 +21,9 @@ from pack02_xml import (  # noqa: E402
     DEFAULT_DIALOG_LIMIT_BYTES,
     STRCOMBINEALL_NAME,
     Pack02XmlCache,
+    apply_updates,
     cached_match_text,
     npc_mess_file,
-    patch_catalog_cached,
 )
 from rus_scripts_common import PACK02_PATCH_ROOT, PACK02_TEXT_EN, STRINGS_JSON  # noqa: E402
 from text_encoder import make_encode_fn, utf8_byte_length  # noqa: E402
@@ -70,6 +70,7 @@ def main() -> None:
     cache = Pack02XmlCache(args.text_en_dir.resolve())
     out_dir = args.out_root.resolve() / "saves/text_en"
     pending_files: set[str] = set()
+    pending_updates: list[tuple[str, str, str]] = []
 
     for entry in sorted(entries, key=lambda item: item.get("string_no", "")):
         string_no = entry["string_no"]
@@ -97,17 +98,16 @@ def main() -> None:
             raise SystemExit(f"String_No={string_no}: missing layer file in catalog")
         if cached_match_text(cache, string_no, output_text, layer_file):
             continue
-        if report.dry_run:
-            report.strings_applied.append(string_no)
-            pending_files.add(layer_file)
-            pending_files.add(STRCOMBINEALL_NAME)
-            continue
-        patch_catalog_cached(cache, string_no, output_text, layer_file)
         report.strings_applied.append(string_no)
+        pending_files.add(layer_file)
+        pending_files.add(STRCOMBINEALL_NAME)
+        if not report.dry_run:
+            pending_updates.append((layer_file, string_no, output_text))
 
     if report.dry_run:
         report.files_written = sorted(pending_files)
     else:
+        apply_updates(cache, pending_updates)
         report.files_written = cache.flush(out_dir)
 
     print(f"mode: {mode.value}")

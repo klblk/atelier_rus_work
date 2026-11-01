@@ -10,7 +10,7 @@
 | Vanilla XML | `extracts/pack_extracts/PACK02_extract/saves/text_en/` |
 | Выход | `build/PACK02_patch/saves/text_en/` |
 
-На каждое изменение патчатся **layer file** и **`strcombineall.xml`**. Неизменённые файлы в patch не копируются.
+На каждое изменение патчатся **layer file** и **`strcombineall.xml`** (батчем за один проход на файл). Неизменённые файлы в patch не копируются.
 
 ### Режимы (`encode_text_en.py --mode`)
 
@@ -50,7 +50,7 @@ python3 PACKutils_scripts/repack_pack.py PACK02
 
 | Файл | Назначение |
 |------|------------|
-| `pack02_xml.py` | `Pack02XmlCache`, патч text_en по `String_No` |
+| `pack02_xml.py` | `Pack02XmlCache`, батч-патч text_en по `String_No` (span-индекс) |
 | `encode_text_en.py` | encode/apply переводов text_en |
 | `build_ui_string_id_map.py` | `str_ui.xml` → `ui_string_id_map.json` |
 | `patch_ui_strings.py` | `string_id` в ui_en layout XML |
