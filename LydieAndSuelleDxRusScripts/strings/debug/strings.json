@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T10:35:43.987112+00:00",
+  "generated_at": "2026-11-01T10:55:37.992101+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -2786,7 +2786,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "All who wish to take part and register their atelier should apply at the Castle.",
-      "translation": "Всем желающим принять участие и зарегистрировать свое ателье необходимо подать заявку в Замке."
+      "translation": "Всем желающим принять участие и зарегистрировать своё ателье необходимо подать заявку в Замке."
     },
     "ebm:mm02/event_message_mm02_020.ebm:8": {
       "source": "pack01_ebm",
@@ -3818,7 +3818,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "Ilmeria said to think it over, but we aren't going to change our minds.",
-      "translation": "Ильмерия сказала подумать, но мы не собираемся менять свое решение."
+      "translation": "Ильмерия сказала подумать, но мы не собираемся менять своё решение."
     },
     "ebm:mm02/event_message_mm02_110.ebm:5": {
       "source": "pack01_ebm",
@@ -9498,7 +9498,7 @@
       "index": 3,
       "speaker": "Mireille",
       "original": "That's fine, too. If you decide to take the test, just come and see me any time.",
-      "translation": "Это тоже нормально. Если вы решите пройти тест, просто приходите ко мне в любое время."
+      "translation": "Это тоже нормально. Если вы решите пройти испытание, просто приходите ко мне в любое время."
     },
     "ebm:mm04/event_message_mm04_070.ebm:0": {
       "source": "pack01_ebm",
@@ -9554,7 +9554,7 @@
       "index": 6,
       "speaker": "Mireille",
       "original": "Twins, Lucia. Will you combine your strength and defeat these monsters for us?",
-      "translation": "Близнецы, Люсия. Сможете ли вы объединить свои силы и победить этих монстров ради нас?"
+      "translation": "Близняшки, Люсия. Сможете ли вы объединить свои силы и победить этих монстров ради нас?"
     },
     "ebm:mm04/event_message_mm04_070.ebm:7": {
       "source": "pack01_ebm",
@@ -9586,7 +9586,7 @@
       "index": 10,
       "speaker": "Lucia",
       "original": "Ohohoho! We're rivals. I don't need to work with you!",
-      "translation": "Ого-хо-хо! Мы соперники. Мне не нужно с вами работать!"
+      "translation": "О-хо-хо-хо! Мы соперники. Мне не нужно с вами работать!"
     },
     "ebm:mm04/event_message_mm04_070.ebm:11": {
       "source": "pack01_ebm",
@@ -9674,7 +9674,7 @@
       "index": 7,
       "speaker": "Lydie",
       "original": "About those monsters there. What happened here?",
-      "translation": "О тех монстрах. Что здесь произошло?"
+      "translation": "Об этих монстрах. Что здесь произошло?"
     },
     "ebm:mm04/event_message_mm04_080.ebm:8": {
       "source": "pack01_ebm",
@@ -9738,7 +9738,7 @@
       "index": 15,
       "speaker": "Sue",
       "original": "We're twins, and alchemists too. Ah, and this is Lucia.",
-      "translation": "Мы близнецы и тоже алхимики. А, и это Люсия."
+      "translation": "Мы близняшки и тоже алхимики. А, и это Люсия."
     },
     "ebm:mm04/event_message_mm04_080.ebm:16": {
       "source": "pack01_ebm",
@@ -9746,7 +9746,7 @@
       "index": 16,
       "speaker": "Lucia",
       "original": "Don't make it sound like an afterthought! You two are the afterthought here!",
-      "translation": "Не делайте вид, будто я — оговорка! Здесь оговорка — вы двое!"
+      "translation": "Не говори об этом так, будто вспомнила в последний момент! Это вы две тут — последнее, о чём стоит вспоминать!"
     },
     "ebm:mm04/event_message_mm04_080.ebm:17": {
       "source": "pack01_ebm",
@@ -9770,7 +9770,7 @@
       "index": 19,
       "speaker": "Lydie",
       "original": "To your own atelier? Can we?",
-      "translation": "В собственное ателье? Можем ли мы?"
+      "translation": "В твоё ателье? Можем ли мы?"
     },
     "ebm:mm04/event_message_mm04_080.ebm:20": {
       "source": "pack01_ebm",
@@ -9778,7 +9778,7 @@
       "index": 20,
       "speaker": "Firis",
       "original": "Of course! It's a pretty unique one too, so I'm sure you'll love it.",
-      "translation": "Конечно! Оно тоже довольно уникальное, поэтому я уверена, что вам оно понравится."
+      "translation": "Конечно! Оно довольно уникальное, поэтому я уверена, что вам оно понравится."
     },
     "ebm:mm04/event_message_mm04_080.ebm:21": {
       "source": "pack01_ebm",
@@ -9794,7 +9794,7 @@
       "index": 22,
       "speaker": "Lydie",
       "original": "Did she just say that she \"put up\" her atelier? What does that mean?",
-      "translation": "Она только что сказала, что «поставила» свое ателье? Что это значит?"
+      "translation": "Она только что сказала, что «поставила» своё ателье? Что это значит?"
     },
     "ebm:mm04/event_message_mm04_080.ebm:23": {
       "source": "pack01_ebm",
@@ -18906,7 +18906,7 @@
       "index": 8,
       "speaker": "Sue",
       "original": "Aha! So this is yours? Let's find out what your name is!",
-      "translation": "Ага! Так это твое? Давайте узнаем, как вас зовут!"
+      "translation": "Ага! Так это твоё? Давайте узнаем, как вас зовут!"
     },
     "ebm:mm06/event_message_mm06_340.ebm:9": {
       "source": "pack01_ebm",
@@ -30562,7 +30562,7 @@
       "index": 9,
       "speaker": "Honnete",
       "original": "Uh! Roger, your letter!",
-      "translation": "Эм-м-м! Роджер, твое письмо!"
+      "translation": "Эм-м-м! Роджер, твоё письмо!"
     },
     "ebm:mm10/event_message_mm10_090.ebm:10": {
       "source": "pack01_ebm",
@@ -32938,7 +32938,7 @@
       "index": 12,
       "speaker": "Sue",
       "original": "Lydie's right. You'll be our mentor until the day we finally, finally prove ourselves superior!",
-      "translation": "Лиди права. Ты будешь нашим наставником до того дня, пока мы, наконец, наконец, не докажем свое превосходство!"
+      "translation": "Лиди права. Ты будешь нашим наставником до того дня, пока мы, наконец, наконец, не докажем своё превосходство!"
     },
     "ebm:mm10/event_message_mm10_260.ebm:13": {
       "source": "pack01_ebm",
@@ -127615,7 +127615,7 @@
       "file": "str_costume.xml",
       "string_no": "393228",
       "original": "These are my favorite clothes. I tried to take a little bit from both Liane's and Sophie’s outfits to come up with something of my own. Hehe... It makes me look all grown up, no?",
-      "translation": "Это моя любимая одежда. Я попыталась взять понемногу из нарядов Лианы и Софи, чтобы придумать что-то свое. Хе-хе... Это заставляет меня выглядеть взрослой, не так ли?"
+      "translation": "Это моя любимая одежда. Я попыталась взять понемногу из нарядов Лианы и Софи, чтобы придумать что-то своё. Хе-хе... Это заставляет меня выглядеть взрослой, не так ли?"
     },
     "pack02:393229": {
       "source": "pack02_text_en",
@@ -140278,7 +140278,7 @@
       "file": "str_extra_bgm.xml",
       "string_no": "1769631",
       "original": "(Continued from previous) But when I entered the forest, I found the foliage was so thick that I could barely walk! Forcing my way through the scrub would only result in scrapes and scratches, not to mention the mosquitoes! I remember dragging my sorry body home, and realizing that untouched nature is no fit setting for any tale of adventure. (Achiwa)",
-      "translation": "(Продолжение предыдущего) Но когда я вошел в лес, я обнаружил, что листва была такой густой, что я едва мог идти! Продираясь через кустарник, я получил бы только царапины и царапины, не говоря уже о комарах! Я помню, как притащил свое жалкое тело домой и понял, что нетронутая природа не подходит ни для одной истории о приключениях. (Ачива)"
+      "translation": "(Продолжение предыдущего) Но когда я вошел в лес, я обнаружил, что листва была такой густой, что я едва мог идти! Продираясь через кустарник, я получил бы только царапины и царапины, не говоря уже о комарах! Я помню, как притащил своё жалкое тело домой и понял, что нетронутая природа не подходит ни для одной истории о приключениях. (Ачива)"
     },
     "pack02:1769632": {
       "source": "pack02_text_en",
@@ -140306,7 +140306,7 @@
       "file": "str_extra_bgm.xml",
       "string_no": "1769635",
       "original": "(Continued from previous) I got my first job about eight years later, and although the boom had subsided somewhat by then, skiing was still popular. The fact that I had all my own gear, despite my lack of sporting skill, is evidence of that. I only ever went a handful of times, and I can’t ski all that well now, but looking back it makes you realize the power of a social craze. (Achiwa)",
-      "translation": "(Продолжение предыдущего) Свою первую работу я получил примерно восемь лет спустя, и хотя бум к тому времени несколько утих, лыжный спорт все ещё был популярен. Об этом свидетельствует тот факт, что у меня было все свое снаряжение, несмотря на отсутствие спортивных навыков. Я ездил туда всего несколько раз и сейчас не умею хорошо кататься на лыжах, но, оглядываясь назад, понимаешь всю силу социального увлечения. (Ачива)"
+      "translation": "(Продолжение предыдущего) Свою первую работу я получил примерно восемь лет спустя, и хотя бум к тому времени несколько утих, лыжный спорт все ещё был популярен. Об этом свидетельствует тот факт, что у меня было все своё снаряжение, несмотря на отсутствие спортивных навыков. Я ездил туда всего несколько раз и сейчас не умею хорошо кататься на лыжах, но, оглядываясь назад, понимаешь всю силу социального увлечения. (Ачива)"
     },
     "pack02:1769636": {
       "source": "pack02_text_en",
@@ -145640,7 +145640,7 @@
       "file": "str_fm_tweet.xml",
       "string_no": "131133",
       "original": "I don’t want to see any more of my traumatic past with my sister...",
-      "translation": "Я не хочу больше видеть свое травмирующее прошлое с сестрой..."
+      "translation": "Я не хочу больше видеть своё травмирующее прошлое с сестрой..."
     },
     "pack02:131134": {
       "source": "pack02_text_en",
@@ -147327,7 +147327,7 @@
       "file": "str_fm_tweet.xml",
       "string_no": "131382",
       "original": "...I’m not an animal, but thank you! I’ll accept your offer anyway, Lucia!",
-      "translation": "...Я не животное, но спасибо! Я всё равно приму твое предложение, Люсия!"
+      "translation": "...Я не животное, но спасибо! Я всё равно приму твоё предложение, Люсия!"
     },
     "pack02:131383": {
       "source": "pack02_text_en",
