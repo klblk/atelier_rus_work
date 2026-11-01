@@ -89,6 +89,11 @@
       "singular_ru": "Навык поддержки",
       "aliases_en": ["Follow-up Skill", "Follow-up skills", "follow-up skills", "follow-up skill"],
       "notes": "склоняется (навыков/навыка поддержки); UI с большой «Н»; не «последующие навыки»; не путать с Follow-up: … → Доп. атака"
+    },
+    "Restoration": {
+      "ru": "Реставрация",
+      "aliases_en": ["restoration", "Restorations", "restorations"],
+      "notes": "склоняется; EN Restoration → Реставрац…, EN restoration → реставрац…; не «восстановление»; не путать с Damage Restoration"
     }
   }
 }

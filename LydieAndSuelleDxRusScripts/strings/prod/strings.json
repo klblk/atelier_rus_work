@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T13:19:08.535032+00:00",
+  "generated_at": "2026-11-01T13:36:22.915882+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -10506,7 +10506,7 @@
       "index": 10,
       "speaker": "Mathias",
       "original": "Restoration requires Mysterious Paints, also known as \"Neige's Paints\".",
-      "translation": "Для реставрации требуются таинственные краски, также известные как «Краски Неж»."
+      "translation": "Для Реставрации требуются таинственные краски, также известные как «Краски Неж»."
     },
     "ebm:mm04/event_message_mm04_150.ebm:11": {
       "source": "pack01_ebm",
@@ -10538,7 +10538,7 @@
       "index": 14,
       "speaker": "Lucia",
       "original": "Seriously? Then I'll accept your offer. Restoration sounds like a pain, to be honest.",
-      "translation": "Серьёзно? Тогда я приму ваше предложение. Честно говоря, реставрация звучит как мучение."
+      "translation": "Серьёзно? Тогда я приму ваше предложение. Честно говоря, Реставрация звучит как мучение."
     },
     "ebm:mm04/event_message_mm04_150.ebm:15": {
       "source": "pack01_ebm",
@@ -10594,7 +10594,7 @@
       "index": 5,
       "speaker": "Sue",
       "original": "Ah! Work! That reminds me, Ilmeria! We have some Restoration we need to do.",
-      "translation": "Ах! Работа! Это напомнило мне, Ильмерия! Нам нужно провести некоторую реставрацию."
+      "translation": "Ах! Работа! Это напомнило мне, Ильмерия! Нам нужно провести некоторую Реставрацию."
     },
     "ebm:mm04/event_message_mm04_160.ebm:6": {
       "source": "pack01_ebm",
@@ -10850,7 +10850,7 @@
       "index": 6,
       "speaker": "Roger",
       "original": "Hahaha! What do you mean by \"strange\"? Anyway, what do you need those for?",
-      "translation": "Ха-ха-ха! Что вы подразумеваете под словом «странно»? Да и вообще, для чего они вам нужны?"
+      "translation": "Ха-ха-ха! Что ты подразумеваешь под словом «странные»? Да и вообще, для чего они вам нужны?"
     },
     "ebm:mm04/event_message_mm04_170.ebm:7": {
       "source": "pack01_ebm",
@@ -10922,7 +10922,7 @@
       "index": 4,
       "speaker": "Mireille",
       "original": "That's right. I've tweaked them a little. The Dream Paintbrushes exist to perform Restoration.",
-      "translation": "Верно. Я их немного подправила. Кисти сновидений существуют для выполнения Реставрации."
+      "translation": "Верно. Я их немного подправила. Кисти сновидений нужны для выполнения Реставрации."
     },
     "ebm:mm04/event_message_mm04_180.ebm:5": {
       "source": "pack01_ebm",
@@ -10954,7 +10954,7 @@
       "index": 8,
       "speaker": "System",
       "original": "Restoration first requires the Mysterious Paints suited to the painting you want to restore.",
-      "translation": "Для восстановления сначала потребуются Таинственные краски, подходящие к картине, которую вы хотите восстановить."
+      "translation": "Для Реставрации сначала потребуются Таинственные краски, подходящие к картине, которую вы хотите восстановить."
     },
     "ebm:mm04/event_message_mm04_180.ebm:9": {
       "source": "pack01_ebm",
@@ -18626,7 +18626,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Right, the Restoration is complete. Come on, everyone! Hurry!",
-      "translation": "Итак, восстановление завершено. Давайте, все! Быстрее!"
+      "translation": "Итак, Реставрация завершена. Давайте, все! Быстрее!"
     },
     "ebm:mm06/event_message_mm06_290.ebm:1": {
       "source": "pack01_ebm",
@@ -25106,7 +25106,7 @@
       "index": 8,
       "speaker": "Mireille",
       "original": "Perhaps it was because Falgior was inside it for so long... But restoration was impossible.",
-      "translation": "Возможно, потому что Фальгиор так долго был внутри... Но восстановить её было невозможно."
+      "translation": "Возможно, потому что Фальгиор так долго был внутри... Но реставрация была невозможна."
     },
     "ebm:mm08/event_message_mm08_100.ebm:9": {
       "source": "pack01_ebm",
@@ -25154,7 +25154,7 @@
       "index": 14,
       "speaker": "Mireille",
       "original": "Hehe, I'm glad to see you so interested. You can start from the Restoration, twins.",
-      "translation": "Хе-хе, рада видеть такой интерес. Можете начать с реставрации, близняшки."
+      "translation": "Хе-хе, рада видеть такой интерес. Можете начать с Реставрации, близняшки."
     },
     "ebm:mm08/event_message_mm08_110.ebm:0": {
       "source": "pack01_ebm",
@@ -28690,7 +28690,7 @@
       "index": 9,
       "speaker": "Lydie",
       "original": "What do you mean, Dad? You've finished the Restoration already?",
-      "translation": "Что ты имеешь в виду, пап? Ты уже закончил реставрацию?"
+      "translation": "Что ты имеешь в виду, пап? Ты уже закончил Реставрацию?"
     },
     "ebm:mm09/event_message_mm09_140.ebm:10": {
       "source": "pack01_ebm",
@@ -33514,7 +33514,7 @@
       "index": 0,
       "speaker": "Mireille",
       "original": "Ah, the Restoration is complete. Great work, twins...",
-      "translation": "Ах, реставрация завершена. Отличная работа, близняшки..."
+      "translation": "Ах, Реставрация завершена. Отличная работа, близняшки..."
     },
     "ebm:mm10/event_message_mm10_310.ebm:1": {
       "source": "pack01_ebm",
@@ -58298,7 +58298,7 @@
       "index": 12,
       "speaker": "Neige",
       "original": "That's right. These are only the concept model. I mean, they might be enough for a Restoration...",
-      "translation": "Именно. Это лишь концептуальная модель. Для восстановления, может, и хватит..."
+      "translation": "Именно. Это лишь концептуальная модель. Для Реставрации, может, и хватит..."
     },
     "ebm:qc01/event_message_qc01_100.ebm:13": {
       "source": "pack01_ebm",
@@ -124794,7 +124794,7 @@
       "file": "str_btl_define.xml",
       "string_no": "20447289",
       "original": "Confirm?",
-      "translation": "Подтверждать?"
+      "translation": "Подтвердить?"
     },
     "pack02:20447291": {
       "source": "pack02_text_en",
@@ -184742,7 +184742,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473750",
       "original": "“This is a paint required for restoration, it seems. It’s got a very cold color. How do you use it?”^00“Hmm... Sorry, I couldn’t say...”",
-      "translation": "«Похоже, это краска, нужная для восстановления. У неё очень холодный цвет. Как ею пользоваться?»^00«Хм... Прости, не могу сказать...»"
+      "translation": "«Похоже, это краска, нужная для реставрации. У неё очень холодный цвет. Как ею пользоваться?»^00«Хм... Прости, не могу сказать...»"
     },
     "pack02:3473751": {
       "source": "pack02_text_en",
@@ -191700,7 +191700,7 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423373",
       "original": "Leave the restoration to me. You two concentrate on making the paints.",
-      "translation": "Восстановление оставьте мне. А вы двое сосредоточьтесь на изготовлении красок."
+      "translation": "Реставрацию оставьте мне. А вы двое сосредоточьтесь на изготовлении красок."
     },
     "pack02:33423374": {
       "source": "pack02_text_en",
@@ -191987,7 +191987,7 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423414",
       "original": "Some Mysterious Paintings need Restoration. They may be &quot;mysterious,&quot; but they’re still paintings, after all.",
-      "translation": "Некоторые Таинственные картины требуют восстановления. Они, может, и «таинственные», но ведь всё равно картины."
+      "translation": "Некоторые Таинственные картины требуют Реставрации. Они, может, и «таинственные», но ведь всё равно картины."
     },
     "pack02:33423415": {
       "source": "pack02_text_en",
@@ -192001,7 +192001,7 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423416",
       "original": "We’ve prepared the tools we need for the Restoration. I’m excited to see what the process involves...!",
-      "translation": "Мы подготовили инструменты, нужные для восстановления. С нетерпением жду, как это будет происходить...!"
+      "translation": "Мы подготовили инструменты, нужные для Реставрации. С нетерпением жду, как это будет происходить...!"
     },
     "pack02:33423417": {
       "source": "pack02_text_en",
@@ -192659,7 +192659,7 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423510",
       "original": "Hmm, restoration... I guess our teacher or someone took care of “The Spooky Forest” for us...",
-      "translation": "Хм, восстановление... Наверное, нашу учительницу или кто-то другой уже позаботился о «Жутком лесе» за нас..."
+      "translation": "Хм, реставрация... Наверное, нашу учительницу или кто-то другой уже позаботился о «Жутком лесе» за нас..."
     },
     "pack02:33423511": {
       "source": "pack02_text_en",
@@ -192680,7 +192680,7 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423513",
       "original": "Come on, Lydie! Let’s try some restoration in the gallery!",
-      "translation": "Ну же, Лиди! Давай попробуем восстановление в галерее!"
+      "translation": "Ну же, Лиди! Давай попробуем реставрацию в галерее!"
     },
     "pack02:33423514": {
       "source": "pack02_text_en",
@@ -216641,7 +216641,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6225976",
       "original": "We’ve made the paint we need for the restoration! But while we have what we need, we still have no idea how to go about the restoration process... I’m sure Mireille must know.^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Краску, необходимую для реставрации, мы приготовили! Но хотя у нас есть то, что нам нужно, мы до сих пор понятия не имеем, как проводить процесс восстановления... Я уверен, Мирей должна знать.^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Краску, необходимую для реставрации, мы приготовили! Но хотя у нас есть то, что нам нужно, мы до сих пор понятия не имеем, как проводить процесс реставрации... Я уверен, Мирей должна знать.^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6225977": {
       "source": "pack02_text_en",
@@ -216900,7 +216900,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6226013",
       "original": "The legendary alchemist who trapped the Thunder God was none other than Neige, the first of the Mysterious Painters. And before us right now is the very first “Mysterious Painting” created. I wonder what lies within... We need to begin the restoration process. ^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Легендарным алхимиком, поймавшим Бога Грома в ловушку, был никто иной, как Неж, первый из Таинственных Художников. И перед нами прямо сейчас самая первая созданная «Таинственная картина». Интересно, что же внутри... Нам нужно начать процесс восстановления. ^00　　　　　　　　　　　　　　　[Лиди]"
+      "translation": "Легендарным алхимиком, поймавшим Бога Грома в ловушку, был никто иной, как Неж, первый из Таинственных Художников. И перед нами прямо сейчас самая первая созданная «Таинственная картина». Интересно, что же внутри... Нам нужно начать процесс реставрации. ^00　　　　　　　　　　　　　　　[Лиди]"
     },
     "pack02:6226014": {
       "source": "pack02_text_en",
@@ -218398,7 +218398,7 @@
       "file": "str_summary_title.xml",
       "string_no": "6160508",
       "original": "Restoration of the Flickering Time",
-      "translation": "Восстановление мерцающего времени"
+      "translation": "Реставрация мерцающего времени"
     },
     "pack02:6160509": {
       "source": "pack02_text_en",
