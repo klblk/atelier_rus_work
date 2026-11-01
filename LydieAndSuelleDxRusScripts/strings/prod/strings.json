@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T08:53:36.241365+00:00",
+  "generated_at": "2026-11-01T10:15:38.601221+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -2170,7 +2170,7 @@
       "index": 12,
       "speaker": "???",
       "original": "Just... my imagination?",
-      "translation": "Это всёго лишь... мое воображение?"
+      "translation": "Это всего лишь... мое воображение?"
     },
     "ebm:mm01/event_message_mm01_330.ebm:0": {
       "source": "pack01_ebm",
@@ -9162,7 +9162,7 @@
       "index": 1,
       "speaker": "Roger",
       "original": "Just? \"Kind of\"? I've been an artist and alchemist for as long as you've known me!",
-      "translation": "Кое-что?! ‹Вроде как›?! Да я художник и алхимик с тех самых пор, как ты меня знаешь!"
+      "translation": "Кое-что?! «Вроде как»?! Да я художник и алхимик с тех самых пор, как ты меня знаешь!"
     },
     "ebm:mm04/event_message_mm04_040.ebm:2": {
       "source": "pack01_ebm",
@@ -9210,7 +9210,7 @@
       "index": 7,
       "speaker": "Roger",
       "original": "Many alchemists have tried but few have succeeded in creating them, making them very expensive.",
-      "translation": "Многие алхимики пытались их создать, но лишь немногим удалось их создать, что сделало их очень дорогими."
+      "translation": "Многие алхимики пытались их создать, но лишь немногим удалось это, что сделало их очень дорогими."
     },
     "ebm:mm04/event_message_mm04_040.ebm:8": {
       "source": "pack01_ebm",
@@ -9226,7 +9226,7 @@
       "index": 9,
       "speaker": "Roger",
       "original": "As an interesting note aside, the first to ever paint one was a female alchemist named Neige...",
-      "translation": "Интересно отметить, что первой, кто её нарисовал, была женщина-алхимик по имени Нейдж..."
+      "translation": "Интересно отметить, что первой, кто её нарисовал, была женщина-алхимик по имени Неж..."
     },
     "ebm:mm04/event_message_mm04_040.ebm:10": {
       "source": "pack01_ebm",
@@ -10506,7 +10506,7 @@
       "index": 10,
       "speaker": "Mathias",
       "original": "Restoration requires Mysterious Paints, also known as \"Neige's Paints\".",
-      "translation": "Для восстановления требуются таинственные краски, также известные как «Краски Нейдж»."
+      "translation": "Для восстановления требуются таинственные краски, также известные как «Краски Неж»."
     },
     "ebm:mm04/event_message_mm04_150.ebm:11": {
       "source": "pack01_ebm",
@@ -10834,7 +10834,7 @@
       "index": 4,
       "speaker": "Roger",
       "original": "They are also called \"Neige's Paints\", after the first person to make a Mysterious Painting.",
-      "translation": "Их также называют «Красками Нейдж» в честь первой, кто создала Таинственную картину."
+      "translation": "Их также называют «Красками Неж» в честь первой, кто создала Таинственную картину."
     },
     "ebm:mm04/event_message_mm04_170.ebm:5": {
       "source": "pack01_ebm",
@@ -14898,7 +14898,7 @@
       "index": 6,
       "speaker": "Alt",
       "original": "Well said, Fuoco. Failure is just a step towards success in all things, be it alchemy or anything else.",
-      "translation": "Хорошо сказано, Фуоко. Неудача — это всёго лишь шаг к успеху во всем, будь то алхимия или что-то ещё."
+      "translation": "Хорошо сказано, Фуоко. Неудача — это всего лишь шаг к успеху во всем, будь то алхимия или что-то ещё."
     },
     "ebm:mm05/event_message_mm05_270.ebm:7": {
       "source": "pack01_ebm",
@@ -17762,7 +17762,7 @@
       "index": 19,
       "speaker": "Falgior",
       "original": "Guwah! Not bad, for a human. You remind me of the abominable Neige! Bah!",
-      "translation": "Гува! Неплохо для человека. Ты напоминаешь мне отвратительную Нейдж! Ух!"
+      "translation": "Гува! Неплохо для человека. Ты напоминаешь мне отвратительную Неж! Ух!"
     },
     "ebm:mm06/event_message_mm06_230.ebm:20": {
       "source": "pack01_ebm",
@@ -18442,7 +18442,7 @@
       "index": 1,
       "speaker": "Mireille",
       "original": "Yes. It is called \"The Frozen Palace\", and it was painted by Neige Chintreuil.",
-      "translation": "Да. Она называется «Замёрзший дворец», и её написала Нейдж Шинтрей."
+      "translation": "Да. Она называется «Замёрзший дворец», и её написала Неж Шентрёйль."
     },
     "ebm:mm06/event_message_mm06_270.ebm:2": {
       "source": "pack01_ebm",
@@ -18930,7 +18930,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "Haha! Hold on? Neige? That's the name of the alchemist who created this painting!",
-      "translation": "Ха-ха! Подожди? Нейдж? Это имя алхимика, создавшего эту картину!"
+      "translation": "Ха-ха! Подожди? Неж? Это имя алхимика, создавшего эту картину!"
     },
     "ebm:mm06/event_message_mm06_340.ebm:12": {
       "source": "pack01_ebm",
@@ -19034,7 +19034,7 @@
       "index": 9,
       "speaker": "Lydie",
       "original": "Right? I've got an idea! Why don't we all become friends with Neige?",
-      "translation": "Верно? У меня есть идея! Почему бы нам всем не подружиться с Нейдж?"
+      "translation": "Верно? У меня есть идея! Почему бы нам всем не подружиться с Неж?"
     },
     "ebm:mm06/event_message_mm06_360.ebm:10": {
       "source": "pack01_ebm",
@@ -19050,7 +19050,7 @@
       "index": 11,
       "speaker": "Lydie",
       "original": "I think Neige is just lonely, and sad. That's why she won't talk to us.",
-      "translation": "Я думаю, что Нейдж просто одинока и грустна. Вот почему она не хочет с нами разговаривать."
+      "translation": "Я думаю, что Неж просто одинока и грустна. Вот почему она не хочет с нами разговаривать."
     },
     "ebm:mm06/event_message_mm06_360.ebm:12": {
       "source": "pack01_ebm",
@@ -19114,7 +19114,7 @@
       "index": 19,
       "speaker": "Firis",
       "original": "Right! Let's set out to become friends with Neige!",
-      "translation": "Верно! Давайте подружимся с Нейдж!"
+      "translation": "Верно! Давайте подружимся с Неж!"
     },
     "ebm:mm06/event_message_mm06_370.ebm:0": {
       "source": "pack01_ebm",
@@ -19154,7 +19154,7 @@
       "index": 4,
       "speaker": "Firis",
       "original": "Were those Neige's thoughts? She wishes she could have remained a child?",
-      "translation": "Были ли это мысли Нейдж? Ей хотелось бы остаться ребенком?"
+      "translation": "Были ли это мысли Неж? Ей хотелось бы остаться ребенком?"
     },
     "ebm:mm06/event_message_mm06_370.ebm:5": {
       "source": "pack01_ebm",
@@ -19162,7 +19162,7 @@
       "index": 5,
       "speaker": "Mathias",
       "original": "For starters, seeing Neige as a child in here sure is strange. There are plenty of records of her death.",
-      "translation": "Во-первых, видеть здесь Нейдж в детстве, конечно, странно. Есть много записей о её смерти."
+      "translation": "Во-первых, видеть здесь Неж в детстве, конечно, странно. Есть много записей о её смерти."
     },
     "ebm:mm06/event_message_mm06_370.ebm:6": {
       "source": "pack01_ebm",
@@ -19178,7 +19178,7 @@
       "index": 7,
       "speaker": "Alt",
       "original": "Which means, while she knows about the outside world, this isn't the real Neige in here?",
-      "translation": "Что значит, хотя она и знает о внешнем мире, это не настоящая Нейдж здесь?"
+      "translation": "Что значит, хотя она и знает о внешнем мире, это не настоящая Неж здесь?"
     },
     "ebm:mm06/event_message_mm06_370.ebm:8": {
       "source": "pack01_ebm",
@@ -19194,7 +19194,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Let's use alchemy to fix this bear. It must belong to Neige, right?",
-      "translation": "Давайте воспользуемся алхимией, чтобы починить этого медведя. Должно быть, он принадлежит Нейдж, верно?"
+      "translation": "Давайте воспользуемся алхимией, чтобы починить этого медведя. Должно быть, он принадлежит Неж, верно?"
     },
     "ebm:mm06/event_message_mm06_370.ebm:10": {
       "source": "pack01_ebm",
@@ -19218,7 +19218,7 @@
       "index": 12,
       "speaker": "Alt",
       "original": "We need information on Neige, above all else. We have to look at the bigger picture.",
-      "translation": "Прежде всего, нам нужна информация о Нейдж. Мы должны смотреть на более широкую картину."
+      "translation": "Прежде всего, нам нужна информация о Неж. Мы должны смотреть на более широкую картину."
     },
     "ebm:mm06/event_message_mm06_370.ebm:13": {
       "source": "pack01_ebm",
@@ -19226,7 +19226,7 @@
       "index": 13,
       "speaker": "Mathias",
       "original": "To put it more simply, if we repair the bear, it will make Neige happy?",
-      "translation": "Проще говоря, если мы починим медведя, это обрадует Нейдж?"
+      "translation": "Проще говоря, если мы починим медведя, это обрадует Неж?"
     },
     "ebm:mm06/event_message_mm06_370.ebm:14": {
       "source": "pack01_ebm",
@@ -19258,7 +19258,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "There we go. Neige! We've repaired your bear for you.",
-      "translation": "Вот и всё. Нейдж! Мы починили для тебя твоего медведя."
+      "translation": "Вот и всё. Неж! Мы починили для тебя твоего медведя."
     },
     "ebm:mm06/event_message_mm06_380.ebm:1": {
       "source": "pack01_ebm",
@@ -19282,7 +19282,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "Say, Neige. Do you think we could become friends?",
-      "translation": "Скажи, Нейдж. Как думаешь, мы могли бы стать друзьями?"
+      "translation": "Скажи, Неж. Как думаешь, мы могли бы стать друзьями?"
     },
     "ebm:mm06/event_message_mm06_380.ebm:4": {
       "source": "pack01_ebm",
@@ -19306,7 +19306,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "Oh, Neige!",
-      "translation": "О, Нейдж!"
+      "translation": "О, Неж!"
     },
     "ebm:mm06/event_message_mm06_380.ebm:7": {
       "source": "pack01_ebm",
@@ -19370,7 +19370,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "Another one of Neige's thoughts... The voice sounds a little older, too.",
-      "translation": "Ещё одна мысль Нейдж... Голос тоже звучит немного старше."
+      "translation": "Ещё одна мысль Неж... Голос тоже звучит немного старше."
     },
     "ebm:mm06/event_message_mm06_390.ebm:5": {
       "source": "pack01_ebm",
@@ -19410,7 +19410,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Sure, but how? If Neige won't open up to us...",
-      "translation": "Конечно, но как? Если Нейдж не откроется нам..."
+      "translation": "Конечно, но как? Если Неж не откроется нам..."
     },
     "ebm:mm06/event_message_mm06_390.ebm:10": {
       "source": "pack01_ebm",
@@ -19434,7 +19434,7 @@
       "index": 12,
       "speaker": "Sue",
       "original": "A meal? That might work. The older Neige said something similar.",
-      "translation": "Еда? Это может сработать. Старшая Нейдж сказала нечто подобное."
+      "translation": "Еда? Это может сработать. Старшая Неж сказала нечто подобное."
     },
     "ebm:mm06/event_message_mm06_390.ebm:13": {
       "source": "pack01_ebm",
@@ -19450,7 +19450,7 @@
       "index": 0,
       "speaker": "Sue",
       "original": "Neige, come on out! Let's eat together!",
-      "translation": "Нейдж, выходи! Давайте поедим вместе!"
+      "translation": "Неж, выходи! Давайте поедим вместе!"
     },
     "ebm:mm06/event_message_mm06_400.ebm:1": {
       "source": "pack01_ebm",
@@ -19482,7 +19482,7 @@
       "index": 4,
       "speaker": "Lydie",
       "original": "Hahaha! It sounds like you might be a little hungry, Neige? It will taste great if we all eat it together.",
-      "translation": "Ха-ха-ха! Похоже, ты немного голодна, Нейдж? Будет очень вкусно, если мы съедим его все вместе."
+      "translation": "Ха-ха-ха! Похоже, ты немного голодна, Неж? Будет очень вкусно, если мы съедим его все вместе."
     },
     "ebm:mm06/event_message_mm06_400.ebm:5": {
       "source": "pack01_ebm",
@@ -19546,7 +19546,7 @@
       "index": 12,
       "speaker": "Lydie",
       "original": "Uh... Please, Neige... You really don't want to become our friend, do you?",
-      "translation": "Э-э... Пожалуйста, Нейдж... Ты правда не хочешь стать нашей подругой, не так ли?"
+      "translation": "Э-э... Пожалуйста, Неж... Ты правда не хочешь стать нашей подругой, не так ли?"
     },
     "ebm:mm06/event_message_mm06_400.ebm:13": {
       "source": "pack01_ebm",
@@ -19554,7 +19554,7 @@
       "index": 13,
       "speaker": "Sue",
       "original": "Ah, you've made Lydie cry. Neige, that wasn't very nice of you...",
-      "translation": "Ах, ты заставила Лиди плакать. Нейдж, это было не очень мило с твоей стороны..."
+      "translation": "Ах, ты заставила Лиди плакать. Неж, это было не очень мило с твоей стороны..."
     },
     "ebm:mm06/event_message_mm06_400.ebm:14": {
       "source": "pack01_ebm",
@@ -19570,7 +19570,7 @@
       "index": 15,
       "speaker": "Lydie",
       "original": "Uh, Neige...",
-      "translation": "Эх, Нейдж..."
+      "translation": "Эх, Неж..."
     },
     "ebm:mm06/event_message_mm06_400.ebm:16": {
       "source": "pack01_ebm",
@@ -19610,7 +19610,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "And she really wants to become friends with you, Neige. I think you should just give up and accept it.",
-      "translation": "И она очень хочет с тобой подружиться, Нейдж. Я думаю, тебе следует просто сдаться и принять это."
+      "translation": "И она очень хочет с тобой подружиться, Неж. Я думаю, тебе следует просто сдаться и принять это."
     },
     "ebm:mm06/event_message_mm06_410.ebm:3": {
       "source": "pack01_ebm",
@@ -19666,7 +19666,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Wow! Look at all these lovely pictures! Did Neige draw all of these?",
-      "translation": "Ух ты! Посмотрите на все эти прекрасные рисунки! Нейдж всё это нарисовала?"
+      "translation": "Ух ты! Посмотрите на все эти прекрасные рисунки! Неж всё это нарисовала?"
     },
     "ebm:mm06/event_message_mm06_420.ebm:2": {
       "source": "pack01_ebm",
@@ -19690,7 +19690,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "Neige really was an artist, wasn't she... She must have really loved to paint.",
-      "translation": "Нейдж действительно была художницей, не так ли... Должно быть, она очень любила рисовать."
+      "translation": "Неж действительно была художницей, не так ли... Должно быть, она очень любила рисовать."
     },
     "ebm:mm06/event_message_mm06_430.ebm:0": {
       "source": "pack01_ebm",
@@ -19722,7 +19722,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "I know what you want to do, Neige. Draw!",
-      "translation": "Я знаю, что ты хочешь сделать, Нейдж. Рисовать!"
+      "translation": "Я знаю, что ты хочешь сделать, Неж. Рисовать!"
     },
     "ebm:mm06/event_message_mm06_430.ebm:4": {
       "source": "pack01_ebm",
@@ -19746,7 +19746,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "Hehehe. You know what, Neige? Our dad is an artist!",
-      "translation": "Хе-хе-хе. Знаешь что, Нейдж? Наш папа — художник!"
+      "translation": "Хе-хе-хе. Знаешь что, Неж? Наш папа — художник!"
     },
     "ebm:mm06/event_message_mm06_430.ebm:7": {
       "source": "pack01_ebm",
@@ -19778,7 +19778,7 @@
       "index": 10,
       "speaker": "Lydie",
       "original": "I want to get to know you better, Neige. Please, will you be our friend?",
-      "translation": "Я хочу узнать тебя получше, Нейдж. Пожалуйста, будешь нашей подругой?"
+      "translation": "Я хочу узнать тебя получше, Неж. Пожалуйста, будешь нашей подругой?"
     },
     "ebm:mm06/event_message_mm06_430.ebm:11": {
       "source": "pack01_ebm",
@@ -19818,7 +19818,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "I know what you want to do, Neige. Draw!",
-      "translation": "Я знаю, что ты хочешь сделать, Нейдж. Рисовать!"
+      "translation": "Я знаю, что ты хочешь сделать, Неж. Рисовать!"
     },
     "ebm:mm06/event_message_mm06_440.ebm:3": {
       "source": "pack01_ebm",
@@ -19842,7 +19842,7 @@
       "index": 5,
       "speaker": "Lydie",
       "original": "Hehehe. You know what, Neige? Our dad is an artist!",
-      "translation": "Хе-хе-хе. Знаешь что, Нейдж? Наш папа — художник!"
+      "translation": "Хе-хе-хе. Знаешь что, Неж? Наш папа — художник!"
     },
     "ebm:mm06/event_message_mm06_440.ebm:6": {
       "source": "pack01_ebm",
@@ -19874,7 +19874,7 @@
       "index": 9,
       "speaker": "Lydie",
       "original": "I want to get to know you better, Neige. Please, will you be our friend?",
-      "translation": "Я хочу узнать тебя получше, Нейдж. Пожалуйста, будешь нашей подругой?"
+      "translation": "Я хочу узнать тебя получше, Неж. Пожалуйста, будешь нашей подругой?"
     },
     "ebm:mm06/event_message_mm06_440.ebm:10": {
       "source": "pack01_ebm",
@@ -19914,7 +19914,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "Wow! Neige, you really are very talented!",
-      "translation": "Ух ты! Нейдж, ты действительно очень талантлива!"
+      "translation": "Ух ты! Неж, ты действительно очень талантлива!"
     },
     "ebm:mm06/event_message_mm06_450.ebm:3": {
       "source": "pack01_ebm",
@@ -19946,7 +19946,7 @@
       "index": 6,
       "speaker": "Neige",
       "original": "I'm what you might call a fragment of Neige's soul. Since she died, I've been living here.",
-      "translation": "Я тот, кого можно назвать частичкой души Нейдж. С тех пор как она умерла, я живу здесь."
+      "translation": "Я тот, кого можно назвать частичкой души Неж. С тех пор как она умерла, я живу здесь."
     },
     "ebm:mm06/event_message_mm06_450.ebm:7": {
       "source": "pack01_ebm",
@@ -20106,7 +20106,7 @@
       "index": 26,
       "speaker": "Sue",
       "original": "Thank you, Neige! We'll make good use of them.",
-      "translation": "Спасибо, Нейдж! Мы ими воспользуемся с пользой."
+      "translation": "Спасибо, Неж! Мы ими воспользуемся с пользой."
     },
     "ebm:mm06/event_message_mm06_450.ebm:27": {
       "source": "pack01_ebm",
@@ -20138,7 +20138,7 @@
       "index": 30,
       "speaker": "Sue",
       "original": "See you again, Neige! We'll be back, don't worry!",
-      "translation": "Увидимся снова, Нейдж! Мы вернемся, не волнуйтесь!"
+      "translation": "Увидимся снова, Неж! Мы вернемся, не волнуйтесь!"
     },
     "ebm:mm06/event_message_mm06_450.ebm:31": {
       "source": "pack01_ebm",
@@ -22802,7 +22802,7 @@
       "index": 14,
       "speaker": "Backen",
       "original": "Awahahaha! Treasure it always, Minion C! If you throw it away, I'll burn you myself!",
-      "translation": "Ава-ха-ха-ха! Цени это всёгда, Миньон С! Выбросишь — сам тебя сожгу!"
+      "translation": "Ава-ха-ха-ха! Цени это всегда, Миньон С! Выбросишь — сам тебя сожгу!"
     },
     "ebm:mm07/event_message_mm07_260.ebm:15": {
       "source": "pack01_ebm",
@@ -23586,7 +23586,7 @@
       "index": 5,
       "speaker": "Sue",
       "original": "It's just the Messenger Puni. From Mireille, I presume?",
-      "translation": "Это всёго лишь Пуни-посланник. От Мирей, полагаю?"
+      "translation": "Это всего лишь Пуни-посланник. От Мирей, полагаю?"
     },
     "ebm:mm08/event_message_mm08_010.ebm:6": {
       "source": "pack01_ebm",
@@ -26530,7 +26530,7 @@
       "index": 30,
       "speaker": "Lydie",
       "original": "I've worked it out! Sue, it's like with Neige! A soul fragment!",
-      "translation": "Я поняла! Сью, это как с Нейдж! Фрагмент души!"
+      "translation": "Я поняла! Сью, это как с Неж! Фрагмент души!"
     },
     "ebm:mm08/event_message_mm08_210.ebm:31": {
       "source": "pack01_ebm",
@@ -28458,7 +28458,7 @@
       "index": 12,
       "speaker": "Roger",
       "original": "I did use Neige Paints to make it, but there's no world in there.",
-      "translation": "Я использовал краски Нейдж, чтобы её написать, но там нет никакого мира."
+      "translation": "Я использовал краски Неж, чтобы её написать, но там нет никакого мира."
     },
     "ebm:mm09/event_message_mm09_130.ebm:13": {
       "source": "pack01_ebm",
@@ -28586,7 +28586,7 @@
       "index": 28,
       "speaker": "Roger",
       "original": "Hahaha! I'm suddenly feeling super creative! Lydie, Sue! Mix me up some Neige's Paints!",
-      "translation": "Ха-ха-ха! Меня вдруг переполняет творческий порыв! Лиди, Сью! Смешайте мне красок Нейдж!"
+      "translation": "Ха-ха-ха! Меня вдруг переполняет творческий порыв! Лиди, Сью! Смешайте мне красок Неж!"
     },
     "ebm:mm09/event_message_mm09_130.ebm:29": {
       "source": "pack01_ebm",
@@ -29058,7 +29058,7 @@
       "index": 12,
       "speaker": "Sue",
       "original": "You must be the soul fragment that Neige was talking about, for sure...",
-      "translation": "Ты наверняка тот фрагмент души, о котором говорила Нейдж..."
+      "translation": "Ты наверняка тот фрагмент души, о котором говорила Неж..."
     },
     "ebm:mm09/event_message_mm09_200.ebm:13": {
       "source": "pack01_ebm",
@@ -44594,7 +44594,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Thank you, Neige. We actually managed to work something out!",
-      "translation": "Спасибо, Нейдж. Нам в итоге удалось кое-что придумать!"
+      "translation": "Спасибо, Неж. Нам в итоге удалось кое-что придумать!"
     },
     "ebm:ms01/event_message_ms01_090.ebm:2": {
       "source": "pack01_ebm",
@@ -44610,7 +44610,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "Hehehe, you're so kind, Neige. You've been worrying about us?",
-      "translation": "Хе-хе-хе, ты такая добрая, Нейдж. Ты за нас переживала?"
+      "translation": "Хе-хе-хе, ты такая добрая, Неж. Ты за нас переживала?"
     },
     "ebm:ms01/event_message_ms01_090.ebm:4": {
       "source": "pack01_ebm",
@@ -44642,7 +44642,7 @@
       "index": 7,
       "speaker": "Lydie",
       "original": "A-alright, alright! We'll come again soon, Neige!",
-      "translation": "Л-ладно, ладно! Мы ещё зайдём, Нейдж!"
+      "translation": "Л-ладно, ладно! Мы ещё зайдём, Неж!"
     },
     "ebm:ms01/event_message_ms01_090.ebm:8": {
       "source": "pack01_ebm",
@@ -58042,7 +58042,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "It isn't going to be easy, is it? Are you using Neige's Paints?",
-      "translation": "Непросто, да? Ты пользуешься Красками Нейдж?"
+      "translation": "Непросто, да? Ты пользуешься Красками Неж?"
     },
     "ebm:qc01/event_message_qc01_090.ebm:2": {
       "source": "pack01_ebm",
@@ -58146,7 +58146,7 @@
       "index": 14,
       "speaker": "Sue",
       "original": "Is there nothing else we can do? How about asking Neige?",
-      "translation": "Неужели больше ничего нельзя сделать? Может, спросить Нейдж?"
+      "translation": "Неужели больше ничего нельзя сделать? Может, спросить Неж?"
     },
     "ebm:qc01/event_message_qc01_090.ebm:15": {
       "source": "pack01_ebm",
@@ -58154,7 +58154,7 @@
       "index": 15,
       "speaker": "Roger",
       "original": "Neige? You mean Neige Chintreuil? I hate to break it to you, girls, but she's been dead for a long time.",
-      "translation": "Нейдж? Ты про Нейдж Шантрёй? Ненавижу это говорить, девочки, но она уже давно мертва."
+      "translation": "Неж? Ты про Неж Шентрёйль? Ненавижу это говорить, девочки, но она уже давно мертва."
     },
     "ebm:qc01/event_message_qc01_090.ebm:16": {
       "source": "pack01_ebm",
@@ -58162,7 +58162,7 @@
       "index": 16,
       "speaker": "Sue",
       "original": "Hahah, actually! Just like mom, Neige is also living inside a painting even now!",
-      "translation": "Ха-ха, а на самом деле! Как и мама, Нейдж до сих пор живёт внутри картины!"
+      "translation": "Ха-ха, а на самом деле! Как и мама, Неж до сих пор живёт внутри картины!"
     },
     "ebm:qc01/event_message_qc01_090.ebm:17": {
       "source": "pack01_ebm",
@@ -58258,7 +58258,7 @@
       "index": 7,
       "speaker": "Lydie",
       "original": "Uwah, easy for you to say, Neige! I've tried lots of times already, and it's no good...",
-      "translation": "Ува, тебе легко говорить, Нейдж! Я уже столько раз пробовала — и ничего..."
+      "translation": "Ува, тебе легко говорить, Неж! Я уже столько раз пробовала — и ничего..."
     },
     "ebm:qc01/event_message_qc01_100.ebm:8": {
       "source": "pack01_ebm",
@@ -58346,7 +58346,7 @@
       "index": 18,
       "speaker": "Sue",
       "original": "What? You aren't going to tell us the recipe you used, Neige?",
-      "translation": "Что? Ты не расскажешь нам свой рецепт, Нейдж?"
+      "translation": "Что? Ты не расскажешь нам свой рецепт, Неж?"
     },
     "ebm:qc01/event_message_qc01_100.ebm:19": {
       "source": "pack01_ebm",
@@ -58378,7 +58378,7 @@
       "index": 22,
       "speaker": "Lydie",
       "original": "I see... Thanks, Neige! I'll try improving the paints, then!",
-      "translation": "Понятно... Спасибо, Нейдж! Тогда попробую улучшить краски!"
+      "translation": "Понятно... Спасибо, Неж! Тогда попробую улучшить краски!"
     },
     "ebm:qc01/event_message_qc01_100.ebm:23": {
       "source": "pack01_ebm",
@@ -58386,7 +58386,7 @@
       "index": 23,
       "speaker": "Lydie",
       "original": "Once the painting is finished, I'll invite you over to my world, Neige! Just wait and see!",
-      "translation": "Когда картина будет готова, приглашу тебя в свой мир, Нейдж! Только подожди — увидишь!"
+      "translation": "Когда картина будет готова, приглашу тебя в свой мир, Неж! Только подожди — увидишь!"
     },
     "ebm:qc01/event_message_qc01_100.ebm:24": {
       "source": "pack01_ebm",
@@ -58482,7 +58482,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "We've done it! The improved \"Neige's Paints\"!",
-      "translation": "Получилось! Улучшенные «Краски Нейдж»!"
+      "translation": "Получилось! Улучшенные «Краски Неж»!"
     },
     "ebm:qc01/event_message_qc01_120.ebm:1": {
       "source": "pack01_ebm",
@@ -60258,7 +60258,7 @@
       "index": 4,
       "speaker": "Lydie",
       "original": "Yes. It's always been her dream, hasn't it?",
-      "translation": "Да. Это всёгда было её мечтой, правда?"
+      "translation": "Да. Это всегда было её мечтой, правда?"
     },
     "ebm:qc02_fir/event_message_qc02_fir_110.ebm:5": {
       "source": "pack01_ebm",
@@ -107194,7 +107194,7 @@
       "index": 29,
       "speaker": "Ilmeria",
       "original": "Sleep with Firis... No. This is just Piko, there's nothing more...",
-      "translation": "Спать с Фирис... Нет. Это всёго лишь Пико, больше ничего..."
+      "translation": "Спать с Фирис... Нет. Это всего лишь Пико, больше ничего..."
     },
     "ebm:xx05/event_message_xx05_150.ebm:30": {
       "source": "pack01_ebm",
@@ -137849,7 +137849,7 @@
       "file": "str_event_chara_name.xml",
       "string_no": "262169",
       "original": "Neige",
-      "translation": "Нейдж"
+      "translation": "Неж"
     },
     "pack02:262170": {
       "source": "pack02_text_en",
@@ -140166,7 +140166,7 @@
       "file": "str_extra_bgm.xml",
       "string_no": "1769615",
       "original": "I wanted to somehow replicate the feeling of Neige’s closed-off heart in this piece. My first run at it was affected by the cuteness of Neige’s design, and ended up being too warm. I quickly scrapped that and started again. (Yanagawa)",
-      "translation": "В этом произведении мне хотелось как-то передать ощущение закрытого сердца Нейдж. На мою первую попытку повлияла привлекательность дизайна Нейдж, и в итоге она оказалась слишком теплой. Я быстро отказался от этого и начал снова. (Янагава)"
+      "translation": "В этом произведении мне хотелось как-то передать ощущение закрытого сердца Неж. На мою первую попытку повлияла привлекательность дизайна Неж, и в итоге она оказалась слишком теплой. Я быстро отказался от этого и начал снова. (Янагава)"
     },
     "pack02:1769616": {
       "source": "pack02_text_en",
@@ -140614,7 +140614,7 @@
       "file": "str_extra_bgm.xml",
       "string_no": "1769679",
       "original": "This, too, is a familiar(?) comical march. I’d really like to use deeper notes for the main melody, at least in parts, as it would be more humorous, but the idea of matching deep notes with pretty young girls is always just a step too far, and I never quite manage it. (Yanagawa)",
-      "translation": "Это тоже знакомый(?) комический марш. Мне бы очень хотелось использовать более глубокие ноты для основной мелодии, хотя бы частично, так как это было бы более юмористично, но идея сочетать глубокие ноты с хорошенькими молодыми девушками — это всёгда слишком далеко, и мне это никогда не удается. (Янагава)"
+      "translation": "Это тоже знакомый(?) комический марш. Мне бы очень хотелось использовать более глубокие ноты для основной мелодии, хотя бы частично, так как это было бы более юмористично, но идея сочетать глубокие ноты с хорошенькими молодыми девушками — это всегда слишком далеко, и мне это никогда не удается. (Янагава)"
     },
     "pack02:1769680": {
       "source": "pack02_text_en",
@@ -140761,7 +140761,7 @@
       "file": "str_extra_bgm.xml",
       "string_no": "1769700",
       "original": "A short jingle used when executing a special move. These are similar in use to the finishing jingles from earlier titles in the series, but in this title they are played when combination moves are used. This one is for the protagonist twins, Lydie and Sue. Obviously, this was always going to be an arrangement of the theme song. (Achiwa)",
-      "translation": "Короткий звон, используемый при выполнении специального приема. По использованию они похожи на завершающие джинглы из более ранних игр серии, но в этой игре они воспроизводятся с использованием комбинированных ходов. Это для главных героев-близнецов Лидия и Сью. Очевидно, это всёгда должна была быть аранжировка музыкальной темы. (Ачива)"
+      "translation": "Короткий звон, используемый при выполнении специального приема. По использованию они похожи на завершающие джинглы из более ранних игр серии, но в этой игре они воспроизводятся с использованием комбинированных ходов. Это для главных героев-близнецов Лидия и Сью. Очевидно, это всегда должна была быть аранжировка музыкальной темы. (Ачива)"
     },
     "pack02:1769701": {
       "source": "pack02_text_en",
@@ -141986,7 +141986,7 @@
       "file": "str_extra_view.xml",
       "string_no": "2031638",
       "original": "Neige",
-      "translation": "Нейдж"
+      "translation": "Неж"
     },
     "pack02:2031639": {
       "source": "pack02_text_en",
@@ -143274,7 +143274,7 @@
       "file": "str_extra_voice.xml",
       "string_no": "1966101",
       "original": "Neige / Termina",
-      "translation": "Нейдж / Термина"
+      "translation": "Неж / Термина"
     },
     "pack02:1966102": {
       "source": "pack02_text_en",
@@ -144352,7 +144352,7 @@
       "file": "str_fm_info.xml",
       "string_no": "917548",
       "original": "Neige's Atelier",
-      "translation": "Ателье Нейдж"
+      "translation": "Ателье Неж"
     },
     "pack02:917549": {
       "source": "pack02_text_en",
@@ -184224,7 +184224,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473659",
       "original": "“Huh, not half bad. You made a tool using the Rainbow Palette.”^00“Wow, Neige! It called Neige, too!”^00“It only works for a short time, though. Make the most of it.”",
-      "translation": "«Хм, неплохо. Сделала инструмент с Радужной палитрой.»^00«Ух ты, Нейдж! Она позвала и Нейдж!»^00«Правда, работает недолго. Пользуйся по полной.»"
+      "translation": "«Хм, неплохо. Сделала инструмент с Радужной палитрой.»^00«Ух ты, Неж! Она позвала и Неж!»^00«Правда, работает недолго. Пользуйся по полной.»"
     },
     "pack02:3473660": {
       "source": "pack02_text_en",
@@ -185771,7 +185771,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473932",
       "original": "“Look it’s a gold coin! How much is it worth?! What exactly can we buy with it?!”^00“Sorry, but it’s only a talisman, so it has zero value as a form of currency. I suppose you could sell it for some money though.”",
-      "translation": "«Смотри, золотая монета! Сколько она стоит?! Что на неё можно купить?!»^00«Прости, но это всёго лишь талисман, так что как деньги она ничего не стоит. Хотя, наверное, можно продать за какие-то деньги.»"
+      "translation": "«Смотри, золотая монета! Сколько она стоит?! Что на неё можно купить?!»^00«Прости, но это всего лишь талисман, так что как деньги она ничего не стоит. Хотя, наверное, можно продать за какие-то деньги.»"
     },
     "pack02:3473933": {
       "source": "pack02_text_en",
@@ -185834,7 +185834,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473951",
       "original": "“Hey, look at this. There’s a name written here. It says, ‘Neige Chintreuil’ quite clearly...”^00“It looks like this bear has been around for a long time. We should try to repair it!”",
-      "translation": "«Эй, смотри. Тут написано имя. Чётко видно: “Нейдж Шантрёй”...»^00«Похоже, этот медведь давно с нами. Надо попробовать его починить!»"
+      "translation": "«Эй, смотри. Тут написано имя. Чётко видно: “Неж Шентрёйль”...»^00«Похоже, этот медведь давно с нами. Надо попробовать его починить!»"
     },
     "pack02:3473952": {
       "source": "pack02_text_en",
@@ -185848,14 +185848,14 @@
       "file": "str_library_item.xml",
       "string_no": "3473953",
       "original": "“Neige... This is kinda hard for me to ask, but how did this get broken?”^00“Um... You see... I left it laying around and accidentally stepped on it...”",
-      "translation": "«Нейдж... Мне неловко спрашивать, но как он сломался?»^00«Эм... Видишь ли... Я оставила его лежать и случайно наступила...»"
+      "translation": "«Неж... Мне неловко спрашивать, но как он сломался?»^00«Эм... Видишь ли... Я оставила его лежать и случайно наступила...»"
     },
     "pack02:3473954": {
       "source": "pack02_text_en",
       "file": "str_library_item.xml",
       "string_no": "3473954",
       "original": "“Neige gave us the key to defeat Falgior!”^00“With it, we’ll beat Falgior for sure this time! Let’s get out there and do our best, Sue!”^00“You betcha!”",
-      "translation": "«Нейдж дала нам ключ к победе над Фальгиором!»^00«С ним мы точно победим Фальгиора на этот раз! Давай выходить и постараемся изо всех сил, Сью!»^00«Ещё бы!»"
+      "translation": "«Неж дала нам ключ к победе над Фальгиором!»^00«С ним мы точно победим Фальгиора на этот раз! Давай выходить и постараемся изо всех сил, Сью!»^00«Ещё бы!»"
     },
     "pack02:3473955": {
       "source": "pack02_text_en",
@@ -185918,7 +185918,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473963",
       "original": "“These crystals are created within the mysterious paintings and represent the artist’s feelings. They’re known as ‘color fragments’.”^00“In other words, those are your feelings. Right, Neige? Thank you. I’ll be sure to take good care of them.”",
-      "translation": "«Эти кристаллы создаются внутри таинственных картин и отражают чувства художника. Их называют “цветовыми осколками”.»^00«То есть это твои чувства. Верно, Нейдж? Спасибо. Я буду их беречь.»"
+      "translation": "«Эти кристаллы создаются внутри таинственных картин и отражают чувства художника. Их называют “цветовыми осколками”.»^00«То есть это твои чувства. Верно, Неж? Спасибо. Я буду их беречь.»"
     },
     "pack02:3473964": {
       "source": "pack02_text_en",
@@ -186877,7 +186877,7 @@
       "file": "str_library_map.xml",
       "string_no": "3735583",
       "original": "“This painting is by Neige, the first mysterious artist. It is clearly on a different level.”^00“Indeed. However, it feels a bit lonely, like something is missing...”",
-      "translation": "«Эта картина принадлежит Нейдж, первому таинственному художнику. Она явно на совсем другом уровне.»^00«Верно. Однако в ней чувствуется одиночество, будто чего-то не хватает...»"
+      "translation": "«Эта картина принадлежит Неж, первому таинственному художнику. Она явно на совсем другом уровне.»^00«Верно. Однако в ней чувствуется одиночество, будто чего-то не хватает...»"
     },
     "pack02:3735584": {
       "source": "pack02_text_en",
@@ -192386,7 +192386,7 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423471",
       "original": "I’m sure Neige knows something about that painting. Let’s hurry, Sue!",
-      "translation": "Уверена, Нейдж что-то знает об этой картине. Поторопимся, Сью!"
+      "translation": "Уверена, Неж что-то знает об этой картине. Поторопимся, Сью!"
     },
     "pack02:33423472": {
       "source": "pack02_text_en",
@@ -192673,7 +192673,7 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423512",
       "original": "“Neige’s Paints” are complete! At first glance they don’t seem any different to ordinary paints, but maybe we’ll notice when we use them.",
-      "translation": "«Краски Нейдж» готовы! На первый взгляд они ничем не отличаются от обычных красок, но, может, заметим, когда начнём ими пользоваться."
+      "translation": "«Краски Неж» готовы! На первый взгляд они ничем не отличаются от обычных красок, но, может, заметим, когда начнём ими пользоваться."
     },
     "pack02:33423513": {
       "source": "pack02_text_en",
@@ -192834,7 +192834,7 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423535",
       "original": "The “Rainbow Palette”...! We should be grateful to Neige!",
-      "translation": "«Радужная палитра»...! Надо быть благодарными Нейдж!"
+      "translation": "«Радужная палитра»...! Надо быть благодарными Неж!"
     },
     "pack02:33423536": {
       "source": "pack02_text_en",
@@ -193058,7 +193058,7 @@
       "file": "str_npc_s01_mess.xml",
       "string_no": "33423567",
       "original": "Please, Neige! Please know something about that painting! Or else our mother...!",
-      "translation": "Пожалуйста, Нейдж! Пожалуйста, знай что-нибудь об этой картине! Иначе наша мама...!"
+      "translation": "Пожалуйста, Неж! Пожалуйста, знай что-нибудь об этой картине! Иначе наша мама...!"
     },
     "pack02:33423568": {
       "source": "pack02_text_en",
@@ -212749,7 +212749,7 @@
       "file": "str_summary_chara_checkbox.xml",
       "string_no": "6488167",
       "original": "&lt;CLGR&gt;- Let’s go speak to Neige in “The Frozen^00　Palace”!&lt;CLNR&gt;^00　↑Quickly, quickly! ^00　　　　　　　　　　　　　　　[Lydie]^00　↑Okay, okay, I’m coming.^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "&lt;CLGR&gt;- Давай поговорим с Нейдж в «Замёрзшем дворце»!&lt;CLNR&gt;^00　↑Быстрее, быстрее! ^00　　　　　　　　　　　　　　[Лиди]^00　↑Ладно, ладно, уже иду.^00　　　　　　　　　　　　　　　[Сью]"
+      "translation": "&lt;CLGR&gt;- Давай поговорим с Неж в «Замёрзшем дворце»!&lt;CLNR&gt;^00　↑Быстрее, быстрее! ^00　　　　　　　　　　　　　　[Лиди]^00　↑Ладно, ладно, уже иду.^00　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6488168": {
       "source": "pack02_text_en",
@@ -213260,7 +213260,7 @@
       "file": "str_summary_chara_text.xml",
       "string_no": "6357053",
       "original": "Ohh, I really want to be able to paint a Mysterious Painting, but it just doesn’t seem to work... Perhaps it’s time to ask for help. After all, we know Neige, who painted the very first Mysterious Painting... We should get her to give us some pointers!^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Ох, я очень хочу нарисовать Таинственную картину, но, похоже, это не получается... Возможно, пришло время обратиться за помощью. В конце концов, мы знаем Нейдж, которая нарисовала самую первую Таинственную картину... Мы должны попросить её дать нам несколько советов!^00　　　　　　　　　　　　　　　[Лиди]"
+      "translation": "Ох, я очень хочу нарисовать Таинственную картину, но, похоже, это не получается... Возможно, пришло время обратиться за помощью. В конце концов, мы знаем Неж, которая нарисовала самую первую Таинственную картину... Мы должны попросить её дать нам несколько советов!^00　　　　　　　　　　　　　　　[Лиди]"
     },
     "pack02:6357054": {
       "source": "pack02_text_en",
@@ -215150,7 +215150,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422713",
       "original": "　↑For the sake of our friendship with ^00　　Neige...!^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "　↑Ради нашей дружбы с Нейдж...!^00　　　　　　　　　　　　　　[Лиди]"
+      "translation": "　↑Ради нашей дружбы с Неж...!^00　　　　　　　　　　　　　　[Лиди]"
     },
     "pack02:6422714": {
       "source": "pack02_text_en",
@@ -215171,7 +215171,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422716",
       "original": "&lt;CLGR&gt;- Let’s give the “Teddy Bear” to Neige.&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;- Давай подарим «Плюшевого мишку» Нейдж.&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;- Давай подарим «Плюшевого мишку» Неж.&lt;CLNR&gt;"
     },
     "pack02:6422717": {
       "source": "pack02_text_en",
@@ -215192,7 +215192,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422719",
       "original": "　↑Neige... Why...?^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "　↑Нейдж... Почему...?^00　　　　　　　　　　　　　　[Лиди]"
+      "translation": "　↑Неж... Почему...?^00　　　　　　　　　　　　　　[Лиди]"
     },
     "pack02:6422720": {
       "source": "pack02_text_en",
@@ -215234,7 +215234,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422725",
       "original": "　↑Do you think Neige hates me?^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "　↑ Думаешь, Нейдж меня ненавидит?^00　　　　　　　　　　　　　　[Лиди]"
+      "translation": "　↑ Думаешь, Неж меня ненавидит?^00　　　　　　　　　　　　　　[Лиди]"
     },
     "pack02:6422726": {
       "source": "pack02_text_en",
@@ -215248,7 +215248,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422727",
       "original": "&lt;CLGR&gt;- Let’s go talk to Neige.^00　&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;- Давай поговорим с Нейдж.　&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;- Давай поговорим с Неж.　&lt;CLNR&gt;"
     },
     "pack02:6422728": {
       "source": "pack02_text_en",
@@ -215276,7 +215276,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422731",
       "original": "　↑I’m really looking forward to painting ^00　　with Neige!^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "　↑Я очень жду возможности нарисовать с Нейдж!^00　　　　　　　　　　　　　　[Лиди]"
+      "translation": "　↑Я очень жду возможности нарисовать с Неж!^00　　　　　　　　　　　　　　[Лиди]"
     },
     "pack02:6422732": {
       "source": "pack02_text_en",
@@ -215290,7 +215290,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422733",
       "original": "&lt;CLGR&gt;- We have to synthesize the “Rainbow^00　Palette.”&lt;CLNR&gt;^00　↑Neige told us to watch out for the^00　　black paint...^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "&lt;CLGR&gt;- Нам нужно синтезировать «Радужную палитру».&lt;CLNR&gt;^00　↑Нейдж сказала нам следить за чёрной краской...^00　　　　　　　　　　　　　　[Лиди]"
+      "translation": "&lt;CLGR&gt;- Нам нужно синтезировать «Радужную палитру».&lt;CLNR&gt;^00　↑Неж сказала нам следить за чёрной краской...^00　　　　　　　　　　　　　　[Лиди]"
     },
     "pack02:6422734": {
       "source": "pack02_text_en",
@@ -216032,7 +216032,7 @@
       "file": "str_summary_checkbox.xml",
       "string_no": "6422839",
       "original": "&lt;CLGR&gt;- Let’s go see Neige in “The Frozen ^00　Palace.”^00　&lt;CLNR&gt;",
-      "translation": "&lt;CLGR&gt;- Давай навестим Нейдж в «Замёрзшем дворце».　&lt;CLNR&gt;"
+      "translation": "&lt;CLGR&gt;- Давай навестим Неж в «Замёрзшем дворце».　&lt;CLNR&gt;"
     },
     "pack02:6422840": {
       "source": "pack02_text_en",
@@ -216627,14 +216627,14 @@
       "file": "str_summary_text.xml",
       "string_no": "6225974",
       "original": "In order to enter the next painting, we need to “restore” it, apparently. To do that, we need a special tool known as “Neige’s Paints,” which our teacher is apparently making right now. Let’s go and see how she’s doing. ^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Чтобы войти в следующую картину, нам, видимо, нужно её «восстановить». Для этого нам понадобится специальный инструмент, известный как «Краски Нейдж», который, судя по всему, сейчас мастерит наш учитель. Пойдем посмотрим, как у нее дела. ^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Чтобы войти в следующую картину, нам, видимо, нужно её «восстановить». Для этого нам понадобится специальный инструмент, известный как «Краски Неж», который, судя по всему, сейчас мастерит наш учитель. Пойдем посмотрим, как у нее дела. ^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6225975": {
       "source": "pack02_text_en",
       "file": "str_summary_text.xml",
       "string_no": "6225975",
       "original": "Ilmeria’s too busy, so it’s been decided that we need to make the “Neige’s Paints” ourselves. She’s given us the recipe, so all we need to do is synthesize the paint!^00　　　　　　　　　　　　　　　[Lydie]^00And Firis has agreed to help with the research!^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Ильмерия слишком занята, поэтому было решено, что «Краски Нейдж» нужно сделать самим. Она дала нам рецепт, так что все, что нам нужно сделать, это синтезировать краску!^00　　　　　　　　　　　　　　　[Лиди]^00И Фирис согласилась помочь с исследование!^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Ильмерия слишком занята, поэтому было решено, что «Краски Неж» нужно сделать самим. Она дала нам рецепт, так что все, что нам нужно сделать, это синтезировать краску!^00　　　　　　　　　　　　　　　[Лиди]^00И Фирис согласилась помочь с исследование!^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6225976": {
       "source": "pack02_text_en",
@@ -216900,7 +216900,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6226013",
       "original": "The legendary alchemist who trapped the Thunder God was none other than Neige, the first of the Mysterious Painters. And before us right now is the very first “Mysterious Painting” created. I wonder what lies within... We need to begin the restoration process. ^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Легендарным алхимиком, поймавшим Бога Грома в ловушку, был никто иной, как Нейдж, первый из Таинственных Художников. И перед нами прямо сейчас самая первая созданная «Таинственная картина». Интересно, что же внутри... Нам нужно начать процесс восстановления. ^00　　　　　　　　　　　　　　　[Лиди]"
+      "translation": "Легендарным алхимиком, поймавшим Бога Грома в ловушку, был никто иной, как Неж, первый из Таинственных Художников. И перед нами прямо сейчас самая первая созданная «Таинственная картина». Интересно, что же внутри... Нам нужно начать процесс восстановления. ^00　　　　　　　　　　　　　　　[Лиди]"
     },
     "pack02:6226014": {
       "source": "pack02_text_en",
@@ -216914,14 +216914,14 @@
       "file": "str_summary_text.xml",
       "string_no": "6226015",
       "original": "Neige is all alone in this world. That breaks my heart. I want to be Neige’s friend. And I think... I think she wants the same thing. ^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Нейдж совсем одна в этом мире. Это разбивает мне сердце. Я хочу быть другом Нейдж. И я думаю... Я думаю, она хочет того же. ^00　　　　　　　　　　　　　　　[Лиди]"
+      "translation": "Неж совсем одна в этом мире. Это разбивает мне сердце. Я хочу быть другом Неж. И я думаю... Я думаю, она хочет того же. ^00　　　　　　　　　　　　　　　[Лиди]"
     },
     "pack02:6226016": {
       "source": "pack02_text_en",
       "file": "str_summary_text.xml",
       "string_no": "6226016",
       "original": "I found a torn teddy bear. This... This must have belonged to Neige... Okay. We're going to fix this teddy bear using alchemy! ^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Я нашел порванного плюшевого мишку. Это... Должно быть, это принадлежало Нейдж... Ладно. Мы починим этого плюшевого мишку с помощью алхимии! ^00　　　　　　　　　　　　　　　[Лиди]"
+      "translation": "Я нашел порванного плюшевого мишку. Это... Должно быть, это принадлежало Неж... Ладно. Мы починим этого плюшевого мишку с помощью алхимии! ^00　　　　　　　　　　　　　　　[Лиди]"
     },
     "pack02:6226017": {
       "source": "pack02_text_en",
@@ -216942,28 +216942,28 @@
       "file": "str_summary_text.xml",
       "string_no": "6226019",
       "original": "Hehe, food always tastes better when it’s eaten with friends. And it feels like Neige has started to open up a little... One more push, and I feel like we might become friends... ^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Хе-хе, еда всегда вкуснее, когда её едят с друзьями. И такое ощущение, что Нейдж начала немного открываться... Ещё один толчок, и я чувствую, что мы можем стать друзьями... ^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Хе-хе, еда всегда вкуснее, когда её едят с друзьями. И такое ощущение, что Неж начала немного открываться... Ещё один толчок, и я чувствую, что мы можем стать друзьями... ^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6226020": {
       "source": "pack02_text_en",
       "file": "str_summary_text.xml",
       "string_no": "6226020",
       "original": "Hehe, finally Neige has agreed to be friends! But she’s asked us first to guess what it is she wants to do. What could Neige want to do...? I have no idea. Once I’m ready, I’ll talk to her.^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Хе-хе, наконец-то Нейдж согласилась дружить! Но она попросила нас сначала угадать, что она хочет сделать. Что могла сделать Нейдж?.. Не имею представления. Как только я буду готов, я поговорю с ней.^00　　　　　　　　　　　　　　　[Лиди]"
+      "translation": "Хе-хе, наконец-то Неж согласилась дружить! Но она попросила нас сначала угадать, что она хочет сделать. Что могла сделать Неж?.. Не имею представления. Как только я буду готов, я поговорю с ней.^00　　　　　　　　　　　　　　　[Лиди]"
     },
     "pack02:6226021": {
       "source": "pack02_text_en",
       "file": "str_summary_text.xml",
       "string_no": "6226021",
       "original": "Yay! Neige has said she’ll be our friend! This is all thanks to Lydie’s hard work. It’s time to go further in, to Neige’s room, and paint together! ^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Ура! Нейдж сказала, что будет нашим другом! И все это благодаря упорному труду Лиди. Пришло время пойти дальше, в комнату Нейдж, и рисовать вместе! ^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Ура! Неж сказала, что будет нашим другом! И все это благодаря упорному труду Лиди. Пришло время пойти дальше, в комнату Неж, и рисовать вместе! ^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6226022": {
       "source": "pack02_text_en",
       "file": "str_summary_text.xml",
       "string_no": "6226022",
       "original": "Neige has given us the key to defeating Falgior. The “Rainbow Palette.” But right now it’s broken, so we need to hurry back to the atelier and fix it! ^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Нейдж дала нам ключ к победе над Фальгиором. «Радужная палитра». Но сейчас он сломан, поэтому нам нужно поспешить обратно в ателье и починить его! ^00　　　　　　　　　　　　　　　[Лиди]"
+      "translation": "Неж дала нам ключ к победе над Фальгиором. «Радужная палитра». Но сейчас он сломан, поэтому нам нужно поспешить обратно в ателье и починить его! ^00　　　　　　　　　　　　　　　[Лиди]"
     },
     "pack02:6226023": {
       "source": "pack02_text_en",
@@ -217278,7 +217278,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6226067",
       "original": "Our next task is... the Philosopher’s Stones! They are the ultimate goal of all alchemy. But for Sophie and Firis, they’re just another achievement under their belts. So maybe we’ll be able to make them easily as well... Maybe?^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Наша следующая задача —... Философские камни! Они являются конечной целью всей алхимии. Но для Софи и Фирис это всёго лишь ещё одно достижение. Так что, возможно, мы тоже сможем сделать их легко... Может быть?^00　　　　　　　　　　　　　　　[Лиди]"
+      "translation": "Наша следующая задача —... Философские камни! Они являются конечной целью всей алхимии. Но для Софи и Фирис это всего лишь ещё одно достижение. Так что, возможно, мы тоже сможем сделать их легко... Может быть?^00　　　　　　　　　　　　　　　[Лиди]"
     },
     "pack02:6226068": {
       "source": "pack02_text_en",
@@ -217418,7 +217418,7 @@
       "file": "str_summary_text.xml",
       "string_no": "6226087",
       "original": "There was a weird painting in the basement that looked like it had black paint smeared all over it. Come to think of it, Neige told us to look out for black paint. Perhaps she’ll know what's going on!^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "В подвале висела странная картина, которая выглядела так, будто вся она была замазана черной краской. Если подумать, Нейдж посоветовала нам обратить внимание на черную краску. Возможно, она узнает, что происходит!^00　　　　　　　　　　　　　　　[Лиди]"
+      "translation": "В подвале висела странная картина, которая выглядела так, будто вся она была замазана черной краской. Если подумать, Неж посоветовала нам обратить внимание на черную краску. Возможно, она узнает, что происходит!^00　　　　　　　　　　　　　　　[Лиди]"
     },
     "pack02:6226088": {
       "source": "pack02_text_en",
@@ -218699,7 +218699,7 @@
       "file": "str_summary_title.xml",
       "string_no": "6160551",
       "original": "To Neige",
-      "translation": "Нейдж"
+      "translation": "Неж"
     },
     "pack02:6160552": {
       "source": "pack02_text_en",
