@@ -77,6 +77,12 @@
     "Memo": {
       "ru": "Заметка",
       "notes": "метка в UI идей рецептов: «Memo: …» → «Заметка: …»; не «Памятка»"
+    },
+    "Promotion Test": {
+      "ru": "Испытание ранга",
+      "plural_ru": "Испытания ранга",
+      "aliases_en": ["Promotion Tests", "promotion test", "promotion tests"],
+      "notes": "склоняется; с большой «И»; не «испытание на повышение ранга»"
     }
   }
 }

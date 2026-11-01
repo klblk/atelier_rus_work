@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T10:15:30.887132+00:00",
+  "generated_at": "2026-11-01T10:35:43.987112+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -9242,7 +9242,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "Kind of surprising, too. You sure do know a lot about them!",
-      "translation": "Тоже как-то удивительно. Ты и правда много о них знаешь!"
+      "translation": "Это довольно неожиданно. Ты и правда много о них знаешь!"
     },
     "ebm:mm04/event_message_mm04_040.ebm:12": {
       "source": "pack01_ebm",
@@ -9258,7 +9258,7 @@
       "index": 13,
       "speaker": "Sue",
       "original": "Which leads me to my next topic. That painting in the basement looks pretty MYSTERIOUS to me!",
-      "translation": "Это подводит меня к следующей теме. Эта картина в подвале кажется мне довольно ЗАГАДОЧНОЙ!"
+      "translation": "Это подводит меня к следующей теме. Эта картина в подвале кажется мне довольно ТАИНСТВЕННОЙ!"
     },
     "ebm:mm04/event_message_mm04_040.ebm:14": {
       "source": "pack01_ebm",
@@ -9266,7 +9266,7 @@
       "index": 14,
       "speaker": "Lydie",
       "original": "Me too! We told you that we went inside it! We saw a different world in there!",
-      "translation": "Я тоже! Мы же говорили тебе, что зашли внутрь неё! Мы увидели там другой мир!"
+      "translation": "Мне тоже! Мы же говорили тебе, что зашли внутрь неё! Мы увидели там другой мир!"
     },
     "ebm:mm04/event_message_mm04_040.ebm:15": {
       "source": "pack01_ebm",
@@ -9274,7 +9274,7 @@
       "index": 15,
       "speaker": "Roger",
       "original": "Nope, that can't be. I painted that picture! I can't make Mysterious Paintings, never! Hahaha!",
-      "translation": "Нет, этого не может быть. Я нарисовал эту картину! Я не могу создавать Таинственные картины, никогда! Ха-ха-ха!"
+      "translation": "Нет, этого не может быть. Я нарисовал эту картину! Я не могу создавать Таинственные картины, увы! Ха-ха-ха!"
     },
     "ebm:mm04/event_message_mm04_040.ebm:16": {
       "source": "pack01_ebm",
@@ -9306,7 +9306,7 @@
       "index": 0,
       "speaker": "Ilmeria",
       "original": "You two aren't slacking off, are you? Your teacher is here to check up on you!",
-      "translation": "Вы двое не расслабляетесь, да? Ваш учитель здесь, чтобы проверить вас!"
+      "translation": "Вы двое не расслабляетесь, да? Ваша наставница здесь, чтобы проверить вас!"
     },
     "ebm:mm04/event_message_mm04_050.ebm:1": {
       "source": "pack01_ebm",
@@ -9338,7 +9338,7 @@
       "index": 4,
       "speaker": "Ilmeria",
       "original": "Never say never, but I am your teacher, after all. I need to stay ahead of my students!",
-      "translation": "Никогда не говори никогда, но в конце концов я ваш учитель. Мне нужно быть впереди своих учеников!"
+      "translation": "Никогда не говори никогда, но в конце концов я ваша наставница. Мне нужно быть впереди своих учеников!"
     },
     "ebm:mm04/event_message_mm04_050.ebm:5": {
       "source": "pack01_ebm",
@@ -9394,7 +9394,7 @@
       "index": 11,
       "speaker": "Ilmeria",
       "original": "Yes, Mireille filled me in. I was too busy to help her out myself, though.",
-      "translation": "Да, Мирей ввела меня в курс дела. Однако я была слишком занята, чтобы помочь ей самой."
+      "translation": "Да, Мирей ввела меня в курс дела. Однако я была слишком занята, чтобы помочь ей."
     },
     "ebm:mm04/event_message_mm04_050.ebm:12": {
       "source": "pack01_ebm",
@@ -9426,7 +9426,7 @@
       "index": 15,
       "speaker": "Sue",
       "original": "It might blow our atelier clean away! I'll just put them back in storage for now.",
-      "translation": "Это может снести наше ателье с лица земли! Я пока просто положу их обратно на хранение."
+      "translation": "Это может снести наше ателье с лица земли! Я пока просто положу их обратно на склад."
     },
     "ebm:mm04/event_message_mm04_050.ebm:16": {
       "source": "pack01_ebm",
@@ -9450,7 +9450,7 @@
       "index": 18,
       "speaker": "Sue",
       "original": "A material that even teacher has never seen before? These paintings really are incredible!",
-      "translation": "Материал, который даже учитель никогда раньше не видела? Эти картины действительно невероятные!"
+      "translation": "Материал, который даже наставница никогда раньше не видела? Эти картины действительно невероятные!"
     },
     "ebm:mm04/event_message_mm04_060.ebm:0": {
       "source": "pack01_ebm",
@@ -9474,7 +9474,7 @@
       "index": 0,
       "speaker": "Mireille",
       "original": "Your reputation isn't high enough yet to take the next exam. Keep it up! You'll get there!",
-      "translation": "Ваша репутация ещё недостаточно высока, чтобы сдавать следующий экзамен. Так держать! Вы доберётесь туда!"
+      "translation": "Ваша репутация ещё недостаточно высока, чтобы сдавать следующий экзамен. Продолжайте в том же духе! У вас всё получится!"
     },
     "ebm:mm04/event_message_mm04_065.ebm:1": {
       "source": "pack01_ebm",
@@ -9482,7 +9482,7 @@
       "index": 1,
       "speaker": "Mireille",
       "original": "Interesting. Your reputation has grown quite a lot. I think you might be ready for the exam.",
-      "translation": "Интересно. Ваша репутация значительно выросла. Я думаю, вы можете быть готовы к экзамену."
+      "translation": "Интересно. Ваша репутация значительно выросла. Я думаю, вы готовы к экзамену."
     },
     "ebm:mm04/event_message_mm04_065.ebm:2": {
       "source": "pack01_ebm",
@@ -9490,7 +9490,7 @@
       "index": 2,
       "speaker": "Mireille",
       "original": "What do you think? Do you want to try the next Promotion Test?",
-      "translation": "Что вы думаете? Хотите попробовать следующее Испытание ранга?"
+      "translation": "Что думаете? Хотите попробовать следующее Испытание ранга?"
     },
     "ebm:mm04/event_message_mm04_065.ebm:3": {
       "source": "pack01_ebm",
@@ -23602,7 +23602,7 @@
       "index": 7,
       "speaker": "Lydie",
       "original": "It's the requirements for the next Promotion Test. Sue, what do you think?",
-      "translation": "Это требования для следующего испытания ранга. Сью, что думаешь?"
+      "translation": "Это требования для следующего Испытания ранга. Сью, что думаешь?"
     },
     "ebm:mm08/event_message_mm08_010.ebm:8": {
       "source": "pack01_ebm",
@@ -24138,7 +24138,7 @@
       "index": 2,
       "speaker": "Mireille",
       "original": "What do you think? Do you want to try the next Promotion Test?",
-      "translation": "Что скажете? Хотите попробовать следующее испытание ранга?"
+      "translation": "Что скажете? Хотите попробовать следующее Испытание ранга?"
     },
     "ebm:mm08/event_message_mm08_045.ebm:3": {
       "source": "pack01_ebm",
@@ -27706,7 +27706,7 @@
       "index": 2,
       "speaker": "Mireille",
       "original": "What do you think? Do you want to try the next Promotion Test?",
-      "translation": "Что скажете? Хотите попробовать следующее испытание ранга?"
+      "translation": "Что скажете? Хотите попробовать следующее Испытание ранга?"
     },
     "ebm:mm09/event_message_mm09_075.ebm:3": {
       "source": "pack01_ebm",
@@ -30130,7 +30130,7 @@
       "index": 2,
       "speaker": "Mireille",
       "original": "What do you think? Do you want to try the next Promotion Test?",
-      "translation": "Что скажете? Хотите попробовать следующее испытание ранга?"
+      "translation": "Что скажете? Хотите попробовать следующее Испытание ранга?"
     },
     "ebm:mm10/event_message_mm10_045.ebm:3": {
       "source": "pack01_ebm",
@@ -30234,7 +30234,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "Hahaha. It's about the Promotion Test.",
-      "translation": "Ха-ха-ха. Речь об испытании ранга."
+      "translation": "Ха-ха-ха. Речь об Испытании ранга."
     },
     "ebm:mm10/event_message_mm10_060.ebm:3": {
       "source": "pack01_ebm",
@@ -77402,7 +77402,7 @@
       "index": 14,
       "speaker": "Lydie",
       "original": "What's going on here? It's just like a promotion test!",
-      "translation": "Что это такое? Прямо как испытание на повышение ранга!"
+      "translation": "Что это такое? Прямо как Испытание ранга!"
     },
     "ebm:qc07_rog/event_message_qc07_rog_010.ebm:15": {
       "source": "pack01_ebm",
