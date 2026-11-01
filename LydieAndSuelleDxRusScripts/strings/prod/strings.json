@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T11:13:02.905821+00:00",
+  "generated_at": "2026-11-01T11:30:57.458069+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -1522,7 +1522,7 @@
       "index": 15,
       "speaker": "Roger",
       "original": "Uwaaaaaaaaaaaaaaaah!",
-      "translation": "Уваааааааааааа!"
+      "translation": "Ух!"
     },
     "ebm:mm01/event_message_mm01_240.ebm:16": {
       "source": "pack01_ebm",
@@ -10010,7 +10010,7 @@
       "index": 20,
       "speaker": "Liane",
       "original": "Oh, hold on! If it isn't Lydie and Sue! You both know Firis, do you?",
-      "translation": "Ой, погоди! Если это не Лиди и Сью! Вы обе знаете Фирис, не так ли?"
+      "translation": "Ой, погоди! Это же Лиди и Сью! Вы обе знаете Фирис, не так ли?"
     },
     "ebm:mm04/event_message_mm04_100.ebm:21": {
       "source": "pack01_ebm",
@@ -10026,7 +10026,7 @@
       "index": 22,
       "speaker": "Liane",
       "original": "That's right! The cutest, most precious, most darling younger sister in the whole wide world!",
-      "translation": "Это верно! Самая милая, самая драгоценная, самая дорогая младшая сестра на свете!"
+      "translation": "Верно! Самая милая, самая драгоценная, самая дорогая младшая сестра на свете!"
     },
     "ebm:mm04/event_message_mm04_100.ebm:23": {
       "source": "pack01_ebm",
@@ -10034,7 +10034,7 @@
       "index": 23,
       "speaker": "Firis",
       "original": "I'm sorry about this, you two. Liane always gets a bit worked up when it comes to, well, me.",
-      "translation": "Мне жаль вас двоих. Лианэ всегда немного нервничает, когда дело касается меня."
+      "translation": "Прошу прощения за это, у вас двоих. Лианэ всегда немного нервничает, когда дело касается меня."
     },
     "ebm:mm04/event_message_mm04_100.ebm:24": {
       "source": "pack01_ebm",
@@ -10074,7 +10074,7 @@
       "index": 28,
       "speaker": "System",
       "original": "<CLEG>Beast Meat<CLNR> received.",
-      "translation": "<CLEG>Мясо зверя<CLNR> получено."
+      "translation": "<CLEG>Мясо животного<CLNR> получено."
     },
     "ebm:mm04/event_message_mm04_110.ebm:0": {
       "source": "pack01_ebm",
@@ -10082,7 +10082,7 @@
       "index": 0,
       "speaker": "Mireille",
       "original": "There you are, twins. I've got your new exam task all ready for you!",
-      "translation": "Вот вы, близнецы. У меня для вас готово новое экзаменационное задание!"
+      "translation": "Вот вы, близняшки. У меня для вас готово новое экзаменационное задание!"
     },
     "ebm:mm04/event_message_mm04_110.ebm:1": {
       "source": "pack01_ebm",
@@ -10130,7 +10130,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Uwah, look at all these monsters! I can see why they're causing so much trouble.",
-      "translation": "Ува, посмотри на всех этих монстров! Я понимаю, почему они создают столько проблем."
+      "translation": "Ух, посмотри на всех этих монстров! Я понимаю, почему они создают столько проблем."
     },
     "ebm:mm04/event_message_mm04_120.ebm:1": {
       "source": "pack01_ebm",
@@ -11218,7 +11218,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Uwah, there it is again. It sounds like it's getting closer, too.",
-      "translation": "Ува, вот оно снова. Кажется, оно тоже приближается."
+      "translation": "Ух, вот оно снова. Кажется, оно тоже приближается."
     },
     "ebm:mm04/event_message_mm04_240.ebm:2": {
       "source": "pack01_ebm",
@@ -11426,7 +11426,7 @@
       "index": 16,
       "speaker": "Sue",
       "original": "Uwah, that looks bad! It's about to launch a nasty attack, I can tell!",
-      "translation": "Ува, это выглядит плохо! Я чую, он собирается начать ужасную атаку!"
+      "translation": "Ух, это выглядит плохо! Я чую, он собирается начать ужасную атаку!"
     },
     "ebm:mm04/event_message_mm04_250.ebm:17": {
       "source": "pack01_ebm",
@@ -11434,7 +11434,7 @@
       "index": 17,
       "speaker": "Lydie",
       "original": "Uwaaah! Save me, Lucia!",
-      "translation": "Увааа! Спаси меня, Люсия!"
+      "translation": "Ух! Спаси меня, Люсия!"
     },
     "ebm:mm04/event_message_mm04_250.ebm:18": {
       "source": "pack01_ebm",
@@ -12122,7 +12122,7 @@
       "index": 10,
       "speaker": "Lucia",
       "original": "Uwaaaah! You're wrong! All wrong! I don't think that at all!",
-      "translation": "Уваааа! Вы ошибаетесь! Всё неправильно! Я так не думаю!"
+      "translation": "Ух! Вы ошибаетесь! Всё неправильно! Я так не думаю!"
     },
     "ebm:mm04/event_message_mm04_290.ebm:11": {
       "source": "pack01_ebm",
@@ -12450,7 +12450,7 @@
       "index": 12,
       "speaker": "Sue",
       "original": "Uwah, a Puni! What's it doing at our atelier? Hold on, I think it's delivering that letter?",
-      "translation": "Ува, пуни! Что он делает в нашем ателье? Подожди, кажется, он доставляет письмо?"
+      "translation": "Ух, пуни! Что он делает в нашем ателье? Подожди, кажется, он доставляет письмо?"
     },
     "ebm:mm05/event_message_mm05_010.ebm:13": {
       "source": "pack01_ebm",
@@ -14322,7 +14322,7 @@
       "index": 25,
       "speaker": "Lydie",
       "original": "Uwah! That's a bit graphic. Don't worry, we won't let that happen.",
-      "translation": "Ува! Это немного слишком живописно. Не волнуйся, мы этого не допустим."
+      "translation": "Ух! Это немного слишком живописно. Не волнуйся, мы этого не допустим."
     },
     "ebm:mm05/event_message_mm05_200.ebm:26": {
       "source": "pack01_ebm",
@@ -14450,7 +14450,7 @@
       "index": 14,
       "speaker": "Sue",
       "original": "Uwah, hold on! I've got some more, just stop tugging on me!",
-      "translation": "Ува, погоди! У меня есть ещё, просто перестань меня тянуть!"
+      "translation": "Ух, погоди! У меня есть ещё, просто перестань меня тянуть!"
     },
     "ebm:mm05/event_message_mm05_210.ebm:15": {
       "source": "pack01_ebm",
@@ -14730,7 +14730,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Uwah, it's bigger than I was expecting! It's going to be tough to defeat that.",
-      "translation": "Ува, он больше, чем я ожидала! Победить его будет сложно."
+      "translation": "Ух, он больше, чем я ожидала! Победить его будет сложно."
     },
     "ebm:mm05/event_message_mm05_260.ebm:2": {
       "source": "pack01_ebm",
@@ -14850,7 +14850,7 @@
       "index": 0,
       "speaker": "Fuoco",
       "original": "Uwah, so many? I'll go and get started!",
-      "translation": "Увау, так много? Я пойду и начну!"
+      "translation": "Ух, так много? Я пойду и начну!"
     },
     "ebm:mm05/event_message_mm05_270.ebm:1": {
       "source": "pack01_ebm",
@@ -14882,7 +14882,7 @@
       "index": 4,
       "speaker": "Lydie",
       "original": "Uwah, I'm sorry, Fuoco. That plan was a complete failure.",
-      "translation": "Увау, прости, Фуоко. Этот план потерпел полный провал."
+      "translation": "Ух, прости, Фуоко. Этот план потерпел полный провал."
     },
     "ebm:mm05/event_message_mm05_270.ebm:5": {
       "source": "pack01_ebm",
@@ -15146,7 +15146,7 @@
       "index": 5,
       "speaker": "Fuoco",
       "original": "Uwaah! Now my homeland is safe!",
-      "translation": "Уваа! Теперь моя родина в безопасности!"
+      "translation": "Ух! Теперь моя родина в безопасности!"
     },
     "ebm:mm05/event_message_mm05_300.ebm:6": {
       "source": "pack01_ebm",
@@ -15226,7 +15226,7 @@
       "index": 15,
       "speaker": "Lydie",
       "original": "Uwah, are you sure? Thank you, Fuoco!",
-      "translation": "Ува, ты уверена? Спасибо, Фуоко!"
+      "translation": "Ух, ты уверена? Спасибо, Фуоко!"
     },
     "ebm:mm05/event_message_mm05_300.ebm:16": {
       "source": "pack01_ebm",
@@ -16426,7 +16426,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "(Uwaah, Mom! I fell over!)",
-      "translation": "(Уаа, мама! Я упала!)"
+      "translation": "(Ух, мама! Я упала!)"
     },
     "ebm:mm06/event_message_mm06_110.ebm:5": {
       "source": "pack01_ebm",
@@ -17506,7 +17506,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Uwah! Was that Falgior?",
-      "translation": "Ува! Это был Фальгиор?"
+      "translation": "Ух! Это был Фальгиор?"
     },
     "ebm:mm06/event_message_mm06_210.ebm:2": {
       "source": "pack01_ebm",
@@ -17610,7 +17610,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Uwah! You're kidding? This can't be... this can't be real!",
-      "translation": "Ува! Ты шутишь? Этого не может быть... этого не может быть на самом деле!"
+      "translation": "Ух! Ты шутишь? Этого не может быть... этого не может быть на самом деле!"
     },
     "ebm:mm06/event_message_mm06_230.ebm:1": {
       "source": "pack01_ebm",
@@ -17618,7 +17618,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Uwah! We can't win. He's just too strong!",
-      "translation": "Ува! Мы не можем победить. Он слишком силен!"
+      "translation": "Ух! Мы не можем победить. Он слишком силен!"
     },
     "ebm:mm06/event_message_mm06_230.ebm:2": {
       "source": "pack01_ebm",
@@ -18898,7 +18898,7 @@
       "index": 7,
       "speaker": "???",
       "original": "Uwaaah! How dare you just pick that up and start reading! Stop it! That's not for you!",
-      "translation": "Увааа! Как вы смеете просто взять это в руки и начать читать! Прекратите! Это не для вас!"
+      "translation": "Ух! Как вы смеете просто взять это в руки и начать читать! Прекратите! Это не для вас!"
     },
     "ebm:mm06/event_message_mm06_340.ebm:8": {
       "source": "pack01_ebm",
@@ -18922,7 +18922,7 @@
       "index": 10,
       "speaker": "Lydie",
       "original": "Uwah! Sue, you don't hold back, do you!",
-      "translation": "Ува! Сью, ты не сдерживаешься, не так ли!"
+      "translation": "Ух! Сью, ты не сдерживаешься, не так ли!"
     },
     "ebm:mm06/event_message_mm06_340.ebm:11": {
       "source": "pack01_ebm",
@@ -22282,7 +22282,7 @@
       "index": 7,
       "speaker": "Lucia",
       "original": "Uwah, no way! We won't get a loaf of old bread for this!",
-      "translation": "Ува, да ну! Нам за это и буханки чёрствого хлеба не дадут!"
+      "translation": "Ух, да ну! Нам за это и буханки чёрствого хлеба не дадут!"
     },
     "ebm:mm07/event_message_mm07_200.ebm:8": {
       "source": "pack01_ebm",
@@ -22338,7 +22338,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Uwah, that's a large monster! You don't think we can fight that thing, can we...",
-      "translation": "Ува, это огромный монстр! Вы же не думаете, что мы сможем с ним сразиться..."
+      "translation": "Ух, это огромный монстр! Вы же не думаете, что мы сможем с ним сразиться..."
     },
     "ebm:mm07/event_message_mm07_210.ebm:2": {
       "source": "pack01_ebm",
@@ -22402,7 +22402,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Uwah, Lucia! At least cover your mouth!",
-      "translation": "Ува, Люсия! Хоть рот прикрой!"
+      "translation": "Ух, Люсия! Хоть рот прикрой!"
     },
     "ebm:mm07/event_message_mm07_210.ebm:10": {
       "source": "pack01_ebm",
@@ -22498,7 +22498,7 @@
       "index": 7,
       "speaker": "Sophie",
       "original": "Uwah! W-What's this?",
-      "translation": "Ува! Ч-что это?"
+      "translation": "Ух! Ч-что это?"
     },
     "ebm:mm07/event_message_mm07_230.ebm:8": {
       "source": "pack01_ebm",
@@ -22554,7 +22554,7 @@
       "index": 14,
       "speaker": "Sue",
       "original": "Uwah, fine...",
-      "translation": "Ува, ладно..."
+      "translation": "Ух, ладно..."
     },
     "ebm:mm07/event_message_mm07_230.ebm:15": {
       "source": "pack01_ebm",
@@ -22642,7 +22642,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Uwah, very well! But what are you going to use if for?",
-      "translation": "Ува, хорошо! Но для чего они вам?"
+      "translation": "Ух, хорошо! Но для чего они вам?"
     },
     "ebm:mm07/event_message_mm07_240.ebm:10": {
       "source": "pack01_ebm",
@@ -22794,7 +22794,7 @@
       "index": 13,
       "speaker": "Lydie",
       "original": "Hey, don't hand that to me! Uwah! What am I supposed to do with this?",
-      "translation": "Эй, не передавайте это мне! Ува! Что мне с этим делать?"
+      "translation": "Эй, не передавайте это мне! Ух! Что мне с этим делать?"
     },
     "ebm:mm07/event_message_mm07_260.ebm:14": {
       "source": "pack01_ebm",
@@ -25266,7 +25266,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Uwah! I know they call them \"mysterious\", but this is the most mysterious one yet!",
-      "translation": "Ува! Я знаю, их называют «таинственными», но эта — самая таинственная из всех!"
+      "translation": "Ух! Я знаю, их называют «таинственными», но эта — самая таинственная из всех!"
     },
     "ebm:mm08/event_message_mm08_130.ebm:1": {
       "source": "pack01_ebm",
@@ -25490,7 +25490,7 @@
       "index": 7,
       "speaker": "Mathias",
       "original": "Uwah, this is bad! All the trauma is coming back! I want to leave, but my sister is back there...",
-      "translation": "Ува, плохо дело! Вся травма возвращается! Хочу уйти, но сестра там..."
+      "translation": "Ух, плохо дело! Вся травма возвращается! Хочу уйти, но сестра там..."
     },
     "ebm:mm08/event_message_mm08_140.ebm:8": {
       "source": "pack01_ebm",
@@ -25530,7 +25530,7 @@
       "index": 12,
       "speaker": "Sue",
       "original": "Hey! You just don't give up, do you? Uwah, weak little Mathias is talking back!",
-      "translation": "Эй! Ты так просто не сдаёшься, да? Ува, слабый маленький Матиас ещё и отвечает!"
+      "translation": "Эй! Ты так просто не сдаёшься, да? Ух, слабый маленький Матиас ещё и отвечает!"
     },
     "ebm:mm08/event_message_mm08_140.ebm:13": {
       "source": "pack01_ebm",
@@ -25730,7 +25730,7 @@
       "index": 15,
       "speaker": "Sophie",
       "original": "Uwah, don't tell them!",
-      "translation": "Ува, не рассказывай им!"
+      "translation": "Ух, не рассказывай им!"
     },
     "ebm:mm08/event_message_mm08_150.ebm:16": {
       "source": "pack01_ebm",
@@ -28706,7 +28706,7 @@
       "index": 0,
       "speaker": "Together",
       "original": "Uwah!",
-      "translation": "Ува!"
+      "translation": "Ух!"
     },
     "ebm:mm09/event_message_mm09_150.ebm:1": {
       "source": "pack01_ebm",
@@ -28714,7 +28714,7 @@
       "index": 1,
       "speaker": "System",
       "original": "Uwah!",
-      "translation": "Ува!"
+      "translation": "Ух!"
     },
     "ebm:mm09/event_message_mm09_150.ebm:2": {
       "source": "pack01_ebm",
@@ -28818,7 +28818,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Uwah! It's just so lovely in here!",
-      "translation": "Ува! Здесь так чудесно!"
+      "translation": "Ух! Здесь так чудесно!"
     },
     "ebm:mm09/event_message_mm09_170.ebm:1": {
       "source": "pack01_ebm",
@@ -28994,7 +28994,7 @@
       "index": 4,
       "speaker": "Lydie",
       "original": "Mom! I really wanted to see you! I've missed you so much! Uwaaaah!",
-      "translation": "Мама! Я так хотела тебя увидеть! Я так по тебе скучала! Уваааа!"
+      "translation": "Мама! Я так хотела тебя увидеть! Я так по тебе скучала! Ух!"
     },
     "ebm:mm09/event_message_mm09_200.ebm:5": {
       "source": "pack01_ebm",
@@ -29738,7 +29738,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "Uwah, it's no good. I was trying to hear to its voice...",
-      "translation": "Ува, бесполезно. Я пыталась услышать его голос..."
+      "translation": "Ух, бесполезно. Я пыталась услышать его голос..."
     },
     "ebm:mm10/event_message_mm10_030.ebm:3": {
       "source": "pack01_ebm",
@@ -29826,7 +29826,7 @@
       "index": 14,
       "speaker": "Sue",
       "original": "Uwah! I'll get ready at once! Meat, meat, time to eat!",
-      "translation": "Ува! Сейчас же приготовлю! Мясо, мясо, пора есть!"
+      "translation": "Ух! Сейчас же приготовлю! Мясо, мясо, пора есть!"
     },
     "ebm:mm10/event_message_mm10_030.ebm:15": {
       "source": "pack01_ebm",
@@ -30290,7 +30290,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Uwah, you're making it worse, Dad!",
-      "translation": "Увау, ты делаешь только хуже, пап!"
+      "translation": "Ух, ты делаешь только хуже, пап!"
     },
     "ebm:mm10/event_message_mm10_060.ebm:10": {
       "source": "pack01_ebm",
@@ -30354,7 +30354,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "Uwah, you're smiling too! This must be some a crazy hard task he's set for us!",
-      "translation": "Ува, ты тоже улыбаешься! Наверняка он задал нам что-то безумно сложное!"
+      "translation": "Ух, ты тоже улыбаешься! Наверняка он задал нам что-то безумно сложное!"
     },
     "ebm:mm10/event_message_mm10_070.ebm:3": {
       "source": "pack01_ebm",
@@ -30402,7 +30402,7 @@
       "index": 8,
       "speaker": "Sue",
       "original": "Uwah! Dad definitely gave you that idea, didn't he? That's not fair!",
-      "translation": "Ува! Папа определенно подал тебе эту идею, не так ли? Это не справедливо!"
+      "translation": "Ух! Папа определенно подал тебе эту идею, не так ли? Это не справедливо!"
     },
     "ebm:mm10/event_message_mm10_070.ebm:9": {
       "source": "pack01_ebm",
@@ -30946,7 +30946,7 @@
       "index": 3,
       "speaker": "Sophie",
       "original": "Uwah! Wow, Plachta. Take a look at this.",
-      "translation": "Ува! Ого, Плахта. Глянь на это."
+      "translation": "Ух! Ого, Плахта. Глянь на это."
     },
     "ebm:mm10/event_message_mm10_110.ebm:4": {
       "source": "pack01_ebm",
@@ -31178,7 +31178,7 @@
       "index": 32,
       "speaker": "Sophie",
       "original": "Uwah! Wow, Plachta. Take a look at this.",
-      "translation": "Ува! Ого, Плахта. Глянь на это."
+      "translation": "Ух! Ого, Плахта. Глянь на это."
     },
     "ebm:mm10/event_message_mm10_110.ebm:33": {
       "source": "pack01_ebm",
@@ -31418,7 +31418,7 @@
       "index": 4,
       "speaker": "Sophie",
       "original": "Uwah! Wow, Plachta. Take a look at this.",
-      "translation": "Ува! Ого, Плахта. Глянь на это."
+      "translation": "Ух! Ого, Плахта. Глянь на это."
     },
     "ebm:mm10/event_message_mm10_120.ebm:5": {
       "source": "pack01_ebm",
@@ -31586,7 +31586,7 @@
       "index": 25,
       "speaker": "Sophie",
       "original": "Uwah! Wow, Plachta. Take a look at this.",
-      "translation": "Ува! Ого, Плахта. Глянь на это."
+      "translation": "Ух! Ого, Плахта. Глянь на это."
     },
     "ebm:mm10/event_message_mm10_120.ebm:26": {
       "source": "pack01_ebm",
@@ -32578,7 +32578,7 @@
       "index": 6,
       "speaker": "Sue",
       "original": "Uwah. I think you're right.",
-      "translation": "Ува. Кажется, ты права."
+      "translation": "Ух. Кажется, ты права."
     },
     "ebm:mm10/event_message_mm10_200.ebm:7": {
       "source": "pack01_ebm",
@@ -33770,7 +33770,7 @@
       "index": 0,
       "speaker": "Mathias",
       "original": "Uwah, what's this? A rock that really knows how to get in the way!",
-      "translation": "Ува, что это? Камень, который мастерски мешает пройти!"
+      "translation": "Ух, что это? Камень, который мастерски мешает пройти!"
     },
     "ebm:mm10/event_message_mm10_350.ebm:1": {
       "source": "pack01_ebm",
@@ -34034,7 +34034,7 @@
       "index": 3,
       "speaker": "Firis",
       "original": "Uwah! It looks so delicious. Can I just try one? Just one?",
-      "translation": "Ува! Это выглядит так вкусно. Могу ли я попробовать один? Только один?"
+      "translation": "Ух! Это выглядит так вкусно. Могу ли я попробовать один? Только один?"
     },
     "ebm:mm10/event_message_mm10_370.ebm:4": {
       "source": "pack01_ebm",
@@ -34274,7 +34274,7 @@
       "index": 0,
       "speaker": "Together",
       "original": "Uwah!",
-      "translation": "Ува!"
+      "translation": "Ух!"
     },
     "ebm:mm10/event_message_mm10_400.ebm:1": {
       "source": "pack01_ebm",
@@ -34282,7 +34282,7 @@
       "index": 1,
       "speaker": "System",
       "original": "Uwah!",
-      "translation": "Ува!"
+      "translation": "Ух!"
     },
     "ebm:mm10/event_message_mm10_400.ebm:2": {
       "source": "pack01_ebm",
@@ -35922,7 +35922,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "Uwah, I still can't find a thing! My vision is all blurry. But I'm not giving up now!",
-      "translation": "Ува, до сих пор ничего не нашла! В глазах всё плывёт. Но я не сдамся!"
+      "translation": "Ух, до сих пор ничего не нашла! В глазах всё плывёт. Но я не сдамся!"
     },
     "ebm:mm11/event_message_mm11_130.ebm:3": {
       "source": "pack01_ebm",
@@ -36642,7 +36642,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Uwah! What was that noise?",
-      "translation": "Ува! Что это был за шум?"
+      "translation": "Ух! Что это был за шум?"
     },
     "ebm:mm11/event_message_mm11_180.ebm:2": {
       "source": "pack01_ebm",
@@ -36866,7 +36866,7 @@
       "index": 14,
       "speaker": "Mathias",
       "original": "Uwah, they've run all that way ahead already! Hey, wait up, girls!",
-      "translation": "Ува, они уже так далеко убежали! Эй, подождите, девочки!"
+      "translation": "Ух, они уже так далеко убежали! Эй, подождите, девочки!"
     },
     "ebm:mm11/event_message_mm11_210.ebm:15": {
       "source": "pack01_ebm",
@@ -37242,7 +37242,7 @@
       "index": 46,
       "speaker": "Sue",
       "original": "Will you watch over us? Uwaaaah! Mom!",
-      "translation": "Ты будешь присматривать за нами? Уваааа! Мама!"
+      "translation": "Ты будешь присматривать за нами? Ух! Мама!"
     },
     "ebm:mm11/event_message_mm11_220.ebm:47": {
       "source": "pack01_ebm",
@@ -37250,7 +37250,7 @@
       "index": 47,
       "speaker": "Lydie",
       "original": "It's a promise, right? Uwaaaah!",
-      "translation": "Это обещание, правда? Уваааа!"
+      "translation": "Это обещание, правда? Ух!"
     },
     "ebm:mm11/event_message_mm11_220.ebm:48": {
       "source": "pack01_ebm",
@@ -37978,7 +37978,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "Uwah, you just came out and said it! You don't need to be so direct.",
-      "translation": "Ува, ты так прямо и сказала! Не обязательно быть настолько прямой."
+      "translation": "Ух, ты так прямо и сказала! Не обязательно быть настолько прямой."
     },
     "ebm:mm12/event_message_mm12_050.ebm:5": {
       "source": "pack01_ebm",
@@ -38002,7 +38002,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "Uwah! You aren't holding back today, are you!",
-      "translation": "Ува! Ты сегодня совсем не сдерживаешься!"
+      "translation": "Ух! Ты сегодня совсем не сдерживаешься!"
     },
     "ebm:mm12/event_message_mm12_050.ebm:8": {
       "source": "pack01_ebm",
@@ -39738,7 +39738,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "Uwah! Your handwriting sucks, Alt!",
-      "translation": "Ува! У тебя ужасный почерк, Альт!"
+      "translation": "Ух! У тебя ужасный почерк, Альт!"
     },
     "ebm:mm12/event_message_mm12_200.ebm:3": {
       "source": "pack01_ebm",
@@ -41466,7 +41466,7 @@
       "index": 5,
       "speaker": "Lydie",
       "original": "Uwah, you could be a little more interested! Just a little!",
-      "translation": "Ува, можно чуть больше интереса! Хоть капельку!"
+      "translation": "Ух, можно чуть больше интереса! Хоть капельку!"
     },
     "ebm:mm12/event_message_mm12_340.ebm:6": {
       "source": "pack01_ebm",
@@ -41714,7 +41714,7 @@
       "index": 4,
       "speaker": "Ilmeria",
       "original": "Of course not! I just got something in my eye! Uwah!",
-      "translation": "Конечно нет! Мне просто что-то в глаз попало! Ува!"
+      "translation": "Конечно нет! Мне просто что-то в глаз попало! Ух!"
     },
     "ebm:mm12/event_message_mm12_360.ebm:5": {
       "source": "pack01_ebm",
@@ -43866,7 +43866,7 @@
       "index": 38,
       "speaker": "Sue",
       "original": "Uwah, sorry for the rush! Thanks!",
-      "translation": "Ува, простите за спешку! Спасибо!"
+      "translation": "Ух, простите за спешку! Спасибо!"
     },
     "ebm:mm13/event_message_mm13_050.ebm:39": {
       "source": "pack01_ebm",
@@ -45858,7 +45858,7 @@
       "index": 2,
       "speaker": "Snow Mountain Man",
       "original": "Ah! Uwah! No! No, no, no! I may have lost this time, but eventually, eventually I will...",
-      "translation": "Ах! Ува! Нет! Нет-нет-нет! Может, в этот раз я и проиграла, но рано или поздно, рано или поздно я..."
+      "translation": "Ах! Ух! Нет! Нет-нет-нет! Может, в этот раз я и проиграла, но рано или поздно, рано или поздно я..."
     },
     "ebm:ms02/event_message_ms02_140.ebm:3": {
       "source": "pack01_ebm",
@@ -46122,7 +46122,7 @@
       "index": 9,
       "speaker": "Luard",
       "original": "Hold on! Firis? Uwah, you've gotten so big I didn't recognize you!",
-      "translation": "Погоди! Фирис? Ува, ты так выросла, что я тебя не узнала!"
+      "translation": "Погоди! Фирис? Ух, ты так выросла, что я тебя не узнала!"
     },
     "ebm:ms03/event_message_ms03_010.ebm:10": {
       "source": "pack01_ebm",
@@ -46234,7 +46234,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "Uwah, no thanks! Goddess Palmyra, I'm so sorry!",
-      "translation": "Ува, нет уж, спасибо! Богиня Пальмира, прости нас!"
+      "translation": "Ух, нет уж, спасибо! Богиня Пальмира, прости нас!"
     },
     "ebm:ms03/event_message_ms03_030.ebm:7": {
       "source": "pack01_ebm",
@@ -46274,7 +46274,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "Spider crickets! Uwah, that's worse than Puni! Alright, alright, Palmyra it is!",
-      "translation": "Сверчки-пауки! Ува, это хуже Пуни! Ладно-ладно, Пальмира так Пальмира!"
+      "translation": "Сверчки-пауки! Ух, это хуже Пуни! Ладно-ладно, Пальмира так Пальмира!"
     },
     "ebm:ms03/event_message_ms03_030.ebm:12": {
       "source": "pack01_ebm",
@@ -50026,7 +50026,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Uwah. Mireille? What are you doing here so early?",
-      "translation": "Ува. Мирей? Что ты здесь делаешь так рано?"
+      "translation": "Ух. Мирей? Что ты здесь делаешь так рано?"
     },
     "ebm:ms05/event_message_ms05_010.ebm:2": {
       "source": "pack01_ebm",
@@ -50122,7 +50122,7 @@
       "index": 13,
       "speaker": "Lucia",
       "original": "Uwah, hold on, you're too strong! Sophie, that's some crazy water pressure you've got going there!",
-      "translation": "Ува, погоди, ты слишком сильная! Софи, у тебя там какой-то безумный напор воды!"
+      "translation": "Ух, погоди, ты слишком сильная! Софи, у тебя там какой-то безумный напор воды!"
     },
     "ebm:ms05/event_message_ms05_010.ebm:14": {
       "source": "pack01_ebm",
@@ -50226,7 +50226,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Uwah, that surprised me. Was that Sophie's voice?",
-      "translation": "Ува, вот это сюрприз. Это был голос Софи?"
+      "translation": "Ух, вот это сюрприз. Это был голос Софи?"
     },
     "ebm:ms05/event_message_ms05_020.ebm:2": {
       "source": "pack01_ebm",
@@ -50354,7 +50354,7 @@
       "index": 17,
       "speaker": "Corneria",
       "original": "Uwah! S-Sophie, don't just grab me like that!",
-      "translation": "Ува! С-Софи, не хватай меня так!"
+      "translation": "Ух! С-Софи, не хватай меня так!"
     },
     "ebm:ms05/event_message_ms05_020.ebm:18": {
       "source": "pack01_ebm",
@@ -50370,7 +50370,7 @@
       "index": 19,
       "speaker": "Sue",
       "original": "Uwah, I had no idea! Sophie looks hard to handle when she's drunk!",
-      "translation": "Ува, я и не подозревала! С Софи, когда она пьяна, похоже, трудно справиться!"
+      "translation": "Ух, я и не подозревала! С Софи, когда она пьяна, похоже, трудно справиться!"
     },
     "ebm:ms05/event_message_ms05_020.ebm:20": {
       "source": "pack01_ebm",
@@ -50802,7 +50802,7 @@
       "index": 17,
       "speaker": "Sophie",
       "original": "Uwah! Unforgivable!",
-      "translation": "Ува! Непростительно!"
+      "translation": "Ух! Непростительно!"
     },
     "ebm:ms05/event_message_ms05_040.ebm:18": {
       "source": "pack01_ebm",
@@ -52362,7 +52362,7 @@
       "index": 1,
       "speaker": "Firis",
       "original": "Hello! Uwah, that smells good!",
-      "translation": "Привет! Ува, как пахнет!"
+      "translation": "Привет! Ух, как пахнет!"
     },
     "ebm:ms06/event_message_ms06_060.ebm:2": {
       "source": "pack01_ebm",
@@ -52370,7 +52370,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "Hey, Firis. Welco... uwah, what's that?",
-      "translation": "Эй, Фирис. Добро... ува, что это?"
+      "translation": "Эй, Фирис. Добро... ух, что это?"
     },
     "ebm:ms06/event_message_ms06_060.ebm:3": {
       "source": "pack01_ebm",
@@ -52618,7 +52618,7 @@
       "index": 12,
       "speaker": "Mathias",
       "original": "Ugwah! Uwaaaah!",
-      "translation": "Угва! Уваааа!"
+      "translation": "Угва! Ух!"
     },
     "ebm:ms06/event_message_ms06_070.ebm:13": {
       "source": "pack01_ebm",
@@ -52802,7 +52802,7 @@
       "index": 12,
       "speaker": "Mathias",
       "original": "Gulp... ugh... uwah... what?",
-      "translation": "Глоток... уф... ува... что?"
+      "translation": "Глоток... уф... ух... что?"
     },
     "ebm:ms06/event_message_ms06_080.ebm:13": {
       "source": "pack01_ebm",
@@ -53554,7 +53554,7 @@
       "index": 17,
       "speaker": "Mathias",
       "original": "Uwah, where'd you spring out from? I'll find no victory here! Retreat! Retreat!",
-      "translation": "Ува, откуда ты выскочила?! Здесь мне не победить! Отступление! Отступление!"
+      "translation": "Ух, откуда ты выскочила?! Здесь мне не победить! Отступление! Отступление!"
     },
     "ebm:ms06/event_message_ms06_120.ebm:18": {
       "source": "pack01_ebm",
@@ -54402,7 +54402,7 @@
       "index": 18,
       "speaker": "Lydie",
       "original": "Uwah, we've made him mad! I'm sorry!",
-      "translation": "Ува, мы его разозлили! Прости!"
+      "translation": "Ух, мы его разозлили! Прости!"
     },
     "ebm:ms06/event_message_ms06_180.ebm:19": {
       "source": "pack01_ebm",
@@ -55034,7 +55034,7 @@
       "index": 11,
       "speaker": "Fritz",
       "original": "Uwah! Where did you get so much money?",
-      "translation": "Ува! Откуда у тебя столько денег?"
+      "translation": "Ух! Откуда у тебя столько денег?"
     },
     "ebm:ms06/event_message_ms06_220.ebm:12": {
       "source": "pack01_ebm",
@@ -55282,7 +55282,7 @@
       "index": 2,
       "speaker": "Alt",
       "original": "Uwaaah! Where did you come from?",
-      "translation": "Увааа! Откуда ты взялась?"
+      "translation": "Ух! Откуда ты взялась?"
     },
     "ebm:ms06/event_message_ms06_240.ebm:3": {
       "source": "pack01_ebm",
@@ -55402,7 +55402,7 @@
       "index": 17,
       "speaker": "Alt",
       "original": "Uwah, Pamela! It's been so hard! So difficult on me!",
-      "translation": "Ува, Памела! Было так тяжело! Так трудно!"
+      "translation": "Ух, Памела! Было так тяжело! Так трудно!"
     },
     "ebm:ms06/event_message_ms06_240.ebm:18": {
       "source": "pack01_ebm",
@@ -55634,7 +55634,7 @@
       "index": 6,
       "speaker": "Ilmeria",
       "original": "Uwah! These look delicious! I can't wait to try one!",
-      "translation": "Ува! Выглядят вкусно! Не терпится попробовать!"
+      "translation": "Ух! Выглядят вкусно! Не терпится попробовать!"
     },
     "ebm:ms06/event_message_ms06_260.ebm:7": {
       "source": "pack01_ebm",
@@ -55762,7 +55762,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "Uwah! I'm trembling over here. That's the stuff of nightmares! What about Termina, anyway?",
-      "translation": "Ува! Я вся дрожу. Это кошмар какой-то! А что насчёт Термины?"
+      "translation": "Ух! Я вся дрожу. Это кошмар какой-то! А что насчёт Термины?"
     },
     "ebm:ms06/event_message_ms06_280.ebm:3": {
       "source": "pack01_ebm",
@@ -55946,7 +55946,7 @@
       "index": 11,
       "speaker": "Lydie",
       "original": "Uwah. I remember that. You were screaming your head off!",
-      "translation": "Ува. Помню. Ты орала во всю глотку!"
+      "translation": "Ух. Помню. Ты орала во всю глотку!"
     },
     "ebm:ms06/event_message_ms06_290.ebm:12": {
       "source": "pack01_ebm",
@@ -56138,7 +56138,7 @@
       "index": 14,
       "speaker": "Sue",
       "original": "Uwah, you're joining me in the conversation again?",
-      "translation": "Ува, ты снова включаешься в разговор?"
+      "translation": "Ух, ты снова включаешься в разговор?"
     },
     "ebm:ms06/event_message_ms06_300.ebm:15": {
       "source": "pack01_ebm",
@@ -56306,7 +56306,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Uwah! Thanks so muwaaaaaach!",
-      "translation": "Ува! Большое спасииииибо!"
+      "translation": "Ух! Большое спасииииибо!"
     },
     "ebm:ms06/event_message_ms06_320.ebm:2": {
       "source": "pack01_ebm",
@@ -56346,7 +56346,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "N-No it isn't! Uwah! I can barely lift it!",
-      "translation": "Н-нет! Ува! Я едва его поднимаю!"
+      "translation": "Н-нет! Ух! Я едва его поднимаю!"
     },
     "ebm:ms06/event_message_ms06_320.ebm:7": {
       "source": "pack01_ebm",
@@ -56730,7 +56730,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "Uwah, don't do that! You'll cut yourself!",
-      "translation": "Ува, не надо! Порежетесь!"
+      "translation": "Ух, не надо! Порежетесь!"
     },
     "ebm:ms06/event_message_ms06_360.ebm:7": {
       "source": "pack01_ebm",
@@ -56754,7 +56754,7 @@
       "index": 9,
       "speaker": "Lydie",
       "original": "Uwah, scary! Very well. We'll tell him, just like that.",
-      "translation": "Ува, страшно! Хорошо. Передадим ему именно так."
+      "translation": "Ух, страшно! Хорошо. Передадим ему именно так."
     },
     "ebm:ms06/event_message_ms06_360.ebm:10": {
       "source": "pack01_ebm",
@@ -57034,7 +57034,7 @@
       "index": 10,
       "speaker": "Sue",
       "original": "Uwah, Dad! Fine! I've made up my mind. I'm going to save up lots of money!",
-      "translation": "Ува, папа! Ладно! Я всё решила. Я накоплю кучу денег!"
+      "translation": "Ух, папа! Ладно! Я всё решила. Я накоплю кучу денег!"
     },
     "ebm:qc01/event_message_qc01_010.ebm:11": {
       "source": "pack01_ebm",
@@ -57402,7 +57402,7 @@
       "index": 14,
       "speaker": "Lydie",
       "original": "Uwah, really?",
-      "translation": "Ува, правда?"
+      "translation": "Ух, правда?"
     },
     "ebm:qc01/event_message_qc01_040.ebm:15": {
       "source": "pack01_ebm",
@@ -57482,7 +57482,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "Uwah, we really did it. Spending so much on this!",
-      "translation": "Ува, мы и правда это сделали. Потратить столько..."
+      "translation": "Ух, мы и правда это сделали. Потратить столько..."
     },
     "ebm:qc01/event_message_qc01_050.ebm:4": {
       "source": "pack01_ebm",
@@ -57682,7 +57682,7 @@
       "index": 16,
       "speaker": "Lydie",
       "original": "Uwaaaah! Millions...?",
-      "translation": "Уваааа! Миллионы...?"
+      "translation": "Ух! Миллионы...?"
     },
     "ebm:qc01/event_message_qc01_060.ebm:17": {
       "source": "pack01_ebm",
@@ -57866,7 +57866,7 @@
       "index": 13,
       "speaker": "Sue",
       "original": "Uwah, I know, I know! No luxuries, economy is key, snacks once a day... And then...",
-      "translation": "Ува, знаю, знаю! Никакой роскоши, экономия прежде всего, перекус раз в день... И ещё..."
+      "translation": "Ух, знаю, знаю! Никакой роскоши, экономия прежде всего, перекус раз в день... И ещё..."
     },
     "ebm:qc01/event_message_qc01_070.ebm:14": {
       "source": "pack01_ebm",
@@ -58258,7 +58258,7 @@
       "index": 7,
       "speaker": "Lydie",
       "original": "Uwah, easy for you to say, Neige! I've tried lots of times already, and it's no good...",
-      "translation": "Ува, тебе легко говорить, Неж! Я уже столько раз пробовала — и ничего..."
+      "translation": "Ух, тебе легко говорить, Неж! Я уже столько раз пробовала — и ничего..."
     },
     "ebm:qc01/event_message_qc01_100.ebm:8": {
       "source": "pack01_ebm",
@@ -58706,7 +58706,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Uwah, dummy-daddy! Taking all these jobs on and then not doing them!",
-      "translation": "Ува, глупый папа! Нахватать заказов — и ничего не делать!"
+      "translation": "Ух, глупый папа! Нахватать заказов — и ничего не делать!"
     },
     "ebm:qc01/event_message_qc01_130.ebm:1": {
       "source": "pack01_ebm",
@@ -58794,7 +58794,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "Uwah! That's so cute!",
-      "translation": "Ува! Какая милота!"
+      "translation": "Ух! Какая милота!"
     },
     "ebm:qc01/event_message_qc01_130.ebm:12": {
       "source": "pack01_ebm",
@@ -59074,7 +59074,7 @@
       "index": 15,
       "speaker": "Sue",
       "original": "Uwah, I know you're a genius Firis, but this is still a bitter pill to swallow!",
-      "translation": "Ува, я знаю, что ты гений, Фирис, но это всё равно горькая пилюля!"
+      "translation": "Ух, я знаю, что ты гений, Фирис, но это всё равно горькая пилюля!"
     },
     "ebm:qc02_fir/event_message_qc02_fir_010.ebm:16": {
       "source": "pack01_ebm",
@@ -59138,7 +59138,7 @@
       "index": 5,
       "speaker": "Firis",
       "original": "Uwah, I want to leave at once! I can't wait. But I've got jobs to finish first.",
-      "translation": "Ува, хочу уехать прямо сейчас! Не могу ждать. Но сначала нужно закончить заказы."
+      "translation": "Ух, хочу уехать прямо сейчас! Не могу ждать. Но сначала нужно закончить заказы."
     },
     "ebm:qc02_fir/event_message_qc02_fir_020.ebm:6": {
       "source": "pack01_ebm",
@@ -59514,7 +59514,7 @@
       "index": 16,
       "speaker": "Sue",
       "original": "Uwah, Liane! H-How long have you been here?",
-      "translation": "Ува, Лианэ! Д-как давно ты здесь?"
+      "translation": "Ух, Лианэ! Д-как давно ты здесь?"
     },
     "ebm:qc02_fir/event_message_qc02_fir_040.ebm:17": {
       "source": "pack01_ebm",
@@ -59994,7 +59994,7 @@
       "index": 19,
       "speaker": "Lydie",
       "original": "Uwah, well, there are some things you only find out once you get close to someone, right?",
-      "translation": "Ува, ну... некоторые вещи узнаёшь, только когда сблизишься с кем-то, правда?"
+      "translation": "Ух, ну... некоторые вещи узнаёшь, только когда сблизишься с кем-то, правда?"
     },
     "ebm:qc02_fir/event_message_qc02_fir_090.ebm:20": {
       "source": "pack01_ebm",
@@ -60346,7 +60346,7 @@
       "index": 15,
       "speaker": "Sue",
       "original": "Uwah! I was joking, just a silly joke! Hahaha!",
-      "translation": "Ува! Я шутила, просто глупая шутка! Ха-ха-ха!"
+      "translation": "Ух! Я шутила, просто глупая шутка! Ха-ха-ха!"
     },
     "ebm:qc02_fir/event_message_qc02_fir_110.ebm:16": {
       "source": "pack01_ebm",
@@ -60594,7 +60594,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "Uwah! Lydie is impossibly lucky. There's no way to beat her in games that involve chance.",
-      "translation": "Ува! У Лиди невозможная удача. В играх на удачу её не победить."
+      "translation": "Ух! У Лиди невозможная удача. В играх на удачу её не победить."
     },
     "ebm:qc02_fir/event_message_qc02_fir_130.ebm:12": {
       "source": "pack01_ebm",
@@ -61034,7 +61034,7 @@
       "index": 13,
       "speaker": "Sue",
       "original": "Uwah! I might be about to turn green with envy. Do you think she's using alchemy to control time?",
-      "translation": "Ува! Кажется, я сейчас позеленею от зависти. Думаешь, она алхимией время контролирует?"
+      "translation": "Ух! Кажется, я сейчас позеленею от зависти. Думаешь, она алхимией время контролирует?"
     },
     "ebm:qc02_fir/event_message_qc02_fir_160.ebm:14": {
       "source": "pack01_ebm",
@@ -61074,7 +61074,7 @@
       "index": 1,
       "speaker": "Firis",
       "original": "Uwah, what's up? You're completely hyper today, aren't you?",
-      "translation": "Ува, что случилось? Ты сегодня совсем на взводе, да?"
+      "translation": "Ух, что случилось? Ты сегодня совсем на взводе, да?"
     },
     "ebm:qc02_fir/event_message_qc02_fir_170.ebm:2": {
       "source": "pack01_ebm",
@@ -61274,7 +61274,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "Uwah! They all sound great, I can't choose!",
-      "translation": "Ува! Все звучат здорово, не могу выбрать!"
+      "translation": "Ух! Все звучат здорово, не могу выбрать!"
     },
     "ebm:qc02_fir/event_message_qc02_fir_180.ebm:7": {
       "source": "pack01_ebm",
@@ -61306,7 +61306,7 @@
       "index": 10,
       "speaker": "Sue",
       "original": "Uwah! Not sure where the episodic format came from, but you've lived quite a wild life!",
-      "translation": "Ува! Не знаю, откуда взялся сериальный формат, но жизнь у тебя была бурная!"
+      "translation": "Ух! Не знаю, откуда взялся сериальный формат, но жизнь у тебя была бурная!"
     },
     "ebm:qc02_fir/event_message_qc02_fir_180.ebm:11": {
       "source": "pack01_ebm",
@@ -61562,7 +61562,7 @@
       "index": 5,
       "speaker": "Firis",
       "original": "Uwah, hold on! Hey, don't drag me!",
-      "translation": "Ува, погодите! Эй, не тащите меня!"
+      "translation": "Ух, погодите! Эй, не тащите меня!"
     },
     "ebm:qc02_fir/event_message_qc02_fir_200.ebm:6": {
       "source": "pack01_ebm",
@@ -61770,7 +61770,7 @@
       "index": 4,
       "speaker": "Firis",
       "original": "Stop calling me a fish! Uwah, now I feel all smelly!",
-      "translation": "Хватит называть меня рыбой! Ува, теперь я чувствую себя вонючей!"
+      "translation": "Хватит называть меня рыбой! Ух, теперь я чувствую себя вонючей!"
     },
     "ebm:qc02_fir/event_message_qc02_fir_210.ebm:5": {
       "source": "pack01_ebm",
@@ -62530,7 +62530,7 @@
       "index": 5,
       "speaker": "Lydie",
       "original": "Uwah, sorry!",
-      "translation": "Ува, простите!"
+      "translation": "Ух, простите!"
     },
     "ebm:qc03_sop/event_message_qc03_sop_020.ebm:6": {
       "source": "pack01_ebm",
@@ -62698,7 +62698,7 @@
       "index": 5,
       "speaker": "Sue",
       "original": "Uwah, you walked into this one, Lydie! There's a penalty if we don't deliver, too!",
-      "translation": "Ува, ты сама в это вляпалась, Лиди! И ещё штраф, если не сдадим!"
+      "translation": "Ух, ты сама в это вляпалась, Лиди! И ещё штраф, если не сдадим!"
     },
     "ebm:qc03_sop/event_message_qc03_sop_030.ebm:6": {
       "source": "pack01_ebm",
@@ -62922,7 +62922,7 @@
       "index": 8,
       "speaker": "Sophie",
       "original": "No, I'm fine. I took it on, I'll handle... uwah!",
-      "translation": "Нет, я в порядке. Сама взяла — сама справлю... ува!"
+      "translation": "Нет, я в порядке. Сама взяла — сама справлю... ух!"
     },
     "ebm:qc03_sop/event_message_qc03_sop_040.ebm:9": {
       "source": "pack01_ebm",
@@ -62994,7 +62994,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Uwah, you're studying, Sophie? I just never feel like reading.",
-      "translation": "Ува, ты учишься, Софи? Мне просто никогда не хочется читать."
+      "translation": "Ух, ты учишься, Софи? Мне просто никогда не хочется читать."
     },
     "ebm:qc03_sop/event_message_qc03_sop_050.ebm:2": {
       "source": "pack01_ebm",
@@ -63058,7 +63058,7 @@
       "index": 9,
       "speaker": "Lydie",
       "original": "Uwah, that's a hardline approach! I wish Sue would take a leaf out of your book!",
-      "translation": "Ува, жёсткий подход! Хоть бы Сью взяла с тебя пример!"
+      "translation": "Ух, жёсткий подход! Хоть бы Сью взяла с тебя пример!"
     },
     "ebm:qc03_sop/event_message_qc03_sop_050.ebm:10": {
       "source": "pack01_ebm",
@@ -63066,7 +63066,7 @@
       "index": 10,
       "speaker": "Sue",
       "original": "Uwah, even Sophie still has to study? All I ever read is comics!",
-      "translation": "Ува, даже Софи всё ещё учится? Я читаю только комиксы!"
+      "translation": "Ух, даже Софи всё ещё учится? Я читаю только комиксы!"
     },
     "ebm:qc03_sop/event_message_qc03_sop_050.ebm:11": {
       "source": "pack01_ebm",
@@ -63314,7 +63314,7 @@
       "index": 21,
       "speaker": "Sophie",
       "original": "Uwah, sorry, Sue. What have I got you wrapped up in?",
-      "translation": "Ува, прости, Сью. Во что я тебя втянула?"
+      "translation": "Ух, прости, Сью. Во что я тебя втянула?"
     },
     "ebm:qc03_sop/event_message_qc03_sop_060.ebm:22": {
       "source": "pack01_ebm",
@@ -63378,7 +63378,7 @@
       "index": 0,
       "speaker": "Sue",
       "original": "Uwah, nothing happened? We aren't cursed?",
-      "translation": "Ува, ничего не случилось? Мы не прокляты?"
+      "translation": "Ух, ничего не случилось? Мы не прокляты?"
     },
     "ebm:qc03_sop/event_message_qc03_sop_090.ebm:1": {
       "source": "pack01_ebm",
@@ -63474,7 +63474,7 @@
       "index": 12,
       "speaker": "Sue",
       "original": "Uwah, don't even joke about it! Let's get out of here!",
-      "translation": "Ува, даже не шути! Уходим!"
+      "translation": "Ух, даже не шути! Уходим!"
     },
     "ebm:qc03_sop/event_message_qc03_sop_090.ebm:13": {
       "source": "pack01_ebm",
@@ -63570,7 +63570,7 @@
       "index": 4,
       "speaker": "Lydie",
       "original": "Uwah, Sue, keep your mischief mode in check. We don't want to cause any trouble.",
-      "translation": "Ува, Сью, придержи шалости. Не хочется устраивать неприятностей."
+      "translation": "Ух, Сью, придержи шалости. Не хочется устраивать неприятностей."
     },
     "ebm:qc03_sop/event_message_qc03_sop_100.ebm:5": {
       "source": "pack01_ebm",
@@ -63650,7 +63650,7 @@
       "index": 14,
       "speaker": "Sue",
       "original": "Supernatural phenomena? Plachta is a ghost? Uwaaah, I can't take this!",
-      "translation": "Сверхъестественное явление? Плахта — призрак? Уаааа, не могу!"
+      "translation": "Сверхъестественное явление? Плахта — призрак? Ух, не могу!"
     },
     "ebm:qc03_sop/event_message_qc03_sop_100.ebm:15": {
       "source": "pack01_ebm",
@@ -64186,7 +64186,7 @@
       "index": 0,
       "speaker": "Sophie",
       "original": "Uwah!",
-      "translation": "Ува!"
+      "translation": "Ух!"
     },
     "ebm:qc03_sop/event_message_qc03_sop_140.ebm:1": {
       "source": "pack01_ebm",
@@ -64210,7 +64210,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "What is it? \"Exploring Kirchen Bell\". Uwah, wall of text! Lydie, you take over.",
-      "translation": "Что там? «Исследуя Кирхенбелл». Ува, стена текста! Лиди, бери на себя."
+      "translation": "Что там? «Исследуя Кирхенбелл». Ух, стена текста! Лиди, бери на себя."
     },
     "ebm:qc03_sop/event_message_qc03_sop_140.ebm:4": {
       "source": "pack01_ebm",
@@ -64338,7 +64338,7 @@
       "index": 19,
       "speaker": "Lydie",
       "original": "Uwah, that's great! We'll need to get something ready, to celebrate!",
-      "translation": "Ува, здорово! Нужно что-то приготовить к празднованию!"
+      "translation": "Ух, здорово! Нужно что-то приготовить к празднованию!"
     },
     "ebm:qc03_sop/event_message_qc03_sop_140.ebm:20": {
       "source": "pack01_ebm",
@@ -64586,7 +64586,7 @@
       "index": 3,
       "speaker": "Lydie",
       "original": "Uwah, now we've got a problem!",
-      "translation": "Ува, теперь проблема!"
+      "translation": "Ух, теперь проблема!"
     },
     "ebm:qc03_sop/event_message_qc03_sop_160.ebm:4": {
       "source": "pack01_ebm",
@@ -64770,7 +64770,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Uwah, there's a monster there. I don't want to have to fight it. Let's just sneak by.",
-      "translation": "Ува, там монстр. Не хочется с ним драться. Давайте тихо проскользнём."
+      "translation": "Ух, там монстр. Не хочется с ним драться. Давайте тихо проскользнём."
     },
     "ebm:qc03_sop/event_message_qc03_sop_220.ebm:1": {
       "source": "pack01_ebm",
@@ -65322,7 +65322,7 @@
       "index": 29,
       "speaker": "Sophie",
       "original": "Uwaaah! Thank goodness! Finally!",
-      "translation": "Увааа! Слава богу! Наконец!"
+      "translation": "Ух! Слава богу! Наконец!"
     },
     "ebm:qc03_sop/event_message_qc03_sop_280.ebm:30": {
       "source": "pack01_ebm",
@@ -65594,7 +65594,7 @@
       "index": 0,
       "speaker": "Sophie",
       "original": "Uwah, what delicious looking soil potatoes! This will do the trick!",
-      "translation": "Ува, какой аппетитный земляной картофель! Этого хватит!"
+      "translation": "Ух, какой аппетитный земляной картофель! Этого хватит!"
     },
     "ebm:qc03_sop/event_message_qc03_sop_300.ebm:1": {
       "source": "pack01_ebm",
@@ -65626,7 +65626,7 @@
       "index": 4,
       "speaker": "Sophie",
       "original": "Uwah! You're not the first to say it. Ahem!",
-      "translation": "Ува! Вы не первые это говорите. Кхм!"
+      "translation": "Ух! Вы не первые это говорите. Кхм!"
     },
     "ebm:qc03_sop/event_message_qc03_sop_300.ebm:5": {
       "source": "pack01_ebm",
@@ -65754,7 +65754,7 @@
       "index": 21,
       "speaker": "Lydie",
       "original": "Uwah, you're turning blue! Here, drink some water.",
-      "translation": "Ува, ты синеешь! Вот, попей воды."
+      "translation": "Ух, ты синеешь! Вот, попей воды."
     },
     "ebm:qc03_sop/event_message_qc03_sop_300.ebm:22": {
       "source": "pack01_ebm",
@@ -65762,7 +65762,7 @@
       "index": 22,
       "speaker": "Plachta",
       "original": "Uwah, thanks. I thought I was done for, and just after becoming human again!",
-      "translation": "Ува, спасибо. Думала, мне конец — и сразу после того, как снова стала человеком!"
+      "translation": "Ух, спасибо. Думала, мне конец — и сразу после того, как снова стала человеком!"
     },
     "ebm:qc03_sop/event_message_qc03_sop_300.ebm:23": {
       "source": "pack01_ebm",
@@ -66610,7 +66610,7 @@
       "index": 19,
       "speaker": "Lydie",
       "original": "Uwah. We should have done these things one at a time to begin with.",
-      "translation": "Ува. Надо было с самого начала делать по одному делу..."
+      "translation": "Ух. Надо было с самого начала делать по одному делу..."
     },
     "ebm:qc04_mat/event_message_qc04_mat_020.ebm:20": {
       "source": "pack01_ebm",
@@ -66666,7 +66666,7 @@
       "index": 4,
       "speaker": "Lydie",
       "original": "Uwah, it's spicy! Mathias, this is too hot for me.",
-      "translation": "Ува, остро! Матиас, для меня слишком жгуче."
+      "translation": "Ух, остро! Матиас, для меня слишком жгуче."
     },
     "ebm:qc04_mat/event_message_qc04_mat_030.ebm:5": {
       "source": "pack01_ebm",
@@ -66706,7 +66706,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Uwah, this is bad! She's not making any sense at all now!",
-      "translation": "Ува, плохо дело! Она уже совсем несёт чушь!"
+      "translation": "Ух, плохо дело! Она уже совсем несёт чушь!"
     },
     "ebm:qc04_mat/event_message_qc04_mat_030.ebm:10": {
       "source": "pack01_ebm",
@@ -66762,7 +66762,7 @@
       "index": 16,
       "speaker": "Mathias",
       "original": "Uwah. She's a real pain when she's drunk.",
-      "translation": "Ува. Когда она пьяна — сущий кошмар."
+      "translation": "Ух. Когда она пьяна — сущий кошмар."
     },
     "ebm:qc04_mat/event_message_qc04_mat_030.ebm:17": {
       "source": "pack01_ebm",
@@ -67162,7 +67162,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "Uwah, what's going on out there? Is that Mireille and Mathias?",
-      "translation": "Ува, что там происходит? Это Мирей и Матиас?"
+      "translation": "Ух, что там происходит? Это Мирей и Матиас?"
     },
     "ebm:qc04_mat/event_message_qc04_mat_060.ebm:5": {
       "source": "pack01_ebm",
@@ -67466,7 +67466,7 @@
       "index": 0,
       "speaker": "Mathias",
       "original": "Haah, haah, uwah. My lungs are burning!",
-      "translation": "Ха-а, ха-а, ува. Лёгкие горят!"
+      "translation": "Ха-а, ха-а, ух. Лёгкие горят!"
     },
     "ebm:qc04_mat/event_message_qc04_mat_100.ebm:1": {
       "source": "pack01_ebm",
@@ -67538,7 +67538,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Uwah!",
-      "translation": "Ува!"
+      "translation": "Ух!"
     },
     "ebm:qc04_mat/event_message_qc04_mat_100.ebm:10": {
       "source": "pack01_ebm",
@@ -67562,7 +67562,7 @@
       "index": 12,
       "speaker": "Lydie",
       "original": "Uwah! It's tough being a knight, huh. I could never do it.",
-      "translation": "Ува! Тяжко быть рыцарем... Я бы никогда не смогла."
+      "translation": "Ух! Тяжко быть рыцарем... Я бы никогда не смогла."
     },
     "ebm:qc04_mat/event_message_qc04_mat_100.ebm:13": {
       "source": "pack01_ebm",
@@ -67802,7 +67802,7 @@
       "index": 1,
       "speaker": "Mathias",
       "original": "Uwah! That's going too far! Sis!",
-      "translation": "Ува! Это уже слишком! Сестрёнка!"
+      "translation": "Ух! Это уже слишком! Сестрёнка!"
     },
     "ebm:qc04_mat/event_message_qc04_mat_120.ebm:2": {
       "source": "pack01_ebm",
@@ -67970,7 +67970,7 @@
       "index": 22,
       "speaker": "Mathias",
       "original": "Uwah, she's a real tyrant!",
-      "translation": "Ува, она настоящий тиран!"
+      "translation": "Ух, она настоящий тиран!"
     },
     "ebm:qc04_mat/event_message_qc04_mat_120.ebm:23": {
       "source": "pack01_ebm",
@@ -68146,7 +68146,7 @@
       "index": 8,
       "speaker": "Sue",
       "original": "Uwah, something has shown up! This is the guardian of the trial?",
-      "translation": "Ува, что-то появилось! Это и есть страж испытания?"
+      "translation": "Ух, что-то появилось! Это и есть страж испытания?"
     },
     "ebm:qc04_mat/event_message_qc04_mat_140.ebm:9": {
       "source": "pack01_ebm",
@@ -69362,7 +69362,7 @@
       "index": 33,
       "speaker": "Lydie",
       "original": "Uwah! That really suits you, both of you!",
-      "translation": "Ува! Вам обоим очень идёт!"
+      "translation": "Ух! Вам обоим очень идёт!"
     },
     "ebm:qc04_mat/event_message_qc04_mat_230.ebm:34": {
       "source": "pack01_ebm",
@@ -69594,7 +69594,7 @@
       "index": 14,
       "speaker": "Mathias",
       "original": "Uwah! You dare speak to your monarch like that? Off with her head!",
-      "translation": "Ува! Ты смеешь так говорить со своим монархом? Отрубить ей голову!"
+      "translation": "Ух! Ты смеешь так говорить со своим монархом? Отрубить ей голову!"
     },
     "ebm:qc04_mat/event_message_qc04_mat_240.ebm:15": {
       "source": "pack01_ebm",
@@ -69914,7 +69914,7 @@
       "index": 18,
       "speaker": "Sue",
       "original": "Uwah! Alt is so cool. Fighting for justice!",
-      "translation": "Ува! Альт такой крутой. Борется за справедливость!"
+      "translation": "Ух! Альт такой крутой. Борется за справедливость!"
     },
     "ebm:qc05_alt/event_message_qc05_alt_020.ebm:19": {
       "source": "pack01_ebm",
@@ -69962,7 +69962,7 @@
       "index": 5,
       "speaker": "Lydie",
       "original": "Uwah, he talked! Are you alright?!",
-      "translation": "Ува, он заговорил! Ты в порядке?!"
+      "translation": "Ух, он заговорил! Ты в порядке?!"
     },
     "ebm:qc05_alt/event_message_qc05_alt_030.ebm:6": {
       "source": "pack01_ebm",
@@ -70522,7 +70522,7 @@
       "index": 26,
       "speaker": "Alt",
       "original": "Uwah, this is absurd! What did I do to deserve this?",
-      "translation": "Ува, это абсурд! Чем я это заслужил?"
+      "translation": "Ух, это абсурд! Чем я это заслужил?"
     },
     "ebm:qc05_alt/event_message_qc05_alt_060.ebm:0": {
       "source": "pack01_ebm",
@@ -70538,7 +70538,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Uwah! That's pretty old! The first item we ever made!",
-      "translation": "Ува! Это же старьё! Первая вещь, которую мы сделали!"
+      "translation": "Ух! Это же старьё! Первая вещь, которую мы сделали!"
     },
     "ebm:qc05_alt/event_message_qc05_alt_060.ebm:2": {
       "source": "pack01_ebm",
@@ -70882,7 +70882,7 @@
       "index": 13,
       "speaker": "Sue",
       "original": "Uwah. You're right, Alt. Thank you for the warning.",
-      "translation": "Ува. Ты прав, Альт. Спасибо за предупреждение."
+      "translation": "Ух. Ты прав, Альт. Спасибо за предупреждение."
     },
     "ebm:qc05_alt/event_message_qc05_alt_070.ebm:14": {
       "source": "pack01_ebm",
@@ -71354,7 +71354,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Uwah, Alt... You've got a terrible scowl on your face!",
-      "translation": "Ува, Альт... У тебя жуткая хмурость на лице!"
+      "translation": "Ух, Альт... У тебя жуткая хмурость на лице!"
     },
     "ebm:qc05_alt/event_message_qc05_alt_100.ebm:2": {
       "source": "pack01_ebm",
@@ -71362,7 +71362,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "Uwah, you're right! If the wind changes you'll be left like that.",
-      "translation": "Ува, и правда! Если ветер переменится — так и останешься!"
+      "translation": "Ух, и правда! Если ветер переменится — так и останешься!"
     },
     "ebm:qc05_alt/event_message_qc05_alt_100.ebm:3": {
       "source": "pack01_ebm",
@@ -72058,7 +72058,7 @@
       "index": 18,
       "speaker": "Sue",
       "original": "Uwah, this isn't helping me understand all this at all...",
-      "translation": "Ува, от этого я совсем ничего не понимаю..."
+      "translation": "Ух, от этого я совсем ничего не понимаю..."
     },
     "ebm:qc05_alt/event_message_qc05_alt_140.ebm:19": {
       "source": "pack01_ebm",
@@ -72298,7 +72298,7 @@
       "index": 49,
       "speaker": "Sue",
       "original": "Uwah, this isn't helping me understand all this at all...",
-      "translation": "Ува, от этого я совсем ничего не понимаю..."
+      "translation": "Ух, от этого я совсем ничего не понимаю..."
     },
     "ebm:qc05_alt/event_message_qc05_alt_140.ebm:50": {
       "source": "pack01_ebm",
@@ -73122,7 +73122,7 @@
       "index": 6,
       "speaker": "Alt",
       "original": "Uwah! Hold on, hold on! Calm down! Save me, girls!",
-      "translation": "Ува! Погодите, погодите! Успокойтесь! Девочки, спасите!"
+      "translation": "Ух! Погодите, погодите! Успокойтесь! Девочки, спасите!"
     },
     "ebm:qc05_alt/event_message_qc05_alt_220.ebm:7": {
       "source": "pack01_ebm",
@@ -73178,7 +73178,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Uwah. Alt, are you angry?",
-      "translation": "Ува. Альт, ты злишься?"
+      "translation": "Ух. Альт, ты злишься?"
     },
     "ebm:qc05_alt/event_message_qc05_alt_230.ebm:2": {
       "source": "pack01_ebm",
@@ -73490,7 +73490,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "Hahaha, thank you! Uwah, it's heavy!",
-      "translation": "Ха-ха-ха, спасибо! Ува, тяжёлый!"
+      "translation": "Ха-ха-ха, спасибо! Ух, тяжёлый!"
     },
     "ebm:qc05_alt/event_message_qc05_alt_240.ebm:4": {
       "source": "pack01_ebm",
@@ -78866,7 +78866,7 @@
       "index": 34,
       "speaker": "Lydie",
       "original": "Uwaaaah! Our atelier is being destroyed!",
-      "translation": "Уваааа! Наше ателье разрушают!"
+      "translation": "Ух! Наше ателье разрушают!"
     },
     "ebm:qc07_rog/event_message_qc07_rog_090.ebm:35": {
       "source": "pack01_ebm",
@@ -79466,7 +79466,7 @@
       "index": 21,
       "speaker": "Roger",
       "original": "Uwaah!",
-      "translation": "Уваа!"
+      "translation": "Ух!"
     },
     "ebm:qc07_rog/event_message_qc07_rog_110.ebm:22": {
       "source": "pack01_ebm",
@@ -89314,7 +89314,7 @@
       "index": 12,
       "speaker": "Lydie",
       "original": "Uwaaah! We'll be quick, we promise, just don't eat us!",
-      "translation": "Увааа! Будем быстрыми, обещаем, только не ешь нас!"
+      "translation": "Ух! Будем быстрыми, обещаем, только не ешь нас!"
     },
     "ebm:qc12_pla/event_message_qc12_pla_090.ebm:13": {
       "source": "pack01_ebm",
@@ -97722,7 +97722,7 @@
       "index": 14,
       "speaker": "Sue",
       "original": "Uwah, that just makes me want to know more! Tell us, Liane!",
-      "translation": "Уваа, от этого только сильнее хочется узнать! Расскажи, Лианэ!"
+      "translation": "Ух, от этого только сильнее хочется узнать! Расскажи, Лианэ!"
     },
     "ebm:qc15_lia/event_message_qc15_lia_090.ebm:15": {
       "source": "pack01_ebm",
@@ -99722,7 +99722,7 @@
       "index": 20,
       "speaker": "Sue",
       "original": "Uwah, that was a surprise. They sweep in here, and then sweep out again! Crazy!",
-      "translation": "Уваа, вот это сюрприз. Ворвались — и тут же вынеслись! Сумасшедшие!"
+      "translation": "Ух, вот это сюрприз. Ворвались — и тут же вынеслись! Сумасшедшие!"
     },
     "ebm:qc16_fri/event_message_qc16_fri_090.ebm:21": {
       "source": "pack01_ebm",
@@ -99834,7 +99834,7 @@
       "index": 7,
       "speaker": "Lydie",
       "original": "Uwaaaah! P-P-P-Pamela!",
-      "translation": "Уваааа! П-п-п-Памела!"
+      "translation": "Ух! П-п-п-Памела!"
     },
     "ebm:qc16_fri/event_message_qc16_fri_100.ebm:8": {
       "source": "pack01_ebm",
@@ -100490,7 +100490,7 @@
       "index": 17,
       "speaker": "Sue",
       "original": "What, you're going to do more shopping? Uwah! I'm jealous. I want to be able to spend too!",
-      "translation": "Что, ты собираешься ещё покупать? Уваа! Завидую. Я тоже хочу так тратить!"
+      "translation": "Что, ты собираешься ещё покупать? Ух! Завидую. Я тоже хочу так тратить!"
     },
     "ebm:qc17_dro/event_message_qc17_dro_020.ebm:18": {
       "source": "pack01_ebm",
@@ -146389,7 +146389,7 @@
       "file": "str_fm_tweet.xml",
       "string_no": "131242",
       "original": "Uwah! No! I just hope lightning doesn’t strike my umbrella!",
-      "translation": "Ува! Нет! Я просто надеюсь, что молния не ударит в мой зонтик!"
+      "translation": "Ух! Нет! Я просто надеюсь, что молния не ударит в мой зонтик!"
     },
     "pack02:131243": {
       "source": "pack02_text_en",
@@ -147033,7 +147033,7 @@
       "file": "str_fm_tweet.xml",
       "string_no": "131338",
       "original": "Uwah, this is poison! My life was in danger...",
-      "translation": "Увау, это яд! Моя жизнь была в опасности..."
+      "translation": "Ух, это яд! Моя жизнь была в опасности..."
     },
     "pack02:131339": {
       "source": "pack02_text_en",
@@ -185778,7 +185778,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473933",
       "original": "“Uwaah! It’s a parure! A parure is a set of various accessories! Ehehe! It’s the pride of every girl in Merveille!”^00“I think I’d prefer something a bit more simple.”",
-      "translation": "«Уааах! Парюр! Парюр — это набор разных аксессуаров! Хе-хе! Гордость каждой девочки в Мервейле!»^00«Мне бы что-нибудь попроще.»"
+      "translation": "«Ух! Парюр! Парюр — это набор разных аксессуаров! Хе-хе! Гордость каждой девочки в Мервейле!»^00«Мне бы что-нибудь попроще.»"
     },
     "pack02:3473934": {
       "source": "pack02_text_en",
@@ -186058,7 +186058,7 @@
       "file": "str_library_item.xml",
       "string_no": "3473989",
       "original": "“Hey! Stay away from me!”^00“What is this strange source of power?! Uwaaaah! Well? Are we good actresses or what?”^00“Yes, very impressive!”",
-      "translation": "«Эй! Держись от меня подальше!»^00«Что это за странный источник силы?! Уваааах! Ну что, мы хорошие актрисы или нет?»^00«Да, очень впечатляюще!»"
+      "translation": "«Эй! Держись от меня подальше!»^00«Что это за странный источник силы?! Ух! Ну что, мы хорошие актрисы или нет?»^00«Да, очень впечатляюще!»"
     },
     "pack02:3473990": {
       "source": "pack02_text_en",
@@ -186156,7 +186156,7 @@
       "file": "str_library_item.xml",
       "string_no": "3474003",
       "original": "“This is a recipe for the biggest, baddest, and evilest bomb in the history of alchemy! Make sure you handle it with extreme caution!”^00“Hey! You said the evilest! You just said it was the evilest recipe in history!”^00“Uwaah! Forget it! Not touching it!”",
-      "translation": "«Это рецепт самой большой, страшной и злой бомбы в истории алхимии! Обращайтесь с ней с крайней осторожностью!»^00«Эй! Ты сказала злой! Ты прямо сказала, что это самый злой рецепт в истории!»^00«Увааах! Забудь! Я к ней не притронусь!»"
+      "translation": "«Это рецепт самой большой, страшной и злой бомбы в истории алхимии! Обращайтесь с ней с крайней осторожностью!»^00«Эй! Ты сказала злой! Ты прямо сказала, что это самый злой рецепт в истории!»^00«Ух! Забудь! Я к ней не притронусь!»"
     },
     "pack02:3474004": {
       "source": "pack02_text_en",
@@ -186905,7 +186905,7 @@
       "file": "str_library_map.xml",
       "string_no": "3735587",
       "original": "“Look, Teacher! It’s a beautiful night sky!”^00“Uwah! It’s so beautiful and romantic!”^00“Ouch! Some stardust just fell on my head! I hate this place!”^00“Hah... You really aren’t much for romance...”",
-      "translation": "«Смотрите, учитель! Какое красивое ночное небо!»^00«Уваа! Так красиво и романтично!»^00«Ай! Мне на голову упала звёздная пыль! Ненавижу это место!»^00«Ха... Ты совсем не романтик...»"
+      "translation": "«Смотрите, учитель! Какое красивое ночное небо!»^00«Ух! Так красиво и романтично!»^00«Ай! Мне на голову упала звёздная пыль! Ненавижу это место!»^00«Ха... Ты совсем не романтик...»"
     },
     "pack02:3735588": {
       "source": "pack02_text_en",
@@ -187605,7 +187605,7 @@
       "file": "str_library_monster.xml",
       "string_no": "3670085",
       "original": "“Oh, look! A cauldron, here of all places. Just what I was looking for... Okay, now I just need to mix this and this... Uwah! The synthesis failed... Huh?”^00“Lydie... Thanks for getting rid of that monster for us.”",
-      "translation": "«О, смотри! Котёл, и тут, из всех мест. Как раз то, что мне нужно... Ладно, теперь смешаю это и это... Уваа! Синтез провалился... А?»^00«Лидия... Спасибо, что избавила нас от того монстра.»"
+      "translation": "«О, смотри! Котёл, и тут, из всех мест. Как раз то, что мне нужно... Ладно, теперь смешаю это и это... Ух! Синтез провалился... А?»^00«Лидия... Спасибо, что избавила нас от того монстра.»"
     },
     "pack02:3670086": {
       "source": "pack02_text_en",
@@ -187682,7 +187682,7 @@
       "file": "str_library_monster.xml",
       "string_no": "3670096",
       "original": "“Uwah! Look how cute it is! It’s... Ahaha! S-Stop licking me! Lydie, help...”^00“I could sit and watch this all day... Hehehe...”^00“Hey, don’t just stand there! Help me!”",
-      "translation": "«Уваа! Какая она милая! Она... А-ха-ха! П-перестань меня облизывать! Лидия, помоги...»^00«Я могла бы смотреть на это целый день... Хе-хе-хе...»^00«Эй, не стой тут как вкопанная! Помоги мне!»"
+      "translation": "«Ух! Какая она милая! Она... А-ха-ха! П-перестань меня облизывать! Лидия, помоги...»^00«Я могла бы смотреть на это целый день... Хе-хе-хе...»^00«Эй, не стой тут как вкопанная! Помоги мне!»"
     },
     "pack02:3670097": {
       "source": "pack02_text_en",
