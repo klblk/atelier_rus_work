@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T11:30:56.983919+00:00",
+  "generated_at": "2026-11-01T12:01:02.929685+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -1522,7 +1522,7 @@
       "index": 15,
       "speaker": "Roger",
       "original": "Uwaaaaaaaaaaaaaaaah!",
-      "translation": "Ух!"
+      "translation": "Ааааааа!"
     },
     "ebm:mm01/event_message_mm01_240.ebm:16": {
       "source": "pack01_ebm",
@@ -4626,7 +4626,7 @@
       "index": 1,
       "speaker": "Mireille",
       "original": "Well done. Most impressive, in fact! I can't fault this at all!",
-      "translation": "Отличная работа. На самом деле, очень впечатляюще! К этому нет никаких претензий!"
+      "translation": "Отличная работа. На самом деле, весьма впечатляюще! Придраться вообще не к чему!"
     },
     "ebm:mm02/event_message_mm02_235.ebm:2": {
       "source": "pack01_ebm",
@@ -4650,7 +4650,7 @@
       "index": 4,
       "speaker": "Mireille",
       "original": "Sorry, this is no good. I can't let you pass based on this.",
-      "translation": "Извините, это неприемлемо. Я не могу вам зачесть это."
+      "translation": "Извините, это никуда не годится. Я не могу пропустить вас с таким результатом."
     },
     "ebm:mm02/event_message_mm02_240.ebm:0": {
       "source": "pack01_ebm",
@@ -6722,7 +6722,7 @@
       "index": 3,
       "speaker": "Mireille",
       "original": "That's barely a pass. You just scraped over the line. You'll need to try harder next time!",
-      "translation": "Это едва ли проходной балл. Вы просто перешли черту. В следующий раз вам придется постараться больше!"
+      "translation": "Это едва проходной балл. Вы еле-еле преодолели планку. В следующий раз вам придется стараться больше!"
     },
     "ebm:mm03/event_message_mm03_175.ebm:4": {
       "source": "pack01_ebm",
@@ -10146,7 +10146,7 @@
       "index": 0,
       "speaker": "Mathias",
       "original": "Phew, we've dealt with quite a lot of them. That should keep them quiet for a while.",
-      "translation": "Уф, мы разделались с изрядным числом. Это должно утихомирить их на какое-то время."
+      "translation": "Уф, нам пришлось иметь дело с довольно большим количеством монстров. Это должно утихомирить их на какое-то время."
     },
     "ebm:mm04/event_message_mm04_130.ebm:1": {
       "source": "pack01_ebm",
@@ -10154,7 +10154,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "I hope so, but there are still some monsters here. I think we should defeat a few more?",
-      "translation": "Я надеюсь на это, но здесь все ещё есть монстры. Думаю, нам стоит победить ещё нескольких?"
+      "translation": "Я надеюсь на это, но здесь всё ещё есть монстры. Думаю, нам стоит победить ещё нескольких?"
     },
     "ebm:mm04/event_message_mm04_130.ebm:2": {
       "source": "pack01_ebm",
@@ -10162,7 +10162,7 @@
       "index": 2,
       "speaker": "Nearby Resident",
       "original": "Hey! If it isn't Lydie and Sue! What are you doing out here?",
-      "translation": "Привет! Если это не Лиди и Сью! Что вы здесь делаете?"
+      "translation": "Привет! Это же Лиди и Сью! Что вы здесь делаете?"
     },
     "ebm:mm04/event_message_mm04_130.ebm:3": {
       "source": "pack01_ebm",
@@ -10202,7 +10202,7 @@
       "index": 7,
       "speaker": "Nearby Resident",
       "original": "Careful, good quality work, so they say, with no job too big or too small.",
-      "translation": "Как говорится — тщательная, качественная работа, ни одна работа не слишком большая и не слишком маленькая."
+      "translation": "Делают всё на совесть и качественно, так люди говорят. И за любую работу берётесь, хоть большую, хоть малую"
     },
     "ebm:mm04/event_message_mm04_130.ebm:8": {
       "source": "pack01_ebm",
@@ -10210,7 +10210,7 @@
       "index": 8,
       "speaker": "Nearby Resident",
       "original": "Here you are, defeating monsters! Thank you, both of you!",
-      "translation": "Вот и вы, побеждаете монстров! Спасибо вам обеим!"
+      "translation": "Вот теперь вы, побеждаете монстров! Спасибо вам обеим!"
     },
     "ebm:mm04/event_message_mm04_130.ebm:9": {
       "source": "pack01_ebm",
@@ -10218,7 +10218,7 @@
       "index": 9,
       "speaker": "Nearby Resident",
       "original": "I'm going to spread the word about town! The twins with an atelier, protecting us all from monsters!",
-      "translation": "Я расскажу об этом по всему городу! Близнецы с ателье, защищающие нас всех от монстров!"
+      "translation": "Я расскажу об этом по всему городу! Близняшки из ателье, защищающие нас всех от монстров!"
     },
     "ebm:mm04/event_message_mm04_130.ebm:10": {
       "source": "pack01_ebm",
@@ -10266,7 +10266,7 @@
       "index": 15,
       "speaker": "Sue",
       "original": "E-Enough with the laughing already! We're done! Finished with this topic!",
-      "translation": "Э-хватит уже смеяться! Мы закончили! Закончили с этой темой!"
+      "translation": "Хватит уже смеяться! Мы закончили! Закончили с этой темой!"
     },
     "ebm:mm04/event_message_mm04_130.ebm:16": {
       "source": "pack01_ebm",
@@ -10298,7 +10298,7 @@
       "index": 1,
       "speaker": "Mireille",
       "original": "Well done. Most impressive, in fact! I can't fault this at all!",
-      "translation": "Отличная работа. На самом деле, впечатляет! Я вообще не могу к этому придраться!"
+      "translation": "Отличная работа. На самом деле, весьма впечатляюще! Придраться вообще не к чему!"
     },
     "ebm:mm04/event_message_mm04_135.ebm:2": {
       "source": "pack01_ebm",
@@ -10314,7 +10314,7 @@
       "index": 3,
       "speaker": "Mireille",
       "original": "That's barely a pass. You just scraped over the line. You'll need to try harder next time!",
-      "translation": "Это едва ли проходной балл. Вы просто перешли черту. В следующий раз вам придётся постараться больше!"
+      "translation": "Это едва проходной балл. Вы еле-еле преодолели планку. В следующий раз вам придется стараться больше!"
     },
     "ebm:mm04/event_message_mm04_135.ebm:4": {
       "source": "pack01_ebm",
@@ -10322,7 +10322,7 @@
       "index": 4,
       "speaker": "Mireille",
       "original": "Sorry, this is no good. I can't let you pass based on this.",
-      "translation": "Простите, это никуда не годится. Я не могу пропустить вас с таким результатом."
+      "translation": "Извините, это никуда не годится. Я не могу пропустить вас с таким результатом."
     },
     "ebm:mm04/event_message_mm04_140.ebm:0": {
       "source": "pack01_ebm",
@@ -13306,7 +13306,7 @@
       "index": 3,
       "speaker": "Mireille",
       "original": "That's barely a pass. You just scraped over the line. You'll need to try harder next time!",
-      "translation": "Это едва ли проходной балл. Вы просто перешли черту. В следующий раз вам придется постараться больше!"
+      "translation": "Это едва проходной балл. Вы еле-еле преодолели планку. В следующий раз вам придется стараться больше!"
     },
     "ebm:mm05/event_message_mm05_095.ebm:4": {
       "source": "pack01_ebm",
@@ -16626,7 +16626,7 @@
       "index": 1,
       "speaker": "Mireille",
       "original": "Well done. Most impressive, in fact! I can't fault this at all!",
-      "translation": "Отличная работа. На самом деле, самое впечатляющее! Я вообще не могу к этому придраться!"
+      "translation": "Отличная работа. На самом деле, весьма впечатляюще! Придраться вообще не к чему!"
     },
     "ebm:mm06/event_message_mm06_125.ebm:2": {
       "source": "pack01_ebm",
@@ -16642,7 +16642,7 @@
       "index": 3,
       "speaker": "Mireille",
       "original": "That's barely a pass. You just scraped over the line. You'll need to try harder next time!",
-      "translation": "Это едва ли проходной балл. Вы просто перешли черту. В следующий раз вам придется постараться больше!"
+      "translation": "Это едва проходной балл. Вы еле-еле преодолели планку. В следующий раз вам придется стараться больше!"
     },
     "ebm:mm06/event_message_mm06_125.ebm:4": {
       "source": "pack01_ebm",
@@ -24930,7 +24930,7 @@
       "index": 1,
       "speaker": "Mireille",
       "original": "Well done. Most impressive, in fact! I can't fault this at all!",
-      "translation": "Отлично. На самом деле — впечатляет! Придраться не к чему!"
+      "translation": "Отличная работа. На самом деле, весьма впечатляюще! Придраться вообще не к чему!"
     },
     "ebm:mm08/event_message_mm08_085.ebm:2": {
       "source": "pack01_ebm",
@@ -24938,7 +24938,7 @@
       "index": 2,
       "speaker": "Mireille",
       "original": "Yes, that's pretty good. You pass!",
-      "translation": "Да, довольно хорошо. Вы сдаёте!"
+      "translation": "Да, это очень хорошо. Вы проходите!"
     },
     "ebm:mm08/event_message_mm08_085.ebm:3": {
       "source": "pack01_ebm",
@@ -24946,7 +24946,7 @@
       "index": 3,
       "speaker": "Mireille",
       "original": "That's barely a pass. You just scraped over the line. You'll need to try harder next time!",
-      "translation": "Это едва проходной балл. Вы еле-еле перешли черту. В следующий раз нужно стараться больше!"
+      "translation": "Это едва проходной балл. Вы еле-еле преодолели планку. В следующий раз вам придется стараться больше!"
     },
     "ebm:mm08/event_message_mm08_085.ebm:4": {
       "source": "pack01_ebm",
@@ -24954,7 +24954,7 @@
       "index": 4,
       "speaker": "Mireille",
       "original": "Sorry, this is no good. I can't let you pass based on this.",
-      "translation": "Простите, это никуда не годится. С таким результатом я не могу вас пропустить."
+      "translation": "Извините, это никуда не годится. Я не могу пропустить вас с таким результатом."
     },
     "ebm:mm08/event_message_mm08_090.ebm:0": {
       "source": "pack01_ebm",
@@ -27938,7 +27938,7 @@
       "index": 1,
       "speaker": "Mireille",
       "original": "Well done. Most impressive, in fact! I can't fault this at all!",
-      "translation": "Отличная работа. Впечатляет, честно! Придраться вообще не к чему!"
+      "translation": "Отличная работа. На самом деле, весьма впечатляюще! Придраться вообще не к чему!"
     },
     "ebm:mm09/event_message_mm09_095.ebm:2": {
       "source": "pack01_ebm",
@@ -27946,7 +27946,7 @@
       "index": 2,
       "speaker": "Mireille",
       "original": "Yes, that's pretty good. You pass!",
-      "translation": "Да, довольно хорошо. Вы сдаёте!"
+      "translation": "Да, это очень хорошо. Вы проходите!"
     },
     "ebm:mm09/event_message_mm09_095.ebm:3": {
       "source": "pack01_ebm",
@@ -27954,7 +27954,7 @@
       "index": 3,
       "speaker": "Mireille",
       "original": "That's barely a pass. You just scraped over the line. You'll need to try harder next time!",
-      "translation": "Это едва проходной балл. Чуть-чуть перешагнули черту. В следующий раз постарайтесь лучше!"
+      "translation": "Это едва проходной балл. Вы еле-еле преодолели планку. В следующий раз вам придется стараться больше!"
     },
     "ebm:mm09/event_message_mm09_095.ebm:4": {
       "source": "pack01_ebm",
@@ -27962,7 +27962,7 @@
       "index": 4,
       "speaker": "Mireille",
       "original": "Sorry, this is no good. I can't let you pass based on this.",
-      "translation": "Простите, это никуда не годится. С таким результатом я вас не пропущу."
+      "translation": "Извините, это никуда не годится. Я не могу пропустить вас с таким результатом."
     },
     "ebm:mm09/event_message_mm09_100.ebm:0": {
       "source": "pack01_ebm",
@@ -40746,7 +40746,7 @@
       "index": 1,
       "speaker": "Mireille",
       "original": "Well done. Most impressive, in fact! I can't fault this at all!",
-      "translation": "Отлично. Даже впечатляюще! Придраться не к чему!"
+      "translation": "Отличная работа. На самом деле, весьма впечатляюще! Придраться вообще не к чему!"
     },
     "ebm:mm12/event_message_mm12_275.ebm:2": {
       "source": "pack01_ebm",
@@ -40754,7 +40754,7 @@
       "index": 2,
       "speaker": "Mireille",
       "original": "Yes, that's pretty good. You pass!",
-      "translation": "Да, довольно хорошо. Вы проходите!"
+      "translation": "Да, это очень хорошо. Вы проходите!"
     },
     "ebm:mm12/event_message_mm12_275.ebm:3": {
       "source": "pack01_ebm",
@@ -40762,7 +40762,7 @@
       "index": 3,
       "speaker": "Mireille",
       "original": "That's barely a pass. You just scraped over the line. You'll need to try harder next time!",
-      "translation": "Едва проходной. Чуть-чуть перевалили. В следующий раз нужно стараться больше!"
+      "translation": "Это едва проходной балл. Вы еле-еле преодолели планку. В следующий раз вам придется стараться больше!"
     },
     "ebm:mm12/event_message_mm12_275.ebm:4": {
       "source": "pack01_ebm",
@@ -40770,7 +40770,7 @@
       "index": 4,
       "speaker": "Mireille",
       "original": "Sorry, this is no good. I can't pass you based on this.",
-      "translation": "Простите, это никуда не годится. С таким я вас не пропущу."
+      "translation": "Извините, это никуда не годится. Я не могу пропустить вас с таким результатом."
     },
     "ebm:mm12/event_message_mm12_280.ebm:0": {
       "source": "pack01_ebm",
@@ -89314,7 +89314,7 @@
       "index": 12,
       "speaker": "Lydie",
       "original": "Uwaaah! We'll be quick, we promise, just don't eat us!",
-      "translation": "Ух! Будем быстрыми, обещаем, только не ешь нас!"
+      "translation": "Ааааа! Будем быстрыми, обещаем, только не ешь нас!"
     },
     "ebm:qc12_pla/event_message_qc12_pla_090.ebm:13": {
       "source": "pack01_ebm",
