@@ -45,6 +45,9 @@ def build_readme(files_dir: Path, status_doc: dict[str, Any]) -> str:
     total_strings = sum(n for _, n, _, _ in rows)
     mt_done = sum(1 for _, _, mt, _ in rows if mt)
     manual_done = sum(1 for _, _, _, m in rows if m)
+    ebm_total = sum(n for rel, n, _, _ in rows if rel.startswith("ebm/"))
+    ebm_manual = sum(n for rel, n, _, m in rows if rel.startswith("ebm/") and m)
+    ebm_pct = (100.0 * ebm_manual / ebm_total) if ebm_total else 0.0
 
     lines = [
         "# Debug string shards",
@@ -60,7 +63,8 @@ def build_readme(files_dir: Path, status_doc: dict[str, Any]) -> str:
         "```",
         "",
         f"**Summary:** {total_files} files, {total_strings} strings;",
-        f"MT done: {mt_done}/{total_files}; manual edits: {manual_done}/{total_files}.",
+        f"MT done: {mt_done}/{total_files}; manual edits: {manual_done}/{total_files};",
+        f"ebm manual strings: {ebm_manual}/{ebm_total} ({ebm_pct:.1f}%).",
         "",
         "Statuses are stored in [`translation_status.json`](translation_status.json)",
         "(`default` applies to files without an explicit entry).",

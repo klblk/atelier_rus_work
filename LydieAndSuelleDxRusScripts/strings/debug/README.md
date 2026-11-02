@@ -11,7 +11,8 @@ python3 strings/update_debug_readme.py
 ```
 
 **Summary:** 178 files, 29965 strings;
-MT done: 178/178; manual edits: 23/178.
+MT done: 178/178; manual edits: 23/178;
+ebm manual strings: 5676/14044 (40.4%).
 
 Statuses are stored in [`translation_status.json`](translation_status.json)
 (`default` applies to files without an explicit entry).
