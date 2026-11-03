@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T16:28:04.209123+00:00",
+  "generated_at": "2026-11-03T06:15:35.284005+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -9090,7 +9090,7 @@
       "index": 3,
       "speaker": "Lucia",
       "original": "No, that's not what I'm here for. I'm here today to declare war! War on you both!",
-      "translation": "Нет, я здесь не за этим. Я здесь сегодня, чтобы объявить войну! Война вам обоим!"
+      "translation": "Нет, я здесь не за этим. Я здесь сегодня, чтобы объявить войну! Война вам обеим!"
     },
     "ebm:mm04/event_message_mm04_030.ebm:4": {
       "source": "pack01_ebm",
@@ -56250,7 +56250,7 @@
       "index": 8,
       "speaker": "Sue",
       "original": "Hehehe, I'll draw him in my diary tomorrow as well, then!",
-      "translation": "Хе-хе-хе, тогда завтра тоже нарисую его в своём дневнике!"
+      "translation": "Хе-хе-хе, тогда завтра тоже нарисую его в своей записи!"
     },
     "ebm:ms06/event_message_ms06_310.ebm:9": {
       "source": "pack01_ebm",
@@ -56266,7 +56266,7 @@
       "index": 10,
       "speaker": "Lydie",
       "original": "We started swapping these daily diaries to help you with your writing.",
-      "translation": "Мы и начали меняться этими ежедневными дневниками, чтобы помочь тебе с письмом."
+      "translation": "Мы и начали меняться этими ежедневными записями, чтобы помочь тебе с письмом."
     },
     "ebm:ms06/event_message_ms06_310.ebm:11": {
       "source": "pack01_ebm",
@@ -96082,7 +96082,7 @@
       "index": 1,
       "speaker": "Liane",
       "original": "That's right! She's my darling baby sister! Sweet enough to eat!",
-      "translation": "Верно! Она моя милая младшая сестрёнка! Такую бы съела от умиления!"
+      "translation": "Верно! Она моя милая младшая сестрёнка! Так бы съела от умиления!"
     },
     "ebm:qc15_lia/event_message_qc15_lia_010.ebm:2": {
       "source": "pack01_ebm",
@@ -96130,7 +96130,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "Lydie... I'm sorry for bringing all this up! Run for it!",
-      "translation": "Лиди... Прости, что я это завела! Бежим!"
+      "translation": "Лиди... Прости, что я это затеяла! Бежим!"
     },
     "ebm:qc15_lia/event_message_qc15_lia_010.ebm:8": {
       "source": "pack01_ebm",
@@ -96306,7 +96306,7 @@
       "index": 18,
       "speaker": "Liane",
       "original": "...ngh!",
-      "translation": "...нгх!"
+      "translation": "...ух!"
     },
     "ebm:qc15_lia/event_message_qc15_lia_020.ebm:19": {
       "source": "pack01_ebm",
@@ -96458,7 +96458,7 @@
       "index": 10,
       "speaker": "Liane",
       "original": "Hehe, that's very kind of you to say. I need to make my shop even more famous now.",
-      "translation": "Хе-хе, очень мило с твоей стороны. Теперь нужно сделать магазин ещё знаменитее."
+      "translation": "Хе-хе, очень мило с вашей стороны. Теперь нужно сделать магазин ещё знаменитее."
     },
     "ebm:qc15_lia/event_message_qc15_lia_030.ebm:11": {
       "source": "pack01_ebm",
@@ -96746,7 +96746,7 @@
       "index": 4,
       "speaker": "Liane",
       "original": "What do you think? A sun! Alchemists make small suns to melt snow, right?",
-      "translation": "Ну как же? Солнышко! Алхимики делают маленькие солнышки, чтобы таять снег, верно?"
+      "translation": "Ну как же? Солнышко! Алхимики делают маленькие солнышки, чтобы растопить снег, верно?"
     },
     "ebm:qc15_lia/event_message_qc15_lia_050.ebm:5": {
       "source": "pack01_ebm",
@@ -96866,7 +96866,7 @@
       "index": 4,
       "speaker": "Liane",
       "original": "Ah, I know where that is. I put it on the table over there.",
-      "translation": "А, я знаю, где она. Положила на стол вон там."
+      "translation": "А, я знаю, где она. Вон там на столе."
     },
     "ebm:qc15_lia/event_message_qc15_lia_060.ebm:5": {
       "source": "pack01_ebm",
@@ -96914,7 +96914,7 @@
       "index": 10,
       "speaker": "Firis",
       "original": "Blegh! I don't need the peppers!",
-      "translation": "Бле! Мне перец не нужен!"
+      "translation": "Бе! Мне перец не нужен!"
     },
     "ebm:qc15_lia/event_message_qc15_lia_060.ebm:11": {
       "source": "pack01_ebm",
@@ -97002,7 +97002,7 @@
       "index": 21,
       "speaker": "Lydie",
       "original": "You're wonderful, truly! Every home should have one!",
-      "translation": "Ты чудо, правда! Такой бы в каждый дом!"
+      "translation": "Ты чудо, правда! Такую бы в каждый дом!"
     },
     "ebm:qc15_lia/event_message_qc15_lia_060.ebm:22": {
       "source": "pack01_ebm",
@@ -97106,7 +97106,7 @@
       "index": 34,
       "speaker": "Liane",
       "original": "Ah, I know where that is. I put it on the table over there.",
-      "translation": "А, я знаю, где она. Положила на стол вон там."
+      "translation": "А, я знаю, где она. Вон там на столе."
     },
     "ebm:qc15_lia/event_message_qc15_lia_060.ebm:35": {
       "source": "pack01_ebm",
@@ -97154,7 +97154,7 @@
       "index": 40,
       "speaker": "Firis",
       "original": "Blegh! I don't need the peppers!",
-      "translation": "Бле! Мне перец не нужен!"
+      "translation": "Бе! Мне перец не нужен!"
     },
     "ebm:qc15_lia/event_message_qc15_lia_060.ebm:41": {
       "source": "pack01_ebm",
@@ -97242,7 +97242,7 @@
       "index": 51,
       "speaker": "Lydie",
       "original": "You're wonderful, truly! Every home should have one!",
-      "translation": "Ты чудо, правда! Такой бы в каждый дом!"
+      "translation": "Ты чудо, правда! Такую бы в каждый дом!"
     },
     "ebm:qc15_lia/event_message_qc15_lia_060.ebm:52": {
       "source": "pack01_ebm",
@@ -97354,7 +97354,7 @@
       "index": 5,
       "speaker": "Liane",
       "original": "No, I was just thinking. I guess I don't have to worry about that with Firis any more...",
-      "translation": "Да нет, просто подумала. Наверное, за Фирис мне больше не о чём беспокоиться..."
+      "translation": "Да нет, просто подумала. Наверное, за Фирис мне больше не за чем беспокоиться..."
     },
     "ebm:qc15_lia/event_message_qc15_lia_070.ebm:6": {
       "source": "pack01_ebm",
@@ -97362,7 +97362,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "That? Any more? What do you mean?",
-      "translation": "«Об этом»? «Больше»? Что ты имеешь в виду?"
+      "translation": "«Не за чем»? «Больше»? Что ты имеешь в виду?"
     },
     "ebm:qc15_lia/event_message_qc15_lia_070.ebm:7": {
       "source": "pack01_ebm",
@@ -97394,7 +97394,7 @@
       "index": 10,
       "speaker": "Sue",
       "original": "I see. Hehe, nothing to worry about, Liane!",
-      "translation": "Понятно. Хе-хе, не о чём беспокоиться, Лианэ!"
+      "translation": "Понятно. Хе-хе, не о чем беспокоиться, Лианэ!"
     },
     "ebm:qc15_lia/event_message_qc15_lia_070.ebm:11": {
       "source": "pack01_ebm",
@@ -97570,7 +97570,7 @@
       "index": 14,
       "speaker": "Sue",
       "original": "What? You want us to choose your gifts? Are you sure?",
-      "translation": "Что? Хочешь, чтобы мы выбрали тебе подарки? Ты уверена?"
+      "translation": "Что? Хочешь, чтобы мы выбрали за тебя подарки? Ты уверена?"
     },
     "ebm:qc15_lia/event_message_qc15_lia_080.ebm:15": {
       "source": "pack01_ebm",
@@ -97946,7 +97946,7 @@
       "index": 21,
       "speaker": "Lydie",
       "original": "Thank you very much. Wow, it's a little... nope, strike that, very heavy!",
-      "translation": "Большое спасибо. Ух, она немного... нет, зачеркни, очень тяжёлая!"
+      "translation": "Большое спасибо. Ого, он немного... нет, лучше не надо, очень тяжелый!"
     },
     "ebm:qc15_lia/event_message_qc15_lia_100.ebm:22": {
       "source": "pack01_ebm",
@@ -211524,7 +211524,7 @@
       "file": "str_saveload_define.xml",
       "string_no": "4456469",
       "original": "Chapter 4 &quot;Rivals&quot;",
-      "translation": "Глава 4 «Соперники»"
+      "translation": "Глава 4 «Соперницы»"
     },
     "pack02:4456470": {
       "source": "pack02_text_en",
