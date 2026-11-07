@@ -11,8 +11,8 @@ python3 strings/update_debug_readme.py
 ```
 
 **Summary:** 178 files, 29965 strings;
-MT done: 178/178; manual edits: 27/178;
-ebm manual strings: 7337/14044 (52.2%).
+MT done: 178/178; manual edits: 28/178;
+ebm manual strings: 7444/14044 (53.0%).
 
 Statuses are stored in [`translation_status.json`](translation_status.json)
 (`default` applies to files without an explicit entry).
@@ -54,7 +54,7 @@ Statuses are stored in [`translation_status.json`](translation_status.json)
 | `ebm/qc14_cor.json` | 331 | ✓ | ✓ |
 | `ebm/qc15_lia.json` | 240 | ✓ | ✓ |
 | `ebm/qc16_fri.json` | 274 | ✓ | ✓ |
-| `ebm/qc17_dro.json` | 107 | ✓ | — |
+| `ebm/qc17_dro.json` | 107 | ✓ | ✓ |
 | `ebm/qc18_pam.json` | 212 | ✓ | ✓ |
 | `ebm/xf01.json` | 3 | ✓ | — |
 | `ebm/xf02.json` | 18 | ✓ | — |
