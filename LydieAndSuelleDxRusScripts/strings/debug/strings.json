@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T12:29:28.762604+00:00",
+  "generated_at": "2026-11-07T14:18:38.073945+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -104082,7 +104082,7 @@
       "index": 1,
       "speaker": "Ilmeria",
       "original": "Oh, you've come at just the right time. I was just about to head to your atelier.",
-      "translation": "О, ты пришла как раз вовремя. Я как раз собиралась зайти к вам в ателье."
+      "translation": "О, вы пришли как раз вовремя. Я как раз собиралась зайти к вам в ателье."
     },
     "ebm:xx05/event_message_xx05_010.ebm:2": {
       "source": "pack01_ebm",
@@ -104130,7 +104130,7 @@
       "index": 7,
       "speaker": "Lydie",
       "original": "U-Uh, nothing, nothing... But Ilmeria, if you didn't want to give us a new task, then why...?",
-      "translation": "Н-ничего, ничего... Но, Ильмерия, если ты не хотела давать нам новое задание, то почему...?"
+      "translation": "Н-ничего, ничего... Но, Ильмерия, если ты не хотела давать нам новое задание, то зачем...?"
     },
     "ebm:xx05/event_message_xx05_010.ebm:8": {
       "source": "pack01_ebm",
@@ -104154,7 +104154,7 @@
       "index": 10,
       "speaker": "Ilmeria",
       "original": "Precisely. Things have calmed down a little, so I thought I'd teach you the fundamentals of gathering up close.",
-      "translation": "Именно. Ситуация немного успокоилась, поэтому я решила научить вас основам сбора материалов вблизи."
+      "translation": "Именно. Ситуация немного успокоилась, поэтому я решила научить вас основам сбора материалов поблизости."
     },
     "ebm:xx05/event_message_xx05_010.ebm:11": {
       "source": "pack01_ebm",
@@ -104162,7 +104162,7 @@
       "index": 11,
       "speaker": "Ilmeria",
       "original": "Hehehe, be well aware that this won't be easy. Make a mistake, and you'll pay for it...",
-      "translation": "Хе-хе-хе, имейте в виду: это будет непросто. Ошибитесь — и поплатитесь..."
+      "translation": "Хе-хе-хе, имейте в виду: это будет непросто. Ошибётесь — и поплатитесь..."
     },
     "ebm:xx05/event_message_xx05_010.ebm:12": {
       "source": "pack01_ebm",
@@ -104194,7 +104194,7 @@
       "index": 15,
       "speaker": "Lydie",
       "original": "Sue! Sue! We finally get to go on an adventure with our teacher!",
-      "translation": "Сью! Сью! Наконец-то мы отправимся в приключение с нашим учителем!"
+      "translation": "Сью! Сью! Наконец-то мы отправимся в приключение с нашей наставницей!"
     },
     "ebm:xx05/event_message_xx05_010.ebm:16": {
       "source": "pack01_ebm",
@@ -104250,7 +104250,7 @@
       "index": 22,
       "speaker": "Ilmeria",
       "original": "...Hehe, then leave it to me! After all, I am your teacher.",
-      "translation": "...Хе-хе, тогда положитесь на меня! Всё-таки я ваш учитель."
+      "translation": "...Хе-хе, тогда положитесь на меня! Всё-таки я ваша наставница."
     },
     "ebm:xx05/event_message_xx05_010.ebm:23": {
       "source": "pack01_ebm",
@@ -104274,7 +104274,7 @@
       "index": 0,
       "speaker": "Sue",
       "original": "Hmph...",
-      "translation": "Хмф..."
+      "translation": "Хм..."
     },
     "ebm:xx05/event_message_xx05_020.ebm:1": {
       "source": "pack01_ebm",
@@ -104330,7 +104330,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "If you had helped us, our investigations of the paintings would have been so much easier! Hmph!",
-      "translation": "Если бы вы нам помогли, наши исследования картин были бы куда проще! Хмф!"
+      "translation": "Если бы ты нам помогла, наши исследования картин были бы куда проще! Хм!"
     },
     "ebm:xx05/event_message_xx05_020.ebm:8": {
       "source": "pack01_ebm",
@@ -104354,7 +104354,7 @@
       "index": 10,
       "speaker": "Ilmeria",
       "original": "Precisely! If you have your teacher by your side all the time, and rely on them, it would hamper your development.",
-      "translation": "Именно! Если учитель всё время рядом и вы всё время на него полагаетесь, это мешает вашему развитию."
+      "translation": "Именно! Если наставница всё время рядом и вы всё время на неё полагаетесь, это мешает вашему развитию."
     },
     "ebm:xx05/event_message_xx05_020.ebm:11": {
       "source": "pack01_ebm",
@@ -104370,7 +104370,7 @@
       "index": 12,
       "speaker": "Sue",
       "original": "Teacher... That's all nice, but you should tell us the truth...",
-      "translation": "Учитель... Это всё хорошо, но скажите нам правду..."
+      "translation": "Наставница... Это всё хорошо, но скажите нам правду..."
     },
     "ebm:xx05/event_message_xx05_020.ebm:13": {
       "source": "pack01_ebm",
@@ -104386,7 +104386,7 @@
       "index": 14,
       "speaker": "Sue",
       "original": "I knew it! You see - you put your work before your students! That's why I'm so upset! Hmph!",
-      "translation": "Я так и знала! Видите — вы ставите работу выше учеников! Вот почему я так расстроена! Хмф!"
+      "translation": "Я так и знала! Видите — вы ставите работу выше учеников! Вот почему я так расстроена! Хм!"
     },
     "ebm:xx05/event_message_xx05_020.ebm:15": {
       "source": "pack01_ebm",
@@ -104410,7 +104410,7 @@
       "index": 17,
       "speaker": "Lydie",
       "original": "...Hehe. Come on, Sue. Let's cut our teacher some slack, okay?",
-      "translation": "...Хе-хе. Давай, Сью. Давай немного пощадим нашего учителя, ладно?"
+      "translation": "...Хе-хе. Давай, Сью. Давай немного пощадим нашу наставницу, ладно?"
     },
     "ebm:xx05/event_message_xx05_020.ebm:18": {
       "source": "pack01_ebm",
@@ -104426,7 +104426,7 @@
       "index": 19,
       "speaker": "Sue",
       "original": "...I wasn't really that angry to begin with. But you have to make us a promise, as our teacher!",
-      "translation": "...Поначалу я и не была так уж зла. Но вы должны дать нам обещание как наш учитель!"
+      "translation": "...Поначалу я и не была так уж зла. Но ты должна дать нам обещание как наша наставница!"
     },
     "ebm:xx05/event_message_xx05_020.ebm:20": {
       "source": "pack01_ebm",
@@ -104434,7 +104434,7 @@
       "index": 20,
       "speaker": "Sue",
       "original": "From now on, we come first, not your other work! Okay?",
-      "translation": "Отныне на первом месте мы, а не ваша другая работа! Хорошо?"
+      "translation": "Отныне на первом месте мы, а не твоя другая работа! Хорошо?"
     },
     "ebm:xx05/event_message_xx05_020.ebm:21": {
       "source": "pack01_ebm",
@@ -104466,7 +104466,7 @@
       "index": 24,
       "speaker": "Sue",
       "original": "...Oh, and one more thing. You have to bring some sweets! And something to drink would be nice, too...",
-      "translation": "...О, и ещё кое-что. Надо принести сладостей! Да и попить было бы неплохо..."
+      "translation": "...О, и ещё кое-что. Надо принести сладостей! Да и попить чаю было бы неплохо..."
     },
     "ebm:xx05/event_message_xx05_020.ebm:25": {
       "source": "pack01_ebm",
@@ -104482,7 +104482,7 @@
       "index": 26,
       "speaker": "Sue",
       "original": "Hmph, I knew you were cheap! Can't you even do that much for us?",
-      "translation": "Хмф, я так и знала, что вы жадина! Неужели даже этого для нас не можете?"
+      "translation": "Хм, я так и знала, что ты жадина! Неужели даже этого для нас не можешь?"
     },
     "ebm:xx05/event_message_xx05_020.ebm:27": {
       "source": "pack01_ebm",
@@ -104490,7 +104490,7 @@
       "index": 27,
       "speaker": "Ilmeria",
       "original": "No! I'm the teacher, you're my students! If anyone should be bringing treats along, it should be you...",
-      "translation": "Нет! Я учитель, вы мои ученики! Если кто и должен приносить угощения, так это вы..."
+      "translation": "Нет! Я наставница, вы мои ученики! Если кто и должен приносить угощения, так это вы..."
     },
     "ebm:xx05/event_message_xx05_020.ebm:28": {
       "source": "pack01_ebm",
@@ -104514,7 +104514,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Oh, Ilmeria? What are you doing here in the gallery?",
-      "translation": "О, Ильмерия? Что вы делаете здесь, в галерее?"
+      "translation": "О, Ильмерия? Что ты делаешь здесь, в галерее?"
     },
     "ebm:xx05/event_message_xx05_030.ebm:2": {
       "source": "pack01_ebm",
@@ -104538,7 +104538,7 @@
       "index": 4,
       "speaker": "Lydie",
       "original": "Oh, that's our teacher! Always passionate about learning!",
-      "translation": "О, вот наш учитель! Всегда горит желанием учиться!"
+      "translation": "О, вот наша наставница! Всегда горит желанием учиться!"
     },
     "ebm:xx05/event_message_xx05_030.ebm:5": {
       "source": "pack01_ebm",
@@ -104562,7 +104562,7 @@
       "index": 7,
       "speaker": "Ilmeria",
       "original": "It's the Paintings. They're all kept here, right? It's tiresome to have to come all the way to the castle to see them...",
-      "translation": "Картины. Они все хранятся здесь, верно? Утомительно ехать до самого замка, чтобы их увидеть..."
+      "translation": "Картины. Они все хранятся здесь, верно? Утомительно идти до самого замка, чтобы их увидеть..."
     },
     "ebm:xx05/event_message_xx05_030.ebm:8": {
       "source": "pack01_ebm",
@@ -104570,7 +104570,7 @@
       "index": 8,
       "speaker": "Lydie",
       "original": "I see... I suppose you do have a point...",
-      "translation": "Понятно... Полагаю, вы правы..."
+      "translation": "Понятно... Полагаю, ты права..."
     },
     "ebm:xx05/event_message_xx05_030.ebm:9": {
       "source": "pack01_ebm",
@@ -104586,7 +104586,7 @@
       "index": 10,
       "speaker": "Sue",
       "original": "Hehehe, dear teacher. Leave everything to me.",
-      "translation": "Хе-хе-хе, дорогой учитель. Оставьте всё мне."
+      "translation": "Хе-хе-хе, дорогая наставница. Оставьте всё мне."
     },
     "ebm:xx05/event_message_xx05_030.ebm:11": {
       "source": "pack01_ebm",
@@ -104642,7 +104642,7 @@
       "index": 17,
       "speaker": "Ilmeria",
       "original": "If I restore it, I should be able to enter the painting world too... I must return and begin at once! Thank you!",
-      "translation": "Если я её восстановлю, то тоже смогу войти в мир картины... Нужно скорее вернуться и начать! Спасибо!"
+      "translation": "Если я её восстановлю, то тоже смогу войти в мир картины... Нужно скорее вернуться и попробовать! Спасибо!"
     },
     "ebm:xx05/event_message_xx05_030.ebm:18": {
       "source": "pack01_ebm",
@@ -104666,7 +104666,7 @@
       "index": 20,
       "speaker": "Sue",
       "original": "Sorry, sorry. But think about it this way. Our teacher thought your painting was good.",
-      "translation": "Прости, прости. Но подумай вот так: наш учитель посчитала, что ты хорошо рисуешь."
+      "translation": "Прости, прости. Но подумай вот так: наша наставница посчитала, что ты хорошо рисуешь."
     },
     "ebm:xx05/event_message_xx05_030.ebm:21": {
       "source": "pack01_ebm",
@@ -104674,7 +104674,7 @@
       "index": 21,
       "speaker": "Lydie",
       "original": "Only as a \"Slightly Mysterious Painting\"! Hmph, of course she'd think my paintings are \"mysterious\"...!",
-      "translation": "Только как «Слегка Таинственную картину»! Хмф, конечно, она подумает, что мои картины «таинственные»...!"
+      "translation": "Только как «Слегка Таинственную картину»! Хм, конечно, она подумает, что мои картины «таинственные»...!"
     },
     "ebm:xx05/event_message_xx05_030.ebm:22": {
       "source": "pack01_ebm",
@@ -104682,7 +104682,7 @@
       "index": 22,
       "speaker": "Sue",
       "original": "What else would you call a painting that can do what this does...? How can you not see that? Haha...",
-      "translation": "А как ещё назвать картину, которая умеет то, что умеет эта...? Как ты можешь этого не видеть? Ха-ха..."
+      "translation": "А как ещё назвать картину, которая умеет то, что умеет она...? Как ты можешь этого не видеть? Ха-ха..."
     },
     "ebm:xx05/event_message_xx05_040.ebm:0": {
       "source": "pack01_ebm",
@@ -104714,7 +104714,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "Excuse us! Oh, it's Firis. Have you come here to get some sweets from our teacher?",
-      "translation": "Простите! О, это Фирис. Вы пришли сюда за сладостями от нашего учителя?"
+      "translation": "Простите! О, это Фирис. Вы пришли сюда за сладостями от нашей наставницы?"
     },
     "ebm:xx05/event_message_xx05_040.ebm:4": {
       "source": "pack01_ebm",
@@ -104746,7 +104746,7 @@
       "index": 7,
       "speaker": "Firis",
       "original": "Don't worry... Ilmeria, I've noticed you haven't used your gun much recently. It looked so cool on you. How come?",
-      "translation": "Не волнуйся... Ильмерия, я заметила, что в последнее время ты мало пользуешься пистолетом. На тебе это выглядело так круто. Почему?"
+      "translation": "Не волнуйся... Ильмерия, я заметила, что в последнее время ты мало пользуешься пистолетом. Ты выглядела так круто. Почему?"
     },
     "ebm:xx05/event_message_xx05_040.ebm:8": {
       "source": "pack01_ebm",
@@ -104754,7 +104754,7 @@
       "index": 8,
       "speaker": "Lydie",
       "original": "A-A gun...?! You used to use a gun?!",
-      "translation": "П-пистолет...?! Вы раньше пользовались пистолетом?!"
+      "translation": "П-пистолет...?! Ты раньше пользовалась пистолетом?!"
     },
     "ebm:xx05/event_message_xx05_040.ebm:9": {
       "source": "pack01_ebm",
@@ -104770,7 +104770,7 @@
       "index": 10,
       "speaker": "Sue",
       "original": "Huh...! Our teacher with a gun...! I'd love to see that...!",
-      "translation": "Ох...! Наш учитель с пистолетом...! Я бы очень хотела это увидеть...!"
+      "translation": "Ох...! Наша наставница с пистолетом...! Я бы очень хотела это увидеть...!"
     },
     "ebm:xx05/event_message_xx05_040.ebm:11": {
       "source": "pack01_ebm",
@@ -104778,7 +104778,7 @@
       "index": 11,
       "speaker": "Lydie",
       "original": "But Firis is right - we've never seen you use one. Is there a reason for that?",
-      "translation": "Но Фирис права: мы никогда не видели, чтобы вы им пользовались. Есть ли для этого причина?"
+      "translation": "Но Фирис права: мы никогда не видели, чтобы ты им пользовалась. Есть ли для этого причина?"
     },
     "ebm:xx05/event_message_xx05_040.ebm:12": {
       "source": "pack01_ebm",
@@ -104818,7 +104818,7 @@
       "index": 16,
       "speaker": "Lydie",
       "original": "Oh, I see... I had no idea you operated under such strict rules...",
-      "translation": "О, понятно... Я и не знала, что вы действуете по таким строгим правилам..."
+      "translation": "О, понятно... Я и не знала, что ты работаешь по таким строгим правилам..."
     },
     "ebm:xx05/event_message_xx05_040.ebm:17": {
       "source": "pack01_ebm",
@@ -104890,7 +104890,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "That thing...? What do you mean? The \"Fully-Automatic Lecture Machine Ilmeria Mark 3\", maybe?",
-      "translation": "О том...? Что вы имеете в виду? Может, «Полностью автоматическая лекционная машина Ильмерия Mark 3»?"
+      "translation": "О том...? Что ты имеешь в виду? Может, «Полностью автоматическая лекционная машина Ильмерия Марк 3»?"
     },
     "ebm:xx05/event_message_xx05_050.ebm:5": {
       "source": "pack01_ebm",
@@ -104914,7 +104914,7 @@
       "index": 7,
       "speaker": "Ilmeria",
       "original": "Wh-What are you two talking about? Why are you wasting your time thinking up things like that?!",
-      "translation": "Ч-о чём вы двое говорите? Зачем тратите время на такие глупости?!"
+      "translation": "О-о чём вы двое говорите? Зачем тратите время на такие глупости?!"
     },
     "ebm:xx05/event_message_xx05_050.ebm:8": {
       "source": "pack01_ebm",
@@ -105074,7 +105074,7 @@
       "index": 27,
       "speaker": "Together",
       "original": "Ohhh...!",
-      "translation": "Охх...!"
+      "translation": "Ох...!"
     },
     "ebm:xx05/event_message_xx05_050.ebm:28": {
       "source": "pack01_ebm",
@@ -105082,7 +105082,7 @@
       "index": 28,
       "speaker": "System",
       "original": "Ohhh...!",
-      "translation": "Охх...!"
+      "translation": "Ох...!"
     },
     "ebm:xx05/event_message_xx05_050.ebm:29": {
       "source": "pack01_ebm",
@@ -105090,7 +105090,7 @@
       "index": 29,
       "speaker": "Firis",
       "original": "Haha! At least you get along so well. I've never seen such camaraderie between a teacher and their students.",
-      "translation": "Ха-ха! По крайней мере, вы так хорошо ладите. Я никогда не видела такого товарищества между учителем и учениками."
+      "translation": "Ха-ха! По крайней мере, вы так хорошо ладите. Я никогда не видела такого товарищества между наставницей и учениками."
     },
     "ebm:xx05/event_message_xx05_060.ebm:0": {
       "source": "pack01_ebm",
@@ -105114,7 +105114,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "I'm sorry... We have lots of work to do, so we can't go far...",
-      "translation": "Простите... У нас много работы, поэтому далеко уйти не получится..."
+      "translation": "Прости... У нас много работы, поэтому далеко уйти не получится..."
     },
     "ebm:xx05/event_message_xx05_060.ebm:3": {
       "source": "pack01_ebm",
@@ -105130,7 +105130,7 @@
       "index": 4,
       "speaker": "Firis",
       "original": "Never has there been a handier tool - use this, and you can go anywhere in a single leap: the \"Travel Gate\"!",
-      "translation": "Удобнее инструмента ещё не было — с ним можно попасть куда угодно одним прыжком: «Тревел-гейт»!"
+      "translation": "Удобнее инструмента ещё не было — с ним можно попасть куда угодно одним прыжком: «Врата путешествий»!"
     },
     "ebm:xx05/event_message_xx05_060.ebm:5": {
       "source": "pack01_ebm",
@@ -105138,7 +105138,7 @@
       "index": 5,
       "speaker": "Lydie",
       "original": "Anywhere in a single leap?! You've come up with something incredible once again...",
-      "translation": "Куда угодно одним прыжком?! Вы снова придумали что-то невероятное..."
+      "translation": "Куда угодно одним прыжком?! Ты снова придумала что-то невероятное..."
     },
     "ebm:xx05/event_message_xx05_060.ebm:6": {
       "source": "pack01_ebm",
@@ -105186,7 +105186,7 @@
       "index": 11,
       "speaker": "Lydie",
       "original": "Haha...! Of course! We'd love to see some of your favorite places...",
-      "translation": "Ха-ха...! Конечно! Нам бы очень хотелось увидеть ваши любимые места..."
+      "translation": "Ха-ха...! Конечно! Нам бы очень хотелось увидеть твои любимые места..."
     },
     "ebm:xx05/event_message_xx05_060.ebm:12": {
       "source": "pack01_ebm",
@@ -105258,7 +105258,7 @@
       "index": 5,
       "speaker": "Firis",
       "original": "I traveled here to Claudel Prairie when I took my certification examination.",
-      "translation": "Я приехала сюда, на Клодельскую равнину, когда сдавала сертификационный экзамен."
+      "translation": "Я приехала сюда, на Клодельскую равнину, когда сдавала экзамен на сертифицированного алхимика."
     },
     "ebm:xx05/event_message_xx05_070.ebm:6": {
       "source": "pack01_ebm",
@@ -105434,7 +105434,7 @@
       "index": 3,
       "speaker": "Ilmeria",
       "original": "H-Hey, I couldn't help that! I was under serious pressure of my own, you know!",
-      "translation": "Э-эй, я ничего не могла с этим поделать! Знаешь ли, у меня самой было серьёзное давление!"
+      "translation": "Э-эй, я ничего не могла с этим поделать! Знаешь ли, на меня саму было серьёзное давление!"
     },
     "ebm:xx05/event_message_xx05_080.ebm:4": {
       "source": "pack01_ebm",
@@ -105594,7 +105594,7 @@
       "index": 1,
       "speaker": "Proud Alchemist",
       "original": "Punipuni!",
-      "translation": "Пунипуни!"
+      "translation": "Пуни-пуни!"
     },
     "ebm:xx05/event_message_xx05_090.ebm:2": {
       "source": "pack01_ebm",
@@ -105626,7 +105626,7 @@
       "index": 5,
       "speaker": "Ilmeria",
       "original": "Waaarghh! Sue?! And Lydie?!",
-      "translation": "Ваааа! Сью?! И Лиди?!"
+      "translation": "Аааа! Сью?! И Лиди?!"
     },
     "ebm:xx05/event_message_xx05_090.ebm:6": {
       "source": "pack01_ebm",
@@ -105650,7 +105650,7 @@
       "index": 8,
       "speaker": "Sue",
       "original": "No, no, not at all. But more importantly, teacher...",
-      "translation": "Нет-нет, совсем нет. Но важнее, учитель..."
+      "translation": "Нет-нет, совсем нет. Но важнее, наставница..."
     },
     "ebm:xx05/event_message_xx05_090.ebm:9": {
       "source": "pack01_ebm",
@@ -105682,7 +105682,7 @@
       "index": 12,
       "speaker": "Lydie",
       "original": "But I always told her she couldn't, because I knew she'd make me look after it.",
-      "translation": "Но я всегда говорила ей «нельзя», потому что знала: ухаживать за ним заставлю меня."
+      "translation": "Но я всегда говорила ей «нельзя», потому что знала: ухаживать за ним заставят меня."
     },
     "ebm:xx05/event_message_xx05_090.ebm:13": {
       "source": "pack01_ebm",
@@ -105786,7 +105786,7 @@
       "index": 25,
       "speaker": "Sue",
       "original": "Hmm, I don't know... I think I'll make do with coming to see Ilmeria's puni...",
-      "translation": "Хм, не знаю... Думаю, обойдусь тем, что буду приходить смотреть на пуни Ильмерии..."
+      "translation": "Хм, не знаю... Думаю, обойдусь тем, что буду приходить и смотреть на пуни Ильмерии..."
     },
     "ebm:xx05/event_message_xx05_090.ebm:26": {
       "source": "pack01_ebm",
@@ -105810,7 +105810,7 @@
       "index": 0,
       "speaker": "Proud Alchemist",
       "original": "Punipuni!",
-      "translation": "Пунипуни!"
+      "translation": "Пуни-пуни!"
     },
     "ebm:xx05/event_message_xx05_100.ebm:1": {
       "source": "pack01_ebm",
@@ -105834,7 +105834,7 @@
       "index": 3,
       "speaker": "Proud Alchemist",
       "original": "Punipuni!!",
-      "translation": "Пунипуни!!"
+      "translation": "Пуни-пуни!!"
     },
     "ebm:xx05/event_message_xx05_100.ebm:4": {
       "source": "pack01_ebm",
@@ -105842,7 +105842,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "My word, did you see that, my dear? Our beloved teacher Ilmeria has a mile wide smile.",
-      "translation": "Честное слово, видела, моя дорогая? У нашей любимой учительницы Ильмерии улыбка от уха до уха."
+      "translation": "Честное слово, видела, Лиди? У нашей любимой наставницы Ильмерии улыбка от уха до уха."
     },
     "ebm:xx05/event_message_xx05_100.ebm:5": {
       "source": "pack01_ebm",
@@ -105866,7 +105866,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "Hehe, sorry. We just wanted to have some tea with our teacher...",
-      "translation": "Хе-хе, извини. Мы просто хотели попить чаю с нашим учителем..."
+      "translation": "Хе-хе, извини. Мы просто хотели попить чаю с нашей наставницей..."
     },
     "ebm:xx05/event_message_xx05_100.ebm:8": {
       "source": "pack01_ebm",
@@ -105890,7 +105890,7 @@
       "index": 10,
       "speaker": "Lydie",
       "original": "We would never! We would never make fun of you! It's completely normal to care for your pets.",
-      "translation": "Мы бы никогда! Мы никогда не будем над вами смеяться! Совсем нормально заботиться о питомцах."
+      "translation": "Мы бы никогда! Мы никогда не будем над тобой смеяться! Совсем нормально заботиться о питомцах."
     },
     "ebm:xx05/event_message_xx05_100.ebm:11": {
       "source": "pack01_ebm",
@@ -105914,7 +105914,7 @@
       "index": 13,
       "speaker": "Lydie",
       "original": "Haha... But Ilmeria... What was it that made you decide to keep a pet in the first place?",
-      "translation": "Ха-ха... Но, Ильмерия... Что вообще заставило вас завести питомца?"
+      "translation": "Ха-ха... Но, Ильмерия... Что вообще заставило тебя завести питомца?"
     },
     "ebm:xx05/event_message_xx05_100.ebm:14": {
       "source": "pack01_ebm",
@@ -105922,7 +105922,7 @@
       "index": 14,
       "speaker": "Sue",
       "original": "Oh, yes. All of a sudden you just seemed to have one. What happened?",
-      "translation": "О да. Внезапно он у вас просто появился. Что случилось?"
+      "translation": "О да. Внезапно он у тебя просто появился. Что случилось?"
     },
     "ebm:xx05/event_message_xx05_100.ebm:15": {
       "source": "pack01_ebm",
@@ -105962,7 +105962,7 @@
       "index": 19,
       "speaker": "Ilmeria",
       "original": "I-Is there something wrong with that?!",
-      "translation": "Р-разве в этом что-то плохое?!"
+      "translation": "Р-разве в этом есть что-то плохое?!"
     },
     "ebm:xx05/event_message_xx05_100.ebm:20": {
       "source": "pack01_ebm",
@@ -105986,7 +105986,7 @@
       "index": 22,
       "speaker": "Lydie",
       "original": "Ilmeria! Please feel free to come and visit us any time you like! We'll have a warm meal waiting for you!",
-      "translation": "Ильмерия! Пожалуйста, приходите к нам в любое время! Мы будем ждать вас с тёплым ужином!"
+      "translation": "Ильмерия! Пожалуйста, приходи к нам в любое время! Мы будем ждать тебя с тёплым ужином!"
     },
     "ebm:xx05/event_message_xx05_100.ebm:23": {
       "source": "pack01_ebm",
@@ -105994,7 +105994,7 @@
       "index": 23,
       "speaker": "Sue",
       "original": "That's right! Come every day... In fact, why not come and live with us?!",
-      "translation": "Верно! Приходите каждый день... Да что там — поселитесь у нас?!"
+      "translation": "Верно! Приходи каждый день... Да что там — поселись у нас?!"
     },
     "ebm:xx05/event_message_xx05_100.ebm:24": {
       "source": "pack01_ebm",
@@ -106002,7 +106002,7 @@
       "index": 24,
       "speaker": "Lydie",
       "original": "Feel free to rely on us whenever you need us! After all, we're your loyal students!",
-      "translation": "Не стесняйтесь полагаться на нас, когда понадобимся! Ведь мы ваши преданные ученицы!"
+      "translation": "Не стесняйся полагаться на нас, когда понадобимся! Ведь мы твои преданные ученицы!"
     },
     "ebm:xx05/event_message_xx05_100.ebm:25": {
       "source": "pack01_ebm",
@@ -106010,7 +106010,7 @@
       "index": 25,
       "speaker": "Sue",
       "original": "Yes! Come here, beloved teacher, and give us a hug!",
-      "translation": "Да! Идите сюда, любимый учитель, и обнимите нас!"
+      "translation": "Да! Иди сюда, любимая наставница, и обними нас!"
     },
     "ebm:xx05/event_message_xx05_100.ebm:26": {
       "source": "pack01_ebm",
@@ -106026,7 +106026,7 @@
       "index": 27,
       "speaker": "Proud Alchemist",
       "original": "Punipuni...",
-      "translation": "Пунипуни..."
+      "translation": "Пуни-пуни..."
     },
     "ebm:xx05/event_message_xx05_110.ebm:0": {
       "source": "pack01_ebm",
@@ -106082,7 +106082,7 @@
       "index": 6,
       "speaker": "Proud Alchemist",
       "original": "Punipuni?",
-      "translation": "Пунипуни?"
+      "translation": "Пуни-пуни?"
     },
     "ebm:xx05/event_message_xx05_110.ebm:7": {
       "source": "pack01_ebm",
@@ -106130,7 +106130,7 @@
       "index": 12,
       "speaker": "Proud Alchemist",
       "original": "Punipuni!",
-      "translation": "Пунипуни!"
+      "translation": "Пуни-пуни!"
     },
     "ebm:xx05/event_message_xx05_110.ebm:13": {
       "source": "pack01_ebm",
@@ -106154,7 +106154,7 @@
       "index": 15,
       "speaker": "Firis",
       "original": "Your name will be... Puniboy!",
-      "translation": "Тебя будут звать... Пунибой!"
+      "translation": "Тебя будут звать... Пуни-мальчик!"
     },
     "ebm:xx05/event_message_xx05_110.ebm:16": {
       "source": "pack01_ebm",
@@ -106162,7 +106162,7 @@
       "index": 16,
       "speaker": "Young Man",
       "original": "Punipuni?!",
-      "translation": "Пунипуни?!"
+      "translation": "Пуни-пуни?!"
     },
     "ebm:xx05/event_message_xx05_110.ebm:17": {
       "source": "pack01_ebm",
@@ -106170,7 +106170,7 @@
       "index": 17,
       "speaker": "Ilmeria",
       "original": "P-Puniboy...?!",
-      "translation": "П-Пунибой...?!"
+      "translation": "П-Пуни-мальчик...?!"
     },
     "ebm:xx05/event_message_xx05_110.ebm:18": {
       "source": "pack01_ebm",
@@ -106178,7 +106178,7 @@
       "index": 18,
       "speaker": "Firis",
       "original": "*Pet, pet*... You're so cute, Puniboy... I hope you grow up to be big and strong...",
-      "translation": "*Гладит-гладит*... Ты такой милый, Пунибой... Надеюсь, вырастешь большим и сильным..."
+      "translation": "*Гладит-гладит*... Ты такой милый, Пуни-мальчик... Надеюсь, вырастешь большим и сильным..."
     },
     "ebm:xx05/event_message_xx05_110.ebm:19": {
       "source": "pack01_ebm",
@@ -106186,7 +106186,7 @@
       "index": 19,
       "speaker": "Young Man",
       "original": "Punipuni...",
-      "translation": "Пунипуни..."
+      "translation": "Пуни-пуни..."
     },
     "ebm:xx05/event_message_xx05_110.ebm:20": {
       "source": "pack01_ebm",
@@ -106194,7 +106194,7 @@
       "index": 20,
       "speaker": "Ilmeria",
       "original": "Puniboy...? Hmm... She really has a... how shall I put it...?",
-      "translation": "Пунибой...? Хм... У неё и правда... как бы это сказать...?"
+      "translation": "Пуни-мальчик...? Хм... У неё и правда... как бы это сказать...?"
     },
     "ebm:xx05/event_message_xx05_110.ebm:21": {
       "source": "pack01_ebm",
@@ -106210,7 +106210,7 @@
       "index": 0,
       "speaker": "Ilmeria",
       "original": "Firis, I'm coming in! How's Puniboy doing...?",
-      "translation": "Фирис, я вхожу! Как поживает Пунибой...?"
+      "translation": "Фирис, я вхожу! Как поживает Пуни-мальчик...?"
     },
     "ebm:xx05/event_message_xx05_120.ebm:1": {
       "source": "pack01_ebm",
@@ -106218,7 +106218,7 @@
       "index": 1,
       "speaker": "Young Man",
       "original": "Punipuni!",
-      "translation": "Пунипуни!"
+      "translation": "Пуни-пуни!"
     },
     "ebm:xx05/event_message_xx05_120.ebm:2": {
       "source": "pack01_ebm",
@@ -106226,7 +106226,7 @@
       "index": 2,
       "speaker": "Ilmeria",
       "original": "H-He's huge! Is that really you, Puniboy?!",
-      "translation": "О-он огромный! Это правда ты, Пунибой?!"
+      "translation": "О-он огромный! Это правда ты, Пуни-мальчик?!"
     },
     "ebm:xx05/event_message_xx05_120.ebm:3": {
       "source": "pack01_ebm",
@@ -106234,7 +106234,7 @@
       "index": 3,
       "speaker": "Firis",
       "original": "Ah, Ilmeria! Hehe, hasn't Puniboy grown big?",
-      "translation": "Ах, Ильмерия! Хе-хе, разве Пунибой не вырос?"
+      "translation": "Ах, Ильмерия! Хе-хе, разве Пуни-мальчик не вырос?"
     },
     "ebm:xx05/event_message_xx05_120.ebm:4": {
       "source": "pack01_ebm",
@@ -106266,7 +106266,7 @@
       "index": 7,
       "speaker": "Firis",
       "original": "Come on, Puniboy, dinner time! Today we have a super-mega-massive helping of hamburger steaks!",
-      "translation": "Давай, Пунибой, ужин! Сегодня супер-мега-огромная порция котлет!"
+      "translation": "Давай, Пуни-мальчик, ужин! Сегодня супер-мега-огромная порция котлет!"
     },
     "ebm:xx05/event_message_xx05_120.ebm:8": {
       "source": "pack01_ebm",
@@ -106274,7 +106274,7 @@
       "index": 8,
       "speaker": "Young Man",
       "original": "Punipuni?",
-      "translation": "Пунипуни?"
+      "translation": "Пуни-пуни?"
     },
     "ebm:xx05/event_message_xx05_120.ebm:9": {
       "source": "pack01_ebm",
@@ -106282,7 +106282,7 @@
       "index": 9,
       "speaker": "Firis",
       "original": "Here you go, Puniboy! Enormous rib-eye steaks for dinner! Hehe, let's eat them together!",
-      "translation": "Вот, Пунибой! Огромные стейки рибай на ужин! Хе-хе, давай съедим их вместе!"
+      "translation": "Вот, Пуни-мальчик! Огромные стейки рибай на ужин! Хе-хе, давай съедим их вместе!"
     },
     "ebm:xx05/event_message_xx05_120.ebm:10": {
       "source": "pack01_ebm",
@@ -106290,7 +106290,7 @@
       "index": 10,
       "speaker": "Young Man",
       "original": "Punipuni...",
-      "translation": "Пунипуни..."
+      "translation": "Пуни-пуни..."
     },
     "ebm:xx05/event_message_xx05_120.ebm:11": {
       "source": "pack01_ebm",
@@ -106298,7 +106298,7 @@
       "index": 11,
       "speaker": "Firis",
       "original": "Puniboy! Roast rabbit for dinner tonight! Extra large helpings! But you can eat this much with no trouble, right?",
-      "translation": "Пунибой! Сегодня на ужин жареный кролик! Очень большие порции! Но ты ведь без труда столько съешь, правда?"
+      "translation": "Пуни-мальчик! Сегодня на ужин жареный кролик! Очень большие порции! Но ты ведь без труда столько съешь, правда?"
     },
     "ebm:xx05/event_message_xx05_120.ebm:12": {
       "source": "pack01_ebm",
@@ -106306,7 +106306,7 @@
       "index": 12,
       "speaker": "Young Man",
       "original": "Punipuni!",
-      "translation": "Пунипуни!"
+      "translation": "Пуни-пуни!"
     },
     "ebm:xx05/event_message_xx05_120.ebm:13": {
       "source": "pack01_ebm",
@@ -106378,7 +106378,7 @@
       "index": 21,
       "speaker": "Firis",
       "original": "Hey, Ilmeria... Hmm...? I wonder what got into her, Puniboy...",
-      "translation": "Эй, Ильмерия... Хм...? Интересно, что на неё нашло, Пунибой..."
+      "translation": "Эй, Ильмерия... Хм...? Интересно, что на неё нашло, Пуни-мальчик..."
     },
     "ebm:xx05/event_message_xx05_120.ebm:22": {
       "source": "pack01_ebm",
@@ -106386,7 +106386,7 @@
       "index": 22,
       "speaker": "Young Man",
       "original": "Punipuni...?",
-      "translation": "Пунипуни...?"
+      "translation": "Пуни-пуни...?"
     },
     "ebm:xx05/event_message_xx05_120.ebm:23": {
       "source": "pack01_ebm",
@@ -106410,7 +106410,7 @@
       "index": 25,
       "speaker": "Firis",
       "original": "Come on, Puniboy! Let's eat until our bellies almost explode!",
-      "translation": "Давай, Пунибой! Будем есть, пока животы почти не лопнут!"
+      "translation": "Давай, Пуни-мальчик! Будем есть, пока животы не лопнут!"
     },
     "ebm:xx05/event_message_xx05_120.ebm:26": {
       "source": "pack01_ebm",
@@ -106418,7 +106418,7 @@
       "index": 26,
       "speaker": "Young Man",
       "original": "Punipuni!",
-      "translation": "Пунипуни!"
+      "translation": "Пуни-пуни!"
     },
     "ebm:xx05/event_message_xx05_130.ebm:0": {
       "source": "pack01_ebm",
@@ -106434,7 +106434,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "Wahh, Ilmeria! Wh-What's the matter?! Why are you apologizing?! What happened?!",
-      "translation": "Ах, Ильмерия! Ч-что случилось?! Почему вы извиняетесь?! Что произошло?!"
+      "translation": "Ах, Ильмерия! Ч-что случилось?! Почему ты извиняешься?! Что произошло?!"
     },
     "ebm:xx05/event_message_xx05_130.ebm:2": {
       "source": "pack01_ebm",
@@ -106466,7 +106466,7 @@
       "index": 5,
       "speaker": "Lydie",
       "original": "Huh...? Self-introductions...? You mean, like you're always doing... Ahem.",
-      "translation": "А...? Самопредставление...? Вы имеете в виду то, что всегда делаете... Кхм."
+      "translation": "А...? Самопредставление...? Ты имеешь в виду то, что всегда делаешь... Кхм."
     },
     "ebm:xx05/event_message_xx05_130.ebm:6": {
       "source": "pack01_ebm",
@@ -106474,7 +106474,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "I am Ilmeria von Leinweber. Nothing less than a greatest alchemy genius of our day! ...Like this, you mean?",
-      "translation": "Я Ильмерия фон Лейнвебер. Не что иное, как величайший гений алхимии наших дней! ...Вот так, да?"
+      "translation": "Я Ильмерия фон Лейнвебер. Не кто иной, как алхимик гениального уровня! ...Вот так, да?"
     },
     "ebm:xx05/event_message_xx05_130.ebm:7": {
       "source": "pack01_ebm",
@@ -106490,7 +106490,7 @@
       "index": 8,
       "speaker": "Sue",
       "original": "You think so...?",
-      "translation": "Вы так думаете...?"
+      "translation": "Ты так думаешь...?"
     },
     "ebm:xx05/event_message_xx05_130.ebm:9": {
       "source": "pack01_ebm",
@@ -106514,7 +106514,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "Is our teacher all right? You don't think she hit her head or something?",
-      "translation": "С нашей учительницей всё в порядке? Не думаешь, что она ударилась головой или что-то вроде?"
+      "translation": "С нашей наставницей всё в порядке? Не думаешь, что она ударилась головой или что-то вроде?"
     },
     "ebm:xx05/event_message_xx05_130.ebm:12": {
       "source": "pack01_ebm",
@@ -106522,7 +106522,7 @@
       "index": 12,
       "speaker": "Lydie",
       "original": "Either that, or the stress from overwork has finally got to her... Either way, she's acting weird.",
-      "translation": "Либо так, либо стресс от переутомления наконец её добрался... В любом случае она ведёт себя странно."
+      "translation": "Либо так, либо стресс от переутомления наконец её добил... В любом случае она ведёт себя странно."
     },
     "ebm:xx05/event_message_xx05_130.ebm:13": {
       "source": "pack01_ebm",
@@ -106610,7 +106610,7 @@
       "index": 23,
       "speaker": "Ilmeria",
       "original": "Now then, next up is Lydie. Don't let your sister show you up!",
-      "translation": "Итак, следующая — Лидия. Не дай сестре тебя затмить!"
+      "translation": "Итак, следующая — Лиди. Не дай сестре тебя затмить!"
     },
     "ebm:xx05/event_message_xx05_130.ebm:24": {
       "source": "pack01_ebm",
@@ -106618,7 +106618,7 @@
       "index": 24,
       "speaker": "Lydie",
       "original": "A-Ahem. I-I am Lydie Malen, intellectual alchemist, g-graceful as a hydrangea...!",
-      "translation": "К-кхм. Я-я Лиди Мален, интеллектуальный алхимик, г-грациозная как гортензия...!"
+      "translation": "К-кхм. Я-я Лидия Мален, интеллектуальный алхимик, г-грациозная как гортензия...!"
     },
     "ebm:xx05/event_message_xx05_130.ebm:25": {
       "source": "pack01_ebm",
@@ -106626,7 +106626,7 @@
       "index": 25,
       "speaker": "Ilmeria",
       "original": "Good... Very good! Excellent, Lydie! But you did seem a little embarrassed. You need to work on that.",
-      "translation": "Хорошо... Очень хорошо! Отлично, Лидия! Но ты выглядела немного смущённой. Над этим нужно поработать."
+      "translation": "Хорошо... Очень хорошо! Отлично, Лиди! Но ты выглядела немного смущённой. Над этим нужно поработать."
     },
     "ebm:xx05/event_message_xx05_130.ebm:26": {
       "source": "pack01_ebm",
@@ -106634,7 +106634,7 @@
       "index": 26,
       "speaker": "Lydie",
       "original": "A-Ah, yes, I'm sorry... I'll do my best...",
-      "translation": "А-ах, да, извините... Я постараюсь..."
+      "translation": "А-ах, да, извини... Я постараюсь..."
     },
     "ebm:xx05/event_message_xx05_130.ebm:27": {
       "source": "pack01_ebm",
@@ -106658,7 +106658,7 @@
       "index": 29,
       "speaker": "Lydie",
       "original": "...Hey, Sue. I know she's our teacher, but...",
-      "translation": "...Эй, Сью. Я знаю, что она наш учитель, но..."
+      "translation": "...Эй, Сью. Я знаю, что она наша наставница, но..."
     },
     "ebm:xx05/event_message_xx05_130.ebm:30": {
       "source": "pack01_ebm",
@@ -106690,7 +106690,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Hello, Firis. Sorry to bother you, but I have a question about distinguishing between ores...",
-      "translation": "Здравствуй, Фирис. Извини, что беспокоим, но у меня вопрос о том, как различать руды..."
+      "translation": "Здравствуй, Фирис. Извини, что беспокоим, но у меня вопрос о том, как различать руду..."
     },
     "ebm:xx05/event_message_xx05_140.ebm:1": {
       "source": "pack01_ebm",
@@ -106698,7 +106698,7 @@
       "index": 1,
       "speaker": "Firis",
       "original": "Ha, very well. You've come to the right place. The \"Ore Master,\" Firis, shall impart upon thee the secrets of ores!",
-      "translation": "Ха, отлично. Вы пришли куда надо. «Мастер руд» Фирис откроет вам тайны руд!"
+      "translation": "Ха, отлично. Вы пришли куда надо. «Мастер руд» Фирис откроет вам тайны руды!"
     },
     "ebm:xx05/event_message_xx05_140.ebm:2": {
       "source": "pack01_ebm",
@@ -106722,7 +106722,7 @@
       "index": 4,
       "speaker": "Firis",
       "original": "Come, little lambs... Speak unto me. Tell me which ore do you seek to find the truth of?",
-      "translation": "Придите, юные агнцы... Глаголите ко мне. Скажите, о какой руде желаете постичь истину?"
+      "translation": "Придите, юные агнцы... Скажите мне. Скажите, о какой руде желаете постичь истину?"
     },
     "ebm:xx05/event_message_xx05_140.ebm:5": {
       "source": "pack01_ebm",
@@ -106898,7 +106898,7 @@
       "index": 26,
       "speaker": "Lydie",
       "original": "Because it's hard to do, and hard to understand! Imagine if we all spoke like that all the time!",
-      "translation": "Потому что это сложно и трудно понять! Представьте, если бы мы все постоянно так говорили!"
+      "translation": "Потому что это сложно и трудно понять! Представь, если бы мы все постоянно так говорили!"
     },
     "ebm:xx05/event_message_xx05_140.ebm:27": {
       "source": "pack01_ebm",
@@ -106906,7 +106906,7 @@
       "index": 27,
       "speaker": "Lydie",
       "original": "We'd spend our days just trying to sift through each other's sentences! I have no wish to do that!",
-      "translation": "Мы бы дни напролёт разбирали друг друга! У меня нет никакого желания этим заниматься!"
+      "translation": "Мы бы дни напролёт разбирали речь друг друга! У меня нет никакого желания этим заниматься!"
     },
     "ebm:xx05/event_message_xx05_140.ebm:28": {
       "source": "pack01_ebm",
@@ -107058,7 +107058,7 @@
       "index": 12,
       "speaker": "Ilmeria",
       "original": "Piko isn't here anymore! That's right - and if I say she's gone, she's gone!",
-      "translation": "Пико здесь больше нет! Верно — и если я говорю, что она ушла, значит, ушла!"
+      "translation": "Пико здесь больше нет! Верно — и если я говорю, что он ушёл, значит, ушёл!"
     },
     "ebm:xx05/event_message_xx05_150.ebm:13": {
       "source": "pack01_ebm",
@@ -107082,7 +107082,7 @@
       "index": 15,
       "speaker": "Firis",
       "original": "Ilmeria, you're telling me you got rid of Piko, aren't you? After I gave her to you...",
-      "translation": "Ильмерия, ты говоришь, что избавилась от Пико? После того как я тебе её подарила..."
+      "translation": "Ильмерия, ты говоришь, что избавилась от Пико? После того как я тебе его подарила..."
     },
     "ebm:xx05/event_message_xx05_150.ebm:16": {
       "source": "pack01_ebm",
@@ -107130,7 +107130,7 @@
       "index": 21,
       "speaker": "Ilmeria",
       "original": "You know full well that isn't true! All right, I confess! This is Piko! This is the original Piko!",
-      "translation": "Ты прекрасно знаешь, что это неправда! Ладно, признаюсь! Это Пико! Это та самая Пико!"
+      "translation": "Ты прекрасно знаешь, что это неправда! Ладно, признаюсь! Это Пико! Это тот самый Пико!"
     },
     "ebm:xx05/event_message_xx05_150.ebm:22": {
       "source": "pack01_ebm",
@@ -107154,7 +107154,7 @@
       "index": 24,
       "speaker": "Firis",
       "original": "I hope you'll think of her as if she were me, and take good care of her.",
-      "translation": "Надеюсь, ты будешь думать о ней как обо мне и хорошо о ней заботиться."
+      "translation": "Надеюсь, ты будешь думать о нём как обо мне и хорошо о нём заботиться."
     },
     "ebm:xx05/event_message_xx05_150.ebm:25": {
       "source": "pack01_ebm",
@@ -107178,7 +107178,7 @@
       "index": 27,
       "speaker": "Ilmeria",
       "original": "...Think of her as if she were Firis...?! But I always sleep with Piko...!",
-      "translation": "...Думать о ней как о Фирис...?! Но я всегда сплю с Пико...!"
+      "translation": "...Думать о нём как о Фирис...?! Но я всегда сплю с Пико...!"
     },
     "ebm:xx05/event_message_xx05_150.ebm:28": {
       "source": "pack01_ebm",
@@ -107250,7 +107250,7 @@
       "index": 3,
       "speaker": "Firis",
       "original": "Hah, I figured as much! What things in particular do you look for?",
-      "translation": "Ха, я так и думала! На что ты особенно смотришь?"
+      "translation": "Ха, я так и думала! На что ты особенно обращаешь внимание?"
     },
     "ebm:xx05/event_message_xx05_160.ebm:4": {
       "source": "pack01_ebm",
@@ -107370,7 +107370,7 @@
       "index": 18,
       "speaker": "Firis",
       "original": "Urgh... Maybe I should send her a nice ribbon later as an apology... Oh-ho... Sorry, Ilmeria...",
-      "translation": "Ух... Может, позже пришлю ей красивую ленточку в качестве извинения... О-го... Прости, Ильмерия..."
+      "translation": "Ух... Может, позже пришлю ей красивую ленточку в качестве извинения... Ох-ох... Прости, Ильмерия..."
     },
     "ebm:xx05/event_message_xx05_170.ebm:0": {
       "source": "pack01_ebm",
@@ -107386,7 +107386,7 @@
       "index": 1,
       "speaker": "Ilmeria",
       "original": "She patted me on the head so much, just like in the old days... It really took me back...",
-      "translation": "Она так гладила меня по голове, как в былые времена... Меня это так вернуло в прошлое..."
+      "translation": "Она так гладила меня по голове, как в былые времена... Меня это вернуло в прошлое..."
     },
     "ebm:xx05/event_message_xx05_170.ebm:2": {
       "source": "pack01_ebm",
@@ -107426,7 +107426,7 @@
       "index": 6,
       "speaker": "Ilmeria",
       "original": "Hehe, those three haven't changed a bit since the old days. That's all part of their charm.",
-      "translation": "Хе-хе, эти трое ни капельки не изменились со старых времён. В этом и их очарование."
+      "translation": "Хе-хе, эти трое ни капельки не изменились с тех времён. В этом и их очарование."
     },
     "ebm:xx05/event_message_xx05_170.ebm:7": {
       "source": "pack01_ebm",
@@ -107626,7 +107626,7 @@
       "index": 0,
       "speaker": "Firis",
       "original": "Aaaaooorrrgghhh!",
-      "translation": "Аааааарррр!"
+      "translation": "А-а-а-р-р-р-р!"
     },
     "ebm:xx05/event_message_xx05_180.ebm:1": {
       "source": "pack01_ebm",
@@ -107634,7 +107634,7 @@
       "index": 1,
       "speaker": "Firis",
       "original": "Urrrgghhhh!",
-      "translation": "Урррррр!"
+      "translation": "У-р-р-р-р!"
     },
     "ebm:xx05/event_message_xx05_180.ebm:2": {
       "source": "pack01_ebm",
@@ -107706,7 +107706,7 @@
       "index": 10,
       "speaker": "Firis",
       "original": "I thought I saw you looking at me while I was jogging, but I had no idea you were being so rude...",
-      "translation": "Мне казалось, вы смотрите на меня, пока я бегаю, но я и не думала, что будете такими грубыми..."
+      "translation": "Мне казалось, вы смотрите на меня, пока я бегаю, но я и не думала, что вы будете такими грубыми..."
     },
     "ebm:xx05/event_message_xx05_180.ebm:11": {
       "source": "pack01_ebm",
@@ -107762,7 +107762,7 @@
       "index": 17,
       "speaker": "Lydie",
       "original": "Oh, I see... I'm so sorry, we just...",
-      "translation": "О, понятно... Простите, мы просто..."
+      "translation": "О, понятно... Прости, мы просто..."
     },
     "ebm:xx05/event_message_xx05_180.ebm:18": {
       "source": "pack01_ebm",
@@ -107898,7 +107898,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "Sue, stop speaking like that! You won't be able to stop!",
-      "translation": "Сью, перестань так говорить! Ты не сможешь остановиться!"
+      "translation": "Сью, перестань так говорить! Ты не можешь продолжать!"
     },
     "ebm:xx05/event_message_xx05_190.ebm:3": {
       "source": "pack01_ebm",
@@ -108218,7 +108218,7 @@
       "index": 12,
       "speaker": "Firis",
       "original": "You know I can hear the voices of ores as well! Let me join in on your ceremony!",
-      "translation": "Знаешь, я тоже слышу голоса руд! Позвольте присоединиться к вашей церемонии!"
+      "translation": "Знаете, я тоже слышу голоса руд! Позвольте присоединиться к вашей церемонии!"
     },
     "ebm:xx05/event_message_xx05_200.ebm:13": {
       "source": "pack01_ebm",
@@ -108394,7 +108394,7 @@
       "index": 34,
       "speaker": "Sue",
       "original": "It's coming, it's coming, it's coming, it's coming... I can hear it, I can hear it, I can hear it...",
-      "translation": "Идёт, идёт, идёт, идёт... Слышу, слышу, слышу..."
+      "translation": "Давай, давай, давай, давай... Слышу, слышу, слышу..."
     },
     "ebm:xx05/event_message_xx05_200.ebm:35": {
       "source": "pack01_ebm",
@@ -108418,7 +108418,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Urgh... Augh... Aaarghh! Stay calm, stay calm...! Don't lose your temper...!",
-      "translation": "Урх... Ах... Аааа! Спокойствие, спокойствие...! Не теряй самообладания...!"
+      "translation": "Ух... Ах... Аааа! Спокойствие, спокойствие...! Не теряй самообладания...!"
     },
     "ebm:xx05/event_message_xx05_210.ebm:1": {
       "source": "pack01_ebm",
@@ -108458,7 +108458,7 @@
       "index": 5,
       "speaker": "Lydie",
       "original": "We owe more taxes, Dad keeps buying things, vegetable prices keep going up, our alchemy doesn't improve...",
-      "translation": "Мы должны больше налогов, папа продолжает покупать вещи, цены на овощи растут, наша алхимия не улучшается..."
+      "translation": "Мы должны платить больше налогов, папа продолжает покупать вещи, цены на овощи растут, наша алхимия не улучшается..."
     },
     "ebm:xx05/event_message_xx05_210.ebm:6": {
       "source": "pack01_ebm",
@@ -108466,7 +108466,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "You don't tidy up after yourself, and you think I don't notice the stuffed animals you secretly bought...",
-      "translation": "Ты за собой не убираешь и думаешь, я не замечаю мягких игрушек, которые тайком купила..."
+      "translation": "Ты за собой не убираешь и думаешь, я не замечаю мягких игрушек, которые ты тайком купила..."
     },
     "ebm:xx05/event_message_xx05_210.ebm:7": {
       "source": "pack01_ebm",
@@ -108474,7 +108474,7 @@
       "index": 7,
       "speaker": "Lydie",
       "original": "And there's still so much more... Ohh... Urgh...!",
-      "translation": "И это ещё далеко не всё... Ох... Урх...!"
+      "translation": "И это ещё далеко не всё... Ох... Ух...!"
     },
     "ebm:xx05/event_message_xx05_210.ebm:8": {
       "source": "pack01_ebm",
@@ -108610,7 +108610,7 @@
       "index": 9,
       "speaker": "Lydie",
       "original": "DAD... YOU'RE AN IRRESPONSIBLE FATHER!!! MIREILLE!! PLEASE LOWER OUR TAXES!!!",
-      "translation": "ПАПА... ТЫ БЕЗОТВЕТСТВЕННЫЙ ОТЕЦ!!! МИРЕЙ!! ПОЖАЛУЙСТА, СНИЗЬТЕ НАШИ НАЛОГИ!!!"
+      "translation": "ПАПА... ТЫ БЕЗОТВЕТСТВЕННЫЙ ОТЕЦ!!! МИРЕЙ!! ПОЖАЛУЙСТА, СНИЗЬ НАШИ НАЛОГИ!!!"
     },
     "ebm:xx05/event_message_xx05_220.ebm:10": {
       "source": "pack01_ebm",
@@ -108618,7 +108618,7 @@
       "index": 10,
       "speaker": "Sue",
       "original": "Wow, that's a loud voice... Lydie must really have been under pressure...",
-      "translation": "Ух ты, какой громкий голос... Лиди, должно быть, и правда была под давлением..."
+      "translation": "Ух, какой громкий голос... Лиди, должно быть, и правда была под давлением..."
     },
     "ebm:xx05/event_message_xx05_220.ebm:11": {
       "source": "pack01_ebm",
@@ -108674,7 +108674,7 @@
       "index": 17,
       "speaker": "Lydie",
       "original": "Hehehe, thank you, Sue! This really cheered me up!",
-      "translation": "Хе-хе-хе, спасибо, Сью! Это меня очень подняло!"
+      "translation": "Хе-хе-хе, спасибо, Сью! Это мне очень помогло!"
     },
     "ebm:xx05/event_message_xx05_220.ebm:18": {
       "source": "pack01_ebm",
@@ -108874,7 +108874,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "ALL BUGS SHOULD HIBERNATE FOREVER!!!",
-      "translation": "ВСЕ НАСЕКОМЫЕ ДОЛЖНЫ ЗИМОВАТЬ НАВСЕГДА!!!"
+      "translation": "ВСЕ НАСЕКОМЫЕ ДОЛЖНЫ ЗИМОВАТЬ ВЕЧНО!!!"
     },
     "ebm:xx05/event_message_xx05_240.ebm:5": {
       "source": "pack01_ebm",
@@ -138815,21 +138815,21 @@
       "file": "str_event_chara_name.xml",
       "string_no": "262321",
       "original": "Punyu",
-      "translation": "Пунью"
+      "translation": "Пуню"
     },
     "pack02:262322": {
       "source": "pack02_text_en",
       "file": "str_event_chara_name.xml",
       "string_no": "262322",
       "original": "Punyu-nyu",
-      "translation": "Пунью-ню"
+      "translation": "Пуню-ню"
     },
     "pack02:262323": {
       "source": "pack02_text_en",
       "file": "str_event_chara_name.xml",
       "string_no": "262323",
       "original": "Punyu-ball",
-      "translation": "Пунью-мяч"
+      "translation": "Пуню-мячик"
     },
     "pack02:262324": {
       "source": "pack02_text_en",
@@ -170343,7 +170343,7 @@
       "file": "str_item_name.xml",
       "string_no": "6750817",
       "original": "Travel Gate",
-      "translation": "Тревел-гейт"
+      "translation": "Врата путешествий"
     },
     "pack02:6750818": {
       "source": "pack02_text_en",
@@ -194094,7 +194094,7 @@
       "file": "str_npc_s06_mess.xml",
       "string_no": "33751068",
       "original": "Hehe, I’ve got myself a Palm-sized Puni. It’s called Punyu. Isn’t it adorable?",
-      "translation": "Хе-хе, у меня появился Пуни размером с ладонь. Его зовут Пуню. Разве не милый?"
+      "translation": "Хе-хе, у меня появился Пуни размером с ладонь. Её зовут Пуню. Разве не милая?"
     },
     "pack02:33751069": {
       "source": "pack02_text_en",
@@ -194108,21 +194108,21 @@
       "file": "str_npc_s06_mess.xml",
       "string_no": "33751070",
       "original": "I’ve got a new pet. Its name is Punyu-nyu. It was named by Firis, of course.",
-      "translation": "У меня новый питомец. Его зовут Пуню-ню. Конечно, назвала Фирис."
+      "translation": "У меня новый питомец. Её зовут Пуню-ню. Конечно, назвала Фирис."
     },
     "pack02:33751071": {
       "source": "pack02_text_en",
       "file": "str_npc_s06_mess.xml",
       "string_no": "33751071",
       "original": "No, Punyu! You’re not allowed on the table! Mind your manners! You naughty thing!",
-      "translation": "Нет, Пуню! На стол нельзя! Веди себя прилично! Ну ты и шалун!"
+      "translation": "Нет, Пуню! На стол нельзя! Веди себя прилично! Ну ты и шалунья!"
     },
     "pack02:33751072": {
       "source": "pack02_text_en",
       "file": "str_npc_s06_mess.xml",
       "string_no": "33751072",
       "original": "Punyu-nyu seems to like sitting on books. Hehe, if only you could read...",
-      "translation": "Пуню-ню, похоже, любит сидеть на книгах. Хе-хе, если бы ты умел читать..."
+      "translation": "Пуню-ню, похоже, любит сидеть на книгах. Хе-хе, если бы ты умела читать..."
     },
     "pack02:33751073": {
       "source": "pack02_text_en",
@@ -194164,7 +194164,7 @@
       "file": "str_npc_s06_mess.xml",
       "string_no": "33751078",
       "original": "Have you grown a little, Punyu? You need to get much bigger yet. In place of me... Hehe, hehehe...",
-      "translation": "Ты немного подрос, Пуню? Ещё надо вырасти намного больше. Вместо меня... Хе-хе, хе-хе-хе..."
+      "translation": "Ты немного подросла, Пуню? Ещё надо вырасти намного больше. Вместо меня... Хе-хе, хе-хе-хе..."
     },
     "pack02:33751079": {
       "source": "pack02_text_en",
@@ -203866,7 +203866,7 @@
       "file": "str_quest_flavor.xml",
       "string_no": "4915408",
       "original": "Ahoy! It's me, Firis! How do you like Claudel Prairie? I have a few favors I'd like to ask of you... Do you mind?",
-      "translation": "Эй! Это я, Фирис! Как вам Клодель Прейри? У меня есть несколько одолжений, о которых я хотел бы попросить тебя... Ты не возражаешь?"
+      "translation": "Эй! Это я, Фирис! Как вам Клодельская равнина? У меня есть несколько одолжений, о которых я хотел бы попросить тебя... Ты не возражаешь?"
     },
     "pack02:4915409": {
       "source": "pack02_text_en",
