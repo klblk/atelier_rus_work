@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T15:40:01.944053+00:00",
+  "generated_at": "2026-11-08T07:31:24.898775+00:00",
   "sources": {
     "pack01_ebm": "LydieAndSuelleDxRusScripts/extracts/PACK01_event_ebm_extract/event/event_en",
     "pack02_text_en": "LydieAndSuelleDxRusScripts/extracts/pack_extracts/PACK02_extract/saves/text_en"
@@ -12890,7 +12890,7 @@
       "index": 14,
       "speaker": "Lucia",
       "original": "You need three of them to take the exam. Not easy in Adalet, with so few alchemists around!",
-      "translation": "Для сдачи экзамена вам понадобятся три. Нелегко в Адалете, где так мало алхимиков!"
+      "translation": "Для сдачи экзамена вам понадобятся три. Нелегко получить в Адалете, где так мало алхимиков!"
     },
     "ebm:mm05/event_message_mm05_040.ebm:15": {
       "source": "pack01_ebm",
@@ -12914,7 +12914,7 @@
       "index": 17,
       "speaker": "Sue",
       "original": "I see. So our teacher and Firis have both passed this super hard exam? I'm even more impressed!",
-      "translation": "Понятно. Значит, наш учитель и Фирис сдали этот сверхсложный экзамен? Я впечатлена ещё больше!"
+      "translation": "Понятно. Значит, наша наставница и Фирис сдали этот сверхсложный экзамен? Я впечатлена ещё больше!"
     },
     "ebm:mm05/event_message_mm05_050.ebm:0": {
       "source": "pack01_ebm",
@@ -36042,7 +36042,7 @@
       "index": 17,
       "speaker": "Sue",
       "original": "This means, if we defeat the Remplir core we can stop their spread and save mom?",
-      "translation": "Значит, если мы победим ядро ремплиров, то остановим их распространение и спасаем маму?"
+      "translation": "Значит, если мы победим ядро Ремплира, то остановим их распространение и спасаем маму?"
     },
     "ebm:mm11/event_message_mm11_130.ebm:18": {
       "source": "pack01_ebm",
@@ -36178,7 +36178,7 @@
       "index": 34,
       "speaker": "Sue",
       "original": "Yes! In order to do that, we need to go and defeat the Remplir core!",
-      "translation": "Да! А для этого нужно пойти и победить ядро ремплиров!"
+      "translation": "Да! А для этого нужно пойти и победить ядро Ремплира!"
     },
     "ebm:mm11/event_message_mm11_130.ebm:35": {
       "source": "pack01_ebm",
@@ -36402,7 +36402,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "It's here... I can sense it, somehow. The Remplir core is here.",
-      "translation": "Оно здесь... Я это чувствую. Ядро ремплиров — здесь."
+      "translation": "Оно здесь... Я это чувствую. Ядро Ремплира — здесь."
     },
     "ebm:mm11/event_message_mm11_170.ebm:1": {
       "source": "pack01_ebm",
@@ -36466,7 +36466,7 @@
       "index": 8,
       "speaker": "Sophie",
       "original": "For Lydie and Sue's sake, too, we have to defeat the Remplir core!",
-      "translation": "Ради Лиди и Сью нам тоже нужно победить ядро ремплиров!"
+      "translation": "Ради Лиди и Сью нам тоже нужно победить ядро Ремплира!"
     },
     "ebm:mm11/event_message_mm11_170.ebm:9": {
       "source": "pack01_ebm",
@@ -36506,7 +36506,7 @@
       "index": 13,
       "speaker": "Alt",
       "original": "I thought maybe I'd relieve the tension a little. We won't defeat the Remplir core without you.",
-      "translation": "Подумал, может, чуть сниму напряжение. Без тебя нам ядро ремплиров не победить."
+      "translation": "Подумал, может, чуть сниму напряжение. Без тебя нам ядро Ремплира не победить."
     },
     "ebm:mm11/event_message_mm11_170.ebm:14": {
       "source": "pack01_ebm",
@@ -36650,7 +36650,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "It sounded like a roar of something! Could it be the Remplir core?",
-      "translation": "Похоже на чей-то рёв! Неужели ядро ремплиров?"
+      "translation": "Похоже на чей-то рёв! Неужели ядро Ремплира?"
     },
     "ebm:mm11/event_message_mm11_180.ebm:3": {
       "source": "pack01_ebm",
@@ -36690,7 +36690,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "There! Is that the Remplir core?",
-      "translation": "Вон! Это ядро ремплиров?"
+      "translation": "Вон! Это ядро Ремплира?"
     },
     "ebm:mm11/event_message_mm11_190.ebm:2": {
       "source": "pack01_ebm",
@@ -36954,7 +36954,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Heheh, thanks, Mom. How are you feeling? We defeated the Remplir core for you!",
-      "translation": "Хе-хе, спасибо, мам. Как ты себя чувствуешь? Мы победили ядро ремплиров ради тебя!"
+      "translation": "Хе-хе, спасибо, мам. Как ты себя чувствуешь? Мы победили ядро Ремплира ради тебя!"
     },
     "ebm:mm11/event_message_mm11_220.ebm:10": {
       "source": "pack01_ebm",
@@ -109026,7 +109026,7 @@
       "index": 9,
       "speaker": "Lydie",
       "original": "Hmm... I don't know about romantic... I was going to say greedy.",
-      "translation": "Хм... Насчёт романтичности не уверена... Я хотела сказать — жадная."
+      "translation": "Хм... Насчёт романтичности не уверена... Я бы сказала — жадная."
     },
     "ebm:yy01/event_message_yy01_010.ebm:10": {
       "source": "pack01_ebm",
@@ -109370,7 +109370,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "I know. It must be a pretty big painting. Shall we see if we can piece them together?",
-      "translation": "Знаю. Должно быть, картина довольно большая. Попробуем собрать их вместе?"
+      "translation": "Да. Должно быть, картина довольно большая. Попробуем собрать их вместе?"
     },
     "ebm:yy01/event_message_yy01_030.ebm:3": {
       "source": "pack01_ebm",
@@ -109418,7 +109418,7 @@
       "index": 8,
       "speaker": "Lydie",
       "original": "No, I think that should go over here, shouldn't it? And this one over there...",
-      "translation": "Нет, по-моему, этот должен быть здесь, правда? А этот вон туда..."
+      "translation": "Нет, по-моему, этот должен быть здесь, не так ли? А этот вон туда..."
     },
     "ebm:yy01/event_message_yy01_030.ebm:9": {
       "source": "pack01_ebm",
@@ -109442,7 +109442,7 @@
       "index": 11,
       "speaker": "Lydie",
       "original": "It took a while, but we've finally completed the painting. It's a landscape, like we figured.",
-      "translation": "Заняло время, но мы наконец закончили картину. Как мы и думали — пейзаж."
+      "translation": "Это заняло время, но мы наконец закончили картину. Как мы и думали — пейзаж."
     },
     "ebm:yy01/event_message_yy01_030.ebm:12": {
       "source": "pack01_ebm",
@@ -109466,7 +109466,7 @@
       "index": 14,
       "speaker": "Lydie",
       "original": "Haha... This came from the world within the paintings, so it may not be a real tree... Uwah!",
-      "translation": "Ха-ха... Это из мира картин, так что, возможно, это не настоящее дерево... Уа!"
+      "translation": "Ха-ха... Это из мира картин, так что, возможно, это не настоящее дерево... Аа!"
     },
     "ebm:yy01/event_message_yy01_030.ebm:15": {
       "source": "pack01_ebm",
@@ -109530,7 +109530,7 @@
       "index": 0,
       "speaker": "Sue",
       "original": "Excuse us, Mireille. We need to use the gallery!",
-      "translation": "Извините, Мирей. Нам нужно воспользоваться галереей!"
+      "translation": "Извини, Мирей. Нам нужно воспользоваться галереей!"
     },
     "ebm:yy01/event_message_yy01_040.ebm:1": {
       "source": "pack01_ebm",
@@ -109538,7 +109538,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Sorry! We need to hang a new painting!",
-      "translation": "Простите! Нам нужно повесить новую картину!"
+      "translation": "Прости! Нам нужно повесить новую картину!"
     },
     "ebm:yy01/event_message_yy01_040.ebm:2": {
       "source": "pack01_ebm",
@@ -109562,7 +109562,7 @@
       "index": 4,
       "speaker": "Lydie",
       "original": "Roger that! Is that better...?",
-      "translation": "Принято! Так лучше...?"
+      "translation": "Понятно! Так лучше...?"
     },
     "ebm:yy01/event_message_yy01_040.ebm:5": {
       "source": "pack01_ebm",
@@ -109578,7 +109578,7 @@
       "index": 6,
       "speaker": "Sue",
       "original": "I know! I feel like a brand new adventure is just around the corner...!",
-      "translation": "Знаю! Чувствую, новое приключение уже не за горами...!"
+      "translation": "Согласна! Чувствую, новое приключение уже не за горами...!"
     },
     "ebm:yy01/event_message_yy01_040.ebm:7": {
       "source": "pack01_ebm",
@@ -109722,7 +109722,7 @@
       "index": 11,
       "speaker": "Sue",
       "original": "Yeah! We know a mysterious painting when we see one... Huh?",
-      "translation": "Ага! Мы узнаём таинственную картину с первого взгляда... А?"
+      "translation": "Ага! Мы узнаем таинственную картину с первого взгляда... А?"
     },
     "ebm:yy01/event_message_yy01_050.ebm:12": {
       "source": "pack01_ebm",
@@ -109762,7 +109762,7 @@
       "index": 16,
       "speaker": "Lydie",
       "original": "Sue, I've made a discovery myself... Isn't that a town over there?",
-      "translation": "Сью, я тоже кое-что заметила... Разве вон там не город?"
+      "translation": "Сью, я кое-что заметила... Разве вон там не город?"
     },
     "ebm:yy01/event_message_yy01_050.ebm:17": {
       "source": "pack01_ebm",
@@ -109802,7 +109802,7 @@
       "index": 21,
       "speaker": "Lydie",
       "original": "Oh, yes. Fuoco's town. You're right, though; I can't think of any others.",
-      "translation": "О да. Город Фуоко. Но ты права: других я не припоминаю."
+      "translation": "Да. Город Фуоко. Но ты права: других я не припоминаю."
     },
     "ebm:yy01/event_message_yy01_050.ebm:22": {
       "source": "pack01_ebm",
@@ -109850,7 +109850,7 @@
       "index": 27,
       "speaker": "Lydie",
       "original": "Huh? Before we met you...?",
-      "translation": "А? До встречи с вами...?"
+      "translation": "А? До встречи с тобой...?"
     },
     "ebm:yy01/event_message_yy01_050.ebm:28": {
       "source": "pack01_ebm",
@@ -109890,7 +109890,7 @@
       "index": 32,
       "speaker": "Lydie",
       "original": "You said you already know us, but still... I'm Lydie, and this is Sue.",
-      "translation": "Вы сказали, что уже знаете нас, но всё же... Я Лиди, а это Сью."
+      "translation": "Ты сказала, что уже знаешь нас, но всё же... Я Лиди, а это Сью."
     },
     "ebm:yy01/event_message_yy01_050.ebm:33": {
       "source": "pack01_ebm",
@@ -109898,7 +109898,7 @@
       "index": 33,
       "speaker": "Sue",
       "original": "We're alchemists aiming to have the finest atelier in the land. Are you sure it‘s us you know?",
-      "translation": "Мы алхимики и стремимся создать лучшее ателье в стране. Вы уверены, что знаете именно нас?"
+      "translation": "Мы алхимики и стремимся создать лучшее ателье в стране. Ты уверена, что знаешь именно нас?"
     },
     "ebm:yy01/event_message_yy01_050.ebm:34": {
       "source": "pack01_ebm",
@@ -109946,7 +109946,7 @@
       "index": 39,
       "speaker": "Lydie",
       "original": "How is it you know us?",
-      "translation": "Откуда вы нас знаете?"
+      "translation": "Откуда ты нас знаешь?"
     },
     "ebm:yy01/event_message_yy01_050.ebm:40": {
       "source": "pack01_ebm",
@@ -109994,7 +109994,7 @@
       "index": 45,
       "speaker": "Sue",
       "original": "Of us?! W-What are you talking about?!",
-      "translation": "Нас?! Ч-о чём вы говорите?!"
+      "translation": "Нас?! О-о чём ты говоришь?!"
     },
     "ebm:yy01/event_message_yy01_050.ebm:46": {
       "source": "pack01_ebm",
@@ -110058,7 +110058,7 @@
       "index": 53,
       "speaker": "Lydie",
       "original": "Oh, I want to know about that, too! Are we, you know, well-proportioned, and all that...?",
-      "translation": "О, я тоже хочу знать! Мы, ну... стройные и всё такое...?"
+      "translation": "О, я тоже хочу это знать! Мы, ну... стройные и всё такое...?"
     },
     "ebm:yy01/event_message_yy01_050.ebm:54": {
       "source": "pack01_ebm",
@@ -110066,7 +110066,7 @@
       "index": 54,
       "speaker": "Girl in Love",
       "original": "Huh? Well, I... I really shouldn't comment... It's for your own good.",
-      "translation": "А? Ну, я... Мне правда не стоит комментировать... Это для вашего же блага."
+      "translation": "А? Ну... Мне правда не стоит комментировать... Это для вашего же блага."
     },
     "ebm:yy01/event_message_yy01_050.ebm:55": {
       "source": "pack01_ebm",
@@ -110082,7 +110082,7 @@
       "index": 56,
       "speaker": "Sue",
       "original": "Ohh... I guess you're right...",
-      "translation": "Ох... Полагаю, вы правы..."
+      "translation": "Ох... Полагаю, ты права..."
     },
     "ebm:yy01/event_message_yy01_050.ebm:57": {
       "source": "pack01_ebm",
@@ -110154,7 +110154,7 @@
       "index": 65,
       "speaker": "Girl in Love",
       "original": "Shall we go together then...? To the Granzweit Tree?",
-      "translation": "Тогда пойдём вместе...? К Дереву Гранцвейт?"
+      "translation": "Тогда пойдём вместе...? К Древу Гранцвайт?"
     },
     "ebm:yy01/event_message_yy01_050.ebm:66": {
       "source": "pack01_ebm",
@@ -110162,7 +110162,7 @@
       "index": 66,
       "speaker": "Lydie",
       "original": "The Granzweit Tree...?",
-      "translation": "Дерево Гранцвейт...?"
+      "translation": "Древо Гранцвайт...?"
     },
     "ebm:yy01/event_message_yy01_060.ebm:0": {
       "source": "pack01_ebm",
@@ -110178,7 +110178,7 @@
       "index": 1,
       "speaker": "Sue",
       "original": "The Granz-something Tree!",
-      "translation": "Гранц-какое-то дерево!"
+      "translation": "Древо Гранц-какое-то!"
     },
     "ebm:yy01/event_message_yy01_060.ebm:2": {
       "source": "pack01_ebm",
@@ -110186,7 +110186,7 @@
       "index": 2,
       "speaker": "Girl in Love",
       "original": "...The Granzweit Tree.",
-      "translation": "...Дерево Гранцвейт."
+      "translation": "...Древо Гранцвайт."
     },
     "ebm:yy01/event_message_yy01_060.ebm:3": {
       "source": "pack01_ebm",
@@ -110202,7 +110202,7 @@
       "index": 4,
       "speaker": "Sue",
       "original": "Wow. I could build several houses with just this one tree. Hehe, I can feel a sale coming on...",
-      "translation": "Ух ты. Из одного такого дерева я могла бы построить несколько домов. Хе-хе, чую приближение сделки..."
+      "translation": "Ого. Из одного такого дерева я могла бы построить несколько домов. Хе-хе, чую приближение сделки..."
     },
     "ebm:yy01/event_message_yy01_060.ebm:5": {
       "source": "pack01_ebm",
@@ -110290,7 +110290,7 @@
       "index": 15,
       "speaker": "Girl in Love",
       "original": "It is the sweetest of all the fruits in the world. One mouthful is enough to enchant you for life.",
-      "translation": "Это самый сладкий из всех плодов в мире. Одного глотка хватит, чтобы очаровать вас на всю жизнь."
+      "translation": "Это самый сладкий из всех плодов в мире. Одного укуса хватит, чтобы очаровать вас на всю жизнь."
     },
     "ebm:yy01/event_message_yy01_060.ebm:16": {
       "source": "pack01_ebm",
@@ -110298,7 +110298,7 @@
       "index": 16,
       "speaker": "Lydie",
       "original": "Wow... One mouthful, and you're enchanted for life...!",
-      "translation": "Ух ты... Один глоток — и очарован на всю жизнь...!"
+      "translation": "Ух ты... Один укус — и очарован на всю жизнь...!"
     },
     "ebm:yy01/event_message_yy01_060.ebm:17": {
       "source": "pack01_ebm",
@@ -110338,7 +110338,7 @@
       "index": 21,
       "speaker": "Sue",
       "original": "Her job is to grow the town of Westabout, right?",
-      "translation": "Её работа — развивать город Вестабаут, верно?"
+      "translation": "Её работа — развивать город Вестваут, верно?"
     },
     "ebm:yy01/event_message_yy01_060.ebm:22": {
       "source": "pack01_ebm",
@@ -110386,7 +110386,7 @@
       "index": 27,
       "speaker": "Sue",
       "original": "Besides... I'm only human! How can I resist after being told how sweet it is?",
-      "translation": "К тому же... Я всего лишь человек! Как устоять, когда сказали, какое оно сладкое?"
+      "translation": "К тому же... Я всего лишь человек! Как устоять, когда сказали, какой он сладкий?"
     },
     "ebm:yy01/event_message_yy01_060.ebm:28": {
       "source": "pack01_ebm",
@@ -110418,7 +110418,7 @@
       "index": 31,
       "speaker": "Sue",
       "original": "We've been thinking, and we have a proposition for you...",
-      "translation": "Мы подумали и хотим сделать вам предложение..."
+      "translation": "Мы подумали и хотим сделать тебе предложение..."
     },
     "ebm:yy01/event_message_yy01_060.ebm:32": {
       "source": "pack01_ebm",
@@ -110426,7 +110426,7 @@
       "index": 32,
       "speaker": "Girl in Love",
       "original": "Hmm. The fruit of the Granzweit Tree in return for helping me develop the town?",
-      "translation": "Хм. Плод Дерева Гранцвейт в обмен на помощь в развитии города?"
+      "translation": "Хм. Плод Древа Гранцвайт в обмен на помощь в развитии города?"
     },
     "ebm:yy01/event_message_yy01_060.ebm:33": {
       "source": "pack01_ebm",
@@ -110490,7 +110490,7 @@
       "index": 40,
       "speaker": "Girl in Love",
       "original": "If you help me grow the town, I will reward you with the fruit of the Granzweit Tree.",
-      "translation": "Если поможете развивать город, я награжу вас плодом Дерева Гранцвейт."
+      "translation": "Если поможете развивать город, я награжу вас плодом Древа Гранцвайт."
     },
     "ebm:yy01/event_message_yy01_060.ebm:41": {
       "source": "pack01_ebm",
@@ -110522,7 +110522,7 @@
       "index": 44,
       "speaker": "Sue",
       "original": "Of course! And until that time, I'll do whatever I can to help you!",
-      "translation": "Конечно! А до тех пор я сделаю всё, что смогу, чтобы вам помочь!"
+      "translation": "Конечно! А до тех пор я сделаю всё, что смогу, чтобы тебе помочь!"
     },
     "ebm:yy01/event_message_yy01_060.ebm:45": {
       "source": "pack01_ebm",
@@ -110530,7 +110530,7 @@
       "index": 45,
       "speaker": "Lydie",
       "original": "Me too! Just tell me what you need, Nelke!",
-      "translation": "И я тоже! Просто скажите, что нужно, Нельке!"
+      "translation": "И я тоже! Просто скажи, что нужно, Нельке!"
     },
     "ebm:yy01/event_message_yy01_060.ebm:46": {
       "source": "pack01_ebm",
@@ -110586,7 +110586,7 @@
       "index": 52,
       "speaker": "Sue",
       "original": "Just you wait, Nelke! We'll get you the sturdiest stones yet!",
-      "translation": "Только подождите, Нельке! Мы добудем вам самые крепкие камни!"
+      "translation": "Только подожди, Нельке! Мы добудем тебе самые крепкие камни!"
     },
     "ebm:yy01/event_message_yy01_060.ebm:53": {
       "source": "pack01_ebm",
@@ -110634,7 +110634,7 @@
       "index": 4,
       "speaker": "Monster",
       "original": "Grruaarghh!",
-      "translation": "Грруааа!"
+      "translation": "Гр-р-у-а-а!"
     },
     "ebm:yy01/event_message_yy01_070.ebm:5": {
       "source": "pack01_ebm",
@@ -110642,7 +110642,7 @@
       "index": 5,
       "speaker": "Sue",
       "original": "Uwah, a monster! It's really thrashing about, too!",
-      "translation": "Уа, монстр! И ещё так бешено мечется!"
+      "translation": "Ух, монстр! И ещё так бешено мечется!"
     },
     "ebm:yy01/event_message_yy01_070.ebm:6": {
       "source": "pack01_ebm",
@@ -110650,7 +110650,7 @@
       "index": 6,
       "speaker": "Lydie",
       "original": "Hmm... Somehow, I get the feeling that it's frightened of something...",
-      "translation": "Хм... Почему-то кажется, что оно чего-то боится..."
+      "translation": "Хм... Почему-то кажется, что он чего-то боится..."
     },
     "ebm:yy01/event_message_yy01_070.ebm:7": {
       "source": "pack01_ebm",
@@ -110658,7 +110658,7 @@
       "index": 7,
       "speaker": "Sue",
       "original": "Hey! Now's not the time to be worried about that, Lydie! We can't gather stones with that around!",
-      "translation": "Эй! Сейчас не время об этом думать, Лиди! С таким рядом камни не соберёшь!"
+      "translation": "Эй! Сейчас не время об этом думать, Лиди! С ним рядом камни не соберёшь!"
     },
     "ebm:yy01/event_message_yy01_070.ebm:8": {
       "source": "pack01_ebm",
@@ -110666,7 +110666,7 @@
       "index": 8,
       "speaker": "Sue",
       "original": "Come on, we need to defeat it... For Nelke and the future of Westbolt!",
-      "translation": "Давай, нужно победить его... Ради Нельке и будущего Вестболта!"
+      "translation": "Давай, нужно победить его... Ради Нельке и будущего Вестволта!"
     },
     "ebm:yy01/event_message_yy01_070.ebm:9": {
       "source": "pack01_ebm",
@@ -110682,7 +110682,7 @@
       "index": 10,
       "speaker": "Monster",
       "original": "Grruaarghh!",
-      "translation": "Грруааа!"
+      "translation": "Гр-р-у-а-а!"
     },
     "ebm:yy01/event_message_yy01_080.ebm:0": {
       "source": "pack01_ebm",
@@ -110706,7 +110706,7 @@
       "index": 2,
       "speaker": "Monster",
       "original": "Grruaarghh!",
-      "translation": "Грруааа!"
+      "translation": "Гр-р-у-а-а!"
     },
     "ebm:yy01/event_message_yy01_090.ebm:0": {
       "source": "pack01_ebm",
@@ -110722,7 +110722,7 @@
       "index": 1,
       "speaker": "Lydie",
       "original": "Hmm, and its behavior is still gnawing at me... What could it have been afraid of...?",
-      "translation": "Хм, а его поведение всё ещё не даёт покоя... Чего оно могло бояться...?"
+      "translation": "Хм, а его поведение всё ещё не даёт покоя... Чего он мог бояться...?"
     },
     "ebm:yy01/event_message_yy01_090.ebm:2": {
       "source": "pack01_ebm",
@@ -110898,7 +110898,7 @@
       "index": 24,
       "speaker": "Sue",
       "original": "Nelke! What are you doing here?!",
-      "translation": "Нельке! Что вы здесь делаете?!"
+      "translation": "Нельке! Что ты здесь делаешь?!"
     },
     "ebm:yy01/event_message_yy01_090.ebm:25": {
       "source": "pack01_ebm",
@@ -110938,7 +110938,7 @@
       "index": 29,
       "speaker": "Lydie",
       "original": "Hahaha, that's true... It was a close one.",
-      "translation": "Ха-ха-ха, правда... Чуть не попали."
+      "translation": "Ха-ха-ха, правда... Чуть не сдались."
     },
     "ebm:yy01/event_message_yy01_090.ebm:30": {
       "source": "pack01_ebm",
@@ -111050,7 +111050,7 @@
       "index": 43,
       "speaker": "Lydie",
       "original": "Woah... What's happening?!",
-      "translation": "Уа... Что происходит?!"
+      "translation": "Ух... Что происходит?!"
     },
     "ebm:yy01/event_message_yy01_090.ebm:44": {
       "source": "pack01_ebm",
@@ -111074,7 +111074,7 @@
       "index": 46,
       "speaker": "Girl in Love",
       "original": "They appear to be centered on the Granzweit Tree, but no one knows why.",
-      "translation": "Кажется, эпицентр у Дерева Гранцвейт, но никто не знает почему."
+      "translation": "Кажется, эпицентр у Древа Гранцвайт, но никто не знает почему."
     },
     "ebm:yy01/event_message_yy01_090.ebm:47": {
       "source": "pack01_ebm",
@@ -111114,7 +111114,7 @@
       "index": 51,
       "speaker": "Girl in Love",
       "original": "As I explained, the Granzweit Tree is a Sage's Relic, whose role is to thwart a certain monster.",
-      "translation": "Как я объясняла, Дерево Гранцвейт — Реликвия Мудреца; его роль — сдерживать определённого монстра."
+      "translation": "Как я объясняла, Древо Гранцвайт — Реликвия Мудреца; его роль — сдерживать определённого монстра."
     },
     "ebm:yy01/event_message_yy01_090.ebm:52": {
       "source": "pack01_ebm",
@@ -111122,7 +111122,7 @@
       "index": 52,
       "speaker": "Girl in Love",
       "original": "If the Remplir weaken the tree, then it may not be able to do that...",
-      "translation": "Если ремплиры ослабят дерево, оно может не справиться..."
+      "translation": "Если Ремплиры ослабят дерево, оно может не справиться..."
     },
     "ebm:yy01/event_message_yy01_090.ebm:53": {
       "source": "pack01_ebm",
@@ -111130,7 +111130,7 @@
       "index": 53,
       "speaker": "Lydie",
       "original": "What you're saying is... that monster may return.",
-      "translation": "То есть вы говорите... этот монстр может вернуться."
+      "translation": "То есть ты говоришь... этот монстр может вернуться."
     },
     "ebm:yy01/event_message_yy01_090.ebm:54": {
       "source": "pack01_ebm",
@@ -111154,7 +111154,7 @@
       "index": 56,
       "speaker": "Lydie",
       "original": "Urgh... But to defeat all the Remplir would be terribly difficult...",
-      "translation": "Уф... Но победить всех ремплиров будет ужасно сложно..."
+      "translation": "Уф... Но победить всех Ремплиров будет ужасно сложно..."
     },
     "ebm:yy01/event_message_yy01_090.ebm:57": {
       "source": "pack01_ebm",
@@ -111258,7 +111258,7 @@
       "index": 69,
       "speaker": "Girl in Love",
       "original": "Exactly right. This is the recipe for a special nutrient used on the Granzweit Tree.",
-      "translation": "Совершенно верно. Это рецепт особой подкормки для Дерева Гранцвейт."
+      "translation": "Совершенно верно. Это рецепт особой подкормки для Древа Гранцвайт."
     },
     "ebm:yy01/event_message_yy01_090.ebm:70": {
       "source": "pack01_ebm",
@@ -111282,7 +111282,7 @@
       "index": 72,
       "speaker": "Lydie",
       "original": "Mm. That sounds perfect! Leave the alchemy to us, okay?",
-      "translation": "Мм. Звучит идеально! Оставьте алхимию нам, хорошо?"
+      "translation": "Мм. Звучит идеально! Оставь алхимию нам, хорошо?"
     },
     "ebm:yy01/event_message_yy01_090.ebm:73": {
       "source": "pack01_ebm",
@@ -111322,7 +111322,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "Nelke! We've completed the nutrient you wanted!",
-      "translation": "Нельке! Мы приготовили нужную вам подкормку!"
+      "translation": "Нельке! Мы приготовили нужную подкормку!"
     },
     "ebm:yy01/event_message_yy01_100.ebm:1": {
       "source": "pack01_ebm",
@@ -111338,7 +111338,7 @@
       "index": 2,
       "speaker": "Girl in Love",
       "original": "This should be enough to strengthen the magic of the Granzweit Tree... Kya!",
-      "translation": "Этого должно хватить, чтобы усилить магию Дерева Гранцвейт... Кья!"
+      "translation": "Этого должно хватить, чтобы усилить магию Древа Гранцвайт... Ай!"
     },
     "ebm:yy01/event_message_yy01_100.ebm:3": {
       "source": "pack01_ebm",
@@ -111346,7 +111346,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "Woah, another earthquake?! It's bigger than before...!",
-      "translation": "Уа, ещё одно землетрясение?! Сильнее, чем раньше...!"
+      "translation": "Ух, ещё одно землетрясение?! Сильнее, чем раньше...!"
     },
     "ebm:yy01/event_message_yy01_100.ebm:4": {
       "source": "pack01_ebm",
@@ -111354,7 +111354,7 @@
       "index": 4,
       "speaker": "Lydie",
       "original": "You don't think...?! You don't think something's happened to the Granzweit Tree...?!",
-      "translation": "Вы же не думаете...?! Вы же не думаете, что с Деревом Гранцвейт что-то случилось...?!"
+      "translation": "Ты же не думаешь...?! Ты же не думаешь, что с Древом Гранцвайт что-то случилось...?!"
     },
     "ebm:yy01/event_message_yy01_100.ebm:5": {
       "source": "pack01_ebm",
@@ -111370,7 +111370,7 @@
       "index": 0,
       "speaker": "Gossiping Peddler",
       "original": "Grraaghh!",
-      "translation": "Грааа!"
+      "translation": "Гр-а-а-а!"
     },
     "ebm:yy01/event_message_yy01_110.ebm:1": {
       "source": "pack01_ebm",
@@ -111386,7 +111386,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "Uwah! Th-This is big trouble!",
-      "translation": "Уа! Э-это большая беда!"
+      "translation": "А-а-а! Э-это большая беда!"
     },
     "ebm:yy01/event_message_yy01_110.ebm:3": {
       "source": "pack01_ebm",
@@ -111394,7 +111394,7 @@
       "index": 3,
       "speaker": "Girl in Love",
       "original": "Its magic will be weakened...! Lydie, Sue! The nutrient, quickly!",
-      "translation": "Его магия ослабнет...! Лиди, Сью! Подкормку, скорее!"
+      "translation": "Его магия слабеет...! Лиди, Сью! Подкормку, скорее!"
     },
     "ebm:yy01/event_message_yy01_110.ebm:4": {
       "source": "pack01_ebm",
@@ -111410,7 +111410,7 @@
       "index": 5,
       "speaker": "Sue",
       "original": "This should do it... Woah!",
-      "translation": "Этого должно хватить... Уа!"
+      "translation": "Этого должно хватить... Ух!"
     },
     "ebm:yy01/event_message_yy01_110.ebm:6": {
       "source": "pack01_ebm",
@@ -111418,7 +111418,7 @@
       "index": 6,
       "speaker": "Dairy Farmer",
       "original": "Graaaaahhh!",
-      "translation": "Граааааа!"
+      "translation": "Гр-а-а-а!"
     },
     "ebm:yy01/event_message_yy01_110.ebm:7": {
       "source": "pack01_ebm",
@@ -111434,7 +111434,7 @@
       "index": 8,
       "speaker": "Girl in Love",
       "original": "Siegel...!",
-      "translation": "Сигель...!"
+      "translation": "Зигель...!"
     },
     "ebm:yy01/event_message_yy01_110.ebm:9": {
       "source": "pack01_ebm",
@@ -111442,7 +111442,7 @@
       "index": 9,
       "speaker": "Sue",
       "original": "Siegel...? That's the monster that the tree was holding at bay?!",
-      "translation": "Сигель...? Это монстр, которого сдерживало дерево?!"
+      "translation": "Зигель...? Это монстр, которого сдерживало дерево?!"
     },
     "ebm:yy01/event_message_yy01_110.ebm:10": {
       "source": "pack01_ebm",
@@ -111458,7 +111458,7 @@
       "index": 11,
       "speaker": "Girl in Love",
       "original": "Ugh, I made a terrible mistake... The tree had been weakened more than I realized...!",
-      "translation": "Уф, я совершила ужасную ошибку... Дерево ослабло сильнее, чем я думала...!"
+      "translation": "Уф, я совершила ужасную ошибку... Древо ослабло сильнее, чем я думала...!"
     },
     "ebm:yy01/event_message_yy01_110.ebm:12": {
       "source": "pack01_ebm",
@@ -111482,7 +111482,7 @@
       "index": 14,
       "speaker": "Girl in Love",
       "original": "Siegel is immensely strong. Tackling him head-on is a fool's errand...!",
-      "translation": "Сигель невероятно силён. Сражаться с ним в лоб — глупость...!"
+      "translation": "Зигель невероятно силён. Сражаться с ним в лоб — глупость...!"
     },
     "ebm:yy01/event_message_yy01_110.ebm:15": {
       "source": "pack01_ebm",
@@ -111514,7 +111514,7 @@
       "index": 18,
       "speaker": "Lydie",
       "original": "I refuse to go, too! We could never leave you here and save ourselves!",
-      "translation": "Я тоже отказываюсь! Мы никогда не оставим вас здесь, спасая только себя!"
+      "translation": "Я тоже отказываюсь! Мы никогда не оставим тебя здесь, спасая только себя!"
     },
     "ebm:yy01/event_message_yy01_110.ebm:19": {
       "source": "pack01_ebm",
@@ -111530,7 +111530,7 @@
       "index": 20,
       "speaker": "Sue",
       "original": "This place is important to you, right?",
-      "translation": "Это место важно для вас, верно?"
+      "translation": "Это место важно для тебя, верно?"
     },
     "ebm:yy01/event_message_yy01_110.ebm:22": {
       "source": "pack01_ebm",
@@ -111538,7 +111538,7 @@
       "index": 22,
       "speaker": "Lydie",
       "original": "Your dream is for Westwald to grow into a grand city, right?!",
-      "translation": "Вы мечтаете, чтобы Вествальд вырос в великий город, верно?!"
+      "translation": "Ты мечтаешь, чтобы Вествальд вырос в великий город, верно?!"
     },
     "ebm:yy01/event_message_yy01_110.ebm:23": {
       "source": "pack01_ebm",
@@ -111554,7 +111554,7 @@
       "index": 24,
       "speaker": "Sue",
       "original": "In that case, you have to let us defend it for you! We can't let that monster have its way!",
-      "translation": "Тогда позвольте нам защитить его за вас! Мы не дадим этому монстру добиться своего!"
+      "translation": "Тогда позвольте нам защитить его за тебя! Мы не дадим этому монстру добиться своего!"
     },
     "ebm:yy01/event_message_yy01_110.ebm:25": {
       "source": "pack01_ebm",
@@ -111562,7 +111562,7 @@
       "index": 25,
       "speaker": "Lydie",
       "original": "Exactly! We won't let any old monster ruin your dream!",
-      "translation": "Точно! Мы не позволим какому-то монстру разрушить вашу мечту!"
+      "translation": "Точно! Мы не позволим какому-то монстру разрушить твою мечту!"
     },
     "ebm:yy01/event_message_yy01_110.ebm:26": {
       "source": "pack01_ebm",
@@ -111586,7 +111586,7 @@
       "index": 28,
       "speaker": "Sue",
       "original": "I know! Let's show them what alchemists are capable of, and save this world!",
-      "translation": "Знаю! Покажем, на что способны алхимики, и спасаем этот мир!"
+      "translation": "Знаю! Покажем, на что способны алхимики, и спасём этот мир!"
     },
     "ebm:yy01/event_message_yy01_110.ebm:29": {
       "source": "pack01_ebm",
@@ -111594,7 +111594,7 @@
       "index": 29,
       "speaker": "Dairy Farmer",
       "original": "Gworrghh!",
-      "translation": "Гворргх!"
+      "translation": "Г-р-а-а-а-ах!"
     },
     "ebm:yy01/event_message_yy01_110.ebm:30": {
       "source": "pack01_ebm",
@@ -111626,7 +111626,7 @@
       "index": 0,
       "speaker": "Lydie",
       "original": "I'll never give up, no matter how long it takes...!",
-      "translation": "Я никогда не сдамся, сколько бы это ни заняло...!"
+      "translation": "Я никогда не сдамся, сколько бы это ни заняло времени...!"
     },
     "ebm:yy01/event_message_yy01_120.ebm:1": {
       "source": "pack01_ebm",
@@ -111658,7 +111658,7 @@
       "index": 4,
       "speaker": "Dairy Farmer",
       "original": "Gworrghh!",
-      "translation": "Гворргх!"
+      "translation": "Г-р-а-а-а-ах!!"
     },
     "ebm:yy01/event_message_yy01_130.ebm:0": {
       "source": "pack01_ebm",
@@ -111666,7 +111666,7 @@
       "index": 0,
       "speaker": "Dairy Farmer",
       "original": "Guarrghh...!",
-      "translation": "Гуарргх...!"
+      "translation": "Г-р-а-а-а-ах...!"
     },
     "ebm:yy01/event_message_yy01_130.ebm:1": {
       "source": "pack01_ebm",
@@ -111690,7 +111690,7 @@
       "index": 3,
       "speaker": "Girl in Love",
       "original": "Th-That was amazing...! I can't believe you could beat Siegel...!",
-      "translation": "Э-это было потрясающе...! Не могу поверить, что вы победили Сигеля...!"
+      "translation": "Э-это было потрясающе...! Не могу поверить, что вы победили Зигеля...!"
     },
     "ebm:yy01/event_message_yy01_130.ebm:4": {
       "source": "pack01_ebm",
@@ -111698,7 +111698,7 @@
       "index": 4,
       "speaker": "Lydie",
       "original": "Hehe. Well, we were motivated. It was for you!",
-      "translation": "Хе-хе. Ну, у нас была мотивация. Это было ради вас!"
+      "translation": "Хе-хе. Ну, у нас была мотивация. Это было ради тебя!"
     },
     "ebm:yy01/event_message_yy01_130.ebm:5": {
       "source": "pack01_ebm",
@@ -111714,7 +111714,7 @@
       "index": 6,
       "speaker": "Sue",
       "original": "Yes! To protect your precious Westwald!",
-      "translation": "Да! Чтобы защитить ваш драгоценный Вествальд!"
+      "translation": "Да! Чтобы защитить твой драгоценный Вествальд!"
     },
     "ebm:yy01/event_message_yy01_130.ebm:7": {
       "source": "pack01_ebm",
@@ -111754,7 +111754,7 @@
       "index": 11,
       "speaker": "Lydie",
       "original": "W-Woah! The tree... It's glowing...!",
-      "translation": "У-уа! Дерево... Оно светится...!"
+      "translation": "Ого! Дерево... Оно светится...!"
     },
     "ebm:yy01/event_message_yy01_130.ebm:12": {
       "source": "pack01_ebm",
@@ -111762,7 +111762,7 @@
       "index": 12,
       "speaker": "Sue",
       "original": "Wh-What's happening?! It's not Siegel again, is it...?!",
-      "translation": "Ч-что происходит?! Это снова не Сигель...?!"
+      "translation": "Ч-что происходит?! Это снова Зигель...?!"
     },
     "ebm:yy01/event_message_yy01_130.ebm:13": {
       "source": "pack01_ebm",
@@ -111778,7 +111778,7 @@
       "index": 14,
       "speaker": "Sue",
       "original": "The Granzweit Tree... Is it bearing fruit?!",
-      "translation": "Дерево Гранцвейт... Оно приносит плоды?!"
+      "translation": "Древо Гранцвайт... Оно приносит плоды?!"
     },
     "ebm:yy01/event_message_yy01_130.ebm:15": {
       "source": "pack01_ebm",
@@ -111802,7 +111802,7 @@
       "index": 17,
       "speaker": "Lydie",
       "original": "Isn't this wonderful, Sue?! But why would it produce fruit so suddenly? Because of Siegel?",
-      "translation": "Разве это не чудесно, Сью?! Но почему оно так внезапно принесло плоды? Из-за Сигеля?"
+      "translation": "Разве это не чудесно, Сью?! Но почему оно так внезапно принесло плоды? Из-за Зигеля?"
     },
     "ebm:yy01/event_message_yy01_130.ebm:18": {
       "source": "pack01_ebm",
@@ -111818,7 +111818,7 @@
       "index": 19,
       "speaker": "Girl in Love",
       "original": "But with Siegel defeated, the nutrient's effects were felt elsewhere.",
-      "translation": "Но после поражения Сигеля действие подкормки проявилось иначе."
+      "translation": "Но после поражения Зигеля действие подкормки проявилось иначе."
     },
     "ebm:yy01/event_message_yy01_130.ebm:20": {
       "source": "pack01_ebm",
@@ -111826,7 +111826,7 @@
       "index": 20,
       "speaker": "Girl in Love",
       "original": "With nutrients coursing through its sap, the tree produced fruit instead. Hehe...",
-      "translation": "Питательные вещества пошли по соку — и дерево вместо этого принесло плоды. Хе-хе..."
+      "translation": "Питательные вещества пошли по стволу — и дерево вместо этого принесло плоды. Хе-хе..."
     },
     "ebm:yy01/event_message_yy01_130.ebm:21": {
       "source": "pack01_ebm",
@@ -111866,7 +111866,7 @@
       "index": 25,
       "speaker": "Lydie",
       "original": "The fruit...?! Are you sure we can eat it?!",
-      "translation": "Плоды...?! Вы уверены, что нам можно их съесть?!"
+      "translation": "Плоды...?! Ты уверена, что нам можно их съесть?!"
     },
     "ebm:yy01/event_message_yy01_130.ebm:26": {
       "source": "pack01_ebm",
@@ -111874,7 +111874,7 @@
       "index": 26,
       "speaker": "Sue",
       "original": "That's right! We've hardly helped with the town at all yet...",
-      "translation": "Верно! С городом мы пока почти не помогли..."
+      "translation": "Верно! В городе мы пока почти не помогли..."
     },
     "ebm:yy01/event_message_yy01_130.ebm:27": {
       "source": "pack01_ebm",
@@ -111882,7 +111882,7 @@
       "index": 27,
       "speaker": "Girl in Love",
       "original": "Without you, the town would have been swallowed whole by Siegel.",
-      "translation": "Без вас Сигель поглотил бы город целиком."
+      "translation": "Без вас Зигель поглотил бы город целиком."
     },
     "ebm:yy01/event_message_yy01_130.ebm:28": {
       "source": "pack01_ebm",
@@ -111994,7 +111994,7 @@
       "index": 41,
       "speaker": "Lydie",
       "original": "Absolutely, Sue! We'll give it all we've got!",
-      "translation": "Абсолютно, Сью! Выложимся на полную!"
+      "translation": "Верно, Сью! Выложимся на полную!"
     },
     "ebm:yy01/event_message_yy01_130.ebm:42": {
       "source": "pack01_ebm",
@@ -112026,7 +112026,7 @@
       "index": 45,
       "speaker": "Lydie",
       "original": "We're ready to do much more! Just tell us what you need, Nelke!",
-      "translation": "Мы готовы сделать гораздо больше! Просто скажите, что нужно, Нельке!"
+      "translation": "Мы готовы сделать гораздо больше! Просто скажи, что нужно, Нельке!"
     },
     "ebm:yy01/event_message_yy01_130.ebm:46": {
       "source": "pack01_ebm",
@@ -112082,7 +112082,7 @@
       "index": 52,
       "speaker": "Sue",
       "original": "Absolutely... Hang on! Wait just a minute!",
-      "translation": "Абсолютно... Погоди! Подожди минутку!"
+      "translation": "Верно... Погоди! Подожди минутку!"
     },
     "ebm:yy01/event_message_yy01_130.ebm:53": {
       "source": "pack01_ebm",
@@ -112090,7 +112090,7 @@
       "index": 53,
       "speaker": "Sue",
       "original": "Nelke, what did you mean when you said we were among the youngest \"of all the alchemists\"...",
-      "translation": "Нельке, что вы имели в виду, когда сказали, что мы были одними из самых юных «из всех алхимиков»..."
+      "translation": "Нельке, что ты имела в виду, когда сказала, что мы были одними из самых юных «из всех алхимиков»..."
     },
     "ebm:yy01/event_message_yy01_130.ebm:54": {
       "source": "pack01_ebm",
@@ -112098,7 +112098,7 @@
       "index": 54,
       "speaker": "Lydie",
       "original": "Oh, yeah. Does that mean other alchemists helped you with Westwald's development?",
-      "translation": "О да. Значит, другие алхимики тоже помогали вам развивать Вествальд?"
+      "translation": "О да. Значит, другие алхимики тоже помогали тебе развивать Вествальд?"
     },
     "ebm:yy01/event_message_yy01_130.ebm:55": {
       "source": "pack01_ebm",
@@ -112138,7 +112138,7 @@
       "index": 59,
       "speaker": "Lydie",
       "original": "From other worlds?! Th-That's unbelievable... That really happened...?",
-      "translation": "Из других миров?! Э-это невероятно... Это и правда было...?"
+      "translation": "Из других миров?! Э-это невероятно... Это правда было...?"
     },
     "ebm:yy01/event_message_yy01_130.ebm:60": {
       "source": "pack01_ebm",
@@ -112194,7 +112194,7 @@
       "index": 66,
       "speaker": "Girl in Love",
       "original": "I swore on the Granzweit Tree that I would make this town as great as it was in its own world.",
-      "translation": "Я поклялась Деревом Гранцвейт сделать этот город таким же великим, каким он был в своём мире."
+      "translation": "Я поклялась Древом Гранцвайт сделать этот город таким же великим, каким он был в своём мире."
     },
     "ebm:yy01/event_message_yy01_130.ebm:67": {
       "source": "pack01_ebm",
@@ -112250,7 +112250,7 @@
       "index": 2,
       "speaker": "Sue",
       "original": "Okay, I get it! You can leave everything to us!",
-      "translation": "Хорошо, поняла! Можете оставить всё нам!"
+      "translation": "Хорошо, поняла! Можешь оставить всё нам!"
     },
     "ebm:yy01/event_message_yy01_140.ebm:3": {
       "source": "pack01_ebm",
@@ -112282,7 +112282,7 @@
       "index": 2,
       "speaker": "Lydie",
       "original": "Thank you! Please don't hesitate to ask if anything else comes up.",
-      "translation": "Спасибо! Не стесняйтесь обращаться, если появится что-то ещё."
+      "translation": "Спасибо! Не стесняйся обращаться, если появится что-то ещё."
     },
     "ebm:yy01/event_message_yy01_150.ebm:3": {
       "source": "pack01_ebm",
@@ -112290,7 +112290,7 @@
       "index": 3,
       "speaker": "Sue",
       "original": "Wow, thank you so much! Please feel free to ask if you have any more requests!",
-      "translation": "Ух ты, огромное спасибо! Не стесняйтесь, если будут ещё заказы!"
+      "translation": "Ух ты, огромное спасибо! Не стесняйся, если будут ещё заказы!"
     },
     "ebm:yy01/event_message_yy01_150.ebm:4": {
       "source": "pack01_ebm",
@@ -127965,7 +127965,7 @@
       "file": "str_dlc_bgm.xml",
       "string_no": "3997720",
       "original": "Boss Battle: Remplir Core",
-      "translation": "Бой с боссом: Ядро Ремплир"
+      "translation": "Бой с боссом: Ядро Ремплира"
     },
     "pack02:3997721": {
       "source": "pack02_text_en",
@@ -128154,7 +128154,7 @@
       "file": "str_dlc_bgm.xml",
       "string_no": "3997747",
       "original": "Boss Battle: Remplir Core BGM",
-      "translation": "Музыка при битве с Ядром Ремплир"
+      "translation": "Музыка при битве с Ядром Ремплира"
     },
     "pack02:3997748": {
       "source": "pack02_text_en",
@@ -128343,7 +128343,7 @@
       "file": "str_dlc_bgm.xml",
       "string_no": "3997774",
       "original": "Change Boss Battle: Remplir Core BGM",
-      "translation": "Изменение музыки в бою с Ядром Ремплир"
+      "translation": "Изменение музыки в бою с Ядром Ремплира"
     },
     "pack02:3997775": {
       "source": "pack02_text_en",
@@ -138122,7 +138122,7 @@
       "file": "str_event_chara_name.xml",
       "string_no": "262211",
       "original": "Remplir Core",
-      "translation": "Ядро Ремплир"
+      "translation": "Ядро Ремплира"
     },
     "pack02:262212": {
       "source": "pack02_text_en",
@@ -138948,7 +138948,7 @@
       "file": "str_event_chara_name.xml",
       "string_no": "262340",
       "original": "Girl in Love",
-      "translation": "Влюблённая девушка"
+      "translation": "Увлечённая девушка"
     },
     "pack02:262341": {
       "source": "pack02_text_en",
@@ -144842,7 +144842,7 @@
       "file": "str_fm_info.xml",
       "string_no": "917626",
       "original": "Granzweit Tree",
-      "translation": "Дерево Гранцвейта"
+      "translation": "Древо Гранцвайт"
     },
     "pack02:917627": {
       "source": "pack02_text_en",
@@ -187122,7 +187122,7 @@
       "file": "str_library_map.xml",
       "string_no": "3735618",
       "original": "[Lydie’s Memo]^00A world dominated by the Granzweit Tree and the nearby town of Westwald. Its administrator, Nelke, is a lovely girl.",
-      "translation": "[Записка Лидии]^00Мир, где главенствует Дерево Гранцвайт и ближайший город Вествальд. Его администратор, Нельке, — очаровательная девочка."
+      "translation": "[Записка Лидии]^00Мир, где главенствует Древо Гранцвайт и ближайший город Вествальд. Его администратор, Нельке, — очаровательная девочка."
     },
     "pack02:3670017": {
       "source": "pack02_text_en",
@@ -187290,7 +187290,7 @@
       "file": "str_library_monster.xml",
       "string_no": "3670040",
       "original": "“The Remplir Core... It’s capable of destroying the mysterious paintings...”^00“I don’t know if it can distinguish between good and evil. However, it is definitely one of our enemies!”",
-      "translation": "«Ядро Ремплир... Оно способно уничтожать таинственные картины...»^00«Не знаю, различает ли оно добро и зло. Но это определённо один из наших врагов!»"
+      "translation": "«Ядро Ремплира... Оно способно уничтожать таинственные картины...»^00«Не знаю, различает ли оно добро и зло. Но это определённо один из наших врагов!»"
     },
     "pack02:3670041": {
       "source": "pack02_text_en",
@@ -188200,7 +188200,7 @@
       "file": "str_library_monster.xml",
       "string_no": "3670173",
       "original": "&quot;The monster sealed beneath the Granzweit Tree by the great sage and the alchemists.&quot;^00&quot;But we beat it. So what, is it just a mindless ball of muscle?&quot;",
-      "translation": "«Монстр, запечатанный под Деревом Гранцвайт великим мудрецом и алхимиками.»^00«Но мы его победили. Так что он просто безмозглый комок мышц?»"
+      "translation": "«Монстр, запечатанный под Древом Гранцвайт великим мудрецом и алхимиками.»^00«Но мы его победили. Так что он просто безмозглый комок мышц?»"
     },
     "pack02:1179649": {
       "source": "pack02_text_en",
@@ -193184,7 +193184,7 @@
       "file": "str_npc_s04_mess.xml",
       "string_no": "33685517",
       "original": "Lydie, Sue! I beg you, for me, too - you have to destroy the Remplir Core!",
-      "translation": "Лидия, Сью! Умоляю вас, ради меня тоже — вы должны уничтожить Ядро Ремплир!"
+      "translation": "Лидия, Сью! Умоляю вас, ради меня тоже — вы должны уничтожить Ядро Ремплира!"
     },
     "pack02:33685518": {
       "source": "pack02_text_en",
@@ -193688,7 +193688,7 @@
       "file": "str_npc_s05_mess.xml",
       "string_no": "33488920",
       "original": "If we all join together, we can do this! It’s time to put our plan in motion: “The great plan to destroy the Remplir Core”!",
-      "translation": "Если мы все объединимся, у нас получится! Пора привести в действие наш план: «Великий план по уничтожению Ядра Ремплир»!"
+      "translation": "Если мы все объединимся, у нас получится! Пора привести в действие наш план: «Великий план по уничтожению Ядра Ремплира»!"
     },
     "pack02:33488921": {
       "source": "pack02_text_en",
@@ -193996,7 +193996,7 @@
       "file": "str_npc_s06_mess.xml",
       "string_no": "33751054",
       "original": "If you can destroy this Remplir Core, then you can save your mother? Then you have no choice but to do it.",
-      "translation": "Если вы уничтожите это Ядро Ремплир, сможете спасти мать? Тогда у вас нет выбора — надо сделать это."
+      "translation": "Если вы уничтожите это Ядро Ремплира, сможете спасти мать? Тогда у вас нет выбора — надо сделать это."
     },
     "pack02:33751055": {
       "source": "pack02_text_en",
@@ -194290,7 +194290,7 @@
       "file": "str_npc_s07_mess.xml",
       "string_no": "33816585",
       "original": "I will do all I can to help, so that two such bright hopes for the future are not lost. Let us go forth, and destroy the Remplir Core.",
-      "translation": "Я сделаю всё возможное, чтобы две такие яркие надежды будущего не погибли. Вперёд — уничтожим Ядро Ремплир."
+      "translation": "Я сделаю всё возможное, чтобы две такие яркие надежды будущего не погибли. Вперёд — уничтожим Ядро Ремплира."
     },
     "pack02:33816586": {
       "source": "pack02_text_en",
@@ -196145,14 +196145,14 @@
       "file": "str_npc_s118_mess.xml",
       "string_no": "34930696",
       "original": "To the west you can see the Granzweit Tree, symbol of the town of Westwald.",
-      "translation": "На западе видно Дерево Гранцвайт, символ города Вествальд."
+      "translation": "На западе видно Древо Гранцвайт, символ города Вествальд."
     },
     "pack02:34930697": {
       "source": "pack02_text_en",
       "file": "str_npc_s118_mess.xml",
       "string_no": "34930697",
       "original": "To the west you can see the Granzweit Tree... But I don't remember it glowing like that...",
-      "translation": "На западе видно Дерево Гранцвайт... Но я не помню, чтобы оно так светилось..."
+      "translation": "На западе видно Древо Гранцвайт... Но я не помню, чтобы оно так светилось..."
     },
     "pack02:34930698": {
       "source": "pack02_text_en",
@@ -199106,7 +199106,7 @@
       "file": "str_npc_s17_mess.xml",
       "string_no": "33226772",
       "original": "Let’s not get all emotional. We’ve known each other for a long time now... We have to destroy the Remplir Core!",
-      "translation": "Давайте без сантиментов. Мы знаем друг друга уже давно... Нужно уничтожить Ядро Ремплир!"
+      "translation": "Давайте без сантиментов. Мы знаем друг друга уже давно... Нужно уничтожить Ядро Ремплира!"
     },
     "pack02:33226773": {
       "source": "pack02_text_en",
@@ -201423,7 +201423,7 @@
       "file": "str_npc_s44_mess.xml",
       "string_no": "33554440",
       "original": "The “Remplir Core”... That’s the heart of the problem... But I know you two won’t be beaten.",
-      "translation": "«Ядро Ремплир»... Вот в чём суть проблемы... Но я знаю, вас обеих не одолеть."
+      "translation": "«Ядро Ремплира»... Вот в чём суть проблемы... Но я знаю, вас обеих не одолеть."
     },
     "pack02:33554441": {
       "source": "pack02_text_en",
@@ -205679,7 +205679,7 @@
       "file": "str_race_name.xml",
       "string_no": "20119575",
       "original": "Remplir Core",
-      "translation": "Ядро Ремплир"
+      "translation": "Ядро Ремплира"
     },
     "pack02:20119576": {
       "source": "pack02_text_en",
@@ -212798,7 +212798,7 @@
       "file": "str_summary_chara_checkbox.xml",
       "string_no": "6488174",
       "original": "&lt;CLGR&gt;- Let's head to the Granzweit Tree in the new painting.&lt;CLNR&gt;^00　↑Nelke's so pretty and nice, just like me! ^00　　　　　　　　　　　　　　　　[Sue]^00　↑Ha! You're as different as chalk and Puni!^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "&lt;CLGR&gt;- Давай отправимся к Дереву Гранцвейта в новой картине.&lt;CLNR&gt;^00　↑Нельке такая красивая и милая — прямо как я! ^00　　　　　　　　　　　　　　　[Сью]^00　↑Ха! Вы разные, как мел и пуни!^00　　　　　　　　　　　　　　[Лиди]"
+      "translation": "&lt;CLGR&gt;- Давай отправимся к Древу Гранцвайт в новой картине.&lt;CLNR&gt;^00　↑Нельке такая красивая и милая — прямо как я! ^00　　　　　　　　　　　　　　　[Сью]^00　↑Ха! Вы разные, как мел и пуни!^00　　　　　　　　　　　　　　[Лиди]"
     },
     "pack02:6488175": {
       "source": "pack02_text_en",
@@ -212826,14 +212826,14 @@
       "file": "str_summary_chara_checkbox.xml",
       "string_no": "6488178",
       "original": "&lt;CLGR&gt;- Let's head to the Granzweit Tree in the new painting.&lt;CLNR&gt;^00　↑I have a bad feeling about this…^00　　　　　　　　　　　　　　　[Lydie]^00　↑Yes... We'll have to be ready for anything. ^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "&lt;CLGR&gt;- Давай отправимся к Дереву Гранцвейта в новой картине.&lt;CLNR&gt;^00　↑У меня дурное предчувствие…^00　　　　　　　　　　　　　　[Лиди]^00　↑Да... Нужно быть готовыми ко всему. ^00　　　　　　　　　　　　　　　[Сью]"
+      "translation": "&lt;CLGR&gt;- Давай отправимся к Древу Гранцвайт в новой картине.&lt;CLNR&gt;^00　↑У меня дурное предчувствие…^00　　　　　　　　　　　　　　[Лиди]^00　↑Да... Нужно быть готовыми ко всему. ^00　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6488179": {
       "source": "pack02_text_en",
       "file": "str_summary_chara_checkbox.xml",
       "string_no": "6488179",
       "original": "&lt;CLGR&gt;- Let's defeat Siegel in the Granzweit Tree.&lt;CLNR&gt;^00　↑Who would have thought such a terrifying monster lay beneath the tree…^00　　　　　　　　　　　　　　　[Lydie]^00　↑We'll beat it, Lydie!^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "&lt;CLGR&gt;- Давай победим Зигеля у Дерева Гранцвейта.&lt;CLNR&gt;^00　↑Кто бы мог подумать, что под деревом таится такой ужасный монстр…^00　　　　　　　　　　　　　　[Лиди]^00　↑Мы его одолеем, Лиди!^00　　　　　　　　　　　　　　　[Сью]"
+      "translation": "&lt;CLGR&gt;- Давай победим Зигеля у Древа Гранцвайт.&lt;CLNR&gt;^00　↑Кто бы мог подумать, что под деревом таится такой ужасный монстр…^00　　　　　　　　　　　　　　[Лиди]^00　↑Мы его одолеем, Лиди!^00　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6356993": {
       "source": "pack02_text_en",
@@ -213337,14 +213337,14 @@
       "file": "str_summary_chara_text.xml",
       "string_no": "6357064",
       "original": "Just as we delivered the nutrient to Nelke, a massive earthquake struck! Something may have happened to the Granzweit Tree...! We'd better hurry and check it out...!^00　　　　　　　　　　　　　　　[Lydie]",
-      "translation": "Как только мы доставили питательные вещества Нельке, произошло сильное землетрясение! Возможно, что-то случилось с Деревом Гранцвейта...! Нам лучше поторопиться и проверить...!^00　　　　　　　　　　　　　　　[Лиди]"
+      "translation": "Как только мы доставили питательные вещества Нельке, произошло сильное землетрясение! Возможно, что-то случилось с Древом Гранцвайт...! Нам лучше поторопиться и проверить...!^00　　　　　　　　　　　　　　　[Лиди]"
     },
     "pack02:6357065": {
       "source": "pack02_text_en",
       "file": "str_summary_chara_text.xml",
       "string_no": "6357065",
       "original": "Weakened by the Remplir, the tree's magic can no longer hold it at bay... The terrible monster Siegel has been unleashed! We have to do all we can to stop it, or this world is doomed!^00　　　　　　　　　　　　　　　　[Sue]",
-      "translation": "Ослабленное Ремплиром магия дерева больше не может сдерживать его... Ужасный монстр Сигел выпущен на волю! Мы должны сделать все возможное, чтобы остановить это, иначе этот мир обречен!^00　　　　　　　　　　　　　　　　[Сью]"
+      "translation": "Ослабленное Ремплиром магия дерева больше не может сдерживать его... Ужасный монстр Зигель выпущен на волю! Мы должны сделать все возможное, чтобы остановить это, иначе этот мир обречен!^00　　　　　　　　　　　　　　　　[Сью]"
     },
     "pack02:6291457": {
       "source": "pack02_text_en",
